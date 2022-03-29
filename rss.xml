@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[波兰政府发言人：波兰将禁止进口俄罗斯煤炭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8845214.d.html</link>
+            <guid>2604977</guid>
+            <pubDate>Tue, 29 Mar 2022 13:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：俄罗斯代表团在俄乌谈判结束后离开伊斯坦布尔，下一轮会谈的日期和地点尚未确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8844975.d.html</link>
+            <guid>2604975</guid>
+            <pubDate>Tue, 29 Mar 2022 13:37:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄白外长通电话 探讨俄在乌特别军事行动进程】俄罗斯外长拉夫罗夫与白俄罗斯外长马克伊进行了电话交谈，双方探讨了俄罗斯在乌克兰的特别军事行动的进程，以及俄白两国接触的日程表和在集安组织框架下的活动。拉夫罗夫表示，俄罗斯赞赏拒绝参与非法对俄制裁的国家的立场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8844932.d.html</link>
+            <guid>2604973</guid>
+            <pubDate>Tue, 29 Mar 2022 13:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰天然气输送网络负责人表示，到10月底，乌克兰需要积累170亿立方米天然气，“这是一项艰巨的任务”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1288519.d.html</link>
+            <guid>2604972</guid>
+            <pubDate>Tue, 29 Mar 2022 13:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【容百科技：2021年净利同比增327.59% 拟10派2.05元】容百科技公告，2021年净利润9.11亿元，同比增327.59%，拟10派2.05元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1288482.d.html</link>
+            <guid>2604971</guid>
+            <pubDate>Tue, 29 Mar 2022 13:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道指开盘涨0.9%，标普500涨0.8%，纳指涨1.0%】特斯拉涨1.7%，分析师指出，拆股将成为特斯拉股价持续上行的催化剂。尼尔森涨21.8%，一财团接近达成以28美元/股的价格收购尼尔森。QuantumScape涨3.7%，保时捷正与其合作开发电动版911车型。36氪涨6.3%，8个季度以来首次盈利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8844121.d.html</link>
+            <guid>2604966</guid>
+            <pubDate>Tue, 29 Mar 2022 13:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰天然气输送网络负责人表示，天然气输送网络是稳定的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8844083.d.html</link>
+            <guid>2604965</guid>
+            <pubDate>Tue, 29 Mar 2022 13:30:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄乌第五轮谈判乌方代表团：乌克兰希望获得安全担保】俄乌代表团在土耳其伊斯坦布尔举行新一轮面对面谈判。当天的会谈结束后，乌克兰代表团发表声明说，希望包括土耳其、德国、加拿大、波兰、以色列在内的多个国家成为安全保障国。乌克兰与俄罗斯的协议将与安全保障国一起签署。如果乌克兰遭到俄罗斯的袭击，乌方希望得到安全保障国的支持。但是俄乌尚未就安全保障国事宜达成一致。
 
@@ -296,65 +338,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835606.d.html</link>
             <guid>2604878</guid>
             <pubDate>Tue, 29 Mar 2022 12:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 英飞特公告，2021年净利润1.82亿元，同比增12.56%，拟10派0.79元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835357.d.html</link>
-            <guid>2604872</guid>
-            <pubDate>Tue, 29 Mar 2022 12:21:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤桂股份：2021年净利增314.02%至2.6亿元 拟10派1.36元】粤桂股份公告，2021年公司实现营业总收入30.59亿元，同比下降4.12%；归属于上市公司股东的净利润2.598亿元，同比增长314.02%；归属于上市公司股东的扣除非经常性损益的净利润2.42亿元；基本每股收益0.3887元；拟向全体股东每10股派发现金红利1.36元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835346.d.html</link>
-            <guid>2604871</guid>
-            <pubDate>Tue, 29 Mar 2022 12:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【通鼎互联：拟2.34亿元转让海四达电源17.76%股权】通鼎互联公告，公司作为海四达电源的外部参股股东，拟将目前所持有17.76%股权（合计5034万股）全部转让给海四达集团，转让总价为2.34亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1279318.d.html</link>
-            <guid>2604870</guid>
-            <pubDate>Tue, 29 Mar 2022 12:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长：星期二的会谈是乌克兰和俄罗斯谈判中最重要的进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278996.d.html</link>
-            <guid>2604869</guid>
-            <pubDate>Tue, 29 Mar 2022 12:18:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外交部长表示乐见乌克兰和俄罗斯稍微相向而行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834798.d.html</link>
-            <guid>2604868</guid>
-            <pubDate>Tue, 29 Mar 2022 12:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其外长：这场冲突必须结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834668.d.html</link>
-            <guid>2604867</guid>
-            <pubDate>Tue, 29 Mar 2022 12:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广州市委原常委、政法委原书记谢晓丹接受审查调查】据广东省纪委监委消息：广州市委原常委、政法委原书记谢晓丹涉嫌严重违纪违法，目前正接受广东省纪委监委纪律审查和监察调查。]]></title>
-            <guid>2604866</guid>
-            <pubDate>Tue, 29 Mar 2022 12:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT小麦日内跌幅扩大至6％，跌破10美元/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278549.d.html</link>
-            <guid>2604865</guid>
-            <pubDate>Tue, 29 Mar 2022 12:15:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华新水泥：2021年度净利同比下降4.74% 拟10派10元】华新水泥发布2021年年度报告，实现营业收入324.64亿元，同比增长10.59%；归母净利润53.64亿元，同比下降4.74%；基本每股收益2.58元，拟向全体股东1元/股(含税)分配现金红利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834201.d.html</link>
-            <guid>2604864</guid>
-            <pubDate>Tue, 29 Mar 2022 12:13:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋能源部：欧佩克旨在确保石油供应是可负担的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278199.d.html</link>
-            <guid>2604863</guid>
-            <pubDate>Tue, 29 Mar 2022 12:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
