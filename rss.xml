@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:58:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 华兰生物公告，2021年净利润12.99亿元，同比下降19.48%，拟10派2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1276237.d.html</link>
+            <guid>2604837</guid>
+            <pubDate>Tue, 29 Mar 2022 11:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德方纳米：2021年实现净利润8亿元，上年同期亏损2840万元，拟10转8派10元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1276218.d.html</link>
+            <guid>2604836</guid>
+            <pubDate>Tue, 29 Mar 2022 11:58:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【鼎通科技：2021年度净利同比增长50.39% 拟10派6元】鼎通科技披露2021年年度报告，报告期内，公司实现营业收入5.68亿元，同比增长58.76%；归母净利润1.09亿元，同比增长50.39%；基本每股收益1.28元，年报推每10股派发现金红利6.00元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8832132.d.html</link>
+            <guid>2604835</guid>
+            <pubDate>Tue, 29 Mar 2022 11:58:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【海南单体容量最大的光伏+储能项目完成储能吊装】海南大唐文昌翁田农光互补50MWh储能示范项目是大唐海南能源开发有限公司（简称“大唐海南”）与华为数字能源技术有限公司（简称“华为数字能源”）联合的标杆之作。该农光互补+储能项目是海南自贸港目前单体容量最大的光伏+储能项目，也是文昌市“十四五”第一个开工的光伏项目。25个华为LUNA2000-2.0MWH储能集装箱仅用时3天即全部吊装完成。目前，该项目正在进行布线安装、技术调试与检测等一系列工作，预计项目将于4月完成交付。]]></title>
             <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275797.d.html</link>
@@ -417,24 +435,6 @@
             <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8823357.d.html</link>
             <guid>2604738</guid>
             <pubDate>Tue, 29 Mar 2022 10:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：再往后，我们预计美国液化天然气产量和出口之间的平衡将推动美国的天然气价格周期。我们看到，今年美国的天然气行业正处于危险的边缘。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8823304.d.html</link>
-            <guid>2604737</guid>
-            <pubDate>Tue, 29 Mar 2022 10:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 时代电气公告，2021年净利润15.25亿元，同比下降18.49%，拟10派4.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1266928.d.html</link>
-            <guid>2604735</guid>
-            <pubDate>Tue, 29 Mar 2022 10:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：仍有10万人被围困在马里乌波尔市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8822622.d.html</link>
-            <guid>2604734</guid>
-            <pubDate>Tue, 29 Mar 2022 10:51:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
