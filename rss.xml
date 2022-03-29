@@ -4,437 +4,357 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[ 华兰生物公告，2021年净利润12.99亿元，同比下降19.48%，拟10派2元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1276237.d.html</link>
-            <guid>2604837</guid>
-            <pubDate>Tue, 29 Mar 2022 11:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德方纳米：2021年实现净利润8亿元，上年同期亏损2840万元，拟10转8派10元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1276218.d.html</link>
-            <guid>2604836</guid>
-            <pubDate>Tue, 29 Mar 2022 11:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【鼎通科技：2021年度净利同比增长50.39% 拟10派6元】鼎通科技披露2021年年度报告，报告期内，公司实现营业收入5.68亿元，同比增长58.76%；归母净利润1.09亿元，同比增长50.39%；基本每股收益1.28元，年报推每10股派发现金红利6.00元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8832132.d.html</link>
-            <guid>2604835</guid>
-            <pubDate>Tue, 29 Mar 2022 11:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南单体容量最大的光伏+储能项目完成储能吊装】海南大唐文昌翁田农光互补50MWh储能示范项目是大唐海南能源开发有限公司（简称“大唐海南”）与华为数字能源技术有限公司（简称“华为数字能源”）联合的标杆之作。该农光互补+储能项目是海南自贸港目前单体容量最大的光伏+储能项目，也是文昌市“十四五”第一个开工的光伏项目。25个华为LUNA2000-2.0MWH储能集装箱仅用时3天即全部吊装完成。目前，该项目正在进行布线安装、技术调试与检测等一系列工作，预计项目将于4月完成交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275797.d.html</link>
-            <guid>2604830</guid>
-            <pubDate>Tue, 29 Mar 2022 11:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大湖股份：控股子公司筹建康复医院和护理院】大湖股份3月29日晚公告，公司控股子公司东方华康及关联方中康聚龙拟共同投资设立金贤康复医院公司和奉翔护理院公司。两公司注册资本均为3000万元，东方华康和中康聚龙在两公司的持股比例均为90%和10%。此次投资设立金贤康复医院公司和奉翔护理院公司，将用于筹建康复医院和护理院。公司表示，此次对外投资有助于公司健康医疗服务的连锁布局和规模化发展，也意味着向大健康战略布局又进一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275677.d.html</link>
-            <guid>2604827</guid>
-            <pubDate>Tue, 29 Mar 2022 11:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【九鼎投资：拟筹划重大事项 股票停牌】九鼎投资公告，公司拟筹划重大事项，公司股票自3月29日至3月30日，停牌不超过2日，待公司披露相关公告后复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275586.d.html</link>
-            <guid>2604825</guid>
-            <pubDate>Tue, 29 Mar 2022 11:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄国防部副部长：决定数倍减少在基辅和切尔尼戈夫方面的军事行动】俄罗斯国防部副部长福明表示，俄国防部决定数倍减少在基辅和切尔尼戈夫方面的军事行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275521.d.html</link>
-            <guid>2604824</guid>
-            <pubDate>Tue, 29 Mar 2022 11:52:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【刚果（金）成为东共体新成员】在3月29日举行的第十九届东非共同体（简称：东共体）特别首脑会议上，刚果（金）成为东共体的新成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275376.d.html</link>
-            <guid>2604821</guid>
-            <pubDate>Tue, 29 Mar 2022 11:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华工科技：华工正源拟向黄冈正源增资1.17亿元】华工科技公告，子公司华工正源拟以自有资金5500万元及其所持有的正源光学100%股权(按正源光学经审计净资产值6162.88万元作价)向黄冈正源增资约1.17亿元。增资完成后，黄冈正源将持有正源光学100%股权，其注册资本将由1000万元增资至1亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1275073.d.html</link>
-            <guid>2604820</guid>
-            <pubDate>Tue, 29 Mar 2022 11:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：将停止在基辅和切尔尼戈夫附近的军事活动，为俄乌对话创造条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8830807.d.html</link>
-            <guid>2604815</guid>
-            <pubDate>Tue, 29 Mar 2022 11:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯代表团团长梅丁斯基：俄乌会谈是具建设性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1274425.d.html</link>
-            <guid>2604812</guid>
-            <pubDate>Tue, 29 Mar 2022 11:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表表示，已经有足够的基础举行泽连斯基和普京的会晤 。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8830281.d.html</link>
-            <guid>2604811</guid>
-            <pubDate>Tue, 29 Mar 2022 11:44:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利计划将2022年赤字与GDP之比确定为5.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8830054.d.html</link>
-            <guid>2604810</guid>
-            <pubDate>Tue, 29 Mar 2022 11:42:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表表示，这一切都由俄罗斯方面负责，我们等待他们的正式答复。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1274079.d.html</link>
-            <guid>2604809</guid>
-            <pubDate>Tue, 29 Mar 2022 11:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国财政部副部长表示美国正在计划制裁俄罗斯供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1273822.d.html</link>
-            <guid>2604807</guid>
-            <pubDate>Tue, 29 Mar 2022 11:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：意大利将把2022年GDP增速预期从去年9月份的4.7%下调至2.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8829813.d.html</link>
-            <guid>2604806</guid>
-            <pubDate>Tue, 29 Mar 2022 11:40:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部：对胡塞武装最高政治委员会主席提出的和平倡议表示欢迎】伊朗外交部发言人哈提卜扎德发表声明说，对近期也门胡塞武装最高政治委员会主席提出的和平倡议表示欢迎。他表示，真诚提出的和平计划传达出强烈的信号，即结束战争、解除压迫性封锁和政治途径解决也门危机的前景。哈提卜扎德表示，如果该倡议得到认真和积极的互动，它可以为结束当前的战争铺平道路。他提到，以四月初为节点，届时希望外界能够看到各方考虑也门人道主义危机，以互换囚犯为手段，实现也门冲突结束并达成民族和解。据了解，当地时间26日，在也门战乱爆发7周年之际，也门胡塞武装宣布将开始为期三天的单方面停火，内容包括停止针对沙特的陆海空弹道导弹和无人机袭击，停止战场上的一切进攻行动等。此外胡塞武装表示，如果该举措得到沙特的积极回应，则胡塞武装愿意将为期三天的停火承诺变为永久性承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8829759.d.html</link>
-            <guid>2604805</guid>
-            <pubDate>Tue, 29 Mar 2022 11:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今晚9点15分上海电视台将播放重要通告？官方辟谣：没有】从3月29日下午起，一条“今晚9点15分上海发布有重要通告发布，请各媒体（含新媒体）及时转刊播。电视台做好通告板准备。关注一下今晚21:15新闻综合频道”的消息在圈群传播，不少市民纷纷猜测，究竟有什么重要通告。上海辟谣平台核查时发现，这是谣言。消息中所称的“新闻综合频道”也公开辟谣表示，没有重要公告要发布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1273464.d.html</link>
-            <guid>2604804</guid>
-            <pubDate>Tue, 29 Mar 2022 11:37:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阳光城：三位董事减持所得6140万元，将无息借予上市公司】3月29日，阳光城发布公告称，董事何媚、林贻辉、廖剑锋通过大宗交易减持公司股票合计1,710.5万股，成交价格为3.59元，成交金额6140.70万。阳光城表示，三位董事减持所得的资金将全部无息借给上市公司，资金用途包括但不限于日常生产运营、项目交付、债务偿还等。对此有行业人士点评，自流动性危机以来，阳光城一直积极努力自救，此次表现凸显其高管团队与之共克时艰的决心，值得肯定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1273364.d.html</link>
-            <guid>2604803</guid>
-            <pubDate>Tue, 29 Mar 2022 11:37:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【华工科技：2021年净利同比增38.24%，拟10派0.8元】华工科技公告，2021年净利润7.6亿元，同比增38.24%，拟10派0.8元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1273258.d.html</link>
-            <guid>2604802</guid>
-            <pubDate>Tue, 29 Mar 2022 11:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  蓝帆医疗3月29日晚间公告，截至2022年3月28日，北京信聿投资中心（有限合伙）通过集中竞价和大宗交易方式合计减持公司2.66%的股份，北京信聿拟继续通过大宗交易和集中竞价方式合计减持公司不超过6%股份。]]></title>
-            <guid>2604801</guid>
-            <pubDate>Tue, 29 Mar 2022 11:36:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表表示，中立地位将包括不拥有外国军事基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8829097.d.html</link>
-            <guid>2604799</guid>
-            <pubDate>Tue, 29 Mar 2022 11:35:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表表示，如果安全保障体系发挥作用，乌克兰将同意中立地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8828993.d.html</link>
-            <guid>2604798</guid>
-            <pubDate>Tue, 29 Mar 2022 11:34:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国防部发言人Kirby：美国正在与驻波兰的乌克兰军队进行互动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272895.d.html</link>
-            <guid>2604797</guid>
-            <pubDate>Tue, 29 Mar 2022 11:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【永太科技：拟投建Ensitrelvir关键中间体等项目】永太科技公告，董事会同意公司以9000万元投资建设年产150吨Ensitrelvir关键中间体、300吨西他列汀关键中间体、250吨钠离子电池材料项目，同意永太手心以3.1亿元投资建设年产550吨Ensitrelvir关键中间体、300吨西他列汀关键中间体项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8828809.d.html</link>
-            <guid>2604796</guid>
-            <pubDate>Tue, 29 Mar 2022 11:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  乌克兰总统办公室顾问波多利亚克召开新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272838.d.html</link>
-            <guid>2604795</guid>
-            <pubDate>Tue, 29 Mar 2022 11:33:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【雅生活服务：将延迟刊发2021年全年业绩】雅生活服务公告称，本公司预计本公司及其附属公司于截至2021年12月31日止年度的经审核全年业绩将延迟刊发。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272660.d.html</link>
-            <guid>2604794</guid>
-            <pubDate>Tue, 29 Mar 2022 11:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表表示，乌克兰在周二的会谈中提出了新的安全保障体系。在新体系下，以色列、波兰、加拿大和土耳其将成为乌克兰的安全保障国。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8828598.d.html</link>
-            <guid>2604793</guid>
-            <pubDate>Tue, 29 Mar 2022 11:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【于海田任济南市代市长】济南市十七届人大常委会第二十六次会议29日决定接受孙述涛辞去济南市人民政府市长职务的请求，任命于海田为济南市人民政府副市长，决定于海田为济南市人民政府代理市长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272614.d.html</link>
-            <guid>2604792</guid>
-            <pubDate>Tue, 29 Mar 2022 11:31:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人：拜登、约翰逊及其盟友将于周二讨论乌克兰问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272446.d.html</link>
-            <guid>2604791</guid>
-            <pubDate>Tue, 29 Mar 2022 11:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊：停火不会（使我们）结束对俄罗斯的制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8828372.d.html</link>
-            <guid>2604790</guid>
-            <pubDate>Tue, 29 Mar 2022 11:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【*ST百花：2021年净利扭亏为盈至5982.71万元】*ST百花公告，2021年公司实现营业收入2.81亿元，同比增长232.84%；归属于上市公司股东的净利润5982.71万元，同比扭亏为盈；归属于上市公司股东的扣除非经常性损益的净利润891.42万元；基本每股收益0.1595元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272208.d.html</link>
-            <guid>2604789</guid>
-            <pubDate>Tue, 29 Mar 2022 11:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰谈判代表：将土耳其视为重要的安全保证方。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1272042.d.html</link>
-            <guid>2604788</guid>
-            <pubDate>Tue, 29 Mar 2022 11:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李克强对国务院反拐部际联席会议电视电话会议作出重要批示】国务院反拐部际联席会议电视电话会议3月29日在京召开。中共中央政治局常委、国务院总理李克强作出重要批示。批示指出：打击治理拐卖人口事关家庭幸福、社会安宁。各地区各有关部门要坚持以习近平新时代中国特色社会主义思想为指导，认真贯彻落实党中央、国务院决策部署，深入推进正在开展的打击拐卖妇女儿童犯罪专项行动，全面深入排查拐卖情况，及时做好被拐人员解救关怀、安置康复、隐私保护、回归家庭和社会等工作；拐卖人口伤天害理，对涉案犯罪分子要坚决缉拿归案、绳之以法。各级政府要加强组织领导，各有关部门要强化协作配合，担当作为、压实责任，对漠视群众利益的严重失职失责行为要严肃追责。要坚持综合施策，打防结合、标本兼治，整合各方面资源，健全反拐长效机制，坚决维护妇女儿童合法权益、维护社会正义。
+            <title><![CDATA[【俄乌第五轮谈判乌方代表团：乌克兰希望获得安全担保】俄乌代表团在土耳其伊斯坦布尔举行新一轮面对面谈判。当天的会谈结束后，乌克兰代表团发表声明说，希望包括土耳其、德国、加拿大、波兰、以色列在内的多个国家成为安全保障国。乌克兰与俄罗斯的协议将与安全保障国一起签署。如果乌克兰遭到俄罗斯的袭击，乌方希望得到安全保障国的支持。但是俄乌尚未就安全保障国事宜达成一致。
 
-国务委员、国务院反拐部际联席会议总召集人赵克志出席会议并讲话。他强调，要深入贯彻习近平总书记重要指示精神和党中央、国务院决策部署，落实李克强总理批示要求，增强“四个意识”、坚定“四个自信”、做到“两个维护”，坚持综合施策，深化标本兼治，扎实抓好反拐行动计划各项任务措施的推进落实，以实际行动迎接党的二十大胜利召开。要深入开展打击拐卖妇女儿童犯罪专项行动，依法从严从快惩处拐卖犯罪，切实维护法治权威，形成有力震慑。要着力健全预防犯罪机制，加快完善以社区为基础的群防群治工作体系和预防拐卖犯罪网络，切实加强被拐人员救助、安置、康复和回归社会等工作，健全完善相关法律法规和政策体系，深入开展反拐宣传教育培训，坚决保障妇女儿童合法权益，维护社会和谐稳定。要坚持齐抓共管，着力构建“党委领导、政府负责、部门联动、社会协同、公民参与、法治保障、科技支撑”的反拐工作新格局。
+乌方代表团表示，希望邀请安全保障国在未来两周内继续进行多边会谈，消除俄乌两国之间的分歧，并达成一项多边的、国际的协议。俄乌谈判乌方代表团成员阿拉哈米亚在谈判后表示，其中一些国家已经初步同意这个提议。乌克兰提出了一个新的安全保障制度，即如果发生什么情况，则需要在3天内进行磋商，之后由安全保障国向乌克兰提供援助。
 
-最高人民法院、最高人民检察院、公安部、民政部、国家卫生健康委、全国妇联负责同志在会上作了发言。国务院反拐部际联席会议和省市县三级反拐联席会议成员单位负责同志参加会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8827890.d.html</link>
-            <guid>2604787</guid>
-            <pubDate>Tue, 29 Mar 2022 11:26:54 GMT</pubDate>
+此外，俄罗斯代表团团长梅津斯基表示，乌克兰在提议中列出了可能的安全保障国的名单，并希望条约最终签署的决定由两国领导人在会面时做出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8843757.d.html</link>
+            <guid>2604963</guid>
+            <pubDate>Tue, 29 Mar 2022 13:27:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【进口冷链食品将实行预约进京 未经查验不得销售】自4月1日起，进口冷链食品实行预约进京，未经进京卡口检查站查验的进口冷链食品不得上市销售。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8827501.d.html</link>
-            <guid>2604784</guid>
-            <pubDate>Tue, 29 Mar 2022 11:24:16 GMT</pubDate>
+            <title><![CDATA[ 四川路桥公告，2021年净利润55.82亿元，同比增85.43%，拟10派4.7元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1287555.d.html</link>
+            <guid>2604962</guid>
+            <pubDate>Tue, 29 Mar 2022 13:26:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 中国外运：2021年净利润37.13亿元，同比增34.82%，拟10派1.8元。]]></title>
-            <guid>2604783</guid>
-            <pubDate>Tue, 29 Mar 2022 11:24:04 GMT</pubDate>
+            <title><![CDATA[  【森萱医药：2021年净利同比下降9.38% 拟10派1.8元】森萱医药披露年报，2021年营收为5.64亿元，同比增长2.78%；净利润1.31亿元，同比下降9.38%。拟10派1.8元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8843566.d.html</link>
+            <guid>2604961</guid>
+            <pubDate>Tue, 29 Mar 2022 13:25:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 【远兴能源：2021年度净利升7171.11% 拟10派1元】远兴能源公告，公司实现2021年度营业收入121.49亿元，同比增长57.81%；实现归属于上市公司股东的净利润49.51亿元，同比增长7171.11%；实现归属于上市公司股东的扣除非经常性损益的净利润28.29亿元，同比增长3681.61%；基本每股收益1.36元。向全体股东每10股派发现金红利1.00元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271555.d.html</link>
-            <guid>2604782</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:57 GMT</pubDate>
+            <title><![CDATA[美国国防部长奥斯汀：美国致力于与新加坡联合训练。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8843158.d.html</link>
+            <guid>2604959</guid>
+            <pubDate>Tue, 29 Mar 2022 13:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 德赛电池公告，2021年净利润7.93亿元，同比增18.53%，拟10派7.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271543.d.html</link>
-            <guid>2604781</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:50 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交部：俄罗斯希望拜登的情绪不会导致其在他们的影响下对整个世界做出不可挽回和危险的事情。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1287017.d.html</link>
+            <guid>2604958</guid>
+            <pubDate>Tue, 29 Mar 2022 13:22:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【珠江钢琴：2021年净利润同比增长9.05%】珠江钢琴29日晚发布年报，2021年营收20.2亿元，同比增加15.31%；净利润1.86亿元，同比增加9.05%。报告期内，公司持续巩固钢琴龙头企业地位。将渠道下沉作为国内市场的工作重心，新开设品牌专卖店96间，有效拓展纵向市场。根据中国乐器协会提供最新统计数据，公司钢琴产品国内市场占有率41.54%、全球市场占有率31.1%，产销规模稳居全球前列。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8827420.d.html</link>
-            <guid>2604780</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:45 GMT</pubDate>
+            <title><![CDATA[【小鹏汽车回应车辆起火：涉事车型为2019款G3，将配合进行调查】3月29日，网传一则视频显示深圳某小区内，一辆小鹏汽车起火，车身被火焰包裹，有目击者称现场发出爆炸声，随后有消防员赶往现场处置。对此，小鹏汽车相关人员对记者回应称，“3月28日晚，何先生的2019款G3在深圳市龙华区某小区发生火情，未有人员受伤。目前消防部门已完成现场的处置。我们高度重视用户权益，将全力配合相关部门进行事故原因调查，持续跟进后续结果，并协助客户处理后续相关事宜。”(21世纪经济报道)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8842694.d.html</link>
+            <guid>2604957</guid>
+            <pubDate>Tue, 29 Mar 2022 13:18:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【深物业A：2021年净利增25.72%至10.04亿元 拟10派6.8元】深物业A公告，2021年公司实现营业收入44.92亿元，同比增长9.44%；归属于上市公司股东的净利润10.04亿元，同比增长25.72%；归属于上市公司股东的扣除非经常性损益的净利润9.84亿元，同比增长24.79%；基本每股收益1.6846元；拟向全体股东每10股派发现金红利6.80元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271499.d.html</link>
-            <guid>2604779</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:40 GMT</pubDate>
+            <title><![CDATA[  【中国外运：2021年净利同比增34.82% 拟10派1.8元】中国外运公布2021年年度报告，公司实现营业收入1243.46亿元，同比增长47.09%；归母净利润37.13亿元，同比增长34.82%；基本每股收益0.50元；拟每10股派发现金红利1.8元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8842678.d.html</link>
+            <guid>2604956</guid>
+            <pubDate>Tue, 29 Mar 2022 13:18:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯财政部表示，2022年俄罗斯主权欧洲债券的持有者应在3月29日至30日向国家结算托管机构提交申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8827364.d.html</link>
-            <guid>2604777</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:22 GMT</pubDate>
+            <title><![CDATA[【厦门象屿：拟推1.08亿股的2022年限制性股票激励计划】厦门象屿公布2022年限制性股票激励计划(草案)，该激励计划拟向激励对象授予1.08亿股限制性股票，约占该激励计划草案公告时公司股本总额215745.4085万股的5.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8842662.d.html</link>
+            <guid>2604955</guid>
+            <pubDate>Tue, 29 Mar 2022 13:18:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯财政部表示，将以100%的票面价格回购俄罗斯2022年发行的主权欧洲债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271411.d.html</link>
-            <guid>2604776</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:07 GMT</pubDate>
+            <title><![CDATA[【金固股份：拟1.6亿元出售金固环保100%股权】金固股份3月29日晚间公告，公司拟将持有的金固环保100%的股权对外出售，转让价格1.6亿元。经初步测算，交易完成后，公司获得转让收益（税前）约7880万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1286328.d.html</link>
+            <guid>2604950</guid>
+            <pubDate>Tue, 29 Mar 2022 13:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德国3月份消费者信心指数因俄乌冲突和高通胀下跌】德国市场研究机构捷孚凯当地时间3月29日公布的最新调查结果显示，受俄乌冲突和高通胀的影响，3月份德国消费者信心指数为负8.5点，环比下降1.8点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271389.d.html</link>
-            <guid>2604775</guid>
-            <pubDate>Tue, 29 Mar 2022 11:23:00 GMT</pubDate>
+            <title><![CDATA[【新华文轩：2021营收突破100亿元 净利润逾13亿元】3月29日晚间，新华文轩(601811)披露2021年年报，报告期内，公司实现营业收入104.6亿元，同比增长16.12%；实现净利润13.06亿元，同比增长3.42%；扣非后净利润13.11亿元，同比增长11.93%。新华文轩表示，业绩增长得益于大众出版、教育服务及阅读服务等业务销售的增长。新华文轩拟向股东每10股派发现金股利3.2元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8842213.d.html</link>
+            <guid>2604948</guid>
+            <pubDate>Tue, 29 Mar 2022 13:14:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[尼尔森美股盘前涨超21%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271236.d.html</link>
-            <guid>2604774</guid>
-            <pubDate>Tue, 29 Mar 2022 11:21:50 GMT</pubDate>
+            <title><![CDATA[乌克兰方面预计春季播种面积为590万公顷，同比下降22％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1286035.d.html</link>
+            <guid>2604947</guid>
+            <pubDate>Tue, 29 Mar 2022 13:13:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯财政部提出以俄罗斯卢布回购2022年到期的欧洲债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8827124.d.html</link>
-            <guid>2604773</guid>
-            <pubDate>Tue, 29 Mar 2022 11:21:44 GMT</pubDate>
+            <title><![CDATA[  【厦门信达：全资子公司拟转让国贸盈泰100%股权】厦门信达公告，为进一步聚焦主营业务，公司全资子公司信达国贸汽车集团将以2.18亿元的价格，向公司控股股东的全资子公司国贸资本转让所持有的国贸盈泰融资租赁（厦门）有限公司（简称“国贸盈泰”）100%股权。此次交易对公司本年度利润总额影响约为59.49万元。]]></title>
+            <guid>2604946</guid>
+            <pubDate>Tue, 29 Mar 2022 13:13:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[一个财团即将以每股28美元的价格收购数据分析公司尼尔森(Nielsen)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271161.d.html</link>
-            <guid>2604772</guid>
-            <pubDate>Tue, 29 Mar 2022 11:21:12 GMT</pubDate>
+            <title><![CDATA[荷兰银行高级能源经济学家Hans Van Cleef：有关俄罗斯和乌克兰之间的谈判最终会取得一些成果的希望在增强。换句话说，俄罗斯的石油供应不会受到比我们迄今为止看到的自我制裁更严重的打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1285904.d.html</link>
+            <guid>2604945</guid>
+            <pubDate>Tue, 29 Mar 2022 13:12:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【意大利政府签署协议 支持那不勒斯市经济发展】意大利总理德拉吉与那不勒斯市市长加埃塔诺·曼弗雷迪签署了 《那不勒斯协议》。这是意政府为帮助经济和财政遇到严重困难的那不勒斯市政府而签署的协议。协议规定，意政府将在20年内向该市提供约13亿欧元资金支持。德拉吉介绍，该协议的目的是弥补意大利本土巨大的地域经济差距，意大利需要那不勒斯和整个南部地区成为国家的动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1271005.d.html</link>
-            <guid>2604768</guid>
-            <pubDate>Tue, 29 Mar 2022 11:20:01 GMT</pubDate>
+            <title><![CDATA[【金圆股份：2021年度净利降81.81%至8630万元 拟10派0.2元】金圆股份公告，2021年公司实现营业收入87.39亿元，同比增长0.78%；归属于上市公司股东的净利润8630万元，同比下降81.81%；归属于上市公司股东的扣除非经常性损益的净利润1444万元，同比下降96.42%；经营活动现金净流入1.80亿元，同比下降68.05%；基本每股收益0.12元，年报推每10股派发现金红利0.20元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1285658.d.html</link>
+            <guid>2604943</guid>
+            <pubDate>Tue, 29 Mar 2022 13:10:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国政府首次下令在英国水域扣押一艘超级游艇，该游艇为一名未透露姓名的俄罗斯商人所有。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8826404.d.html</link>
-            <guid>2604766</guid>
-            <pubDate>Tue, 29 Mar 2022 11:16:53 GMT</pubDate>
+            <title><![CDATA[ 新国都公告，2021年净利润2.00亿元，同比增131.98%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8841659.d.html</link>
+            <guid>2604942</guid>
+            <pubDate>Tue, 29 Mar 2022 13:10:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 中国外运：2021年净利润37.13亿元，同比增34.82%，拟10派1.8元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8826345.d.html</link>
-            <guid>2604765</guid>
-            <pubDate>Tue, 29 Mar 2022 11:16:31 GMT</pubDate>
+            <title><![CDATA[【艾迪药业：终止盐酸二甲双胍缓释片项目】艾迪药业3月29日晚间公告，根据仿制药审批的相关政策并结合在研项目现状，公司决定终止盐酸二甲双胍缓释片（规格：500mg）项目。公司已向国家药监局主动申请撤回盐酸二甲双胍缓释片的注册申请，并于近日收到国家药监局通知书，同意终止注册程序。盐酸二甲双胍缓释片系公司在研仿制药品种，主要用于糖尿病的治疗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8841468.d.html</link>
+            <guid>2604941</guid>
+            <pubDate>Tue, 29 Mar 2022 13:08:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，美国正准备派遣前阿富汗国民军士兵前往乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1270401.d.html</link>
-            <guid>2604764</guid>
-            <pubDate>Tue, 29 Mar 2022 11:15:55 GMT</pubDate>
+            <title><![CDATA[  【第五轮俄乌谈判结束 后续谈判将以视频形式继续进行】据俄乌谈判俄方代表团消息人士介绍，本轮在土耳其举行的第五轮俄乌谈判已经结束，后续谈判将以视频形式继续进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1285253.d.html</link>
+            <guid>2604940</guid>
+            <pubDate>Tue, 29 Mar 2022 13:07:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[报道称，俄罗斯-乌克兰在伊斯坦布尔的会谈持续了大约3小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1270387.d.html</link>
-            <guid>2604763</guid>
-            <pubDate>Tue, 29 Mar 2022 11:15:48 GMT</pubDate>
+            <title><![CDATA[当地时间3月29日，据俄乌谈判俄方代表团消息人士介绍，本轮在土耳其举行的第五轮俄乌谈判已经结束，后续谈判将以视频形式继续进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1285153.d.html</link>
+            <guid>2604939</guid>
+            <pubDate>Tue, 29 Mar 2022 13:06:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚玛顿：2021年净利降60.80%至5399.9万元 拟10派0.6元】亚玛顿公布2021年年度报告，公司实现2021年度营业收入20.32亿元，同比增长12.71%；实现归属于上市公司股东的净利润5399.9万元，同比下降60.80%。向全体股东每10股派发现金红利0.60元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1270057.d.html</link>
-            <guid>2604760</guid>
-            <pubDate>Tue, 29 Mar 2022 11:13:10 GMT</pubDate>
+            <title><![CDATA[【俄罗斯代表团团长：俄罗斯并不反对乌克兰加入欧盟】俄罗斯代表团团长梅津斯基在第五轮俄乌谈判第一天的会谈结束后表示，俄罗斯并不反对乌克兰加入欧盟。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1284617.d.html</link>
+            <guid>2604936</guid>
+            <pubDate>Tue, 29 Mar 2022 13:03:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 海通证券公告，2021年实现净利128.27亿元，同比增长17.94%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825932.d.html</link>
-            <guid>2604759</guid>
-            <pubDate>Tue, 29 Mar 2022 11:13:04 GMT</pubDate>
+            <title><![CDATA[  艾迪药业：决定终止盐酸二甲双胍缓释片（规格：500mg）项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8840385.d.html</link>
+            <guid>2604934</guid>
+            <pubDate>Tue, 29 Mar 2022 13:01:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国家发展改革委财金司主要负责同志带队赴宏观院经济所开展专题调研】近日，国家发展改革委财金司司长陈洪宛带队赴中国宏观经济研究院经济研究所开展专题调研。经济研究所所长郭春丽介绍了经济所的历史成就、研究重点领域和重大研究成果等相关情况。与会人员就进一步发挥经济所作为国家高端智库的重要作用，更好服务国家宏观经济调控决策及委中心工作进行了讨论交流。财金司副司长赵怀勇，综合处、财政处、金融处、证券处、信用处有关同志，以及经济所相关研究人员参加调研。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1269990.d.html</link>
-            <guid>2604757</guid>
-            <pubDate>Tue, 29 Mar 2022 11:12:44 GMT</pubDate>
+            <title><![CDATA[美国1月S&P/CS20座大城市房价指数年率录得19.1%，创去年9月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8840341.d.html</link>
+            <guid>2604932</guid>
+            <pubDate>Tue, 29 Mar 2022 13:00:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其央行行长：出口面临的地缘政治风险将是有限的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1269739.d.html</link>
-            <guid>2604756</guid>
-            <pubDate>Tue, 29 Mar 2022 11:10:50 GMT</pubDate>
+            <title><![CDATA[【锐科激光：2021年净利同比增60.17% 拟10转3股】锐科激光3月29日晚间披露年报，2021年实现营业收入34.1亿元，同比增长47.18%；净利润4.74亿元，同比增长60.17%；基本每股收益1.1元。公司拟每10股转增3股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8840259.d.html</link>
+            <guid>2604929</guid>
+            <pubDate>Tue, 29 Mar 2022 13:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  扬杰科技：预计2022年第一季度实现净利润2.3亿元-2.8亿元，同比增长50%-80%；报告期内新产品的业绩表现突出。其中，IGBT、SiC、MOSFET等新产品的销售收入同比增长均超过100%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825585.d.html</link>
-            <guid>2604755</guid>
-            <pubDate>Tue, 29 Mar 2022 11:10:40 GMT</pubDate>
+            <title><![CDATA[【冠龙节能中签号出炉 共约4.07万个】冠龙节能3月29日晚间披露首次公开发行股票网上中签结果，中签号码共有40740个，每个中签号码只能认购500股冠龙节能股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1284109.d.html</link>
+            <guid>2604928</guid>
+            <pubDate>Tue, 29 Mar 2022 12:59:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【蓝帆医疗：北京信聿拟继续减持不超6%股份】蓝帆医疗公告，股东北京信聿拟通过大宗交易方式减持不超过公司总股本的4%，拟通过集中竞价方式减持不超过公司总股本的2%，合计不超过公司总股本的6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825548.d.html</link>
-            <guid>2604754</guid>
-            <pubDate>Tue, 29 Mar 2022 11:10:30 GMT</pubDate>
+            <title><![CDATA[【厦门信达：全资子公司拟转让国贸盈泰100%股权】厦门信达3月29日晚间公告，为进一步聚焦主营业务，公司全资子公司信达国贸汽车集团将以2.18亿元的价格，向公司控股股东的全资子公司国贸资本转让所持有的国贸盈泰融资租赁（厦门）有限公司（简称“国贸盈泰”）100%股权。此次交易对公司本年度利润总额影响约为59.49万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8839915.d.html</link>
+            <guid>2604925</guid>
+            <pubDate>Tue, 29 Mar 2022 12:57:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【银邦股份：2021年度净利同比增长139.49% 拟10派0.2元】银邦股份公布2021年年度报告，公司实现2021年度营业收入31.95亿元，同比增长34.79%；实现归母净利润4062.47万元，同比增长139.49%；基本每股收益0.05元。公司向全体股东每10股派发现金红利0.20元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1269571.d.html</link>
-            <guid>2604752</guid>
-            <pubDate>Tue, 29 Mar 2022 11:10:09 GMT</pubDate>
+            <title><![CDATA[北约发布声明表示，北约成员国外交部长会议将于4月6-7日在布鲁塞尔举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8839861.d.html</link>
+            <guid>2604924</guid>
+            <pubDate>Tue, 29 Mar 2022 12:56:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【民生银行：2021年归母净利增0.21%至343.81亿元 拟10派2.13元】民生银行公告，2021年公司实现营业收入1688.04亿元，同比下降8.73%；利润总额356.00亿元，同比下降3.01%；归属于上市公司股东的净利润343.81亿元，同比增长0.21%；归属于上市公司股东的扣除非经常性损益的净利润344.55亿元，同比增长0.12%；基本每股收益0.71元；拟向全体股东每10股派发现金股利人民币2.13元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825416.d.html</link>
-            <guid>2604751</guid>
-            <pubDate>Tue, 29 Mar 2022 11:09:57 GMT</pubDate>
+            <title><![CDATA[ 当地时间3月29日，土耳其外交部表示，30日将不会继续举行俄乌谈判。(央视新闻)]]></title>
+            <guid>2604922</guid>
+            <pubDate>Tue, 29 Mar 2022 12:52:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中办、国办：发展普惠金融扩大信用贷款规模 解决中小微企业和个体工商户融资难题】财联社3月29日电，中共中央办公厅、国务院办公厅印发了《关于推进社会信用体系建设高质量发展促进形成新发展格局的意见》。意见提出，创新信用融资服务和产品。发展普惠金融，扩大信用贷款规模，解决中小微企业和个体工商户融资难题。加强公共信用信息同金融信息共享整合，推广基于信息共享和大数据开发利用的“信易贷”模式，深化“银税互动”、“银商合作”机制建设。鼓励银行创新服务制造业、战略性新兴产业、“三农”、生态环保、外贸等专项领域信贷产品，发展订单、仓单、保单、存货、应收账款融资和知识产权质押融资。规范发展消费信贷。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825270.d.html</link>
-            <guid>2604750</guid>
-            <pubDate>Tue, 29 Mar 2022 11:09:10 GMT</pubDate>
+            <title><![CDATA[  比亚迪电子：2021全年毛利率6.77％，预估7.57％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8839067.d.html</link>
+            <guid>2604919</guid>
+            <pubDate>Tue, 29 Mar 2022 12:50:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[标普预计波兰截至2023年底将提高关键利率至5.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8825209.d.html</link>
-            <guid>2604749</guid>
-            <pubDate>Tue, 29 Mar 2022 11:08:46 GMT</pubDate>
+            <title><![CDATA[ 长远锂科公告，2021年净利润7亿元，同比增538.17%，拟10派1.09元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1282887.d.html</link>
+            <guid>2604918</guid>
+            <pubDate>Tue, 29 Mar 2022 12:49:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国防部发言人Kirby：俄军在乌克兰北部和南部陷入困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8824971.d.html</link>
-            <guid>2604748</guid>
-            <pubDate>Tue, 29 Mar 2022 11:07:28 GMT</pubDate>
+            <title><![CDATA[土耳其外交部：乌克兰和俄罗斯周三在伊斯坦布尔的会谈将不会继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8838897.d.html</link>
+            <guid>2604917</guid>
+            <pubDate>Tue, 29 Mar 2022 12:49:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国家安全委员会：在北约峰会上，美国实现了迫使欧洲增加对美国军队采购支出的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1268474.d.html</link>
-            <guid>2604747</guid>
-            <pubDate>Tue, 29 Mar 2022 11:04:09 GMT</pubDate>
+            <title><![CDATA[媒体消息：俄罗斯代表团打算在星期二离开伊斯坦布尔。]]></title>
+            <guid>2604916</guid>
+            <pubDate>Tue, 29 Mar 2022 12:48:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北京昌平：一名入境返京人员核酸检测异常。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1268460.d.html</link>
-            <guid>2604746</guid>
-            <pubDate>Tue, 29 Mar 2022 11:04:01 GMT</pubDate>
+            <title><![CDATA[市场消息：乌克兰出售战争债券筹集33亿格里夫纳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1282722.d.html</link>
+            <guid>2604915</guid>
+            <pubDate>Tue, 29 Mar 2022 12:48:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  徐州市公安局原党委副书记、常务副局长周涛涉嫌严重违纪违法，目前正接受徐州市纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8824320.d.html</link>
-            <guid>2604745</guid>
-            <pubDate>Tue, 29 Mar 2022 11:03:46 GMT</pubDate>
+            <title><![CDATA[俄罗斯代表团团长梅津斯基：乌克兰的提议是走向妥协的建设性措施，俄罗斯将予以考虑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8838442.d.html</link>
+            <guid>2604913</guid>
+            <pubDate>Tue, 29 Mar 2022 12:46:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中行副行长林景臻：北向通、南向通合计签约客户数市场占比超60%】3月29日消息，中国银行今日召开2021年业绩发布会。中国银行执行董事、副行长林景臻在回答新浪财经提问时表示，跨境金融是百年中行的传统优势，自跨境理财通业务启动以来，中国银行始终保持赛道优势。 “截止2月末，我行北向通、南向通合计签约客户数市场占比超60%”，林景臻表示，中国银行将充分发挥在大湾区机构布局、专业人才等多维度方面的优势，精选外部合作机构以及集团内中银理财、中银基金等综合经营公司优势产品，持续做好产品和投资者服务，巩固市场优势地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8824285.d.html</link>
-            <guid>2604744</guid>
-            <pubDate>Tue, 29 Mar 2022 11:03:34 GMT</pubDate>
+            <title><![CDATA[【新奥股份：签LNG采购合同 提高天然气供应能力】新奥股份3月29日晚间公告，子公司新奥新加坡公司和新奥贸易公司分别与ET LNG出口公司签署LNG采购合同，每年分别向ET LNG出口公司采购180万吨、90万吨LNG，为期20年，预计最早自2026年开始，采购价格与亨利中心（HenryHub）基准价格挂钩。该合同的履行将有利于公司优化资源池结构，拓宽资源供应渠道，进一步提高天然气供应能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1282364.d.html</link>
+            <guid>2604912</guid>
+            <pubDate>Tue, 29 Mar 2022 12:45:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 中国中冶公告，2021年净利润83.74亿元，同比增6.52%，拟10派0.78元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1268278.d.html</link>
-            <guid>2604743</guid>
-            <pubDate>Tue, 29 Mar 2022 11:02:50 GMT</pubDate>
+            <title><![CDATA[俄罗斯谈判代表：乌克兰放弃通过军事手段收复克里米亚和顿巴斯的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8838316.d.html</link>
+            <guid>2604911</guid>
+            <pubDate>Tue, 29 Mar 2022 12:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 【江铃汽车：2021年度净利升4.26%至5.74亿元 拟10派2.66元】江铃汽车公告，公司实现2021年度营业收入352.21亿元，同比增长6.42%；实现归属于上市公司股东的净利润5.74亿元，同比增长4.26%；实现归属于上市公司股东的扣除非经常性损益的净利润2962.88万元，同比下降92.69%；基本每股收益0.67元。拟10派2.66元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8824148.d.html</link>
-            <guid>2604742</guid>
-            <pubDate>Tue, 29 Mar 2022 11:02:44 GMT</pubDate>
+            <title><![CDATA[  亿纬锂能：与匈牙利Debrecen政府的子公司签订《PROJECT ROSE-NON-BINDING LETTER OF INTENT》，公司或其附属实体（以后指定）拟根据本意向书中规定的条款和条件，向卖方购买目标地产，并在匈牙利建立动力电池制造厂。]]></title>
+            <guid>2604906</guid>
+            <pubDate>Tue, 29 Mar 2022 12:41:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  今世缘：1至3月，公司预计实现营业总收入30亿元左右，同比增长25%左右；预计实现归属于上市公司股东的净利润10亿元左右，同比增长24%左右。]]></title>
-            <guid>2604741</guid>
-            <pubDate>Tue, 29 Mar 2022 11:02:17 GMT</pubDate>
+            <title><![CDATA[ 锐科激光公告，2021年净利润4.74亿元，同比增60.17%，拟10转3股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1281877.d.html</link>
+            <guid>2604905</guid>
+            <pubDate>Tue, 29 Mar 2022 12:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯安全委员会表示不排除西方计划使用大规模杀伤性武器进行挑衅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1268171.d.html</link>
-            <guid>2604740</guid>
-            <pubDate>Tue, 29 Mar 2022 11:01:56 GMT</pubDate>
+            <title><![CDATA[  【长源电力：拟对子公司增资以投建掇刀光伏项目】长源电力公告，拟以现金方式对公司控股子公司荆门新能源公司增资约2.56亿元，其中公司按持股比例51%增资约1.31亿元，并以其为主体投资建设国能长源荆门市源网荷储百万千瓦新能源基地掇刀200MW子项目(简称”掇刀光伏项目“)。掇刀光伏项目总装机容量约29.86万千瓦，静态投资约11.68亿元(不含送出工程)，动态投资约11.87亿元(不含送出工程)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1281256.d.html</link>
+            <guid>2604900</guid>
+            <pubDate>Tue, 29 Mar 2022 12:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  恩捷股份：公司拟在玉溪市红塔区设立具有独立法人资格的公司作为项目实施主体投资，建设产能为16亿平方米的锂电池隔离膜生产项目，项目总投资额约45亿元，项目分两期建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8823357.d.html</link>
-            <guid>2604738</guid>
-            <pubDate>Tue, 29 Mar 2022 10:56:42 GMT</pubDate>
+            <title><![CDATA[【九阳股份：2021年度净利降20.69% 拟10派10元】九阳股份公告，2021年公司实现营业收入105.40亿元，同比下降6.09%；归属于上市公司股东的净利润7.46亿元，同比下降20.69%；归属于上市公司股东的扣除非经常性损益的净利润5.97亿元，同比下降12.29%；经营活动现金净流出3478.87万元，上年同期为净流入20.09亿元；基本每股收益0.97元，年报推每10股派发现金红利10.00元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8837133.d.html</link>
+            <guid>2604899</guid>
+            <pubDate>Tue, 29 Mar 2022 12:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小米集团：于2022年3月29日赎回1425.26万股股票，价格为13.46港元-14.18港元，共耗资约1.99亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1280976.d.html</link>
+            <guid>2604897</guid>
+            <pubDate>Tue, 29 Mar 2022 12:34:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【丽臣实业：2021年净利同比降19.57% 拟10转4派9元】丽臣实业披露年报，2021年实现营业收入27.49亿元，同比增长15.94%；净利润1.79亿元，同比下降19.57%；基本每股收益2.45元。公司拟每10股转增4股并派发红利9元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1280744.d.html</link>
+            <guid>2604894</guid>
+            <pubDate>Tue, 29 Mar 2022 12:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  海翔药业3月29日晚间披露业绩预告，预计一季度净利润8578.19万元-1.03亿元，同比增长50%-80%。报告期内，公司医药板块主导产品产销两旺，订单充足、单位售价提高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1280680.d.html</link>
+            <guid>2604891</guid>
+            <pubDate>Tue, 29 Mar 2022 12:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  振德医疗披露年报，2021年实现净利润5.96亿元，同比下降76.63%，拟10派6元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1280673.d.html</link>
+            <guid>2604890</guid>
+            <pubDate>Tue, 29 Mar 2022 12:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【富临精工：拟10亿元投建新能源汽车智能热管理系统及零部件产业项目】富临精工公告，子公司芯智热控拟在绵阳市涪城区投资建设新能源汽车智能热管理系统及零部件产业项目，预计项目总投资约10亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1280475.d.html</link>
+            <guid>2604888</guid>
+            <pubDate>Tue, 29 Mar 2022 12:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  证监会同意龙芯中科技术股份有限公司、思特威（上海）电子科技股份有限公司科创板首次公开发行股票注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8836404.d.html</link>
+            <guid>2604886</guid>
+            <pubDate>Tue, 29 Mar 2022 12:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  通鼎互联3月29日晚间公告，公司作为海四达电源的外部参股股东，拟将目前所持有的17.76%股权（合计5034万股）全部转让给海四达集团，转让总价2.34亿元。此次交易若能顺利推进，预计对公司2022年度净利润产生约8400万元的正向影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8836270.d.html</link>
+            <guid>2604885</guid>
+            <pubDate>Tue, 29 Mar 2022 12:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  丽臣实业3月29日晚间披露年报，2021年实现营业收入27.49亿元，同比增长15.94%；净利润1.79亿元，同比下降19.57%；基本每股收益2.45元。公司拟每10股转增4股并派发红利9元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835819.d.html</link>
+            <guid>2604881</guid>
+            <pubDate>Tue, 29 Mar 2022 12:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统顾问Podolyak：与俄罗斯的会谈将在今晚继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1279801.d.html</link>
+            <guid>2604880</guid>
+            <pubDate>Tue, 29 Mar 2022 12:24:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国际原子能机构总干事访问乌克兰】国际原子能机构29日表示，该机构总干事格罗西当天抵达乌克兰，正在与乌政府高级官员会谈，讨论国际原子能机构计划提供的紧急技术援助，以确保该国核设施的安全。据介绍，国际原子能机构计划向乌克兰核设施派遣专家。格罗西此行还计划前往乌克兰的一个核电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835606.d.html</link>
+            <guid>2604878</guid>
+            <pubDate>Tue, 29 Mar 2022 12:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 英飞特公告，2021年净利润1.82亿元，同比增12.56%，拟10派0.79元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835357.d.html</link>
+            <guid>2604872</guid>
+            <pubDate>Tue, 29 Mar 2022 12:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【粤桂股份：2021年净利增314.02%至2.6亿元 拟10派1.36元】粤桂股份公告，2021年公司实现营业总收入30.59亿元，同比下降4.12%；归属于上市公司股东的净利润2.598亿元，同比增长314.02%；归属于上市公司股东的扣除非经常性损益的净利润2.42亿元；基本每股收益0.3887元；拟向全体股东每10股派发现金红利1.36元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8835346.d.html</link>
+            <guid>2604871</guid>
+            <pubDate>Tue, 29 Mar 2022 12:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【通鼎互联：拟2.34亿元转让海四达电源17.76%股权】通鼎互联公告，公司作为海四达电源的外部参股股东，拟将目前所持有17.76%股权（合计5034万股）全部转让给海四达集团，转让总价为2.34亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1279318.d.html</link>
+            <guid>2604870</guid>
+            <pubDate>Tue, 29 Mar 2022 12:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长：星期二的会谈是乌克兰和俄罗斯谈判中最重要的进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278996.d.html</link>
+            <guid>2604869</guid>
+            <pubDate>Tue, 29 Mar 2022 12:18:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长表示乐见乌克兰和俄罗斯稍微相向而行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834798.d.html</link>
+            <guid>2604868</guid>
+            <pubDate>Tue, 29 Mar 2022 12:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外长：这场冲突必须结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834668.d.html</link>
+            <guid>2604867</guid>
+            <pubDate>Tue, 29 Mar 2022 12:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【广州市委原常委、政法委原书记谢晓丹接受审查调查】据广东省纪委监委消息：广州市委原常委、政法委原书记谢晓丹涉嫌严重违纪违法，目前正接受广东省纪委监委纪律审查和监察调查。]]></title>
+            <guid>2604866</guid>
+            <pubDate>Tue, 29 Mar 2022 12:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBOT小麦日内跌幅扩大至6％，跌破10美元/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278549.d.html</link>
+            <guid>2604865</guid>
+            <pubDate>Tue, 29 Mar 2022 12:15:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华新水泥：2021年度净利同比下降4.74% 拟10派10元】华新水泥发布2021年年度报告，实现营业收入324.64亿元，同比增长10.59%；归母净利润53.64亿元，同比下降4.74%；基本每股收益2.58元，拟向全体股东1元/股(含税)分配现金红利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwiwss8834201.d.html</link>
+            <guid>2604864</guid>
+            <pubDate>Tue, 29 Mar 2022 12:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋能源部：欧佩克旨在确保石油供应是可负担的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-03-29/detail-imcwipii1278199.d.html</link>
+            <guid>2604863</guid>
+            <pubDate>Tue, 29 Mar 2022 12:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
