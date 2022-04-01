@@ -4,361 +4,428 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 31 Mar 2022 21:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 01:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[亚美尼亚国防部表示，北约和欧盟武官访问亚美尼亚空军基地，核实未移交给俄罗斯的苏-30战斗机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9281923.d.html</link>
-            <guid>2608740</guid>
-            <pubDate>Thu, 31 Mar 2022 21:13:32 GMT</pubDate>
+            <title><![CDATA[【日本财务大臣：日本央行并不直接针对外汇汇率】日本财务大臣铃木俊一今日称，日本央行没有直接针对外汇汇率。他为央行本周引发日元突然贬值的举措辩护。铃木周五在例行记者会上说，日本央行的货币政策以物价稳定为目标；预计央行将继续作出适当回应。他还援引现有的七国集团(G7)协议称，汇率“过度而无序”波动可能会对金融市场和整个经济产生负面影响。日本将与美国和其他国家的外汇当局密切合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1756475.d.html</link>
+            <guid>2609263</guid>
+            <pubDate>Fri, 01 Apr 2022 01:07:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【白宫：美商务部将对120个俄罗斯和白俄罗斯实体列入制裁实体清单】当地时间3月31日，美国白宫通讯联络办公室主任凯特·贝丁菲尔德在简报会上表示，美国商务部将在未来几天把120个俄罗斯和白俄罗斯实体加入其“制裁实体名单”，以打击俄罗斯国防、航空航天和海事部门的实力。贝丁菲尔德指出，被列入名单的实体在没有许可证的情况下，将无法再获得美国的尖端技术，且绝大部分实体将无法获得许可证。她表示，美国将继续加强对俄制裁，同时对乌克兰进行援助。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9281311.d.html</link>
-            <guid>2608736</guid>
-            <pubDate>Thu, 31 Mar 2022 21:02:43 GMT</pubDate>
+            <title><![CDATA[在业绩刊发截止期限之后，至少有33家公司在香港市场停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1755975.d.html</link>
+            <guid>2609259</guid>
+            <pubDate>Fri, 01 Apr 2022 01:05:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中概股周四多数收跌，每日优鲜跌超29.3%，物农网跌超22.1%，尚德机构跌超19.6%，爱奇艺、趣头条、开心汽车、B站、叮咚买菜至多跌超9.9%，虎牙、拼多多（领跌纳斯达克100指数的成分股）、看准网、知乎、百度至多跌约8.8%，京东跌约5.9%，理想汽车跌约4.9%，陆金所跌超4.1%，腾讯粉单市场跌超3.9%，小鹏汽车跌约3.0%，网易跌超2.5%，流利说则涨超3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1725452.d.html</link>
-            <guid>2608734</guid>
-            <pubDate>Thu, 31 Mar 2022 20:59:47 GMT</pubDate>
+            <title><![CDATA[韩国央行行长提名人李昌镛：由于人口结构挑战可能会恶化债务质量，韩国需要缓解家庭债务增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9310906.d.html</link>
+            <guid>2609242</guid>
+            <pubDate>Fri, 01 Apr 2022 01:02:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总统泽连斯基：乌克兰南部和顿巴斯地区的局势仍然非常艰难。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9280999.d.html</link>
-            <guid>2608733</guid>
-            <pubDate>Thu, 31 Mar 2022 20:56:31 GMT</pubDate>
+            <title><![CDATA[  【美国会众议院通过法案 降低胰岛素自付费用】美国国会众议院当地时间3月31日以232票支持193票反对的投票结果通过了一项法案，该法案将降低患者对胰岛素处方药的自付费用。根据该法案，医疗保险受益人每30天的胰岛素处方药自付额将不超过35美元。私人保险计划受益人的胰岛素自付额将被限制在每30天不超过35美元，或一个月的胰岛素药量的价格的25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1755169.d.html</link>
+            <guid>2609239</guid>
+            <pubDate>Fri, 01 Apr 2022 01:02:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【35家基金公司去年净利增40% 业务“打法”向买方投顾转型】如市场所料，2021年公募基金行业赚得盆满钵满。截至3月31日记者发稿时，35家基金公司2021年合计实现净利润380亿元，同比增长40%。进入2022年，今年基金公司的“打法”有哪些趋势变化？记者发现，首先在居民财富管理需求大时代背景下，基金投顾业务这类财富管理服务开始萌芽并快速扩围，多家基金公司首次将基金投顾业务放在重点业务位置进行布局。其次是新发基金市场或开始由“全面开花”转向“科学布局”，在重视主业的同时，更多关注保有量及优势产品营销。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1724273.d.html</link>
-            <guid>2608727</guid>
-            <pubDate>Thu, 31 Mar 2022 20:36:17 GMT</pubDate>
+            <title><![CDATA[韩国央行行长提名人李昌镛：最好与政府协调货币和财政政策，而不是专注于保护央行的独立性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1755047.d.html</link>
+            <guid>2609235</guid>
+            <pubDate>Fri, 01 Apr 2022 01:01:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黑莓第四季度经调整基本每股收益0.01美元，预估每股亏损0.04美元.]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279950.d.html</link>
-            <guid>2608726</guid>
-            <pubDate>Thu, 31 Mar 2022 20:36:02 GMT</pubDate>
+            <title><![CDATA[韩国央行行长提名人李昌镛：家庭债务不是短期经济风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1755024.d.html</link>
+            <guid>2609234</guid>
+            <pubDate>Fri, 01 Apr 2022 01:01:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黑莓第四季度营收1.85亿美元，预估1.87亿美元.]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1724251.d.html</link>
-            <guid>2608725</guid>
-            <pubDate>Thu, 31 Mar 2022 20:35:54 GMT</pubDate>
+            <title><![CDATA[【韩国股市下跌 进出口出口数据引发利润担忧】韩国Kospi指数下跌1%，因出口增长低于预期，进口成本上升加剧了对企业收益的担忧，韩国Kospi指数即将结束连续三天的上涨势头。 韩国3月份出口创下历史新高，较上年同期增长18.2%，但低于经济学家预期的19%的增幅；进口激增27.9%，贸易逆差达1.4亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1755008.d.html</link>
+            <guid>2609233</guid>
+            <pubDate>Fri, 01 Apr 2022 01:01:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【“三桶油”去年日赚6.4亿元 高油价下集体发力上游业务】中石油3月31日晚间发布2021年年报，报告期内实现营收2.61万亿元，同比增长35.2%，创历史新高；实现归属于母公司股东的净利润921.7亿元，同比增加731.6亿元。至此，“三桶油”（中石油、中石化、中海油）已全部披露2021年业绩，三家公司合计实现净利润2337亿元，日赚6.4亿元。中国石化董事长马永生表示，高油价也会给上游业务带来机遇。当前国际油价高位震荡，是上游业务增产增效的好时机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1724207.d.html</link>
-            <guid>2608724</guid>
-            <pubDate>Thu, 31 Mar 2022 20:34:49 GMT</pubDate>
+            <title><![CDATA[阜博集团（HKEX:3738）发布2021全年业绩。集团总营收为6.87亿港元，同比增长约102%；经调整EBITDA为1.13亿港元，同比增长458%；毛利率由2020年的48.7%上升至2021年的50.8%。中国内地已成为阜博集团的重点新市场，中国区业务收入同比增长1355%达到1.66亿港元，占集团总收入的24%。阜博集团即将完成对粒子科技的收购，处于把握中国数字内容资产生态系统庞大发展机会的有利位置。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9309899.d.html</link>
+            <guid>2609210</guid>
+            <pubDate>Fri, 01 Apr 2022 00:57:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[电动汽车公司Fisker：限量款Ocean One将于7月1日开始预订，直至2023年都不会因为美国通胀问题而涨价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279867.d.html</link>
-            <guid>2608723</guid>
-            <pubDate>Thu, 31 Mar 2022 20:34:24 GMT</pubDate>
+            <title><![CDATA[日本内阁官房长官松野博一：日本外相林芳正将在今晚启程前往波兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9308944.d.html</link>
+            <guid>2609183</guid>
+            <pubDate>Fri, 01 Apr 2022 00:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【一季度17家央企控股上市公司实施股权激励】数据统计，今年以来，截至3月31日，已有17家央企控股上市公司实施了股权激励，涉及激励人数达16261人；7家央企控股上市公司发布新的股权激励预案，涉及激励人数达11074人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279832.d.html</link>
-            <guid>2608722</guid>
-            <pubDate>Thu, 31 Mar 2022 20:33:35 GMT</pubDate>
+            <title><![CDATA[【2.79% 人民币在全球外储占比再刷历史新高】人民币作为官方储备货币的地位持续巩固中。国际货币基金组织（IMF）当地时间3月31日发布的“官方外汇储备货币构成（COFER）”数据显示，2021年第四季度，人民币在COFER中占比再度上升，续刷2016年第四季度IMF报告该数据以来的新高。去年第四季度，人民币在全球外汇储备中的占比，由去年三季度的2.66%升至2.79%，位居全球第五位。这也是IMF自2016年开始公布人民币储备资产以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1753066.d.html</link>
+            <guid>2609182</guid>
+            <pubDate>Fri, 01 Apr 2022 00:51:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[游戏驿站盘后涨9.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723838.d.html</link>
-            <guid>2608717</guid>
-            <pubDate>Thu, 31 Mar 2022 20:25:41 GMT</pubDate>
+            <title><![CDATA[  【湖北新增本土无症状感染者5例】3月31日0-24时，湖北新增本土确诊病例0例，新增本土无症状感染者5例（其中3例为黄石市报告外省来鄂人员，1例为鄂州市报告外省来鄂人员，1例为随州市本土无症状感染者），新增境外输入确诊病例0例，新增境外输入无症状感染者0例，新增疑似病例0例，新增死亡病例0例，当日出院病例0例，当日解除无症状感染者医学观察1例（为咸宁市本土无症状感染者）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1752538.d.html</link>
+            <guid>2609181</guid>
+            <pubDate>Fri, 01 Apr 2022 00:49:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[捷克内政部部长：在捷克共和国的乌克兰难民人数超过30万，预计将达到50万。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723714.d.html</link>
-            <guid>2608715</guid>
-            <pubDate>Thu, 31 Mar 2022 20:23:11 GMT</pubDate>
+            <title><![CDATA[【工信部消费品工业司组织召开婴配乳粉追溯体系宣传推广工作视频座谈会】工业和信息化部消费品工业司3月30日组织召开了婴配乳粉追溯体系宣传推广工作视频座谈会，中国电子信息产业发展研究院科技与标准所、中国商业联合会母婴产业分会、国内知名母婴主题网站平台及线下实体店、部分骨干婴配乳粉企业的代表参会。会议要求广大婴配乳粉企业、母婴主题网站平台、线下实体店加大对追溯平台的宣传推广，引导消费者对平台的查询使用，提升消费者对国产婴配乳粉的获得感。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1752470.d.html</link>
+            <guid>2609180</guid>
+            <pubDate>Fri, 01 Apr 2022 00:48:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  富国银行：将UiPath(PATH.N)目标价从45美元下调至35美元，维持超配评级。UiPath的第四季度业绩大多稳健，但2023年的初步全年指引大大低于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279294.d.html</link>
-            <guid>2608714</guid>
-            <pubDate>Thu, 31 Mar 2022 20:21:08 GMT</pubDate>
+            <title><![CDATA[  【四川新增本土确诊病例1例 本土无症状感染者2例】3月31日0时至24时，四川新增本土确诊病例1例，新增本土无症状感染者2例，新增境外输入确诊病例19例（其中17例为既往通报的无症状感染者转确诊），新增境外输入无症状感染者15例，新增治愈出院病例21例，无新增疑似病例，无新增死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9308130.d.html</link>
+            <guid>2609179</guid>
+            <pubDate>Fri, 01 Apr 2022 00:48:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  奥本海默：将UiPath(PATH.N)目标价从56美元下调至35美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723613.d.html</link>
-            <guid>2608713</guid>
-            <pubDate>Thu, 31 Mar 2022 20:20:59 GMT</pubDate>
+            <title><![CDATA[【王毅谈阿富汗临时政府外交承认问题】国务委员兼外长王毅说，我们也注意到，包括邻国在内的国际社会对阿临时政府仍有不少关切和期待，希望阿临时政府早日完成角色转变。相信随着各方关切得到更有力回应，对阿富汗政府的外交承认将是一个水到渠成的事情。我们希望并期待阿富汗临时政府朝着这个正确方向不断迈出坚实步伐，做出切实努力。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1752293.d.html</link>
+            <guid>2609178</guid>
+            <pubDate>Fri, 01 Apr 2022 00:47:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国际原子能机构：俄军开始撤出切尔诺贝利核电站】国际原子能机构当地时间3月31日表示，乌克兰当天通知国际原子能机构，自2月24日以来一直控制切尔诺贝利核电站的俄罗斯部队已经以书面形式将核电站的控制权移交给乌克兰人员，并将两个车队的部队调往白俄罗斯。第三支车队也离开了切尔诺贝利核电站工作人员居住的斯拉维季奇市，并向白俄罗斯移动。此外，乌克兰报告说，在切尔诺贝利核电站现场仍有一些俄罗斯部队，但推测这些部队正准备离开。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279233.d.html</link>
-            <guid>2608712</guid>
-            <pubDate>Thu, 31 Mar 2022 20:19:46 GMT</pubDate>
+            <title><![CDATA[  【南奥塞梯有意加入俄罗斯 ，美国称 “不会承认公投结果”】据俄罗斯卫星网4月1日消息，对于南奥塞梯有意公投加入俄罗斯联邦一事，美国务院当地时间周四（3月31日）作出回复，称美国不会承认相关公投结果。 报道称，被问及美国务院在南奥塞梯公投上的立场时，该部门发言人内德·普莱斯称，“（南奥塞梯）事实上的政府和俄罗斯政府都无权决定南奥塞梯的未来，该地区是格鲁吉亚的一部分。” 卫星网称，南奥塞梯地区领导人比比洛夫3月30日表示，其战略目标是加入俄罗斯，并且会在不远将来为此采取必要的法律措施。  （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1752200.d.html</link>
+            <guid>2609177</guid>
+            <pubDate>Fri, 01 Apr 2022 00:47:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国白宫：“汽油税假日”不会取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279180.d.html</link>
-            <guid>2608711</guid>
-            <pubDate>Thu, 31 Mar 2022 20:18:09 GMT</pubDate>
+            <title><![CDATA[【3月份中国制造业PMI为49.5% 专家：“降息”降准有望在二季度落地】3月份中国制造业采购经理指数（PMI）为49.5%，比上月下降0.7个百分点，低于临界点，制造业总体景气水平有所回落。接受采访的专家表示，制造业活动虽出现一定收缩，但并未进入重度不景气区间。预计稳增长政策将持续加码，减税降费等节奏会明显加快，“降息”（本文指LPR和MLF利率下调）、降准有望在二季度落地，甚至不排除在4月份就推出的可能。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9307741.d.html</link>
+            <guid>2609176</guid>
+            <pubDate>Fri, 01 Apr 2022 00:46:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Astra Space(ASTR.O)：第四季度调整后EBITDA损失为3610万美元，调整后净亏损为3750万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9279154.d.html</link>
-            <guid>2608710</guid>
-            <pubDate>Thu, 31 Mar 2022 20:17:40 GMT</pubDate>
+            <title><![CDATA[【河南新增本土确诊病例3例，新增本土无症状感染者17例】 河南卫健委消息，3月31日0-24时，全省新增本土确诊病例3例(郑州市1例、洛阳市1例、信阳市1例)，新增无症状感染者26例(本土新增17例，其中周口市8例、驻马店市2例、洛阳市2例、鹤壁市2例、信阳市2例、郑州市1例；境外输入新增9例)，无新增疑似病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9307210.d.html</link>
+            <guid>2609175</guid>
+            <pubDate>Fri, 01 Apr 2022 00:42:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中国地震台网正式测定：04月01日03时50分在洛亚蒂群岛（南纬22.75度，东经170.80度）发生6.3级地震，震源深度10千米。]]></title>
-            <guid>2608709</guid>
-            <pubDate>Thu, 31 Mar 2022 20:17:28 GMT</pubDate>
+            <title><![CDATA[广东省卫健委：3月31日0-24时，全省新增本土确诊病例4例，珠海报告1例，东莞报告1例，中山报告1例，肇庆报告1例。新增本土无症状感染者14例，广州报告1例，深圳报告2例，汕头报告1例，惠州报告1例，东莞报告8例，肇庆报告1例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9307111.d.html</link>
+            <guid>2609174</guid>
+            <pubDate>Fri, 01 Apr 2022 00:42:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国白宫：目前没有拜登和普京进行对话的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723315.d.html</link>
-            <guid>2608707</guid>
-            <pubDate>Thu, 31 Mar 2022 20:14:53 GMT</pubDate>
+            <title><![CDATA[【市场人士：中海油IPO对市场实质影响有限】中海油A股IPO近日过会，即将开始发行。有业内人士认为，尽管中海油募资规模不小，但在引进战投并设置绿鞋机制的情况之下，对市场的实质影响有限。 有市场分析人士认为，中海油登陆A股对于资金供需的影响轻微，因为本次发行之后流通盘并不大。本次发行占公司流通股的比例仅为5.5%，其中一半是战略配售投资者认购，锁定期不低于12个月，所以真正流通盘也就是在15亿股内。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9307095.d.html</link>
+            <guid>2609173</guid>
+            <pubDate>Fri, 01 Apr 2022 00:42:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国为阿富汗发起44亿美元募捐呼吁】为支持阿富汗人道主义援助，联合国31日同英国、德国和卡塔尔共同举办高级别认捐活动。联合国秘书长古特雷斯表示，今年为阿富汗募捐的目标是44亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723232.d.html</link>
-            <guid>2608705</guid>
-            <pubDate>Thu, 31 Mar 2022 20:13:19 GMT</pubDate>
+            <title><![CDATA[  【广西昨日新增本土无症状感染者16例】3月31日0-24时，广西无新增本土确诊病例，新增本土无症状感染者16例（百色市14例，防城港市2例）。当日治愈出院本土确诊病例11例（钦州市7例，南宁市2例，防城港市2例），解除隔离医学观察本土无症状感染者22例（崇左市10例，防城港市6例，钦州市5例，北海市1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1751023.d.html</link>
+            <guid>2609172</guid>
+            <pubDate>Fri, 01 Apr 2022 00:40:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西方制裁愈演愈烈 俄罗斯国民对普京支持率大幅攀升】俄罗斯一家主要的独立民调机构称，在发动对乌克兰特别军事行动后，普京的民众支持率大幅飙升。不过，克里姆林宫对示威活动的打压令外界怀疑公众可能不愿表达反战思想。总部位于莫斯科的Levada Center称，在3月24-30日对1632名受访者的调查中，约83％的人支持普京担任总统一职，比例比前一个月上升12个百分点，为2017年以来最高水平。认为俄罗斯正在朝着正确方向前进的受访者比例跃升17个百分点至69％，达到1996年该机构开始做民意调查以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723115.d.html</link>
-            <guid>2608702</guid>
-            <pubDate>Thu, 31 Mar 2022 20:11:33 GMT</pubDate>
+            <title><![CDATA[【万科旗下物业服务子公司万物云申请香港IPO】据在香港交易所网站发布的公告，万物云空间科技服务股份有限公司已经提交了首次公开募股(IPO)申请文件。万科持有万物云约62.9%的股权，其他股东包括58同城等。中信里昂证券、花旗和高盛为联席保荐人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9306472.d.html</link>
+            <guid>2609169</guid>
+            <pubDate>Fri, 01 Apr 2022 00:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Astra Space(ASTR.O)盘后涨3.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723025.d.html</link>
-            <guid>2608701</guid>
-            <pubDate>Thu, 31 Mar 2022 20:10:06 GMT</pubDate>
+            <title><![CDATA[【两市融资余额减少57.37亿元】截至3月31日，上交所融资余额报8348.79亿元，较前一交易日减少30.85亿元；深交所融资余额报7458.12亿元，较前一交易日减少26.52亿元；两市合计15806.91亿元，较前一交易日减少57.37亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1750352.d.html</link>
+            <guid>2609159</guid>
+            <pubDate>Fri, 01 Apr 2022 00:36:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Astra Space (ASTR.O)2021年Q4 EPS：前值$-0.76，预期$-0.25，公布$-0.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1723020.d.html</link>
-            <guid>2608700</guid>
-            <pubDate>Thu, 31 Mar 2022 20:09:59 GMT</pubDate>
+            <title><![CDATA[日本贸易大臣：日本将就释放战略石油储备采取相应行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9306047.d.html</link>
+            <guid>2609152</guid>
+            <pubDate>Fri, 01 Apr 2022 00:36:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Astra Space (ASTR.O)2021年Q4 净利润（万美元）：前值-4228.5，公布-5126.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9278682.d.html</link>
-            <guid>2608699</guid>
-            <pubDate>Thu, 31 Mar 2022 20:09:37 GMT</pubDate>
+            <title><![CDATA[日本经济产业大臣萩生田光一：日本将在密切关注国际局势的同时，妥善处理释放石油储备问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1749835.d.html</link>
+            <guid>2609143</guid>
+            <pubDate>Fri, 01 Apr 2022 00:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美国防部官员：“哈里·杜鲁门”号航空母舰将延长部署在地中海地区至夏季】两名美国国防部官员当地时间3月31日表示，美国国防部长奥斯汀已批准一项计划，将“哈里·杜鲁门”号航空母舰在地中海的部署时间延长至夏季。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9278610.d.html</link>
-            <guid>2608698</guid>
-            <pubDate>Thu, 31 Mar 2022 20:08:23 GMT</pubDate>
+            <title><![CDATA[日本央行官员：回应短观调查的企业中，没有多少谈到乌克兰局势的直接影响，尽管危机可能通过原材料成本上升影响企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9305655.d.html</link>
+            <guid>2609141</guid>
+            <pubDate>Fri, 01 Apr 2022 00:33:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：我们看到的是俄罗斯央行和政府人为的支撑卢布汇率；在那之前卢布是衡量经济状况的可靠指标，但现在不行了。]]></title>
-            <guid>2608697</guid>
-            <pubDate>Thu, 31 Mar 2022 20:08:14 GMT</pubDate>
+            <title><![CDATA[日本前首席货币外交官：为美元兑日元率设定底线“毫无意义”，日元的波动率对于衡量当局对日元疲软的警惕程度更为重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9305551.d.html</link>
+            <guid>2609138</guid>
+            <pubDate>Fri, 01 Apr 2022 00:33:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中国地震台网自动测定：04月01日03时50分在洛亚蒂群岛东南[新喀里多尼亚]附近（南纬22.63度，东经170.66度）发生6.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2608692</guid>
-            <pubDate>Thu, 31 Mar 2022 20:03:24 GMT</pubDate>
+            <title><![CDATA[日本经济产业大臣萩生田光一：目前还不清楚美国释放石油储备的最新决定是由美国自己进行，还是由国际能源署（IEA）协调释放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1749664.d.html</link>
+            <guid>2609137</guid>
+            <pubDate>Fri, 01 Apr 2022 00:33:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌方称俄军已完全撤出切尔诺贝利隔离区】当地时间3月31日，乌克兰国家切尔诺贝利核事故隔离区管理局通过社交媒体表示，俄军已全部撤出切尔诺贝利隔离区。截至目前，俄官方对此尚未做出回应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9278266.d.html</link>
-            <guid>2608691</guid>
-            <pubDate>Thu, 31 Mar 2022 20:02:56 GMT</pubDate>
+            <title><![CDATA[【美国财政部将俄罗斯最大芯片制造商列入制裁名单】美国财政部当地时间3月31日表示将制裁俄罗斯网络和科技相关实体和个人。根据声明，本次制裁涉及21个实体和13名个人。美财政部的声明表示，这是“以防俄罗斯逃避制裁和采购西方关键技术”。本次制裁名单中包括俄罗斯最大的芯片制造商和微电子制造、出口商米克朗控股（Joint Stock Company Mikron）。据悉，俄罗斯出口的微电子产品中，Mikron占比过半。该公司也生产集成电路、电子元件，同时还为俄罗斯国家支付卡系统（Mir）生产国内芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1749123.d.html</link>
+            <guid>2609119</guid>
+            <pubDate>Fri, 01 Apr 2022 00:30:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国地学研究中心GFZ：洛亚蒂群岛东南面发生6.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9278144.d.html</link>
-            <guid>2608688</guid>
-            <pubDate>Thu, 31 Mar 2022 20:01:07 GMT</pubDate>
+            <title><![CDATA[日本3月份JIBUN BANK制造业PMI报54.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1749105.d.html</link>
+            <guid>2609118</guid>
+            <pubDate>Fri, 01 Apr 2022 00:30:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国白宫：我们已经看到确凿的证据，表明这场冲突对俄罗斯来说是一场战略灾难。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9277789.d.html</link>
-            <guid>2608683</guid>
-            <pubDate>Thu, 31 Mar 2022 19:55:51 GMT</pubDate>
+            <title><![CDATA[新西兰联储今年将两次就货币政策问题征求公众意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9304733.d.html</link>
+            <guid>2609117</guid>
+            <pubDate>Fri, 01 Apr 2022 00:28:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：未来几天商务部将对俄罗斯采取进一步行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1721871.d.html</link>
-            <guid>2608682</guid>
-            <pubDate>Thu, 31 Mar 2022 19:53:48 GMT</pubDate>
+            <title><![CDATA[【禹洲集团：聘中银国际亚洲及海通国际证券为财务顾问 公司已暂停有关该等债务的延期计划】禹洲集团控股有限公司公告称，已聘请中银国际亚洲有限公司以及海通国际证券有限公司作为其财务顾问，并聘请年利达律师事务所作为其法律顾问。外部顾问将与禹洲集团及其境外债权人共同探讨各种可行措施，实施应对目前状况的整体解决方案。禹洲集团董事会谨此明确表示，拟公平对待所有境外债权人。作为管理其债务风险的努力的一部分，禹洲集团曾与一些债权人就可能延长某些债务的到期日进行讨论。鉴于公司决定寻求整体解决方案，禹洲集团已暂停有关该等债务的延期计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1748792.d.html</link>
+            <guid>2609116</guid>
+            <pubDate>Fri, 01 Apr 2022 00:28:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：商务部将把俄罗斯和白俄罗斯的其他实体列入实体名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1721866.d.html</link>
-            <guid>2608681</guid>
-            <pubDate>Thu, 31 Mar 2022 19:53:41 GMT</pubDate>
+            <title><![CDATA[日本经济产业大臣萩生田光一：日本将不会退出俄罗斯的北极-2液化天然气项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9304400.d.html</link>
+            <guid>2609110</guid>
+            <pubDate>Fri, 01 Apr 2022 00:26:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利总理德拉基办公室：意大利总理德拉基和德国总理朔尔茨在电话会议上就继续制裁俄罗斯的重要性达成了一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9277602.d.html</link>
-            <guid>2608680</guid>
-            <pubDate>Thu, 31 Mar 2022 19:53:17 GMT</pubDate>
+            <title><![CDATA[【茅台10年投入研发经费超60亿元 开展科技创新项目260余项 科技创新赋能产业发展】“科技创新贯穿了茅台每一个关键历史时期，对茅台传承发扬传统酿造工艺、保证产品质量起到了至关重要的作用。”时隔10年，贵州茅台今年重启科技创新和人才工作大会，集团党委书记、董事长丁雄军表示，茅台将传统感官评价与仪器分析相结合，逐步建立并完善特征性风味物质的监控方法和茅台酒品质稳定性评价方法，确保了产品品质稳定可控。10年来，围绕全产业链各领域，茅台集团累计投入研发经费超60亿元，开展各类科技创新项目260余项，并实施了5000余项小改小革项目，实现基层生产单位创新项目全覆盖。根据规划，从今年开始到2030年，茅台将围绕原料、酿造环境、酿造微生物、工艺控制等7个领域，启动200余项科技创新项目。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1748154.d.html</link>
+            <guid>2609098</guid>
+            <pubDate>Fri, 01 Apr 2022 00:24:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Atlantic Equities：给予Snowflake(SNOW.N)中性评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9277595.d.html</link>
-            <guid>2608679</guid>
-            <pubDate>Thu, 31 Mar 2022 19:53:08 GMT</pubDate>
+            <title><![CDATA[  【俄国防部：乌政府官员试图乘坐两架米-8直升机撤离马里乌波尔】根据俄罗斯国防部公布的信息，当地时间3月31日上午，乌克兰政府官员试图乘坐乌克兰民族主义武装“亚速营”的两架米-8直升机撤离马里乌波尔。 同日，顿涅茨克地区武装人员使用缴获的美制“毒刺”导弹在雷巴茨克耶定居点附近击落一架乌克兰米-8直升机，另有一架乌军米-8直升机也被导弹击中，该直升机在空中紧急闪避时在距离海岸20公里处坠毁。 截至目前，乌克兰方面暂无回应。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9303906.d.html</link>
+            <guid>2609090</guid>
+            <pubDate>Fri, 01 Apr 2022 00:24:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Wolfe Research：将纽约梅隆银行(BK.N)评级从跑赢大市下调至同业一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9277472.d.html</link>
-            <guid>2608678</guid>
-            <pubDate>Thu, 31 Mar 2022 19:51:48 GMT</pubDate>
+            <title><![CDATA[日本经济产业大臣萩生田光一：日本不会退出俄罗斯的萨哈林1号、2号油气项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9303816.d.html</link>
+            <guid>2609089</guid>
+            <pubDate>Fri, 01 Apr 2022 00:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：阿根廷政府正在起草能源法案，以方便能源行业公司获得外汇。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1721587.d.html</link>
-            <guid>2608675</guid>
-            <pubDate>Thu, 31 Mar 2022 19:49:41 GMT</pubDate>
+            <title><![CDATA[中国奥园：延迟刊发2021年度业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1747534.d.html</link>
+            <guid>2609071</guid>
+            <pubDate>Fri, 01 Apr 2022 00:21:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【摩根士丹利：将戴尔(DELL.N)的评级从超配降至持股观望】目标价由66美元降至60美元摩根士丹利分析师Erik Woodring将戴尔(DELL.N)的评级从超配下调至持股观望，目标价由66美元降至60美元。Woodring在一份研究报告中告诉投资者，2022年数据中心基础设施的前景很强劲，但个人电脑的前景“出现了裂缝”。分析师说，虽然戴尔在商业终端市场的敞口应该会导致与同行相比“更长期、更强劲的”个人电脑需求，但其估值可能会因短期内个人电脑增长放缓而受到限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9277193.d.html</link>
-            <guid>2608674</guid>
-            <pubDate>Thu, 31 Mar 2022 19:47:43 GMT</pubDate>
+            <title><![CDATA[【经济日报金观平：用好政府债券 扩大有效投资】经济日报头版刊文称，尽快下达剩余专项债额度，扎实做好前期准备工作。今年新增地方政府专项债券额度3.65万亿元，扣除已提前下达额度尚有2万余亿元额度待分配。限额分配应体现正向激励原则、不“撒胡椒面”，向偿债能力强、项目多、储备足的地区倾斜，只有这样才能发挥资金的最大效益并有效控制风险。专项债具有“四两拨千斤”的撬动作用，也就是将专项债券资金用作符合条件的重大项目资本金，从而吸引更多社会资本投入。3.65万亿元投向重点领域，并带动、撬动更多投资，将为经济稳定增长注入强劲动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9303340.d.html</link>
+            <guid>2609070</guid>
+            <pubDate>Fri, 01 Apr 2022 00:20:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  瑞士信贷：将UiPath(PATH.N)目标价从75美元下调至57.5美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1721314.d.html</link>
-            <guid>2608673</guid>
-            <pubDate>Thu, 31 Mar 2022 19:45:04 GMT</pubDate>
+            <title><![CDATA[日本央行：日本制造商表示，预计商业状况恶化主要受到原材料价格上涨和零部件短缺的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9303005.d.html</link>
+            <guid>2609059</guid>
+            <pubDate>Fri, 01 Apr 2022 00:19:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞穗：将UiPath(PATH.N)目标价从70美元下调至40美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1720822.d.html</link>
-            <guid>2608671</guid>
-            <pubDate>Thu, 31 Mar 2022 19:36:22 GMT</pubDate>
+            <title><![CDATA[【英国考虑释放石油储备】美国总统拜登表示，他计划在未来六个月内每天释放100万桶石油储备。美国政府还将敦促国际能源署协调其他石油消费国释放自己的储备。两名知情人士说，该组织将在几天内举行会议。据一位知情人士透露，英国商务大臣 Kwasi Kwarteng正在考虑让英国参与释放储备的行动。该人士拒绝透露该国将从其储备中释放多少石油。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1746533.d.html</link>
+            <guid>2609027</guid>
+            <pubDate>Fri, 01 Apr 2022 00:15:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉空头GLJ Research：预计特斯拉(TSLA.O)第一季度交付315000辆汽车，认为盈利存在风险】GLJ Research分析师Gordon Johnson表示，他预计特斯拉将在周末发布交付报告，预计其在第一季度交付31.5万辆汽车，Johnson指出这将超过目前彭博社一致预期的30.9万辆，但低于目前FactSet预期的31.7万辆。Johnson认为，由于供应链和劳动力成本的增加，特斯拉第一季度的盈利表现可能会令人失望，这在一定程度上被该公司的季度内股价上涨所抵消，他维持对特斯拉股票的卖出评级和67美元的目标价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9276325.d.html</link>
-            <guid>2608669</guid>
-            <pubDate>Thu, 31 Mar 2022 19:32:27 GMT</pubDate>
+            <title><![CDATA[  【安徽新增确诊病例2例 新增无症状感染者49例】3月31日0-24时，安徽省报告新增确诊病例2例（阜阳市颍上县1例，系已报告的无症状感染者转为确诊病例，淮南市凤台县1例），无新增疑似病例，新增无症状感染者49例（蚌埠市龙子湖区2例、淮上区1例，阜阳市颍上县14例、太和县1例，淮南市凤台县20例、田家庵区2例，马鞍山市当涂县2例，芜湖市繁昌区5例，宣城市宣州区1例，铜陵市枞阳县1例），新增治愈出院病例2例（境外输入1例，马鞍山市花山区1例），新增解除医学观察的无症状感染者12例（马鞍山市当涂县5例、花山区4例，铜陵市义安区2例、郊区1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9302226.d.html</link>
+            <guid>2609017</guid>
+            <pubDate>Fri, 01 Apr 2022 00:14:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院：伊核谈判中仍有少数悬而未决的问题，伊朗有责任做出这些决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275728.d.html</link>
-            <guid>2608668</guid>
-            <pubDate>Thu, 31 Mar 2022 19:29:31 GMT</pubDate>
+            <title><![CDATA[日本财务大臣铃木俊一：密切关注汇率走势，日元近期走弱可能会影响日本经济。日本央行有通胀目标，但没有汇率目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301690.d.html</link>
+            <guid>2608993</guid>
+            <pubDate>Fri, 01 Apr 2022 00:10:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：战略石油储备（SPR）释放的规模和持续时间是史无前例的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275672.d.html</link>
-            <guid>2608667</guid>
-            <pubDate>Thu, 31 Mar 2022 19:28:31 GMT</pubDate>
+            <title><![CDATA[日本财务大臣铃木俊一：政府将在国际协议的基础上，与美国和其他货币当局密切沟通，在汇率政策上采取适当措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301628.d.html</link>
+            <guid>2608992</guid>
+            <pubDate>Fri, 01 Apr 2022 00:10:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务院：美国与以色列在伊朗问题上存在“战术分歧”，但没有战略分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1719714.d.html</link>
-            <guid>2608665</guid>
-            <pubDate>Thu, 31 Mar 2022 19:24:27 GMT</pubDate>
+            <title><![CDATA[据俄罗斯卫星网：莫斯科表示，不会对欧盟的敌对行为置之不理，希望欧洲能够理解，与俄罗斯对抗并不符合欧洲的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301614.d.html</link>
+            <guid>2608991</guid>
+            <pubDate>Fri, 01 Apr 2022 00:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国国务院：美国不会承认俄罗斯或其代理人分裂格鲁吉亚主权领土的任何努力的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275368.d.html</link>
-            <guid>2608664</guid>
-            <pubDate>Thu, 31 Mar 2022 19:23:08 GMT</pubDate>
+            <title><![CDATA[日本财务大臣铃木俊一：外汇稳定很重要，剧烈的外汇波动是不可取的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1745608.d.html</link>
+            <guid>2608990</guid>
+            <pubDate>Fri, 01 Apr 2022 00:09:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  动视暴雪(ATVI.O)小幅下挫0.25%，美国调查动视暴雪首席执行官与期权买家的会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275254.d.html</link>
-            <guid>2608663</guid>
-            <pubDate>Thu, 31 Mar 2022 19:21:30 GMT</pubDate>
+            <title><![CDATA[据塔斯社：俄罗斯铁路公司称将按时偿还所有债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301552.d.html</link>
+            <guid>2608989</guid>
+            <pubDate>Fri, 01 Apr 2022 00:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据日经新闻：美国、日本邀请东盟参与制定应对芯片危机的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275164.d.html</link>
-            <guid>2608662</guid>
-            <pubDate>Thu, 31 Mar 2022 19:19:49 GMT</pubDate>
+            <title><![CDATA[  【河北新增2例本土确诊50例无症状】2022年3月31日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例2例，其中保定市1例（外省返冀人员）、廊坊市1例；新增本土无症状感染者50例，其中唐山市32例、廊坊市17例、邢台市1例（外省返冀人员）。治愈出院31例，无症状感染者解除医学观察326例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301483.d.html</link>
+            <guid>2608988</guid>
+            <pubDate>Fri, 01 Apr 2022 00:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HSBC将华泰证券A股评级上调至买进，目标价18元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9275043.d.html</link>
-            <guid>2608661</guid>
-            <pubDate>Thu, 31 Mar 2022 19:18:13 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、推进共建“一带一路”绿色发展（经济新方位）；2、王勇出席第十一届APEC中小企业技术交流暨展览会开幕式时强调 深化中小企业开放合作 促进亚太经济共赢发展；3、 支持阿富汗人民开创美好未来（和音）；4、神舟十三号航天员乘组正为4月中旬返回进行各项准备；5、建设更高水平的法治中国（人民观点）；6、校准网红经济的价值航标（人民时评）；7、种子法实施座谈会在京召开 吉炳轩出席并讲话；8、3月份制造业采购经理指数为49.5%；9、央行加大稳健的货币政策实施力度；10、全国政协社会和法制委员会原副主任傅政华严重违纪违法被开除党籍、开除公职；11、住建部加强房屋市政工程安全生产治理；12、加快构建现代能源体系（人民要论）；13、积极探索生态产品价值实现路径；14、青岛推广专利权质押保险贷款（经济聚焦·支持中小企业发展）；15、大规模留抵退税四月一日起实施 小微企业户数占比将超九成；16、茅台10年投入研发经费超60亿元，开展科技创新项目260余项科技创新赋能产业发展；17、粤港澳大湾区（广东）人才港正式开港；18、《“十四五”中医药发展规划》的五大亮点；19、欧洲实体书店努力推动转型升级（国际视点）。]]></title>
+            <guid>2608987</guid>
+            <pubDate>Fri, 01 Apr 2022 00:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：微软(MSFT.O)收购流程挖掘供应商Minit以发展其自动化产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9274989.d.html</link>
-            <guid>2608660</guid>
-            <pubDate>Thu, 31 Mar 2022 19:17:42 GMT</pubDate>
+            <title><![CDATA[【人民日报评网红经济： 校准网红经济的价值航标】事实上，推动网红经济健康有序发展的努力从未停歇。从整治“刷单”“刷好评”黑灰产业链，到明确直播营销活动从业者的年龄限制和行为红线；从通过教育培训规范网红行为，到将直播活动的各主体纳入管理范围……一系列政策“组合拳”，助力网红经济迈入法治轨道。以雷霆手段治理乱象，以建章立制护航发展，确保网红经济健康发展的制度之网正日益细密。 网红经济具有很强的时代感，前景广阔。校准价值航标、提升专业水准、加强行业自律，致力于为消费者带来更好的产品和体验，网红经济才能实现长足发展，创造更大的经济效益与社会效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9301269.d.html</link>
+            <guid>2608981</guid>
+            <pubDate>Fri, 01 Apr 2022 00:07:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Robinhood(HOOD.O)拉升，跌幅收窄至3.8%，Robinhood将在应用中支持退休投资账户。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9274647.d.html</link>
-            <guid>2608659</guid>
-            <pubDate>Thu, 31 Mar 2022 19:11:48 GMT</pubDate>
+            <title><![CDATA[  【重庆新增2例本土无症状感染者】3月31日0到24时，重庆市无新增本土确诊病例，报告新增本土无症状感染者2例（南岸区1例、两江新区1例），均在管控人员中发现；报告治愈出院本土确诊病例3例（高新区2例、巴南区1例），报告解除本土无症状感染者医学观察2例（巴南区1例、江津区1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1745111.d.html</link>
+            <guid>2608975</guid>
+            <pubDate>Fri, 01 Apr 2022 00:06:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国防部：一些俄罗斯军队可能会前往白俄罗斯，可能会返回。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718083.d.html</link>
-            <guid>2608655</guid>
-            <pubDate>Thu, 31 Mar 2022 18:58:40 GMT</pubDate>
+            <title><![CDATA[黑龙江卫健委：2022年3月31日0-24时，黑龙江省新增新增本土确诊病例16例，新增本土无症状感染者17例，均为隔离管控筛查发现或对风险人员主动排查发现。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9300826.d.html</link>
+            <guid>2608967</guid>
+            <pubDate>Fri, 01 Apr 2022 00:05:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国防部：一些俄罗斯军队离开了切尔诺贝利地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718060.d.html</link>
-            <guid>2608654</guid>
-            <pubDate>Thu, 31 Mar 2022 18:58:15 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交部长拉夫罗夫将在访问新德里期间于4月1日同印度总理莫迪和外长苏杰生举行会谈。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9300806.d.html</link>
+            <guid>2608966</guid>
+            <pubDate>Fri, 01 Apr 2022 00:05:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【北约：俄军正在乌克兰进行重新部署和集结】北约秘书长斯托尔滕贝格3月31日说，在乌克兰的俄罗斯军队正在重新部署和集结，准备在顿巴斯地区发动新的攻势。斯托尔滕贝格在当天举行的2021年度报告新闻发布会上说，俄罗斯最近宣布将减少在基辅周边和乌克兰北部的军事活动，根据北约的情报，俄军不是在撤退，而是在重新部署。俄军正试图重新集结并获得补给，以加强其在顿巴斯地区的攻势。与此同时，俄军仍保持着对基辅等城市的压力，这意味着俄军可能发动更多进攻。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718047.d.html</link>
-            <guid>2608653</guid>
-            <pubDate>Thu, 31 Mar 2022 18:58:00 GMT</pubDate>
+            <title><![CDATA[当代置业在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9300642.d.html</link>
+            <guid>2608959</guid>
+            <pubDate>Fri, 01 Apr 2022 00:04:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  巴克莱：将霍顿房屋(DHI.N)目标价从125美元下调至104美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1718041.d.html</link>
-            <guid>2608652</guid>
-            <pubDate>Thu, 31 Mar 2022 18:57:48 GMT</pubDate>
+            <title><![CDATA[阳光100中国在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1744481.d.html</link>
+            <guid>2608957</guid>
+            <pubDate>Fri, 01 Apr 2022 00:03:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[杰富瑞：将广汽集团(02238.HK)评级下调至持有，目标价6.95港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1717511.d.html</link>
-            <guid>2608650</guid>
-            <pubDate>Thu, 31 Mar 2022 18:49:16 GMT</pubDate>
+            <title><![CDATA[【九安医疗：美国ACC已经累计向公司美国子公司支付货款70.5亿元】九安医疗公告，美国ACC已经累计向公司美国子公司支付货款11.1亿美元，约合人民币70.5亿元，上述货款已全部到账。上述情况符合合同规定的交货和付款安排，该合同在正常履行过程中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9300441.d.html</link>
+            <guid>2608954</guid>
+            <pubDate>Fri, 01 Apr 2022 00:02:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄国防部：将重新开放从马里乌波尔经别尔江斯克到扎波罗热的人道主义走廊】当地时间3月31日晚，俄罗斯国防部发布公告称，应法国总统和德国总理亲自向俄罗斯总统普京提出的请求，俄罗斯武装力量从莫斯科时间4月1日上午10时开始，重新开放从马里乌波尔经别尔江斯克到扎波罗热的人道主义走廊。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9272949.d.html</link>
-            <guid>2608649</guid>
-            <pubDate>Thu, 31 Mar 2022 18:44:49 GMT</pubDate>
+            <title><![CDATA[世茂集团在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1744216.d.html</link>
+            <guid>2608939</guid>
+            <pubDate>Fri, 01 Apr 2022 00:01:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴克莱：将AMD(AMD.O)评级从超配降至持股观望 目标价由148美元下调至115美元】巴克莱分析师Blayne Curtis将AMD(AMD.O)评级从超配下调至持股观望，目标价由148美元下调至115美元。Curtis在一份研究报告中告诉投资者，随着2023年周期性风险的到来，该公司的增长故事 “需要暂停”。分析师说，AMD今年在客户端和服务器市场上仍有能力获得市场份额，但其几个终端市场的周期性风险将在2023年到来，包括PC、游戏和广泛市场。他认为这三个领域的运营水平都在上升，这将延缓AMD增长轨迹的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9272922.d.html</link>
-            <guid>2608648</guid>
-            <pubDate>Thu, 31 Mar 2022 18:44:06 GMT</pubDate>
+            <title><![CDATA[恒大汽车在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9300242.d.html</link>
+            <guid>2608938</guid>
+            <pubDate>Fri, 01 Apr 2022 00:01:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：佳士得拍卖行禁止向位于俄罗斯和白俄罗斯的客户出售奢侈品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1716590.d.html</link>
-            <guid>2608647</guid>
-            <pubDate>Thu, 31 Mar 2022 18:32:35 GMT</pubDate>
+            <title><![CDATA[韩国3月份出口同比增长18.2%，预估为19.0%；韩国3月份进口同比增长27.9%，预估为27.5%。]]></title>
+            <guid>2608937</guid>
+            <pubDate>Fri, 01 Apr 2022 00:01:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国际原子能机构：负责人格罗西将于周五返回维也纳总部，并在下午晚些时候举行新闻发布会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1716379.d.html</link>
-            <guid>2608642</guid>
-            <pubDate>Thu, 31 Mar 2022 18:28:11 GMT</pubDate>
+            <title><![CDATA[  中国武夷：子公司公开招标出售获能公司100%股权，关联方以1.31亿港元中标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743682.d.html</link>
+            <guid>2608925</guid>
+            <pubDate>Thu, 31 Mar 2022 23:59:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  巴克莱：将戴尔(DELL.N)目标价从54美元下调至53美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9272075.d.html</link>
-            <guid>2608641</guid>
-            <pubDate>Thu, 31 Mar 2022 18:27:46 GMT</pubDate>
+            <title><![CDATA[融创中国、中国奥园、花样年控股、奥园健康、彩生活在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743672.d.html</link>
+            <guid>2608924</guid>
+            <pubDate>Thu, 31 Mar 2022 23:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[奥园健康在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743628.d.html</link>
+            <guid>2608923</guid>
+            <pubDate>Thu, 31 Mar 2022 23:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花样年控股在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9299690.d.html</link>
+            <guid>2608922</guid>
+            <pubDate>Thu, 31 Mar 2022 23:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[融创中国在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9299673.d.html</link>
+            <guid>2608921</guid>
+            <pubDate>Thu, 31 Mar 2022 23:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国奥园在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743562.d.html</link>
+            <guid>2608919</guid>
+            <pubDate>Thu, 31 Mar 2022 23:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：欧洲议会主席Roberta Metsola前往乌克兰首都基辅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743487.d.html</link>
+            <guid>2608917</guid>
+            <pubDate>Thu, 31 Mar 2022 23:57:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《时代》公布2022年全球100大最具影响力企业：苹果、比亚迪、微软上榜】《时代》杂志评选出2022年全球100大最具影响力企业。其中，中国企业比亚迪、TikTok上榜，亚马逊、苹果、英伟达等科技企业连续2年入榜。榜单分为5个部分，分别是先锋(Pioneers)、巨头（Titans）、领导者（Leaders）、创新者（Innovators）及颠覆者（Disruptors）。其中，“巨头”公司包括苹果、比亚迪、福特、IBM、微软、Alphabet、辉瑞、Netflix、迪士尼和亚马逊。领导者企业则包括美版“饿了么”DoorDash、Spotify、索尼、民宿巨头Airbnb等企业。而这100家企业仍然以为美国企业为主，当中70多家总部在美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1743017.d.html</link>
+            <guid>2608911</guid>
+            <pubDate>Thu, 31 Mar 2022 23:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京本土连续2天无新增】3月31日0时至24时，北京无新增本土确诊病例、疑似病例和无症状感染者；新增2例境外输入确诊病例和4例无症状感染者，无新增疑似病例。治愈出院12例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1742799.d.html</link>
+            <guid>2608903</guid>
+            <pubDate>Thu, 31 Mar 2022 23:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中兵红箭披露业绩快报：公司全年累计实现营业总收入75.14亿元，同比增长16.26%；实现归属于上市公司股东的净利润4.72亿元，同比增长71.93%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwiwss9298838.d.html</link>
+            <guid>2608899</guid>
+            <pubDate>Thu, 31 Mar 2022 23:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[佳兆业集团在香港暂停交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1742723.d.html</link>
+            <guid>2608897</guid>
+            <pubDate>Thu, 31 Mar 2022 23:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大皇家银行：美国此次战略储备原油投放后将没有更多子弹】加拿大皇家银行分析师发布报告称，在计划中用6个月投放1.8亿桶原油之后，美国将用光石油储备子弹，因国际能源署成员国需要持有相当于90天净进口量的战略储备。鉴于进口量约为650万桶/日，出口量为300万桶/日，净差值乘以90天意味着，为了继续遵守国际能源署规定，美国必须持有3.15亿桶的战略储备原油。市场多头可以逢低买入，因为知道没有更多战略储备油可以投放，并且美国可能需要买回原油以补充储备。未来三个季度，全球原油库存将平均减少180万桶-200万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1742505.d.html</link>
+            <guid>2608895</guid>
+            <pubDate>Thu, 31 Mar 2022 23:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本3月份大型制造业短观调查指数报14，预估为12。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-01/detail-imcwipii1742356.d.html</link>
+            <guid>2608894</guid>
+            <pubDate>Thu, 31 Mar 2022 23:50:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
