@@ -1,4 +1,4 @@
-fetch('https://h52e5.github.io/sina-news/rss.json')
+fetch('./rss.json')
 .then(async function (response) {
   const res = await response.json();
   const items = res.items;
