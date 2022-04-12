@@ -4,373 +4,502 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 12 Apr 2022 15:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：美国民主党参议员沃伦就印度-太平洋经济框架致信美国商务部长雷蒙多和美国贸易代表戴琪。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1464931.d.html</link>
-            <guid>2627100</guid>
-            <pubDate>Tue, 12 Apr 2022 15:05:41 GMT</pubDate>
+            <title><![CDATA[禁止化学武器组织OPCW：正在密切关注乌克兰的局势，对最近未经证实的在马里乌波尔对化学武器的使用报道表示关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3926295.d.html</link>
+            <guid>2627275</guid>
+            <pubDate>Tue, 12 Apr 2022 18:02:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音(BA.N)：3月交付41架飞机，其中包含34架737 MAX。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1464515.d.html</link>
-            <guid>2627097</guid>
-            <pubDate>Tue, 12 Apr 2022 15:01:34 GMT</pubDate>
+            <title><![CDATA[美国3月政府预算 -1927亿美元，预期 -1900亿美元，前值 -6596亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1480177.d.html</link>
+            <guid>2627272</guid>
+            <pubDate>Tue, 12 Apr 2022 18:01:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国官员：美国将在4月中旬完成向乌克兰运送价值1亿美元“标枪”反坦克导弹的任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3910154.d.html</link>
-            <guid>2627094</guid>
-            <pubDate>Tue, 12 Apr 2022 14:59:35 GMT</pubDate>
+            <title><![CDATA[标普500指数和道指转跌，均跌近0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1479934.d.html</link>
+            <guid>2627271</guid>
+            <pubDate>Tue, 12 Apr 2022 17:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：意大利总理德拉吉将访问刚果共和国和安哥拉寻求达成天然气供应协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3909588.d.html</link>
-            <guid>2627088</guid>
-            <pubDate>Tue, 12 Apr 2022 14:51:49 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基（就通胀问题）：我们支持美联储重新调整其政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3924949.d.html</link>
+            <guid>2627270</guid>
+            <pubDate>Tue, 12 Apr 2022 17:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[媒体调查显示，在美国3月CPI报告发布后，通胀预期开始下降，第二季度和年底的CPI预期分别为7.6%和5.7%。根据至少6家华尔街银行的说法，这可能是通胀浪潮的顶峰。此外，对于普通美国民众来说，实际平均每小时收入已连续第12个月下降，证实了NBC新闻最近的民意调查，调查显示62%的美国人表示他们的收入无法跟上不断上涨的生活成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3909579.d.html</link>
-            <guid>2627087</guid>
-            <pubDate>Tue, 12 Apr 2022 14:51:43 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基（就通胀问题）：美联储是独立的，白宫支持他们的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1478848.d.html</link>
+            <guid>2627269</guid>
+            <pubDate>Tue, 12 Apr 2022 17:48:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【铝业企业四川其亚集团大举进军光伏上游多晶硅领域】其亚集团近日公布所属企业年产20万吨高纯晶硅项目环评信息公示。项目位于新疆准东经济技术开发区，一期、二期分别建设年产10万吨高纯晶硅生产线。 官网资料显示，其亚集团位于四川，成立于1989年，主业为炭素、发电、氧化铝、电解铝生产等，位列全国铝行业前10强。 今年以来，多晶硅环节超高额的利润诱惑吸引了众多跨界玩家大举投资。 (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3909194.d.html</link>
-            <guid>2627083</guid>
-            <pubDate>Tue, 12 Apr 2022 14:48:27 GMT</pubDate>
+            <title><![CDATA[苹果公司CEO库克谴责欧美的反垄断监管，称直接从互联网安装软件到iOS系统将危害到iPhone用户的隐私和安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3924903.d.html</link>
+            <guid>2627268</guid>
+            <pubDate>Tue, 12 Apr 2022 17:48:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国总统计划率团与其他欧盟国家代表团于13日共同出访乌克兰】当地时间12日，据德国和俄罗斯媒体报道，德国总统施泰因迈尔计划率团与其他欧盟国家代表团于13日共同出访乌克兰。其他国家代表团已获准前往基辅，但乌克兰总统泽连斯基因施泰因迈尔此前的亲俄立场和言论，不希望在基辅与他会面。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1463245.d.html</link>
-            <guid>2627082</guid>
-            <pubDate>Tue, 12 Apr 2022 14:47:29 GMT</pubDate>
+            <title><![CDATA[“新债王”Gundlach：美国通胀正在抵达峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3924857.d.html</link>
+            <guid>2627266</guid>
+            <pubDate>Tue, 12 Apr 2022 17:47:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[媒体：纽约警方正在调查纽约地铁枪击案是否为恐怖事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1462818.d.html</link>
-            <guid>2627081</guid>
-            <pubDate>Tue, 12 Apr 2022 14:43:08 GMT</pubDate>
+            <title><![CDATA[  【独联体国家将加强防空领域合作】独联体国家国防部长委员会防空体系协调分委会第54次会议当地时间12日在哈萨克斯坦南部城市齐姆肯特举行。委员会副主席格列霍夫表示，与会各国军方代表重点讨论了如何在独联体联合防空军事合作框架内完善双边和多边军事及军事技术合作，确定了2022年度的合作任务和联合演习计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1478066.d.html</link>
+            <guid>2627263</guid>
+            <pubDate>Tue, 12 Apr 2022 17:39:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中证绿色电力50指数等2条指数将于5月9日发布】中证指数有限公司将于2022年5月9日正式发布中证绿色电力50指数与中证机床指数，为市场提供更多投资标的。中证绿色电力50指数选取50只业务涉及水电、风电、光伏发电以及垃圾发电等其他能源发电的上市公司证券作为样本，进一步丰富中证绿色主题指数体系。中证机床指数从沪深市场中选取50只业务涉及机床整机及其关键零部件制造和服务的上市公司证券作为样本，以反映机床产业上市公司证券的整体表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1462737.d.html</link>
-            <guid>2627079</guid>
-            <pubDate>Tue, 12 Apr 2022 14:41:32 GMT</pubDate>
+            <title><![CDATA[【欧洲头号资管公司提醒对冲勒庞胜选法国下一任总统的风险】作为欧洲最大的资产管理公司东方汇理资产管理（Amundi）的首席投资官Vincent Mortier向那些确信马克龙4月将击败民族主义领袖勒庞赢得法国总统大选的投资者发出警告，称“市场似乎对马克龙胜选感到自满……对市场不友好的勒庞获胜的可能性不容忽视”，因此“应该考虑进行对冲。”东方汇理资产管理仍对欧洲股票和欧元持“谨慎”态度，但看好美国的优质股和价值股，“现在不是给投资组合增加更多风险的时候，应该在各市场间进行轮动，并对波动率进行一些短期对冲”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3924013.d.html</link>
+            <guid>2627262</guid>
+            <pubDate>Tue, 12 Apr 2022 17:37:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俞敏洪辟谣将离开新东方：不是扔下新东方不管】新东方创始人俞敏洪4月12日在“老俞闲话”微信公众号发文辟谣“将离开新东方”传闻。俞敏洪称：“我不是马上要离开新东方，也不是扔下新东方不管，而是希望自己站在更高的层次来审视新东方，把新东方带向更好的发展方向。尽管新东方是我魂牵梦绕的地方，但我真是更喜欢远离新东方一点，至少希望自己远离新东方比较琐碎的事情，在大方向上把脉就行，集中大家的智慧把新东方做好” 。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3908588.d.html</link>
-            <guid>2627078</guid>
-            <pubDate>Tue, 12 Apr 2022 14:41:10 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：正在寻求对乌克兰进行迅速援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1477873.d.html</link>
+            <guid>2627261</guid>
+            <pubDate>Tue, 12 Apr 2022 17:37:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【兆新股份回复问询函：有息负债显著降低 具备持续经营能力】兆新股份(002256)4月12日晚间回复深交所年报问询函称，截止回函日，公司账面有息负债已显著降低至5.29亿元，期间再未出现过债务违约导致的财务风险。在资金流动性方面，截至2021年12月31日，公司货币资金1.06亿元，较上年度增加118.38%。公司主营业务盈利能力稳定，不存在主要银行账户被冻结的情形。公司具备持续经营能力，且将于2022年完成资产负债结构的优化工作，不存在被再次实施风险警示的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1462681.d.html</link>
-            <guid>2627077</guid>
-            <pubDate>Tue, 12 Apr 2022 14:40:59 GMT</pubDate>
+            <title><![CDATA[乌克兰谈判代表：有关乌克兰外部安全保障的谈判在周二将继续以线上的形式进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3923928.d.html</link>
+            <guid>2627260</guid>
+            <pubDate>Tue, 12 Apr 2022 17:36:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫经济顾问Bernstein：拜登正竭尽所能地帮助降低能源价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3908341.d.html</link>
-            <guid>2627076</guid>
-            <pubDate>Tue, 12 Apr 2022 14:39:07 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：俄罗斯总统普京将继续在乌克兰的军事行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3923889.d.html</link>
+            <guid>2627259</guid>
+            <pubDate>Tue, 12 Apr 2022 17:35:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[在被问及普京关于谈判已进入死胡同的评论时，乌克兰总统顾问表示，谈判仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3908169.d.html</link>
-            <guid>2627074</guid>
-            <pubDate>Tue, 12 Apr 2022 14:37:07 GMT</pubDate>
+            <title><![CDATA[白宫新闻秘书珍·普萨基：总统拜登将继续采取行动应对价格上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1477732.d.html</link>
+            <guid>2627258</guid>
+            <pubDate>Tue, 12 Apr 2022 17:35:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ i茅台官微“小茅i茅台”：i茅台APP上线13天，i茅台注册总用户数突破900万，累计超3300万人、8900万人次参与享约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3908125.d.html</link>
-            <guid>2627072</guid>
-            <pubDate>Tue, 12 Apr 2022 14:36:41 GMT</pubDate>
+            <title><![CDATA[美国白宫：拜登和约翰逊在电话中强调了两国继续向乌克兰提供安全和人道主义援助的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1477713.d.html</link>
+            <guid>2627257</guid>
+            <pubDate>Tue, 12 Apr 2022 17:35:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  上海市闵行区第二批“三区”划分区域名单公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3908104.d.html</link>
-            <guid>2627071</guid>
-            <pubDate>Tue, 12 Apr 2022 14:36:27 GMT</pubDate>
+            <title><![CDATA[  【海南昨日新增14例本土确诊病例】据海南省卫健委消息，4月12日0—24时，海南省新增14例本土确诊病例（含13例无症状感染者转确诊病例），均为三亚报告；无本土无症状感染者报告。除无症状感染者转确诊病例13例外，在集中隔离场所筛查发现1例确诊病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3923830.d.html</link>
+            <guid>2627256</guid>
+            <pubDate>Tue, 12 Apr 2022 17:35:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【宁德市工信部：发放通行证 保证宁德时代在各个高速卡口通行的时效】据福建卫视报道，宁德市工业和信息化局副局长陈昀表示，“除了我们发放通行证之外，（还）保证宁德时代在各个高速卡口通行的时效”、“（昨天）我们凌晨帮助宁德时代临时协调了150部的重点物质的运输车辆。”数据显示，截至4月11号，宁德市共发放工业企业货物运输车辆通行证605张，保证了企业的正常运转。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3907829.d.html</link>
-            <guid>2627069</guid>
-            <pubDate>Tue, 12 Apr 2022 14:33:31 GMT</pubDate>
+            <title><![CDATA[  【英国首相约翰逊已缴纳违规聚会的罚款并致歉 但表示不会辞职】当地时间12日，英国首相约翰逊已缴纳违规聚会的罚款并致歉，但他表示不会辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3923004.d.html</link>
+            <guid>2627255</guid>
+            <pubDate>Tue, 12 Apr 2022 17:26:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美媒：纽约一地铁站多人中枪】美国纽约市消防部门表示，纽约市布鲁克林一地铁站多人中枪，现场还发现了未引爆的装置。了解调查情况的执法部门消息人士透露，初步信息显示，嫌疑人身穿建筑相关服装。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1461756.d.html</link>
-            <guid>2627067</guid>
-            <pubDate>Tue, 12 Apr 2022 14:30:56 GMT</pubDate>
+            <title><![CDATA[  【经参：多路资金加速进场稳定A股信心】经参文章指出，日前，证监会、国资委和全国工商联联合发布关于进一步支持上市公司健康发展的通知，多举措支持上市公司发展，维护资本市场稳定。今年以来，包括产业资本和机构投资者在内的多路资金也积极采取行动，回购、增持动作频频。业内人士表示，三部委发布的针对资本市场的多条举措从营造良好发展环境、稳定企业预期、增进价值回归、稳定投资者预期等多方面，有力稳定市场信心。预计未来稳增长政策仍将发力，A股市场估值优势日渐显现。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1476662.d.html</link>
+            <guid>2627253</guid>
+            <pubDate>Tue, 12 Apr 2022 17:25:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【匈牙利计划修改与俄气合同以满足“卢布结算令”】匈牙利外交与对外经济部部长西雅尔多在新闻发布会上表示，匈牙利计划修改与俄罗斯天然气工业股份公司签订的合同，以满足“卢布结算令”。根据计划，匈牙利国有企业MVM下属企业在通过俄罗斯天然气工业银行支付最新一笔天然气账单后，俄罗斯天然气工业银行将根据匈牙利方面的要求，将用于支付的欧元兑换成卢布。然后再转账给俄罗斯天然气工业股份公司。西雅尔多称，由于匈牙利的大部分天然气供应都依赖从俄罗斯进口，修改天然气合同能够在确保本国能源供应的同时，与欧盟针对俄罗斯的制裁措施保持一致。不过当天，西雅尔多并未透露更多合同修改细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1461560.d.html</link>
-            <guid>2627065</guid>
-            <pubDate>Tue, 12 Apr 2022 14:28:33 GMT</pubDate>
+            <title><![CDATA[  【北交所IPO主动撤单频现 年内已达18家】北交所开市以来，IPO企业申报和审核进展一直受到市场关注。今年以来，申请北交所上市企业主动撤单现象频现。据北交所公告统计发现，北交所年内已有太川股份、绿联智能、杭州路桥等18家企业IPO审核终止，且均为企业主动撤回申请材料，其中3月份就有11家。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1476499.d.html</link>
+            <guid>2627252</guid>
+            <pubDate>Tue, 12 Apr 2022 17:23:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟敦促欧佩克增加石油产量】欧盟委员会负责能源事务的委员西姆森与石油输出国组织（欧佩克）秘书长穆罕默德·巴尔金在维也纳共同主持第15次欧盟-欧佩克高级别能源对话。两大国际组织在会上交流了对近期和远期世界石油市场形势的展望，认为俄乌冲突造成的国际石油市场不稳定对世界经济发展是不利的。欧盟方面向欧佩克介绍了欧盟寻求摆脱对俄能源依赖的措施和计划，并敦促欧佩克采取负责任的态度，增加石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3907237.d.html</link>
-            <guid>2627064</guid>
-            <pubDate>Tue, 12 Apr 2022 14:26:26 GMT</pubDate>
+            <title><![CDATA[【约翰逊与拜登通电话，讨论加快对乌克兰援助的必要性】当地时间12日，英国首相鲍里斯·约翰逊与美国总统拜登通电话，讨论加快对乌克兰援助的必要性。约翰逊在社交媒体上表示，在通话中就其9日与乌克兰总统泽连斯基在基辅见面的情况与拜登进行了交流，并指出两国同意将进一步加快对乌克兰及其民众的援助。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3922479.d.html</link>
+            <guid>2627251</guid>
+            <pubDate>Tue, 12 Apr 2022 17:21:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国3月份住房成本继续飙升，住房通胀同比上涨5.0%，高于2月的4.7%，为1991年5月以来最高水平；租金同比上涨4.44%，高于2月的4.17%，为2007年5月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1461366.d.html</link>
-            <guid>2627063</guid>
-            <pubDate>Tue, 12 Apr 2022 14:26:06 GMT</pubDate>
+            <title><![CDATA[惠誉：美国证交会的新规可能会对衍生品敞口占净资产10%以上的基金产生更大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3922383.d.html</link>
+            <guid>2627250</guid>
+            <pubDate>Tue, 12 Apr 2022 17:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国白宫与纽约市长就地铁枪击案进行联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1461307.d.html</link>
-            <guid>2627062</guid>
-            <pubDate>Tue, 12 Apr 2022 14:25:27 GMT</pubDate>
+            <title><![CDATA[【纽约布鲁克林地铁站10人中弹 嫌疑人仍在逃】周二交通早高峰时段，纽约布鲁克林Sunset Park的一个地铁站内发生袭击事件，16人受伤，其中10人中弹。目前还无法确知作案动机，五人伤情危重但情况还算稳定。纽约州州长在发布会上表示，“嫌疑人仍然在逃，纽约市警察局、消防局、州警，所有参与调查的人都抱着同一个目的，那就是阻止这种疯狂的犯罪。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3922257.d.html</link>
+            <guid>2627249</guid>
+            <pubDate>Tue, 12 Apr 2022 17:18:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国官员：俄罗斯空军集中在马里乌波尔和顿巴斯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3907084.d.html</link>
-            <guid>2627061</guid>
-            <pubDate>Tue, 12 Apr 2022 14:24:31 GMT</pubDate>
+            <title><![CDATA[惠誉：美国证交会有关衍生品使用的新规对大多数基金影响不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1475987.d.html</link>
+            <guid>2627248</guid>
+            <pubDate>Tue, 12 Apr 2022 17:17:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[联合国粮食援助负责人就与乌克兰冲突有关的粮食供应紧张表示，这是一个多年的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3906797.d.html</link>
-            <guid>2627060</guid>
-            <pubDate>Tue, 12 Apr 2022 14:21:21 GMT</pubDate>
+            <title><![CDATA[美联储周二（4月12日）逆回购工具使用规模为1.710万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3922140.d.html</link>
+            <guid>2627247</guid>
+            <pubDate>Tue, 12 Apr 2022 17:17:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国3月份消费者价格指数（CPI）同比增长8.5%，涨幅达到1981年末以来最大，上涨主要由能源和商品主导，这增强了对美联储下个月加息50个基点的预期；当月CPI环比上涨1.2%，已连续22个月环比上涨，为2005年9月以来最大涨幅，汽油价格贡献了环比涨幅的一半，商品通胀实际上环比下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1460898.d.html</link>
-            <guid>2627059</guid>
-            <pubDate>Tue, 12 Apr 2022 14:20:59 GMT</pubDate>
+            <title><![CDATA[【多地限购限售政策松绑，有银行表示“房产抵押后第二天放款”】今年以来已有多地放松或取消了限购限售，广东省住房政策研究中心首席研究员李宇嘉表示，与下调房贷利率、降低首付比例、提高公积金贷款额度等政策相比，近期部分城市陆续放开限购、限售等买房限制性措施，对房地产市场的刺激作用更大。此外，近期各大银行在住房贷款发放方面也有很大变化，房贷放款进一步提速。以北京为例，部分银行审批加放款的时长已缩短至5天之内。一家国有大行的个贷经理表示，批贷大概需要3至5个工作日，房子过完户、办完抵押后，通常第二天即可放款。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3921719.d.html</link>
+            <guid>2627245</guid>
+            <pubDate>Tue, 12 Apr 2022 17:12:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中国地震台网自动测定：04月12日22时15分在四川阿坝州汶川县附近（北纬31.67度，东经103.54度）发生3.2级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2627057</guid>
-            <pubDate>Tue, 12 Apr 2022 14:17:27 GMT</pubDate>
+            <title><![CDATA[美国纽约市市长：伤亡发生后，地铁站的乘客对伤者伸出了援手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3921651.d.html</link>
+            <guid>2627244</guid>
+            <pubDate>Tue, 12 Apr 2022 17:11:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国小企业乐观程度指数跌至近两年低点】 全国独立企业联合会（NFIB）最新数据显示，3月份小企业乐观程度指数从95.6降至93.2，连续第三个月下滑，并创2020年4月以来最低。小企业主中预计未来六个月商业状况会有所改善的净比例暴跌至-49％，为1986年开始有月度数据以来的最低水平。约31％的受访者表示，通胀是他们3月份最大的经营挑战，高于一个月前的26％，也是1980年代中期以来的最大比例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1460487.d.html</link>
-            <guid>2627056</guid>
-            <pubDate>Tue, 12 Apr 2022 14:17:20 GMT</pubDate>
+            <title><![CDATA[  苏州各地4月12日进行了区域核酸检测完成核酸采样1042万人，24小时内将会全部出结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1475429.d.html</link>
+            <guid>2627243</guid>
+            <pubDate>Tue, 12 Apr 2022 17:11:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国司法部长发言人：部长加兰已经收到了初步通报，正在监测布鲁克林的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1460369.d.html</link>
-            <guid>2627055</guid>
-            <pubDate>Tue, 12 Apr 2022 14:16:10 GMT</pubDate>
+            <title><![CDATA[美国纽约市市长：目前还没有确定嫌疑人的身份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3921356.d.html</link>
+            <guid>2627242</guid>
+            <pubDate>Tue, 12 Apr 2022 17:08:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台风“鲇鱼”已造成菲律宾至少43人死亡】当地时间12日，菲律宾莱特省贝贝市（Baybay City）政府发布消息称，台风“鲇鱼”导致该市出现严重的山体滑坡，目前已造成至少36人死亡。此外，东内格罗斯省、金达沃省、东达沃省和萨马省有7人溺水死亡。上述省市的累计死亡人数已达43人。另外，贝贝市还有105人受伤，27人失踪，19932人被撤离至安全区域。金达沃省有1人失踪。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1460230.d.html</link>
-            <guid>2627054</guid>
-            <pubDate>Tue, 12 Apr 2022 14:14:52 GMT</pubDate>
+            <title><![CDATA[美国五角大楼：还没有看到任何证据可以证实俄罗斯军事装备被送往芬兰边境。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3921329.d.html</link>
+            <guid>2627241</guid>
+            <pubDate>Tue, 12 Apr 2022 17:08:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国总统施泰因迈尔访问波兰】当地时间12日，德国联邦总统施泰因迈尔前往波兰进行访问。根据德国联邦总统办公室发表的声明，施泰因迈尔当天在华沙与波兰总统杜达的会谈将重点聚焦俄乌局势问题。通过此次访问，施泰因迈尔希望可以释放出德国与波兰共同支持乌克兰的信号。]]></title>
-            <guid>2627052</guid>
-            <pubDate>Tue, 12 Apr 2022 14:13:39 GMT</pubDate>
+            <title><![CDATA[美国10年期国债收益率短线上扬不到4个基点，使得日内整体跌幅收窄至7.0个基点，重返2.7120%一线，美国财政部发行10年期美债，得标利率2.720%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1474811.d.html</link>
+            <guid>2627240</guid>
+            <pubDate>Tue, 12 Apr 2022 17:04:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国建设银行深圳市分行原党委书记、行长王业接受纪律审查和监察调查】据中央纪委国家监委驻中国建设银行纪检监察组、山东省纪委监委消息：中国建设银行深圳市分行原党委书记、行长王业涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国建设银行纪检监察组纪律审查和山东省青岛市监察委员会监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1460103.d.html</link>
-            <guid>2627051</guid>
-            <pubDate>Tue, 12 Apr 2022 14:13:18 GMT</pubDate>
+            <title><![CDATA[土耳其或将鼓励出口商把40%的收入转换为土耳其里拉。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1474572.d.html</link>
+            <guid>2627238</guid>
+            <pubDate>Tue, 12 Apr 2022 17:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【莱尔科技：拟开展应用于汽车后市场的车用材料新业务】莱尔科技公告，公司本次拟开展应用于汽车后市场的车用材料新业务，充分利用公司在汽车行业积累的客户资源，开发销售漆面保护膜、窗膜、车身改色膜、天窗膜、星空膜等产品，并同步延伸至车用材料全系列类目产品；进一步推动和扩大公司新能源汽车产业链的布局范围，更好地优化公司资源配置，增强公司的核心竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1459080.d.html</link>
-            <guid>2627049</guid>
-            <pubDate>Tue, 12 Apr 2022 14:05:08 GMT</pubDate>
+            <title><![CDATA[英国总统约翰逊和美国总统拜登同意继续共同努力，加大对俄罗斯总统普京的经济压力，并果断结束西方对俄罗斯石油和天然气的依赖。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473811.d.html</link>
+            <guid>2627236</guid>
+            <pubDate>Tue, 12 Apr 2022 16:53:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【日本防卫大臣与意大利国防部长进行会谈】日本防卫大臣岸信夫与到访的意大利国防部长洛伦佐·圭里尼举行会谈。双方就俄乌局势展开了讨论，并表示将进一步推进两国防卫合作。这是两国防长时隔大约5年进行的见面会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1458802.d.html</link>
-            <guid>2627048</guid>
-            <pubDate>Tue, 12 Apr 2022 14:02:40 GMT</pubDate>
+            <title><![CDATA[英国首相约翰逊和美国总统拜登讨论了加快对乌克兰援助的必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473628.d.html</link>
+            <guid>2627234</guid>
+            <pubDate>Tue, 12 Apr 2022 16:52:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沪深交易所召开信用保护工具支持民企债券融资座谈会】沪深交易所于4月12日召开“信用保护工具支持民营企业债券融资座谈会”。证监会债券部在会上指出，证监会积极支持市场各方发挥信用保护工具在支持民营企业融资过程中的作用，发挥市场化增信作用，鼓励市场机构、政策性机构通过创设信用保护工具为民营企业债券融资提供增信支持，尽快推出组合型信用保护合约业务，并便利回购融资机制，适当放宽受信用保护的民营企业债券回购质押库准入门槛。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1458357.d.html</link>
-            <guid>2627046</guid>
-            <pubDate>Tue, 12 Apr 2022 13:58:25 GMT</pubDate>
+            <title><![CDATA[美元指数DXY短线一度上扬16点，日内转涨，现报100.22。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919815.d.html</link>
+            <guid>2627233</guid>
+            <pubDate>Tue, 12 Apr 2022 16:51:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上交所：5月9日正式发布上证科创板生物医药指数】上海证券交易所和中证指数有限公司将于2022年5月9日正式发布上证科创板生物医药指数。经流动性筛选后，上证科创板生物医药指数从科创板市场中选取50只市值较大的生物医药、生物医学工程、生物农业、生物质能、其他生物业等领域上市公司证券作为指数样本，以反映科创板市场代表性生物医药产业上市公司证券的整体表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1457683.d.html</link>
-            <guid>2627045</guid>
-            <pubDate>Tue, 12 Apr 2022 13:51:42 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我非常关注收益率曲线的后半部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919619.d.html</link>
+            <guid>2627232</guid>
+            <pubDate>Tue, 12 Apr 2022 16:50:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京：在乌克兰的特别军事行动仍在按计划进行】俄白元首结束近3小时的会谈，共同举行记者会。俄罗斯总统普京在记者会上表示，在乌克兰的特别军事行动仍在按计划进行。军事行动将继续下去，主要目标是帮助顿巴斯人民，而不是占领乌克兰。俄罗斯需要通过尽量减少战损来推进目标达成。普京还表示，乌克兰是西方实现自身目的的工具，西方毫不在意乌克兰人民的利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1457231.d.html</link>
-            <guid>2627043</guid>
-            <pubDate>Tue, 12 Apr 2022 13:48:40 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我认为收益率曲线远端部分并没有显示任何值得担忧的信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473343.d.html</link>
+            <guid>2627231</guid>
+            <pubDate>Tue, 12 Apr 2022 16:50:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯总理米舒斯京表示，他已签署了一项命令，向俄罗斯的房屋建筑商划拨350亿卢布优惠贷款，以降低延期交工的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1457007.d.html</link>
-            <guid>2627041</guid>
-            <pubDate>Tue, 12 Apr 2022 13:46:36 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我仍然关注收益率曲线的形状。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919487.d.html</link>
+            <guid>2627230</guid>
+            <pubDate>Tue, 12 Apr 2022 16:49:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第五届进博会签约面积已超规划面积70%】4月12日下午，第五届进博会能源低碳及环保技术专区宣介会在线上举行。中国国际进口博览局副局长刘福学表示，目前第五届进博会各项筹备工作稳步推进，企业报名参展积极踊跃，签约面积超过规划面积的70%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1456959.d.html</link>
-            <guid>2627040</guid>
-            <pubDate>Tue, 12 Apr 2022 13:46:14 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：美国经济的健康状况预示着能够在不引发经济衰退的情况下降低通货膨胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473293.d.html</link>
+            <guid>2627229</guid>
+            <pubDate>Tue, 12 Apr 2022 16:49:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[执法部门称，布鲁克林地铁站枪击案造成至少13人受伤，其中一人伤势严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3902914.d.html</link>
-            <guid>2627039</guid>
-            <pubDate>Tue, 12 Apr 2022 13:45:48 GMT</pubDate>
+            <title><![CDATA[  【欧洲议会代表团访问突尼斯 商讨推动突政治改革】当地时间11日，欧洲议会外事委员会代表团访问突尼斯，就该国政治改革和恢复体制稳定等议题进行磋商，代表团由欧洲议会外事委员会突尼斯问题常设报告员迈克尔·加勒率领，成员包括欧洲议会负责马格里布国家关系议会间代表等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919393.d.html</link>
+            <guid>2627227</guid>
+            <pubDate>Tue, 12 Apr 2022 16:48:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞银：将美国科技股评级提升至超配】瑞银：将美国科技股、美国房地产股评级提升至超配；将美国工业股评级下调至减配。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1456821.d.html</link>
-            <guid>2627038</guid>
-            <pubDate>Tue, 12 Apr 2022 13:45:26 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我不会对任何具体数字夸夸其词，但缩减资产负债表确实将有助于收紧政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473083.d.html</link>
+            <guid>2627226</guid>
+            <pubDate>Tue, 12 Apr 2022 16:47:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【交通运输部发布关于切实加强水路运输保通保畅有关工作的通知】 通知提出，涉疫地区交通运输主管部门要推动当地联防联控机制为港口作业人员通勤提供必要保障。港口企业要充实港口一线作业人员力量，保持港口24小时作业。封控区内港口企业应提前安排作业人员进驻港口，实行封闭管理。对来自涉疫地区的内贸船舶，实行非必要不下船、非必要不登轮，推行非接触式作业。对进出港口码头的集疏运货运车辆，各地要实行“港区—公路通行段—目的地”全链条的闭环管理和点对点运输。发挥区域联动优势，推动集装箱集疏港运输“公转水”“公转铁”。（交通运输部官方微信公众号）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3902605.d.html</link>
-            <guid>2627036</guid>
-            <pubDate>Tue, 12 Apr 2022 13:42:22 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：但这些估计是不确定的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1473064.d.html</link>
+            <guid>2627225</guid>
+            <pubDate>Tue, 12 Apr 2022 16:47:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Lucid盘初涨超4%】Lucid Group盘初涨超4%，此前宣布已开始交付Lucid Air Grand Touring，并将推出新版本的Lucid Air Grand Touring Performance。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1456050.d.html</link>
-            <guid>2627035</guid>
-            <pubDate>Tue, 12 Apr 2022 13:37:58 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：在整个政策收缩过程中，资产负债表的收缩可能相当于增加两到三次加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919260.d.html</link>
+            <guid>2627224</guid>
+            <pubDate>Tue, 12 Apr 2022 16:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【交通运输部：全力以赴保障上海港畅通运转】交通运输部发布关于切实加强水路运输保通保畅有关工作的通知，通知要求，全力以赴保障上海港畅通运转。上海市交通委、上海国际港务集团要协调国际班轮公司保障在上海港挂靠的航线航班和舱位投入，不得随意减少挂靠上海港；在当地政府领导下，会同当地商务等部门督促货主、货代企业尽快从港口提离本地集装箱货物；及时梳理涉及江苏、浙江、安徽等周边省份的冷藏集装箱货物信息，加强与相关省级交通运输主管部门的主动对接，由其会同当地商务等部门督促有关货主企业尽快提离上海港的冷藏集装箱货物，尽快疏解堆场冷藏箱，并迅速取得成效。长三角三省一市港口企业要在网上动态发布港内堆场冷藏箱量、冷藏箱插头数据等信息，与港外堆场协调联动，进一步提升冷藏箱堆存能力；协调集装箱班轮公司合理安排冷藏箱港口装卸计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1455933.d.html</link>
-            <guid>2627031</guid>
-            <pubDate>Tue, 12 Apr 2022 13:37:00 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：资产负债表将在退出宽松货币政策方面发挥重要作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919232.d.html</link>
+            <guid>2627223</guid>
+            <pubDate>Tue, 12 Apr 2022 16:46:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[4月12日0时至18时，天津新增1名本土确诊病例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3901447.d.html</link>
-            <guid>2627030</guid>
-            <pubDate>Tue, 12 Apr 2022 13:33:24 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：由于企业减少岗位空缺而无需裁员，劳动力需求将放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919213.d.html</link>
+            <guid>2627222</guid>
+            <pubDate>Tue, 12 Apr 2022 16:46:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽约市消防局：布鲁克林地铁站有几个未引爆的装置。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1455024.d.html</link>
-            <guid>2627026</guid>
-            <pubDate>Tue, 12 Apr 2022 13:29:09 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：尽管面临一系列冲击，长期通胀预期仍然良好锚定，这也有利于我们应对通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919198.d.html</link>
+            <guid>2627221</guid>
+            <pubDate>Tue, 12 Apr 2022 16:46:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山大地纬：2021年净利润同比增长13.04% 拟10派1元】山大地纬(688579)4月12日晚间披露2021年报，公司2021年实现营业收入为6.38亿元，同比增长28.67%；归母净利润1.03亿元，同比增长13.04%；基本每股收益0.26元；每10股派发现金红利1元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1454696.d.html</link>
-            <guid>2627025</guid>
-            <pubDate>Tue, 12 Apr 2022 13:25:20 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：这些进展给了我信心，我们将实现2%的通货膨胀，但具体的时间表还不清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3919181.d.html</link>
+            <guid>2627220</guid>
+            <pubDate>Tue, 12 Apr 2022 16:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[媒体消息：纽约市布鲁克林地铁站地铁站发生枪击事件，多人中枪。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1454656.d.html</link>
-            <guid>2627024</guid>
-            <pubDate>Tue, 12 Apr 2022 13:24:58 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：这个月看到核心通胀已经缓和。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472966.d.html</link>
+            <guid>2627219</guid>
+            <pubDate>Tue, 12 Apr 2022 16:45:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京：基辅已脱离此前共识，俄乌谈判陷入僵局】据俄新社12日最新报道，俄罗斯总统普京与白俄罗斯总统卢卡申科当天举行记者会，谈及俄乌谈判。普京称，基辅“脱离”俄乌双方在伊斯坦布尔谈判时达成的共识，俄乌谈判陷入僵局。(环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1454611.d.html</link>
-            <guid>2627023</guid>
-            <pubDate>Tue, 12 Apr 2022 13:24:25 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我们处于不确定性非常高的时期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918531.d.html</link>
+            <guid>2627218</guid>
+            <pubDate>Tue, 12 Apr 2022 16:40:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【生态环境部审议并原则通过《六氟化铀运输容器》和《放射性固体废物近地表处置场辐射环境监测要求》2项国家标准】生态环境部部长黄润秋主持召开部常务会议，审议并原则通过《六氟化铀运输容器》和《放射性固体废物近地表处置场辐射环境监测要求》2项国家标准。会议指出，六氟化铀是核燃料制造过程的关键物料，运输容器是确保六氟化铀转运安全的重要保障。制定出台《六氟化铀运输容器》国家标准，对规范开展运输容器设计、制造、使用和监管，加快运输容器自主研发，保障涉核物料运输环节安全具有重要意义。会议强调，确保放射性固体废物处置安全是核与辐射安全监管的重要内容。修订出台《监测要求》，有利于推进放射性固体废物近地表处置场辐射环境监测标准化规范化，更好保障处置场周围辐射环境安全。《监测要求》发布实施后，要加强政策解读和贯彻实施，严格按要求开展项目审批和日常监管，确保放射性固体废物处置环境长期安全。]]></title>
-            <guid>2627022</guid>
-            <pubDate>Tue, 12 Apr 2022 13:20:54 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：在预测什么时候能达到2%的中性利率上保持谨慎。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918492.d.html</link>
+            <guid>2627217</guid>
+            <pubDate>Tue, 12 Apr 2022 16:39:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西菱动力：一季度净利润预增75.97%-94.17%】西菱动力公告，预计一季度公司归属于上市公司股东的净利润2900.00万元–3200.00万元，同比增幅75.97%-94.17%。公司大力拓展航空军工业务且市场开拓顺利，航空军工板块已经成为公司收入和利润的重要组成部分，一季度该板块净利润约占净利润总额的45%-50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1453570.d.html</link>
-            <guid>2627020</guid>
-            <pubDate>Tue, 12 Apr 2022 13:15:47 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：金融状况的收紧将有助于缓和需求，尤其是在耐用品等领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472205.d.html</link>
+            <guid>2627215</guid>
+            <pubDate>Tue, 12 Apr 2022 16:38:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯外交部评论欧盟委员会副主席兼“外长”博雷利在乌克兰问题上的发言：欧盟沦为军事化、侵略性的对外扩张的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3899339.d.html</link>
-            <guid>2627019</guid>
-            <pubDate>Tue, 12 Apr 2022 13:15:02 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：全球经济放缓将波及到我们。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918371.d.html</link>
+            <guid>2627214</guid>
+            <pubDate>Tue, 12 Apr 2022 16:38:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京：白俄罗斯是俄罗斯和乌克兰继续接触的合适地点】 地时间12日，俄白元首结束近3小时的会谈，共同举行记者会。在记者会上，普京表示，他向白俄罗斯总统卢卡申科介绍了特别军事行动以及与基辅谈判的进展。普京说，白俄罗斯是俄罗斯和乌克兰继续接触的合适地点。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1453371.d.html</link>
-            <guid>2627017</guid>
-            <pubDate>Tue, 12 Apr 2022 13:13:21 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：美联储的政策工具能很好地平衡需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472171.d.html</link>
+            <guid>2627213</guid>
+            <pubDate>Tue, 12 Apr 2022 16:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯总统普京：谈判处于死胡同。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3898690.d.html</link>
-            <guid>2627016</guid>
-            <pubDate>Tue, 12 Apr 2022 13:09:31 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我们看到的高通胀是一系列冲击造成的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472159.d.html</link>
+            <guid>2627212</guid>
+            <pubDate>Tue, 12 Apr 2022 16:38:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[晶瑞电材(300655)4月12日晚间公告，拟以2992万元购买参股子公司湖北晶瑞持有的长江产业投资基金管理有限公司7.2368%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3898676.d.html</link>
-            <guid>2627015</guid>
-            <pubDate>Tue, 12 Apr 2022 13:09:24 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：美联储的目标是直接的，是降低通货膨胀，同时保持经济复苏。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918339.d.html</link>
+            <guid>2627211</guid>
+            <pubDate>Tue, 12 Apr 2022 16:38:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ 欣旺达公告，2021年净利润9.16亿元，同比增14.18%，拟10派0.7元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3898533.d.html</link>
-            <guid>2627014</guid>
-            <pubDate>Tue, 12 Apr 2022 13:08:18 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我预计，将政策转向更中性的利率和降低资产负债表的综合效应将会降低通胀、缓和需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918323.d.html</link>
+            <guid>2627210</guid>
+            <pubDate>Tue, 12 Apr 2022 16:37:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京：俄罗斯遭遇了物流领域的困难】俄罗斯总统普京在记者会上表示，俄罗斯遭遇了物流领域的困难。国际市场的化肥价格已经是以前的三倍，而且还在继续攀升。如果物流问题继续恶化，化肥供应情况将更加严峻，世界很多地区都将面临饥荒。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3897637.d.html</link>
-            <guid>2627012</guid>
-            <pubDate>Tue, 12 Apr 2022 13:01:39 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：迅速的行动给了我们未来更多的选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472039.d.html</link>
+            <guid>2627209</guid>
+            <pubDate>Tue, 12 Apr 2022 16:36:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[晶瑞电材：拟以2992万元购买参股子公司持有的长江产业投资基金管理有限公司7.2368%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3897296.d.html</link>
-            <guid>2627010</guid>
-            <pubDate>Tue, 12 Apr 2022 12:59:09 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我对于停止加息没有设置相应原则。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1472023.d.html</link>
+            <guid>2627208</guid>
+            <pubDate>Tue, 12 Apr 2022 16:36:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拜登将宣布解禁高比例乙醇汽油 以缓解能源价格飙升】美国政府高级官员表示，美国总统拜登将在当地时间周二(4月12日)宣布延长E15混合汽油供应期限，以遏制燃料成本飙升，减少对外国能源的依赖。E15混合汽油的乙醇含量高达15%，而大多数美国汽油中乙醇含量为10%。据了解，拜登将在访问美国最大的生物燃料生产商POET时宣布上述政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3897241.d.html</link>
-            <guid>2627009</guid>
-            <pubDate>Tue, 12 Apr 2022 12:58:30 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：不希望政策执行僵化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918132.d.html</link>
+            <guid>2627207</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  杰创智能(301248)4月12日晚间披露首次公开发行股票网上中签结果，中签号码共有22666个，每个中签号码只能认购500股杰创智能股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1451536.d.html</link>
-            <guid>2627008</guid>
-            <pubDate>Tue, 12 Apr 2022 12:58:16 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：综合效应将使政策在2022年底趋于中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471924.d.html</link>
+            <guid>2627206</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧圣电气(301187)4月12日晚间披露首次公开发行股票网上中签结果，中签号码共有44282个，每个中签号码只能认购500股欧圣电气股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwiwst1451500.d.html</link>
-            <guid>2627007</guid>
-            <pubDate>Tue, 12 Apr 2022 12:58:11 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我们将有条不紊地通过一系列加息来收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918098.d.html</link>
+            <guid>2627205</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【永安行：2021年净利润同比减少91.13% 拟10派1元】永安行(603776)4月12日晚间披露2021年报，公司2021年实现营业收入为8.73亿元，同比增长0.04%；归母净利润4384.44万元，同比减少91.13%；基本每股收益0.2元；拟每10股派发现金股利1元（含税）。归母净利润比上年度减少主要系2021年度对Hello Inc.的新增投资收益减少、2021年度汇率变动以及2020年度所得税税率调整所所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3897026.d.html</link>
-            <guid>2627006</guid>
-            <pubDate>Tue, 12 Apr 2022 12:56:47 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：不希望把关注点放在利率上调步伐上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3918073.d.html</link>
+            <guid>2627204</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  深水规院(301038)4月12日晚间披露年报，2021年实现营业收入9.35亿元，同比增长8.25%；净利润1.06亿元，同比增长13.56%；基本每股收益0.94元。公司拟每10股派发现金红利3.22元（含税），以资本公积金每10股转增3股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-12/detail-imcwipii3896705.d.html</link>
-            <guid>2627001</guid>
-            <pubDate>Tue, 12 Apr 2022 12:53:37 GMT</pubDate>
+            <title><![CDATA[美联储理事布雷纳德：我们正在逐步地收紧货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471874.d.html</link>
+            <guid>2627203</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：我预计中性联邦基金利率将在未来几年上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471866.d.html</link>
+            <guid>2627202</guid>
+            <pubDate>Tue, 12 Apr 2022 16:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股短线走低，涨幅收窄。道指涨0.3%，标普500指数涨0.45%，纳指涨0.65%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471807.d.html</link>
+            <guid>2627201</guid>
+            <pubDate>Tue, 12 Apr 2022 16:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【吉尔吉斯斯坦边防局：塔吉克斯坦军队对吉境内进行炮击】吉尔吉斯斯坦边防局当地时间4月12日表示，塔吉克斯坦军队对吉尔吉斯斯坦境内进行炮击。目前，塔吉克斯坦对此没有作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917932.d.html</link>
+            <guid>2627200</guid>
+            <pubDate>Tue, 12 Apr 2022 16:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：将尽快就缩表作出决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917651.d.html</link>
+            <guid>2627197</guid>
+            <pubDate>Tue, 12 Apr 2022 16:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：要让就业恢复到大流行前的标准，需要比大家想象的更多的时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471517.d.html</link>
+            <guid>2627196</guid>
+            <pubDate>Tue, 12 Apr 2022 16:31:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：我们致力于稳定通胀预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471333.d.html</link>
+            <guid>2627195</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：可以预见的是通胀将随着时间推移放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917430.d.html</link>
+            <guid>2627194</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：我们需要看看经济如何发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471305.d.html</link>
+            <guid>2627193</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：FOMC致力于让通胀率回到2%的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471294.d.html</link>
+            <guid>2627192</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：中性利率可能继续处于历史低位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917360.d.html</link>
+            <guid>2627191</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：现在说对战后的新常态有信心还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917336.d.html</link>
+            <guid>2627190</guid>
+            <pubDate>Tue, 12 Apr 2022 16:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：冲突持续的时间越长，通胀上行、增长下行的潜在风险就越大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917245.d.html</link>
+            <guid>2627189</guid>
+            <pubDate>Tue, 12 Apr 2022 16:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：地缘局势冲突可能会对全球供应链产生连锁反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917223.d.html</link>
+            <guid>2627188</guid>
+            <pubDate>Tue, 12 Apr 2022 16:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：俄乌冲突的风险偏向使通胀上升，经济活动下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1471064.d.html</link>
+            <guid>2627186</guid>
+            <pubDate>Tue, 12 Apr 2022 16:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：我不认为美联储的紧缩政策与降低通胀和维持复苏的目标不一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917151.d.html</link>
+            <guid>2627185</guid>
+            <pubDate>Tue, 12 Apr 2022 16:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约市警察局：嫌疑人随后开枪，击中了纽约地铁列车和站台上的多人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1470939.d.html</link>
+            <guid>2627184</guid>
+            <pubDate>Tue, 12 Apr 2022 16:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约市警察局：纽约地铁上的乘客戴上防毒面具，拿出一个防毒罐，车里开始充满烟雾。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1470920.d.html</link>
+            <guid>2627183</guid>
+            <pubDate>Tue, 12 Apr 2022 16:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：企业有足够的空间减少职位空缺。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3917004.d.html</link>
+            <guid>2627182</guid>
+            <pubDate>Tue, 12 Apr 2022 16:24:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：随着我们将政策转向更中性的水平，我预计劳动力需求将下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3916984.d.html</link>
+            <guid>2627181</guid>
+            <pubDate>Tue, 12 Apr 2022 16:24:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：在供给方面，我们预计劳动力参与率将持续改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwiwst1470867.d.html</link>
+            <guid>2627179</guid>
+            <pubDate>Tue, 12 Apr 2022 16:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事布雷纳德：财政支持将拖累今年的经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-13/detail-imcwipii3916923.d.html</link>
+            <guid>2627178</guid>
+            <pubDate>Tue, 12 Apr 2022 16:23:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
