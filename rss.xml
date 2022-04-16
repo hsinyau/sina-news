@@ -4,16 +4,123 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 16 Apr 2022 12:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:07:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【俄媒：普京签署俄公司从外国股市退市的法令】俄罗斯总统普京签署了禁止在外国股市配售和流通俄罗斯发行人的股票存托凭证的法律。报道称，在国外交易的俄罗斯公司和银行将必须通过退市程序，并将收据兑换为股票。 在外国股市上终止流通存托凭证的一切相关决定均由公司负责人作出，无需董事会或股东大会批准。收据持有人可以将它们换成在俄罗斯股票市场上交易的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4674634.d.html</link>
-            <guid>2633125</guid>
-            <pubDate>Sat, 16 Apr 2022 12:07:43 GMT</pubDate>
+            <title><![CDATA[  【上海快递小哥外卖配送还安全吗？六大平台承诺：不带疫上岗】今日，有数段聊天记录在圈群传播，称突击检查发现奔波在上海街头的外卖员和配送员抗原检测呈阳性。针对市民对外卖员身体健康情况的关切，记者采访了叮咚买菜、饿了么、美团、盒马、闪送、京东等多家企业，六大平台均承诺，不带疫上岗。他们表示，外卖员和配送员上岗有严格的防疫要求：所有外卖员和配送员都实行“2+2”核酸检测及抗原检测，即两日内第一日开展2次抗原检测，第二日开展1次抗原检测和1次核酸检测，循此往复。 (上海网络辟谣)]]></title>
+            <guid>2633344</guid>
+            <pubDate>Sat, 16 Apr 2022 14:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【尼泊尔外汇储备恐将在7个月内耗尽 尼泊尔外汇储备告急】由于原油及农产品等价格上涨推高了进口成本，尼泊尔的外汇储备消耗速度加快。尼泊尔央行发言人15日表示，如果经济情况不能好转，尼泊尔目前的外汇储备将在7个月内用完。尼泊尔央行公布的数据显示，在截止到今年2月中旬的过去7个月内，尼泊尔的外汇储备已经减少超过16%。尼泊尔政府已经下令限制包括汽车、黄金、奢侈品等在内的非必需品进口。同时，尼泊尔央行也于近期上调利率，希望以此来吸引存款，降低民众购买进口商品的热情，保证外汇储备充足。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4690044.d.html</link>
+            <guid>2633342</guid>
+            <pubDate>Sat, 16 Apr 2022 14:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证监会有关部门负责人答记者问】问:滴滴今日对外发布自美退市相关公告，请问证监会对此有何评论？答:我们注意到了有关公告。这是企业根据市场和自身情况作出的自主决策。证监会一贯坚持企业境外上市活动应当遵守上市地和经营地的法律法规和监管规则，要求上市公司切实保护投资者，尤其是中小投资者的合法权益。滴滴自主退市这一特定个案，与其他在美上市中概股无关，与目前正在进行的中美审计监管合作磋商无关，不影响双方合作进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2245090.d.html</link>
+            <guid>2633336</guid>
+            <pubDate>Sat, 16 Apr 2022 14:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯对英国实施报复 禁止首相约翰逊等官员进入】英国制裁俄罗斯高层官员后，俄罗斯表示将予以报复，禁止首相鲍里斯·约翰逊和内阁的多数成员进入俄罗斯。俄罗斯外交部表示，除了约翰逊外，还将禁止外交大臣Liz Truss、国防大臣Ben Wallace以及前首相特里莎·梅等十几位官员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4689462.d.html</link>
+            <guid>2633334</guid>
+            <pubDate>Sat, 16 Apr 2022 14:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国司法部长：美国指控“俄罗斯实施种族灭绝”缺乏证据】关于美国总统拜登提出的“俄罗斯正在进行种族灭绝”的指控，德国司法部长布施曼指出，法律上的“种族灭绝”罪行，必须证明其有意图全部或部分消灭一个民族、种族、宗教或族裔群体，而目前还没有证据证明这一点——“我认为拜登想要传达一个明确的政治信息，而不是技术意义上的法律判断。” (央视)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4688874.d.html</link>
+            <guid>2633328</guid>
+            <pubDate>Sat, 16 Apr 2022 14:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【克里姆林宫：普京与沙特王储对OPEC+合作做出积极评价】克里姆林宫发布声明称，俄罗斯总统普京和沙特王储穆罕默德就OPEC+合作稳定全球石油市场做出了“积极评价”。克里姆林宫称，此次电话沟通是由沙特发起的。这是俄乌冲突以来两位领导人第二次对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4688564.d.html</link>
+            <guid>2633327</guid>
+            <pubDate>Sat, 16 Apr 2022 14:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为摆脱对俄能源依赖 德国副总理建议民众骑车出行】德国进口的俄罗斯能源占比很高，而为了摆脱对俄罗斯能源的依赖，一些德国政界人士近来纷纷表示，希望民众改变生活方式以节约能源。德国副总理兼经济部长哈贝克15日在接受媒体采访时，建议德国人骑自行车出行，并且降低室内供暖温度。不过，据德国最新民调显示，59%的德国民众明确反对“为自由受冻”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2243883.d.html</link>
+            <guid>2633326</guid>
+            <pubDate>Sat, 16 Apr 2022 14:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西藏、四川援沪保供专列抵达上海 包括上百吨牦牛肉】4月15日15时32分，西藏支援上海的47507次保供物资专列经过113小时、4600多公里的长途旅程，从西藏自治区日喀则西站抵达上海北郊站。该趟专列由8节货车编组而成，100吨牦牛肉、3000吨天然饮用水等民生保障物资在快速卸车后，将被短驳送往宝山区冷链城配中心等仓储点。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4688469.d.html</link>
+            <guid>2633324</guid>
+            <pubDate>Sat, 16 Apr 2022 14:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【防疫生产并重 上海万人工厂有序复工复产】防疫生产两手抓，15日，位于上海松江的广达上海制造城在严格防疫的前提下，申请复工复产，厂区实行闭环管理。广达上海制造城共有8个厂房，超过40000名员工，率先复工的是F1和F3工厂，约2000名员工有序开展复工复产。 (新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4688283.d.html</link>
+            <guid>2633322</guid>
+            <pubDate>Sat, 16 Apr 2022 14:23:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法总统候选人勒庞：若欧盟实施对俄能源禁运，美国应赔偿法国损失】“今日俄罗斯”（RT）网站16日报道，法国极右翼政党总统候选人勒庞在接受法国“BFMTV”采访时说，如果欧盟实施禁止进口俄罗斯能源，美国应该赔偿法国的损失。勒庞说，“美国人将向我们出售液化天然气，并从中获得丰厚利润，作为对俄制裁的补偿，他们可以把钱转给法国。”她提及，华盛顿正在向欧盟施压，要求制裁运输俄罗斯能源的实体。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2243221.d.html</link>
+            <guid>2633317</guid>
+            <pubDate>Sat, 16 Apr 2022 14:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【斯里兰卡科伦坡证券交易所18日起休市五天】当地时间16日，斯里兰卡科伦坡证券交易所宣布，鉴于斯里兰卡目前的情况，将从下周一，也就是18日开始休市5天。过去三个月里，斯里兰卡所有股票指数下跌了38%，斯里兰卡卢比对美元汇率更是在过去一个月里下跌了35%以上。目前，由于缺乏外汇储备，斯里兰卡连必需的物资都无法进口，导致国内经常停电，食物和燃料都严重短缺。报道称，斯里兰卡计划于18日与国际货币基金组织举行会谈，讨论援助事宜。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4687327.d.html</link>
+            <guid>2633313</guid>
+            <pubDate>Sat, 16 Apr 2022 14:11:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯石油出口价近80美元/桶 俄财政部下调石油出口关税】据俄罗斯卫星通讯社当地时间16日报道，俄财政部官网文件显示，3月15日至4月14日监控期内乌拉尔石油（Urals）平均价格为每桶79.81美元或每吨582.6美元。按照俄财政部的核算，俄罗斯的石油出口关税自2022年5月1日起下调11.6美元，降至每吨49.6美元。目前的石油出口关税为每吨61.2美元。此外，汽油出口关税将从每吨18.3美元降至14.8美元。液化气关税自5月1日起将从一个月前的每吨89美元降至29.9美元；焦炭从每吨3.9美元降至3.2美元。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4686170.d.html</link>
+            <guid>2633303</guid>
+            <pubDate>Sat, 16 Apr 2022 13:58:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美国计划升级其在英国的核武器设施】美国国防部文件显示，美国计划提高其在英国储存核武器的能力。拜登向北约提出的2023年国防预算申请显示，这个军事联盟已将英国加入了接收3.84亿美元投资以储存这种“特殊武器”的国家名单。其他接受这笔资金的国家有比利时、德国、意大利、荷兰和土耳其。国防专家表示，这是美国与普京领导下的俄罗斯长期对峙、甚至可能对峙加剧的早期迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2241515.d.html</link>
+            <guid>2633302</guid>
+            <pubDate>Sat, 16 Apr 2022 13:55:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本考虑委托外国企业处理5.7万吨放射性废弃物】当地时间16日，关于核电站废炉等过程中产生的大型放射性废弃物的处理问题，日本经济产业省正在考虑修改制度，委托国外企业进行处理。截至今年3月底，日本全国的核电站共计有57230吨大型放射性废弃物，目前日本尚未确定这些废弃物的处置地点。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2240575.d.html</link>
+            <guid>2633274</guid>
+            <pubDate>Sat, 16 Apr 2022 13:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【晶澳科技奉贤基地DeepBlue3.0 Light高效组件项目顺利投产】晶澳科技奉贤基地克服重重困难，历时2个多月时间，于4月16日顺利完成产线改造，DeepBlue3.0 Light高效组件顺利下线，将更好地供应欧洲、大洋洲等全球分布式项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2238900.d.html</link>
+            <guid>2633255</guid>
+            <pubDate>Sat, 16 Apr 2022 13:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利将从周日开始禁止俄罗斯船只靠港。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4683057.d.html</link>
+            <guid>2633248</guid>
+            <pubDate>Sat, 16 Apr 2022 13:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其航空恢复俄罗斯卢布购票系统】土耳其航空已恢复俄罗斯卢布购票系统。土航相关负责人16日向记者证实了这一消息，并表示，此前受俄乌危机影响，卢布大幅贬值，土航暂停了该系统近两个月。但近期卢布回升且趋于稳定，土航已在当地时间4月13日正式恢复了线上线下卢布购票支付系统。此外，自2月24日俄罗斯在乌克兰发起特别军事行动后，土航一度暂停了往返俄罗斯的航班，但目前土航直飞莫斯科、圣彼得堡和喀山的航班已经恢复正常运行。 (央视)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4681482.d.html</link>
+            <guid>2633231</guid>
+            <pubDate>Sat, 16 Apr 2022 13:07:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【博亚精工项目入围2021年襄阳高新区科技计划项目拟立项名单】近日，襄阳高新区管委会官网公布了2021年襄阳高新区科技计划拟立项项目公示名单，博亚公司申报的“冶金装备用液压螺母关键技术研发与应用”项目成功入围，将获得高新区资金支持。本项目以自主研发的方式开展，以液压螺母高性能、高智能的运转为目标，形成了液压螺母关键核心技术，努力实现 “进口替代”和项目产业化，成为公司新的经济增长点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4681392.d.html</link>
+            <guid>2633229</guid>
+            <pubDate>Sat, 16 Apr 2022 13:06:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港附近海域一运油轮发生爆炸已致1死6伤】16日16时许，一艘运油轮船在香港东面大约300公里海域发生爆炸，目前已经造成一人死亡六人受伤。香港特区政府飞行服务队接获海事救援协调中心召唤，先后派出两架直升机及一架定翼机前往协助。首架直升机已于19时到达现场展开救援工作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4677364.d.html</link>
+            <guid>2633173</guid>
+            <pubDate>Sat, 16 Apr 2022 12:31:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【大连：上海市及14天内有上海市旅居史来（返）连人员必须至少提前24小时报备】大连发布关于进一步做好上海市及14天内有上海市旅居史来（返）连人员主动报备和健康管理的通告：上海市来（返）连人员14日内（4月2日以来）已抵连，并已实施管控措施的，继续按照原管控措施进行管控；未落实管控措施的，立即向所在地社区（村）报备，实施“自抵连之日起14天居家隔离医学观察”的管控措施；即日起，上海市及14天内有上海市旅居史来（返）连人员必须至少提前24小时报备。(环球网)]]></title>
@@ -245,132 +352,6 @@
             <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2199702.d.html</link>
             <guid>2632996</guid>
             <pubDate>Sat, 16 Apr 2022 08:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄新社：俄罗斯保留在联合国人权理事会的观察员国资格】 当地时间16日，俄新社援引俄罗斯外交部消息人士信息报道，俄罗斯保留在联合国人权理事会的观察员国资格。4月7日，俄罗斯宣布提前终止其在人权理事会成员国资格。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4642769.d.html</link>
-            <guid>2632992</guid>
-            <pubDate>Sat, 16 Apr 2022 07:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一人私自伪造、出售防疫车辆通行证 上海警方已对其依法行政处罚】市公安局通报，4月15日，上海警方破获一起倒卖伪造的防疫车辆通行证案件。警方在工作中发现，违法行为人魏某（男，29岁）私自伪造防疫车辆通行证出售给某租车中心。目前，公安机关已对魏某伪造证明文件的行为依法行政处罚，伪造的通行证均已被收缴。警方正告，防疫车辆通行证件由相关部门根据防疫工作需要按照规定用途，严格依法审批发放。任何单位、个人伪造、买卖和私自挪用防疫通行证件的行为均涉嫌违法，公安机关将严厉打击此类违法行为。请广大市民发现此类情况及时向公安机关举报。 (上海发布)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2198372.d.html</link>
-            <guid>2632991</guid>
-            <pubDate>Sat, 16 Apr 2022 07:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部：摧毁了位于基辅的一家装甲车辆工厂的生产建筑，以及位于尼古拉耶夫的一家军事维修设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4641443.d.html</link>
-            <guid>2632990</guid>
-            <pubDate>Sat, 16 Apr 2022 07:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄外交部称，俄罗斯保留联合国人权理事会观察员身份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2196825.d.html</link>
-            <guid>2632989</guid>
-            <pubDate>Sat, 16 Apr 2022 07:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外汇局副局长陆磊：从2017至2021年共拆解高风险影子银行25万亿】2022清华五道口全球金融论坛15-17日召开。陆磊在会上表示从2017至2021年共拆解高风险影子银行25万亿元，过去两年压减11.5万亿元。资管行业方面，绝大部分银行如期完成理财存量整改计划，银行理财步入全面净值化新阶段，业务模式逐步回归资管本源；2021年底净值型理财产品余额26.96万亿元，占比92.97%，较资管新规发布前增加23.89万亿元。地方政府债务方面，地方政府隐性债务增长势头得到初步遏制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4640411.d.html</link>
-            <guid>2632988</guid>
-            <pubDate>Sat, 16 Apr 2022 07:34:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：土耳其财政部长将于4月19日至22日将访问美国。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2196270.d.html</link>
-            <guid>2632987</guid>
-            <pubDate>Sat, 16 Apr 2022 07:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今年3月全国受理网络违法和不良信息举报1258.6万件】2022年3月，全国各级网络举报部门受理举报1258.6万件，环比增长2.1%、同比增长16.5%。其中，中央网信办（国家互联网信息办公室）违法和不良信息举报中心受理举报37.2万件，环比增长17.2%、同比增长116.7%；各地网信办举报部门受理举报84.3万件，环比增长11.0%、同比下降20.5%；全国主要网站受理举报1137.1万件，环比增长1.0%、同比增长18.8%。在全国主要网站受理的举报中，主要商业网站受理量占60.9%，达692.8万件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2195848.d.html</link>
-            <guid>2632983</guid>
-            <pubDate>Sat, 16 Apr 2022 07:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国西部遭创纪录干旱 部分地区被迫休耕】据美联社报道，3月份美国全国降水量已连续第三个月低于平均水平。作为美国西部生活和农业用水的主要来源，里奥格兰德河水量告急。为确保向下游地区供水，新墨西哥州和里奥格兰德河中游水利区鼓励当地农户休耕，并对用水予以适当补贴。据悉，休耕政策主要面向产量较低或需要休养生息的田地。美国内政部称，目前，这一地区正在经历1200多年来最严重干旱。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4639187.d.html</link>
-            <guid>2632982</guid>
-            <pubDate>Sat, 16 Apr 2022 07:23:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【3月银行理财产品发行量环比增长超五成 固定收益类占比超90%】经过一段时间的低迷之后，3月份银行理财产品发行量大幅反弹，达到3000多款，环比增长逾五成，主要投资于债券等固定收益类的理财产品占比超90%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2194472.d.html</link>
-            <guid>2632980</guid>
-            <pubDate>Sat, 16 Apr 2022 07:17:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京市政协副主席于鲁明涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 (央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2192608.d.html</link>
-            <guid>2632979</guid>
-            <pubDate>Sat, 16 Apr 2022 07:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司继续通过乌克兰向欧洲输送天然气，周六运送量为5720万立方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4635686.d.html</link>
-            <guid>2632978</guid>
-            <pubDate>Sat, 16 Apr 2022 06:54:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以岭药业回应王思聪：从未表示世卫推荐连花清瘟】 以岭药业相关负责人向《中国企业家》表态：“公司从未在任何场合表示‘世卫组织推荐连花清瘟’”。此前王思聪向证监会隔空喊话，希望严查以岭药业，4月14日，以岭药业跌停，最终报收35.99元/股，当日市值蒸发67亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2191618.d.html</link>
-            <guid>2632977</guid>
-            <pubDate>Sat, 16 Apr 2022 06:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄欧卢布对峙或导致事实上的天然气禁运】普京发布法令要求用卢布购买俄气，但欧盟认为此举违反制裁，双方对峙或导致事实上的天然气禁运。当前俄罗斯每天通过能源销售从欧洲获得大约10亿欧元，这有助于它免受欧盟制裁的影响。若双方对峙，德国受到的影响尤其严重。根据经济机构的联合预测，如果天然气供应立即被削减，德国未来两年的产量将面临2200亿欧元(2380亿美元)的损失，相当于年产出削减6.5%，并可能使德国明年陷入超过2%的衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2191000.d.html</link>
-            <guid>2632975</guid>
-            <pubDate>Sat, 16 Apr 2022 06:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新加坡财政部长黄循财将出任新加坡下任总理】新加坡总理李显龙今天（4月16日）在总统府召开发布会时宣布，财政部长黄循财已确定将出任新加坡下一任总理。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2190479.d.html</link>
-            <guid>2632972</guid>
-            <pubDate>Sat, 16 Apr 2022 06:43:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北海道白老町发现疑似高致病性禽流感病毒，52万只鸡被扑杀】 日本北海道白老町的一家养鸡场于当地时间15日发现疑似因高致病性禽流感病毒致死的鸡。16日，北海道当局已开始扑杀该养鸡场饲养的大约52万只鸡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4633510.d.html</link>
-            <guid>2632971</guid>
-            <pubDate>Sat, 16 Apr 2022 06:34:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本与中亚五国外长确认合作促进地区发展】据共同社4月16日消息，日本外相林芳正15日与中亚五国外长召开了视频会议。会议上确认将朝着地区可持续发展展开合作。林芳正在会议上说：“日本将作为对中亚而言可以信赖的主要伙伴，继续提供合作。”中亚各国代表则表示期待日方继续支援。该会议作为日本与哈萨克斯坦、乌兹别克斯坦、吉尔吉斯斯坦、塔吉克斯坦、土库曼斯坦商议地区发展的框架，从2004年启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2189116.d.html</link>
-            <guid>2632969</guid>
-            <pubDate>Sat, 16 Apr 2022 06:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【木林森与中建三局签署战略合作协议】据木林森股份官微4月16日消息，4月15日下午，中建三局集团北京有限公司与木林森股份有限公司旗下中山市木林森照明工程有限公司签订战略合作协议。根据协议内容，双方将充分发挥各自优势，推动双方在室内照明、户外照明、植物照明、空气净化消杀等领域展开全方位合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2187720.d.html</link>
-            <guid>2632968</guid>
-            <pubDate>Sat, 16 Apr 2022 06:19:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚洲最大单机容量风电项目开工】 近日，三峡平潭外海海上风电塔筒设备正式开工，标志着这一亚洲最大单机容量风电项目全面启动。三峡平潭外海海上风电项目位于福建省福州市长乐区外海海上风电场A区项目南侧的平潭海域，项目规划总装机容量100MW，共布置11台风电机组，其中1台13MW机组为目前亚洲最大的单机容量机型。据了解，该项目建成后，每年可为电网提供清洁电能44388.9万kWh，与相同发电量的火电相比，每年可为电网节约标煤约13.6万吨(火电煤耗按295g/kWh计)，可相应地减少排放温室效应气体二氧化碳37.20万吨/年。（福建日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2185653.d.html</link>
-            <guid>2632964</guid>
-            <pubDate>Sat, 16 Apr 2022 06:01:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[基辅市长：救援人员和医务人员正在基辅郊区爆炸现场展开工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwiwst2185329.d.html</link>
-            <guid>2632963</guid>
-            <pubDate>Sat, 16 Apr 2022 05:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西运城：全市所有韵达快递从业人员实行“14+7”集中隔离】 4月15日，运城市调整寄递业务相关人员管控措施如下：对全市所有韵达快递从业人员实行“14+7”集中隔离，对韵达快递从业人员共同居住者实行“7+5”居家隔离，赋红码管理。对4月7日以来所有接收过韵达快递的人员赋黄码管理，按照“填平补齐”原则，实施“4+3”居家隔离（四天三检），第四天核酸检测阴性后解除管控。对4月7日以来其他快递物流从业人员及接收过其他快递的人员，实施自我健康监测，2次核酸检测阴性后解除管控。（运城日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4629307.d.html</link>
-            <guid>2632962</guid>
-            <pubDate>Sat, 16 Apr 2022 05:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【浙江金华婺城区在区域核酸检测时发现新增9例初筛阳性人员】据“婺城发布”16日消息，4月16日0时至10时，婺城区在区域核酸检测时新增9例初筛阳性人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-16/detail-imcwipii4629094.d.html</link>
-            <guid>2632961</guid>
-            <pubDate>Sat, 16 Apr 2022 05:55:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
