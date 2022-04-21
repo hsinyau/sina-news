@@ -4,296 +4,441 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 21 Apr 2022 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 12:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  湖南黄金披露2022年第一季度报告，实现归母净利润9364.75万元，同比增长26.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5641771.d.html</link>
-            <guid>2640193</guid>
-            <pubDate>Thu, 21 Apr 2022 09:11:10 GMT</pubDate>
+            <title><![CDATA[乌克兰马里乌波尔市长：周四大约有200人等待疏散，截止当地时间15点05分还没有看见有公交车。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5670603.d.html</link>
+            <guid>2640439</guid>
+            <pubDate>Thu, 21 Apr 2022 12:15:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股新能源车股盘前普涨，特斯拉(TSLA.O)涨7.23%，Nikola(NKLA.O)涨3.3%，Rivian(RIVN.O)涨2.8%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超2%，理想汽车(LI.O)、Lucid Group(LCID.O)涨1.8%。]]></title>
-            <guid>2640190</guid>
-            <pubDate>Thu, 21 Apr 2022 09:08:11 GMT</pubDate>
+            <title><![CDATA[  亿纬锂能：子公司亿纬动力被成都大运选定为大运汽车动力电池使用46系列大圆柱电芯的整包项目的开发供应商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3225244.d.html</link>
+            <guid>2640438</guid>
+            <pubDate>Thu, 21 Apr 2022 12:13:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【陕西省储备粮咸阳直属库原党委书记、主任李建荣接受审查调查】陕西纪检监察网站消息，陕西省储备粮咸阳直属库原党委书记、主任李建荣涉嫌严重违纪违法，经陕西省纪委监委指定管辖，目前正接受咸阳市纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3195542.d.html</link>
-            <guid>2640189</guid>
-            <pubDate>Thu, 21 Apr 2022 09:08:05 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基：准备好与俄罗斯总统普京进行会见，但会见前俄罗斯需结束作战行动，并提出会见地点和时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5670283.d.html</link>
+            <guid>2640435</guid>
+            <pubDate>Thu, 21 Apr 2022 12:12:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【乌克兰基辅市内电影院重新开放营业】据UNIAH通讯社报道，乌克兰基辅市内电影院已从4月21日开始重新开放，但目前只有三家电影院可以营业。另外因晚10点至凌晨5点的宵禁，所以不会有夜场影片放映。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5639585.d.html</link>
-            <guid>2640185</guid>
-            <pubDate>Thu, 21 Apr 2022 09:01:41 GMT</pubDate>
+            <title><![CDATA[富国银行：将特斯拉目标价从910美元上调至960美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3224964.d.html</link>
+            <guid>2640432</guid>
+            <pubDate>Thu, 21 Apr 2022 12:11:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  极米科技公告，2021年实现净利润4.8亿元，同比增长79.87%，拟10派30元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3193682.d.html</link>
-            <guid>2640182</guid>
-            <pubDate>Thu, 21 Apr 2022 09:00:09 GMT</pubDate>
+            <title><![CDATA[奥本海默：将特斯拉(TSLA.O)目标价从1103美元上调至1291美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5670173.d.html</link>
+            <guid>2640431</guid>
+            <pubDate>Thu, 21 Apr 2022 12:11:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【富煌钢构：一季度累计新签销售合同额同比下降52.58%】富煌钢构公告，2022年1-3月累计新签销售合同额人民币约140,095.51万元，较上年同期下降52.58%。截至2022年3月末，公司已中标尚未签订销售合同的金额合计11,645.00万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5638815.d.html</link>
-            <guid>2640180</guid>
-            <pubDate>Thu, 21 Apr 2022 08:57:48 GMT</pubDate>
+            <title><![CDATA[激智科技：拟以3000万元-5000万元回购股份，回购价格不超过28元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5669630.d.html</link>
+            <guid>2640427</guid>
+            <pubDate>Thu, 21 Apr 2022 12:08:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【字节旗下西瓜视频诉腾讯侵权 索赔800万元】因大量微信公众号未经授权发布电影《我和我的家乡》《我和我的父辈》盗版全片，西瓜视频以侵犯著作权及不正当竞争为由起诉腾讯，索赔800万元。起诉状称，西瓜视频享有上述两部涉案电影独播版权。该案已由海南自由贸易港知识产权法院立案受理，尚未开庭。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3192949.d.html</link>
-            <guid>2640179</guid>
-            <pubDate>Thu, 21 Apr 2022 08:56:06 GMT</pubDate>
+            <title><![CDATA[阿富汗马扎里沙里夫市清真寺爆炸死亡人数升至30人，受伤人数升至80人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5668792.d.html</link>
+            <guid>2640417</guid>
+            <pubDate>Thu, 21 Apr 2022 12:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  石头科技公告，2022年一季度实现净利润3.4亿元，同比增长8.76%；2021年实现净利润14亿元，同比增长2.41%，拟10派21元。]]></title>
-            <guid>2640178</guid>
-            <pubDate>Thu, 21 Apr 2022 08:55:24 GMT</pubDate>
+            <title><![CDATA[阿拉伯国家发表联合声明谴责以色列针对耶路撒冷和阿克萨清真寺的非法行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3223302.d.html</link>
+            <guid>2640416</guid>
+            <pubDate>Thu, 21 Apr 2022 12:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  Coinbase(COIN.O)盘前涨1.95%，方舟基金昨日增持167810股，合2470万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3190925.d.html</link>
-            <guid>2640175</guid>
-            <pubDate>Thu, 21 Apr 2022 08:47:05 GMT</pubDate>
+            <title><![CDATA[  【美国航空Q1营收恢复至2019年同期的84% 看好持续复苏趋势】美国航空公布了截至3月31日的2022年第一季度财务业绩。财报显示，该公司第一季度营收为88.99亿美元，好于市场预期的88.2亿美元，相当于2019年同期营收的84%，上年同期为40.08亿美元。展望未来，该公司对第二季度及之后的持续复苏持乐观态度，该公司首席执行官Robert Isom表示，需求环境非常强劲，基于当前的燃料价格假设，该公司预计将于第二季度实现盈利。此外，该公司预计第二季度运力将恢复至2019年同期的92%-94%，预计第二季度营收将较2019年同期增长6%-8%。财报公布后，截至发稿，美国航空周四美股盘前大涨11.14%，报21.65美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3223183.d.html</link>
+            <guid>2640415</guid>
+            <pubDate>Thu, 21 Apr 2022 12:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【商务部：全国80%以上行政村实现快递直达】在今天商务部举行的例行发布会上，新闻发言人高峰表示：将采取多项措施，推动县域商业高质量发展。高峰介绍，2021年6月以来，商务部会同有关部门，积极推进县域商业建设行动。当年新建或改造县级综合商贸服务中心834个，乡镇商贸中心1858个，村级便民商店3.69万个。全国80%以上的行政村实现了快递直达。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3190788.d.html</link>
-            <guid>2640174</guid>
-            <pubDate>Thu, 21 Apr 2022 08:46:27 GMT</pubDate>
+            <title><![CDATA[  【英国针对俄罗斯出台新一轮制裁措施】当地时间21日，英国针对俄罗斯出台新一轮26项制裁措施。该制裁措施重点针对俄总统普京军队中的领导人，以及支持俄罗斯军队的个人及企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5668345.d.html</link>
+            <guid>2640413</guid>
+            <pubDate>Thu, 21 Apr 2022 12:00:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄罗斯莫斯科市一法院对谷歌公司处以400万卢布罚款】俄罗斯莫斯科市一家法院对美国谷歌（Google）公司开出了400万卢布的罚款，原因是该公司旗下的优兔（YouTube）网站没有按照要求删除乌克兰死亡平民的虚假视频信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3190176.d.html</link>
-            <guid>2640172</guid>
-            <pubDate>Thu, 21 Apr 2022 08:42:57 GMT</pubDate>
+            <title><![CDATA[  【中兴通讯：第一曲线业务仍保持10%以上增长 将加速处理部分不盈利子公司】中兴通讯执行董事、总裁徐子阳在2021年度业绩说明会上表示，预计中兴通讯第一曲线业务（CT业务）依然会保持在10%以上的稳定增长，并贡献规模利润。同时也会积极关注一些非主航道的、长期不盈利的子公司，减轻对公司经营的消极影响，部分子公司将在今年加速消化处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3221493.d.html</link>
+            <guid>2640407</guid>
+            <pubDate>Thu, 21 Apr 2022 11:50:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  拓普集团公告，2022年第一季度净利润3.86亿元，同比增长56.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5635026.d.html</link>
-            <guid>2640169</guid>
-            <pubDate>Thu, 21 Apr 2022 08:39:35 GMT</pubDate>
+            <title><![CDATA[“伊斯兰国”极端组织声称对发生在阿富汗马扎里沙里夫的袭击负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5666650.d.html</link>
+            <guid>2640406</guid>
+            <pubDate>Thu, 21 Apr 2022 11:50:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  至纯科技公告，拟以4000万元-6000万元回购股份，回购价格不超过54元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3189153.d.html</link>
-            <guid>2640167</guid>
-            <pubDate>Thu, 21 Apr 2022 08:38:11 GMT</pubDate>
+            <title><![CDATA[【小红书裁员20%员工？ 官方回应】据“上海网络辟谣”公众号，近日，有消息称社交平台APP小红书正进行整体性裁员，被裁员工比例约占20%。对此，小红书运营企业——行吟信息科技(上海)有限公司表示，网传“整体性裁员”实为正常的人员汰换。考核面向所有正式员工(含试用期内员工)，绩效不合格员工通常占比10%左右。此次因绩效不合格进行协商解除劳动关系的员工约200余人，约占员工总数的9%左右，与网传消息中“20%”的比例不符。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3221257.d.html</link>
+            <guid>2640404</guid>
+            <pubDate>Thu, 21 Apr 2022 11:49:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【2022年处置非法集资部际联席会议：要继续对非法集资保持严打态势 紧盯养老、投融资等重点领域】2022年处置非法集资部际联席会议19日以电视电话形式召开。会议强调，要继续对非法集资保持严打态势，形成有力震慑。紧盯养老、投融资等重点领域，稳妥有序出清风险。持续深入开展重点案件督办，按照“三统两分”原则处置跨省案件，加大存量案件处置力度，力争早日扭转案件积压局面。将全力追赃挽损作为重中之重，多措并举提升挽损质效，尽可能减少群众损失。高度重视打击整治养老诈骗专项行动，从严从实做好养老领域非法集资排查整治各项工作。坚持科技防非、以网治网，全面实现国家监测平台与地方监测平台互联互通，加强风险源头管控。持续扩大防非处非宣传月品牌影响力，引导群众自觉抵制非法集资。持续深入推进《防范和处置非法集资条例》落实，各地和各行业主管、监管部门要及时研究细化配套制度和政策措施，提升依法打非处非能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5634574.d.html</link>
-            <guid>2640165</guid>
-            <pubDate>Thu, 21 Apr 2022 08:37:24 GMT</pubDate>
+            <title><![CDATA[【拓新药业：一季度净利润2843.92万元 同比下降5.57%】拓新药业：2022年一季度实现净利润2843.9万元，同比下降5.57%；2021年实现净利润6571.1万元，同比下降41.75%，拟10派1元。]]></title>
+            <guid>2640398</guid>
+            <pubDate>Thu, 21 Apr 2022 11:43:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：丹麦首相承诺向乌克兰运送更多武器。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5634345.d.html</link>
-            <guid>2640163</guid>
-            <pubDate>Thu, 21 Apr 2022 08:36:15 GMT</pubDate>
+            <title><![CDATA[南极电商：2021年实现净利润4.77亿元，同比下降59.84%，拟10派0.8元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5665651.d.html</link>
+            <guid>2640394</guid>
+            <pubDate>Thu, 21 Apr 2022 11:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泽连斯基：乌克兰无法解除俄军对马里乌波尔的包围】乌克兰总统泽连斯基在接受法国BFM TV电视频道采访时表示，乌克兰政府正在尽全力来解除俄军对马里乌波尔的包围。但不知道守军还能坚持多久，乌军现在无法穿越俄罗斯控制区域并抵达马里乌波尔的封锁线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5634148.d.html</link>
-            <guid>2640160</guid>
-            <pubDate>Thu, 21 Apr 2022 08:35:12 GMT</pubDate>
+            <title><![CDATA[日本首相岸田文雄：同意与新西兰总理阿德恩就信息共享协议展开谈判，作为双边安全合作的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3220289.d.html</link>
+            <guid>2640392</guid>
+            <pubDate>Thu, 21 Apr 2022 11:41:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部长绍伊古在普京召开的工作会议上报告称，马里乌波尔市的乌克兰军队曾经拥有“圆点-U”战术导弹系统，其能够打到俄顿河畔罗斯托夫和塔甘罗格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5634111.d.html</link>
-            <guid>2640159</guid>
-            <pubDate>Thu, 21 Apr 2022 08:35:02 GMT</pubDate>
+            <title><![CDATA[土耳其央行：截至4月15日，土耳其本地持有的外汇为2167.3亿美元，高于一周前的2156.2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5665440.d.html</link>
+            <guid>2640391</guid>
+            <pubDate>Thu, 21 Apr 2022 11:41:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄罗斯为避免违约煞费苦心 研究绕过华尔街的迂回之道】在外国银行拒绝处理美元汇款后，俄罗斯以卢布偿付了两笔美元债券，信用违约掉期发生了“潜在的违约事件”，在5月4日宽限期届满之际，俄罗斯主权债可能会被正式宣布违约，如果俄罗斯在30天宽限期内向债券持有人支付美元，该国仍可避免违约。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5633805.d.html</link>
-            <guid>2640156</guid>
-            <pubDate>Thu, 21 Apr 2022 08:33:32 GMT</pubDate>
+            <title><![CDATA[  【科大讯飞：一季度净利润1.11亿元 同比下降20.57%】科大讯飞披露第一季度报告，报告期内，公司实现营业收入35.06亿元，同比增长40.17%；净利润1.11亿元，同比下降20.57%；基本每股收益0.05元。2021年，公司实现营业收入183.14亿元，同比增长40.61%；净利润15.56亿元，同比增长14.13%；基本每股收益0.7元；拟每10股派发现金红利1.00元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5665157.d.html</link>
+            <guid>2640388</guid>
+            <pubDate>Thu, 21 Apr 2022 11:39:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【浙江省公安厅交管局原一级高级警长冯金寿接受审查调查】浙江省公安厅交通管理局原一级高级警长冯金寿涉嫌严重违纪违法，目前正在接受浙江省纪委省监委驻省公安厅纪检监察组纪律审查和丽水市莲都区监委监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3188042.d.html</link>
-            <guid>2640154</guid>
-            <pubDate>Thu, 21 Apr 2022 08:32:21 GMT</pubDate>
+            <title><![CDATA[  【美股航空、邮轮股盘前集体上涨 美国航空涨近11%】美股航空、邮轮股盘前集体上涨，美国航空涨幅扩大至近11%，联合大陆航空涨超8%，嘉年华邮轮涨超4%，挪威邮轮、达美航空涨超3%，皇家加勒比邮轮涨近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3219897.d.html</link>
+            <guid>2640387</guid>
+            <pubDate>Thu, 21 Apr 2022 11:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【商务部：全国跨境电商综试区已达132个】在商务部今天举行的例行发布会上，新闻发言人高峰表示：目前，全国跨境电商综试区已达132个，基本覆盖全国，形成了陆海内外联动、东西双向互济的发展格局。高峰介绍，商务部对全国前五批105个跨境电商综试区进行了综合评估。从评估情况看，前五批综试区建设成效显著。2021年跨境电商进出口1.98万亿元人民币，增长15%。今年一季度继续保持增长，规模达4345亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3187837.d.html</link>
-            <guid>2640152</guid>
-            <pubDate>Thu, 21 Apr 2022 08:31:09 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统新闻秘书表示，与乌克兰谈判的俄罗斯代表团保持不变，核对未来文件措辞所需的专家也参加谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5664717.d.html</link>
+            <guid>2640386</guid>
+            <pubDate>Thu, 21 Apr 2022 11:36:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【步步高今日涨停 4家机构净卖出2.91亿元】步步高今日涨停，成交额25.55亿元，换手率25.07%，盘后龙虎榜数据显示，4家机构专用席位净卖出2.91亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3186785.d.html</link>
-            <guid>2640147</guid>
-            <pubDate>Thu, 21 Apr 2022 08:25:49 GMT</pubDate>
+            <title><![CDATA[挪威主权财富基金：第一季度亏损740亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3219340.d.html</link>
+            <guid>2640377</guid>
+            <pubDate>Thu, 21 Apr 2022 11:35:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  东岳硅材披露2022年第一季度报告，公司实现归母净利润2.4亿元，同比增长95.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5632176.d.html</link>
-            <guid>2640146</guid>
-            <pubDate>Thu, 21 Apr 2022 08:25:08 GMT</pubDate>
+            <title><![CDATA[挪威主权财富基金：第一季度投资回报率比基准利率高出0.66个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3219167.d.html</link>
+            <guid>2640375</guid>
+            <pubDate>Thu, 21 Apr 2022 11:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯第二大天然气生产商Novatek：很难确定北极LNG 2项目的完成时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5631844.d.html</link>
-            <guid>2640144</guid>
-            <pubDate>Thu, 21 Apr 2022 08:23:06 GMT</pubDate>
+            <title><![CDATA[  【扬杰科技：2021年净利润同比增长103% 拟10派2.2元】扬杰科技披露年报，2021年实现净利润7.68亿元，同比增长103.06%，拟10派2.2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5664176.d.html</link>
+            <guid>2640374</guid>
+            <pubDate>Thu, 21 Apr 2022 11:33:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯第二大天然气生产商Novatek：北极LNG 2项目的第一条生产线已完工85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3185890.d.html</link>
-            <guid>2640142</guid>
-            <pubDate>Thu, 21 Apr 2022 08:20:48 GMT</pubDate>
+            <title><![CDATA[挪威主权财富基金：第一季度投资回报为-6530亿挪威克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5664109.d.html</link>
+            <guid>2640373</guid>
+            <pubDate>Thu, 21 Apr 2022 11:32:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯第二大天然气生产商Novatek：在实施北极LNG 2项目时面临挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3185701.d.html</link>
-            <guid>2640141</guid>
-            <pubDate>Thu, 21 Apr 2022 08:20:15 GMT</pubDate>
+            <title><![CDATA[挪威主权财富基金：第一季度的投资回报率为-4.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5664021.d.html</link>
+            <guid>2640372</guid>
+            <pubDate>Thu, 21 Apr 2022 11:32:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  攀钢钒钛披露2022年第一季度报告，实现归母净利润4.7亿元，同比增长120.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3185478.d.html</link>
-            <guid>2640139</guid>
-            <pubDate>Thu, 21 Apr 2022 08:19:07 GMT</pubDate>
+            <title><![CDATA[【嘉环科技中签号出炉：共6.867万个】嘉环科技披露网上中签结果，中签号码共68670个，每个中签号码能认购1000股嘉环科技A股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5663393.d.html</link>
+            <guid>2640370</guid>
+            <pubDate>Thu, 21 Apr 2022 11:28:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰副总理要求俄罗斯立即为在亚速的平民提供人道主义通道。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5629143.d.html</link>
-            <guid>2640134</guid>
-            <pubDate>Thu, 21 Apr 2022 08:08:26 GMT</pubDate>
+            <title><![CDATA[  全国首批数字人民币线上贷款落地青岛。 (中证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3217758.d.html</link>
+            <guid>2640365</guid>
+            <pubDate>Thu, 21 Apr 2022 11:24:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【合盛硅业：实际控制人部分股份质押延期购回】合盛硅业公告，合盛集团、罗立国、罗燚合计直接持有公司股份76.44%。本次股份质押延期购回后，罗烨栋及其一致行动人直接持有的公司股份中处于质押状态的股份累计数为248,966,415股，占其合计所持公司股份总数的30.32%，占公司总股本的23.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3183463.d.html</link>
-            <guid>2640131</guid>
-            <pubDate>Thu, 21 Apr 2022 08:07:53 GMT</pubDate>
+            <title><![CDATA[4月21日晚间，恒大地产集团有限公司发布公告：定于2022年4月25日至4月26日召开“21恒大01”持有人会议，审议《关于调整“21恒大01”债券利息兑付安排的议案》《关于要求发行人承诺“不逃废债”的议案》等议案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5662625.d.html</link>
+            <guid>2640359</guid>
+            <pubDate>Thu, 21 Apr 2022 11:22:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【工信部：前3月全国规模以上酿酒企业白酒产量达到202.4万千升 同比增长4.7%】工信部数据显示，2022年1-3月，全国规模以上酿酒企业白酒产量达到202.4万千升，同比增长4.7%；啤酒产量816.0万千升，同比下降1.5%；葡萄酒产量5.1万千升，同比下降31.1%。其中，3月当月白酒产量77.5万千升，同比增长4.2%；啤酒产量284.9万千升，同比下降10.3%；葡萄酒产量1.8万千升，同比下降12.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3183118.d.html</link>
-            <guid>2640130</guid>
-            <pubDate>Thu, 21 Apr 2022 08:06:04 GMT</pubDate>
+            <title><![CDATA[俄罗斯央行：4月份分析师调查显示，2022年俄罗斯关键利率为14.5%，3月份为18.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216873.d.html</link>
+            <guid>2640355</guid>
+            <pubDate>Thu, 21 Apr 2022 11:18:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  必和必拓(BHP.N)盘前跌3.78%，一季度铁矿石出货量环比下降8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5628570.d.html</link>
-            <guid>2640129</guid>
-            <pubDate>Thu, 21 Apr 2022 08:05:33 GMT</pubDate>
+            <title><![CDATA[  【诺唯赞：一季度净利润4.31亿元 同比增长28.18%】诺唯赞公告，2022年一季度实现净利润4.31亿元，同比增长28.18%；2021年实现净利润6.78亿元，同比下降17.46%，拟10派3元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216813.d.html</link>
+            <guid>2640353</guid>
+            <pubDate>Thu, 21 Apr 2022 11:17:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  波音(BA.N)盘前涨0.79%，波音通知航司和供应商，波音787将在2022年下半年恢复交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5628554.d.html</link>
-            <guid>2640128</guid>
-            <pubDate>Thu, 21 Apr 2022 08:05:29 GMT</pubDate>
+            <title><![CDATA[  【时代中国已偿还一笔1.668亿美元到期债券】记者获悉，目前时代中国已偿还一笔1.668亿美元债，该债券于2022年4月20日到期，票息为5.3%。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216598.d.html</link>
+            <guid>2640352</guid>
+            <pubDate>Thu, 21 Apr 2022 11:15:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国铝业(AA.N)盘前跌4.41%，Q1营收32.93亿美元不及预期，预计Q2氧化铝和铝的第三方价格上涨带来的收益将被部分成本上涨所抵消。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5628538.d.html</link>
-            <guid>2640127</guid>
-            <pubDate>Thu, 21 Apr 2022 08:05:24 GMT</pubDate>
+            <title><![CDATA[  【九联科技：两名股东拟合计减持不超过3.5%股份】九联科技公告，股东君度德瑞、君度尚左拟合计减持不超过3.5%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216366.d.html</link>
+            <guid>2640348</guid>
+            <pubDate>Thu, 21 Apr 2022 11:14:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部：前3月全国规模以上乳制品制造企业产量达到732.4万吨 同比增长1.9%】工信部数据显示，2022年1－3月，全国规模以上乳制品制造企业产量达到732.4万吨，同比增长1.9%。其中，3月当月乳制品产量250.1万吨，同比下降1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3182965.d.html</link>
-            <guid>2640126</guid>
-            <pubDate>Thu, 21 Apr 2022 08:05:14 GMT</pubDate>
+            <title><![CDATA[奈飞盘前跌超3%，该股昨日收跌逾35%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216299.d.html</link>
+            <guid>2640346</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【美呼吁欧洲禁运俄罗斯油气同时大肆购买俄石油 外交部回应】外交部发言人汪文斌主持例行记者会。有记者就美方近期有关乌克兰局势涉华表态提问。汪文斌表示，我们一贯反对缺乏国际法依据、没有安理会授权的单边制裁和长臂管辖，反对不当禁止或者限制中国企业同其他国家企业开展正常的经贸活动。制裁不是缓和局势、结束战争、避免更多人员伤亡的正确途径，只会激化矛盾，加剧冲突外溢，让世界付出更多的代价，没有理由让各国人民为地区冲突买单。汪文斌说道，美方一边高调呼吁欧洲禁运俄罗斯油气，另一边却大肆购买俄罗斯石油，美国金融机构还趁机抄底抢购俄罗斯公司的债券，而欧洲却不得不直接承担地区动荡和能源涨价的代价。美国还一面扩大对俄制裁，一面同过去的制裁对象做交易，这事实上宣告了制裁的破产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5628428.d.html</link>
-            <guid>2640125</guid>
-            <pubDate>Thu, 21 Apr 2022 08:05:01 GMT</pubDate>
+            <title><![CDATA[美元指数DXY短线走高10点，现报100.16。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5661197.d.html</link>
+            <guid>2640342</guid>
+            <pubDate>Thu, 21 Apr 2022 11:12:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【外交部：阿桑奇被引渡到美国比维基解密爆料更让人看清美政府伪善面目】在4月21日举行的外交部例行记者会上，有记者提问：英国的一个法庭裁定向美国引渡阿桑奇，那么阿桑奇可能在美国面临因间谍罪而被判175年监禁，中方对此有何评论？“我们注意到有媒体质问美方，如果不惧真相且自信的话，为什么还要执意引渡阿桑奇？” 发言人汪文斌对此表示，阿桑奇的命运告诉人们：揭露别国的所谓“暴行”是“英雄”，揭露美国的丑闻就是“罪犯”，这就是美式言论和新闻自由的实质。阿桑奇被引渡到美国，比维基解密爆料本身更能让人看清美国政府的伪善面目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5628397.d.html</link>
-            <guid>2640124</guid>
-            <pubDate>Thu, 21 Apr 2022 08:04:51 GMT</pubDate>
+            <title><![CDATA[日本、新西兰联合声明：两国领导强调了军事合作的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3216013.d.html</link>
+            <guid>2640339</guid>
+            <pubDate>Thu, 21 Apr 2022 11:11:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【乌总统办公室主任顾问：俄乌冲突可通过两国元首会谈解决 乌方将保持强硬立场】乌克兰独立通讯社21日援引乌总统办公室主任顾问米哈伊洛·波多利亚克的讲话报道称，俄乌冲突可以通过两国元首会谈得到解决。不过，乌方将在会谈中保持强硬、合法、合理的立场。他还补充说：“今天乌克兰武装部队别无选择，只有在乌东部取得战术胜利，才能确保我们的自由，这一点至关重要。但不幸的是，这将让乌克兰军人付出高昂的代价，包括生命。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3182534.d.html</link>
-            <guid>2640122</guid>
-            <pubDate>Thu, 21 Apr 2022 08:02:52 GMT</pubDate>
+            <title><![CDATA[法德10年期国债收益率差收窄至约44个基点，为逾两周以来最窄。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5660890.d.html</link>
+            <guid>2640338</guid>
+            <pubDate>Thu, 21 Apr 2022 11:10:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【贵州燃气：贵持股5%以上部分股份解除质押】贵州燃气公告，公司收到持股 5%以上股东贵阳工投《关于部分股份解除质押告知书》，获悉贵阳工投将原质押给贵阳银行股份有限公司的 2117万股无限售条件流通股，办理了解除质押手续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3182423.d.html</link>
-            <guid>2640118</guid>
-            <pubDate>Thu, 21 Apr 2022 08:02:11 GMT</pubDate>
+            <title><![CDATA[俄罗斯央行行长纳比乌琳娜：我们预计利率不会保持在目前的高水平，也不应该对此感到担心，利率会随着通货膨胀而下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5660731.d.html</link>
+            <guid>2640337</guid>
+            <pubDate>Thu, 21 Apr 2022 11:09:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国联合航空(UAL.O)盘前涨7.55%，预计Q2每可用座位英里总营收（TRASM）将较2019年同期增长17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5627846.d.html</link>
-            <guid>2640117</guid>
-            <pubDate>Thu, 21 Apr 2022 08:01:15 GMT</pubDate>
+            <title><![CDATA[  【*ST丹邦：因涉嫌信披违法违规 证监会决定对公司立案】*ST丹邦公告，公司收到证监会的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3215680.d.html</link>
+            <guid>2640336</guid>
+            <pubDate>Thu, 21 Apr 2022 11:09:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本领导人向靖国神社供奉祭品 中方：坚决反对、严厉谴责 已严正交涉】靖国神社自4月21日起举行所谓的“春季大祭”，日本领导人今天向靖国神社供奉祭品，另有个别内阁成员以及部分国会议员前往参拜。中国外交部发言人汪文斌在今天（21日）的例行记者会上表示，靖国神社是日本军国主义发动对外侵略战争的精神工具和象征，供奉有对那场侵略战争负有严重罪责的甲级战犯。日方有关消极动向，再次反映出其对待自身侵略历史的错误态度。中方对此坚决反对、严厉谴责并已进行严正交涉。汪文斌强调，中方敦促日方切实信守正视并反省侵略历史的表态和承诺，彻底同军国主义切割，以实际行动取信于亚洲邻国和国际社会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5627187.d.html</link>
-            <guid>2640111</guid>
-            <pubDate>Thu, 21 Apr 2022 07:57:53 GMT</pubDate>
+            <title><![CDATA[  【4月20日全国影院营业率46.40% 西安影院大面积复工】据猫眼专业版，截至4月21日18时，4月20日全国影院营业率为46.40%。营业影院5585家，较上日增加123家，大盘票房783.98万。西安是影院营业数涨幅最大的城市，营业影院89家，较上日上涨86家。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3215668.d.html</link>
+            <guid>2640335</guid>
+            <pubDate>Thu, 21 Apr 2022 11:09:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【扬电科技：一季度净利升184.68%】扬电科技公告，一季度公司实现营业收入1.92亿元，同比增长120.55%；归属于上市公司股东的净利润2410.96万元，同比增长184.68%；归属于上市公司股东的扣除非经常性损益的净利润2417.11元，同比增长180.64%；经营活动现金净流出2955.60万元，上年同期为净流出2536.63万元；基本每股收益0.287元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5626788.d.html</link>
-            <guid>2640110</guid>
-            <pubDate>Thu, 21 Apr 2022 07:55:26 GMT</pubDate>
+            <title><![CDATA[  俄罗斯央行行长纳比乌琳娜表示，西方国家共冻结了俄罗斯央行近3000亿美元的外汇储备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3215446.d.html</link>
+            <guid>2640330</guid>
+            <pubDate>Thu, 21 Apr 2022 11:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【中国广电经营范围新增5G通信，近期注册多枚5G商标】企查查APP显示，4月18日，中国广播电视网络集团有限公司发生工商变更，经营范围新增5G通信技术服务；移动通信设备销售；移动终端设备销售；计算机软硬件及辅助设备零售等。企查查信息显示，该企业成立于2014年，法定代表人为宋起柱，近期申请注册包括中国广电 BROADNET 5G、中国广电 CHINA BROADNET 5G在内的30枚商标，国际分类涉及通讯服务、科学仪器、办公用品、设计研究等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5626684.d.html</link>
-            <guid>2640109</guid>
-            <pubDate>Thu, 21 Apr 2022 07:54:55 GMT</pubDate>
+            <title><![CDATA[四川路桥：控股股东蜀道集团拟增持5亿元-10亿元公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5660262.d.html</link>
+            <guid>2640328</guid>
+            <pubDate>Thu, 21 Apr 2022 11:06:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国地质勘探局：尼加拉瓜海岸发生的地震没有触发海啸警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5626529.d.html</link>
-            <guid>2640104</guid>
-            <pubDate>Thu, 21 Apr 2022 07:53:35 GMT</pubDate>
+            <title><![CDATA[日本、新西兰联合声明：日本首相岸田文雄，新西兰总理阿德恩要求俄罗斯立即从乌克兰撤军。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5660209.d.html</link>
+            <guid>2640324</guid>
+            <pubDate>Thu, 21 Apr 2022 11:06:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【海能实业：一季度净利润同比增长99.46%】海能实业公告，一季度公司实现营业收入5.18亿元，同比增长21.09%；归属于上市公司股东的净利润5829.08万元，同比增长99.46%；归属于上市公司股东的扣除非经常性损益的净利润5563.76万元，同比增长90.25%；基本每股收益0.3815元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5626442.d.html</link>
-            <guid>2640103</guid>
-            <pubDate>Thu, 21 Apr 2022 07:53:06 GMT</pubDate>
+            <title><![CDATA[印度外交部发言人：正在考虑如何保持与俄罗斯稳定的经济关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3215109.d.html</link>
+            <guid>2640323</guid>
+            <pubDate>Thu, 21 Apr 2022 11:05:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【麦当劳：超40家上海保供餐厅恢复营业】记者获悉，随着防范区的出现，麦当劳目前已经增开到超40家保供餐厅，分布到上海12个区，其中包括如黄浦香港名都麦当劳、金山美凯龙麦当劳、浦东长泰广场麦当劳等第一批保供餐厅。麦当劳提示，居民订单目前不一定能完全满足，消费者可以通过麦当劳APP选择自己周边已开的保供餐厅进行下单，3份起送。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3180840.d.html</link>
-            <guid>2640101</guid>
-            <pubDate>Thu, 21 Apr 2022 07:52:51 GMT</pubDate>
+            <title><![CDATA[土耳其央行：最近能源进口的强劲势头对经常账户平衡产生了不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5660147.d.html</link>
+            <guid>2640322</guid>
+            <pubDate>Thu, 21 Apr 2022 11:05:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲地中海地震中心：尼加拉瓜海岸附近发生6.9级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3180690.d.html</link>
-            <guid>2640099</guid>
-            <pubDate>Thu, 21 Apr 2022 07:51:48 GMT</pubDate>
+            <title><![CDATA[  【四川成渝：控股股东拟继续增持不超过2%股份】四川成渝公告，控股股东蜀道集团于2022年4月21日通过联交所交易系统在二级市场增持了本公司441.2万股H股股份，约占本公司已发行总股本的0.14%，拟继续增持不超过2%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3214977.d.html</link>
+            <guid>2640321</guid>
+            <pubDate>Thu, 21 Apr 2022 11:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  内蒙华电公告，经国家矿山安全监察局研究决定，同意魏家峁露天煤矿生产能力由600万吨/年核增至1200万吨/年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3180641.d.html</link>
-            <guid>2640097</guid>
-            <pubDate>Thu, 21 Apr 2022 07:51:34 GMT</pubDate>
+            <title><![CDATA[【振华股份：一季度净利润9956.02万元 同比增长173.25%】振华股份公布2022年第一季度报告，公司实现营业收入7.9亿元，同比增长18.36%；归母净利润9956.02万元，同比增长173.25%；基本每股收益0.20元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5659662.d.html</link>
+            <guid>2640317</guid>
+            <pubDate>Thu, 21 Apr 2022 11:01:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【珀莱雅：一季度净利增44.16%】珀莱雅公告，一季度公司实现营业收入12.54亿元，同比增长38.53%；归属于上市公司股东的净利润1.58亿元，同比增长44.16%；归属于上市公司股东的扣除非经常性损益的净利润1.47亿元，同比增长36.21%；基本每股收益0.79元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5625725.d.html</link>
-            <guid>2640096</guid>
-            <pubDate>Thu, 21 Apr 2022 07:49:21 GMT</pubDate>
+            <title><![CDATA[  3个月期美元LIBOR上涨4.8个基点，为3月以来最大涨幅，报1.184％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5659606.d.html</link>
+            <guid>2640316</guid>
+            <pubDate>Thu, 21 Apr 2022 11:00:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  祥源新材公告，公司股东楚商澴锋拟减持公司股份不超过公司总股本的4.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3179734.d.html</link>
-            <guid>2640093</guid>
-            <pubDate>Thu, 21 Apr 2022 07:47:18 GMT</pubDate>
+            <title><![CDATA[  【宏柏新材：拟12亿元投建功能性新材料项目】宏柏新材公告，拟投资建设功能性新材料项目，项目总投资金额为12亿元，项目总产能11.4万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5659373.d.html</link>
+            <guid>2640315</guid>
+            <pubDate>Thu, 21 Apr 2022 10:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国正在与美国20个州各自进行贸易谈判 预计5月达成首个协议】英国负责国际贸易的国务大臣佩妮·莫当特21日在议会表示，英国正在与美国20个州各自进行贸易谈判，预计最快于下月达成首个协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3214206.d.html</link>
+            <guid>2640314</guid>
+            <pubDate>Thu, 21 Apr 2022 10:58:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【双成药业：依替巴肽注射液sANDA获得美国FDA上市许可】双成药业公告，公司依替巴肽注射液（75mg/100mL）sANDA通过美国FDA上市许可批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5659250.d.html</link>
+            <guid>2640313</guid>
+            <pubDate>Thu, 21 Apr 2022 10:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【东百集团：2021年净利1.25亿元 同比降38.7%】东百集团公布2021年年度报告，实现营业收入18.95亿元，同比增长3.87%；归母净利润1.25亿元，同比下降38.7%；基本每股收益0.1442元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3213096.d.html</link>
+            <guid>2640308</guid>
+            <pubDate>Thu, 21 Apr 2022 10:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【娜比乌琳娜连任俄罗斯央行行长】俄罗斯国家杜马投票决定再次任命娜比乌琳娜为俄罗斯央行行长，任期五年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3212940.d.html</link>
+            <guid>2640307</guid>
+            <pubDate>Thu, 21 Apr 2022 10:48:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  驰宏锌锗：2022年一季度实现净利润5.48亿元，同比增长48.33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657771.d.html</link>
+            <guid>2640306</guid>
+            <pubDate>Thu, 21 Apr 2022 10:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【佩斯科夫：乌方有关打击克里米亚大桥的言论不可接受】乌克兰国家安全与国防委员会秘书达尼洛夫21日接受乌媒体采访时表示，如果俄罗斯通过克里米亚大桥的路线增援物资和装备，一旦出现这样的机会，乌克兰一定会攻击克里米亚大桥。对此，俄罗斯总统新闻秘书佩斯科夫当天回应说，乌克兰方面高级官员有关打击克里米亚大桥的言论不可接受。他表示俄罗斯有关部门正在大桥周围采取必要的安全措施和预防措施。佩斯科夫强调，类似声明完全是在宣布一项恐怖行动，是不可以接受的，应当接受法律核查和相应惩罚。佩斯科夫还对泽连斯基为何没有收到俄罗斯和乌克兰谈判文件草案的最新版本表示不解。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657757.d.html</link>
+            <guid>2640305</guid>
+            <pubDate>Thu, 21 Apr 2022 10:46:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中瓷电子：2021年净利同比增23.96% 拟10转4派1.5元】中瓷电子发布2021年年度报告，实现营业收入10.14亿元，同比增长24.21%；归母净利润1.22亿元，同比增长23.96%；拟每10股派发现金红利1.5元(含税)，以资本公积金向全体股东每10股转增4股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3212503.d.html</link>
+            <guid>2640304</guid>
+            <pubDate>Thu, 21 Apr 2022 10:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大全能源：2022年一季度实现净利润43.12亿元，同比增长640.85%】大全能源公告，多晶硅三期B阶段于1月达产，产量大幅提升的同时也增加了销量；年底因硅料需求暂缓而导致发货延迟的情况在1月份已经结束，年底库存基本在本季度实现销售，因此销量大幅增加；2021年以来硅料供应持续紧缺，使得市场价格一路上涨，一季度仍处于高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657556.d.html</link>
+            <guid>2640303</guid>
+            <pubDate>Thu, 21 Apr 2022 10:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯特维尔市空天军研究院火灾已致2人死亡 30人受伤】据塔斯社援引消息人士报道，在俄罗斯特维尔市隶属于俄国防部的空天军研究院发生的火灾中，受伤人数已上升至30人，死亡人数上升至2人，另有1人生死不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657529.d.html</link>
+            <guid>2640302</guid>
+            <pubDate>Thu, 21 Apr 2022 10:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【周应波一季度加仓阳光电源超百万股】周应波管理的中欧新趋势混合基金一季报显示，一季度前十大重仓股为：宁波银行，法拉电子、牧原股份、贵州茅台、阳光电源、春秋航空、立讯精密、吉祥航空、福耀玻璃和金地集团。值得注意的是，周应波一季度对阳光电源进行了“大幅加仓”，从前一季度的193.78万股加至299.26万股，持仓占比也从第9大重仓股升至第5大重仓股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657394.d.html</link>
+            <guid>2640301</guid>
+            <pubDate>Thu, 21 Apr 2022 10:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【德国政府暂未考虑对乌克兰进行债务减免】德国联邦政府发言人表示，德国暂未考虑要对乌克兰进行债务减免，因为眼下还没有收到乌克兰方面的任何此类请求。此前德国联邦政府发言人曾透露，乌克兰今年仍需要500亿欧元的财政援助。对此，德国舆论就是否应该减免乌克兰的债务展开了激烈讨论。有不少声音认为，乌克兰债台高筑、经济缩水，德国应尽快为减免其债务作准备。据悉，乌克兰政府已与德国就要求提供财政支持进行了沟通。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5657313.d.html</link>
+            <guid>2640300</guid>
+            <pubDate>Thu, 21 Apr 2022 10:42:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【4天3板会稽山：有关媒体相关文章内容严重脱离实际情形 纯属主观臆测】会稽山发布异动公告，公司近日关注到有关媒体发布了涉及到公司控股股东重整投资人招募事项的相关文章，经公司与精功集团及管理人进一步核实，文章中所称的有部分投资人主体可能成为参与会稽山控股股权的收购方等内容严重脱离了实际情形，无正当依据，纯属主观臆测。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3211588.d.html</link>
+            <guid>2640298</guid>
+            <pubDate>Thu, 21 Apr 2022 10:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  康恩贝：2021年实现净利润20.09亿元，同比增长343.24%，拟10派1.6元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3211570.d.html</link>
+            <guid>2640297</guid>
+            <pubDate>Thu, 21 Apr 2022 10:39:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫发言人佩斯科夫：因此，需要政府相关主管部门针对每个具体的事件进行处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5656223.d.html</link>
+            <guid>2640293</guid>
+            <pubDate>Thu, 21 Apr 2022 10:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫发言人佩斯科夫：不可能有一个通用的方案。有些外国公司虽然暂停运营，但继续根据俄罗斯的法律履行对其员工的所有义务，而有些公司则没有对雇员履行相应的义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3210840.d.html</link>
+            <guid>2640292</guid>
+            <pubDate>Thu, 21 Apr 2022 10:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巨化股份：2021年净利同比增1063% 拟10派1.3元】巨化股份公布2021年年度报告，公司实现营业收入179.86亿元，同比增长12.03%；归母净利润11.09亿元，同比增长1062.87%；拟向全体股东按每10股派发现金红利1.3元(含税)。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3210703.d.html</link>
+            <guid>2640291</guid>
+            <pubDate>Thu, 21 Apr 2022 10:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新化股份：拟5.16亿元投建含膦新材料产品项目】新化股份公告，拟通过宁夏新化化工有限公司在宁夏宁东化工基地建设含膦新材料产品项目，该项目计划投资额5.16亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3210574.d.html</link>
+            <guid>2640289</guid>
+            <pubDate>Thu, 21 Apr 2022 10:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[公布财报后，AT&T(T.N)盘前涨0.62%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3210298.d.html</link>
+            <guid>2640288</guid>
+            <pubDate>Thu, 21 Apr 2022 10:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯议会下院投票支持现任央行行长纳比乌琳娜连任。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3210186.d.html</link>
+            <guid>2640287</guid>
+            <pubDate>Thu, 21 Apr 2022 10:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AT&T第一季度营收381亿美元，预估377.3亿美元；第一季度调整后每股收益0.77美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5655393.d.html</link>
+            <guid>2640286</guid>
+            <pubDate>Thu, 21 Apr 2022 10:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小红书裁员20%员工？ 官方回应：只是正常人员汰换】有消息称社交平台APP小红书正在进行整体性裁员，“不少员工当天被通知要求离职，没有沟通空间。”消息中提到，被裁员工比例约占20%。对此，小红书运营企业——行吟信息科技(上海)有限公司表示，网传“整体性裁员”实为正常的人员汰换。行吟信息科技(上海)有限公司称，3月起，小红书按照惯例开展企业年度绩效考核工作，基于年度绩效考核结果进行正常的人员汰换。考核面向所有正式员工(含试用期内员工)，绩效不合格员工通常占比 10% 左右。此次因绩效不合格进行协商解除劳动关系的员工约 200 余人，约占员工总数的 9%左右，与网传消息中“20%” 的比例不符。 (上海网络辟谣)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5655254.d.html</link>
+            <guid>2640285</guid>
+            <pubDate>Thu, 21 Apr 2022 10:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沧州大化：2021年实现净利润2.2亿元，同比增长496.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3209851.d.html</link>
+            <guid>2640284</guid>
+            <pubDate>Thu, 21 Apr 2022 10:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道通科技：拟以1亿元-2亿元回购股份】道通科技公告，拟以1亿元-2亿元回购股份，回购价格不超过59.64元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwipii5654922.d.html</link>
+            <guid>2640282</guid>
+            <pubDate>Thu, 21 Apr 2022 10:25:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国核电：纳入国家规划的浙江三门核电项目3、4 号机组获核准】中国核电公告，国常会决定对已经全面安全评估审查且纳入国家规划的浙江三门核电项目3、4号机组予以核准，单台机组额定电功率为1251MW。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-04-21/detail-imcwiwst3209477.d.html</link>
+            <guid>2640281</guid>
+            <pubDate>Thu, 21 Apr 2022 10:24:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
