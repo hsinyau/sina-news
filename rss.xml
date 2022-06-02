@@ -4,11 +4,304 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 21:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：周五和周六，古巴部分地区、佛罗里达群岛和佛罗里达南部将遭遇强降雨，并伴有洪水。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4852469.d.html</link>
+            <guid>2692961</guid>
+            <pubDate>Thu, 02 Jun 2022 20:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【加拿大目前已确诊30例猴痘病例】加拿大安大略省多伦多公共卫生局2日宣布，该地区确诊了3例猴痘病例，安大略省已累计确诊5例猴痘病例。在此之前，加拿大魁北克省已经确诊了25例猴痘病例，加拿大境内累计确诊猴痘病例已达30例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6302890.d.html</link>
+            <guid>2692960</guid>
+            <pubDate>Thu, 02 Jun 2022 20:56:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：顿巴斯的军事局势在过去24小时内没有改变，我们在北顿涅茨克取得了一些进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4851740.d.html</link>
+            <guid>2692959</guid>
+            <pubDate>Thu, 02 Jun 2022 20:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊塔乌联合银行预计巴西2022年GDP增长为1.6％，此前为1％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6302146.d.html</link>
+            <guid>2692958</guid>
+            <pubDate>Thu, 02 Jun 2022 20:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[危地马拉4月经济活动同比增长4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6301244.d.html</link>
+            <guid>2692954</guid>
+            <pubDate>Thu, 02 Jun 2022 20:33:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国商务部将71家俄罗斯、白俄罗斯实体列入经济黑名单，包括飞机制造厂、造船和无线电技术企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6301024.d.html</link>
+            <guid>2692953</guid>
+            <pubDate>Thu, 02 Jun 2022 20:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lululemon(LULU.O)2023财年Q1 净利润（亿美元）：前值1.45，预期1.84，公布1.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6300915.d.html</link>
+            <guid>2692952</guid>
+            <pubDate>Thu, 02 Jun 2022 20:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CrowdStrike(CRWD.O)2023财年Q1 EPS：前值$-0.38，预期$-0.08，公布$-0.14。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4850063.d.html</link>
+            <guid>2692951</guid>
+            <pubDate>Thu, 02 Jun 2022 20:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：拜登将前往沙特阿拉伯，会见沙特王储。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6300321.d.html</link>
+            <guid>2692950</guid>
+            <pubDate>Thu, 02 Jun 2022 20:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CrowdStrike(CRWD.O)2023财年Q1 营收（亿美元）：前值3.03，预期4.63，公布4.87。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4849264.d.html</link>
+            <guid>2692949</guid>
+            <pubDate>Thu, 02 Jun 2022 20:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lululemon(LULU.O)2023财年Q1 营收（亿美元）：前值12.26，预期15.32，公布16。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6299508.d.html</link>
+            <guid>2692948</guid>
+            <pubDate>Thu, 02 Jun 2022 20:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lululemon(LULU.O)2023财年Q1 EPS：前值$1.11，预期$1.43，公布$1.48。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4849200.d.html</link>
+            <guid>2692947</guid>
+            <pubDate>Thu, 02 Jun 2022 20:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登在白宫会见北约秘书长斯托尔滕贝格】美国白宫发表声明称，美国总统拜登和副总统哈里斯当日会见了北约秘书长斯托尔滕贝格，为6月29日至30日在马德里举行的北约峰会做准备。据悉，双方讨论了俄乌冲突对跨大西洋安全的影响以及加强北约威慑和防御的重要性，双方同时对芬兰和瑞典申请加入北约表示欢迎。此外，斯托尔滕贝格还会见了美国总统国家安全事务助理沙利文。斯托尔滕贝格表示，相信俄乌冲突将“在谈判桌上结束”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4849005.d.html</link>
+            <guid>2692946</guid>
+            <pubDate>Thu, 02 Jun 2022 20:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果将升级IPad软件以满足专业用户】据知情人士透露，苹果公司将在下周举行的年度全球开发者大会上宣布对iPad软件的重大调整，此举是为了让iPad更像笔记本电脑，而不是手机。知情人士称，iPad的下一个重大软件更新iPadOS 16将有一个重新设计的多任务界面，可以更容易地看到哪些应用程序处于打开状态，并在任务之间切换。该系统还将允许用户调整应用程序窗口的大小，并为用户提供同时处理多个应用程序的新方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6299060.d.html</link>
+            <guid>2692945</guid>
+            <pubDate>Thu, 02 Jun 2022 20:04:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：预计不是每个月都有重磅的就业报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4848722.d.html</link>
+            <guid>2692944</guid>
+            <pubDate>Thu, 02 Jun 2022 20:03:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国医疗保险医院保险基金预计到2028年能够支付预定福利，比去年的估计晚了两年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4847823.d.html</link>
+            <guid>2692939</guid>
+            <pubDate>Thu, 02 Jun 2022 19:52:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长佩洛西：针对枪支暴力的立法将于下周提交众议院。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6296832.d.html</link>
+            <guid>2692937</guid>
+            <pubDate>Thu, 02 Jun 2022 19:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫表示，美国没有参与商讨讨欧佩克+的增产决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6296660.d.html</link>
+            <guid>2692936</guid>
+            <pubDate>Thu, 02 Jun 2022 19:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄国防部副部长与联合国副秘书长讨论乌克兰人道主义局势】俄罗斯国防部2日发布消息说，俄国防部副部长福明当天在莫斯科与到访的联合国负责人道主义事务的副秘书长格里菲思举行会晤，双方讨论了乌克兰人道主义局势，特别是乌粮食外运问题。福明说，俄方并未封锁乌方在黑海的港口。自3月起开放了一条人道主义走廊供船只驶离乌港口，俄武装部队愿在通往国际水域的航线上保障船只安全。他强调，俄方不会利用乌克兰人道主义形势来完成特别军事行动的任务。福明同时表示，发生粮食危机首先是因为西方的制裁破坏了供应链，限制了俄罗斯的粮食出口，而俄罗斯是世界主要粮食供应国之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4846118.d.html</link>
+            <guid>2692935</guid>
+            <pubDate>Thu, 02 Jun 2022 19:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯正就参与ShareChat的融资进行磋商】腾讯正就参与ShareChat正在进行的一轮融资进行磋商。据悉，腾讯将通过可换股票据向ShareChat投资不超过1亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4845821.d.html</link>
+            <guid>2692933</guid>
+            <pubDate>Thu, 02 Jun 2022 19:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：06月03日02时54分在菲律宾棉兰老岛附近海域（北纬8.95度，东经126.90度）发生5.2级地震，震源深度20千米。]]></title>
+            <guid>2692931</guid>
+            <pubDate>Thu, 02 Jun 2022 19:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【巴政府官员：巴基斯坦政府与巴基斯坦塔利班同意无限期停火】当地时间6月2日晚，正在阿富汗喀布尔参加和平谈判的巴基斯坦支尔格会议成员、开普省信息和公共关系首席部长特别助理穆罕默德·阿里·赛义夫对中央广播电视总台报道员表示，巴基斯坦政府已经同意与巴基斯坦塔利班无限期停火，双方将继续进行和平谈判。他表示，他们同意巴塔发布停火声明。巴基斯坦塔利班发言人穆罕默德·库拉萨尼2日晚发表声明称，由于最近两日的谈判取得重大进展，巴基斯坦塔利班与巴基斯坦政府的停火将无限期延长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6295740.d.html</link>
+            <guid>2692930</guid>
+            <pubDate>Thu, 02 Jun 2022 19:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰总理莫拉维茨基表示，波兰向乌克兰提供武器，欧盟为此将向华沙支付数亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6295558.d.html</link>
+            <guid>2692927</guid>
+            <pubDate>Thu, 02 Jun 2022 19:21:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：沙特国王萨勒曼和王储在实现也门停火方面发挥了重要作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4845073.d.html</link>
+            <guid>2692926</guid>
+            <pubDate>Thu, 02 Jun 2022 19:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：瓦努阿图发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4844895.d.html</link>
+            <guid>2692925</guid>
+            <pubDate>Thu, 02 Jun 2022 19:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国女王因身体不适 暂停参加庆祝其在位70周年的活动】英国白金汉宫2日晚间发表声明表示，英国女王伊丽莎白二世在当天参加了庆祝其在位70周年的首日活动后，身体感到不适，将暂停参加6月3日的庆祝活动。庆祝活动原计划为期四天，目前尚没有6月3日之后伊丽莎白二世是否仍会退出活动的消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6294607.d.html</link>
+            <guid>2692922</guid>
+            <pubDate>Thu, 02 Jun 2022 19:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯联邦安全委员会副主席梅德韦杰夫表示，如果乌克兰对俄罗斯境内的设施使用武器，就没有其他选择，只能狠狠打击乌克兰的决策中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4843858.d.html</link>
+            <guid>2692920</guid>
+            <pubDate>Thu, 02 Jun 2022 19:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英国已承诺向乌克兰运送中程火箭系统】据英国媒体当地时间6月2日消息，英国已承诺向乌克兰运送中程火箭系统。英国国防大臣华莱士说，英国将送出一批M270发射器，它们能够发射出近79千米的精确制导火箭。华莱士表示，乌克兰军队也将在英国接受如何使用这些设备的培训。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6293736.d.html</link>
+            <guid>2692917</guid>
+            <pubDate>Thu, 02 Jun 2022 19:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：欧洲的客户更注重可持续发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4843461.d.html</link>
+            <guid>2692916</guid>
+            <pubDate>Thu, 02 Jun 2022 19:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝莱德首席执行官Fink：如果美联储过度行动，经济衰退就会到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4843061.d.html</link>
+            <guid>2692915</guid>
+            <pubDate>Thu, 02 Jun 2022 18:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：我们将有两年的高通胀时期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842910.d.html</link>
+            <guid>2692914</guid>
+            <pubDate>Thu, 02 Jun 2022 18:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：美联储没有解决供应问题的工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842815.d.html</link>
+            <guid>2692913</guid>
+            <pubDate>Thu, 02 Jun 2022 18:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：能源转型可能是另一种推动通胀的力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842807.d.html</link>
+            <guid>2692912</guid>
+            <pubDate>Thu, 02 Jun 2022 18:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：对美国来说，移民的减少意味着通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6293023.d.html</link>
+            <guid>2692911</guid>
+            <pubDate>Thu, 02 Jun 2022 18:51:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：通胀压力来自以消费为基础的经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842690.d.html</link>
+            <guid>2692910</guid>
+            <pubDate>Thu, 02 Jun 2022 18:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：通胀问题与政策有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842554.d.html</link>
+            <guid>2692909</guid>
+            <pubDate>Thu, 02 Jun 2022 18:47:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝莱德首席执行官Fink：我们将生活在更多的不确定性中；未来一两年，经济可能会勉强维持下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6292610.d.html</link>
+            <guid>2692908</guid>
+            <pubDate>Thu, 02 Jun 2022 18:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：政策和供应冲击是导致经济动荡的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6292450.d.html</link>
+            <guid>2692907</guid>
+            <pubDate>Thu, 02 Jun 2022 18:43:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝莱德首席执行官Fink：美联储现在没有应对通胀的工具。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4842235.d.html</link>
+            <guid>2692906</guid>
+            <pubDate>Thu, 02 Jun 2022 18:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝莱德首席执行官Fink：市场正在自我调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6292347.d.html</link>
+            <guid>2692905</guid>
+            <pubDate>Thu, 02 Jun 2022 18:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国白金汉宫：伊丽莎白女王在周四的庆典活动中感到有些不适，她将不会参加周五在白金汉宫举行的教堂感恩仪式。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4841835.d.html</link>
+            <guid>2692903</guid>
+            <pubDate>Thu, 02 Jun 2022 18:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法国国家药品与健康产品安全局表示，将于6月8日与专家举行会议，研究与PPC飞利浦通风设备相关的可能风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4841044.d.html</link>
+            <guid>2692901</guid>
+            <pubDate>Thu, 02 Jun 2022 18:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美参议员：罗布小学枪击案现场指挥员并未接到学校大楼内部人员的报警通知】当地时间6月2日，美国得克萨斯州参议员罗兰德·古铁雷斯表示，由于系统故障，在尤瓦尔迪市罗布小学枪击事件现场的指挥官并没有接到来自学校大楼内部人员的报警电话通知。他指出，罗布小学枪击案的发生体现了“每个层面都存在错误，包括立法层面”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4840809.d.html</link>
+            <guid>2692900</guid>
+            <pubDate>Thu, 02 Jun 2022 18:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦对欧盟的新援助乌克兰方案表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6290646.d.html</link>
+            <guid>2692899</guid>
+            <pubDate>Thu, 02 Jun 2022 18:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦会见了爱尔兰财政部长多诺霍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4840298.d.html</link>
+            <guid>2692898</guid>
+            <pubDate>Thu, 02 Jun 2022 18:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：智利政府将结束前政府的锂许可证程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4840201.d.html</link>
+            <guid>2692897</guid>
+            <pubDate>Thu, 02 Jun 2022 18:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  基金分析公司理柏（Lipper）：本周，美国贷款基金预计录得3300万美元的资金流入。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6290274.d.html</link>
+            <guid>2692894</guid>
+            <pubDate>Thu, 02 Jun 2022 18:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：波音公司首席通信官ED DANDRIDGE将离开公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4839891.d.html</link>
+            <guid>2692893</guid>
+            <pubDate>Thu, 02 Jun 2022 18:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：泰国议会批准总值930亿美元的2023年预算草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4839564.d.html</link>
+            <guid>2692892</guid>
+            <pubDate>Thu, 02 Jun 2022 18:10:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  穆迪对巴哈马即将发行的债券给予Aaa评级。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4839085.d.html</link>
@@ -173,219 +466,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6285808.d.html</link>
             <guid>2692862</guid>
             <pubDate>Thu, 02 Jun 2022 17:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储梅斯特：现在还不能说利率会升到多高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4835474.d.html</link>
-            <guid>2692861</guid>
-            <pubDate>Thu, 02 Jun 2022 17:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：到目前为止，消费者支出保持良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6285693.d.html</link>
-            <guid>2692860</guid>
-            <pubDate>Thu, 02 Jun 2022 17:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：福特汽车位于印度金奈（Chennai）工厂的工人们将举行罢工；金奈是印度第四大城市，凭借横跨孟加拉湾的贸易路线而被称为“南印度之门”。]]></title>
-            <guid>2692859</guid>
-            <pubDate>Thu, 02 Jun 2022 17:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理贝内特办公室：国际原子能机构总干事抵达以色列，会见以色列总理贝内特。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6285167.d.html</link>
-            <guid>2692858</guid>
-            <pubDate>Thu, 02 Jun 2022 17:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富士康证实，在墨西哥的一家工厂在5月底遭遇了勒索软件网络攻击。网络攻击造成的业务中断将通过调整产能来处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4834710.d.html</link>
-            <guid>2692856</guid>
-            <pubDate>Thu, 02 Jun 2022 17:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：经济增长可能放缓，失业率可能暂时上升这；将是痛苦的，但高通胀也是如此。]]></title>
-            <guid>2692854</guid>
-            <pubDate>Thu, 02 Jun 2022 17:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储梅斯特：美联储必须坚决、有意地取消宽松政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6284255.d.html</link>
-            <guid>2692853</guid>
-            <pubDate>Thu, 02 Jun 2022 17:09:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储梅斯特：政策利率可能需要超过2.5%，但目前还无法做出这样的决定，这取决于需求会在多大程度上放缓，以及供应会发生什么变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4834075.d.html</link>
-            <guid>2692852</guid>
-            <pubDate>Thu, 02 Jun 2022 17:08:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前5个月公司债发行规模近1.25万亿元 科技创新公司债破茧】数据显示，今年前5个月，沪深交易所债市发行各类债券8.45万亿元，同比增长14%。其中，公司债发行规模近1.25万亿元。“注册制改革推动公司债进入市场化发行的新阶段，促进公司债市场在扩大市场体量、提高信息披露质量、健全风险防范理念等方面发生积极变化，公司债券市场发展可期。”中诚信国际董事长兼总裁闫衍对记者表示。(证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4834067.d.html</link>
-            <guid>2692851</guid>
-            <pubDate>Thu, 02 Jun 2022 17:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：劳动力市场非常紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6284072.d.html</link>
-            <guid>2692850</guid>
-            <pubDate>Thu, 02 Jun 2022 17:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：目前的工资增长速度与价格稳定不一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6284066.d.html</link>
-            <guid>2692849</guid>
-            <pubDate>Thu, 02 Jun 2022 17:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储梅斯特：供应链中断类似于“打地鼠”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6284016.d.html</link>
-            <guid>2692848</guid>
-            <pubDate>Thu, 02 Jun 2022 17:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院少数党领袖麦康奈尔：对达成美国校园安全协议持乐观态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4833637.d.html</link>
-            <guid>2692846</guid>
-            <pubDate>Thu, 02 Jun 2022 17:04:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Datasembly：5月22日开始的一周，美国婴儿配方奶粉缺货率严重至74%，之前为70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6283045.d.html</link>
-            <guid>2692835</guid>
-            <pubDate>Thu, 02 Jun 2022 16:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：欢迎包括北约盟国在内的其他国家寻求将粮食运出乌克兰的途径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6282988.d.html</link>
-            <guid>2692834</guid>
-            <pubDate>Thu, 02 Jun 2022 16:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：应由乌克兰来决定是否将领土割让给俄罗斯，以通过谈判结束冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4832811.d.html</link>
-            <guid>2692833</guid>
-            <pubDate>Thu, 02 Jun 2022 16:55:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：北约正在寻找一种“团结”的方式来解决土耳其的关切。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6282923.d.html</link>
-            <guid>2692832</guid>
-            <pubDate>Thu, 02 Jun 2022 16:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：必须为乌克兰的长期作战做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4832771.d.html</link>
-            <guid>2692831</guid>
-            <pubDate>Thu, 02 Jun 2022 16:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：和美国总统拜登讨论了芬兰、瑞典的入约申请和即将举行的北约峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6282708.d.html</link>
-            <guid>2692830</guid>
-            <pubDate>Thu, 02 Jun 2022 16:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：与拜登的会晤非常愉快。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4832341.d.html</link>
-            <guid>2692827</guid>
-            <pubDate>Thu, 02 Jun 2022 16:50:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中概股走高，B站涨超11%，小鹏汽车涨超9%，蔚来汽车涨超7%，流利说涨超30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6281743.d.html</link>
-            <guid>2692824</guid>
-            <pubDate>Thu, 02 Jun 2022 16:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院司法委员会就控枪议案举行听证会】当地时间6月2日，美国众议院司法委员会就控枪议案举行听证会，作为对近期美国多起大规模枪击事件的回应。议案内容包括打击大容量弹匣以及没有序列号的私人制造枪支等，该委员会主席罗德·纳德勒（Jerrold Nadler）表示，美国民众正在“乞求”立法者针对枪支管控采取行动，而委员会中的多名共和党议员则对部分控枪规则表示反对。众议院最早将于下周对该方案进行投票，但由于受到多数共和党议员反对，预计法案将在参议院受到阻碍。目前，该听证会仍在继续。(央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4831314.d.html</link>
-            <guid>2692822</guid>
-            <pubDate>Thu, 02 Jun 2022 16:38:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国洛杉矶公共卫生部门在社交媒体上表示，洛杉矶县确认了当地第一例猴痘“推定”病例。]]></title>
-            <guid>2692813</guid>
-            <pubDate>Thu, 02 Jun 2022 16:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：美国总统拜登将在周四晚的黄金时段就美国枪支问题发表演讲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6280209.d.html</link>
-            <guid>2692812</guid>
-            <pubDate>Thu, 02 Jun 2022 16:26:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：上调巴西2022年GDP预期至增长1.2%，之前料增1.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6279776.d.html</link>
-            <guid>2692811</guid>
-            <pubDate>Thu, 02 Jun 2022 16:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta人工智能实验室副总裁JEROME PESENTI将于六月中旬离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6279756.d.html</link>
-            <guid>2692810</guid>
-            <pubDate>Thu, 02 Jun 2022 16:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯社会院：将敦促美方就在乌克兰开展的生物实验活动做出解释】当地时间6月2日，俄罗斯社会院举行有关美国在乌克兰进行生物实验活动的研讨会。与会人士表示，美国在乌克兰开展的活动严重违反《禁止生物武器公约》。俄方将推动在联合国等国际组织框架内举行相关会议，敦促美国就生物实验活动做出令人信服的解释，并履行自身义务。(央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6279354.d.html</link>
-            <guid>2692808</guid>
-            <pubDate>Thu, 02 Jun 2022 16:16:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉表示，税收上限将对信贷质量产生积极影响，但预计不会导致巴西配电公司的评级提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4828940.d.html</link>
-            <guid>2692806</guid>
-            <pubDate>Thu, 02 Jun 2022 16:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：苹果将在全球开发者大会上宣布iPad软件的重大改动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278732.d.html</link>
-            <guid>2692804</guid>
-            <pubDate>Thu, 02 Jun 2022 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：苹果将升级iPad软件，以满足专业用户的需求，包括改善设备处理多任务的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278679.d.html</link>
-            <guid>2692803</guid>
-            <pubDate>Thu, 02 Jun 2022 16:08:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯国防部表示，乌克兰仍要为其黑海港口的排雷工作负责。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278221.d.html</link>
-            <guid>2692800</guid>
-            <pubDate>Thu, 02 Jun 2022 16:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储执行副行长Logan：调整新货币形式的框架需要更多的研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278162.d.html</link>
-            <guid>2692799</guid>
-            <pubDate>Thu, 02 Jun 2022 16:02:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  纽约联储执行副行长Logan：央行数字货币可能会带来更大的央行资产负债表，给利率控制带来更多挑战，这取决于它是如何构建的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278099.d.html</link>
-            <guid>2692797</guid>
-            <pubDate>Thu, 02 Jun 2022 16:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约联储执行副行长Logan：货币和支付领域的数字创新，可能迫使央行彻底改变其执行货币政策的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizirau6278094.d.html</link>
-            <guid>2692796</guid>
-            <pubDate>Thu, 02 Jun 2022 16:00:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯国防部表示，船只可以通过“人道主义走廊”离开乌克兰港口。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-03/detail-imizmscu4827974.d.html</link>
-            <guid>2692794</guid>
-            <pubDate>Thu, 02 Jun 2022 15:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Northland：将美国网存(NTAP.O)目标价从124美元下调至101美元 维持跑赢大市评级】Northland分析师Nehal Chokshi将美国网存(NTAP.O)目标价从124美元降至101美元，并保持对该股的跑赢大市评级。Chokshi说，尽管公共云服务的表现“令人失望”，但该公司报告的业绩符合预期，他正在微调对该公司的预期至“低于公司指引”，以反映IT资本支出在23财年下半年的下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-02/detail-imizirau6278009.d.html</link>
-            <guid>2692792</guid>
-            <pubDate>Thu, 02 Jun 2022 15:59:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
