@@ -4,11 +4,421 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 04 Jun 2022 00:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美媒：美企已将购买的俄石油秘密运至美国市场】当地时间6月3日，美国能源信息署公布的信息显示，自2022年1月至3月，美国从俄罗斯进口原油与石油制品呈现大幅增长。《华尔街日报》近期也披露，在欧盟计划对俄罗斯施行石油禁运期间，美国的航运公司与炼油企业已经开始通过模糊原产地等方式将俄罗斯原油与石油制品运往美国各地的石油市场。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5062641.d.html</link>
+            <guid>2694561</guid>
+            <pubDate>Sat, 04 Jun 2022 06:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川地震灾区新增13处隐患点和58处变形点 已逐一落实防灾措施】记者从四川省自然资源厅获悉，6月1日雅安市芦山县、宝兴县发生地震后，四川累计排查震区及邻近市县地质灾害隐患点3776处，复核已销号隐患点1153处，新增隐患点13处，新增变形点58处，并逐一落实防灾措施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6517534.d.html</link>
+            <guid>2694559</guid>
+            <pubDate>Sat, 04 Jun 2022 05:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2022年端午档电影总票房（含预售）突破1亿元】据灯塔专业版数据，截至6月4日13时52分，2022端午档（6月3日—6月5日）总票房（含预售）已突破1亿元。《暗恋·橘生淮南》《坏蛋联盟》总票房（含预售）均超过2000万元，《哆啦A梦：大雄的宇宙小战争2021》超过1400万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5061590.d.html</link>
+            <guid>2694556</guid>
+            <pubDate>Sat, 04 Jun 2022 05:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国石化：仪征化纤年产300万吨PTA项目实现土建逐步交安】中国石化消息，6月3日，中国石化仪征化纤年产300万吨PTA项目工地的建设者们放弃节假日休息，推进项目建设，主装置核心氧化反应单元区域的基础及地下管线施工完工，标志着该项目踩点实现土建逐步交安。]]></title>
+            <guid>2694555</guid>
+            <pubDate>Sat, 04 Jun 2022 05:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国石化：仪征化纤年产300万吨PTA项目实现土建逐步交安】中国石化消息，6月3日，中国石化仪征化纤年产300万吨PTA项目工地的建设者们放弃节假日休息，推进项目建设，主装置核心氧化反应单元区域的基础及地下管线施工完工，标志着该项目踩点实现土建逐步交安。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6516227.d.html</link>
+            <guid>2694554</guid>
+            <pubDate>Sat, 04 Jun 2022 05:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄国家航天公司：俄方已决定恢复德国eROSITA黑洞望远镜的正常工作】据塔斯社报道，当地时间6月4日，俄罗斯国家航天集团公司总裁罗戈津表示，俄方已决定恢复被搭载在俄罗斯“光谱-RG” X射线太空天文台的德国eROSITA黑洞望远镜的正常工作。今年3月初，德国宣布暂停与俄罗斯在太空领域的科研合作，eROSITA黑洞望远镜因此暂停运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6515863.d.html</link>
+            <guid>2694553</guid>
+            <pubDate>Sat, 04 Jun 2022 05:39:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【理想汽车拿下保险经纪牌照】继特斯拉、比亚迪、蔚来、小鹏等新能源车企全面布局保险中介市场后，理想汽车也达成这一夙愿。根据天眼查信息，银建保险经纪公司发生股东已经变更，原股东北京银建投资公司退出股东之列，改由车和家金融科技（江苏）有限公司持股100%。也就是说，通过收购银建保险经纪公司，理想汽车已经拿下保险经纪牌照。申万宏源分析师葛玉翔则预计，2025年新能源车险保费规模将达1543亿元，占车险总保费比例约为15.7％；预计2030年新能源车险保费规模将达12790亿元，占车险总保费比例约为31.3％。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6515144.d.html</link>
+            <guid>2694552</guid>
+            <pubDate>Sat, 04 Jun 2022 05:33:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：泽连斯基视频参会，要求美国城市“切断”与俄友好城市关系】据《纽约时报》报道，乌克兰总统泽连斯基3日以视频方式参加在内华达州举办的美国市长会议，他在会上指责美国还有几个城市同俄罗斯还有友好城市关系。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5059039.d.html</link>
+            <guid>2694551</guid>
+            <pubDate>Sat, 04 Jun 2022 05:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国公共卫生局：法国猴痘感染病例超50例】法国公共卫生局称，截至2022年6月3日14时，法国记录到51例猴痘感染确诊病例。所有感染者均为22-63岁男性。其中一名患者入院，无死亡病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6513885.d.html</link>
+            <guid>2694550</guid>
+            <pubDate>Sat, 04 Jun 2022 05:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州消防赶往D2809事故现场救援】2022年6月4日，D2809次旅客列车在贵州榕江站撞上泥石流脱线。当地消防救援队伍第一时间出动了11车52人赶赴现场救援。（贵州消防）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6512701.d.html</link>
+            <guid>2694548</guid>
+            <pubDate>Sat, 04 Jun 2022 05:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国石油建成我国首条零碳沙漠公路】6月2日，我国距离最长的光伏灌溉治沙工程——塔里木油田沙漠公路零碳示范工程在塔克拉玛干沙漠建成投产。新建的86座光伏电站，散布在生态防护林带中。沙漠公路沿线植被自此彻底告别了柴油机发电灌溉的历史，实现全线零碳排放，成为我国首条零碳沙漠公路。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5056526.d.html</link>
+            <guid>2694547</guid>
+            <pubDate>Sat, 04 Jun 2022 05:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西启动重大气象灾害（暴雨）Ⅱ级应急响应】广西气象局今天（4日）11时左右发布通告，过去24小时桂北局地已出现特大暴雨。预计今天白天到6日，广西雨势将进一步增强，范围扩大，致灾风险高。广西气象台已于6月4日10时升级发布暴雨黄色预警。根据上述情况，广西气象局于6月4日11时起将重大气象灾害（暴雨）Ⅳ级应急响应提升为重大气象灾害（暴雨）Ⅱ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5055600.d.html</link>
+            <guid>2694546</guid>
+            <pubDate>Sat, 04 Jun 2022 05:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国兵器工业集团：持续加大科研投入 积极开拓新领域】中国兵器工业集团有限公司6月1日召开全面深化改革领导小组专题会。董事长刘石泉强调，要聚焦重点难题深化改革，切实推动集团公司高质量发展。要在科技创新上再上新台阶。对标世界一流、央企先进，持续加大科研投入，积极开拓新领域，重大项目、经费投入、人才培养协同发力，在原创技术、前沿领域、新兴产业实现高水平科技自立自强。要发挥规划牵引作用，规划落地靠项目，投资跟着项目走，项目跟着规划来，在党中央、国务院重大战略布局上找准定位、发挥作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6509502.d.html</link>
+            <guid>2694543</guid>
+            <pubDate>Sat, 04 Jun 2022 04:54:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津港集团：持续深化国企改革 坚定不移加快推进世界一流港口建设】从天津港集团获悉，6月3日，天津港集团党委书记、董事长褚斌组织召开党委（扩大）会议。会议要求，不断加强国企党的建设，以更大力度加快建设世界一流港口、打造世界一流港口营运集团；要强化工作举措，深入推进“一二三四”强港兴企战略实施，切实抓好“强管理年”各项举措的落地落实，以实际行动和工作业绩提升企业发展改革效益；要决战决胜国有企业改革三年行动，深入总结集团公司取得的进展和成效，认真查找差距、补齐短板不足，紧盯年度各项任务目标不放松，上坡加油、勇攀高峰，奋力实现集团公司“双一流”建设实现新跨越。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6509268.d.html</link>
+            <guid>2694542</guid>
+            <pubDate>Sat, 04 Jun 2022 04:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月04日12时43分在青海玉树州称多县（北纬34.54度，东经96.63度）发生3.0级地震，震源深度10千米。]]></title>
+            <guid>2694541</guid>
+            <pubDate>Sat, 04 Jun 2022 04:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【暴雨黄色预警 广西启动重大气象灾害防御警报】据央视新闻消息，广西气象台2022年6月4日10时00分发布暴雨黄色预警，预计未来24小时，桂林、柳州、河池、贺州、来宾、百色等市及梧州、贵港、南宁、崇左四市北部有大雨到暴雨，局部大暴雨到特大暴雨并伴有短时雷暴大风等强对流天气。广西壮族自治区防汛抗旱指挥部办公室发出重大气象灾害防御警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5053302.d.html</link>
+            <guid>2694540</guid>
+            <pubDate>Sat, 04 Jun 2022 04:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州消防已赶往D2809事故现场救援】贵州消防官微消息，2022年6月4日，贵州省黔东南州榕江县高铁站内发生一起高铁脱轨事故。当地消防救援队伍第一时间出动了11车52人赶赴现场救援。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5052885.d.html</link>
+            <guid>2694539</guid>
+            <pubDate>Sat, 04 Jun 2022 04:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科威特信息部：科威特发生5级地震】 科威特信息部通过社交媒体平台发布消息称，当地时间6月4日4时28分02秒，科威特发生5级地震。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5050933.d.html</link>
+            <guid>2694536</guid>
+            <pubDate>Sat, 04 Jun 2022 04:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又拌嘴？拜登拿竞争对手嘲讽马斯克裁员言论，马斯克转发旧文回应】据美国《国会山报》报道，在特斯拉和SpaceX创始人马斯克发表对经济的“悲观”言论后，美国总统拜登当地时间3日亮明自己“不屑一顾”的态度，他先是称赞特斯拉的竞争对手们扩大在电动汽车领域投资，最后祝马斯克“登月之旅好运”。对此，马斯克则转发一篇去年的旧文并配文讽刺称，“谢谢总统先生”。 报道称，马斯克近日在给特斯拉高管的一封电邮中表示，他对经济形势有“非常糟糕的感觉”，公司需要裁员10%。当地时间3日，拜登在特拉华州就美国5月份就业报告发表讲话，被问及对此有何评论时，他称福特公司对电动汽车新投资将创造6000个新工作岗位，此外，他还提及克莱斯勒（现Stellantis）对电动汽车的投资以及英特尔在新工厂开发电脑芯片的投资。“所以，祝他登月之旅好运。” 拜登说道。 对此，马斯克在推特上转发一篇美国宇航局去年4月选择SpaceX将美国人送上月球的报道，并配文讽刺道，“谢谢总统先生”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5050921.d.html</link>
+            <guid>2694535</guid>
+            <pubDate>Sat, 04 Jun 2022 04:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【英媒：俄商人将以1英镑价格将英国Truphone电信集团出售给两位欧洲企业家】英国《金融时报》援引知情人士的话报道，俄罗斯商人罗曼·阿布拉莫维奇及其合伙人持有的英国Truphone电信集团，将以1英镑的价格出售给两位欧洲企业家。据悉，阿布拉莫维奇持有公司23%的股份，其合伙人亚历山大·阿布拉莫夫和亚历山大·弗罗洛夫持有大部分剩余股份。报道称，Truphone在2020年的估值为4.1亿英镑，阿布拉莫维奇及其合伙人在这项业务中的投资已超过3亿英镑。出售决定是在英国和欧洲国家对阿布拉莫维奇实施制裁后作出的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5049767.d.html</link>
+            <guid>2694534</guid>
+            <pubDate>Sat, 04 Jun 2022 04:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【强降雨影响江南华南 暴雨预警提升至黄色】今天（4日）是端午假期第二天，南方地区的雨水依然充沛，贵州、江南、华南等地将遭遇强降雨，部分地区雨势猛烈，华北、东北等地也将迎来明显降雨过程，并将伴有短时强降水、雷暴大风或冰雹等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6504464.d.html</link>
+            <guid>2694532</guid>
+            <pubDate>Sat, 04 Jun 2022 04:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【洛阳玻璃：宜兴新能源5月份光伏玻璃原片成品率创历史新高】从洛阳玻璃获悉， 子公司中建材（宜兴）新能源有限公司认真贯彻落实凯盛科技集团5月月度经营分析会精神，坚持开展工艺技术创新攻关活动，实现稳定优质高产，5月份2.0mm光伏玻璃原片成品率再创历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5048884.d.html</link>
+            <guid>2694531</guid>
+            <pubDate>Sat, 04 Jun 2022 04:06:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全球首台，新一代船用智控双燃料主机在沪交付】6月3日，由中国船舶集团旗下中船动力研制的全球首台新一代带智能控制废气再循环（iCER）系统的双燃料主机7X62DF-2.1，在位于上海自贸区临港新片区的上海中船三井造船柴油机有限公司完工交付。其研制成功不仅丰富了我国双燃料主机的型谱，提升了市场竞争力，也标志着我国继全球最大船用双燃料低速机X92DF之后，在船用低速双燃料发动机研制领域保持新优势。据了解，采用iCER系统的双燃料主机，其应用前景将更为广泛，不仅可安装于大型汽车运输船，还可安装在大型LNG运输船、超大型集装箱船等船型上。目前，中船动力手持配置iCER系统的发动机订单已有60余台。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5047500.d.html</link>
+            <guid>2694530</guid>
+            <pubDate>Sat, 04 Jun 2022 03:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，由于国际市场燃油价格高涨，导致柬埔寨运输成本提高，柬埔寨运输业者与厂商协商后，决定把运输费提高15%至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6502532.d.html</link>
+            <guid>2694529</guid>
+            <pubDate>Sat, 04 Jun 2022 03:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【化肥柴油等价格飙升 土耳其橄榄农陷入困境】土耳其是全球第四大橄榄生产国，许多农民世代以种植橄榄为生。但由于土耳其货币贬值、通胀居高不下，以及俄乌爆发冲突等多重因素，导致土耳其化肥和柴油等价格飙升，橄榄农种植成本远远超过收入，生活入不敷出。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5046702.d.html</link>
+            <guid>2694528</guid>
+            <pubDate>Sat, 04 Jun 2022 03:47:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒披露：美航运公司与炼油企业已将购买的俄石油秘密运至美市场】据央视新闻消息，当地时间6月3日，美国能源信息署公布的信息显示，自2022年1月至3月，美国从俄罗斯进口原油与石油制品呈现大幅增长。《华尔街日报》近期也披露，在欧盟计划对俄罗斯施行石油禁运期间，美国的航运公司与炼油企业已经开始通过模糊原产地等方式将俄罗斯原油与石油制品运往美国各地的石油市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5045509.d.html</link>
+            <guid>2694527</guid>
+            <pubDate>Sat, 04 Jun 2022 03:37:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟不允许企业在俄三大媒体发广告】据央视网消息，欧盟公布第六轮对俄制裁措施。欧盟委员会3日公布第六轮对俄罗斯制裁措施，其中包括部分石油禁运，制裁俄罗斯油轮、银行和媒体等。其中包括，禁止欧盟公司为运送俄罗斯石油的商船提供保险和再保险；到2022年底，欧盟从俄罗斯进口的石油将减少90%；把包括俄最大银行俄罗斯储蓄银行在内的三家银行以及一家白俄罗斯银行，排除在环球银行间金融通信协会支付系统之外；暂停三个俄罗斯国家媒体的广播许可，不允许欧盟企业在这些媒体上发布广告等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5045443.d.html</link>
+            <guid>2694526</guid>
+            <pubDate>Sat, 04 Jun 2022 03:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陕西榆林城区供水严重不足 当地多渠道调度水源】记者今天从榆林市自来水公司了解到，由于近期榆林城市供水水源严重不足，加之气温升高，日用水量大幅增加，需水量远远大于产水量，导致城区西沙、东沙、南郊区域和城乡接合部地理位置较高区域出现水压不足、长时间停水情况，给用户生活带来很大影响。针对当前供水严重紧张情况，榆林市政府已成立保障中心城区供水工作专班，三天一调度，全力解决中心城区用水问题。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6500312.d.html</link>
+            <guid>2694525</guid>
+            <pubDate>Sat, 04 Jun 2022 03:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，俄罗斯商人罗曼·阿布拉莫维奇及其合伙人持有的英国Truphone电信集团，将以1英镑的价格出售给两位欧洲企业家。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5044997.d.html</link>
+            <guid>2694524</guid>
+            <pubDate>Sat, 04 Jun 2022 03:33:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神舟十四号航天员刘洋：此次任务要将空间站由单舱组建成三舱三船的构型】今天，在神舟十四号航天员见面会上，刘洋介绍：“此次任务要将空间站由单舱组建成三舱三船的构型，期间要经历九种组合体构型，五次交会对接，三次分离撤离，和两次转位任务，要首次进驻问天和梦天实验舱，首次利用气闸舱和小臂进行出舱活动，并开展大小臂联合操作，要完成三个实验舱大量的科学实验，开展科普和公益活动等等。” (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6500056.d.html</link>
+            <guid>2694523</guid>
+            <pubDate>Sat, 04 Jun 2022 03:31:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特信息部：科威特发生里氏5级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6499597.d.html</link>
+            <guid>2694522</guid>
+            <pubDate>Sat, 04 Jun 2022 03:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刘洋实现了10年前的愿望】神舟十四号航天员见面会上，刘洋说：“2012年的6月，我代表中国女性进入太空，那时是无比的幸福、激动、兴奋。当我离开天宫一号时，我曾向她庄严地敬了个军礼，坚定地对自己说，不久的将来，我一定会再回来。此时此刻，我也坚定地说，中国空间站，我即将乘舟而来。我会一直心怀山海，眼有星辰，永葆初心，一次次把祖国的荣耀写满太空。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6498363.d.html</link>
+            <guid>2694521</guid>
+            <pubDate>Sat, 04 Jun 2022 03:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【高毅邓晓峰或捕获大牛股 科创板个股华秦科技二季度以来大涨47%】二季度以来一些百亿私募一季度末的隐形重仓股，取得了不俗的表现。其中，私募高毅邓晓峰，或许就捕获了一只大牛股华秦科技。资料显示，华秦科技在今年3月初在科创板上市，是一家主要从事特种功能材料的军工企业，业务包括隐身材料、伪装材料及防护材料的研发、生产和销售，产品主要应用于重大国防武器装备如飞机、主战坦克、舰船、导弹等。数据显示，一季度末，高毅晓峰2号致信基金和高毅晓峰鸿远集合资金信托计划分别位列华秦科技的第二和第三大流通股东，分别持有86万股和76万股。二季度以来，华秦科技大涨47.59%。若二季度以来，邓晓峰仍持有华秦科技，其在该只个股上应该获利不少。高毅旗下冯柳管理的高毅邻山1号远望基金，也有一只隐形重仓股龙软科技二季度以来上涨33%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5042945.d.html</link>
+            <guid>2694520</guid>
+            <pubDate>Sat, 04 Jun 2022 03:15:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天风国际郭明錤：富士康获得更高端的iPhone 14后宽摄像头模块订单】天风国际分析师郭明錤4日在推特上表示，富士康没有获得iPhone 14前置摄像头模块的订单，但它获得了更高端的iPhone 14后宽摄像头模块的订单。 因此，总的来说，富士康是iPhone 14相机模块制造商中的赢家之一。]]></title>
+            <guid>2694519</guid>
+            <pubDate>Sat, 04 Jun 2022 03:13:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【陈冬说有满格的信心】神舟十四号航天员见面会上，陈冬说：“神舟十四号任务是我国空间站建造阶段的关键一战，任务更重、难题更多、挑战更大，但我坚信，有全国人民的大力支持，有全体科研人员的保驾护航，有科学扎实的训练准备，我们乘组一定会以满格的信心、满腔的热血、满分的表现，坚决完成任务，用精细保证精准，用精心换来精彩。”  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5042686.d.html</link>
+            <guid>2694518</guid>
+            <pubDate>Sat, 04 Jun 2022 03:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神舟十四号航天员与记者见面】6月4日上午11时，神舟十四号载人飞行任务航天员陈冬、刘洋、蔡旭哲在问天阁与媒体记者见面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6496332.d.html</link>
+            <guid>2694517</guid>
+            <pubDate>Sat, 04 Jun 2022 03:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其总统：瑞典与芬兰要想加入北约需停止支持恐怖主义】据俄罗斯卫星通讯社安卡拉6月4日电 ，土耳其总统埃尔多安在与北约秘书长斯托尔滕贝格通电话时表示，要想加入北约，瑞典与芬兰应停止支持恐怖主义、解除对土耳其制裁并展现联盟团结。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6495094.d.html</link>
+            <guid>2694515</guid>
+            <pubDate>Sat, 04 Jun 2022 02:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登：不排除会于近期访问沙特】据俄罗斯卫星通讯社华盛顿6月4日电 ，美国总统拜登表示，有可能会于近期访为沙特，但尚未做出最后决定。就相关问题，拜登对媒体说：“有这种可能，我确实会与以色列以及一系列阿拉伯国家代表举行会晤。若是成行，这其中也包括沙特官员。但是，在此指出，还未制定出明确的出访计划。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6494821.d.html</link>
+            <guid>2694514</guid>
+            <pubDate>Sat, 04 Jun 2022 02:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建发布地质灾害气象风险黄色预警】据央视新闻消息，福建省自然资源厅、福建省气象局于6月4日9:55联合发布地质灾害气象风险黄色预警：6月4日10时至6月5日10时南平市的浦城县、光泽县、邵武市、武夷山市、建瓯市、建阳区地质灾害气象风险预警为黄色，地质灾害发生可能性较大，应加强对地质灾害隐患点的监测和对高陡边坡、易发泥石流的沟口等易发区的巡查和防范，若发现地灾险情应及时采取防灾避险措施，确保人民生命安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6494198.d.html</link>
+            <guid>2694513</guid>
+            <pubDate>Sat, 04 Jun 2022 02:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克收购推特交易已过美国反垄断审查等待期】当地时间周五，社交媒体公司推特表示，埃隆·马斯克（Elon Musk）斥资440亿美元收购推特的美国反垄断等待期已经结束，这表明推特已经避开美国监管机构对这笔交易的漫长审查。推特表示，随着反垄断等待期结束，完成推特交易取决于其余惯例成交条件，其中包括获得推特股东和任何其他监管机构的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5038218.d.html</link>
+            <guid>2694512</guid>
+            <pubDate>Sat, 04 Jun 2022 02:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国上周假日期间发生超过300起各类涉枪事件】根据美国“枪支暴力档案”网站发布的统计数据，在上周假日5月28日至30日期间，也就是72小时之内，全美共发生超过300起包括自杀在内的各类涉枪事件。美国媒体报道说，这些涉枪事件造成超过130人死亡。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5037688.d.html</link>
+            <guid>2694511</guid>
+            <pubDate>Sat, 04 Jun 2022 02:34:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国疾控中心：全球已有700多猴痘病例，已在美国境内蔓延】美国疾控中心说，截至6月3日，全球（非洲以外）已有700多例猴痘病例，其中21起出现在美国。调查显示，猴痘病毒已在美国境内蔓延。美国卫生官员敦促各地医生为疑似病例进行猴痘病毒检测，但现在谈论猴痘是否会成为地方流行病还为时过早，整体公共卫生风险仍然很低。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6492814.d.html</link>
+            <guid>2694510</guid>
+            <pubDate>Sat, 04 Jun 2022 02:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【汽车整车板块两个月飙涨40%！预计5月行业销量环比增50%】6月3日，中国汽车工业协会根据重点企业上报的周报数据推算，5月汽车行业销量预计完成176.65万辆，环比增长49.59%，同比下降17.06%；1-5月，销量预计完成945.73万辆，同比下降13.11%。多位业内人士表示，5月行业订单需求持续强劲，促消费政策出台提升了消费热度。随着汽车核心供应链复工复产，车企生产正加快恢复，以加速交付积累的大量订单。基本面加速修复，汽车板块近期连续大涨。同花顺数据显示，截至6月2日，汽车整车板块大涨4.31%，近两个月涨幅超过40%。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6492632.d.html</link>
+            <guid>2694509</guid>
+            <pubDate>Sat, 04 Jun 2022 02:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【值得买：公司今年618的销售额（GMV）相比往年保持了稳定增长的态势】值得买在互动平台表示，从目前来看，公司今年618的销售额（GMV）相比往年保持了稳定增长的态势。公司一定合规经营，同时努力做好各项战略规划工作，争取能给股民更好的回报。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6490134.d.html</link>
+            <guid>2694507</guid>
+            <pubDate>Sat, 04 Jun 2022 02:13:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，美国总统拜登前往沙特、以色列的行程推迟至7月。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5034831.d.html</link>
+            <guid>2694506</guid>
+            <pubDate>Sat, 04 Jun 2022 02:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国收获小麦超1亿亩 日机收面积超2000万亩】据央视新闻消息，进入6月，夏粮主产区小麦收获进度加快，目前已过三成。由于各地着力优化种植结构，今年优质专用小麦面积扩大，品质提升。农业农村部3日发布的小麦机收进度显示，全国已收获小麦1.01亿亩，日机收面积超过2000万亩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6489248.d.html</link>
+            <guid>2694505</guid>
+            <pubDate>Sat, 04 Jun 2022 02:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，美国加利福尼亚州国民警卫队司令大卫·鲍德温呼吁美国和其他西方国家再次考虑向乌克兰转让苏联制造的战斗机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6488704.d.html</link>
+            <guid>2694504</guid>
+            <pubDate>Sat, 04 Jun 2022 02:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊全球消费者业务CEO辞职 接任者尚未公布】北京时间6月4日上午消息，亚马逊公司当地时间周五在一份监管文件中宣布，为公司服务23年之后，其全球消费者业务首席执行官戴夫·克拉克(Dave Clark)将于7月1日辞职。该公司没有提及克拉克的接任者。安迪·贾西在一篇宣布克拉克离任的博客文章中说，亚马逊正在确定克拉克的继任计划，并会在“未来几周内”公布新消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5032878.d.html</link>
+            <guid>2694503</guid>
+            <pubDate>Sat, 04 Jun 2022 01:59:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，日本首相岸田文雄可能成为第一位出席北约峰会的日本政府首脑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5031358.d.html</link>
+            <guid>2694501</guid>
+            <pubDate>Sat, 04 Jun 2022 01:48:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三聚环保：高油价情况下，公司悬浮床加工重质原料的技术优势和经济优势明显】三聚环保在互动平台表示，根据公司持续的技术经济测算，高油价情况下，公司悬浮床加工重质原料的技术优势和经济优势明显。关于海国龙油的悬浮床装置，与其实际生产经营密切相关，公司也在积极协助海国龙油优化加工和装置开车方案，尽早争取市场红利。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5029904.d.html</link>
+            <guid>2694500</guid>
+            <pubDate>Sat, 04 Jun 2022 01:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美英欧讨论乌克兰潜在停战和外交调解条件等问题 乌方未被邀请参会】据美国有线电视新闻网（CNN）报道，美国、英国和欧盟的代表最近几周举行定期会议，讨论乌克兰潜在停战和外交调解的条件，而基辅未被邀请与会。CNN援引多位消息人士的话报道称，上述盟国正在研究意大利的一项计划，其设想乌克兰保持中立，以此换取安全保证，并启动关于克里米亚和顿巴斯未来的俄乌谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6484887.d.html</link>
+            <guid>2694499</guid>
+            <pubDate>Sat, 04 Jun 2022 01:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京谈美欧经济通胀：这都与莫斯科或其在乌克兰的行动无关】据“今日俄罗斯”（RT）报道，俄罗斯总统普京3日表示，美国的通胀是其金融部门的错误，他们自己也承认了这点，而在欧盟，通胀更多地与布鲁塞尔“短视”的能源政策有关。普京表示，无论如何，这都与莫斯科或其在乌克兰的行动无关。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6483083.d.html</link>
+            <guid>2694498</guid>
+            <pubDate>Sat, 04 Jun 2022 01:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日全国铁路预计发送旅客440万人】从中国国家铁路集团有限公司获悉，6月3日，全国铁路共发送旅客664.4万人，开行旅客列车6566列；今日，预计发送旅客440万人，计划开行旅客列车6250列。6月2日，为期4天的铁路端午小长假运输正式启动，至6月5日结束，预计客流总体回暖，全国铁路日均发送旅客540万人，比五一假期日均增加200万人以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5027442.d.html</link>
+            <guid>2694497</guid>
+            <pubDate>Sat, 04 Jun 2022 01:22:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【中国空间站将建成国家太空实验室】神舟十四号载人飞行任务发布会通报：神舟十四号任务期间，将全面完成以天和核心舱、问天实验舱和梦天实验舱为基本构型的太空空间站建造，建成国家太空实验室。神十四将继续开展天宫课堂，并将首次利用位于问天实验舱的气闸舱实施两到三次出舱活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5026932.d.html</link>
+            <guid>2694495</guid>
+            <pubDate>Sat, 04 Jun 2022 01:20:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【5月中国快递发展指数为269.2 环比上升11.6%】国家邮政局消息，6月3日，国家邮政局发布2022年5月中国快递发展指数报告。经测算，2022年5月中国快递发展指数为269.2，环比上升11.6%。其中发展规模指数、服务质量指数、发展能力指数和发展趋势指数分别为344.7、331.7、198.4和67.2，环比分别上升20.3%、2.1%、16%和2.4%。相比4月份，行业规模有效恢复，质效得到改善，保通保畅工作成效明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5025971.d.html</link>
+            <guid>2694494</guid>
+            <pubDate>Sat, 04 Jun 2022 01:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神十四航天员将在轨6个月：神十四乘组将与神十五乘组在轨轮换】神舟十四号载人飞行任务是空间站建造阶段第二次飞行任务，也是该阶段首次载人飞行任务，航天员乘组将在轨工作生活6个月，任务主要目的为：配合问天和梦天实验舱与核心舱的交会对接、转位；完成中国空间站在轨组装建造；完成中国舱内外设备及空间应用任务相关设施设备的安装、调试、操作，开展空间科学实验与技术试验；进行日常维护维修等相关工作。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6480451.d.html</link>
+            <guid>2694493</guid>
+            <pubDate>Sat, 04 Jun 2022 01:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内蒙古昨日新增本土确诊病例11例，本土无症状感染者5例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5024897.d.html</link>
+            <guid>2694492</guid>
+            <pubDate>Sat, 04 Jun 2022 01:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长征二号F遥十四运载火箭开始加注】中国载人航天工程新闻发言人、中国载人航天工程办公室副主任林西强4日上午介绍，执行神舟十四号发射任务的长征二号F遥十四运载火箭即将开始推进剂加注，神舟十四号载人飞船飞天在即。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5024266.d.html</link>
+            <guid>2694490</guid>
+            <pubDate>Sat, 04 Jun 2022 01:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【神舟十四号航天员见面会11时举行】今日11时，神舟十四号3名乘组航天员将在酒泉卫星发射中心问天阁与媒体记者集体见面，并回答记者提问。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5024077.d.html</link>
+            <guid>2694489</guid>
+            <pubDate>Sat, 04 Jun 2022 01:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据报道，美国、英国和欧盟的代表最近几周举行定期会议，讨论乌克兰潜在停战和外交调解的条件，而基辅未被邀请与会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6478187.d.html</link>
+            <guid>2694486</guid>
+            <pubDate>Sat, 04 Jun 2022 00:58:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据四川卫健委通报，6月3日0时至24时，四川无新增本土确诊病例，新增本土无症状感染者3例（宜宾1例，广安1例，内江1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5023009.d.html</link>
+            <guid>2694485</guid>
+            <pubDate>Sat, 04 Jun 2022 00:55:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄乌冲突百日 联合国秘书长古特雷斯呼吁尽早通过外交努力结束冲突】据央视新闻消息，当地时间6月3日，联合国秘书长古特雷斯就乌克兰和俄罗斯冲突发生100天发表声明。他表示，这场冲突已经夺走了数千人的生命，造成了巨大的破坏，数百万人流离失所，并正在引发一场粮食、能源和金融三重全球危机，正打击最脆弱的人民、国家和经济。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5022486.d.html</link>
+            <guid>2694484</guid>
+            <pubDate>Sat, 04 Jun 2022 00:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国粮农组织首席经济学家：俄乌冲突带来的粮食危机或持续至明年】联合国粮农组织首席经济学家托雷罗在接受记者采访时表示，俄乌冲突带来的粮食危机可能会持续到2023年。据联合国粮农组织统计，尽管包括印度、美国等国家的作物状况改善，供应增加，但由于全球粮食、肥料主要出口国的俄罗斯及乌克兰的持续冲突，预计粮食价格将继续维持在高位。联合国粮农组织预计，2022年全球谷物产量很可能在连续三年增长后首次出现下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6477048.d.html</link>
+            <guid>2694483</guid>
+            <pubDate>Sat, 04 Jun 2022 00:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据吉林省卫健委通报，6月3日0-24时，全省无新增本地确诊病例；新增本地无症状感染者5例，其中延边州3例，白山市2例。]]></title>
+            <guid>2694481</guid>
+            <pubDate>Sat, 04 Jun 2022 00:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国进口的俄罗斯石油表面已归零，实际仍在通过隐匿贸易流入】美国能源信息署数据显示，相较于今年1月，美国在2月、3月进口的俄罗斯原油及石油产品出现大幅增长，4月之后，该进口数据已归零。另据华尔街日报近日披露，正值欧洲准备对俄罗斯石油实施制裁之际，航运公司和炼油企业已经开始通过模糊原产地将俄罗斯石油运往各大市场。一些据信由俄罗斯原油制成的成品油在上个月被运到了纽约和新泽西。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6475423.d.html</link>
+            <guid>2694480</guid>
+            <pubDate>Sat, 04 Jun 2022 00:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西昨日新增2例本土无症状感染者】据央视新闻消息，6月3日0—24时，广西新增本土无症状感染者2例（均在防城港东兴市）。当日解除隔离医学观察本土无症状感染者1例（百色市）。截至6月3日24时，广西现有本土无症状感染者27例（防城港市24例，百色市2例，崇左市1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6474998.d.html</link>
+            <guid>2694478</guid>
+            <pubDate>Sat, 04 Jun 2022 00:36:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌方称俄试图在乌克兰南部打持久战】乌克兰国防部长列兹尼科夫3日表示，俄军在乌克兰南部，尤其是赫尔松地区并没有向前推进，而是在建造多层次的防御工事，这说明俄罗斯正试图将冲突拖入持久战。俄罗斯国防部3日称，S-300防空导弹系统开始投入赫尔松战场。当天赫尔松市上空发生强烈爆炸，有媒体认为这是俄罗斯防空系统击落了乌克兰方面来袭的导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5019935.d.html</link>
+            <guid>2694477</guid>
+            <pubDate>Sat, 04 Jun 2022 00:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南昨日新增本土无症状感染者3例】6月3日0—24时，河南全省新增本土无症状感染者3例（郑州市2例、许昌市1例），无新增确诊病例和疑似病例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5019861.d.html</link>
+            <guid>2694476</guid>
+            <pubDate>Sat, 04 Jun 2022 00:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝能姚振华：外部形势逐渐向好 集团有信心尽快解决流动性问题】从“中国宝能”获悉，5月31日，姚振华董事长在宝能中心主持召开五月董事长办公会，会议听取了四个经营单元五月份经营工作汇报。姚振华在听取工作汇报后，结合近期经济形势，对集团重点工作提出明确要求。当前，国家围绕稳住经济大盘推出了一系列政策措施，制造业、房地产业、物流业、新能源汽车产业等领域迎来发展机遇。随着外部形势逐渐向好，集团有信心尽快解决流动性问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6474598.d.html</link>
+            <guid>2694474</guid>
+            <pubDate>Sat, 04 Jun 2022 00:34:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[神舟十四号任务进行全航区合练。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5018558.d.html</link>
@@ -76,282 +486,6 @@
             <title><![CDATA[【普京：俄罗斯不会阻碍乌克兰的粮食出口】俄罗斯总统普京当地时间6月3日表示，有人试图将全球粮食市场的现状的责任推卸到俄罗斯身上，但这是在嫁祸于人。国际粮食短缺问题早在俄罗斯在乌克兰开展特别军事行动之前就已发生。普京表示，俄罗斯不会阻碍乌克兰的粮食出口。当乌克兰清理其港口时，俄罗斯不会从海上进行任何攻击。乌克兰的粮食可以通过俄罗斯控制的港口，比如别尔江斯克港出口，或者也可通过过境波兰、匈牙利、罗马尼亚和白俄罗斯出口。通过白俄罗斯出口是最便捷的方式，但首先需要解除对白俄罗斯的制裁。另外，俄罗斯愿意将小麦出口量提高到5000万吨。俄罗斯愿确保和平目的的粮食运输，保障船舶进入亚速海和黑海。]]></title>
             <guid>2694458</guid>
             <pubDate>Fri, 03 Jun 2022 23:55:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因机场人手短缺，荷兰皇家航空公司大幅削减航班】 荷兰皇家航空公司当地时间6月3日表示，由于阿姆斯特丹史基浦机场人满为患，在即将到来的小长假期间，该公司每天将不得不取消多达50个航班，受此影响的乘客将被迫改签。具体受影响的日期为6月3日至6月6日。史基浦机场是欧洲第三大繁忙的机场，安检人员严重短缺导致机场登机手续办理缓慢。本周早些时候，该机场同意在夏季期间增加员工工资，并雇用更多工作人员。目前，史基浦机场敦促乘客提前至少四小时到达机场。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6468378.d.html</link>
-            <guid>2694455</guid>
-            <pubDate>Fri, 03 Jun 2022 23:48:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北顿涅茨克战斗持续 乌称俄军继续发起进攻】据央视新闻消息，当地时间3日，乌克兰武装部队总参谋部通报称，俄军将主要军事力量集中在北顿涅茨克市区，俄军当天在炮火的掩护下在城市东部的居民区发起进攻，其攻势取得部分成功，双方仍在北顿涅茨克激烈交火。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5013901.d.html</link>
-            <guid>2694454</guid>
-            <pubDate>Fri, 03 Jun 2022 23:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【瑞士允许欧洲国家向乌克兰转口军事配件】瑞士联邦委员会周五发表的声明称，瑞士政府允许欧洲国家向乌克兰转口从瑞士购买的军事装备配件，它认为这不违反瑞士的中立性。此前瑞士拒绝德国和丹麦向乌克兰运送军事装备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5013755.d.html</link>
-            <guid>2694453</guid>
-            <pubDate>Fri, 03 Jun 2022 23:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄乌谈判乌方代表：目前没有任何理由继续谈判】乌克兰人民公仆党议会党团主席、俄乌谈判乌方代表团团长阿拉哈米亚当地时间6月3日表示，当乌克兰的谈判立场得到加强时，将恢复与俄罗斯的谈判。他表示在国际伙伴的承诺下，乌克兰可以通过获得足够数量的武器来加强自己，乌克兰武装力量已经准备好使用这些武器，随后就可能启动新一轮的谈判。阿拉哈米亚强调目前没有任何理由提议继续谈判。（央视新闻客户端）]]></title>
-            <guid>2694452</guid>
-            <pubDate>Fri, 03 Jun 2022 23:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月全国重点监测港口集装箱吞吐量同比增长4.2% 】据人民日报消息，记者从交通运输部获悉：5月，全国重点监测港口完成集装箱吞吐量2308万标箱，同比增长4.2%，日均环比增长4.4%，完成货物吞吐量10.3亿吨，日均环比增长3.2%，水运业生产稳中向好。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6467399.d.html</link>
-            <guid>2694451</guid>
-            <pubDate>Fri, 03 Jun 2022 23:37:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲多国竞相开征能源“暴利税”】为遏制能源价格上涨给民众带来的压力，英国政府5月26日宣布，将对石油和天然气生产商征收25%的能源利润税，同时出台一项150亿英镑的一揽子计划，向难以承担能源价格暴涨的英国家庭提供支持。随着全球能源价格飙升，欧洲多国纷纷对赚得盆满钵满的能源企业征收“暴利税”，以补贴民众能源开支剧增的“家庭账单”。]]></title>
-            <guid>2694449</guid>
-            <pubDate>Fri, 03 Jun 2022 23:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄储蓄银行农业银行和莫斯科信贷银行将于6月14日与SWIFT断开】根据欧盟在官方公报上发布的第六轮对俄制裁显示，俄罗斯储蓄银行、俄罗斯农业银行和莫斯科信贷银行将于6月14日与SWIFT系统断开。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5011657.d.html</link>
-            <guid>2694448</guid>
-            <pubDate>Fri, 03 Jun 2022 23:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  6月3日0-24时，吉林延边延吉市新增无症状感染者3例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5011263.d.html</link>
-            <guid>2694447</guid>
-            <pubDate>Fri, 03 Jun 2022 23:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南昨日新增1例本土无症状感染者】6月3日0-24时，云南省新增确诊病例2例，系境外输入（缅甸）。本土1例（红塔区在集中隔离医学观察的省外返滇人员中发现）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6464980.d.html</link>
-            <guid>2694445</guid>
-            <pubDate>Fri, 03 Jun 2022 23:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲多国竞相开征能源“暴利税”】为遏制能源价格上涨给民众带来的压力，英国政府5月26日宣布，将对石油和天然气生产商征收25%的能源利润税，同时出台一项150亿英镑(约合人民币1279亿元)的一揽子计划，向难以承担能源价格暴涨的英国家庭提供支持。随着全球能源价格飙升，欧洲多国纷纷对赚得盆满钵满的能源企业征收“暴利税”，以补贴民众能源开支剧增的“家庭账单”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5010382.d.html</link>
-            <guid>2694444</guid>
-            <pubDate>Fri, 03 Jun 2022 23:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超大型塔式起重机在江苏徐州交付】6月2日上午，超大型塔式起重机在江苏徐州正式交付，将进一步提升我国装备制造业的竞争力和影响力。该起重机由徐工集团工程机械有限公司研发的超大型塔式起重机，采用平头主塔+动臂辅塔+载人电梯的组合式设计，最大起重量600吨。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6464152.d.html</link>
-            <guid>2694443</guid>
-            <pubDate>Fri, 03 Jun 2022 23:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股科技股“水逆期”仍未结束，富达下调Reddit等明星企业估值】科技股抛售潮持续，富达投资下调了一些全球最大的未上市科技企业的估值，包括Reddit和Stripe等预期今年IPO的明星企业。富达将其在金融科技平台Stripe的持股价值下调了13%，至每股32.05美元，这是自2021年3月以来的最低价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5009653.d.html</link>
-            <guid>2694442</guid>
-            <pubDate>Fri, 03 Jun 2022 23:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄乌局势最新进展】截至北京时间6月4日7:00，俄乌局势最新进展汇总如下：①欧盟理事会当地时间6月3日发布公告称，欧盟新一轮对俄制裁涉及65名个人和18个实体，包括军方、政界、媒体和商界人士等，以及俄罗斯国家结算存管局等机构和公司。②俄罗斯外交部发言人扎哈罗娃表示，俄罗斯外交部已于6月1日通知美国方面停止两国在文化、科学、教育和媒体领域的合作备忘录。③乌克兰总统办公厅主任顾问、俄乌谈判乌方代表团团长阿列斯托维奇当地时间6月3日表示，当乌克兰的谈判立场得到加强时，将恢复与俄罗斯的谈判。目前没有任何理由继续谈判。④俄罗斯总统普京当地时间6月3日表示，俄罗斯不会阻碍乌克兰的粮食出口。当乌克兰清理其港口时，俄罗斯不会从海上进行任何攻击。⑤俄罗斯外交部宣布将41名加拿大公民列入禁止入境名单，其中包括支持乌克兰极端民族主义势力的组织的负责人和成员，以及军事官员。⑥俄外交部强烈谴责美国违反合同规定向乌克兰提供米-17直升机。⑦俄罗斯外交部表示，现在讨论俄罗斯总统普京和乌克兰总统泽连斯基会面在理论上没有意义。]]></title>
-            <guid>2694441</guid>
-            <pubDate>Fri, 03 Jun 2022 23:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：日本考虑恢复实施境内旅行补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6463634.d.html</link>
-            <guid>2694440</guid>
-            <pubDate>Fri, 03 Jun 2022 23:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球首台 新一代船用发动机在沪交付】全球首台新一代带智能控制废气再循环（iCER）系统的双燃料主机7X62DF-2.1昨天在上海完工交付。该系统由中国船舶集团旗下中船动力（集团）有限公司研制成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6463613.d.html</link>
-            <guid>2694439</guid>
-            <pubDate>Fri, 03 Jun 2022 22:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国众议院考虑立法以解决通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5008834.d.html</link>
-            <guid>2694437</guid>
-            <pubDate>Fri, 03 Jun 2022 22:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银保监会首次对理财机构开罚单 构建全流程行业监管体系】6月2日，银保监会网站披露对部分理财公司及其母行的罚单：因理财业务存在多项违法违规行为，中银理财有限责任公司、中国银行、光大理财有限责任公司、光大银行分别被罚460万元、200万元、430万元、400万元。这是自2019年6月首家银行理财公司正式开业以来，监管部门首次对理财公司这类新型资管机构开出罚单，标志着我国理财行业构建起从立法到执法的全流程监管体系，有助于促进理财公司依法合规、持续稳健发展，进一步提升其服务实体经济、满足人民群众财富管理等金融需求的能力与质效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5008544.d.html</link>
-            <guid>2694436</guid>
-            <pubDate>Fri, 03 Jun 2022 22:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两家发放山寨职业资格证书的网站被查处关停】日前，两家打着“职业资格”幌子发放“山寨证书”牟利的网站被查处关停。这两家被关停的网站，一家冒用“中国人事考试网”网站名称和单位标识，故意混淆概念、误导社会；另一家名为“国家专业技术人才网”，在网页标注“工信部已备案”“官方认证”等欺骗性字样。]]></title>
-            <guid>2694435</guid>
-            <pubDate>Fri, 03 Jun 2022 22:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安森美半导体盘后涨超6%，公司将加入标准普尔500指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5007178.d.html</link>
-            <guid>2694434</guid>
-            <pubDate>Fri, 03 Jun 2022 22:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两颗风云气象“新星”投入业务试运行】日前，风云三号E星、风云四号B星及其地面应用系统转入业务试运行，开始为全球用户提供观测数据和应用服务。作为全球观测业务序列中的成员，它们将有效支撑“全球监测、全球预报、全球服务”，并在服务“一带一路”建设中发挥重要作用，进一步增强我国气象卫星的综合观测能力和应用服务能力。]]></title>
-            <guid>2694433</guid>
-            <pubDate>Fri, 03 Jun 2022 22:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前5月中越班列开行同比增两成 跨境冷链货物发送增长超一倍】中国铁路南宁局集团有限公司透露的数据显示，今年1月至5月，中越跨境班列累计开行140列、发运集装箱4176标箱，分别同比增长20.7%、26.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6461001.d.html</link>
-            <guid>2694432</guid>
-            <pubDate>Fri, 03 Jun 2022 22:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会(CFTC)：最近一周美元净多仓降至147.1亿美元，为近五周最少。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6460519.d.html</link>
-            <guid>2694431</guid>
-            <pubDate>Fri, 03 Jun 2022 22:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【教育部提醒：高考生谨防这些“陷阱”】022年高考即将拉开大幕，1193万名考生进入最后冲刺阶段，力争在这次人生大考中交出一份满意成绩单。然而，一些不法分子也在此时动起了歪脑筋，借高考散布虚假信息、制造焦虑、实施诈骗，甚至诱导考生作弊。为此，教育部联合中央网信办、公安部等部门，结合近年来出现的一些典型案例，郑重提醒广大考生和家长，务必提高警惕，谨防上当受骗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6460163.d.html</link>
-            <guid>2694430</guid>
-            <pubDate>Fri, 03 Jun 2022 22:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃兰州：去年空气质量综合指数为9年来最优】甘肃省兰州市2日召开新闻发布会称，2021年兰州市空气质量综合指数为4.75，是2013年执行《环境空气质量标准》（GB3095-2012）以来的最优水平。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6459893.d.html</link>
-            <guid>2694429</guid>
-            <pubDate>Fri, 03 Jun 2022 22:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神舟十四号任务进行全航区合练】6月3日，神舟十四号载人飞行任务完成发射前全航区综合演练，任务各测控场站实施联调联控，确保发射前各系统具备执行发射任务的条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6459315.d.html</link>
-            <guid>2694428</guid>
-            <pubDate>Fri, 03 Jun 2022 22:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【土耳其外交部召见希腊大使】土耳其外交部3日夜间发表声明称，由于希腊为恐怖组织提供了机会以及土耳其驻希腊大使馆附近发生的库尔德工人党示威游行，土耳其外交部召见了希腊驻土耳其大使拉扎里斯。土耳其外交部告知拉扎里斯，库尔德工人党能够轻易地在希腊开展宣传、集资和招募活动，希腊作为恐怖分子避风港的地位正在强化。土耳其外交部还表示，希腊的拉夫里恩营地已成为与伊拉克和叙利亚的库尔德工人党营地类似的恐怖组织据点。从该营地开始的行动演变成土耳其驻希腊大使馆周围的库尔德工人党示威游行。土方要求希腊履行其在反恐斗争中的义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6458673.d.html</link>
-            <guid>2694427</guid>
-            <pubDate>Fri, 03 Jun 2022 21:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯洛伐克发生火车事故 致数十人受伤】当地时间6月3日，斯洛伐克警方在社交媒体上称，一台火车机车撞上了一辆停止的客运列车，造成几十人受伤，其中四人伤势严重。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5003800.d.html</link>
-            <guid>2694425</guid>
-            <pubDate>Fri, 03 Jun 2022 21:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行6月3日当天在固定回购交易中投放140亿卢布。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5003613.d.html</link>
-            <guid>2694424</guid>
-            <pubDate>Fri, 03 Jun 2022 21:44:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因机场人手短缺 荷兰皇家航空公司大幅削减航班】荷兰皇家航空公司当地时间6月3日表示，由于阿姆斯特丹史基浦机场人满为患，在即将到来的小长假期间，该公司每天将不得不取消多达50个航班，受此影响的乘客将被迫改签。具体受影响的日期为6月3日至6月6日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6457589.d.html</link>
-            <guid>2694423</guid>
-            <pubDate>Fri, 03 Jun 2022 21:42:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：Keurig Dr Pepper，Vici Property and OnOn将加入标准普尔500指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5001997.d.html</link>
-            <guid>2694419</guid>
-            <pubDate>Fri, 03 Jun 2022 21:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[森淼科技收涨将近10.9%，逸仙电商涨超7.9%，趣头条涨4.4%，瑞幸咖啡涨超4.0%，腾讯粉单市场、携程、网易、百度、老虎证券至少跌超1.7%，京东跌超2.5%，360数科跌超2.9%，讯鸟软件跌超2.9%，B站、拼多多、达达集团、富途证券至少跌超3.3%，蔚来汽车、腾讯音乐、阿里巴巴、新东方、悦刻电子烟、小鹏汽车、叮咚买菜至少跌约4.1%，金山云跌5.8%。网易有道跌超8.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu5000347.d.html</link>
-            <guid>2694414</guid>
-            <pubDate>Fri, 03 Jun 2022 20:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪表示，仍然认为马里的政治局势风险很大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4999546.d.html</link>
-            <guid>2694413</guid>
-            <pubDate>Fri, 03 Jun 2022 20:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[费城半导体指数周五收跌逾3.0%，芯片股美光科技跌7.2%，Wolfspeed跌5.0%，英伟达跌超4.4%，MKSI和迈威尔科技也跌超4.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4998778.d.html</link>
-            <guid>2694410</guid>
-            <pubDate>Fri, 03 Jun 2022 20:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英媒：俄罗斯正赢得西方发动的经济战】俄乌冲突以来，美国及其盟友对俄罗斯实施了史无前例的能源和经济制裁。英国《卫报》刊发评论称，俄罗斯正赢得这场西方发动的经济战。西方的一系列制裁，不仅没有压垮俄罗斯经济，反而推高了能源价格，拉高了西方国家的通胀，让卢布汇率越发坚挺。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4998753.d.html</link>
-            <guid>2694409</guid>
-            <pubDate>Fri, 03 Jun 2022 20:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月全国重点监测港口集装箱吞吐量同比增长4.2%】从交通运输部获悉：5月，全国重点监测港口完成集装箱吞吐量2308万标箱，同比增长4.2%，日均环比增长4.4%，完成货物吞吐量10.3亿吨，日均环比增长3.2%，水运业生产稳中向好。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6452626.d.html</link>
-            <guid>2694408</guid>
-            <pubDate>Fri, 03 Jun 2022 20:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国：退休制度改革将在2023年夏天实施】6月3日，法国总统马克龙表示，其第二任期的第一项改革，法国退休制度改革将在2023年夏天实施。在这之前，法国将成立新的国家重组改革委员会，研究新的实施方案。法国退休制度改革是马克龙第一个任期遗留下来的老问题。当时，马克龙政府宣布，希望将退休年龄推迟到65岁，引起了社会的不满。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6451665.d.html</link>
-            <guid>2694406</guid>
-            <pubDate>Fri, 03 Jun 2022 20:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普：确认立陶宛的评级为“A+/A-1”；前景展望稳定。]]></title>
-            <guid>2694402</guid>
-            <pubDate>Fri, 03 Jun 2022 20:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标普：预计俄乌冲突的间接影响将对立陶宛的小型开放经济造成压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6451450.d.html</link>
-            <guid>2694401</guid>
-            <pubDate>Fri, 03 Jun 2022 20:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：俄或将被迫扩大出口货物以卢布结算的范围】俄罗斯外交部发言人扎哈罗娃3日说，因西方继续滥用其在国际金融体系中的地位，俄或将被迫扩大出口货物以卢布结算的范围。扎哈罗娃当天在例行记者会上说，面对无法以多种外币进行交易以及金融基础设施对俄关闭的情况，实行俄罗斯产品以卢布支付机制是被迫但顺理成章的决定。俄方将在与主要合作伙伴的经贸和投资关系中提升本国货币所占比例。俄方确实正在考虑针对某些种类的俄商品扩大卢布支付的范围。扎哈罗娃同时表示，俄方愿继续履行国际合同规定的农产品、化肥、能源等重要产品出口交付义务。俄方对可能出现的粮食危机予以关切，并深知俄供应包括粮食在内的具有社会意义的商品对于许多国家和世界各地区的社会经济发展以及粮食安全非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6451333.d.html</link>
-            <guid>2694399</guid>
-            <pubDate>Fri, 03 Jun 2022 20:13:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登将于6月11日前往新墨西哥州，听取有关山火的简报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4996837.d.html</link>
-            <guid>2694398</guid>
-            <pubDate>Fri, 03 Jun 2022 20:07:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股多数下跌，爱奇艺、虎牙跌超6%，小鹏汽车、阿里巴巴跌超4%，拼多多、哔哩哔哩跌超3%，京东跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6450865.d.html</link>
-            <guid>2694397</guid>
-            <pubDate>Fri, 03 Jun 2022 20:06:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉收跌9.22%，创最近五周最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4996458.d.html</link>
-            <guid>2694396</guid>
-            <pubDate>Fri, 03 Jun 2022 20:02:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺瓦瓦克斯（NVAX）收跌20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6450541.d.html</link>
-            <guid>2694395</guid>
-            <pubDate>Fri, 03 Jun 2022 20:02:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国向斯里兰卡交接首批援助药品】中国向斯里兰卡政府援助的首批药品当地时间6月3日午夜运抵科伦坡。这一定程度上将缓解斯里兰卡当下用药紧张的难题。中国向斯里兰卡政府援助的首批药品价值约1012万元人民币。3日晚斯里兰卡政府在机场举行了交接仪式。中国驻斯里兰卡大使戚振宏和斯里兰卡卫生部长拉姆布维拉出席了交接仪式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4993315.d.html</link>
-            <guid>2694378</guid>
-            <pubDate>Fri, 03 Jun 2022 19:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱沙尼亚联合政府解体】爱沙尼亚总理、改革党主席卡拉斯3日宣布，由改革党和中间党组成的爱沙尼亚联合政府中所有7名中间党部长当天被解除职务，其职位分别由7名改革党部长兼任，直至新的联合政府成立。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4993224.d.html</link>
-            <guid>2694377</guid>
-            <pubDate>Fri, 03 Jun 2022 19:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：美国总统拜登寻求任命Delmar为财政部监察长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizmscu4992449.d.html</link>
-            <guid>2694375</guid>
-            <pubDate>Fri, 03 Jun 2022 19:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国环保署否决了69家小型炼油厂的生物燃料配额豁免。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-04/detail-imizirau6446259.d.html</link>
-            <guid>2694374</guid>
-            <pubDate>Fri, 03 Jun 2022 19:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
