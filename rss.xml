@@ -4,337 +4,435 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 12:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国和E3（英法德三国）外交官表示，美国和E3（英法德三国）批评伊朗没有完全回答国际原子能机构关于未申报地点铀粒子的问题的决议草案已经正式提交给国际原子能机构理事会，该决议草案将在本周的国际原子能机构理事会会议上进行辩论和表决，可能会在周三举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5578238.d.html</link>
-            <guid>2697231</guid>
-            <pubDate>Tue, 07 Jun 2022 09:06:14 GMT</pubDate>
+            <title><![CDATA[德国财长林德纳拒绝绿党和社民党对石油企业征收超额利润征税的计划。]]></title>
+            <guid>2697497</guid>
+            <pubDate>Tue, 07 Jun 2022 12:12:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部发言人科纳申科夫表示，俄导弹部队和炮兵一天内摧毁乌克兰3个S-300防空系统发射装置，以及10辆装甲车和3个“冰雹”齐射火箭炮系统装置。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5578180.d.html</link>
-            <guid>2697230</guid>
-            <pubDate>Tue, 07 Jun 2022 09:06:01 GMT</pubDate>
+            <title><![CDATA[【中储粮：全面启动中央储备粮轮入收购】中储粮集团在湖北、江苏、河南、山东等主产区的夏粮收购全面启动。中储粮集团公司购销计划部副部长白海峰表示，（目前小麦）收购均价在3000到3100元（每吨）左右，高于最低收购价700到800元每吨，有力促进了广大农民朋友在丰产之年实现增收。下一步随着新粮集中上市，中储粮集团轮换收购工作将全面展开，峰值日均收购量将达到10万吨以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7076141.d.html</link>
+            <guid>2697496</guid>
+            <pubDate>Tue, 07 Jun 2022 12:11:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及官员表示，埃及有足够6个月使用的战略小麦储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5578116.d.html</link>
-            <guid>2697229</guid>
-            <pubDate>Tue, 07 Jun 2022 09:05:45 GMT</pubDate>
+            <title><![CDATA[据猫眼专业版微博消息，6月7日19时44分，2022年暑期档总票房（含预售）破3亿。]]></title>
+            <guid>2697494</guid>
+            <pubDate>Tue, 07 Jun 2022 12:10:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及官员表示，迄今为止，埃及收获了360万吨当地小麦。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7049088.d.html</link>
-            <guid>2697228</guid>
-            <pubDate>Tue, 07 Jun 2022 09:05:32 GMT</pubDate>
+            <title><![CDATA[立陶宛总统：以德国为首的旅将在1-1.5年内部署到立陶宛，其中将包括来自其他北约国家的部队。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5603742.d.html</link>
+            <guid>2697493</guid>
+            <pubDate>Tue, 07 Jun 2022 12:07:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯驻塞尔维亚大使表示，塞尔维亚外长塞拉科维奇访俄筹备工作已开始进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5577995.d.html</link>
-            <guid>2697227</guid>
-            <pubDate>Tue, 07 Jun 2022 09:05:04 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交部：拉夫罗夫将在访问安卡拉期间与土耳其外长讨论与乌克兰恢复和平谈判的前景。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5603672.d.html</link>
+            <guid>2697491</guid>
+            <pubDate>Tue, 07 Jun 2022 12:07:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【生态环境部：做好重大投资项目环评保障工作】生态环境部近日印发《关于做好重大投资项目环评工作的通知》。《通知》要求，各级生态环境部门要切实依法做好重大投资项目环评保障，在优化流程、提高效率上下功夫，为重大投资项目提供从环评文件编制到审批的全过程保障，落实好服务重大投资项目环评的各项措施，全力推进“十四五”规划重大工程、水利及交通等基础设施、煤炭保供、涉及补链强链的高技术产业等重大投资项目落地见效。确保环评审批质量，确保重大投资项目不发生重大生态环境问题。防范“未批先建”“边批边建”等违法行为，强化事中事后监管，确保环评及批复提出的各项生态环保措施落实到位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5577818.d.html</link>
-            <guid>2697223</guid>
-            <pubDate>Tue, 07 Jun 2022 09:04:10 GMT</pubDate>
+            <title><![CDATA[【大唐电信：拟向关联方协议转让大唐终端和大唐软件股权】大唐电信公告，公司拟将所持全资子公司大唐终端债权1.46亿元、所持控股子公司大唐软件债权6.21亿元进行债转股，同时将所持大唐终端100%股权、大唐软件约92.16%股权以非公开协议转让的方式转让给公司控股股东的下属公司上海大唐发展，转让价格分别为1037.66万元、1元。本次股权转让后，公司将不再持有大唐终端和大唐软件的股权。大唐终端所在的特种通信业务体量较小，本次股权转让后对公司整体业务影响有限。大唐软件剥离后，将显著减轻公司盈利及净资产负担，有利于公司整体业绩改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7075451.d.html</link>
+            <guid>2697490</guid>
+            <pubDate>Tue, 07 Jun 2022 12:07:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新加坡5月外汇储备 3453亿美元，前值3651.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5577780.d.html</link>
-            <guid>2697222</guid>
-            <pubDate>Tue, 07 Jun 2022 09:03:59 GMT</pubDate>
+            <title><![CDATA[【安徽：将新建3000公里全民健身步道】安徽省体育局局长李军介绍，根据日前出台的《快乐健身行动方案》，到2023年，安徽省将对全省已配建健身设施的小区和所有行政村的健身设施进行全面维修改造提升，对未配建健身设施的小区进行配建，基本实现城乡居民身边健身设施全覆盖。到2025年，新建全民健身步道3000公里，实现城市步道连点成线、互联互通。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7075015.d.html</link>
+            <guid>2697489</guid>
+            <pubDate>Tue, 07 Jun 2022 12:04:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[菲律宾财长迪奥克诺：菲律宾央行不需要追随美联储的行动。]]></title>
-            <guid>2697221</guid>
-            <pubDate>Tue, 07 Jun 2022 09:03:48 GMT</pubDate>
+            <title><![CDATA[【土耳其国防部长：会在时机成熟时在叙利亚北部采取必要行动打击恐怖主义】土耳其国防部长阿卡尔6月7日表示，土耳其将坚定不移地继续打击恐怖主义，会在时机成熟时在叙利亚北部地区采取必要的行动。他还透露，未来可能的行动的目标将集中在叙利亚北部的泰勒里法特和曼比季地区。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5602997.d.html</link>
+            <guid>2697487</guid>
+            <pubDate>Tue, 07 Jun 2022 12:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长源电力：公司目前在运的有2台100万千瓦超超临界火电机组】长源电力在互动平台表示，公司目前在运的有2台100万千瓦超超临界火电机组。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7048654.d.html</link>
-            <guid>2697220</guid>
-            <pubDate>Tue, 07 Jun 2022 09:03:23 GMT</pubDate>
+            <title><![CDATA[当地时间6月7日，俄罗斯取消了对亚美尼亚和吉尔吉斯斯坦的交通运输限制。（央视新闻）]]></title>
+            <guid>2697483</guid>
+            <pubDate>Tue, 07 Jun 2022 11:57:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国务院任命傅华为新华通讯社社长】国务院任免国家工作人员。任命崔茂虎为国家宗教事务局局长；任命傅华为新华通讯社社长；任命吕岩松为新华通讯社总编辑；任命王树新为重庆大学校长（副部长级）。免去李晓超的国家统计局副局长职务；免去王作安的国家宗教事务局局长职务；免去何平的新华通讯社社长职务；免去傅华的新华通讯社总编辑职务；免去梁彦（女）的国家粮食和物资储备局副局长职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5577564.d.html</link>
-            <guid>2697219</guid>
-            <pubDate>Tue, 07 Jun 2022 09:02:36 GMT</pubDate>
+            <title><![CDATA[突尼斯农业部长：突尼斯今年将进口110万吨软质小麦，预计在硬粒小麦方面能够自给自足。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5601883.d.html</link>
+            <guid>2697479</guid>
+            <pubDate>Tue, 07 Jun 2022 11:51:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国务院批复同意《“十四五”新型城镇化实施方案》，要求各有关部门要根据职责分工，加强协调配合，加大指导支持力度，形成推动新型城镇化的政策合力。充分发挥城镇化工作暨城乡融合发展工作部际联席会议制度作用，统筹推进重大事项，推动解决《方案》实施中的重大问题。国家发展改革委要加强综合协调，及时跟踪《方案》实施进展情况，适时总结推广典型经验。重大事项及时向党中央、国务院报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5576953.d.html</link>
-            <guid>2697214</guid>
-            <pubDate>Tue, 07 Jun 2022 08:59:41 GMT</pubDate>
+            <title><![CDATA[【广东出台制度严格耕地用途管制 探索永久基本农田易地补划】广东省自然资源厅、广东省农业农村厅、广东省林业和草原局日前联合印发了《关于严格耕地用途管制有关问题的通知》。《通知》严格落实耕地利用优先序，探索永久基本农田易地补划。明确永久基本农田重点用于粮食生产，高标准农田原则上全部用于粮食生产，一般耕地主要用于粮食和棉、油、糖、蔬菜等农产品及饲草饲料生产。进一步细化了166号文要求，明确非农建设占用永久基本农田在县域范围内无法补足的，可在市域范围内跨县域易地补划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5601463.d.html</link>
+            <guid>2697477</guid>
+            <pubDate>Tue, 07 Jun 2022 11:48:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[光明乳业：全资子公司光明牧业有限公司拟在安徽省滁州市定远县投资建设定远牧场群项目，本项目设计规划存栏47500头奶牛，总投资24.93亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5576929.d.html</link>
-            <guid>2697213</guid>
-            <pubDate>Tue, 07 Jun 2022 08:59:28 GMT</pubDate>
+            <title><![CDATA[【试管婴儿何时纳入医保？安徽省医保局回应】有网友在人民网留言，问安徽什么时候将试管婴儿纳入医保？安徽省医保局回复，近年来，不孕不育人群日益增多，将包括试管婴儿在内的辅助生殖技术纳入医保报销的呼声很大，省医保局对此也十分关注。今年北京，浙江等地陆续报出将试管婴儿等辅助生殖项目纳入医保的信息。2月份，北京出台文件，调整部分诊疗服务项目价格，拟将人工授精等辅助生殖项目纳入医保报销范围。后续，根据国家医疗保障待遇清单相关规定，已暂缓执行。其余省市相似政策，均已暂停落地。目前，将试管婴儿等辅助生殖技术纳入医保的条件还不成熟。省医保局将对该问题保持持续关注，并按照国家相关规定，适时将其纳入医保支付范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7073263.d.html</link>
+            <guid>2697476</guid>
+            <pubDate>Tue, 07 Jun 2022 11:48:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据北约新闻处消息，秘书长斯托尔滕贝格10日将于罗马尼亚出席“布加勒斯特九国”模式峰会，还拟与东欧国家领导人们举行一系列会晤。（卫星新闻）]]></title>
-            <guid>2697212</guid>
-            <pubDate>Tue, 07 Jun 2022 08:57:44 GMT</pubDate>
+            <title><![CDATA[【豫能控股：拟8.06亿元投建5个屋顶分布式光伏项目】豫能控股公告，拟投资建设5个屋顶分布式光伏项目，总建设装机规模203.50772MWp，总投资额8.06亿元；拟投资建设鹤壁鹤淇集中式电化学储能电站、宝山增量配电网储能项目，建设规模分别为100MW/200MWh和6MW/18MWh，总投资额4.22亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7073063.d.html</link>
+            <guid>2697475</guid>
+            <pubDate>Tue, 07 Jun 2022 11:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿曼否认与伊朗就联合开发海上油田的股份分配达成协议】阿曼能源和矿产部发表声明称，该部最近没有参加任何与阿曼和伊朗海上边界间联合油田有关的技术讨论或商业谈判。对于近日某些媒体发布关于两国股份份额分配比例的消息，该部在声明中强调，两国前段时间只是就该油田项目的联合开发进行了讨论，至于股份份额分配比例问题，尚未达成最终协议。据悉，阿曼和伊朗海上边界间的联合油田位于阿曼穆桑达姆省附近，在伊朗的一侧被称为亨加姆（Hengam），在阿曼的一侧被称为西布卡（West Bukha）。阿曼从1985年在西布卡进行石油开采。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7047512.d.html</link>
-            <guid>2697209</guid>
-            <pubDate>Tue, 07 Jun 2022 08:57:02 GMT</pubDate>
+            <title><![CDATA[【国家电网公司召开2022年迎峰度夏电力保供电视电话会议】公司董事长、党组书记辛保安出席会议并讲话。辛保安强调，要统筹发展和安全，统筹保供和转型，以最高标准、最严要求、最实措施，落细落实公司迎峰度夏电力保供30项工作要点，确保电网安全度夏，确保电力保供无虞。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7072961.d.html</link>
+            <guid>2697474</guid>
+            <pubDate>Tue, 07 Jun 2022 11:45:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相岸田文雄：未来五年将从根本上加强防御能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5576279.d.html</link>
-            <guid>2697206</guid>
-            <pubDate>Tue, 07 Jun 2022 08:55:26 GMT</pubDate>
+            <title><![CDATA[英国农业部长表示，必须立即调查有关俄罗斯偷窃乌克兰粮食的指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7072895.d.html</link>
+            <guid>2697473</guid>
+            <pubDate>Tue, 07 Jun 2022 11:44:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美军支持的叙利亚民主军（SDF）表示，他们准备与叙利亚军队协调，击退任何可能的土耳其行动，保护叙利亚领土。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7047204.d.html</link>
-            <guid>2697205</guid>
-            <pubDate>Tue, 07 Jun 2022 08:55:14 GMT</pubDate>
+            <title><![CDATA[【哈萨克斯坦总统托卡耶夫会见王毅】当地时间2022年6月7日，哈萨克斯坦总统托卡耶夫在努尔苏丹会见到访的国务委员兼外长王毅。双方对乌克兰危机带来的严重负面外溢影响深感担忧。王毅强调，中方为劝和促谈发挥着建设性作用。当前形势下，要警惕域外势力图谋将地区国家卷入大国冲突，胁迫各国“选边站队”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7072679.d.html</link>
+            <guid>2697472</guid>
+            <pubDate>Tue, 07 Jun 2022 11:43:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业银行：获准发行不超过2000亿元二级资本债券】农业银行公告，获准在全国银行间债券市场公开发行不超过2000亿元人民币二级资本债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7046948.d.html</link>
-            <guid>2697202</guid>
-            <pubDate>Tue, 07 Jun 2022 08:53:24 GMT</pubDate>
+            <title><![CDATA[巴基斯坦财政部长：巴基斯坦将与俄罗斯讨论小麦的进口问题，巴基斯坦今年将进口300万吨小麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5600902.d.html</link>
+            <guid>2697471</guid>
+            <pubDate>Tue, 07 Jun 2022 11:42:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊感谢内阁的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7046832.d.html</link>
-            <guid>2697201</guid>
-            <pubDate>Tue, 07 Jun 2022 08:52:35 GMT</pubDate>
+            <title><![CDATA[  五洲特纸公告，古道煦沣二期拟减持不超过2.58%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5600824.d.html</link>
+            <guid>2697470</guid>
+            <pubDate>Tue, 07 Jun 2022 11:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊告诉内阁，当我们投资公共服务时，我们需要确保其有价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7046778.d.html</link>
-            <guid>2697200</guid>
-            <pubDate>Tue, 07 Jun 2022 08:52:15 GMT</pubDate>
+            <title><![CDATA[【越秀地产：五月合同销售金额约82.56亿元 同比上升约2%】越秀地产公告，五月本公司实现合同销售（连同合营公司项目的合同销售）金额约为人民币82.56亿元，同比上升约2%，实现合同销售面积约为35.59万平方米，同比上升约18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5600692.d.html</link>
+            <guid>2697468</guid>
+            <pubDate>Tue, 07 Jun 2022 11:40:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国首相约翰逊告诉内阁，通过减税，我们将促进经济发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7046629.d.html</link>
-            <guid>2697199</guid>
-            <pubDate>Tue, 07 Jun 2022 08:51:41 GMT</pubDate>
+            <title><![CDATA[智利矿业公司安托法加斯塔：Los Pelambres铜矿检测到管道泄漏，没有迹象表明对环境造成破坏。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7072101.d.html</link>
+            <guid>2697466</guid>
+            <pubDate>Tue, 07 Jun 2022 11:38:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯国防部发言人科纳申科夫表示，俄航空兵击毁乌军83个有生力量和军事装备集结区。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5575541.d.html</link>
-            <guid>2697198</guid>
-            <pubDate>Tue, 07 Jun 2022 08:51:00 GMT</pubDate>
+            <title><![CDATA[【媒体：德承诺向乌提供的重型武器尚未交付】德国《明镜周刊》日前援引消息人士的话指出，德国一直不愿向乌克兰提供坦克来对抗俄罗斯军队，是因为德国政府担心，如果乌克兰取得胜利，就有可能进攻俄罗斯领土，如果向乌克兰提供坦克，意味着德国坦克可能进入俄罗斯境内。虽然在北约内部没有公开讨论此事，但实际上美国、英国和法国已私下就此达成一致。报道还指出，自俄乌冲突以来，德国实际上只向乌克兰提供了轻型武器，承诺提供的重型武器还没有实际交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7072034.d.html</link>
+            <guid>2697464</guid>
+            <pubDate>Tue, 07 Jun 2022 11:37:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【祥生控股集团：前5月归属集团合约销售额约133.71亿元】祥生控股集团公告，2022年5月，归属集团总合约销售额约为人民币22.47亿元；归属集团平均合约售价约为每平方米人民币14174元。截至2022年5月31日止5个月，归属集团合约销售总额约为人民币133.71亿元；归属集团平均合约售价约为每平方米人民币13705元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7045923.d.html</link>
-            <guid>2697196</guid>
-            <pubDate>Tue, 07 Jun 2022 08:48:41 GMT</pubDate>
+            <title><![CDATA[据国际文传电讯社：俄罗斯可能讨论取消钢铁消费税。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5600303.d.html</link>
+            <guid>2697463</guid>
+            <pubDate>Tue, 07 Jun 2022 11:37:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[华润双鹤：左氧氟沙星氯化钠注射液获得药品注册证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7045848.d.html</link>
-            <guid>2697194</guid>
-            <pubDate>Tue, 07 Jun 2022 08:48:07 GMT</pubDate>
+            <title><![CDATA[万科企业(02202.HK)：5月公司实现合同销售面积187.5万平方米，合同销售金额307.6亿元；1至5月公司累计实现合同销售面积981.1万平方米，合同销售金额1681.1亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7071956.d.html</link>
+            <guid>2697462</guid>
+            <pubDate>Tue, 07 Jun 2022 11:36:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄国防部发言人科纳申科夫少将表示，自俄罗斯开展特别军事行动以来，俄军已摧毁乌克兰1800多门野战火炮和迫击炮。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7045674.d.html</link>
-            <guid>2697192</guid>
-            <pubDate>Tue, 07 Jun 2022 08:47:10 GMT</pubDate>
+            <title><![CDATA[【四川遂宁：购买第二套普通自住住房，公积金首付比例降至三成】6月6日，四川省遂宁市住房公积金管理委员会发布《关于适当调整住房公积金贷款政策的通知》。《通知》提到，从2022年5月20日起，符合遂宁市住房公积金贷款政策的缴存人家庭在遂宁市主城区（含船山区、市直园区）购买自住住房申请住房公积金贷款的，单缴存人家庭最高贷款限额由35万元提高至50万元，双缴存人家庭最高贷款限额由40万元提高至60万元。从2022年5月25日起，对符合遂宁市住房公积金贷款政策的缴存人家庭在遂宁市辖区购买第二套普通自住住房，首付款比例由40%降至30%。（澎湃）]]></title>
+            <guid>2697460</guid>
+            <pubDate>Tue, 07 Jun 2022 11:32:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：俄罗斯外长拉夫罗夫将于6月7日至8日访问土耳其。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5574388.d.html</link>
-            <guid>2697189</guid>
-            <pubDate>Tue, 07 Jun 2022 08:44:50 GMT</pubDate>
+            <title><![CDATA[新西兰外交部：新西兰对俄罗斯实施额外制裁，目标是包括俄罗斯天然气工业股份公司（Gazprom）在内的44家俄罗斯、白俄罗斯实体。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7071390.d.html</link>
+            <guid>2697459</guid>
+            <pubDate>Tue, 07 Jun 2022 11:31:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉利汽车：5月总销量同比下滑约7%】吉利汽车港交所公告称，本集团于二零二二年五月之总销量为89070部，较去年同期减少约7%，惟较二零二二年四月增长约23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7045162.d.html</link>
-            <guid>2697187</guid>
-            <pubDate>Tue, 07 Jun 2022 08:44:17 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部长绍伊古表示，扎波罗热核电站正常运转。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5599635.d.html</link>
+            <guid>2697458</guid>
+            <pubDate>Tue, 07 Jun 2022 11:31:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【教育部通报部分网课违规问题 有机构未取得资质擅自开展培训】央视新闻消息，5月7日至22日，教育部继续组织专门力量，抽取一批线上培训机构、重点网站平台，就遵守有关法律法规及“双减”政策要求情况，开展第14次线上巡查监管。巡查发现近40条违规问题线索，主要表现为收费不规范、信息公示不全、无资质培训等，如部分线上培训机构以“已有XX名学生抢购”等用语引导家长提前缴费、售卖未报批的课程等；部分线上培训机构未公示课程收费和教师资质信息；部分机构未取得学科类线上培训、教育移动应用程序备案等相关资质，擅自开展面向义务教育阶段学生及3-6岁学龄前儿童的线上学习服务等。目前，违规问题线索已全部转交地方核查处置。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7044945.d.html</link>
-            <guid>2697185</guid>
-            <pubDate>Tue, 07 Jun 2022 08:42:49 GMT</pubDate>
+            <title><![CDATA[【乌总统：一些国家对乌施压 要求向俄让步】据美国《新闻周刊》等媒体6号报道，乌克兰总统泽连斯基当天表示，一些国家正在敦促乌方接受一个乌方“并不想要”的结果，以结束俄乌冲突。泽连斯基表示，一些国家对俄乌冲突不断持续感到厌倦，想尽可能地把乌克兰推向一个乌方绝对不想要的结局，而未征求乌方意见。这样的结局只对那些国家有利，因为它们有自己的利益考量。泽连斯基表示，目前没有与俄方进行和平谈判的计划。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5599452.d.html</link>
+            <guid>2697457</guid>
+            <pubDate>Tue, 07 Jun 2022 11:30:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沪电股份：在泰国投资新建生产基地】沪电股份公告，因业务发展和增加海外生产基地布局的需要，在对海外低成本地区充分调研评估的基础上，决议在泰国投资新建生产基地，投资金额约2.8亿美元，包括但不限于购买土地、购建固定资产等相关事项，实际投资金额以中国及当地主管部门批准金额为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5573519.d.html</link>
-            <guid>2697183</guid>
-            <pubDate>Tue, 07 Jun 2022 08:40:04 GMT</pubDate>
+            <title><![CDATA[【瑞典议会否决对司法大臣的不信任动议】当地时间6月7日，据瑞典电视台报道，瑞典议会对司法大臣摩根·约翰松（Morgan Johansson）的不信任动议进行投票。174名议员对不信任表示同意，97人反对，70人弃权，8人缺席，从而否决了针对约翰松的不信任动议。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7070688.d.html</link>
+            <guid>2697453</guid>
+            <pubDate>Tue, 07 Jun 2022 11:25:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据法新社：外交官表示，谴责伊朗的动议已提交联合国核监督机构。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7044266.d.html</link>
-            <guid>2697182</guid>
-            <pubDate>Tue, 07 Jun 2022 08:39:25 GMT</pubDate>
+            <title><![CDATA[【中国进出口银行原基建办公室主任王学超接受审查调查】据中央纪委国家监委驻中国进出口银行纪检监察组、山东省纪委监委消息：中国进出口银行原基建办公室主任王学超涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国进出口银行纪检监察组纪律审查和山东省东营市监察委员会监察调查。（央视新闻）]]></title>
+            <guid>2697452</guid>
+            <pubDate>Tue, 07 Jun 2022 11:23:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国铁建：基础设施公募REITs获准予】中国铁建公告，收到中国证监会出具的《关于准予国金铁建重庆渝遂高速公路封闭式基础设施证券投资基金注册的批复》，准予注册基础设施公募REITs。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5573371.d.html</link>
-            <guid>2697181</guid>
-            <pubDate>Tue, 07 Jun 2022 08:39:07 GMT</pubDate>
+            <title><![CDATA[【四部门：拓宽高校毕业生到城乡社区就业创业渠道】近日，民政部、教育部、财政部、人力资源和社会保障部联合印发《关于做好2022年普通高校毕业生到城乡社区就业工作的通知》（以下简称《通知》），拓宽高校毕业生到城乡社区就业创业渠道，为提高城乡社区治理和服务精准化精细化水平、推进基层治理体系和治理能力现代化建设提供人才支撑。《通知》提出，要从加强社区工作者队伍、发展城乡社区服务业、创新工作联动机制、开发就业见习岗位、加强高校毕业生教育引导等5个方面，拓宽高校毕业生到城乡社区就业创业渠道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7070407.d.html</link>
+            <guid>2697451</guid>
+            <pubDate>Tue, 07 Jun 2022 11:22:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据伊朗塔斯尼姆通讯社：伊朗陆军地面部队指挥官HEYDARI表示，如果敌人犯任何错误，德黑兰将“把以色列城市特拉维夫和海法夷为平地”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5573284.d.html</link>
-            <guid>2697180</guid>
-            <pubDate>Tue, 07 Jun 2022 08:38:46 GMT</pubDate>
+            <title><![CDATA[【退市西水：公司股票将于6月14日被上交所摘牌】退市西水公告，截至6月7日，公司股票已于退市整理期交易满15个交易日，退市整理期已结束。公司股票将于6月14日被上海证券交易所予以摘牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5598278.d.html</link>
+            <guid>2697448</guid>
+            <pubDate>Tue, 07 Jun 2022 11:19:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：06月07日16时23分在新疆巴音郭楞州且末县（北纬38.02度，东经87.26度）发生3.3级地震，震源深度10千米。]]></title>
-            <guid>2697175</guid>
-            <pubDate>Tue, 07 Jun 2022 08:34:47 GMT</pubDate>
+            <title><![CDATA[【马钢股份：拟转让55万吨炼铁产能、购买28万吨炼钢产能】马钢股份公告，公司控股子公司安徽长江钢铁股份有限公司将55万吨炼铁产能转让给公司间接控股股东中国宝武钢铁集团有限公司的附属公司宝钢湛江钢铁有限公司。公司购买公司间接控股股东中国宝武的附属公司宝钢特钢有限公司28万吨炼钢产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7069862.d.html</link>
+            <guid>2697447</guid>
+            <pubDate>Tue, 07 Jun 2022 11:18:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【挚文集团：2022年Q1净营收31.481亿元 启动最高2亿美元股票回购计划】挚文集团公布2022年第一季度未经审计的财务业绩。财报显示，2022年第一季度，挚文集团净营收达31.481亿元（约4.966亿美元）；不按照美国通用会计准则计量，2022年一季度归属于挚文集团的净利润为3.985亿元（约6290万美元）。同日，挚文集团董事会批准了一项新的股票回购计划，基于该计划，公司将在未来24个月回购至多2亿美元的股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5572457.d.html</link>
-            <guid>2697174</guid>
-            <pubDate>Tue, 07 Jun 2022 08:34:05 GMT</pubDate>
+            <title><![CDATA[【退市绿庭：公司A股和B股股票将于6月14日被上交所摘牌】退市绿庭公告，截至2022年6月7日，公司股票已于退市整理期交易满15个交易日，退市整理期已结束。公司A股和B股股票将于6月14日被上海证券交易所予以摘牌。终止上市后公司A股和B股股票将进入全国中小企业股份转让系统挂牌转让。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5597781.d.html</link>
+            <guid>2697446</guid>
+            <pubDate>Tue, 07 Jun 2022 11:14:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特力A今日涨停，成交额18.30亿元，换手率21.25%，盘后龙虎榜数据显示，1家机构专用席位净卖出1240.12万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5572035.d.html</link>
-            <guid>2697170</guid>
-            <pubDate>Tue, 07 Jun 2022 08:31:33 GMT</pubDate>
+            <title><![CDATA[世卫组织发言人哈里斯7日在记者会上表示，世界卫生组织当前无法证实马里乌波尔暴发霍乱。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5597705.d.html</link>
+            <guid>2697444</guid>
+            <pubDate>Tue, 07 Jun 2022 11:13:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【红杉、小米套现九号公司，合计减持已达6.5%】昨日晚间，九号公司公告称，红杉资本和小米集团旗下的创投机构，在过去几个月大手笔合计减持了九号公司近6.5%的股份。九号公司称分别收到存托凭证持有人Sequoia、People Better的告知函。Sequoia合计减持所持有的公司存托凭证2860万份，People Better合计减持所持有的公司存托凭证1727万份，减持比例分别为4.02%和2.43%，减持后分别依然分别持有该公司10.06%和6.71%。Sequoia为红杉美元基金的全资子公司，实际控制人为沈南鹏，People Better间接股东小米集团，实际控制人为雷军。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7042770.d.html</link>
-            <guid>2697169</guid>
-            <pubDate>Tue, 07 Jun 2022 08:31:10 GMT</pubDate>
+            <title><![CDATA[【多氟多：拟公开挂牌转让洛阳蓝宝70%股权】多氟多公告，公司、多氟多集团、创佳福拟向山西佳福合计增资6250万元，其中，公司增资4500万元。本次增资完成后，公司和创佳福对山西佳福持股比例分别为62.07%和17.24%，山西佳福将纳入公司合并报表范围，为公司控股子公司。山西佳福主要从事PVDF的生产及销售。同日公告，为了聚焦新材料产业，公司拟公开挂牌转让公司所持有的洛阳蓝宝70%的股权。洛阳蓝宝主营业务为萤石开采，萤石粉、萤石粉副产品加工销售等。交易对手尚不明确，最终转让价格、支付方式等协议主要内容目前尚无法确定。本次股权转让生效完成后，公司不再持有洛阳蓝宝股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7069360.d.html</link>
+            <guid>2697443</guid>
+            <pubDate>Tue, 07 Jun 2022 11:13:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5月服务业PMI录得53.4，为2021年2月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571843.d.html</link>
-            <guid>2697168</guid>
-            <pubDate>Tue, 07 Jun 2022 08:30:44 GMT</pubDate>
+            <title><![CDATA[土耳其、俄罗斯、乌克兰和联合国代表团本周计划在伊斯坦布尔举行会晤，讨论“粮食问题”。]]></title>
+            <guid>2697442</guid>
+            <pubDate>Tue, 07 Jun 2022 11:11:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元区6月Sentix投资者信心指数 -15.8，预期-20，前值-22.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7042568.d.html</link>
-            <guid>2697167</guid>
-            <pubDate>Tue, 07 Jun 2022 08:30:31 GMT</pubDate>
+            <title><![CDATA[【龙源电力：5月按并表口径完成发电量同比增长5.06%】龙源电力公布2022年5月发电量数据公告，公司2022年5月按合并报表口径完成发电量600.36万兆瓦时，同比增长5.06%。其中，风电发电量增长5.42%，火电发电量降低8.75%，其他可再生能源发电量增长124.5%。截至2022年5月31日，公司2022年累计完成发电量3082.14万兆瓦时，同比增长7.71%。其中，风电发电量增长8.02%，火电发电量降低0.01%，其他可再生能源发电量增长81.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5597487.d.html</link>
+            <guid>2697441</guid>
+            <pubDate>Tue, 07 Jun 2022 11:11:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5月服务业PMI 53.4，预期51.8，前值51.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571735.d.html</link>
-            <guid>2697166</guid>
-            <pubDate>Tue, 07 Jun 2022 08:30:21 GMT</pubDate>
+            <title><![CDATA[【普京：俄罗斯国内的通货膨胀已得到控制】俄罗斯总统普京表示，俄罗斯国内的通货膨胀已得到控制，他责令俄罗斯政府应当帮助经济部门渡过目前的难关。普京表示，俄罗斯5月失业率创历史新低，但是劳动力市场的风险仍旧存在，他责令相关部门进一步提高俄民众收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5596733.d.html</link>
+            <guid>2697437</guid>
+            <pubDate>Tue, 07 Jun 2022 11:07:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据波兰电视台报道，波兰ORLEN公司炼油厂遭到袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571589.d.html</link>
-            <guid>2697165</guid>
-            <pubDate>Tue, 07 Jun 2022 08:29:41 GMT</pubDate>
+            <title><![CDATA[【迈威生物：拟对全资子公司泰康生物增资3.95亿元】迈威生物公告，公司拟使用自有资金向全资子公司泰康生物增资3.95亿元，增资完成后，泰康生物注册资本由8500万元增至4.8亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7068280.d.html</link>
+            <guid>2697436</guid>
+            <pubDate>Tue, 07 Jun 2022 11:06:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白俄罗斯国防部：白俄罗斯武装部队将参加军备演习。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571422.d.html</link>
-            <guid>2697164</guid>
-            <pubDate>Tue, 07 Jun 2022 08:28:44 GMT</pubDate>
+            <title><![CDATA[【三星副会长赴荷兰、德国、法国出差 或为布局芯片业务】三星电子副会长李在镕7日时隔半年出国出差，相继访问荷兰、德国、法国欧洲三国，为期12天。据观测，他此行可能是为了了解驻地业务，并与欧洲芯片设备制造商等战略伙伴会面，讨论加强合作。据悉，三星SDI公司社长崔轮镐与李在镕同乘一架飞机，但不会全程陪同访欧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7068243.d.html</link>
+            <guid>2697435</guid>
+            <pubDate>Tue, 07 Jun 2022 11:06:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部：中方希望相关方相向而行 共同致力于推动半岛问题政治解决进程】外交部发言人赵立坚主持例行记者会。有记者提问昨天（6日）国际原子能机构总干事发表朝鲜准备进行核试验的迹象，对此，赵立坚表示，维护朝鲜半岛的和平稳定，实现半岛无核化，符合有关方面和国际社会的共同利益。中方希望相关方相向而行，共同致力于推动半岛问题政治解决进程。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7042058.d.html</link>
-            <guid>2697162</guid>
-            <pubDate>Tue, 07 Jun 2022 08:27:49 GMT</pubDate>
+            <title><![CDATA[【新希望：5月生猪销售收入环比增长10.1%】新希望公布2022年5月生猪销售情况简报，公司2022年5月销售生猪104.56万头，环比下降7.19%，同比增长50.81%；收入为17.66亿元，环比增长10.1%，同比增长26.5%；商品猪销售均价14.81元/公斤，环比增长16.71%，同比下降19.77%。生猪销售数量同比上升较大的主要原因是产能正常释放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7068162.d.html</link>
+            <guid>2697434</guid>
+            <pubDate>Tue, 07 Jun 2022 11:05:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部回应澳大利亚炒作中国军机“干扰”澳大利亚军机】外交部发言人赵立坚主持例行记者会。有记者提问就澳大利亚炒作中国军机“干扰”澳大利亚军机事件提问。对此，发言人表示，中国军队采取的应对措施，专业安全、合理合法。澳方颠倒黑白，一再散播虚假信息，鼓吹制造对立对抗。中方对此表示坚决反对，正告澳方立即停止类似危险挑衅行径，否则将承担由此引发的一切严重后果。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571254.d.html</link>
-            <guid>2697161</guid>
-            <pubDate>Tue, 07 Jun 2022 08:27:35 GMT</pubDate>
+            <title><![CDATA[瑞典央行：瑞典央行副行长史金斯利将于2022年8月15日辞去瑞典央行第一副行长的职务。 瑞典央行副行长史金斯利将成为国际清算银行创新中心的新负责人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5596315.d.html</link>
+            <guid>2697433</guid>
+            <pubDate>Tue, 07 Jun 2022 11:04:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰国家银行7日发布消息表示，乌克兰私营部门的极大一部分企业无力支付俄罗斯特别军事行动开始前的工资水平，工资降幅为25%-50%。（卫星新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571130.d.html</link>
-            <guid>2697159</guid>
-            <pubDate>Tue, 07 Jun 2022 08:26:52 GMT</pubDate>
+            <title><![CDATA[【墨西哥总统提及“尊重”赣锋锂业采矿许可】周一在墨西哥国家宫举行的新闻发布会上，墨西哥总统安德列斯·曼努埃尔·洛佩斯·奥夫拉多尔（简称AMLO）被问及赣锋锂业墨西哥采矿权的问题，对此总统表示：“如果他们要求开采锂矿且（协议是）合理有序的，同时还会有一个勘探和生产项目，那么这些（权利）都会得到尊重。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7067817.d.html</link>
+            <guid>2697432</guid>
+            <pubDate>Tue, 07 Jun 2022 11:03:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【力拓与德国钢铁巨头共同研究将其铁矿石用于无碳钢生产】据外媒报道，全球矿商力拓周二表示，已与德国钢铁巨头萨尔茨吉特（Salzgitter）合作，将评估力拓在加拿大和澳大利亚矿山的铁矿石球团、块矿和粉矿能否在这家德国钢铁制造商的SALCOS绿色钢铁项目中用于生产无碳钢。据悉，德国Salzgitter正着眼于在SALCOS项目实现几乎无碳的钢铁生产，而全球铁矿石巨头力拓的目标是到2050年实现净零排放。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5571105.d.html</link>
-            <guid>2697158</guid>
-            <pubDate>Tue, 07 Jun 2022 08:26:40 GMT</pubDate>
+            <title><![CDATA[万科企业以每股17.22-17.5元人民币的价格回购576.73万股股份，斥资约1亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7067754.d.html</link>
+            <guid>2697431</guid>
+            <pubDate>Tue, 07 Jun 2022 11:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【董明珠：关于高瓴，是绝对可以放心的】6月7日下午，格力电器召开2021年年度股东大会，格力电器董事长兼总裁董明珠在回答投资者关于格力第一大股东高瓴资本方面的问题时表示，关于高瓴，是绝对可以放心的，投资者不需要有什么疑虑。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7041720.d.html</link>
-            <guid>2697156</guid>
-            <pubDate>Tue, 07 Jun 2022 08:25:47 GMT</pubDate>
+            <title><![CDATA[【原青岛市海洋与渔业局党委书记、局长于成璞接受审查调查】原青岛市海洋与渔业局党委书记、局长于成璞涉嫌严重违纪违法，目前正接受青岛市纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5595867.d.html</link>
+            <guid>2697428</guid>
+            <pubDate>Tue, 07 Jun 2022 11:00:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北京：4月22日至6月7日15时，累计报告1829例感染者，涉及15个区和经开区。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5570164.d.html</link>
-            <guid>2697152</guid>
-            <pubDate>Tue, 07 Jun 2022 08:21:13 GMT</pubDate>
+            <title><![CDATA[巴基斯坦财政部长Miftah Ismail：巴基斯坦将补贴农民，而不是化肥公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7067324.d.html</link>
+            <guid>2697427</guid>
+            <pubDate>Tue, 07 Jun 2022 11:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰农业部：乌克兰2022年5月出口了202650吨葵花籽油，而2021年5月出口了501800吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5570138.d.html</link>
-            <guid>2697151</guid>
-            <pubDate>Tue, 07 Jun 2022 08:21:02 GMT</pubDate>
+            <title><![CDATA[上海警方：男子委托他人代做核酸，两人均被行政处罚。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5595630.d.html</link>
+            <guid>2697425</guid>
+            <pubDate>Tue, 07 Jun 2022 10:58:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙江义乌：晶澳科技年产10GW组件辅材配套项目启动建设】晶澳科技年产10GW组件辅材配套项目今日举行开工仪式。该项目的启动建设，将进一步建强义乌光伏产业链，完善光伏产业生态，助力义乌打造“世界光明之都”。项目预计于2022年12月底投产，达产后年销售收入达30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5570044.d.html</link>
-            <guid>2697150</guid>
-            <pubDate>Tue, 07 Jun 2022 08:20:45 GMT</pubDate>
+            <title><![CDATA[巴基斯坦方面提议在2023财年偿还3.9万亿卢比的债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7067096.d.html</link>
+            <guid>2697424</guid>
+            <pubDate>Tue, 07 Jun 2022 10:57:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[戴维医疗公告，新产品脑电监测仪、亚低温治疗仪获得医疗器械注册证。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5569298.d.html</link>
-            <guid>2697145</guid>
-            <pubDate>Tue, 07 Jun 2022 08:16:21 GMT</pubDate>
+            <title><![CDATA[【韩国驻美大使本周将赴任，被提名后时隔两周得到美方正式同意】韩联社6月7日报道，据韩国政府消息人士7日消息，日前获得驻美国大使提名的国民力量党籍议员赵太庸上周得到美国政府的正式同意，将于本周末启程赴美国。这是赵太庸上月17日被提名为韩国驻美大使后，时隔两周得到美方正式同意。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5595510.d.html</link>
+            <guid>2697423</guid>
+            <pubDate>Tue, 07 Jun 2022 10:57:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[柯尔百货美股盘前涨近16%，或获Franchise Group以每股60美元的价格溢价收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7040051.d.html</link>
-            <guid>2697144</guid>
-            <pubDate>Tue, 07 Jun 2022 08:16:08 GMT</pubDate>
+            <title><![CDATA[德国联邦网络局：截至6月7日，天然气储存水平为50.8％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5595496.d.html</link>
+            <guid>2697422</guid>
+            <pubDate>Tue, 07 Jun 2022 10:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[外汇局：2022年5月，我国外汇市场运行总体平稳，境内外汇供求保持基本平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7038946.d.html</link>
-            <guid>2697133</guid>
-            <pubDate>Tue, 07 Jun 2022 08:09:48 GMT</pubDate>
+            <title><![CDATA[挪威安全工会表示，其成员的任何罢工一开始都不会影响天然气产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7067033.d.html</link>
+            <guid>2697421</guid>
+            <pubDate>Tue, 07 Jun 2022 10:56:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联想中国：2021/22财年营收增长28% 3S业务占比超过25%】联想集团执行副总裁兼中国区总裁刘军在内部邮件中披露了联想中国区的业绩信息：2021/22财年营收增长28%，3S业务（智能设备、基础设施和方案服务）营收占比超25%，其中方案服务业务全财年实现100亿人民币的Booking收入，年比年提升42%；智能设备业务营收年比年提升80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7038856.d.html</link>
-            <guid>2697132</guid>
-            <pubDate>Tue, 07 Jun 2022 08:09:13 GMT</pubDate>
+            <title><![CDATA[【伊戈尔：拟通过受让及增资合计获得安和威16.04%股份】伊戈尔公告，公司拟以自有资金7780.94万元通过受让部分股份及增资的方式合计获得安和威16.0443%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7066895.d.html</link>
+            <guid>2697420</guid>
+            <pubDate>Tue, 07 Jun 2022 10:55:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家发展改革委高技术司、国家能源局科技司组织召开加氢站建设管理运营专题座谈会】国家能源局消息，为贯彻落实《氢能产业发展中长期规划（2021-2035年）》，日前，国家发展改革委高技术司、国家能源局科技司组织召开推进氢能产业高质量发展系列座谈会第一场“加氢站建设管理运营专题座谈会”，住房和城乡建设部、商务部、应急管理部有关司局，北京市城市管理委员会、佛山市发展和改革局，中国石油化工集团有限公司、国家电力投资集团有限公司、国家能源投资集团有限公司、中国国际工程咨询有限公司、上海舜华新能源系统有限公司、江苏国富氢能技术装备有限公司有关负责同志参会。会议重点研究了加氢站建设审批、运营管理、安全监管相关政策，以及标准规范制定、核心技术装备创新等情况，并对推动加氢站规范有序建设提出意见建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5567818.d.html</link>
-            <guid>2697131</guid>
-            <pubDate>Tue, 07 Jun 2022 08:07:44 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统普京：新的预算规则应在7月底前推出。新的财政规则需要“灵活”的方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7066812.d.html</link>
+            <guid>2697419</guid>
+            <pubDate>Tue, 07 Jun 2022 10:54:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【正虹科技：5月生猪销售收入环比增长18.69%】正虹科技公告，5月销售生猪1.97万头，环比减少3.85%，同比增长133.33%；销售收入3323.89万元，环比增长18.69%，同比增长94.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5567329.d.html</link>
-            <guid>2697130</guid>
-            <pubDate>Tue, 07 Jun 2022 08:05:17 GMT</pubDate>
+            <title><![CDATA[普联软件公告，杭州金灿及其一致行动人杭州金道拟合计减持不超过2%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5595080.d.html</link>
+            <guid>2697418</guid>
+            <pubDate>Tue, 07 Jun 2022 10:52:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中鼎股份：子公司获得空气悬挂系统产品项目定点书】中鼎股份公告，子公司近期收到客户通知，公司成为国内某自主品牌头部主机厂(限于保密协议，无法披露其名称)新平台项目空气悬挂系统的空气供给单元总成产品的批量供应商。本次项目生命周期为5年，生命周期总金额约为4.9亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7037794.d.html</link>
-            <guid>2697129</guid>
-            <pubDate>Tue, 07 Jun 2022 08:03:37 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统普京：外汇市场稳定，卢布走强允许放松资本管制。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7066473.d.html</link>
+            <guid>2697417</guid>
+            <pubDate>Tue, 07 Jun 2022 10:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯公布2022年海军节阅兵安排】俄罗斯国防部部长绍伊古宣布，将有47艘各型舰船以及潜艇参加今年7月31日在圣彼得堡举行的海军节阅兵。此外，俄罗斯所有舰队的驻地以及地中海的塔尔图斯港都将举行庆祝仪式，总共将有多达200艘不同级别的军舰、大约80架飞机、100多件装备和15000名人员参与活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7066412.d.html</link>
+            <guid>2697416</guid>
+            <pubDate>Tue, 07 Jun 2022 10:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：炼钢业存在严重风险。农业、建筑业呈现积极态势。俄罗斯通胀仍在控制之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7066376.d.html</link>
+            <guid>2697415</guid>
+            <pubDate>Tue, 07 Jun 2022 10:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京：汽车行业和炼油业出现明显收缩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5594419.d.html</link>
+            <guid>2697413</guid>
+            <pubDate>Tue, 07 Jun 2022 10:47:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[因制裁限制了俄罗斯钻石供应，戴比尔斯本周提高了小钻石的售价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5594408.d.html</link>
+            <guid>2697412</guid>
+            <pubDate>Tue, 07 Jun 2022 10:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【内蒙古呼和浩特市首套房贷利率下调 二套房贷首付比例降至30%】6月7日，内蒙古自治区呼和浩特市住房和城乡建设局发布消息，对差别化住房信贷政策进行调整，首套房个人中长期住房贷款最低利率水平为4.25%，为近年来内蒙古个人住房贷款利率最低水平。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7065922.d.html</link>
+            <guid>2697411</guid>
+            <pubDate>Tue, 07 Jun 2022 10:47:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国家石油天然气公司董事会主席维特连科表示，乌正在与美国讨论购买液化天然气的可能性，以代替（由俄罗斯供应）经管道运输的天然气。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5594113.d.html</link>
+            <guid>2697409</guid>
+            <pubDate>Tue, 07 Jun 2022 10:45:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【平煤股份：拟发行不超过33亿元可转债】平煤股份公告，拟发行不超过33亿元可转债，募资用于煤矿智能化建设改造项目及偿还金融机构借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7065664.d.html</link>
+            <guid>2697408</guid>
+            <pubDate>Tue, 07 Jun 2022 10:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥雅设计：拟受让绽放科技29%股权】奥雅设计公告，公司以现金0元为对价受让绽放文创持有的绽放科技29%股权，交易完成后，公司将持有绽放科技80%股权，绽放文创持有绽放科技20%股权，公司仍为绽放科技的控股股东。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5594021.d.html</link>
+            <guid>2697407</guid>
+            <pubDate>Tue, 07 Jun 2022 10:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【越南卫生部部长阮青龙被革职】越南国会6月7日发布消息称，越南国会批准对于越南卫生部部长阮青龙革职决议。在479名国会代表中有473名代表同意撤销阮青龙国民议会代表资格，471名代表同意批准解除阮青龙越南卫生部部长的职务。据越南国会方面表示，阮青龙在任职期间在管理上缺乏责任感、纪律松散以及在发行生物制品和医疗设备相关工作中存在违反防疫规定等问题。6月6日，阮青龙已被越共中央开除党籍。（央视新闻）]]></title>
+            <guid>2697406</guid>
+            <pubDate>Tue, 07 Jun 2022 10:42:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据国际文传电讯社：俄罗斯国防部长绍伊古表示，别尔江斯克和马里乌波尔港口准备好运送粮食。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5593749.d.html</link>
+            <guid>2697405</guid>
+            <pubDate>Tue, 07 Jun 2022 10:41:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：制裁会让俄罗斯经济倒退几十年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7065133.d.html</link>
+            <guid>2697404</guid>
+            <pubDate>Tue, 07 Jun 2022 10:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港拟今年完成立法禁制售大麻二酚产品】据香港文汇网报道，香港禁毒专员李基舜今(7日)在立法会保安事务委员会表示，特区政府计划今年完成立法，禁止制造、售卖、管有“大麻二酚”CBD产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5593474.d.html</link>
+            <guid>2697403</guid>
+            <pubDate>Tue, 07 Jun 2022 10:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国总理朔尔茨：由于制裁，俄罗斯将无法保留其军事能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7064859.d.html</link>
+            <guid>2697402</guid>
+            <pubDate>Tue, 07 Jun 2022 10:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万胜智能：预中标3832.47万元重大经营合同】万胜智能公告，中国南方电网有限责任公司于2022年6月7日在中国南方电网供应链统一服务平台公告了“南方电网公司2022年计量产品第一批框架招标项目结果公示”。公司为上述项目的中标候选人之一，预计中标总金额约为3832.47万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7064830.d.html</link>
+            <guid>2697401</guid>
+            <pubDate>Tue, 07 Jun 2022 10:38:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄防长称2月24日以来共有6489名乌军士兵投降】综合俄罗斯《共青团真理报》、俄新社等媒体最新报道，俄罗斯防长绍伊古7日称，自俄军2月24日在乌克兰发起特别军事行动以来，共有6489名乌军士兵投降。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7064779.d.html</link>
+            <guid>2697400</guid>
+            <pubDate>Tue, 07 Jun 2022 10:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方时尚：拟采购VR汽车驾驶模拟器设备及相关技术服务】东方时尚公告，公司及全资子公司东方时尚虚拟现实技术应用（北京）有限公司在驾驶培训行业推广智能驾培体系，拟向北京千种幻影科技有限公司采购VR汽车驾驶模拟器设备以及设备相关专业技术服务，交易金额不超过1.5亿元，由民生租赁提供融资租赁服务，千种幻影为公司及子公司提供不高于1.5亿元的连带责任担保。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizmscu5593151.d.html</link>
+            <guid>2697399</guid>
+            <pubDate>Tue, 07 Jun 2022 10:37:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中望软件：梦泽投资等若干股东拟询价转让6.31%股份】中望软件(公告，股东厦门梦泽投资咨询合伙企业(有限合伙)、厦门森希投资合伙企业(有限合伙)、厦门硕裕投资合伙企业(有限合伙)、厦门雷骏投资合伙企业(有限合伙)、深圳市达晨晨鹰三号股权投资企业(有限合伙)、深圳市达晨创通股权投资企业(有限合伙)拟询价转让546.67万股，占公司总股本的比例为6.31%。此次询价转让价格下限为166.23元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-07/detail-imizirau7064563.d.html</link>
+            <guid>2697398</guid>
+            <pubDate>Tue, 07 Jun 2022 10:36:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
