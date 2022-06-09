@@ -4,11 +4,341 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 09 Jun 2022 18:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 21:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：06月10日04时54分在四川阿坝州红原县附近（北纬32.33度，东经101.88度）发生4.2级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2700772</guid>
+            <pubDate>Thu, 09 Jun 2022 20:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：不建议大多数退休者使用加密货币作为储蓄。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6021282.d.html</link>
+            <guid>2700770</guid>
+            <pubDate>Thu, 09 Jun 2022 20:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：削减赤字可以作为美联储对抗通胀的一种补充方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7522009.d.html</link>
+            <guid>2700766</guid>
+            <pubDate>Thu, 09 Jun 2022 20:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月10日04时35分在四川阿坝州马尔康市（北纬32.28度，东经101.82度）发生3.0级地震，震源深度19千米。]]></title>
+            <guid>2700765</guid>
+            <pubDate>Thu, 09 Jun 2022 20:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：增加劳动力供应将是消除美国经济紧缩的一种方法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6020198.d.html</link>
+            <guid>2700764</guid>
+            <pubDate>Thu, 09 Jun 2022 20:41:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：06月10日04时37分在四川阿坝州马尔康市附近（北纬32.28度，东经101.88度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2700763</guid>
+            <pubDate>Thu, 09 Jun 2022 20:41:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：许多行业的价格成本利润率都在上升，但不认为这是导致通胀的原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6020113.d.html</link>
+            <guid>2700762</guid>
+            <pubDate>Thu, 09 Jun 2022 20:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：需求和供应在很大程度上推动了通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6020049.d.html</link>
+            <guid>2700761</guid>
+            <pubDate>Thu, 09 Jun 2022 20:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金融博客零对冲：耶伦说，需要建立大型联盟对俄罗斯施加（能源）价格限制。所以，耶伦计划通过进一步减少石油供应和推高大宗商品价格来对抗通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7521506.d.html</link>
+            <guid>2700760</guid>
+            <pubDate>Thu, 09 Jun 2022 20:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：相当多的国家将不得不支持任何建立卡特尔（垄断利益集团）以限制俄罗斯油价的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6020026.d.html</link>
+            <guid>2700759</guid>
+            <pubDate>Thu, 09 Jun 2022 20:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：06月10日04时35分在四川阿坝州马尔康市附近（北纬32.20度，东经101.88度）发生3.1级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2700758</guid>
+            <pubDate>Thu, 09 Jun 2022 20:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据当地媒体援引警方声明称，初步报告显示，有三人在美国马里兰州史密斯堡的枪击事件中丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7521090.d.html</link>
+            <guid>2700756</guid>
+            <pubDate>Thu, 09 Jun 2022 20:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：将气候变化视为生存威胁，我们需要从中期的角度来应对这一威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019643.d.html</link>
+            <guid>2700755</guid>
+            <pubDate>Thu, 09 Jun 2022 20:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：仍有大量的缓冲储蓄。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019577.d.html</link>
+            <guid>2700754</guid>
+            <pubDate>Thu, 09 Jun 2022 20:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：认为将有一条途径可以实现软着陆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019239.d.html</link>
+            <guid>2700752</guid>
+            <pubDate>Thu, 09 Jun 2022 20:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：没有任何迹象表明经济正在衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7520268.d.html</link>
+            <guid>2700751</guid>
+            <pubDate>Thu, 09 Jun 2022 20:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：不想看到劳动力市场进一步收紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019119.d.html</link>
+            <guid>2700749</guid>
+            <pubDate>Thu, 09 Jun 2022 20:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：预计增长将放缓，但消费者支出非常强劲，投资支出稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019113.d.html</link>
+            <guid>2700748</guid>
+            <pubDate>Thu, 09 Jun 2022 20:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国财长耶伦：我认为我们不会陷入衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6019108.d.html</link>
+            <guid>2700747</guid>
+            <pubDate>Thu, 09 Jun 2022 20:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国总统拜登与加拿大总理特鲁多讨论了关键矿物和供应链问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7520169.d.html</link>
+            <guid>2700746</guid>
+            <pubDate>Thu, 09 Jun 2022 20:27:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：法拉第未来收到美国司法部对信息披露的初步要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7519870.d.html</link>
+            <guid>2700744</guid>
+            <pubDate>Thu, 09 Jun 2022 20:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：家庭对就业增长的悲观程度令人惊讶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6018825.d.html</link>
+            <guid>2700742</guid>
+            <pubDate>Thu, 09 Jun 2022 20:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：历史告诉我们，通胀与失业率之间的联系很低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6018778.d.html</link>
+            <guid>2700741</guid>
+            <pubDate>Thu, 09 Jun 2022 20:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：俄不会对西方的网络攻击行为置之不理】俄罗斯外交部国际信息安全司司长克鲁茨基赫9日说，俄方不会对西方针对俄的网络攻击行为置之不理。克鲁茨基赫表示，西方将信息空间军事化，并试图将信息空间变成国家间对抗的舞台，这些都加大了直接军事对抗的风险，并带来不可预测的后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7518802.d.html</link>
+            <guid>2700739</guid>
+            <pubDate>Thu, 09 Jun 2022 20:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京说俄罗斯经济不会自我封闭】俄罗斯总统普京9日说，俄不会在经济上自我封闭，不会给自身设置障碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7518729.d.html</link>
+            <guid>2700738</guid>
+            <pubDate>Thu, 09 Jun 2022 20:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【股市收盘】道琼斯指数6月9日（周四）收盘下跌639.10点，跌幅1.94%，报32271.80点；标普500指数6月9日（周四）收盘下跌97.95点，跌幅2.38%，报4017.82点；纳斯达克综合指数6月9日（周四）收盘下跌332.05点，跌幅2.75%，报11754.23点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6017566.d.html</link>
+            <guid>2700736</guid>
+            <pubDate>Thu, 09 Jun 2022 20:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  AMD CEO称，预计公司3-4年内的长期营收增长率达20%，支出增长将落后于营收增长率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6017560.d.html</link>
+            <guid>2700735</guid>
+            <pubDate>Thu, 09 Jun 2022 20:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DocuSign(DOCU.O)2023财年Q1营收（亿美元）：前值4.69，预期5.82，公布5.89。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7518026.d.html</link>
+            <guid>2700734</guid>
+            <pubDate>Thu, 09 Jun 2022 20:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将巴西2022年CPI预期从9.8%下调至7.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6017216.d.html</link>
+            <guid>2700733</guid>
+            <pubDate>Thu, 09 Jun 2022 20:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺瓦瓦克斯收跌17％，收盘价创逾两年新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7517605.d.html</link>
+            <guid>2700732</guid>
+            <pubDate>Thu, 09 Jun 2022 20:04:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[莫德纳收跌9%，创下2月14日以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6017010.d.html</link>
+            <guid>2700731</guid>
+            <pubDate>Thu, 09 Jun 2022 20:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：预计今年个人电脑市场将“下滑”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6016404.d.html</link>
+            <guid>2700726</guid>
+            <pubDate>Thu, 09 Jun 2022 19:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据当地媒体报道，9日晚，位于伊拉克北部摩苏尔的土耳其基地附近遭遇火箭弹袭击，目前没有人员伤亡的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6016139.d.html</link>
+            <guid>2700725</guid>
+            <pubDate>Thu, 09 Jun 2022 19:51:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其财政部：国内债务工具在息票支付方面有最低收益保证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6015985.d.html</link>
+            <guid>2700724</guid>
+            <pubDate>Thu, 09 Jun 2022 19:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其财政部：国内债务工具将面向个人投资者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7515963.d.html</link>
+            <guid>2700723</guid>
+            <pubDate>Thu, 09 Jun 2022 19:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普500指数跌超2%，创5月24日以来盘中最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7515869.d.html</link>
+            <guid>2700721</guid>
+            <pubDate>Thu, 09 Jun 2022 19:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：06月10日03时27分在四川阿坝州马尔康市附近（北纬32.27度，东经101.89度）发生5.1级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2700716</guid>
+            <pubDate>Thu, 09 Jun 2022 19:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地集中开工一批重大项目 专家称扩大有效投资重在精准】在“尽快形成实物工作量”的目标下，近期，又有一批重大项目在各地集中启动。北京师范大学政府管理研究院副院长宋向清表示，重大项目具有资本集中、人才集聚、技术集约等特点，不仅是投资增长的直接拉动者，对社会就业、经济增长、税收增加和创新驱动等方面的综合带动作用较为明显，是稳投资促增长的“牵引机”，也是宏观经济发展的“强心剂”。扩大有效投资的及时性重在深入了解属地产业链供应链的薄弱环节，做到及时发现问题，及时调整政策，及时补足资本。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6014541.d.html</link>
+            <guid>2700715</guid>
+            <pubDate>Thu, 09 Jun 2022 19:31:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其外长同联合国秘书长通电话】当地时间6月9日，土耳其外长恰武什奥卢同联合国秘书长古特雷斯通电话，双方就乌克兰粮食运输问题、乌克兰局势和向叙利亚提供人道主义援助等交换意见。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6014030.d.html</link>
+            <guid>2700713</guid>
+            <pubDate>Thu, 09 Jun 2022 19:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超越故宫，成都武侯祠位居2021年全国博物馆参观量第一】近日，在国家文物局公布的2021年全国博物馆年度数据中，成都武侯祠博物馆（含文物区、西区及锦里）位居2021年全国博物馆参观量第一名，达870多万人次。故宫博物院排名第二，为587万人次。（成都发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7511449.d.html</link>
+            <guid>2700709</guid>
+            <pubDate>Thu, 09 Jun 2022 19:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌1.22%，报21525点，低水344点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7510661.d.html</link>
+            <guid>2700705</guid>
+            <pubDate>Thu, 09 Jun 2022 19:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【道富集团称并未在寻求与瑞信达成任何协议】道富集团表示，并未在寻求收购瑞信集团或是与其业务合并。此前一天，一个瑞士博客称道富可能会出价收购瑞信。“市场中的这个传言并无依据，”总部位于波士顿的道富周四在电邮声明中表示。“尽管公司长期以来秉承对此类猜测不予置评的政策，但在目前这种情况下，我们认为有必要对这些报道予以回应。”瑞士博客Inside Paradeplatz周三的报道，以及道富随后的声明没有就潜在的收购传闻做出直接回应，令道富股价大跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7510186.d.html</link>
+            <guid>2700703</guid>
+            <pubDate>Thu, 09 Jun 2022 18:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开发治疗花生过敏产品的生物制药公司DBV日内暴涨超80%】生物制药公司DBV Technologies（DBVT）日内一度涨超86%，现涨超65%，振幅达81%。此前，该公司宣布，其治疗花生过敏的皮肤贴片Viaskin Peanut(DBV712)在1至3岁花生过敏幼儿身上进行的后期试验达到了主要终点。据悉该产品是一种非侵入性、每日一次的皮肤贴片，能够使人体免疫系统逐步对花生产生耐受性。该制药公司还表示将通过私募筹资1.94亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7509923.d.html</link>
+            <guid>2700702</guid>
+            <pubDate>Thu, 09 Jun 2022 18:54:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国气候特使克里：将于下周访问墨西哥，会见墨西哥总统洛佩斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6011338.d.html</link>
+            <guid>2700701</guid>
+            <pubDate>Thu, 09 Jun 2022 18:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果准备生产基于新款M2芯片的更大尺寸MacBook Air】知情人士称，苹果计划明年扩大使用其速度更快的新型内部芯片的笔记本电脑阵容，以期获得更大的市场份额。据悉，苹果正在研发一款15英寸的MacBook Air，最早将于明年春天发布。这将是MacBook Air14年来历史上的首款这种尺寸的机型。苹果还正在研发12英寸款笔记本电脑，预计于2023年底或2024年初推出。另外，据悉苹果计划最早于2022年底推出搭载M2 Pro和M2 Max芯片的新款高端MacBook Pro，不过发布日期可能会推迟到2023年初。苹果还将于下月发布一款新的搭载M2芯片的13英寸MacBook Pro。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6010692.d.html</link>
+            <guid>2700699</guid>
+            <pubDate>Thu, 09 Jun 2022 18:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩真主党领袖纳斯鲁拉：从卡里什气田开采天然气的公司是“这次对黎巴嫩发动袭击的合作伙伴，这将对该公司及其政府造成后果。”]]></title>
+            <guid>2700696</guid>
+            <pubDate>Thu, 09 Jun 2022 18:31:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西经济部长盖德斯：巴西需要遏制高油价、降低通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7507253.d.html</link>
+            <guid>2700694</guid>
+            <pubDate>Thu, 09 Jun 2022 18:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国不打算与俄罗斯再次举行战略稳定对话，呼吁俄罗斯选择外交途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6009645.d.html</link>
+            <guid>2700693</guid>
+            <pubDate>Thu, 09 Jun 2022 18:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Lummis：希望参议院今年举行加密法案听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7506927.d.html</link>
+            <guid>2700692</guid>
+            <pubDate>Thu, 09 Jun 2022 18:26:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Gillibrand：我已经和美国证交会主席根斯勒就加密法案进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7506872.d.html</link>
+            <guid>2700691</guid>
+            <pubDate>Thu, 09 Jun 2022 18:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黎巴嫩真主党领袖纳斯鲁拉：以色列必须停止从卡里什油田进行任何开采行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6009271.d.html</link>
+            <guid>2700689</guid>
+            <pubDate>Thu, 09 Jun 2022 18:25:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Gillibrand：加密法案旨在保障市场安全、稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6009203.d.html</link>
+            <guid>2700687</guid>
+            <pubDate>Thu, 09 Jun 2022 18:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Gillibrand：大多数的加密货币可能属于美国证交会的监管范围。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7506610.d.html</link>
+            <guid>2700686</guid>
+            <pubDate>Thu, 09 Jun 2022 18:23:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员Gillibrand：加密法案的目标是进行适当的监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6009008.d.html</link>
+            <guid>2700684</guid>
+            <pubDate>Thu, 09 Jun 2022 18:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国总统拜登提名菲尔·华盛顿为美国联邦航空管理局（FAA）局长。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6008796.d.html</link>
+            <guid>2700682</guid>
+            <pubDate>Thu, 09 Jun 2022 18:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约方面表示，有10人疑似感染猴痘。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6008066.d.html</link>
+            <guid>2700679</guid>
+            <pubDate>Thu, 09 Jun 2022 18:08:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【多地集中开工一批重大项目，专家称扩大有效投资重在精准】在“尽快形成实物工作量”的目标下，近期，又有一批重大项目在各地集中启动。北京师范大学政府管理研究院副院长宋向清表示，重大项目具有资本集中、人才集聚、技术集约等特点，不仅是投资增长的直接拉动者，对社会就业、经济增长、税收增加和创新驱动等方面的综合带动作用较为明显，是稳投资促增长的“牵引机”，也是宏观经济发展的“强心剂”。扩大有效投资的及时性重在深入了解属地产业链供应链的薄弱环节，做到及时发现问题，及时调整政策，及时补足资本。（证券日报）]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6007621.d.html</link>
@@ -38,333 +368,6 @@
             <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6006608.d.html</link>
             <guid>2700674</guid>
             <pubDate>Thu, 09 Jun 2022 17:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体获得的国际原子能机构（IAEA）报告显示，伊朗的决定可能对国际原子能机构保证伊朗核计划的和平性质的能力产生不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6006271.d.html</link>
-            <guid>2700672</guid>
-            <pubDate>Thu, 09 Jun 2022 17:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体获得的国际原子能机构（IAEA）报告显示，国际原子能机构总干事格罗西对这一行动的后果感到严重关切。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7502642.d.html</link>
-            <guid>2700671</guid>
-            <pubDate>Thu, 09 Jun 2022 17:47:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体获得的国际原子能机构（IAEA）报告显示，核查人员星期四从德黑兰研究中心和伊斯法罕的两个离心机部件车间拆除了国际原子能机构的摄像头。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6006007.d.html</link>
-            <guid>2700669</guid>
-            <pubDate>Thu, 09 Jun 2022 17:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体获得的国际原子能机构（IAEA）报告显示，伊朗拆除监测设备的决定也适用于纳坦兹的在线浓缩测量装置和重水生产厂的流量计。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6005903.d.html</link>
-            <guid>2700667</guid>
-            <pubDate>Thu, 09 Jun 2022 17:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道富银行：本公司不追求与瑞士信贷达成任何收购协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7499792.d.html</link>
-            <guid>2700661</guid>
-            <pubDate>Thu, 09 Jun 2022 17:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗总统莱希：伊朗不会从自己的立场上后退一步】当地时间9日，伊朗总统莱希在参加活动时指出，某些国家运用其政治影响力，在国际组织发表了一些针对伊朗的声明和决议。他谴责道，不论相关国家要试探伊朗多少次，伊朗都不会因为某些决议而从自己的立场上后退一步。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6003731.d.html</link>
-            <guid>2700658</guid>
-            <pubDate>Thu, 09 Jun 2022 17:15:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱立信：美国证交会对2019年伊拉克报告展开了调查；公司将完全配合证交会的调查工作。]]></title>
-            <guid>2700657</guid>
-            <pubDate>Thu, 09 Jun 2022 17:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国家航空航天局建立独立调查小组以研究不明飞行物】美国国家航空航天局（NASA）表示，正在建立一个独立的调查小组来研究不明飞行物。根据航天局新闻稿，研究人员的任务包括 “确定现有数据，研究如何更好地收集未来数据，以及如何利用这些数据来推动对不明飞行物的科学理解”。该项研究将于秋季开始，需要约9个月的时间完成，研究人员计划在一份公开报告中发布他们的发现。该新闻稿还指出，“没有证据表明不明飞行物源自外星”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6003555.d.html</link>
-            <guid>2700656</guid>
-            <pubDate>Thu, 09 Jun 2022 17:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债拍卖后收益率小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6003305.d.html</link>
-            <guid>2700655</guid>
-            <pubDate>Thu, 09 Jun 2022 17:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖190亿美元30年期国债，得标利率3.185%，投标倍数2.35。（预发行交易利率为3.200%，上月投标倍数2.38。）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6003278.d.html</link>
-            <guid>2700654</guid>
-            <pubDate>Thu, 09 Jun 2022 17:09:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：法拉利计划在意大利扩建电动汽车工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7497669.d.html</link>
-            <guid>2700652</guid>
-            <pubDate>Thu, 09 Jun 2022 17:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大公共部门养老金投资机构：如果没有过渡计划，我们的碳密集型资产将减少50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7497591.d.html</link>
-            <guid>2700651</guid>
-            <pubDate>Thu, 09 Jun 2022 17:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大公共部门养老金投资机构：到2026年，绿色资产投资将从403亿加元增加到700亿加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6002313.d.html</link>
-            <guid>2700650</guid>
-            <pubDate>Thu, 09 Jun 2022 17:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大公共部门养老金投资机构：到2026年，将把温室气体资产的敞口减少25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7497432.d.html</link>
-            <guid>2700649</guid>
-            <pubDate>Thu, 09 Jun 2022 16:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：Meta Platforms在虚拟现实实验室调整之际缩减AR眼镜计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7497123.d.html</link>
-            <guid>2700648</guid>
-            <pubDate>Thu, 09 Jun 2022 16:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计欧洲央行12月加息速度将放缓至25个基点，直至明年6月最终利率达到1.75%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7496688.d.html</link>
-            <guid>2700646</guid>
-            <pubDate>Thu, 09 Jun 2022 16:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦能源部部长博拉特∙阿克丘拉科夫表示，哈萨克斯坦第一座核电站的建设地点确定在该国阿拉木图州巴尔喀什湖沿岸。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7496596.d.html</link>
-            <guid>2700645</guid>
-            <pubDate>Thu, 09 Jun 2022 16:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知情人士：欧盟委员会将建议给予乌克兰欧盟候选成员国地位】据知情人士透露，欧盟委员会预计将于下周建议，给予乌克兰欧盟候选成员国地位，这是成为欧盟正式成员国漫长征程中的关键一步。知情人士称，该建议附带与法制和反腐立法有关的条件，需要接受辩论，并得到欧盟专员的通过。欧盟领导人将于6月23-24日在布鲁塞尔商讨此事，有几个国家表示反对此举，称不应当给予乌克兰优先于现有申请国的待遇。加入欧盟的程序包括大量步骤和条件，通常会持续超过10年。知情人士称，欧盟委员会预计将于6月17日给出相关意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6001547.d.html</link>
-            <guid>2700644</guid>
-            <pubDate>Thu, 09 Jun 2022 16:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Franchise集团获得来自阿波罗全球管理公司的20亿美元贷款以收购柯尔百货。柯尔百货（KSS）迅速翻红并直线拉升近3%，现涨超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7496272.d.html</link>
-            <guid>2700643</guid>
-            <pubDate>Thu, 09 Jun 2022 16:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网速报：此次地震有感范围广，据网友反馈，地震造成震中当地震感强烈，阿坝州、甘孜州、绵阳市、雅安市、眉山市、乐山市、成都市等地震感明显，震中附近有灯具晃动、家具位移等情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6001295.d.html</link>
-            <guid>2700642</guid>
-            <pubDate>Thu, 09 Jun 2022 16:47:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国证交会正在调查稳定币UST崩盘对Terraform所构成的新威胁】据知情人士透露，美国证交会正在调查稳定币TerraUSD（UST）在上月崩盘前的营销活动是否违反了美国联邦投资者保护规定。知情人士称，美国证交会执法部门的律师们正在研究发行稳定币UST的发行机构Terraform Labs，以确认该公司是否违反证券和投资相关的监管规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6000880.d.html</link>
-            <guid>2700641</guid>
-            <pubDate>Thu, 09 Jun 2022 16:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[媒体消息：德国司法部的否决了风能相关法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu6000571.d.html</link>
-            <guid>2700640</guid>
-            <pubDate>Thu, 09 Jun 2022 16:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国安联首席经济顾问埃里安警告称：虽然早在约一年前就确切地预料到美国高水平的通胀问题将持续存在，但时至今日，通胀仍未见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7494279.d.html</link>
-            <guid>2700638</guid>
-            <pubDate>Thu, 09 Jun 2022 16:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网速报：四川马尔康5.8级地震震中附近人口不是特别密集，震中距最近的草登乡约6公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7494108.d.html</link>
-            <guid>2700637</guid>
-            <pubDate>Thu, 09 Jun 2022 16:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【热门中概股扩大跌幅，好未来重挫17%】好未来跌17%，BOSS直聘、哔哩哔哩、新东方跌幅均在10%以上，拼多多、爱奇艺跌超9%，贝壳、蔚来、京东跌7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7493617.d.html</link>
-            <guid>2700635</guid>
-            <pubDate>Thu, 09 Jun 2022 16:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其财政部：土耳其是一个自由市场经济体，外汇制度是自由的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5999249.d.html</link>
-            <guid>2700633</guid>
-            <pubDate>Thu, 09 Jun 2022 16:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：06月10日00时19分在四川阿坝州马尔康市附近发生3.6级左右地震，最终结果以正式速报为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7493139.d.html</link>
-            <guid>2700632</guid>
-            <pubDate>Thu, 09 Jun 2022 16:22:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛：预计欧洲央行将在9月份和10月份分别加息50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7492994.d.html</link>
-            <guid>2700631</guid>
-            <pubDate>Thu, 09 Jun 2022 16:21:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其财政部长：将于今日晚些时候宣布新的经济措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7492719.d.html</link>
-            <guid>2700629</guid>
-            <pubDate>Thu, 09 Jun 2022 16:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：预计乌克兰战争将造成原油供应紧俏问题持续数年之久。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7492548.d.html</link>
-            <guid>2700628</guid>
-            <pubDate>Thu, 09 Jun 2022 16:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果计划在2023年发布更大尺寸的、15英寸的Macbook Air。]]></title>
-            <guid>2700626</guid>
-            <pubDate>Thu, 09 Jun 2022 16:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约市市长：从6月13日起，2-4岁儿童可选择是否佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5998225.d.html</link>
-            <guid>2700623</guid>
-            <pubDate>Thu, 09 Jun 2022 16:10:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：苹果正在扩大笔记本电脑阵容，以使用新的M2芯片。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5998192.d.html</link>
-            <guid>2700622</guid>
-            <pubDate>Thu, 09 Jun 2022 16:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：苹果将在2023年底或2024年初推出12英寸的笔记本电脑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7491673.d.html</link>
-            <guid>2700621</guid>
-            <pubDate>Thu, 09 Jun 2022 16:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  苹果计划在2023年发布更大尺寸的、15英寸的Macbook Air。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7491646.d.html</link>
-            <guid>2700620</guid>
-            <pubDate>Thu, 09 Jun 2022 16:09:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储：州和地方政府债务在第一季度年化萎缩3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5997812.d.html</link>
-            <guid>2700619</guid>
-            <pubDate>Thu, 09 Jun 2022 16:06:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储：第一季度非金融企业债务年化率上升8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7491082.d.html</link>
-            <guid>2700616</guid>
-            <pubDate>Thu, 09 Jun 2022 16:04:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储：第一季度家庭债务年化率增长8.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5997649.d.html</link>
-            <guid>2700615</guid>
-            <pubDate>Thu, 09 Jun 2022 16:04:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前美联储副主席：需要在接下来三或四次会议上每次加息50个基点】美联储前副主席Alan Blinder表示，美联储可能需要在接下来三到四次会议上每次加息50个基点，并有可能必须忍受经济衰退，才能将通胀率拉回到2%的目标。20世纪90年代在艾伦·格林斯潘领导之下担任美联储副主席的Blinder表示，“如果情况大体与当前我们的预期相符，那么我认为，他们需要不止”在6月和7月加息50个基点两次，可能（需要）加息50个基点三或四次。”预计2023年有可能出现经济衰退，发生衰退的可能性“略高于”50%。美联储要“相当、相当幸运”才能避免国内生产总值萎缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizirau7490924.d.html</link>
-            <guid>2700613</guid>
-            <pubDate>Thu, 09 Jun 2022 16:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美联储：2022年第一季度，美国家庭净值降至149.3万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-10/detail-imizmscu5997551.d.html</link>
-            <guid>2700612</guid>
-            <pubDate>Thu, 09 Jun 2022 16:03:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超大型油轮“猎鹰”轮改装为浮式生产储油船：可储100万桶原油】据江苏南通海事局9日消息，超大型油轮“猎鹰”轮近日在启东改装为浮式生产储油船。“猎鹰”轮总长333米，型宽58米，型深32米。经过翻新和改装后的浮式生产储油船可以存储100万桶原油，日最大处理约39750标准立方米气体，气体处理和运输400万标准立方米，堪称“海上油气工厂”。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizmscu5997215.d.html</link>
-            <guid>2700611</guid>
-            <pubDate>Thu, 09 Jun 2022 15:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【JMP证券：首予Opendoor(OPEN.O)跑赢大市的评级和12美元的目标价】JMP证券分析师Nicholas Jones首次覆盖Opendoor，予其跑赢大市的评级和12美元的目标价。该分析师称，尽管投资者对利率上升和房地产市场降温的担忧是合理的，但Opendoor已经展示出其务实发展各项业务的能力。该分析师认为，Opendoor将在利率上升的环境中继续运营，这可能会推动其市盈率上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizmscu5997206.d.html</link>
-            <guid>2700610</guid>
-            <pubDate>Thu, 09 Jun 2022 15:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  迪士尼董事长：首席执行官Chapek得到了董事会的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7490343.d.html</link>
-            <guid>2700609</guid>
-            <pubDate>Thu, 09 Jun 2022 15:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月09日23时43分在青海玉树州囊谦县（北纬32.07度，东经96.62度）发生3.0级地震，震源深度10千米。]]></title>
-            <guid>2700606</guid>
-            <pubDate>Thu, 09 Jun 2022 15:53:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国防部新闻发言人谭克非：敦促美方立即撤销上述对台军售计划】据报道，美国政府6月8日宣布批准了一项新的对台军售计划，拟向台提供价值1.2亿美元的军舰零附件及相关技术支持。请问对此有何评论？国防部新闻发言人谭克非表示，美国向中国台湾地区出售武器及提供军事技术支持，严重违反一个中国原则和中美三个联合公报特别是“八·一七”公报规定，粗暴干涉中国内政，严重损害中国主权和安全利益，严重危害台海地区和平稳定，中方对此强烈不满和坚决反对。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7489966.d.html</link>
-            <guid>2700605</guid>
-            <pubDate>Thu, 09 Jun 2022 15:52:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泽连斯基签署制裁俄罗斯总统普京的总统令】据乌克兰UNIAN通讯社9日消息，乌克兰总统泽连斯基签署总统令，对俄罗斯总统普京实施制裁。进入制裁名单的还有俄总统新闻秘书佩斯科夫、俄总理米舒斯京、俄国防部长绍伊古、政府第一副总理安德烈·别洛乌索夫和副总理戈利科娃。俄塔斯社报道中提到被制裁的还有俄外长拉夫罗夫。泽连斯基还对俄罗斯的一些大学校长以及包括莫斯科国立大学、高等经济学院和俄罗斯总统国民经济与公共管理学院在内的236所大学进行制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizmscu5996726.d.html</link>
-            <guid>2700603</guid>
-            <pubDate>Thu, 09 Jun 2022 15:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：所有欧盟国家都需要就开启乌克兰的成员国谈判达成一致，欧盟委员会将于下周提出建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7489179.d.html</link>
-            <guid>2700599</guid>
-            <pubDate>Thu, 09 Jun 2022 15:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胡春华在金砖国家第十二次经贸部长会议上发表视频致辞】金砖国家第十二次经贸部长会议9日举行。国务院副总理胡春华发表视频致辞。胡春华强调，中国将坚定不移扩大高水平开放，对接国际高标准经贸规则，积极推进高质量共建“一带一路”，推动同更多国家和地区商签高标准自贸协定，同包括金砖国家在内的世界各国分享中国发展机遇。欢迎金砖国家有关政府部门、工商界和相关国际机构积极参与，不断拓展新的合作空间，推动取得更多互利共赢的成果。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7489119.d.html</link>
-            <guid>2700598</guid>
-            <pubDate>Thu, 09 Jun 2022 15:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase告诉美国国会，很容易追踪使用加密货币的罪犯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7489036.d.html</link>
-            <guid>2700596</guid>
-            <pubDate>Thu, 09 Jun 2022 15:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油天然气公司Repsol同意以9.05亿欧元的价格出售可再生能源部门25%的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7488287.d.html</link>
-            <guid>2700592</guid>
-            <pubDate>Thu, 09 Jun 2022 15:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉涨幅收窄至3%，此前涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7488012.d.html</link>
-            <guid>2700588</guid>
-            <pubDate>Thu, 09 Jun 2022 15:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们一直都对目标“非常明确”，以加息来抑制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizmscu5995560.d.html</link>
-            <guid>2700585</guid>
-            <pubDate>Thu, 09 Jun 2022 15:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉一度上涨5.6%，刷新6月2日以来盘中高位至766.64美元，瑞银集团上调对该公司的评级至买入，预计其股价存在超过50%的上行空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizmscu5995460.d.html</link>
-            <guid>2700584</guid>
-            <pubDate>Thu, 09 Jun 2022 15:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们对加息速度和规模的决定主要取决于通货膨胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7487348.d.html</link>
-            <guid>2700580</guid>
-            <pubDate>Thu, 09 Jun 2022 15:22:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南发布山洪灾害预警】河南省水利厅发布山洪灾害预警：6月9日至10日，受短时强降雨影响，安阳、鹤壁、新乡、焦作、济源、郑州、三门峡、洛阳、平顶山西部、许昌西部、南阳西部等山区局部可能发生山洪灾害，请注意避险，做好防范。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-09/detail-imizirau7487339.d.html</link>
-            <guid>2700579</guid>
-            <pubDate>Thu, 09 Jun 2022 15:22:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
