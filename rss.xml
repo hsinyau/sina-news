@@ -4,11 +4,285 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 14 Jun 2022 18:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 21:05:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：巴菲特向5个基金会捐赠了1440万股伯克希尔哈撒韦B类股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8498657.d.html</link>
+            <guid>2705688</guid>
+            <pubDate>Tue, 14 Jun 2022 21:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌0.81%，报1593.35点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8497851.d.html</link>
+            <guid>2705686</guid>
+            <pubDate>Tue, 14 Jun 2022 20:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收跌0.98%，报19548.51点。巴西圣保罗证交所指数收跌0.52%，报10.2万点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8497818.d.html</link>
+            <guid>2705685</guid>
+            <pubDate>Tue, 14 Jun 2022 20:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[辉瑞：数据支持我们向美国食品药品监督管理局提交（Paxlovid的）新药申请（NDA）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6851100.d.html</link>
+            <guid>2705683</guid>
+            <pubDate>Tue, 14 Jun 2022 20:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌基础设施部副部长：乌克兰政府与欧盟达成“交通免签”协议】当地时间14日，乌克兰基础设施部副部长穆斯塔法·纳耶姆宣布，乌克兰政府与欧盟委员会代表团已就公路货运自由化特别协议的最终文本达成一致，计划在6月底之前签署该文件。乌克兰有望成为首批与欧盟缔结特别运输协定的国家之一，该协定规定了货运过境的完全自由化。这对乌克兰和欧洲来说都将是重要的一步，乌克兰将能够自由地将出口产品运送到西方市场。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8496200.d.html</link>
+            <guid>2705681</guid>
+            <pubDate>Tue, 14 Jun 2022 20:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月10日当周API原油进口 84.9万桶，前值-46.3万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8495792.d.html</link>
+            <guid>2705679</guid>
+            <pubDate>Tue, 14 Jun 2022 20:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月10日当周API成品油进口 -30.6万桶/日，前值-29.3万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6850472.d.html</link>
+            <guid>2705678</guid>
+            <pubDate>Tue, 14 Jun 2022 20:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至6月10日当周API汽油库存 -215.9万桶，预期84.1万桶，前值182.1万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6850455.d.html</link>
+            <guid>2705677</guid>
+            <pubDate>Tue, 14 Jun 2022 20:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股大类资产类ETF周二多数收跌，通胀债券指数ETF、美国布伦特原油基金（BNO）、美国国债20+年ETF跌超1.2%，黄金ETF、美国国债7-10年ETF、美国房地产ETF跌约0.8%，日元做多跌0.6%，农产品基金、大豆基金跌近0.3%。新兴市场ETF涨近1.4%表现最好，美国高收益债ETF涨超0.6%。]]></title>
+            <guid>2705675</guid>
+            <pubDate>Tue, 14 Jun 2022 20:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股行业ETF周二涨跌不一，区域银行ETF领涨，涨超0.7%，科技行业ETF、全球科技股指数ETF涨超0.5%，生物科技指数ETF、能源业ETF涨约0.2%。公用事业ETF跌超2.5%表现最差，日常消费品ETF、全球航空业ETF跌超1%，医疗业ETF跌超0.9%，网络股指数ETF跌0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6849666.d.html</link>
+            <guid>2705672</guid>
+            <pubDate>Tue, 14 Jun 2022 20:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚央行行长Villar：预计2022年GDP增长5％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6849294.d.html</link>
+            <guid>2705671</guid>
+            <pubDate>Tue, 14 Jun 2022 20:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：乌克兰问题联络小组将于周三在布鲁塞尔举行会议，讨论向乌克兰提供重型武器的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8493483.d.html</link>
+            <guid>2705669</guid>
+            <pubDate>Tue, 14 Jun 2022 20:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认加拿大评级为“AA+”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8493433.d.html</link>
+            <guid>2705668</guid>
+            <pubDate>Tue, 14 Jun 2022 20:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联邦快递收涨14.44%，创1986年来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6848520.d.html</link>
+            <guid>2705667</guid>
+            <pubDate>Tue, 14 Jun 2022 20:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一位美国财政部官员表示，他对过度制裁感到担忧，因为仅美国就指认了1000个俄罗斯实体和个人。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8493023.d.html</link>
+            <guid>2705666</guid>
+            <pubDate>Tue, 14 Jun 2022 20:01:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[艾威基金联合创始人Marc Lasry：我们正寻找机会从风险中获得超额收益。市场还会下跌，低点会在夏季后到来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8492282.d.html</link>
+            <guid>2705663</guid>
+            <pubDate>Tue, 14 Jun 2022 19:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄总统助理：俄乌恢复谈判问题一直没有进展】俄罗斯总统助理乌沙科夫6月14日表示，俄罗斯和乌克兰恢复谈判的问题一直没有进展。据塔斯社14日报道，乌沙科夫当天对媒体说，自俄方4月15日向乌方提交协议草案后，俄方始终未收到乌方任何答复。在此期间可能有过非官方的电话联系，但不是在代表团层面，只是个别代表之间，“然后一切就都结束了”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6847782.d.html</link>
+            <guid>2705662</guid>
+            <pubDate>Tue, 14 Jun 2022 19:53:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰总理莫拉维茨基：北约国家在保护和支持乌克兰方面做得不够。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8492226.d.html</link>
+            <guid>2705660</guid>
+            <pubDate>Tue, 14 Jun 2022 19:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人柯比：拜登不会回避与沙特就人权问题进行讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8492213.d.html</link>
+            <guid>2705659</guid>
+            <pubDate>Tue, 14 Jun 2022 19:52:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间6月14日，阿尔及利亚总统特本宣布，该国财政部长阿卜杜拉曼·劳亚被解职，但他并未说明其中的原因。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8491461.d.html</link>
+            <guid>2705658</guid>
+            <pubDate>Tue, 14 Jun 2022 19:43:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：有关芬兰和瑞典加入北约的对话仍在继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6846935.d.html</link>
+            <guid>2705656</guid>
+            <pubDate>Tue, 14 Jun 2022 19:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：马德里峰会将加强北约的姿态，这次峰会将为北约的未来描绘蓝图。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6846932.d.html</link>
+            <guid>2705655</guid>
+            <pubDate>Tue, 14 Jun 2022 19:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：我们在西维罗顿涅茨克和哈尔科夫地区损失惨重。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6846918.d.html</link>
+            <guid>2705654</guid>
+            <pubDate>Tue, 14 Jun 2022 19:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美官员：美国将为乌克兰提供更多武器】当地时间6月14日，美国一名高级国防官员表示，美国将在15日举行的乌克兰国防联络小组会议上宣布向乌克兰提供更多武器。该官员指出，美国正与其他国家密切合作，以确认乌克兰武装部队的需要，并寻找途径将相关武器物资发往乌克兰。据悉，此次召开的乌克兰国防联络小组会议将讨论对乌援助的下一步行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6846097.d.html</link>
+            <guid>2705653</guid>
+            <pubDate>Tue, 14 Jun 2022 19:30:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：乌克兰现在需要现代化的反导武器，（西方）没有理由推迟交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8490058.d.html</link>
+            <guid>2705652</guid>
+            <pubDate>Tue, 14 Jun 2022 19:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY日内涨幅达0.50%，现报105.66。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6846070.d.html</link>
+            <guid>2705651</guid>
+            <pubDate>Tue, 14 Jun 2022 19:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内跌超1.00%，现报0.6851。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8490030.d.html</link>
+            <guid>2705650</guid>
+            <pubDate>Tue, 14 Jun 2022 19:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【泽连斯基与加拿大总理特鲁多通电话】当地时间14日，乌克兰总统泽连斯基与加拿大总理特鲁多进行了通话，讨论了双方防务合作以及协调应对俄罗斯的下一步行动。乌克兰总统泽连斯基在其社交媒体上宣布了这一消息，并对加拿大的支持表示感谢。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8489447.d.html</link>
+            <guid>2705648</guid>
+            <pubDate>Tue, 14 Jun 2022 19:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Wally Adeyemo：希望确保任何有关限制俄罗斯石油收入的措施都与盟国和伙伴国家合作实施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8488942.d.html</link>
+            <guid>2705647</guid>
+            <pubDate>Tue, 14 Jun 2022 19:18:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美股三大股指跌至日低，道指、标普500指数均跌超1%，纳指跌0.56%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8488778.d.html</link>
+            <guid>2705646</guid>
+            <pubDate>Tue, 14 Jun 2022 19:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿曼和坦桑尼亚发表联合声明 强调两国愿意加强双边合作】当地时间6月14日，在坦桑尼亚总统萨米娅·哈桑访问阿曼期间，阿曼和坦桑尼亚发表联合声明表示，两国愿意加强双边合作，并努力将这种友好关系扩展到更多领域和更深层面。声明说，双方同意设立联合投资基金，向具有可行性的项目进行投资。双方还签署了所得避免双重征税和防止偷漏税协议，以及一系列谅解备忘录，内容涉及经贸、能源、教育、旅游、工业、博物馆合作以及机场管理等多个领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8488655.d.html</link>
+            <guid>2705644</guid>
+            <pubDate>Tue, 14 Jun 2022 19:17:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[潘兴广场创始人阿克曼：如果6月、7月加息75个基点，信心能够恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8488587.d.html</link>
+            <guid>2705643</guid>
+            <pubDate>Tue, 14 Jun 2022 19:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Wally Adeyemo：不清楚有任何公司有意协助俄罗斯逃避美国的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8487795.d.html</link>
+            <guid>2705641</guid>
+            <pubDate>Tue, 14 Jun 2022 19:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：美国政府的重点是降低成本和联邦赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6844314.d.html</link>
+            <guid>2705640</guid>
+            <pubDate>Tue, 14 Jun 2022 19:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，特斯拉CEO埃隆·马斯克称，Lucid和Rivian正在走向破产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8487738.d.html</link>
+            <guid>2705639</guid>
+            <pubDate>Tue, 14 Jun 2022 19:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家经济委员会主任布赖恩·迪斯：美国经济正处于转型期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6844216.d.html</link>
+            <guid>2705637</guid>
+            <pubDate>Tue, 14 Jun 2022 19:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国能源部宣布合同授予并发布第四份战略石油储备（SPR）紧急出售声明，合同授予了包括雪佛龙、埃克森美孚、马拉松石油在内的九家公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6844193.d.html</link>
+            <guid>2705636</guid>
+            <pubDate>Tue, 14 Jun 2022 19:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Wally Adeyemo：怀疑加密货币是否会成为主流货币，但可能会被用于非法金融。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8487609.d.html</link>
+            <guid>2705635</guid>
+            <pubDate>Tue, 14 Jun 2022 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其总统会见俄罗斯副总理】土耳其总统府新闻局当地时间6月14日发布消息称，土耳其总统埃尔多安当日在首都安卡拉总统府会见了到访的俄罗斯副总理阿列克谢·奥维尔丘克。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8486491.d.html</link>
+            <guid>2705634</guid>
+            <pubDate>Tue, 14 Jun 2022 18:57:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界银行向联合国粮农组织提供1.5亿美元用于援助阿富汗】当地时间13日，联合国粮农组织表示，世界银行宣布出资1.5亿美元为阿富汗农村人口提供援助。粮农组织表示，这批资金将帮助阿富汗当地农民提高小麦生产，为大约210万人提供支持。此外，资金还将用于支持和改善当地农业灌溉系统和水利设施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8485855.d.html</link>
+            <guid>2705633</guid>
+            <pubDate>Tue, 14 Jun 2022 18:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多（被问及加拿大民众抵押贷款还款额不断上升）：我们正带着“担忧”关注利率。]]></title>
+            <guid>2705632</guid>
+            <pubDate>Tue, 14 Jun 2022 18:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：正等待伊朗方面就恢复核协议做出建设性回应，放弃无关问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8485290.d.html</link>
+            <guid>2705631</guid>
+            <pubDate>Tue, 14 Jun 2022 18:43:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国央行调查显示5月经济活动增加，预计法国经济将避免衰退，第二季度GDP增长0.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6841300.d.html</link>
+            <guid>2705629</guid>
+            <pubDate>Tue, 14 Jun 2022 18:31:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息，美国证交会主席根斯勒认为，加密货币立法可能会破坏市场监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6841289.d.html</link>
+            <guid>2705628</guid>
+            <pubDate>Tue, 14 Jun 2022 18:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国五年期国债实际收益率达到0.61%，创2020年3月份以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8483669.d.html</link>
+            <guid>2705624</guid>
+            <pubDate>Tue, 14 Jun 2022 18:27:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约市有14人被推定为猴痘检测呈阳性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6839760.d.html</link>
+            <guid>2705622</guid>
+            <pubDate>Tue, 14 Jun 2022 18:12:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据报道，法国和日本外长举行电话会谈，讨论俄乌冲突、对俄制裁等问题的合作。]]></title>
             <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8480462.d.html</link>
@@ -94,9 +368,21 @@
             <pubDate>Tue, 14 Jun 2022 17:16:50 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[【对冲基金疯狂撤离美股市场，速度达到有记录以来最快】随着恶性抛售导致标普500指数跌入熊市，机构投资者以有史以来最最的速度逃离美股市场。高盛追踪的对冲基金周一连续第七天减持美国股票，过去两个交易日的抛售额达到2008年4月跟踪此类数据以来的最高水平。股市下跌势头愈演愈烈，因为市场担心美联储加快抗通胀行动可能引发经济衰退。随着股市下跌和美国国债收益率飙升，短线资金争相做空。高盛的主经纪商业务高盛在周二发布的报告中称，对冲基金客户的卖空活动“激增”。高盛数据显示，一项衡量他们风险偏好的指标接近五年低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6834908.d.html</link>
+            <guid>2705597</guid>
+            <pubDate>Tue, 14 Jun 2022 17:07:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【上半年业绩预告启动 35家公司逾六成预喜】截至6月14日，Wind数据显示，A股上市公司中已有35家披露了上半年经营业绩情况。其中，21家预告净利润变动率为正，上半年保持正增长，业绩预喜比例逾60%。]]></title>
             <guid>2705596</guid>
             <pubDate>Tue, 14 Jun 2022 17:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西4月中央政府基本盈余为286亿雷亚尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6834396.d.html</link>
+            <guid>2705595</guid>
+            <pubDate>Tue, 14 Jun 2022 17:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国网球公开赛据悉将允许来自俄罗斯、白俄罗斯的网球运动员参赛。]]></title>
@@ -117,255 +403,10 @@
             <pubDate>Tue, 14 Jun 2022 16:45:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【20家承销商被监管问询，聚焦IPO项目投价报告】根据记者从券商投行人士获得的最新一期《深交所创业板注册制发行上市审核动态》，深交所表示，5月针对创业板35家首发项目的20家承销商采取出具《问询函》的工作措施，结合投价报告盈利预测实现情况，问询关注投价报告出具程序及预测审慎合理性。Wind数据显示，今年前五月创业板共有57家企业新上市，涉及承销商27家。这也意味着逾七成券商被问询。记者了解到，深交所今年以来持续对承销商定价、信息披露、网下投资者报价等方面加强监管。深圳一家中型券商的资本市场部人士表示，由于注册制新股普遍具有新产业、新业态等特点，机构要想对其准确估值，难度不小，而目前市场上新股研究比较稀缺，询价机构基本上以承销商出具的新股投价报告作为报价参考。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6831929.d.html</link>
-            <guid>2705584</guid>
-            <pubDate>Tue, 14 Jun 2022 16:34:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日、美双方最早将于今年夏天开始共同研究，并在2025-2027年之间建立研究和量产中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6831915.d.html</link>
-            <guid>2705583</guid>
-            <pubDate>Tue, 14 Jun 2022 16:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本和美国企业可以共同成立一家新的芯片公司，或者日本企业可以建立一个新的制造中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8472219.d.html</link>
-            <guid>2705582</guid>
-            <pubDate>Tue, 14 Jun 2022 16:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息，日本计划最快在2025年生产出尖端的2纳米芯片。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6831369.d.html</link>
-            <guid>2705581</guid>
-            <pubDate>Tue, 14 Jun 2022 16:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 油价“破10”！加满一箱比年初多花近百元！物流业承压】受国际油价震荡上扬的影响，国内成品油零售价迎来年内第10次上涨；相比年初时，目前加满一箱油，要多花近百元；本次上调落实后，部分地区95号汽油将正式迈入10元时代；油价上涨除了增加普通市民驾车出行成本外，对货运物流行业的影响更为严峻；展望后市，有市场分析指出，海外原油增产幅度或不及预期，短期油价或仍将高位运行为主。（证券时报）]]></title>
-            <guid>2705580</guid>
-            <pubDate>Tue, 14 Jun 2022 16:26:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国称乌克兰顿涅茨克局势仍然紧张，呼吁（各方）遵守国际人道主义法保护平民和基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8471024.d.html</link>
-            <guid>2705578</guid>
-            <pubDate>Tue, 14 Jun 2022 16:22:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【15日珠江广州河段白天潮位预计将全面超警】据广州市应急管理局消息，根据预测，受洪水下泄及天文大潮共同影响，预计珠江广州河段6月15日白天潮位将全面超警，广州中心城区河段将出现最高超警1.1米的高潮位。其中广州市海珠区中大水文站11时30分潮位达2.61米（珠基），12时30分将出现最高潮位2.9米。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6830422.d.html</link>
-            <guid>2705577</guid>
-            <pubDate>Tue, 14 Jun 2022 16:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统国际事务问题助理乌沙科夫对媒体表示，俄罗斯总统普京将在下周参加金砖国家视频峰会并在线出席商业论坛。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6830400.d.html</link>
-            <guid>2705576</guid>
-            <pubDate>Tue, 14 Jun 2022 16:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会主席访问巴勒斯坦 称欧盟将恢复对巴援助】当地时间14日，欧盟委员会主席冯德莱恩访问巴勒斯坦，并与巴勒斯坦总理阿什提耶举行了会谈。冯德莱恩在会谈中表示，欧盟将尽快恢复对巴勒斯坦的经济援助，并落实向巴方承诺的2500万欧元人道主义援助。同时，她表示，欧盟全力支持基于“两国方案”的巴以和平进程。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8470349.d.html</link>
-            <guid>2705575</guid>
-            <pubDate>Tue, 14 Jun 2022 16:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列总理会见意大利总理】以色列总理贝内特当地时间14日会见了到访的意大利总理德拉吉。贝内特在会见后对媒体表示，双方领导人就以色列向欧洲提供天然气等进行了讨论。他称，目前包括意大利在内的整个欧洲面临能源短缺，而且以色列则拥有海上天然气田，双方尽快开展能源合作对彼此都将是一个好消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8470294.d.html</link>
-            <guid>2705574</guid>
-            <pubDate>Tue, 14 Jun 2022 16:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国航空业致函国会要求确保空中交通管制满足需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8469628.d.html</link>
-            <guid>2705573</guid>
-            <pubDate>Tue, 14 Jun 2022 16:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果公司与美国职业足球大联盟（MLS）签署为期10年的合作协议，Apple TV将获得MSL独家播放权，直至2032年，苹果将在“未来数月内”宣布预定价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6829502.d.html</link>
-            <guid>2705572</guid>
-            <pubDate>Tue, 14 Jun 2022 16:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受美国房地产业低迷影响，美国在线房地产经纪公司Compass将裁员约10%。Compass（COMP）目前跌超3.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6829173.d.html</link>
-            <guid>2705571</guid>
-            <pubDate>Tue, 14 Jun 2022 16:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员Durbin：对拜登与沙特王储的会晤感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizmscu6829062.d.html</link>
-            <guid>2705569</guid>
-            <pubDate>Tue, 14 Jun 2022 16:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【明年还是后年年末？市场人士对美联储降息时间意见相左】市场正在加码对美联储更快收紧货币政策的押注，而降息预期也开始迅速显现，交易员和经济学家对经济可能在多久后放缓存在意见分歧。货币市场认为本月和下月美联储将史无前例的一次性加息75基点，而且此后还会继续收紧货币政策，此举将加大经济受冲击的概率。预计美联储两年内将三次降息75个基点，创下金融危机爆发前以来的最大规模。这种观点和接受调查的经济学家观点相左，他们认为第一次降息要到2024年末才会来临。根据与隔夜利率挂钩的1个月期远期互换，美联储第一次降息25基点会在明年年末到来，到2024年年中会再降息50基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8467940.d.html</link>
-            <guid>2705565</guid>
-            <pubDate>Tue, 14 Jun 2022 15:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西参议院批准生物燃料法案，法案移交众议院。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6828324.d.html</link>
-            <guid>2705560</guid>
-            <pubDate>Tue, 14 Jun 2022 15:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【土耳其外长与北约秘书长通电话 讨论北约扩张问题】土耳其外交部当地时间6月14日发表声明称，土耳其外长恰武什奥卢当天与北约秘书长斯托尔滕贝格通电话，就北约扩张问题进行了讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8467515.d.html</link>
-            <guid>2705558</guid>
-            <pubDate>Tue, 14 Jun 2022 15:47:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧洲主要股指集体收跌 德国DAX30指数跌0.91%】欧洲主要股指集体收跌，德国DAX30指数跌0.91%，英国富时100指数跌0.27%，法国CAC40指数跌1.2%，欧洲斯托克50指数跌0.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6828292.d.html</link>
-            <guid>2705557</guid>
-            <pubDate>Tue, 14 Jun 2022 15:47:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【乌国防部副部长：目前只收到西方国家所声称提供武器装备总量的10%】乌克兰国防部副部长马里亚尔当地时间14日在参加一档电视节目时表示，目前乌方只收到西方国家所声称提供武器装备总量的10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8467338.d.html</link>
-            <guid>2705556</guid>
-            <pubDate>Tue, 14 Jun 2022 15:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国大使：芬兰、瑞典或“受邀”参加马德里北约峰会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827673.d.html</link>
-            <guid>2705553</guid>
-            <pubDate>Tue, 14 Jun 2022 15:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：将特斯拉部分产量从Q2转移到Q3属“谨慎”做法 维持超配评级】大摩分析师Adam Jonas指出，报道称特斯拉CEO马斯克“再次”试图在艰难的季度结尾“集结队伍”。Jonas估计，市场普遍预计特斯拉当季总营收不到180亿美元，这似乎低估了交付量连续下滑的影响，他称将部分产量和EBITDA从第二季度转移到第三季度是“非常谨慎的”。但他补充称，特斯拉的历史已证明，公司可以通过在季度末加速交付来弥补大幅损失，而第二季度的潜在损失可能只会为第三季度“提供被抑制的连续推动力”。Jonas维持对特斯拉股票的超配评级和1300美元的目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827563.d.html</link>
-            <guid>2705551</guid>
-            <pubDate>Tue, 14 Jun 2022 15:35:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖52周期国债，得标利率3.020%（前次为2.100%），投标倍数3.14（前次为3.12）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827436.d.html</link>
-            <guid>2705549</guid>
-            <pubDate>Tue, 14 Jun 2022 15:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国和意大利10年期国债收益率上涨11个基点，分别报1.74%和4.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827418.d.html</link>
-            <guid>2705548</guid>
-            <pubDate>Tue, 14 Jun 2022 15:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【热门中概股大涨 新东方涨21%】热门中概股大涨，新东方涨21%、爱奇艺涨18%、蔚来涨近15%，好未来、理想汽车、拼多多、哔哩哔哩涨幅均在10%以上，携程、富途涨9%，百度、京东、阿里巴巴涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8466163.d.html</link>
-            <guid>2705547</guid>
-            <pubDate>Tue, 14 Jun 2022 15:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【快狗打车香港招股首日：孖展暂录近3500万港元】《香港经济日报》6月14日消息，快狗打车GOGOX今日开始招股，综合多间券商数据显示，该公司合共录得3496万港元，若以公开发售部分集资6707万港元计算，目前公开发售部分暂未录得足额认购。其中，富途证券借出1300万港元，耀才借出1000万港元，老虎国际借出逾500万港元，华盛证券借出350万港元，辉立借出250万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827169.d.html</link>
-            <guid>2705546</guid>
-            <pubDate>Tue, 14 Jun 2022 15:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【武契奇：受欧盟对俄制裁影响，塞尔维亚11月1日起将无法进口俄石油】据俄罗斯卫星通讯社消息，塞尔维亚总统武契奇当地时间14日表示，受欧盟新一轮对俄制裁影响，塞尔维亚从今年11月1日起将无法从俄罗斯进口石油。报道称，俄石油先经油轮运往克罗地亚，并经由克罗地亚港口上岸，然后通过亚得里亚海石油管道（JANAF）运给塞尔维亚。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8465876.d.html</link>
-            <guid>2705545</guid>
-            <pubDate>Tue, 14 Jun 2022 15:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西参议院第一轮投票中批准生物燃料修正法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827129.d.html</link>
-            <guid>2705544</guid>
-            <pubDate>Tue, 14 Jun 2022 15:29:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道指跌幅扩大至200点，成分股可口可乐跌超3.5%表现最差，宝洁也跌超3.1%，波音跌超2.0%，麦当劳目前则涨超0.6%，雪佛龙涨超1.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8465782.d.html</link>
-            <guid>2705543</guid>
-            <pubDate>Tue, 14 Jun 2022 15:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理贝内特办公室：美国总统拜登将于7月13日至14日在以色列会见贝内特总理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827034.d.html</link>
-            <guid>2705541</guid>
-            <pubDate>Tue, 14 Jun 2022 15:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：由于工资上涨，美国公立学区面临劳动力成本上升的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6827005.d.html</link>
-            <guid>2705540</guid>
-            <pubDate>Tue, 14 Jun 2022 15:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前纽约联储主席杜德利：我认为周三FOMC会议将加息75个基点……美联储官员有点担心失去信誉。加息100个基点也有理由。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8464776.d.html</link>
-            <guid>2705535</guid>
-            <pubDate>Tue, 14 Jun 2022 15:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安永：本公司计划未来两年将英国面向金融服务的云技术业务规模翻倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8464559.d.html</link>
-            <guid>2705533</guid>
-            <pubDate>Tue, 14 Jun 2022 15:14:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联想集团：与电讯盈科订立战略合作】联想集团公告，为与电讯盈科订立战略合作，公司与卖方订立购股协议，据此，公司有条件同意购买而卖方有条件同意出售出售股份，即PCCWLenovo Technology Solutions的80%直接权益及电讯盈科网络服务的20%直接权益。交易对价为6.136亿美元（相等于约47.861亿港元）。于完成时，PCCW Lenovo Technology Solutions将主要服务亚太地区的客户，以提供数码解决方案及管理服务；而电讯盈科企业方案将主要服务香港的公营部门客户，提供解决方案及服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8464414.d.html</link>
-            <guid>2705532</guid>
-            <pubDate>Tue, 14 Jun 2022 15:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国初级部长表示，在讨论欧盟成员国条件之前，应先停止乌克兰的敌对行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6825932.d.html</link>
-            <guid>2705531</guid>
-            <pubDate>Tue, 14 Jun 2022 15:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国长期国债收益率创多年新高，日内上涨2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6825549.d.html</link>
-            <guid>2705529</guid>
-            <pubDate>Tue, 14 Jun 2022 15:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国首相约翰逊发言人：普遍的共识是，通货膨胀将在中短期内触顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6825472.d.html</link>
-            <guid>2705528</guid>
-            <pubDate>Tue, 14 Jun 2022 15:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储：FOMC会议如期于上午11点 （北京时间23点） 开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6825184.d.html</link>
-            <guid>2705525</guid>
-            <pubDate>Tue, 14 Jun 2022 15:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国海关：韩国5月进口原油1080万吨，而去年同期为1090万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8463296.d.html</link>
-            <guid>2705523</guid>
-            <pubDate>Tue, 14 Jun 2022 15:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西门子：由于加拿大实施的对俄制裁，公司目前无法向客户交付经过大修的燃气轮机；在此背景下，我们已通知加拿大和德国政府，并正在制定可行的解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8463124.d.html</link>
-            <guid>2705521</guid>
-            <pubDate>Tue, 14 Jun 2022 15:00:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【俄总统助理：普京没有同拜登会晤的计划】当地时间6月14日，俄罗斯总统助理乌沙科夫通报了未来一段时期俄总统普京的活动日程，其中包括参加金砖国家领导人峰会以及将于9月举行的上海合作组织成员国首脑峰会和10月举行的独联体成员国元首理事会会议。乌沙科夫指出，普京没有同美国总统拜登会晤的计划；同乌克兰总统泽连斯基会面的可能性并不排除，但需对此进行相应准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizirau8463063.d.html</link>
-            <guid>2705520</guid>
-            <pubDate>Tue, 14 Jun 2022 15:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长林德纳：德国复兴信贷银行的信贷有国家担保，目前对预算没有影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6824868.d.html</link>
-            <guid>2705519</guid>
-            <pubDate>Tue, 14 Jun 2022 15:00:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财长林德纳：无法推测GAZPROM GERMANIA获得的德国复兴信贷银行的信贷额度有多高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-14/detail-imizmscu6824822.d.html</link>
-            <guid>2705518</guid>
-            <pubDate>Tue, 14 Jun 2022 14:59:45 GMT</pubDate>
+            <title><![CDATA[美国国务院：目标是在需求将扩大的情况下，确保关键矿产安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-15/detail-imizirau8473536.d.html</link>
+            <guid>2705587</guid>
+            <pubDate>Tue, 14 Jun 2022 16:45:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
