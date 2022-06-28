@@ -4,337 +4,355 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 28 Jun 2022 18:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:04:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[英国前总参谋长：英国在向乌克兰提供帮助之际失去了国防能力。]]></title>
-            <guid>2722466</guid>
-            <pubDate>Tue, 28 Jun 2022 17:58:43 GMT</pubDate>
+            <title><![CDATA[韩国6月消费者信心指数 96.4，前值102.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1046746.d.html</link>
+            <guid>2722565</guid>
+            <pubDate>Tue, 28 Jun 2022 21:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中粮国际的北美董事总经理Faust据称将离职】知情人士透露，中粮国际有限公司的北美业务董事总经理Chris Faust将离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9217737.d.html</link>
-            <guid>2722465</guid>
-            <pubDate>Tue, 28 Jun 2022 17:54:35 GMT</pubDate>
+            <title><![CDATA[美国气候特使克里：能源危机不是拖延应对气候变化斗争的借口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1046449.d.html</link>
+            <guid>2722563</guid>
+            <pubDate>Tue, 28 Jun 2022 20:53:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国前总参谋长：英国在向乌克兰提供帮助之际失去了国防能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9217553.d.html</link>
-            <guid>2722464</guid>
-            <pubDate>Tue, 28 Jun 2022 17:52:43 GMT</pubDate>
+            <title><![CDATA[Citi将锐科激光评级下调至卖出，目标价34元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9228371.d.html</link>
+            <guid>2722560</guid>
+            <pubDate>Tue, 28 Jun 2022 20:51:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国防部：最高法院推翻堕胎权判例的裁决不会影响美国军方】美国国防部在一份备忘录中表示，最高法院推翻“罗诉韦德案”的裁决将不会影响军方，在母亲的生命受到威胁或强迫怀孕的情况下，国防部将继续提供堕胎服务。此外，美国军方将与司法部合作，确保文职雇员和服务人员在有需要时能获得法律帮助。此外，28日美国卫生与公众服务部部长贝塞拉公布了一项关于保护堕胎权利的行动计划，对美国最高法院推翻“罗诉韦德案”作出回应。贝塞拉表示，卫生与公共服务部将采取措施增加药物流产的可及性，确保各州不禁止堕胎药，还将提供更多关于药物流产的指导。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9217423.d.html</link>
-            <guid>2722463</guid>
-            <pubDate>Tue, 28 Jun 2022 17:50:58 GMT</pubDate>
+            <title><![CDATA[特斯拉在加州裁减数百名自动驾驶部门员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1046336.d.html</link>
+            <guid>2722559</guid>
+            <pubDate>Tue, 28 Jun 2022 20:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国国家飓风中心：在未来48小时内，位于墨西哥湾西北部的低压系统有40%的可能性出现气旋。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1035197.d.html</link>
-            <guid>2722462</guid>
-            <pubDate>Tue, 28 Jun 2022 17:49:25 GMT</pubDate>
+            <title><![CDATA[消息人士：特斯拉在美国加州裁减数百名自动驾驶部门员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9228291.d.html</link>
+            <guid>2722557</guid>
+            <pubDate>Tue, 28 Jun 2022 20:49:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  俄罗斯外交部：尽管受到单边制裁，俄罗斯仍将履行承诺的小麦和化肥出口义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9217228.d.html</link>
-            <guid>2722461</guid>
-            <pubDate>Tue, 28 Jun 2022 17:49:21 GMT</pubDate>
+            <title><![CDATA[【南非报告第二例猴痘病例】据南非国家传染病研究所当地时间6月28日晚发布的最新报告，南非出现第二例猴痘病例。该病例为一名居住在西开普省的32岁男子，他没有近期的旅行史。目前相关部门已开始追踪其密切接触者。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1045932.d.html</link>
+            <guid>2722556</guid>
+            <pubDate>Tue, 28 Jun 2022 20:43:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美股Zoom视频通讯盘中跌超5%】美股 Zoom视频通讯 盘中下跌5.10%，现报113.710美元，当前市值为339.29亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9216877.d.html</link>
-            <guid>2722460</guid>
-            <pubDate>Tue, 28 Jun 2022 17:43:08 GMT</pubDate>
+            <title><![CDATA[【经济日报金观平：筑牢工业经济稳定恢复基础】增强工业发展内生动力的重点在于稳企业。企业强，产业才能强，经济才能稳。当前，尤其要稳住中下游制造业企业的信心，营造良好的投资环境，坚持纾困解难强帮扶与支持创新升级两手抓，鼓励企业技术改造，激发各类市场主体的发展活力。同时，加快培育发展优质企业，扩大“专精特新”企业数量和范围，培育更多中小企业成长为掌握独门绝技的“单打冠军”或“配套专家”，构建起完善的大中小企业融通创新发展产业生态，为我国工业经济发展打造更多动力源。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9227417.d.html</link>
+            <guid>2722553</guid>
+            <pubDate>Tue, 28 Jun 2022 20:33:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“木头姐”Cathie Wood：误判通胀 美国正处于衰退中】周二，“木头姐”Cathie Wood表示，其误判了通胀持续的时间。她还表示，美国经济目前正处于衰退之中。“我们在一件事上犯了错，那便是通胀一直会持续下去。我不敢相信供应链问题持续了两年多的时间。当然，我们并没预见到俄乌冲突的发生。因此，通胀是一个更大的问题。但我认为，这会让我们面临通货紧缩。”Wood说，消费者反对物价上涨。许多人认为，哦，花钱大手大脚的人会让这种情况继续下去。高收入群体的消费情绪低于低收入群体，但低收入群体正受到食品和能源价格的折磨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1034724.d.html</link>
-            <guid>2722459</guid>
-            <pubDate>Tue, 28 Jun 2022 17:42:03 GMT</pubDate>
+            <title><![CDATA[【“爱泼斯坦案”关键人物马克斯韦尔被判处20年监禁】当地时间6月28日，美国前亿万富翁杰弗里·爱泼斯坦的前女友吉丝兰·马克斯韦尔（Ghislaine Maxwell）因帮助爱泼斯坦对未成年女性进行性剥削和虐待等罪名被联邦检察官判处20年监禁。联邦起诉书称，马克斯韦尔多次为爱泼斯坦招募年轻女子进行性交易并从中得到报酬。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9227247.d.html</link>
+            <guid>2722550</guid>
+            <pubDate>Tue, 28 Jun 2022 20:30:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美密苏里州列车与卡车撞车事故已致4人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9216350.d.html</link>
-            <guid>2722456</guid>
-            <pubDate>Tue, 28 Jun 2022 17:35:54 GMT</pubDate>
+            <title><![CDATA[【碳纤维“放量”喜与忧 】连涨多年的碳纤维价格显露疲态。6月28日，碳纤维主流品种价格较6月初小幅下调。厂家反馈，库存多了，出货有压力。2021年底以来，多个万吨级扩产项目相继投产，“过剩”一词在业内被越来越多提及。一些业内人士认为，持续上涨3年后，中国碳纤维价格高于国际水平，风电等下游行业采购积极性不高，碳纤维价格若能降到合适水平将利好整个产业链。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1045019.d.html</link>
+            <guid>2722547</guid>
+            <pubDate>Tue, 28 Jun 2022 20:24:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国和荷兰将向乌克兰增派六门榴弹炮。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1034148.d.html</link>
-            <guid>2722455</guid>
-            <pubDate>Tue, 28 Jun 2022 17:34:27 GMT</pubDate>
+            <title><![CDATA[【中国经济实力跃上新台阶 有能力应对各类超预期变化 】中共中央宣传部6月28日举行“中国这十年”系列主题新闻发布会。国家发展改革委副主任赵辰昕在发布会上介绍，这十年中国经济实力跃上新台阶，经济总量由2012年的53.9万亿元上升到2021年114.4万亿元，占世界经济比重从11.3%上升到超过18%，人均国内生产总值从6300美元上升到超过1.2万美元。据透露，一系列稳经济举措在路上，包括抓紧推进一批既利当前又利长远的水利、交通、地下综合管廊等项目；落实促进汽车、家电等领域消费的若干政策等。同时，常态化充实完善政策储备工具箱，将根据情况适时及时出台。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9226911.d.html</link>
+            <guid>2722545</guid>
+            <pubDate>Tue, 28 Jun 2022 20:23:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西班牙首相桑切斯会见美国总统拜登】当地时间6月28日，美国总统拜登抵达西班牙首都马德里，并在位于马德里的首相府与西班牙首相桑切斯进行了会面。双方在会面中达成协议，同意美国将部署在西班牙加的斯省罗塔海军基地的驱逐舰数量从4艘增加到6艘，同时将部署的海员人数从1200人增加至1800人。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9215582.d.html</link>
-            <guid>2722453</guid>
-            <pubDate>Tue, 28 Jun 2022 17:25:35 GMT</pubDate>
+            <title><![CDATA[【美国联邦贸易委员会起诉沃尔玛】市场消息：美国联邦贸易委员会起诉沃尔玛，称其未能阻止汇款欺诈行为。沃尔玛将在美国联邦贸易委员会提起诉讼后为反欺诈工作辩护。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9226692.d.html</link>
+            <guid>2722543</guid>
+            <pubDate>Tue, 28 Jun 2022 20:19:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了97个对手方的2.214万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9214918.d.html</link>
-            <guid>2722452</guid>
-            <pubDate>Tue, 28 Jun 2022 17:19:26 GMT</pubDate>
+            <title><![CDATA[Pinterest的CEO Ben Silbermann离职,，将由谷歌母公司Alphabet的Bill Ready接任。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1044090.d.html</link>
+            <guid>2722541</guid>
+            <pubDate>Tue, 28 Jun 2022 20:09:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[明斯克方面表示，白俄罗斯将以本国货币支付欧洲债券票息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9214321.d.html</link>
-            <guid>2722451</guid>
-            <pubDate>Tue, 28 Jun 2022 17:13:38 GMT</pubDate>
+            <title><![CDATA[【伊朗谴责七国集团涉伊朗声明】当地时间6月28日晚，伊朗新任外交部发言人卡纳尼发表声明，强烈谴责七国集团峰会中发布的涉伊朗声明。卡纳尼表示，该声明中涉及伊朗的内容是没有根据的、片面的，声明故意无视美国严重违反伊核协议和联合国安理会第2231号决议，无视美国对伊朗人民实施的单边非法制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1043748.d.html</link>
+            <guid>2722540</guid>
+            <pubDate>Tue, 28 Jun 2022 20:04:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格和土耳其总统埃尔多安在马德里举行了会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9213266.d.html</link>
-            <guid>2722449</guid>
-            <pubDate>Tue, 28 Jun 2022 17:00:09 GMT</pubDate>
+            <title><![CDATA[美国得克萨斯州专员：移民卡车事件的死亡人数目前为51人，为39名男性和12名女性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1043028.d.html</link>
+            <guid>2722533</guid>
+            <pubDate>Tue, 28 Jun 2022 19:51:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总统泽连斯基将在周二下午的联合国安理会会议上发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9213156.d.html</link>
-            <guid>2722446</guid>
-            <pubDate>Tue, 28 Jun 2022 16:58:36 GMT</pubDate>
+            <title><![CDATA[  乌克兰政府官员表示，乌克兰将铁路货运关税提高70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1042564.d.html</link>
+            <guid>2722531</guid>
+            <pubDate>Tue, 28 Jun 2022 19:42:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国女排2比3巴西女排】在北京时间29日凌晨结束的世界女排联赛中，中国女排2：3惜败巴西女排，遭遇三连败。比赛中，落后的中国女排一直没有放弃，连扳两局进入到最终的决胜局，但遗憾没能实现逆转。此役过后，中国女排取得5胜4负，接下来还将在保加利亚站中对阵波兰女排、多米尼加女排和韩国女排。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1030661.d.html</link>
-            <guid>2722444</guid>
-            <pubDate>Tue, 28 Jun 2022 16:53:41 GMT</pubDate>
+            <title><![CDATA[美国疾控中心启动猴痘应急行动中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1042537.d.html</link>
+            <guid>2722529</guid>
+            <pubDate>Tue, 28 Jun 2022 19:42:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国官员：将与非洲和拉丁美洲的石油消费国讨论俄罗斯石油价格上限问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1030523.d.html</link>
-            <guid>2722443</guid>
-            <pubDate>Tue, 28 Jun 2022 16:51:55 GMT</pubDate>
+            <title><![CDATA[  墨西哥外长：与美国国安部长就得克萨斯州圣安东尼奥事件进行了交谈；墨西哥将和美国共同努力，找到并惩罚那些造成移民死亡的凶手。]]></title>
+            <guid>2722528</guid>
+            <pubDate>Tue, 28 Jun 2022 19:39:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[联合利华发言人表示，致力于为员工提供全面的生殖健康福利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9212179.d.html</link>
-            <guid>2722441</guid>
-            <pubDate>Tue, 28 Jun 2022 16:47:19 GMT</pubDate>
+            <title><![CDATA[  美国高级官员：土耳其没有将其对美国的要求与瑞典和芬兰的谈判联系起来，埃尔多安和拜登热切希望在北约峰会上就其他重要问题会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9223903.d.html</link>
+            <guid>2722527</guid>
+            <pubDate>Tue, 28 Jun 2022 19:27:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储戴利：由于俄乌冲突的影响，全球经济增长速度将放缓，这将对美国经济构成不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1029869.d.html</link>
-            <guid>2722440</guid>
-            <pubDate>Tue, 28 Jun 2022 16:44:34 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基呼吁联合国前往察看乌克兰遭到导弹袭击的购物中心现场。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9223894.d.html</link>
+            <guid>2722526</guid>
+            <pubDate>Tue, 28 Jun 2022 19:27:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储戴利：预计失业率会小幅上升，但不会像衰退情景中那样。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1029580.d.html</link>
-            <guid>2722438</guid>
-            <pubDate>Tue, 28 Jun 2022 16:41:36 GMT</pubDate>
+            <title><![CDATA[美国高级官员：拜登今天早些时候应芬兰和瑞典的要求与埃尔多安谈到了北约；北约协议是历史性的，为北约团结提供了“强有力的帮助”。]]></title>
+            <guid>2722525</guid>
+            <pubDate>Tue, 28 Jun 2022 19:27:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储戴利：保持物价稳定是实现充分就业的一个基本因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1029339.d.html</link>
-            <guid>2722436</guid>
-            <pubDate>Tue, 28 Jun 2022 16:38:54 GMT</pubDate>
+            <title><![CDATA[  美国高级官员：土耳其向美国提出的要求不在北约协议的范围内，拜登总统支持允许芬兰和瑞典加入北约的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9223751.d.html</link>
+            <guid>2722524</guid>
+            <pubDate>Tue, 28 Jun 2022 19:25:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据芬兰媒体报道称，瑞典、土耳其和芬兰准备签署联合备忘录，以解决土耳其对两国加入北约的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9211410.d.html</link>
-            <guid>2722435</guid>
-            <pubDate>Tue, 28 Jun 2022 16:38:47 GMT</pubDate>
+            <title><![CDATA[  美国高级官员：美国不是土耳其、芬兰和瑞典之间关于土耳其同意其加入北约的协议的缔约方。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1041615.d.html</link>
+            <guid>2722523</guid>
+            <pubDate>Tue, 28 Jun 2022 19:24:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储戴利：美联储可以降低需求，这是造成通货膨胀的一半原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1029277.d.html</link>
-            <guid>2722434</guid>
-            <pubDate>Tue, 28 Jun 2022 16:38:38 GMT</pubDate>
+            <title><![CDATA[  【法国选出历史上第一位女性国民议会主席】代表马克龙党派联盟的议员雅埃尔·伯恩-皮维（Yaël Braun-Pivet）当选法国国民议会主席。她也成为法国第一位女性国民议会主席。雅埃尔·伯恩-皮维1970年出生于法国南锡，现年52岁，在从政前是一名律师。她原为法国社会党成员，2017年跟随马克龙加入共和国前进党，并在当年当选国民议会议员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9223613.d.html</link>
+            <guid>2722522</guid>
+            <pubDate>Tue, 28 Jun 2022 19:22:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[WTI原油站上112美元/桶，日内涨2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9211170.d.html</link>
-            <guid>2722430</guid>
-            <pubDate>Tue, 28 Jun 2022 16:36:16 GMT</pubDate>
+            <title><![CDATA[【欧菲光：南昌欧菲光科技有限公司正式从美国商务部工业和安全局（BIS）实体清单中移除】欧菲光发布声明，美国政府最终用户审查委员会（ERC）于2022年6月28日做出最终决定，将南昌欧菲光科技有限公司正式从美国商务部工业和安全局（BIS）实体清单中移除。欧菲光对此表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1041442.d.html</link>
+            <guid>2722521</guid>
+            <pubDate>Tue, 28 Jun 2022 19:21:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【GfK：通胀居高不下 德国七月消费者信心指数或再创新低】德国市场研究机构捷孚凯（GfK）周二公布的一项调查显示，由于乌克兰战争和供应链中断进一步推高能源和食品价格，预计德国7月消费者信心指数将再创新低。此项调查采访了大约2000名德国人，数据表明，德国消费者信心指数在6月出现了短暂复苏，修正后的数据为-26.2点，但在临近7月时降至-27.4点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1028798.d.html</link>
-            <guid>2722429</guid>
-            <pubDate>Tue, 28 Jun 2022 16:34:26 GMT</pubDate>
+            <title><![CDATA[【可对生物靶标群起而攻之 智能DNA分子纳米机器人模型来了】近日，中国科学院合肥物质科学研究院杨良保研究员课题组与安徽大学等机构合作，构建出了可非线性云集“围攻”生物靶标分子的智能DNA分子纳米机器人模型。有关论文发表于纳米材料领域顶级期刊《纳米视野》。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9223072.d.html</link>
+            <guid>2722519</guid>
+            <pubDate>Tue, 28 Jun 2022 19:13:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美股SALIENT MIDSTREAM & MLP FUND宣布计划重组。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9210602.d.html</link>
-            <guid>2722428</guid>
-            <pubDate>Tue, 28 Jun 2022 16:31:00 GMT</pubDate>
+            <title><![CDATA[  英国首相约翰逊：瑞典和芬兰的加入将使我们的联盟更加强大和安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1040315.d.html</link>
+            <guid>2722517</guid>
+            <pubDate>Tue, 28 Jun 2022 19:06:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉Q2交付量或不如预期 瑞穗、大摩等大行集中下调目标价】出于对加息、供应链压力持续等宏观经济因素的担忧，特斯拉近期遭多家国际大行密集下调目标价。最新的下调来自瑞穗证券。瑞穗分析师拉Vijay Rakesh周一将特斯拉目标价从1300美元/股下调至1150美元/股，他担心零部件成本上升以及汽车价格下降将限制该公司未来的销售和盈利。近期包括摩根士丹利和瑞士信贷在内的多家国际大行均下调了特斯拉目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1027681.d.html</link>
-            <guid>2722425</guid>
-            <pubDate>Tue, 28 Jun 2022 16:23:04 GMT</pubDate>
+            <title><![CDATA[英国首相约翰逊：欢迎土耳其、瑞典和芬兰在北约峰会上取得突破，这是“极好的消息”。]]></title>
+            <guid>2722516</guid>
+            <pubDate>Tue, 28 Jun 2022 19:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北约秘书长：制裁俄罗斯无疑对能源价格存在影响】当地时间6月27日，北约秘书长斯托尔滕贝格在西班牙首都马德里举行的北约公共论坛演讲中表示，对俄罗斯进行的制裁对于能源价格产生了影响，这是不可否认的，各国为此付出了代价，欧盟各国正设法摆脱对俄罗斯进口能源的依赖。他同时宣布了北约首个应对气候变化的目标，北约计划到2030年实现减少40%的碳排放量的目标，到2050年实现碳中和。（央视）]]></title>
-            <guid>2722424</guid>
-            <pubDate>Tue, 28 Jun 2022 16:21:23 GMT</pubDate>
+            <title><![CDATA[  北约秘书长斯托尔滕贝格：我们同意与土耳其达成的协议，不涉及武器销售承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1040294.d.html</link>
+            <guid>2722515</guid>
+            <pubDate>Tue, 28 Jun 2022 19:05:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大阿尔伯塔省时隔七年重拾财政盈余，在美西方拱火乌克兰战争之际得益于国际油价飙涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1027215.d.html</link>
-            <guid>2722423</guid>
-            <pubDate>Tue, 28 Jun 2022 16:18:06 GMT</pubDate>
+            <title><![CDATA[  芬兰总统：下一步芬兰将收到正式邀请，成为北约成员国。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9222234.d.html</link>
+            <guid>2722514</guid>
+            <pubDate>Tue, 28 Jun 2022 19:04:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西经济部官员Sachsida：巴西政府的目标是在增加产量的情况下削减油价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9209028.d.html</link>
-            <guid>2722421</guid>
-            <pubDate>Tue, 28 Jun 2022 16:13:37 GMT</pubDate>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：土耳其同意瑞典和芬兰入约这向普京传达了一个信息，即北约的大门是敞开的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1039726.d.html</link>
+            <guid>2722511</guid>
+            <pubDate>Tue, 28 Jun 2022 18:57:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  惠誉：俄罗斯停止天然气供应将使中东欧地区面临重大的宏观冲击，包括在许多情况下出现负增长和通胀上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1026518.d.html</link>
-            <guid>2722420</guid>
-            <pubDate>Tue, 28 Jun 2022 16:10:03 GMT</pubDate>
+            <title><![CDATA[【银行年中揽储静悄悄 有受访者称“薅羊毛”计划落空 】近日，通过对北京地区银行网点实地采访、电话咨询、APP查询等多种方式了解到，像往年一样推出年中抽奖、送礼品等揽储回馈活动的情况很少，曾经的揽储“神器”高息短期理财产品及大额存单等产品也很少见，多数银行在揽储方式上越发显得“低调”。多位受访者表示，近年来监管对银行“不正当竞争”揽储进行了约束，叠加市场流动性整体趋向宽松，使银行高息揽客的意愿降低。以后银行“花式揽储”的情况或将越来越少。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1039407.d.html</link>
+            <guid>2722510</guid>
+            <pubDate>Tue, 28 Jun 2022 18:52:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美国贸易代表戴琪：合作伙伴之间还有改善贸易便利化的空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9208663.d.html</link>
-            <guid>2722419</guid>
-            <pubDate>Tue, 28 Jun 2022 16:09:50 GMT</pubDate>
+            <title><![CDATA[【ETF纳入互联互通7月4日正式实施 相关业务和技术等各项准备工作已基本完成】6月28日，中国证监会和中国香港证监会发布《中国证券监督管理委员会香港证券及期货事务监察委员会联合公告》，决定批准两地交易所正式将符合条件的交易型开放式基金(交易所买卖基金，以下统称ETF)纳入内地与香港股票市场交易互联互通机制(以下简称“互联互通”)。互联互通下的ETF交易将于2022年7月4日开始。业内人士表示，将ETF这一适合被动投资的指数化基金产品纳入互联互通，有利于丰富互联互通投资品种，进一步便利境内外投资者参与两地资本市场，增强A股对境外中长期配置型资金的吸引力，提高内地资本市场制度型开放水平，也有利于进一步巩固提升中国香港国际金融中心地位。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1039300.d.html</link>
+            <guid>2722508</guid>
+            <pubDate>Tue, 28 Jun 2022 18:50:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  欧洲投资银行副总裁：公共担保是乌克兰经济中信贷得以再次流动的关键。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1026322.d.html</link>
-            <guid>2722412</guid>
-            <pubDate>Tue, 28 Jun 2022 16:08:26 GMT</pubDate>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：北约各国领导人将于周三邀请瑞典和芬兰加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1039277.d.html</link>
+            <guid>2722507</guid>
+            <pubDate>Tue, 28 Jun 2022 18:49:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德总理：德国未来每年军费将达700至800亿欧元】德国总理朔尔茨28日在七国集团峰会闭幕后表示，未来几年，德国平均每年的军费开支将达到700至800亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9208236.d.html</link>
-            <guid>2722409</guid>
-            <pubDate>Tue, 28 Jun 2022 16:06:02 GMT</pubDate>
+            <title><![CDATA[【女鞋第一股星期六“弃鞋” 转型“轻”资产运营】星期六发布公告称，为进一步推进公司经营战略，以最终实现专注向品牌管理、供应链管理的“轻”资产运营模式转型，拟在广东股权交易中心股份有限公司以挂牌方式转让持有的子公司佛山星期六鞋业有限公司100%股权，首次挂牌转让底价不低于6.02亿元。战略定位专家、九德定位咨询公司创始人徐雄俊在接受记者采访时表示：“近几年女鞋行业陷入了严重的同质化竞争状态，企业差异化较弱，企业之间拼价格、拼流量、拼促销手段，反而使企业的利润下滑。同时，电商的兴起冲击了传统的零售店鞋业，使传统行业面临较大危机，星期六选择剥离鞋业务，符合企业的策略定位。”（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9221276.d.html</link>
+            <guid>2722506</guid>
+            <pubDate>Tue, 28 Jun 2022 18:49:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  墨西哥外长埃布拉德：墨西哥将对得克萨斯州移民死亡事件展开相关调查。]]></title>
-            <guid>2722408</guid>
-            <pubDate>Tue, 28 Jun 2022 15:59:57 GMT</pubDate>
+            <title><![CDATA[【证券日报：资本市场要为关键核心技术攻关赋能】在6月28日中共中央宣传部举行的“中国这十年”系列主题新闻发布会上，国家发展改革委副主任赵辰昕介绍，这十年，中国经济安全得到全面加强。他提到一点，产业链供应链安全稳定保障能力不断增强，5G、基础软件、工业母机、新能源汽车和智能汽车、可再生能源发展等领域的关键核心技术攻关步伐加快。在支持关键核心技术攻关方面，资本市场要继续发力。一方面，继续支持相关企业通过资本市场融资，解决资金问题，进而提高企业扩大关键核心技术研发投入的积极性；另一方面，通过资本搭桥，引导创投机构在一些重要产业创新领域发力，提供更多稳定、高效的资金支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9221161.d.html</link>
+            <guid>2722505</guid>
+            <pubDate>Tue, 28 Jun 2022 18:48:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄外交部称将对保加利亚驱逐俄外交官做出回应】俄罗斯外交部称，将对保加利亚驱逐俄外交官做出回应。当天稍早时候，保加利亚总理佩特科夫宣布驱逐70名俄罗斯外交官。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1025261.d.html</link>
-            <guid>2722407</guid>
-            <pubDate>Tue, 28 Jun 2022 15:59:47 GMT</pubDate>
+            <title><![CDATA[财经网站Forexlive分析师Adam Button：今天早些时候，意大利总理德拉基表示，预计芬兰和瑞典将在下次会议上被批准加入北约，所以这是意料之中的事情；令人担忧的是俄罗斯会对此进行报复。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9221092.d.html</link>
+            <guid>2722503</guid>
+            <pubDate>Tue, 28 Jun 2022 18:46:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北约秘书长：制裁俄罗斯无疑对能源价格存在影响】当地时间6月27日，北约秘书长斯托尔滕贝格在西班牙首都马德里举行的北约公共论坛演讲中表示，对俄罗斯进行的制裁对于能源价格产生了影响，这是不可否认的，各国为此付出了代价，欧盟各国正设法摆脱对俄罗斯进口能源的依赖。(央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1025203.d.html</link>
-            <guid>2722406</guid>
-            <pubDate>Tue, 28 Jun 2022 15:57:59 GMT</pubDate>
+            <title><![CDATA[【中药行业大有可为 多家公募正布局中药ETF 】近年来，中医药相关利好政策不断出台，中医药产业迎来发展红利期。作为机构投资者的重要组成部分，不少基金公司也在密集布局中药主题产品，尤其是指数型基金。对于积极布局中药赛道相关产品的原因，多家基金公司对记者表示，一是看好中药行业的投资价值，二是为普通投资者参与中药赛道提供便利的投资渠道。业内人士认为，未来中医药产业相关标的将进一步被市场各方关注。(证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038982.d.html</link>
+            <guid>2722502</guid>
+            <pubDate>Tue, 28 Jun 2022 18:45:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【灰熊做空蔚来汽车 指其通过武汉蔚能夸大收入和盈利能力】做空机构灰熊研究（Grizzly Research）发布报告称，蔚来汽车很可能利用一个未合并的关联方来夸大收入和盈利能力。报告指出，这个未合并的关联方——武汉蔚能，已经为蔚来汽车创造了数十亿美元的收入，“武汉蔚能允许蔚来立即确认他们销售的电池的收入，而非在订阅期（约7年）内确认收入。通过这种安排，我们认为蔚来已经通过提前确认7年的收入来增加这一数字”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9207244.d.html</link>
-            <guid>2722404</guid>
-            <pubDate>Tue, 28 Jun 2022 15:54:16 GMT</pubDate>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：土耳其同意支持瑞典和芬兰加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038914.d.html</link>
+            <guid>2722501</guid>
+            <pubDate>Tue, 28 Jun 2022 18:44:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【富国银行：将耐克目标价下调至130美元，维持超配评级】富国银行分析师Kate Fitzsimons将对耐克的目标价从150美元下调至130美元，并维持对该股超配的评级。该分析师认为，尽管耐克面临着已知的宏观方面的挑战，但其第四财季业绩和2023财年的指引仍不尽如人意。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024921.d.html</link>
-            <guid>2722403</guid>
-            <pubDate>Tue, 28 Jun 2022 15:52:26 GMT</pubDate>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：与土耳其达成的协议为瑞典、芬兰加入北约铺平了道路。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038771.d.html</link>
+            <guid>2722499</guid>
+            <pubDate>Tue, 28 Jun 2022 18:41:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【行业组织：若俄罗斯停止天然气供应，德国经济或萎缩12.7%】如果俄罗斯完全关闭天然气供应，德国经济在今年剩余时间内可能萎缩12.7％。上述警告发布之际，欧洲最大经济体德国的消费者面临着严重能源短缺的前景。这种情况可能推动通胀进一步走高并重创经济。根据巴伐利亚工业协会的这份报告，损失的商品和服务业产出可能高达1930亿欧元（2040亿美元），并且可能失去多达560万个就业岗位，进而引发政治不稳。巴伐利亚工业协会的成员包括宝马和德国电信。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9207034.d.html</link>
-            <guid>2722401</guid>
-            <pubDate>Tue, 28 Jun 2022 15:50:29 GMT</pubDate>
+            <title><![CDATA[【部委年中会诊“把脉”，稳链助企再加力】工信部正密集摸底调研，研判工业经济形势，进一步谋划工业稳增长相关举措，包括把产业链供应链作为关键着力点，进一步疏通供需循环“堵点”“卡点”，打好助企纾困“组合拳”等，以延续5月以来工业经济企稳回升态势，促进工业经济加快恢复。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038753.d.html</link>
+            <guid>2722498</guid>
+            <pubDate>Tue, 28 Jun 2022 18:41:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  乌克兰第聂伯罗彼得罗夫斯克地区州长：俄罗斯导弹袭击后，救援人员正在第聂伯罗市的废墟下搜寻被困民众。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9206999.d.html</link>
-            <guid>2722400</guid>
-            <pubDate>Tue, 28 Jun 2022 15:50:05 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安办公室称，瑞典和芬兰将修改国家反恐和国防工业法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038703.d.html</link>
+            <guid>2722497</guid>
+            <pubDate>Tue, 28 Jun 2022 18:40:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【前5个月国有企业营业总收入超30万亿元】财政部28日发布数据显示，今年前5个月，全国国有及国有控股企业营业总收入308831.3亿元，同比增长9.2%。其中，中央企业营业总收入175025.4亿元，同比增长11.2%；地方国有企业营业总收入133805.9亿元，同比增长6.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024679.d.html</link>
-            <guid>2722399</guid>
-            <pubDate>Tue, 28 Jun 2022 15:49:54 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安办公室称，将建立一个情报共享机制来打击恐怖主义。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038658.d.html</link>
+            <guid>2722496</guid>
+            <pubDate>Tue, 28 Jun 2022 18:39:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股太阳能板块跌幅居前，Enphase Energy(ENPH.O)跌近6%，SunPower(SPWR.O)跌5.13%，Sunworks(SUNW.O)跌4.17%，阿特斯太阳能(CSIQ.O)跌3.68%，Sunrun(RUN.O)跌3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024489.d.html</link>
-            <guid>2722396</guid>
-            <pubDate>Tue, 28 Jun 2022 15:46:37 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安办公室称，瑞典、芬兰将与土耳其合作打击恐怖主义，各方达成了一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9220677.d.html</link>
+            <guid>2722495</guid>
+            <pubDate>Tue, 28 Jun 2022 18:39:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澳门：本轮全民核酸累计24个混管样本呈阳性，明后两天各进行一次全民抗原检测】据澳门特区政府网站28日消息，澳门新型冠状病毒感染应变协调中心表示，本次全民核酸检测于已于今日下午6时结束，已采样652,544人次，其中406,835人次已有检测结果呈阴性，累计24个混管样本呈阳性。另外，澳门新型冠状病毒感染应变协调中心决定，全澳市民必须于29日至6月30日连续2天，每天进行1次新型冠状病毒快速抗原检测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024470.d.html</link>
-            <guid>2722395</guid>
-            <pubDate>Tue, 28 Jun 2022 15:46:19 GMT</pubDate>
+            <title><![CDATA[土耳其总统埃尔多安办公室称，瑞典和芬兰同意解除对土耳其的武器禁运。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9220620.d.html</link>
+            <guid>2722494</guid>
+            <pubDate>Tue, 28 Jun 2022 18:38:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【伊朗石油部长：美对伊朗高压制裁危及全球能源安全】伊朗石油部长乌奇28日在社交媒体上发文表示，全球能源市场的动荡正在危及能源安全，并给所有该领域的进口商带来令人担忧的后果，尤其是在即将到来的冬季。乌奇认为，毫无疑问，造成这种情况的主要原因，是（美国）对拥有全球最大石油和天然气储量国家之一的伊朗实施高压制裁。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024277.d.html</link>
-            <guid>2722391</guid>
-            <pubDate>Tue, 28 Jun 2022 15:42:16 GMT</pubDate>
+            <title><![CDATA[【美国会山骚乱事件第六场听证会举行 证人称特朗普曾表示不在乎抗议人群持有武器】当地时间6月28日，美国众议院特别调查委员会举行2021年1月6日国会山骚乱事件第六场公开听证会。前白宫办公厅主任马克·梅多斯的助手卡西迪·哈钦森（Cassidy Hutchinson）作证称，前总统特朗普的律师朱利安尼曾在2021年1月2日表示，计划在1月6日前往国会大厦，朱利安尼同时提及了包含“骄傲男孩”在内的两个极右翼组织的名字。(央视)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038431.d.html</link>
+            <guid>2722492</guid>
+            <pubDate>Tue, 28 Jun 2022 18:36:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【跳水梦之队世锦赛第三金】北京时间28日晚，在2022国际泳联世锦赛男子跳水三米板决赛争夺中，两位中国选手王宗源和曹缘发挥稳定。最终，王宗源以561.95分的超高分摘得金牌，曹缘492.85分获得银牌。这是中国跳水队在本届世锦赛的第三枚金牌。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1024120.d.html</link>
-            <guid>2722389</guid>
-            <pubDate>Tue, 28 Jun 2022 15:40:18 GMT</pubDate>
+            <title><![CDATA[【四部门部署开展涉企违规收费专项整治行动 】国家发展改革委、工信部、财政部、市场监管总局联合印发《涉企违规收费专项整治行动方案》，围绕交通物流、水电气暖、地方财经、金融、行业协会商会及中介机构等重点领域，于6月至11月在全国集中开展涉企违规收费专项整治行动。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9220085.d.html</link>
+            <guid>2722487</guid>
+            <pubDate>Tue, 28 Jun 2022 18:30:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：与西班牙首相桑切斯讨论了增加驻西班牙美国海军驱逐舰数量的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1023826.d.html</link>
-            <guid>2722385</guid>
-            <pubDate>Tue, 28 Jun 2022 15:35:46 GMT</pubDate>
+            <title><![CDATA[【量质齐升 我国经济实力跃上新台阶 】从28日举行的中共中央宣传部“中国这十年”系列主题新闻发布会上获悉，我国经济总量由2012年的53.9万亿元上升到2021年的114.4万亿元，占世界经济比重从11.3%上升到超过18%，人均国内生产总值从6300美元上升到超过1.2万美元。“这十年，中国经济实力跃上新台阶。在转向高质量发展的进程中，不断创新和完善宏观调控，经济发展既保持了量的合理增长，也实现了质的稳步提升。”国家发展改革委副主任赵辰昕说。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1038041.d.html</link>
+            <guid>2722486</guid>
+            <pubDate>Tue, 28 Jun 2022 18:30:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：亚马逊将关闭内部COVID测试实验室。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1023599.d.html</link>
-            <guid>2722381</guid>
-            <pubDate>Tue, 28 Jun 2022 15:33:02 GMT</pubDate>
+            <title><![CDATA[  芬兰总统：土耳其、瑞典和芬兰签署了共同承诺维护共同安全的联合备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9219795.d.html</link>
+            <guid>2722484</guid>
+            <pubDate>Tue, 28 Jun 2022 18:26:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【爱彼迎宣布全球性永久禁令：禁止“派对”】爱彼迎(ABNB.O)今日宣布了一项永久性全球“派对”禁令，包括公开邀请的聚会。两年前，爱彼迎曾对“派对”进行了临时限制。爱彼迎在一篇博客文章中称：这项临时禁令已被证明是有效的。自2020年8月实施这项政策以来，“派对”的报告率同比下降了44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9205606.d.html</link>
-            <guid>2722380</guid>
-            <pubDate>Tue, 28 Jun 2022 15:28:32 GMT</pubDate>
+            <title><![CDATA[芬兰总统：加入北约的步骤将在北约峰会上决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9219697.d.html</link>
+            <guid>2722483</guid>
+            <pubDate>Tue, 28 Jun 2022 18:24:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯经济部：俄罗斯计划改变谷物和葵花籽出口税的计算公式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9205599.d.html</link>
-            <guid>2722379</guid>
-            <pubDate>Tue, 28 Jun 2022 15:28:17 GMT</pubDate>
+            <title><![CDATA[芬兰总统：土耳其将支持瑞典、芬兰加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9219651.d.html</link>
+            <guid>2722482</guid>
+            <pubDate>Tue, 28 Jun 2022 18:23:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受干旱影响 肯尼亚北部饥荒加剧】肯尼亚国家干旱管理局当地时间6月28日表示，由于3月至5月的降雨量不足，肯尼亚北部的饥饿状况恶化，该国需要援助的人数已从5月的350万增加到6月的410万。据统计，包括马萨比特在内的8个县处于干旱最高警戒级别。(央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9205579.d.html</link>
-            <guid>2722378</guid>
-            <pubDate>Tue, 28 Jun 2022 15:28:02 GMT</pubDate>
+            <title><![CDATA[【普京签署商品平行进口合法化相关法案】当地时间6月28日，俄罗斯总统普京签署了有关商品平行进口合法化的法案。该法案由俄罗斯政府提出，旨在授权政府确定不适用专属权利保护条款的商品，法案签署后未经权利持有人许可而进口商品的俄罗斯公司可以不承担可能的民事、行政和刑事责任。今年5月初，俄罗斯工贸部公布了50多类适用于平行进口的商品清单，其中包括植物、药物、肥皂、武器等多种不同类型的商品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1037574.d.html</link>
+            <guid>2722481</guid>
+            <pubDate>Tue, 28 Jun 2022 18:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储布拉德：美联储采取了让通胀回归目标的第一步措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9205285.d.html</link>
-            <guid>2722376</guid>
-            <pubDate>Tue, 28 Jun 2022 15:22:55 GMT</pubDate>
+            <title><![CDATA[芬兰总统：希望就入约问题进行“富有成效的会谈”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9219487.d.html</link>
+            <guid>2722479</guid>
+            <pubDate>Tue, 28 Jun 2022 18:20:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗首席核谈判代表同欧盟协调员举行双边会晤】当地时间6月28日，伊朗副外长兼伊核问题首席谈判代表巴盖里同欧盟协调员、欧盟对外行动署副秘书长莫拉就美国解除对伊制裁进行双边会晤。(央视)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9205000.d.html</link>
-            <guid>2722374</guid>
-            <pubDate>Tue, 28 Jun 2022 15:20:04 GMT</pubDate>
+            <title><![CDATA[  芬兰总统：芬兰完全致力于遵守北约的反恐政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizmscu9219309.d.html</link>
+            <guid>2722477</guid>
+            <pubDate>Tue, 28 Jun 2022 18:18:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【捷氢科技科创板IPO获上交所受理】今日从上交所官网获悉，捷氢科技A股IPO已获上交所受理，保荐机构为国泰君安。5月20日，上汽集团股东大会审议通过了公司分拆捷氢科技至科创板上市相关议案。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizirav1022567.d.html</link>
-            <guid>2722373</guid>
-            <pubDate>Tue, 28 Jun 2022 15:19:44 GMT</pubDate>
+            <title><![CDATA[【俄罗斯总统普京与塔吉克斯坦总统拉赫蒙举行会谈】当地时间6月28日，正在塔吉克斯坦进行工作访问的俄罗斯总统普京与塔总统拉赫蒙举行会谈。双方讨论了俄塔战略及联盟关系的现状和发展前景，重点关注两国在安全、军事及军事技术领域的合作。在会谈过程中，普京还表示，俄方将继续致力于阿富汗局势的正常化，将与阿富汗境内的政治力量建立关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1037244.d.html</link>
+            <guid>2722476</guid>
+            <pubDate>Tue, 28 Jun 2022 18:17:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[维多能源集团称，被拦截的油轮的货物没有违反对俄罗斯的制裁要求。船舶追踪数据显示，这艘船装有燃料油和真空油。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-06-28/detail-imizmscu9204794.d.html</link>
-            <guid>2722371</guid>
-            <pubDate>Tue, 28 Jun 2022 15:17:52 GMT</pubDate>
+            <title><![CDATA[土耳其表示对瑞典和芬兰在北约会谈中的回应表示满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1037056.d.html</link>
+            <guid>2722473</guid>
+            <pubDate>Tue, 28 Jun 2022 18:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其方面对瑞典和芬兰在库尔德问题上的回应感到满意，土方认为瑞典和芬兰准备在库尔德人问题上与其进行合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1036787.d.html</link>
+            <guid>2722472</guid>
+            <pubDate>Tue, 28 Jun 2022 18:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 8月黄金期货收跌3.60美元，跌幅0.20%，报1821.20美元/盎司，创近两周最低收盘价。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1036716.d.html</link>
+            <guid>2722471</guid>
+            <pubDate>Tue, 28 Jun 2022 18:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度试射国产反坦克导弹】当地时间6月28日，印度国防部称，印度国防研究与发展组织和印度陆军当日在马哈拉施特拉邦的艾哈迈德讷格尔成功试射了国产反坦克导弹。印度国防部的声明指出，反坦克导弹从阿琼坦克成功试射。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-06-29/detail-imizirav1036676.d.html</link>
+            <guid>2722470</guid>
+            <pubDate>Tue, 28 Jun 2022 18:08:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
