@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 17 Jul 2022 15:05:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 18:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【胡春华在浙江督导稳就业工作】中共中央政治局委员、国务院副总理胡春华17日在浙江省督导稳就业工作时强调，采取更加有力有效的政策举措，努力推动就业持续回稳向好，更好服务经济社会发展大局。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav4006181.d.html</link>
+            <guid>2743327</guid>
+            <pubDate>Sun, 17 Jul 2022 15:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国气象部门预计全国15个省份将处于高温红色预警状态】法国气象部门发布最新公告称，预计自当天16时起，法国全境15个省份将处于高温红色预警状态，另有51个省份处于高温橙色预警状态。据法国气象部门预计，此次法国高温天气将持续至19日，18日法国多数地区将迎来最炎热的一天，部分地区白天最高温度将超过40摄氏度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2132275.d.html</link>
+            <guid>2743325</guid>
+            <pubDate>Sun, 17 Jul 2022 15:21:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰军方开始在德国接受猎豹防空坦克的培训】据报道，至少有100名乌克兰军队士兵已经开始在德国军事训练场接受猎豹防空坦克的培训。此前德国表示将在7月中旬交付乌克兰第一批15辆猎豹防空坦克以及近60000发弹药，其余15辆猎豹防空坦克预计将于8月底交付。]]></title>
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2129653.d.html</link>
@@ -308,60 +320,6 @@
             <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2075810.d.html</link>
             <guid>2743225</guid>
             <pubDate>Sun, 17 Jul 2022 08:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【当升科技：与清陶能源签订战略合作协议】当升科技公告，与清陶能源签订战略合作协议，双方一致同意在全球动力汽车电池配套开发过程中加强合作，在高容量富锂锰基正极材料、固态锂离子电池及其关键材料等锂电前沿技术领域加强交流与合作。清陶能源承诺2022年-2025年期间向公司采购总量不低于3万吨固态锂电正极材料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3945385.d.html</link>
-            <guid>2743223</guid>
-            <pubDate>Sun, 17 Jul 2022 08:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【人福医药：盐酸氢吗啡酮缓释片申报生产获得受理】人福医药公告，控股子公司宜昌人福近日收到国家药品监督管理局核准签发的盐酸氢吗啡酮缓释片申报生产的《受理通知书》。盐酸氢吗啡酮是一种阿片类药物，属于吗啡衍生物，主要用于镇痛。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3944910.d.html</link>
-            <guid>2743222</guid>
-            <pubDate>Sun, 17 Jul 2022 08:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【伊朗外交部：美国利用“伊朗恐惧症”在中东制造危机】伊朗外交部发言人卡纳尼17日说，美国继续利用失败的“伊朗恐惧症”政策试图在中东地区制造紧张局势和危机。卡纳尼当天在一份声明中驳斥美国总统拜登访问中东期间的反伊言论。声明说，这是美国政府在该地区一贯的“煽动动荡和制造紧张局势”的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3944333.d.html</link>
-            <guid>2743221</guid>
-            <pubDate>Sun, 17 Jul 2022 08:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【普源精电：正式发布高分辨率数字示波器及第二代ASIC“半人马座”芯片组】普源精电公告，公司首次正式公开发布HDO1000、HDO4000系列高分辨率数字示波器及公司第二代ASIC“半人马座”芯片组。该新产品的发布使得公司成为中国率先通过自研芯片技术实现数字示波器高分辨率性能，并成功实现产业化的电子测量仪器厂商。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3941343.d.html</link>
-            <guid>2743220</guid>
-            <pubDate>Sun, 17 Jul 2022 08:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【申联生物：获得CNAS实验室认可证书】申联生物公告，近日通过中国合格评定国家认可委员会（CNAS）的认可评定，获得其授予的实验室认可证书和认可决定书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3941038.d.html</link>
-            <guid>2743219</guid>
-            <pubDate>Sun, 17 Jul 2022 07:58:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防总17日13时针对辽宁省启动防汛四级应急响应】7月18日至20日，西南地区东南部、西北地区东南部、江汉、黄淮、江淮等地部分地区自西向东先后将有大到暴雨，部分地区有大暴雨。为做好辽河流域编号洪水应对工作，国家防总17日13时针对辽宁省启动防汛四级应急响应；对四川等8省仍维持防汛四级应急响应。国家防办16日派出的工作组和专家组持续在四川省协助指导工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3940638.d.html</link>
-            <guid>2743218</guid>
-            <pubDate>Sun, 17 Jul 2022 07:56:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据深圳口岸发布，7月16日，深圳口岸检测出3名跨境货车司机核酸阳性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3940297.d.html</link>
-            <guid>2743217</guid>
-            <pubDate>Sun, 17 Jul 2022 07:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【精华制药：股东综艺投资及昝圣达拟继续减持不超过2%】精华制药公告，股东综艺投资、昝圣达自2022年1月17日至2022年7月16日合计减持2%。综艺投资及昝圣达计划6个月内再减持不超过2%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizirav3939873.d.html</link>
-            <guid>2743216</guid>
-            <pubDate>Sun, 17 Jul 2022 07:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【辽宁省500万千瓦新增风电重点项目现场推进会召开】7月16日，辽宁省500万千瓦新增风电重点项目现场推进会召开。会议指出，加快推进辽宁省新增风电重点项目建设，发挥有效投资的关键作用，是统筹发展和安全、履行维护国家“五大安全”政治使命的重要抓手，是稳增长的有力举措。本批500万千瓦新增风电项目涉及6个地市22个项目同步推进，拉动有效投资近300亿元，是辽宁省在建规模最大、应用设备最新、示范作用较好的风电标杆项目，将对辽宁省构建清洁低碳、安全高效的能源体系起到关键支撑作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-17/detail-imizmscv2069232.d.html</link>
-            <guid>2743215</guid>
-            <pubDate>Sun, 17 Jul 2022 07:51:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
