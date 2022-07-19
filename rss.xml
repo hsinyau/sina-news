@@ -4,396 +4,478 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 09:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场消息：韩国总统尹锡悦将会见日本首相岸田文雄。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4373499.d.html</link>
-            <guid>2745012</guid>
-            <pubDate>Tue, 19 Jul 2022 06:08:04 GMT</pubDate>
+            <title><![CDATA[据欧盟文件草案：欧盟将加强对俄罗斯联邦储蓄银行的制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2542393.d.html</link>
+            <guid>2745260</guid>
+            <pubDate>Tue, 19 Jul 2022 09:10:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国6月失业率 3.9%，前值4.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2498217.d.html</link>
-            <guid>2745011</guid>
-            <pubDate>Tue, 19 Jul 2022 06:06:38 GMT</pubDate>
+            <title><![CDATA[据港交所披露文件：贝莱德于7月14日买入中广核电力(01816.HK)683万股，使其多头头寸从5.94%增至6.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2541950.d.html</link>
+            <guid>2745258</guid>
+            <pubDate>Tue, 19 Jul 2022 09:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【腾讯已申请使用私钥进行加密聊天的相关专利】天眼查显示，腾讯科技（深圳）有限公司申请的“聊天消息的显示方法、发送方法、装置、电子设备及介质”专利公布。它提供了一种聊天消息的显示方法、发送方法、装置、电子设备及介质，涉及计算机技术领域。其中该聊天消息的显示方法包括：在会话界面中显示发送端发送的加密聊天消息；获取第一用户的私钥；根据第一用户的私钥对加密聊天消息进行解密，得到解密聊天消息；将解密聊天消息显示在会话界面中。本申请实施例解决了现有技术中聊天消息仍存在泄漏高风险的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4373155.d.html</link>
-            <guid>2745010</guid>
-            <pubDate>Tue, 19 Jul 2022 06:05:34 GMT</pubDate>
+            <title><![CDATA[淡水河谷(VALE.N)印尼公司第二季度镍锍产量为12,567吨，上年同期为15,048吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4417378.d.html</link>
+            <guid>2745257</guid>
+            <pubDate>Tue, 19 Jul 2022 09:09:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国6月失业金申请人数 -2万人，前值-1.97万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4373117.d.html</link>
-            <guid>2745009</guid>
-            <pubDate>Tue, 19 Jul 2022 06:05:17 GMT</pubDate>
+            <title><![CDATA[欧盟预算委员哈恩：别指望北溪天然气管道会重启。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4417307.d.html</link>
+            <guid>2745256</guid>
+            <pubDate>Tue, 19 Jul 2022 09:09:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞士6月黄金出口量环比下降21％至84吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4373106.d.html</link>
-            <guid>2745008</guid>
-            <pubDate>Tue, 19 Jul 2022 06:05:06 GMT</pubDate>
+            <title><![CDATA[【外交部介绍中印第十六轮军长级会谈举行情况】7月19日，外交部发言人赵立坚主持例行记者会。有记者就中印第十六轮军长级会谈相关问题提问。赵立坚表示，在中印第十六轮军长级会谈中，双方在3月11日举行的第十五轮军长级会谈基础上，以建设性和前瞻性方式继续探讨推动解决中印边界西段实控线地区有关问题。双方同意维护中印边界西段安全稳定，继续密切保持外交和军事渠道沟通对话。尽早就解决剩余问题，达成双方都可接受的方案。此轮会谈后双方发表了联合新闻稿，对本轮会谈予以了积极评价。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4416603.d.html</link>
+            <guid>2745253</guid>
+            <pubDate>Tue, 19 Jul 2022 09:07:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【润和软件：公司主要是开源鸿蒙和华为鸿蒙不同 无法预测业绩影响】今天上午，记者以投资者身份致电润和软件，相关工作人员表示，公司在智能科技方面有一个稳定的增长，智能物联和智慧能源正在积极开发。华为鸿蒙3.0相关消息对公司股价表现是市场反应，公司主要是开源鸿蒙与华为鸿蒙不同，业绩影响无法预测。 (第一财经)]]></title>
-            <guid>2745007</guid>
-            <pubDate>Tue, 19 Jul 2022 06:04:41 GMT</pubDate>
+            <title><![CDATA[乌克兰总统泽连斯基解雇国家安全局副局长。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2541034.d.html</link>
+            <guid>2745252</guid>
+            <pubDate>Tue, 19 Jul 2022 09:06:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5月三个月ILO就业人数 29.6万人，预期17万人，前值17.7万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4373007.d.html</link>
-            <guid>2745006</guid>
-            <pubDate>Tue, 19 Jul 2022 06:04:24 GMT</pubDate>
+            <title><![CDATA[【世茂集团获港交所复牌指引 股票继续停牌】世茂集团(00813.HK)公告称，于2022年7月15日，本公司接获联交所的以下复牌指引，包括刊发所有尚未刊发之财务业绩，及处理任何审核修订；就本公司前任核数师罗兵咸永道会计师事务所于其辞任函中提出的事项进行适当的独立调查、公布调查结果并采取适当的补救措施等内容。本公司正采取适当措施遵守复牌指引及相关上市规则，并将适时作出进一步公告告知公众最新发展情况。本公司股份将继续暂停买卖，直至另行通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4416410.d.html</link>
+            <guid>2745251</guid>
+            <pubDate>Tue, 19 Jul 2022 09:06:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【平顶山新华区：问题楼盘“一项目一专班”，警惕烂尾楼断供】河南省平顶山市新华区区长张伟民于7月15日主持召开问题楼盘处置化解推进会。张伟民要求，问题楼盘处置化解涉及民生，涉及底线，关乎社会大局稳定，拆迁安置压力很大，刻不容缓。要依法依规处置，重点推进。同时，要紧跟政策，做好向上汇报协调工作。一楼一策，紧盯不放，确保问题化解到位。今年5月底，新华区根据人员变动情况，对各化解专班进行调整充实，实行“一项目一专班”，各专班负责人要亲自协调、亲自督办、统筹协调推进问题化解。此外，筑牢底线，维护稳定。一方面积极筹措资金发放群众过渡安置费，农民工资，取得群众理解，全力做好稳定工作。另一方面高度警惕近期的“烂尾楼断供”事件影响，认真研判风险，避免形成规模性事件。各化解专班要综合采取多种措施，切实做好问题楼盘化解和群众维稳工作，坚决在9月底完成化解任务，确保经济平稳运行，社会和谐稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2497767.d.html</link>
-            <guid>2745004</guid>
-            <pubDate>Tue, 19 Jul 2022 06:03:33 GMT</pubDate>
+            <title><![CDATA[【歌尔股份：首次入选教育部产学合作协同育人项目指南企业】歌尔股份消息，近日，由国家教育部高等教育司组织的产学合作协同育人项目组公布了最新一批产学合作协同育人项目指南通过企业名单，歌尔股份申报的前沿技术应用探索研究、博士后技术攻关、定向人才培养3个项目成功入围，这也是公司首次入选产学合作协同育人项目指南企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4415908.d.html</link>
+            <guid>2745249</guid>
+            <pubDate>Tue, 19 Jul 2022 09:05:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[广西北海第一家方舱医院投入使用，设置床位600张。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2497574.d.html</link>
-            <guid>2745002</guid>
-            <pubDate>Tue, 19 Jul 2022 06:02:03 GMT</pubDate>
+            <title><![CDATA[Applied Blockchain(APLD.O)盘前涨近36%，公司将第四财季收入指引从570至620万美元上调至700至740万美元，超市场预期的568万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2540231.d.html</link>
+            <guid>2745248</guid>
+            <pubDate>Tue, 19 Jul 2022 09:04:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国5月三个月ILO失业率 3.8%，预期3.9%，前值3.80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4372620.d.html</link>
-            <guid>2745001</guid>
-            <pubDate>Tue, 19 Jul 2022 06:01:29 GMT</pubDate>
+            <title><![CDATA[信达生物(01801.HK)：国家药品监督管理局药品审评中心已经正式受理奥雷巴替尼（耐立克®）的上市申请并被纳入优先审评程式（CDE公示期已于7月18日结束），用于治疗一代和二代酪氨酸激酶抑制剂耐药和╱或不耐受的慢性髓细胞白血病慢性期患者，将支持耐立克®获得完全批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2540098.d.html</link>
+            <guid>2745247</guid>
+            <pubDate>Tue, 19 Jul 2022 09:04:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞士6月贸易帐 38.03亿瑞郎，前值31.16亿瑞郎。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2497463.d.html</link>
-            <guid>2745000</guid>
-            <pubDate>Tue, 19 Jul 2022 06:01:08 GMT</pubDate>
+            <title><![CDATA[【华为成为Sisvel Wi-Fi 6专利池创始成员】 华为今天宣布作为创始成员加入Sisvel Wi-Fi 6专利池。使用者可以通过该专利池获得华为及其他入池专利权人的Wi-Fi 6标准必要专利许可。]]></title>
+            <guid>2745246</guid>
+            <pubDate>Tue, 19 Jul 2022 09:03:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【预告：第三届半导体湿电子化学品与电子气体论坛7月28日至29日召开】“第三届半导体湿电子化学品与电子气体论坛2022”将于7月28日至29日在海南三亚召开。会议由亚化咨询主办，多家国内外龙头企业将参会。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4372224.d.html</link>
-            <guid>2744999</guid>
-            <pubDate>Tue, 19 Jul 2022 05:58:39 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：摧毁了美国和欧洲国家在乌克兰敖德萨地区供应武器的弹药库。]]></title>
+            <guid>2745245</guid>
+            <pubDate>Tue, 19 Jul 2022 09:03:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【俄土伊三国首脑齐聚德黑兰 重点谈叙利亚问题及多边合作】当地时间19日，俄罗斯总统普京、土耳其总统埃尔多安和伊朗总统莱希将在伊朗首都德黑兰召开阿斯塔纳进程国家首脑会议，重点讨论叙利亚问题以及多边合作。俄罗斯、土耳其、伊朗三国是叙利亚问题阿斯塔纳进程的担保国，叙利亚问题是本次会议的重点内容之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4372129.d.html</link>
-            <guid>2744998</guid>
-            <pubDate>Tue, 19 Jul 2022 05:57:21 GMT</pubDate>
+            <title><![CDATA[【香港银行业再为贸易融资贷款展期90天】香港金融管理局 （金管局）今日联同银行业中小企贷款协调机制（协调机制）宣布，再次延长“预先批核还息不还本”计划下贸易融资贷款还款期90天。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2539799.d.html</link>
+            <guid>2745244</guid>
+            <pubDate>Tue, 19 Jul 2022 09:03:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【重庆高新区：已成立房地产问题项目风险化解处置小组】 据人民网“领导留言板”，针对群众反映较多的佳兆业珑樾壹号、富力院士庭、富力朗境、金科新天宸等项目停工问题，重庆市高新区建设局约谈相关开发商督促复工复产、成立房地产问题项目风险化解处置小组、安排房地产专班组跟进项目建设进度。（澎湃）]]></title>
-            <guid>2744996</guid>
-            <pubDate>Tue, 19 Jul 2022 05:54:41 GMT</pubDate>
+            <title><![CDATA[【趣店创始人回应被董宇辉拉黑：很遗憾，可能再也看不到董老师直播了】据第一财经，7月18日，趣店创始人罗敏现身东方甄选直播间，并狂刷礼物。主播董宇辉则回应称“不要再刷了，这是卖菜的直播间，新东方现在还是上市公司，我们的财力还是比较让大家放心的”。7月19日，罗敏在账号发布视频称很遗憾自己被董老师拉黑，并表示自己很喜欢董老师的直播，只是很遗憾以后可能再也看不到了。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4415143.d.html</link>
+            <guid>2745243</guid>
+            <pubDate>Tue, 19 Jul 2022 09:03:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【立讯精密：公司对上游原材料拥有较强管控力】立讯精密在互动平台上称，公司重视供应链管理，对上游原材料拥有较强管控力，能够顺利配合公司的生产和销售，并实现公司效益最大化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4371749.d.html</link>
-            <guid>2744995</guid>
-            <pubDate>Tue, 19 Jul 2022 05:53:13 GMT</pubDate>
+            <title><![CDATA[市场消息：意大利油企埃尼集团、西方石油公司和道达尔公司将共同开发阿尔及利亚的Berkine盆地地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4414890.d.html</link>
+            <guid>2745242</guid>
+            <pubDate>Tue, 19 Jul 2022 09:02:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁夏固原：首套房可获购房合同价款1%补贴】固原市日前发布通知，在市区购买新建商品房和二手房（含住宅、非住宅），购房面积144平方米以下，并在一定时间内签订商品房及二手房买卖合同、缴纳税费、完成不动产登记或二手房完成转移登记的购房人，首套房屋按购房合同价款的10‰给予补贴，二套房屋按购房合同价款的5‰给予补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4371516.d.html</link>
-            <guid>2744994</guid>
-            <pubDate>Tue, 19 Jul 2022 05:51:16 GMT</pubDate>
+            <title><![CDATA[俄副外长波格丹诺夫认为，普京访问德黑兰后可能会与叙利亚总统阿萨德接触。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2539391.d.html</link>
+            <guid>2745241</guid>
+            <pubDate>Tue, 19 Jul 2022 09:02:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德国或推迟关停仅存三座核电站】德国经济部18日表示，鉴于今年冬季电力供应短缺风险增高，原定年内退役的现存三座核电站可能需要延期运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2496319.d.html</link>
-            <guid>2744993</guid>
-            <pubDate>Tue, 19 Jul 2022 05:50:41 GMT</pubDate>
+            <title><![CDATA[欧元区6月CPI月率 0.8%，预期0.80%，前值0.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2538774.d.html</link>
+            <guid>2745240</guid>
+            <pubDate>Tue, 19 Jul 2022 09:00:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世纪佳缘“失联”高管已被拘留，大股东复星主动报案并透露原因】据第一财经，7月18日，婚恋网站世纪佳缘被传公司的多位C字头高管突然消失，其中包括CEO、COO、CFO和以及多位VP。当天，世纪佳缘方面官方回应：“实际情况并非网络截图所说，现公司确有个别管理层因个人原因正配合司法机关调查，相关信息以司法机关公布为准。董事会已授权相关人员行使相应职责，公司业务运营一切正常。”今日，第一财经记者从世纪佳缘的控股股东复星集团了解到，世纪佳缘的个别管理层，因个人涉嫌职务侵占，目前被公安机关采取刑事拘留措施。复星方面进一步透露，这次案件是集团廉政督察部门在日常的监督检查中，发现当事人涉嫌利用职务便利进行犯罪的相关线索，之后向公安机关报案，并由公安机关依法采取了强制措施。复星一贯坚持合法合规运营，对任何腐败问题坚持零容忍态度，要求管理层和每位员工都必须具有遵纪守法的执业理念和诚实守信的职业道德操守。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2496218.d.html</link>
-            <guid>2744992</guid>
-            <pubDate>Tue, 19 Jul 2022 05:50:03 GMT</pubDate>
+            <title><![CDATA[欧元区6月CPI年率终值 8.6%，预期8.60%，前值8.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2538686.d.html</link>
+            <guid>2745239</guid>
+            <pubDate>Tue, 19 Jul 2022 09:00:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【润和软件：公司主要是开源鸿蒙和华为鸿蒙不同 无法预测业绩影响】据第一财经，今天上午，记者以投资者身份致电润和软件，相关工作人员表示，公司在智能科技方面有一个稳定的增长，智能物联和智慧能源正在积极开发。华为鸿蒙3.0相关消息对公司股价表现是市场反应，公司主要是开源鸿蒙与华为鸿蒙不同，业绩影响无法预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4371291.d.html</link>
-            <guid>2744991</guid>
-            <pubDate>Tue, 19 Jul 2022 05:49:36 GMT</pubDate>
+            <title><![CDATA[空中客车公司（Airbus）：达美航空将最新的A220客机订单增加到107架，包括45架A220-100和62架A220-300；该订单的A220客机将采用普惠GTF发动机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4414035.d.html</link>
+            <guid>2745238</guid>
+            <pubDate>Tue, 19 Jul 2022 08:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[润和软件20cm涨停，成交额28.55亿元，涨幅20.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2496009.d.html</link>
-            <guid>2744987</guid>
-            <pubDate>Tue, 19 Jul 2022 05:48:19 GMT</pubDate>
+            <title><![CDATA[【乌总统泽连斯基解雇国家安全局副局长】据乌克兰国家通讯社19日报道，乌克兰总统泽连斯基当天解雇了乌克兰国家安全局副局长弗拉迪米尔·霍尔班科（Volodymyr Horbenko）。据报道，2019年11月，霍尔班科被任命为乌克兰国家安全局副局长。此前7月17日，乌克兰总统泽连斯基解除了国家安全局局长巴卡诺夫的职务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4413573.d.html</link>
+            <guid>2745237</guid>
+            <pubDate>Tue, 19 Jul 2022 08:57:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【顺威股份成立新能源汽车公司，注册资本1亿元】企查查APP显示，近日，广州顺威新能源汽车有限公司成立，注册资本1亿元人民币，经营范围包含：汽车零部件及配件制造；汽车零部件研发；智能车载设备制造；模具制造；电机制造；智能机器人的研发等。企查查股权穿透显示，该公司由顺威股份100%控股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4370828.d.html</link>
-            <guid>2744986</guid>
-            <pubDate>Tue, 19 Jul 2022 05:45:37 GMT</pubDate>
+            <title><![CDATA[【多家风电企业回应“巨头专利”到期影响：受制成本因素 碳玻叶片短期难大规模迭代】记者采访多家风电企业获悉，风电设备巨头Vestas（维斯塔斯）风电叶片碳纤维核心专利拉挤工艺到期，中国叶片制造企业应用碳梁的风电叶片产品占比有望增大，但受制成本因素，碳玻叶片短期难大规模迭代。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4413374.d.html</link>
+            <guid>2745236</guid>
+            <pubDate>Tue, 19 Jul 2022 08:56:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国广核：公司将高度关注并积极参与“源网荷储用”等电力产业链业务机会】据第一财经消息，中国广核表示，在构建新型电力系统背景下，公司将高度关注并积极参与“源网荷储用”等电力产业链业务机会，参与抽蓄、电化学储能等，支撑公司核电业务发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2495713.d.html</link>
-            <guid>2744985</guid>
-            <pubDate>Tue, 19 Jul 2022 05:45:25 GMT</pubDate>
+            <title><![CDATA[【百川股份：为加速电化学储能市场拓展 与科陆电子的子公司签署战略合作协议】百川股份公告，为了在电化学储能领域广泛开展合作，加速电化学储能市场拓展，公司子公司海基新能源与科陆电子下属全资子公司宜春科陆签署了《战略合作协议》。合作产品为锂离子电池单体、电池模组或电池包。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4413289.d.html</link>
+            <guid>2745235</guid>
+            <pubDate>Tue, 19 Jul 2022 08:56:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【2028年洛杉矶奥运会举办日期确定】当地时间7月18日，洛杉矶奥运会组委会宣布，2028年洛杉矶夏季奥运会将于7月14日开幕、7月30日闭幕，洛杉矶夏季残奥会的比赛则将在8月15日至8月27日进行。这将是洛杉矶历史第三次举办奥运会、首次举办残奥会，此前两次举办夏奥会分别在1932年和1984年。（央视体育）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4370403.d.html</link>
-            <guid>2744983</guid>
-            <pubDate>Tue, 19 Jul 2022 05:41:33 GMT</pubDate>
+            <title><![CDATA[【深圳控股：6月合同销售额约29.27亿元 同比增加106.4%】深圳控股在港交所公告，6月份集团未经审计合同销售额约为29.27亿元，环比增加768.5%，同比增加106.4%。合同销售面积约131,892平方米，环比增加871.5%，同比增加135.4%。本月主要销售来自于中山湾中新城、东莞松湖云城花园及深圳深业云筑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4413181.d.html</link>
+            <guid>2745234</guid>
+            <pubDate>Tue, 19 Jul 2022 08:55:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巨轮智能触及涨停，成交额38.71亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4369754.d.html</link>
-            <guid>2744980</guid>
-            <pubDate>Tue, 19 Jul 2022 05:36:48 GMT</pubDate>
+            <title><![CDATA[波音称美国投资公司777 Partners将最多订购66架737 MAX飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2537715.d.html</link>
+            <guid>2745233</guid>
+            <pubDate>Tue, 19 Jul 2022 08:55:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  丰田、铃木、大发汽车将于2023财年推出微型电动商用车。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4369688.d.html</link>
-            <guid>2744979</guid>
-            <pubDate>Tue, 19 Jul 2022 05:36:13 GMT</pubDate>
+            <title><![CDATA[【字节跳动确认将自研芯片：仅供内部使用】据报道，在多家中国互联网巨头相继启动芯片项目后，字节跳动也计划自主设计芯片。字节跳动发言人表示，由于无法找到能够满足需求的供应商，该公司计划针对特定用途设计自用芯片。该芯片将会专门针对字节跳动涉足的多个业务领域进行定制，包括视频平台、信息和娱乐应用等。字节跳动不会面向其他公司销售芯片。这家社交媒体巨头已经在其网站上发布了多项与半导体设计有关的招聘启事。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4412957.d.html</link>
+            <guid>2745232</guid>
+            <pubDate>Tue, 19 Jul 2022 08:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩“统一教”前二把手开记者会鞠躬道歉，承认对安倍之死负有责任】 日本电视台19日报道，韩国“统一教”前二把手郭锭焕当天在首尔召开记者会并就日本前首相安倍晋三8日中弹身亡一事鞠躬道歉。郭锭焕说，“现在的‘统一教’已经偏离正轨”，“我不认为对安倍之死不负有责任。对此由衷道歉”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2494218.d.html</link>
-            <guid>2744976</guid>
-            <pubDate>Tue, 19 Jul 2022 05:34:12 GMT</pubDate>
+            <title><![CDATA[【重大项目发放贷款近千亿元 广东支持有效投资按下“快进键”】记者从广东银行业2022年二季度新闻通气会上获悉，今年以来，广东辖内（不含深圳）主要银行机构支持全省1570个重大项目建设，为重大项目发放贷款约950亿元，并为广东专项债项目提供配套融资460亿元，约为去年同期的2.5倍。同时，针对制造业尤其是科技型企业需求，广东更加“看信用、借长期”，保障科技项目投资“不差钱”。陈晓勇介绍，截至6月末，广东辖内科技型企业贷款余额超7800亿元，同比增长47%，其中中长期贷款和信用贷款余额占比分别达45%和36%。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4412798.d.html</link>
+            <guid>2745231</guid>
+            <pubDate>Tue, 19 Jul 2022 08:53:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新智认知午后直线封板 回应：公司没有关于人脑工程的实际业务和订单】特斯拉CEO埃隆·马斯克近日表示，他已经将自己的大脑上传到云端，并已经与自己的虚拟版本交谈过。受此消息影响，人脑工程概念股午后走强，其中新智认知直线封板，报8.60元。记者以投资人身份联系到新智认知投资者关系部门，相关人士表示，公司目前聚焦在城市安全、智慧城市等，没有关于人脑工程这块的实际业务和订单。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4369281.d.html</link>
-            <guid>2744975</guid>
-            <pubDate>Tue, 19 Jul 2022 05:34:00 GMT</pubDate>
+            <title><![CDATA[【华为成为Sisvel Wi-Fi 6专利池创始成员】华为今天宣布作为创始成员加入Sisvel Wi-Fi 6专利池。使用者可以通过该专利池获得华为及其他入池专利权人的Wi-Fi 6标准必要专利许可。华为的Wi-Fi 6产品也同时获得专利池的许可。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2537130.d.html</link>
+            <guid>2745230</guid>
+            <pubDate>Tue, 19 Jul 2022 08:51:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国军事情报机构：虽然俄罗斯仍可能取得进一步的领土优势，但其行动节奏和推进速度可能非常缓慢。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4368174.d.html</link>
-            <guid>2744973</guid>
-            <pubDate>Tue, 19 Jul 2022 05:28:07 GMT</pubDate>
+            <title><![CDATA[【中汽协：中国品牌乘用车市场占有率延续了不断提升态势】据中国汽车工业协会统计分析，中国品牌乘用车市场占有率延续了不断提升态势。今年以来，中国品牌乘用车企业抢抓新发展机遇，全面推动品牌向上发展战略，进一步缩小了与国外优势汽车企业之间的差距。2022年6月，中国品牌乘用车共销售99.4万辆，环比增长24.5%、同比增长43.1%，占乘用车销售总量的44.8%，比上年同期上升0.6个百分点。1-6月，中国品牌乘用车共销售489.1万辆，同比增长16.5%，占乘用车销售总量的47.2%，比上年同期上升5.3个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2537063.d.html</link>
+            <guid>2745229</guid>
+            <pubDate>Tue, 19 Jul 2022 08:51:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国军事情报机构：俄罗斯继续派遣名义上的6支军队参与顿巴斯进攻。俄罗斯宣称的近期政策目标是占领整个顿涅茨克州。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2492795.d.html</link>
-            <guid>2744971</guid>
-            <pubDate>Tue, 19 Jul 2022 05:25:30 GMT</pubDate>
+            <title><![CDATA[创业板上市委公告，四川沃文特生物工程股份有限公司、浙江普莱得电器股份有限公司、杭州经纬信息技术股份有限公司首发7月26日上会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2536929.d.html</link>
+            <guid>2745228</guid>
+            <pubDate>Tue, 19 Jul 2022 08:50:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃尔沃第二季度营业利润137.5亿瑞典克朗，预估125.2亿瑞典克朗。销售净额1189亿瑞典克朗，预估1,063.2亿瑞典克朗。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2492573.d.html</link>
-            <guid>2744969</guid>
-            <pubDate>Tue, 19 Jul 2022 05:23:35 GMT</pubDate>
+            <title><![CDATA[乌克兰媒体“Strana.ua”援引该国国家安全与国防委员会秘书丹尼洛夫的话发布消息称，乌克兰近期可能获得更多可用于美国“海马斯”多管火箭炮系统的远程火箭弹。（卫星新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4411456.d.html</link>
+            <guid>2745227</guid>
+            <pubDate>Tue, 19 Jul 2022 08:47:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃尔沃仍然预测全年欧洲重卡市场规模30万辆，第二季度卡车订单下降8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4367271.d.html</link>
-            <guid>2744966</guid>
-            <pubDate>Tue, 19 Jul 2022 05:22:07 GMT</pubDate>
+            <title><![CDATA[【江苏拟修订市容环卫条例，共享单车影响市容企业最高受罚十万】江苏省司法厅公布《江苏省城市市容和环境卫生管理条例（修订草案）》（征求意见稿），向社会征求意见。根据该修订草案，互联网租赁车辆运营企业未按照规定有序投放车辆或者未及时回收故障、破损、废弃车辆，影响市容环卫的，责令改正，处一万元以上十万元以下罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2536038.d.html</link>
+            <guid>2745226</guid>
+            <pubDate>Tue, 19 Jul 2022 08:47:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本鹿儿岛县知事表示同意在自卫队鹿屋航空基地部署美军无人机】日本鹿儿岛县知事盐田康一19日在记者会上表示，将接受美军把8架MQ-9无人机暂时部署在位于鹿儿岛县鹿屋市的海上自卫队鹿屋航空基地的计划。这将是日本自卫队基地内首次部署美军无人机。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2492174.d.html</link>
-            <guid>2744965</guid>
-            <pubDate>Tue, 19 Jul 2022 05:21:16 GMT</pubDate>
+            <title><![CDATA[【马来西亚将2022年8月份毛棕榈油的出口税维持在8%】据马来西亚棕榈油局MPOB：马来西亚将2022年8月份毛棕榈油的出口税维持在8%。但将2022年8月份的参考价从7月份的6732.26林吉特/吨下调至5257.91林吉特/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2535601.d.html</link>
+            <guid>2745225</guid>
+            <pubDate>Tue, 19 Jul 2022 08:44:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯驻印尼大使称，在巴厘岛的G20部长级会议上，谈不上“孤立”俄罗斯，除了G7国家外，其他国家代表团团长在排队与俄罗斯外长拉夫罗夫举行双边会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2491888.d.html</link>
-            <guid>2744964</guid>
-            <pubDate>Tue, 19 Jul 2022 05:19:20 GMT</pubDate>
+            <title><![CDATA[【福耀玻璃完成发行3亿元超短期融资券】福耀玻璃公告称，2022年7月15日，公司在全国银行间市场公开发行2022年度第六期超短期融资券(简称“22福耀玻璃SCP006”)，发行总额为人民币3亿元，本期超短期融资券的期限为163天，发行价格为100元/百元面值，发行利率为1.95%(年利率)，主承销商为交通银行股份有限公司，起息日为2022年7月18日，兑付方式为到期一次性还本付息。本次募集资金主要用于偿还金融机构借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2535520.d.html</link>
+            <guid>2745224</guid>
+            <pubDate>Tue, 19 Jul 2022 08:44:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：韩国外交部长Park抵达日本首相办公室。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2491801.d.html</link>
-            <guid>2744963</guid>
-            <pubDate>Tue, 19 Jul 2022 05:18:25 GMT</pubDate>
+            <title><![CDATA[【腾讯看点快报App 宣布 7 月 18 日停止运营】看点快报 App 近日发布公告，由于公司业务调整，快报 App 将于 2022 年 7 月 18 日正式停止运营。App Store 商店页面信息显示，快报是腾讯为高价值用户推出的泛资讯信息流独立 App。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4410493.d.html</link>
+            <guid>2745223</guid>
+            <pubDate>Tue, 19 Jul 2022 08:42:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【人脑工程概念股午后走强】新智认知、创新医疗涨停，汉威科技、冠昊生物、航网科技、科大讯飞、北大医院、汉王科技等跟涨。消息面上，特斯拉CEO埃隆·马斯克近日表示，他已经将自己的大脑上传到云端，并已经与自己的虚拟版本交谈过。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4366789.d.html</link>
-            <guid>2744962</guid>
-            <pubDate>Tue, 19 Jul 2022 05:18:13 GMT</pubDate>
+            <title><![CDATA[【文化和旅游部印发《关于促进乡村民宿高质量发展的指导意见》】文化和旅游部日前印发《关于促进乡村民宿高质量发展的指导意见》提出积极吸引农户、村集体经济组织、合作社、企业、能人创客等多元投资经营主体参与乡村民宿建设。鼓励农户和返乡人员开发利用自有房屋自主经营乡村民宿，在规划布局、质量标准、建筑风格等方面加强指导。在充分尊重农民意愿的前提下，鼓励依法盘活利用农村闲置宅基地和闲置住宅等资源。加大人才返乡创业扶持力度，支持外出务工农民、高校毕业生等回乡进行乡村民宿创业，为乡村民宿持续健康发展提供人才保障。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4410425.d.html</link>
+            <guid>2745222</guid>
+            <pubDate>Tue, 19 Jul 2022 08:42:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【元宇宙概念股午后走高】宝鹰股份午后拉升封板，汤姆猫、湖北广电、中青宝、中文在线、佳创视讯等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4366727.d.html</link>
-            <guid>2744961</guid>
-            <pubDate>Tue, 19 Jul 2022 05:17:22 GMT</pubDate>
+            <title><![CDATA[【恒大高新七连扳 深交所发关注函】深交所向恒大高新发关注函，2022年7月7日至19日，公司股票价格涨幅101.01%，期间两次触及股价异常波动标准，深交所对此表示关注，要求说明公司近期接受媒体采访、机构和投资者调研、回复投资者咨询等情况，是否客观、真实、准确、完整、公平地介绍公司业务实际情况，是否存在违反信息披露准确性、公平性原则的情形。在2022年7月26日前将有关说明材料报送我部并对外披露，同时抄送派出机构。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2534985.d.html</link>
+            <guid>2745221</guid>
+            <pubDate>Tue, 19 Jul 2022 08:41:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳大利亚气象局：今年晚些时候发生拉尼娜现象的可能性约为50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4366692.d.html</link>
-            <guid>2744960</guid>
-            <pubDate>Tue, 19 Jul 2022 05:17:03 GMT</pubDate>
+            <title><![CDATA[马来西亚将8月份的粗棕榈油出口关税维持在8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2534693.d.html</link>
+            <guid>2745220</guid>
+            <pubDate>Tue, 19 Jul 2022 08:40:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【比亚迪、宁德时代、中通客车呈现主力资金加速净流出】逾50股主力资金净流出超1亿元，比亚迪午后呈现加速净流出，净流出超过9亿元，位列首位；大连重工、隆基绿能、金智科技、宁德时代净流出超5亿元，中通客车、巨轮智能、攀钢钒钛净流出超4亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2491435.d.html</link>
-            <guid>2744959</guid>
-            <pubDate>Tue, 19 Jul 2022 05:14:46 GMT</pubDate>
+            <title><![CDATA[【广汽集团：目前广汽埃安第二工厂产能建设项目正在按计划推进 预计四季度建成投产】广汽集团近期接受投资者调研时称，2月，广汽埃安智能生态工厂二期（10万/年）能扩项目顺利竣工，广汽埃安标准产能达20万辆/年。目前广汽埃安第二工厂产能建设项目正在按计划推进，预计四季度建成投产，届时广汽埃安整体产能将达到40万辆/年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2534314.d.html</link>
+            <guid>2745218</guid>
+            <pubDate>Tue, 19 Jul 2022 08:38:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【农发行董事会审议通过设立农发基础设施基金有关事宜】中国农业发展银行7月18日召开董事会，审议通过设立农发基础设施基金有关事宜。设立农发基础设施基金是农发行贯彻落实国务院常务会议确定的政策性、开发性金融工具支持重大项目建设决策部署的重要举措。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4366239.d.html</link>
-            <guid>2744957</guid>
-            <pubDate>Tue, 19 Jul 2022 05:13:14 GMT</pubDate>
+            <title><![CDATA[【亚美尼亚军队将完全撤出纳卡地区】亚美尼亚安全会议秘书格里高良19日接受媒体采访时表示，亚美尼亚军队目前正在从纳戈尔诺-卡拉巴赫（纳卡）地区撤出，这一过程将于9月结束。格里高良同时强调，部署在纳卡地区的俄罗斯维和部队将保证当地的安全。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4409532.d.html</link>
+            <guid>2745216</guid>
+            <pubDate>Tue, 19 Jul 2022 08:37:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[比亚迪电子跌近8%，领跌港股苹果概念股；高伟电子跌6.77%，舜宇光学科技跌近4%，瑞声科技跌3.62%，丘钛科技跌1.3%。]]></title>
-            <guid>2744956</guid>
-            <pubDate>Tue, 19 Jul 2022 05:12:02 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心：“埃斯特尔”减弱为热带风暴，预计本周晚些时候将变为残余低气压。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4409303.d.html</link>
+            <guid>2745215</guid>
+            <pubDate>Tue, 19 Jul 2022 08:36:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2022中国算力大会7月29日至31日举办】 由工业和信息化部与山东省政府共同主办的2022中国算力大会将于7月29日至31日在山东济南召开。这是全国首个以数据中心算力赋能为主题的省部联办会议。本次大会以“算赋百业 力导未来”为主题，会议期间，将召开“算力筑基”和“算力赋能”两个主论坛。同时将举办20余场主题分论坛，主题涵盖工业互联网、能源、智慧城市等行业应用；边缘计算、模块化数据中心、算力安全等关键技术；以及市场拓展、投融资等产业服务。会议期间，还将举办“算力创新应用成果展”。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4366048.d.html</link>
-            <guid>2744955</guid>
-            <pubDate>Tue, 19 Jul 2022 05:11:43 GMT</pubDate>
+            <title><![CDATA[【赛诺医疗：两名股东拟合计减持不超过8.07%股份】赛诺医疗公告，股东Great Noble Investment Limited、CSF Stent Limited拟合计减持不超过8.07%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4409283.d.html</link>
+            <guid>2745214</guid>
+            <pubDate>Tue, 19 Jul 2022 08:36:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海螺水泥：近期受高温雨水天气及需求下行影响，各区域产品价格都有不同程度调整】海螺水泥在互动平台表示，公司产品价格随行就市，近期受高温雨水天气以及需求下行影响，各区域产品的价格都有不同程度的调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4365733.d.html</link>
-            <guid>2744954</guid>
-            <pubDate>Tue, 19 Jul 2022 05:10:14 GMT</pubDate>
+            <title><![CDATA[达美航空公司将订购12架空客A220-300飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4408477.d.html</link>
+            <guid>2745211</guid>
+            <pubDate>Tue, 19 Jul 2022 08:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[香港交易所任命宋德霖(Daniel Sonder)为首席战略官。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2490350.d.html</link>
-            <guid>2744953</guid>
-            <pubDate>Tue, 19 Jul 2022 05:07:41 GMT</pubDate>
+            <title><![CDATA[中通客车今日上演“天地板”，华龙证券济南经十东路证券卖出1.63亿元，东方财富证券拉萨三家营业部合计买入2.34亿元并卖出1.64亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2532663.d.html</link>
+            <guid>2745209</guid>
+            <pubDate>Tue, 19 Jul 2022 08:30:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中通客车午后触及跌停。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2489296.d.html</link>
-            <guid>2744948</guid>
-            <pubDate>Tue, 19 Jul 2022 05:02:12 GMT</pubDate>
+            <title><![CDATA[西方石油盘前涨1.15%。消息面上，伯克希尔哈撒韦在当地时间周一晚间提交的监管文件中披露，上周四和周五又投入超1亿美元，购买了190万股西方石油股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4407766.d.html</link>
+            <guid>2745208</guid>
+            <pubDate>Tue, 19 Jul 2022 08:29:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沪深300指数日内跌幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2489060.d.html</link>
-            <guid>2744946</guid>
-            <pubDate>Tue, 19 Jul 2022 05:01:06 GMT</pubDate>
+            <title><![CDATA[【三圣股份：邓涵尹拟减持不超3%股份】三圣股份公告，股东邓涵尹拟减持股份比例不超过公司股份总数的3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4407597.d.html</link>
+            <guid>2745206</guid>
+            <pubDate>Tue, 19 Jul 2022 08:28:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2021财年新加坡金管局净亏损74亿新元 为2011财年后首次亏损】当地时间7月19日，新加坡金融管理局（金管局）发布的最新年报显示，截至2022年3月31日的2021财政年度，金管局净亏损74亿新元（约合357.5亿元人民币）。这是金管局40年来第三次蒙受亏损。  （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4364029.d.html</link>
-            <guid>2744945</guid>
-            <pubDate>Tue, 19 Jul 2022 05:00:59 GMT</pubDate>
+            <title><![CDATA[沙特外交大臣：如果没有欧佩克+集体合作，就不可能确保充足的石油供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4407262.d.html</link>
+            <guid>2745205</guid>
+            <pubDate>Tue, 19 Jul 2022 08:26:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【斯里兰卡议会举行会议接受总统人选提名 将于20日投票选举出新总统】当地时间19日，斯里兰卡议会举行会议，接受总统人选提名。截至目前，斯里兰卡临时总统维克拉马辛哈、人民解放阵线领袖迪萨纳亚克、斯里兰卡人民阵线党议员达拉斯·阿拉哈佩鲁玛3人表示会参选总统。统一国民力量党领导人普雷马达萨于19日上午宣布退出此次选举。斯里兰卡议会定于当地时间20日10时举行议会投票，将选举产生新总统。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2488718.d.html</link>
-            <guid>2744944</guid>
-            <pubDate>Tue, 19 Jul 2022 04:59:19 GMT</pubDate>
+            <title><![CDATA[美国国防部高级研究计划局表示，美国军方又成功进行了一次高超音速武器试验。（卫星新闻）]]></title>
+            <guid>2745204</guid>
+            <pubDate>Tue, 19 Jul 2022 08:26:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Strategy Analystic：固态电池量产或推迟至2030年】据Strategy Analytic最近发布的研究报告，固态电池在电解质生产商还存在挑战，包括高温和复杂工艺都限制了批量生产能力。此外固态电池中的固体结构和熔融组件在使用硅阳极时容易发生分层，对回收提出了挑战。报告指出，由于成本较高，固态电池技术实现突破和生产足够成熟将在2030年，首批部署将仅限于高端车型。在此之前，半固态电池和混合形式的实施将为真正的固态电池技术提供测试平台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2488158.d.html</link>
-            <guid>2744943</guid>
-            <pubDate>Tue, 19 Jul 2022 04:55:32 GMT</pubDate>
+            <title><![CDATA[润和软件今日20cm涨停，成交额29.92亿元，换手率19.36%，盘后龙虎榜数据显示，深股通专用席位买入1.05亿元并卖出2920.26万元，兴业证券上海金陵东路买入7860.05万]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4407061.d.html</link>
+            <guid>2745203</guid>
+            <pubDate>Tue, 19 Jul 2022 08:25:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁波市住建局组织召开房地产政策宣贯会】近日，宁波市住建局房地产市场监管处会同房管中心召集伟星、长住等6家新进宁波房企开展房地产政策交流座谈会，宣贯房地产行业政策，共促宁波市房地产业高质量发展。会议对宁波市预售、全装修、资金监管、房地产调控等纾困政策进行了重点解读和宣贯，及时了解掌握6家房企开发的7个项目投资计划和开发进度，认真听取各企业经营情况和行业发展建议，并在现场进行答疑解惑，积极帮助企业解决面临的实际问题，助力项目后续开工建设和销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4362664.d.html</link>
-            <guid>2744941</guid>
-            <pubDate>Tue, 19 Jul 2022 04:52:56 GMT</pubDate>
+            <title><![CDATA[沙特外交大臣：俄罗斯是欧佩克+不可或缺的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2531683.d.html</link>
+            <guid>2745202</guid>
+            <pubDate>Tue, 19 Jul 2022 08:25:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小米投资英乐飞半导体】天眼查App显示，近日，英乐飞半导体（南京）有限公司发生工商变更，新增股东湖北小米长江产业基金合伙企业（有限合伙）等，同时公司注册资本由110万人民币增加至120万人民币，增幅9.09%。该公司成立于2021年11月，法定代表人为徐阳，经营范围包括半导体分立器件销售；专业设计服务；计算机软硬件及辅助设备零售；电子产品销售；通讯设备销售等。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2486413.d.html</link>
-            <guid>2744937</guid>
-            <pubDate>Tue, 19 Jul 2022 04:44:42 GMT</pubDate>
+            <title><![CDATA[【特发信息：收到立案告知书】特发信息公告，公司于7月18日收到深圳市公安局出具的《立案告知书》，陈传荣涉嫌合同诈骗一案，公安机关认为符合立案条件，现已立案侦查。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4406564.d.html</link>
+            <guid>2745201</guid>
+            <pubDate>Tue, 19 Jul 2022 08:23:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【集邦咨询：第三季NAND Flash价格跌幅扩大至8-13%】根据TrendForce集邦咨询表示，由于需求未见好转，NAND Flash产出及制程转进持续，下半年市场供过于求加剧，包含笔电、电视与智能手机等消费性电子下半年需求下降已成市场共识，原材料库存水平持续攀升成为供应链风险。因渠道库存消化缓慢，客户拉货态度保守，造成库存问题漫溢至上游供应端，卖方承受的抛货压力与日俱增。TrendForce集邦咨询预估，由于供需失衡急速恶化，第三季NAND Flash价格跌幅将扩大至8~13%，且跌势恐将延续至第四季。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4358943.d.html</link>
-            <guid>2744933</guid>
-            <pubDate>Tue, 19 Jul 2022 04:31:50 GMT</pubDate>
+            <title><![CDATA[【美太空军正式启动国家太空情报中心，外交部回应】外交部发言人赵立坚19日主持例行记者会，以下为部分内容。 据报道，美国太空军近日正式启动国家太空情报中心。有评论认为，该机构的成立体现了美国在太空领域扩张和获胜的战略野心，将加剧全球军备竞赛向外太空扩展的态势，威胁人类整体安全。你对此有何评论? 外空是全球公域，与人类安全福祉息息相关。防止外空军备竞赛，是确保外空和平、安宁、可持续利用的重要前提。 美方是外空武器化和战场化的主要推手。长期以来美国奉行主导外空战略，公然将外空界定为“作战疆域”，并为此大力研发部署定向能、“反卫星通信系统”等多种进攻性外空武器，频繁举行军事演习，全面推进外空军力建设和作战准备。美国将自己情报窃密、抵近侦察那一套复制到太空领域，必将给全球战略稳定带来严重消极影响，对外空和平与安全构成严峻威胁。 美方应采取负责任的外空行为，停止推进外空军事化武器化进程，切实承担起维护外空和平与安全的应有责任。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4406426.d.html</link>
+            <guid>2745199</guid>
+            <pubDate>Tue, 19 Jul 2022 08:22:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据俄罗斯商业日报Vedomosti：俄罗斯可能设定预算规则，假定油价下限为60美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4358383.d.html</link>
-            <guid>2744931</guid>
-            <pubDate>Tue, 19 Jul 2022 04:28:59 GMT</pubDate>
+            <title><![CDATA[泰国国家石油基金在燃料和液化石油气补贴上存在1130亿泰铢的赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4405878.d.html</link>
+            <guid>2745198</guid>
+            <pubDate>Tue, 19 Jul 2022 08:20:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【星源材质：公司隔膜通过工艺改进可以适用钒电池】星源材质在互动平台表示，公司隔膜通过工艺改进可以适用钒电池，公司密切关注相关行业发展和市场需求，能以最快的速度响应客户和市场需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4358073.d.html</link>
-            <guid>2744930</guid>
-            <pubDate>Tue, 19 Jul 2022 04:26:55 GMT</pubDate>
+            <title><![CDATA[泰国政府将柴油零售价维持在35泰铢/升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4405701.d.html</link>
+            <guid>2745195</guid>
+            <pubDate>Tue, 19 Jul 2022 08:20:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【安徽：加快构建现代化基础设施体系 进一步扩大内需】7月18日上午，安徽省委书记郑栅洁主持召开省委常委会会议，分析研究全省上半年经济社会形势，部署安排三季度和下半年重点工作。会议强调，要紧扣“经济要稳住”，一方面从需求侧发力，加强经济运行调度，健全投资赛马激励机制，促进消费回补，扩大进出口规模；另一方面从供给侧发力，发挥安徽区位优势，通过改革创新的办法，加快构建现代化基础设施体系，进一步扩大内需，提高经济外向度。要紧扣“发展要安全”，以时时放心不下的责任感，抓好稳岗就业工作，稳妥处置金融风险，做好安全生产和劳动保护，统筹防汛抗旱，稳住房地产市场，有力有效防范化解各类风险隐患。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2483328.d.html</link>
-            <guid>2744929</guid>
-            <pubDate>Tue, 19 Jul 2022 04:26:48 GMT</pubDate>
+            <title><![CDATA[【上海市文旅局将联合五家银行为文旅企业增加授信500亿元，支持文旅行业恢复重振】据上海发布，上海市文化旅游局局长方世忠做客“2022上海民生访谈”系列节目时表示，市文化旅游局已联合中国银行上海市分行、建设银行上海市分行、交通银行上海市分行、上海银行、上海农商银行五家银行，联合为文旅企业增加授信500亿元，支持文旅行业恢复重振。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2530371.d.html</link>
+            <guid>2745192</guid>
+            <pubDate>Tue, 19 Jul 2022 08:19:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【TikTok收缩全球业务 先主攻印马泰、日韩、中东市场】有字节跳动人士透露，抖音海外版TikTok正在调整全球业务，规划是先做印度、马来西亚、泰国、日韩和中东市场，其他地区先收缩。近日，有消息称TikTok开始对公司业务和组织架构进行全球重组，美国、欧盟和英国受影响最大，团队扩张计划搁置，招聘冻结，部分海外公司员工被解雇。作为“更大重组工作”的一部分，TikTok高管戴维·奥尔蒂斯(David Ortiz)于本周一宣布被解雇。（科创板日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4357795.d.html</link>
-            <guid>2744928</guid>
-            <pubDate>Tue, 19 Jul 2022 04:25:07 GMT</pubDate>
+            <title><![CDATA[【俄罗斯外交部副部长：俄罗斯的粮食和化肥出口受到过高的保险关税的阻碍】俄罗斯外交部副部长维尔什宁19日表示，如果乌克兰愿在相关港口排雷并用船只运粮，俄方将确保其和平通行，而通过本应出口粮食的船只向乌克兰运送西方提供的武器是不可接受的。目前，俄罗斯的粮食和化肥出口受到过高的保险关税的阻碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2530203.d.html</link>
+            <guid>2745190</guid>
+            <pubDate>Tue, 19 Jul 2022 08:18:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯里兰卡主要反对派领导人Sajith Premadasa：支持议员Dullas Alahapperuma。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4356907.d.html</link>
-            <guid>2744926</guid>
-            <pubDate>Tue, 19 Jul 2022 04:20:42 GMT</pubDate>
+            <title><![CDATA[【恒为科技：与鸿蒙3.0没有业务合作】记者以投资者身份致电恒为科技证券部。相关工作人员表示，公司与鸿蒙暂时没有合作，此前与华为存在一定的合作，但量不是特别大。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2529979.d.html</link>
+            <guid>2745189</guid>
+            <pubDate>Tue, 19 Jul 2022 08:18:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海南海口一地降为中风险区，全市已无高风险区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4356878.d.html</link>
-            <guid>2744925</guid>
-            <pubDate>Tue, 19 Jul 2022 04:20:34 GMT</pubDate>
+            <title><![CDATA[伊朗石油部官方网站Shana：伊朗和俄罗斯签署的谅解备忘录包括天然气、油田和液化天然气项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4405181.d.html</link>
+            <guid>2745188</guid>
+            <pubDate>Tue, 19 Jul 2022 08:17:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据《印度快报》：印度特使表示，新德里希望在斯里兰卡进行更多投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2482148.d.html</link>
-            <guid>2744924</guid>
-            <pubDate>Tue, 19 Jul 2022 04:20:27 GMT</pubDate>
+            <title><![CDATA[【外交部：希望澳方抓住机遇 重塑对华正确认知】7月19日，外交部发言人赵立坚主持例行记者会。有记者提问，据报道，澳大利亚外长黄英贤近日接受采访时称，澳中关系趋于稳定符合两国利益。如双方都有意愿如此，那就有前进的道路。中方就两国关系提出的四点建议并不让人意外。澳将以深思熟虑、外交的方式与中方打交道。请问中方对此有何评论?对此，赵立坚表示，中方注意到有关报道以及澳方表态中的积极因素。中澳关系健康稳定发展，符合两国和两国人民共同利益，也有利于维护亚太地区和平稳定与发展繁荣。当前中澳关系既面临挑战，也出现机遇。希望澳方抓住机遇，重塑对华正确认知，坚持求同存异的相处之道，付诸实际行动，为中澳关系发展积累更多正能量。中方愿本着相互尊重的精神，同澳方共同努力，推动两国关系沿着全面战略伙伴关系的轨道稳步前行，造福两国人民。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2529695.d.html</link>
+            <guid>2745187</guid>
+            <pubDate>Tue, 19 Jul 2022 08:16:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部：我国“5G+工业互联网”建设项目累计已超过3100个】今天（7月19日）上午，国务院新闻办公室举行新闻发布会，工业和信息化部信息通信管理局负责人王鹏介绍，今年以来，工信部按照政府工作报告部署要求，加快发展工业互联网，各项工作取得新进展。“5G+工业互联网”全国建设项目二季度新增700个，累计已超过3100个。工业互联网标识解析体系基本建成，国家顶级节点日均解析量显著提升，达到1.5亿次，二级节点覆盖全国29个省（自治区、直辖市）34个重点行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4356520.d.html</link>
-            <guid>2744923</guid>
-            <pubDate>Tue, 19 Jul 2022 04:18:44 GMT</pubDate>
+            <title><![CDATA[伊朗石油部官方网站Shana：伊朗和俄罗斯签署的谅解备忘录涵盖了价值约400亿美元的项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4404839.d.html</link>
+            <guid>2745186</guid>
+            <pubDate>Tue, 19 Jul 2022 08:16:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯里兰卡主要反对派领导人Sajith Premadasa宣布退出总统竞选。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4356422.d.html</link>
-            <guid>2744922</guid>
-            <pubDate>Tue, 19 Jul 2022 04:18:13 GMT</pubDate>
+            <title><![CDATA[伊朗国家石油公司与俄罗斯天然气工业股份公司签署战略合作备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2529486.d.html</link>
+            <guid>2745184</guid>
+            <pubDate>Tue, 19 Jul 2022 08:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西域旅游：目前入疆游客逐步增多】西域旅游在互动平台表示，在更为精准的防疫政策以及纾困举措的加持下，目前入疆游客逐步增多，相关信息以公司披露的公告为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4356222.d.html</link>
-            <guid>2744921</guid>
-            <pubDate>Tue, 19 Jul 2022 04:16:58 GMT</pubDate>
+            <title><![CDATA[京能置业公告，二季度签约金额4.58亿元，同比跌54.97%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2529156.d.html</link>
+            <guid>2745183</guid>
+            <pubDate>Tue, 19 Jul 2022 08:13:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德总理称要警惕回归化石能源】当地时间18日，“彼得斯堡气候对话会议”在德国柏林举行。德国总理朔尔茨坦言，德国目前正在遭遇能源危机，联邦政府已同意部分已关闭或即将关闭的煤炭发电厂和石油发电厂将继续工作到今年冬季结束。但朔尔茨强调，燃煤发电在德国所占的份额不会持续增加，目前采取的只是应对天然气供应瓶颈的临时性应急措施，德国不会以牺牲气候目标为代价，将坚持全面摆脱煤炭、石油和天然气的方针不变。   （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2480603.d.html</link>
-            <guid>2744920</guid>
-            <pubDate>Tue, 19 Jul 2022 04:12:11 GMT</pubDate>
+            <title><![CDATA[顺网科技：与中国田径协会签署《战略合作协议》，与中田体育签署《战略投资协议》。在体育元宇宙领域展开深度合作（包含但不限于MetaJoy，ChinaJoy，线上虚拟世界，虚拟空间、虚拟人物、虚拟现实、数字孪生/仿真、游戏引擎方面技术），联合开发体育主题的虚拟空间、虚拟人物、运动游戏、线上虚拟赛事、线上大型活动和会议展览，并共同负责运营及商业开发。]]></title>
+            <guid>2745182</guid>
+            <pubDate>Tue, 19 Jul 2022 08:13:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【教育部：将着力加强有组织科研 加快打造国家战略科技力量】 教育部科学技术与信息化司司长雷朝滋在“教育这十年”“1+1”系列新闻发布会上表示，下一个十年，教育部将着力加强有组织科研，加快打造国家战略科技力量，为世界重要人才中心和创新高地建设和高水平科技自立自强提供有力支撑。这是教育部立足新发展阶段、贯彻新发展理念、构建新发展格局，对推动新时代高校科技工作高质量发展作出的战略思考，有组织科研涉及高校科研范式和组织模式的变革，涉及高校科技工作指导思想的战略调整。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4354531.d.html</link>
-            <guid>2744917</guid>
-            <pubDate>Tue, 19 Jul 2022 04:09:27 GMT</pubDate>
+            <title><![CDATA[【欧洲央行更密切关注本周加息50个基点的可能性】据知情人士透露，由于通胀加剧，欧洲央行周四可能考虑将上月宣布的25个基点的加息幅度扩大一倍。此举将标志着欧洲央行大幅偏离6月9日政策会议制定指引以来，大多数欧洲央行管委会成员一直坚持的指引，并将使欧洲央行更符合全球大规模加息的要求。知情人士强调，加息50个基点是否会得到足够的支持还不清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2528670.d.html</link>
+            <guid>2745180</guid>
+            <pubDate>Tue, 19 Jul 2022 08:11:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【鸿海MIH将研发电动车二速变速箱 明年制定标准化和模组化相关细节】鸿海推动成立的的MIH电动车开放联盟正积极切入动力系统（Powertrain）领域，工作小组锁定研发二速变速箱的三合一EDU电子变速箱，已进入概念验证（POC）阶段，并规划2023年召开会议，讨论并制定标准化和模组化相关细节。 (台湾经济日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4354422.d.html</link>
-            <guid>2744916</guid>
-            <pubDate>Tue, 19 Jul 2022 04:09:00 GMT</pubDate>
+            <title><![CDATA[【今日0-12时 甘肃新增本土确诊病例14例 本土无症状感染者104例】在甘肃省政府新闻办今天举行的新闻发布会上，甘肃省政府副秘书长梁朝阳介绍，7月19日0-12时，甘肃省新增本土确诊病例14例，其中，甘南州夏河县8例，兰州市城关区3例，临夏州2例（分别为康乐县1例，积石山县1例），武威市凉州区1例。7月19日0-12时，甘肃省新增本土无症状感染者104例，其中，兰州市80例（分别为城关区74例，七里河区5例，红古区1例），临夏州14例（分别为广河县7例，东乡县7倒），天水市5例（分别为麦积区4例、清水县1例），甘南州夏河县3例，武威市凉州区2例。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2528597.d.html</link>
+            <guid>2745179</guid>
+            <pubDate>Tue, 19 Jul 2022 08:11:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[路透调查：日本4-6月GDP年率预测降至3.2%，7-9月降至3.1%（6月民意调查为4.1%和3.5%）。]]></title>
-            <guid>2744914</guid>
-            <pubDate>Tue, 19 Jul 2022 04:06:28 GMT</pubDate>
+            <title><![CDATA[IBM美股盘前跌逾4%，Q2净利润13.92亿美元不及预期，预计全年毛利率将从去年同期的55.2%降至53.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4403197.d.html</link>
+            <guid>2745177</guid>
+            <pubDate>Tue, 19 Jul 2022 08:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车维持本财年全球产量预期不变，为970万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2527992.d.html</link>
+            <guid>2745176</guid>
+            <pubDate>Tue, 19 Jul 2022 08:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副外长：普京可能会在访问伊朗后与叙利亚总统阿萨德举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2527840.d.html</link>
+            <guid>2745175</guid>
+            <pubDate>Tue, 19 Jul 2022 08:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车预计8-10月全球平均产量为85万辆。]]></title>
+            <guid>2745174</guid>
+            <pubDate>Tue, 19 Jul 2022 08:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田汽车预计8月份全球产量将达到70万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4402859.d.html</link>
+            <guid>2745172</guid>
+            <pubDate>Tue, 19 Jul 2022 08:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部：美方应以负责任的方式推动乌克兰危机妥善解决】赵立坚指出，作为乌克兰危机的始作俑者和最大推手，美方应深刻自省在乌克兰问题上极限施压、拱火递刀的错误行径，停止借机渲染阵营对立、制造新冷战。美方应以负责任的方式推动乌克兰危机妥善解决，为当事方和平谈判创造必要的环境和条件。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4402820.d.html</link>
+            <guid>2745171</guid>
+            <pubDate>Tue, 19 Jul 2022 08:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海电力公告，三峡集团拟减持不超过2%公司股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2527365.d.html</link>
+            <guid>2745170</guid>
+            <pubDate>Tue, 19 Jul 2022 08:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京：引导企业在京发展布局供应链，缩短新车交付周期】提升本市新车供给保障能力。支持本市企业提升高端汽车和新能源智能汽车自主研发能力，加快汽车芯片等关键零部件国产化速度，引导企业在京发展布局供应链，缩短新车交付周期。促进纯电动汽车、增程式电动汽车和燃料电池汽车产业发展，优化新能源汽车产能布局和供给能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4402475.d.html</link>
+            <guid>2745169</guid>
+            <pubDate>Tue, 19 Jul 2022 08:05:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京：支持二手车企开拓海外市场】北京市商务局等11部门印发《关于加快二手车流通促进汽车消费升级的若干措施》的通知。支持本市汽车经销商、生产商与互联网电商及海外贸易服务商抱团出海，对符合条件的二手车企在“一带一路”沿线国家新设或并购同类型企业，给予贷款贴息、保费补贴等支持，投资额500万美元以上的给予最高100万元一次性补贴，同一申报企业当年累计获得最高不超过1000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizirav4402309.d.html</link>
+            <guid>2745168</guid>
+            <pubDate>Tue, 19 Jul 2022 08:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱奇艺盘前涨近4%，此前宣布和抖音就内容授权达成合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2526959.d.html</link>
+            <guid>2745167</guid>
+            <pubDate>Tue, 19 Jul 2022 08:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[深圳证监局对深圳市特发信息股份有限公司采取出具警示函措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2526844.d.html</link>
+            <guid>2745165</guid>
+            <pubDate>Tue, 19 Jul 2022 08:04:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北京市商务局等11部门印发《关于加快二手车流通促进汽车消费升级的若干措施》的通知，通知提及，在2022年6月1日至12月31日期间报废或转出本市注册登记在本人名下1年以上的乘用车，在本市汽车销售企业购置新能源乘用车新车，并在本市内上牌的个人消费者，给予最高不超过1万元/台补贴。]]></title>
+            <guid>2745163</guid>
+            <pubDate>Tue, 19 Jul 2022 08:03:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国邀请4个欧洲国家领导人11月访问北京？赵立坚：假消息】外交部发言人赵立坚19日主持例行记者会。有外媒记者提问说，据《南华早报》报道，中国已邀请四个欧洲国家的领导人11月访问北京，与中国领导人会面，包括德国、法国、意大利和西班牙。你能否证实邀请函已被发送？他们回应了吗？“我不知道他们这是从哪儿来的消息。我可以告诉你，这是一个假消息。”赵立坚表示。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2525890.d.html</link>
+            <guid>2745158</guid>
+            <pubDate>Tue, 19 Jul 2022 08:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲议会副议长宣称“欧洲必须坚定支持台湾”，外交部回应】外交部发言人赵立坚19日主持例行记者会。法新社记者提问说，欧洲议会副议长毕尔本周访问台湾。她今天称，欧洲必须坚定支持台湾。中方对此有何评论？赵立坚表示，台湾是中国领土不可分割的一部分，一个中国原则是公认的国际关系准则，是中欧关系的政治基础。欧洲议会作为欧盟官方机构，其议员及高层理应遵守一个中国原则。中方坚决反对欧方同台湾进行任何形式的官方往来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2525675.d.html</link>
+            <guid>2745157</guid>
+            <pubDate>Tue, 19 Jul 2022 08:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康佳旗下康盈半导体计划10月发布MRAM新产品线】据康佳集团官方消息，集团旗下存储解决方案商——康盈半导体2021年销售额已突破6亿元，2022年营收目标为10亿元。此外，康盈半导体计划在2022年10月发布MRAM新产品线、2023年发布uMCP产品线，为未来可能的存储需求做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-07-19/detail-imizmscv2525498.d.html</link>
+            <guid>2745156</guid>
+            <pubDate>Tue, 19 Jul 2022 07:59:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
