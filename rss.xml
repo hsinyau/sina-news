@@ -4,11 +4,160 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 17 Aug 2022 18:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 21:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[印度政府将限制大型科技公司的数据收集行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8611702.d.html</link>
+            <guid>2775926</guid>
+            <pubDate>Wed, 17 Aug 2022 20:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯可能像处理京东股票那样把美团股票分给股东们】针对有媒体报道腾讯考虑出售价值1300多亿元的美团股票。一位港股机构销售表示，腾讯出售的决策合情合理，而且一次性卖掉好过分几次卖，但当前市场没有这样的消化能力，所以最后很可能像处理京东股票那次一样把美团股票分给股东们。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8611429.d.html</link>
+            <guid>2775924</guid>
+            <pubDate>Wed, 17 Aug 2022 20:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科(CSCO.O)盘后冲高回落，涨幅收窄至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8611283.d.html</link>
+            <guid>2775922</guid>
+            <pubDate>Wed, 17 Aug 2022 20:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  思科(CSCO.O)：第四财季研发支出达16.82亿美元，去年同期为17.13亿美元。]]></title>
+            <guid>2775921</guid>
+            <pubDate>Wed, 17 Aug 2022 20:15:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科(CSCO.O)：第四财季来自产品的收入为96.88亿美元，去年同期为97.16亿美元；来自服务的收入为34.14亿美元，去年同期为34.1亿美元。]]></title>
+            <guid>2775920</guid>
+            <pubDate>Wed, 17 Aug 2022 20:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科(CSCO.O)：2022财年全年营收516亿美元，同比增3%；净利润118亿美元，同比增12%；每股盈利2.82美元，同比增13%。]]></title>
+            <guid>2775919</guid>
+            <pubDate>Wed, 17 Aug 2022 20:10:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科(CSCO.O)盘后直线拉升，现涨4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6661611.d.html</link>
+            <guid>2775917</guid>
+            <pubDate>Wed, 17 Aug 2022 20:07:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科(CSCO.O)：预计2023财年第一季度营收将同比增长2%至4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8611054.d.html</link>
+            <guid>2775916</guid>
+            <pubDate>Wed, 17 Aug 2022 20:07:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股收评】美联储公布7月议息纪录，称官员们认为可能适宜在某个时候放慢加息步伐。消息带动美股道指收复逾300点跌幅，一度轻微转涨；标指和纳指维持偏软。盘面上，外卖、激光雷达、充电桩概念股跌幅居前，油气板块逆市上涨。个股方面，3B家居(BBBY.O)收涨10.99%，Uber(UBER.N)收跌5.14%，Velodyne(VLDR.O)收跌12.05%，沃尔格林-联合博姿(WBA.O)收跌2.72%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6661532.d.html</link>
+            <guid>2775914</guid>
+            <pubDate>Wed, 17 Aug 2022 20:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3B家居收涨12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8610848.d.html</link>
+            <guid>2775911</guid>
+            <pubDate>Wed, 17 Aug 2022 20:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数初步收跌逾1%，成分股Zoom视频通讯跌超6%，莫德纳跌5.9%，拼多多跌3.6%，苹果涨约0.8%。]]></title>
+            <guid>2775910</guid>
+            <pubDate>Wed, 17 Aug 2022 20:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银证券：将SEA(SE.N)目标价下调至105美元，维持买入评级】美银证券分析师Sachin Salgaonkar将Sea的目标价从115美元下调至105美元，并维持对该股的买入评级。该分析师表示，Sea第二季度的收入和毛利好于预期，但损失较公司此前预期的要大。尽管第二季度业绩表现疲软，但他认为Sea在东南亚电子商务领域处于主导地位，并预计未来亏损将减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8610676.d.html</link>
+            <guid>2775906</guid>
+            <pubDate>Wed, 17 Aug 2022 19:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【能见度不足500米 阿联酋遭遇强沙尘】近日，阿联酋阿布扎比和迪拜等地持续出现强沙尘和雾霾天气。世界最高建筑哈利法塔被厚厚的沙尘笼罩，道路能见度不足500米。阿联酋国家气象中心预计，雾霾和沙尘等恶劣天气的影响将持续数天。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6661052.d.html</link>
+            <guid>2775904</guid>
+            <pubDate>Wed, 17 Aug 2022 19:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州电网运营商在美国热浪席卷时限制用电，将维护时间延长至周五。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8610185.d.html</link>
+            <guid>2775902</guid>
+            <pubDate>Wed, 17 Aug 2022 19:40:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【曼联现涨近7%，英国前首富有意购买其股份】英力士CEO、英国前首富拉特克利夫的发言人称，拉特克利夫有意购买曼联的股份，考虑完全持股抑或持有曼联俱乐部的少数股份。此前在切尔西足球俱乐部的竞购大战中，这位亿万富翁在最后关头提出竞购，但最后该俱乐部由托德·伯利牵头的财团收购。此前在马斯克玩笑式表明要收购曼联后，曼联的拥有者格雷泽家族已就出售其股份进行了初步讨论，但决定尚未作出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8610148.d.html</link>
+            <guid>2775901</guid>
+            <pubDate>Wed, 17 Aug 2022 19:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NETFLIX的广告支持计划将阻止节目、电影和视频的下载。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6660258.d.html</link>
+            <guid>2775900</guid>
+            <pubDate>Wed, 17 Aug 2022 19:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国亿万富翁吉姆·拉特克利夫（JIM RATCLIFFE）的代言人称其想购买曼联的股份。]]></title>
+            <guid>2775894</guid>
+            <pubDate>Wed, 17 Aug 2022 19:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行：将Take-Two(TTWO.O)评级下调至持有，目标价下调至160美元】德意志银行分析师Benjamin Soff将Take-Two的评级从买入下调至持有，目标价从200美元下调至160美元。在该公司公布第一财季的业绩并更新指引之后，该分析师认为今年的风险/回报前景是平衡的，部分原因是宏观环境的影响减弱且未来几个季度缺乏实质性的短期催化剂。然而，他对该公司的长期增长前景仍持建设性态度。]]></title>
+            <guid>2775892</guid>
+            <pubDate>Wed, 17 Aug 2022 18:58:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯蒂费尔：将沃尔玛(WMT.N)目标价上调至149美元，维持持有评级】斯蒂费尔分析师Mark Astrachan将沃尔玛的目标价从145美元上调至149美元，并维持对该股的持有评级。在沃尔玛公布好于预告的第二季度业绩后，他将其2023-2024财年的每股收益预期略微提高。他继续认为，沃尔玛股价在目前的水平上“上升空间大于下降空间”，并认为2023财年下半年美国同店销售额增长约3%的指引“有些保守”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6659009.d.html</link>
+            <guid>2775891</guid>
+            <pubDate>Wed, 17 Aug 2022 18:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事鲍曼：预计休闲、酒店业的就业将出现更多复苏迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6658759.d.html</link>
+            <guid>2775890</guid>
+            <pubDate>Wed, 17 Aug 2022 18:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要发布后，道指率先转涨后再次小幅回落，纳指现跌0.6%，标普500指数跌0.3%。此前报道称苹果将于9月7日发布iPhone14系列，苹果涨幅现扩大至1.5%。]]></title>
+            <guid>2775889</guid>
+            <pubDate>Wed, 17 Aug 2022 18:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行：将沃尔玛(WMT.N)目标价上调至162美元，维持买入评级】德意志银行分析师Krisztina Katai将沃尔玛的目标价从142美元上调至162美元，并维持对该股的买入评级。该分析师表示，沃尔玛第二季度的业绩好于该公司7月25日发布的更新，鉴于宏观环境和消费者需求的不确定性增加，其第三季度的开局似乎比此前担心的情况要好。重要的是，该公司在调整库存水平方面取得了良好的进展，该分析师认为负面的盈利修正“可能已经过去了”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8607307.d.html</link>
+            <guid>2775881</guid>
+            <pubDate>Wed, 17 Aug 2022 18:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储理事鲍曼：劳动力供应的前景是不确定的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8607027.d.html</link>
+            <guid>2775878</guid>
+            <pubDate>Wed, 17 Aug 2022 18:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事鲍曼：劳动力市场将继续表现强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6657728.d.html</link>
+            <guid>2775877</guid>
+            <pubDate>Wed, 17 Aug 2022 18:20:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中日第九次高级别政治对话在天津举行】8月17日，中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪在天津同日本国家安全保障局长秋叶刚男共同主持中日第九次高级别政治对话。杨洁篪表示，中日两千多年交往史和邦交正常化50周年历程启示双方，和平共处、友好合作是两国关系唯一正确选择。双方应以领导人重要共识为政治指引和行动遵循，秉持高度责任感和使命感，深刻总结历史，保持定力主见，排除内外干扰，共同致力于构建契合新时代要求的中日关系。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8606869.d.html</link>
+            <guid>2775874</guid>
+            <pubDate>Wed, 17 Aug 2022 18:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯蒂费尔：将SEA(SE.N)目标价下调至95美元，维持买入评级】斯蒂费尔分析师Scott Devitt将Sea的目标价从105美元下调至95美元，但维持对该股的买入评级。此前该公司公布的第二季度业绩喜忧参半，并以宏观不确定性增加为由暂停了对全年电子商务的指引。虽然他降低了对下半年的增长预期，以反映在宏观背景下的谨慎态度，但随着管理层转向优先考虑盈利能力，Devitt对公司利润率的改善轨迹仍持乐观态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8606804.d.html</link>
+            <guid>2775872</guid>
+            <pubDate>Wed, 17 Aug 2022 18:16:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美联储会议纪要：与会者一致认为，“几乎没有证据”表明通胀压力正在减弱，需要相当长的时间才能解决问题。]]></title>
             <guid>2775867</guid>
@@ -100,234 +249,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6652239.d.html</link>
             <guid>2775832</guid>
             <pubDate>Wed, 17 Aug 2022 16:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊(AMZN.O)在员工中测试类似Tiktok的应用程序功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6652203.d.html</link>
-            <guid>2775831</guid>
-            <pubDate>Wed, 17 Aug 2022 16:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国能源费飙涨 白领去办公室上班或许更省钱】英国能源费飙升之际，居家办公成本攀升，今年冬季想要节约开支的伦敦金融城白领或许会想拥抱办公室生活。2023年1月份，如果可以步行、跑步或是骑车上班的白领，前往办公室办公或可节约大约50英镑/周，这是他们不在家全天候取暖可以省下的费用。据机构估计，居家办公的白领可能每周需要支付175英镑的能源费和诸如购买咖啡等其他费用；相比之下，如果每周五天从伦敦四区往来市中心，加上降低使用后的能源费，总计开支预计为160英镑/周，减少了15英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8601179.d.html</link>
-            <guid>2775830</guid>
-            <pubDate>Wed, 17 Aug 2022 16:38:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌海港管理局：预计17日将有5艘运粮船抵达乌港口】乌克兰媒体17日报道称，乌克兰海港管理局当天发布消息称，预计17日将有5艘船抵达乌克兰南部的切尔诺莫斯克港装载乌克兰粮食，这将是“粮食走廊”运营以来同时抵达乌港口船只的最大数量。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8601060.d.html</link>
-            <guid>2775829</guid>
-            <pubDate>Wed, 17 Aug 2022 16:37:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因造成阿片类药物泛滥 美国三大药品零售商面临6.5亿美元索赔】据美国俄亥俄州联邦法官当地时间8月17日裁决，CVS健康公司、沃尔玛公司以及沃尔格林公司三家药品零售商必须向俄亥俄州的两个县支付总计约6.5亿美元，以解决阿片类药物泛滥问题。据悉，这三家公司在特兰伯尔县和莱克县两县大量售卖阿片类处方药物，造成当地数百名居民死亡。俄亥俄州克利夫兰联邦法院于当地时间2021年11月23日判决这三家药品零售商对两县出现的阿片类药物泛滥负责。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8600202.d.html</link>
-            <guid>2775828</guid>
-            <pubDate>Wed, 17 Aug 2022 16:25:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世卫组织公开征集猴痘病毒新名称】世卫组织有权对列入《国际疾病分类》的现有疾病分配新名称。这些疾病名称通常由某个技术委员会闭门选定，但世卫组织这次决定公开征集猴痘病毒新名称。世卫组织已经收到学者、医生等不同群体提出的数十个命名建议。世卫组织发言人法德拉·沙伊卜16日说，“为猴痘找到一个新名称非常重要”，要确保它不冒犯任何特定人群、动物、国家、地区等。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8600090.d.html</link>
-            <guid>2775827</guid>
-            <pubDate>Wed, 17 Aug 2022 16:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚特兰大联储GDPNow模型再次下调美国第三季度GDP增速至1.6%，此前预计为1.8%。]]></title>
-            <guid>2775826</guid>
-            <pubDate>Wed, 17 Aug 2022 16:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽交所NYSE ARCA：将暂停iShares安硕MSCI俄罗斯ETF（ERUS）追踪的那些股票的交易。这只ETF自3月4日就不再交易。]]></title>
-            <guid>2775825</guid>
-            <pubDate>Wed, 17 Aug 2022 16:20:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  瑞杰：将沃尔玛(WMT.N)目标价从140美元上调至150美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8599691.d.html</link>
-            <guid>2775824</guid>
-            <pubDate>Wed, 17 Aug 2022 16:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美前副总统彭斯：考虑出席国会大厦骚乱事件听证会并作证】美国前副总统彭斯于当地时间8月17日表示，他将考虑出席调查2021年1月6日国会大厦骚乱事件的众议院特别委员会举行的听证会并作证。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6649419.d.html</link>
-            <guid>2775823</guid>
-            <pubDate>Wed, 17 Aug 2022 16:03:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯统计局：俄罗斯7月份PPI同比增长6.1%，环比增长2.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6649329.d.html</link>
-            <guid>2775822</guid>
-            <pubDate>Wed, 17 Aug 2022 16:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将斗鱼(DOYU.O)目标价从1.5美元上调至1.55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6649216.d.html</link>
-            <guid>2775821</guid>
-            <pubDate>Wed, 17 Aug 2022 16:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙8月预计将减少18.7万个工作岗位】西班牙社会保障部门当地时间8月17日的预测结果显示，该国社会保障附属机构提供的工作岗位将连续第二个月保持下降趋势，西班牙2022年8月预计将会有18.7万个工作岗位被取消。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6648882.d.html</link>
-            <guid>2775817</guid>
-            <pubDate>Wed, 17 Aug 2022 15:54:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  花旗：将沃尔玛(WMT.N)目标价从152美元上调至162美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6648686.d.html</link>
-            <guid>2775815</guid>
-            <pubDate>Wed, 17 Aug 2022 15:50:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  韦德布什：将家得宝(HD.N)目标价从320美元上调至340美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6648680.d.html</link>
-            <guid>2775814</guid>
-            <pubDate>Wed, 17 Aug 2022 15:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股AI板块齐挫】美股AI板块齐挫，Upstart跌10%，C3.ai跌超4%，Palantir跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6648591.d.html</link>
-            <guid>2775812</guid>
-            <pubDate>Wed, 17 Aug 2022 15:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国俄亥俄州联邦法官：CVS健康(CVS.N)、沃尔玛(WMT.N)、沃博联(WBA.O)必须向俄亥俄州两个县支付总计6.506亿美元以解决阿片类药物诉讼。]]></title>
-            <guid>2775811</guid>
-            <pubDate>Wed, 17 Aug 2022 15:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伯克希尔·哈撒韦持有B类股市值在47天内增长了530亿美元】伯克希尔·哈撒韦公司此前宣布，在截至2022年6月30日的季度（2022年第二季度），该公司资产管理规模为2994亿美元。目前，该公司所持股票的市值为3524亿美元，从6月30日到8月16日的47天里增长了530亿美元（18%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6648239.d.html</link>
-            <guid>2775810</guid>
-            <pubDate>Wed, 17 Aug 2022 15:41:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股区块链概念股走低，Riot Blockchain(RIOT.O)、Marathon Digital(MARA.O)跌超8%，MicroStrategy(MSTR.O)、Coinbase(COIN.O)跌超5%。]]></title>
-            <guid>2775809</guid>
-            <pubDate>Wed, 17 Aug 2022 15:39:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snowflake(SNOW.N)跌近6%，报157.65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6647986.d.html</link>
-            <guid>2775806</guid>
-            <pubDate>Wed, 17 Aug 2022 15:38:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏农银行上半年净利润增长约21%，经营指标全面向好】苏农银行8月17日晚间发布2022年半年报，该行上半年实现营业收入20.85亿元，同比增长6.37%，营收延续2021年以来的稳步向好趋势，单季营收增速环比稳中略升；实现归属于上市公司股东的净利润8.40亿元，同比增长20.89%，净利润增速继续维持在较高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8596950.d.html</link>
-            <guid>2775805</guid>
-            <pubDate>Wed, 17 Aug 2022 15:36:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电动汽车令锂需求加速上升】电动汽车可能是一种比汽油车更清洁的交通工具，但其生产仍然需要大量的地球资源。锂是生产电动汽车电池所必需的金属。据美国地质调查局的数据，2021年全球锂矿产量估计为100000吨，达到产量峰值。随着电动汽车产量加速增长，未来几年这一峰值将大幅改变。2021年碳酸锂的需求量预计为465000吨，但展望2030年，随着一些主要市场的汽油和柴油汽车陆续停产，需求预计将达到210万吨。到这个阶段，电动汽车预计将成为锂需求的主要驱动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8596923.d.html</link>
-            <guid>2775804</guid>
-            <pubDate>Wed, 17 Aug 2022 15:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国2022年第一季度的交通事故死亡人数同比上升7%】据美媒当地时间8月17日报道，美国2022年第一季度交通事故死亡人数同比上升了7%，是自2002年以来同期的最高水平。（央视新闻）]]></title>
-            <guid>2775803</guid>
-            <pubDate>Wed, 17 Aug 2022 15:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重庆涪陵消防回应山火情况：重庆涪陵突发山火暂无人员伤亡】8月17日晚，涪陵北山坪突发山火。重庆市消防救援总队表示，目前山火仍在扑救过程中，重庆市应急管理局回应记者称暂无人员伤亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8596331.d.html</link>
-            <guid>2775800</guid>
-            <pubDate>Wed, 17 Aug 2022 15:25:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京发布暴雨蓝色预警：大雨，部分地区暴雨】2022年08月17日23时10分，北京市气象台发布暴雨蓝色预警。预计，18日05时至20时，本市有大雨，部分地区有暴雨，并伴有小时降雨量超过30毫米的短时强降水，山区及浅山区出现强降水诱发的中小河流洪水、山洪、地质灾害等次生灾害风险较大，城市低洼地区容易出现积水，请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8596144.d.html</link>
-            <guid>2775799</guid>
-            <pubDate>Wed, 17 Aug 2022 15:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所披露，叮当健康科技集团有限公司通过上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8595552.d.html</link>
-            <guid>2775795</guid>
-            <pubDate>Wed, 17 Aug 2022 15:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[古根海姆：将家得宝(HD.N)目标价从350美元上调至355美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645906.d.html</link>
-            <guid>2775789</guid>
-            <pubDate>Wed, 17 Aug 2022 15:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[建业地产将于8月31日举行董事会会议，批准中期业绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645884.d.html</link>
-            <guid>2775788</guid>
-            <pubDate>Wed, 17 Aug 2022 15:05:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【退出绝大部分做空 桥水基金欧股空仓猛砍超90%】全球最大对冲基金桥水基金已平仓了绝大部分对欧洲股票的空头押注，从披露的数据来看，其做空仓位从6月时的105亿美元暴降到最新的8.45亿美元。桥水当前仍持有的做空仓位主要集中在3家公司，之前的高峰是28家。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8594896.d.html</link>
-            <guid>2775787</guid>
-            <pubDate>Wed, 17 Aug 2022 15:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  摩根士丹利：将SEA(SE.N)目标价从128美元下调至123美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645736.d.html</link>
-            <guid>2775785</guid>
-            <pubDate>Wed, 17 Aug 2022 15:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【平安银行：高度重视房地产行业授信的风险防范和质量管控，持续加强房地产贷款风险管控】平安银行近期建设投资者调研时称，我行高度重视房地产行业授信的风险防范和质量管控，持续加强房地产贷款的风险管控，实现对客户经营、项目进度、资产状态、资金流的全方位监控。2022年3月末，我行承担信用风险的涉房业务主要是对公房地产贷款余额2928亿元，较上年末增加39亿元。其中房地产开发贷1162亿元，占我行发放贷款和垫款本金总额的3.7%，较上年末下降0.1个百分点，全部落实有效抵押。对公房地产贷款不良率0.45%，低于我行企业贷款不良率0.28个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645536.d.html</link>
-            <guid>2775782</guid>
-            <pubDate>Wed, 17 Aug 2022 15:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟能源价格持续攀升 创有记录以来最高水平】最新数据显示，整个欧洲的能源价格都在上涨，而且看不到尽头。6月份欧盟能源年通胀率达到41.1%，较今年年初上升14.1个百分点。天然气涨幅最大，平均通胀率达到51.4%，较今年年初增加了10.7个百分点。据欧盟统计局数据，能源通胀率是自1997年首次发布消费者价格协调指数 (HICP) 以来的最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645368.d.html</link>
-            <guid>2775779</guid>
-            <pubDate>Wed, 17 Aug 2022 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万科企业(02202.HK)：将向全体A股股东每10股派发现金红利(含税)人民币9.761257元，股权登记日为2022年8月24日(周三)，除息日为2022年8月25日(周四)。]]></title>
-            <guid>2775777</guid>
-            <pubDate>Wed, 17 Aug 2022 14:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西民航局将再出售15个机场特许经营权】巴西民航局当地时间8月17日宣布，第七轮国有机场特许经营权拍卖将于18日举行，包括巴西最繁忙机场之一的圣保罗孔戈尼亚斯机场在内的15个机场将向社会开放竞标。本次拍卖的机场每年运力超过3000万人次，占全国客运总量的15.8%。拍卖完成后，巴西交通行业私有化比例预计将从目前的75.8%提高到91.6%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8594245.d.html</link>
-            <guid>2775776</guid>
-            <pubDate>Wed, 17 Aug 2022 14:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西民航局将再出售15个机场特许经营权】巴西民航局当地时间8月17日宣布，第七轮国有机场特许经营权拍卖将于18日举行，包括巴西最繁忙机场之一的圣保罗孔戈尼亚斯机场在内的15个机场将向社会开放竞标。本次拍卖的机场每年运力超过3000万人次，占全国客运总量的15.8%。拍卖完成后，巴西交通行业私有化比例预计将从目前的75.8%提高到91.6%。按照巴西民航局公布的方案，15个机场特许经营权的拍卖分为3组，例如，购买孔戈尼亚斯机场的企业还必须负责管理位于米纳斯吉拉斯州、南马托格罗索州和帕拉州的另外10个机场。巴西联邦政府此前预计，本轮中标企业在获得机场30年的特许经营期内，至少需要投资73亿雷亚尔（约合95.55亿元人民币）用于机场升级改造。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6645080.d.html</link>
-            <guid>2775775</guid>
-            <pubDate>Wed, 17 Aug 2022 14:55:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏江阴市集中隔离点新增核酸阳性3例】截至8月17日19时，江苏省江阴市集中隔离点新增核酸阳性3例，与第70、71号通告中5人系同车厢外省返回人员，经市定点医院专家组诊断，3人均为无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizirav8594032.d.html</link>
-            <guid>2775773</guid>
-            <pubDate>Wed, 17 Aug 2022 14:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海临港：重点行业15%所得税优惠政策已为企业减税近12亿元】2022年8月17日，上海自贸区临港新片区举办首届高水平开发财税论坛。上海市税务部门连续三年出台了“17+10+9”共计36项支持新片区发展的税收创新征管服务举措，打造蓝税滴税务服务工作品牌。其中，四大产业15%企业所得税政策是力度最大、社会关注度最高的税收政策。临港新片区管委会财政处处长乔璟文透露，截至目前，上海市经信委、市财政局、市税务局、临港新片区管委会等部门联合开展了6批资格认定工作，共计132家企业通过资格认定，累计减税金额约11.73亿元。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6644982.d.html</link>
-            <guid>2775772</guid>
-            <pubDate>Wed, 17 Aug 2022 14:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：叮当健康科技集团通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6644450.d.html</link>
-            <guid>2775770</guid>
-            <pubDate>Wed, 17 Aug 2022 14:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【被通知“萨哈林2号”换运营商后，日本政府敦促日企继续出资】日本时事通讯社17日报道，日本经济产业大臣西村康稔当天在经产省与三菱商事社长中西胜也进行了会谈，敦促三菱方面继续出资成为“萨哈林2号”油气项目新运营商的俄罗斯企业。《产经新闻》报道称，日本政府此举旨在稳定能源供应，对此，三菱方面表示将尊重日本政府的方针。时事通讯社称，西村康稔在会谈后接受采访时称，“我认为对方（中西胜也）接受了请求”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6644181.d.html</link>
-            <guid>2775769</guid>
-            <pubDate>Wed, 17 Aug 2022 14:44:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国7月零售销售额环比持平】美国7月零售销售额环比持平，6月数据修正后为增长0.8%。不包括汽油，7月份零售额增长0.4%。汽油价格大幅下降和汽车销售减少抵消了其他类别的销售好转。汽油价格大幅回落提振了消费信心，但普遍且持续的高通胀正在侵蚀民众的薪资，迫使许多人靠信用卡和动用储蓄来维持生计。这将在未来几个月对消费构成阻力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-17/detail-imizmscv6643318.d.html</link>
-            <guid>2775767</guid>
-            <pubDate>Wed, 17 Aug 2022 14:34:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
