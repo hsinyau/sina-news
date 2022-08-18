@@ -4,11 +4,50 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 18 Aug 2022 18:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[加拿大标普/TSX综合指数收涨0.42%，报20265.37点。巴西圣保罗证交所指数收涨0.09%，报11.4万点。]]></title>
+            <guid>2777002</guid>
+            <pubDate>Thu, 18 Aug 2022 20:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月13日当周外国央行持有美国国债 65.35亿美元，前值90.91亿美元。]]></title>
+            <guid>2776997</guid>
+            <pubDate>Thu, 18 Aug 2022 20:32:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线：二季度流动性超过10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizmscv6810467.d.html</link>
+            <guid>2776993</guid>
+            <pubDate>Thu, 18 Aug 2022 20:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robinhood：7月月活数为1320万，较上月下降6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizmscv6810457.d.html</link>
+            <guid>2776992</guid>
+            <pubDate>Thu, 18 Aug 2022 20:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罗斯百货二季报逊于预期，下调全年业绩指引，股价盘后跌超2%】罗斯百货二季度EPS为1.11美元，分析师预期1.01美元。二季度同店销售下滑7.0%，分析师预期下滑6.1%。二季度运营利润率11.3%，分析师预期10.5%。预计三季度EPS为0.72-0.83美元，分析师预期1.07美元。预计全年EPS为3.84-4.12美元，分析师预期4.36美元，公司先前预估4.34-4.58美元。罗斯百货（ROST）美股盘后跌1.46%，随后扩大至超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizmscv6810039.d.html</link>
+            <guid>2776991</guid>
+            <pubDate>Thu, 18 Aug 2022 20:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[应用材料第三财季调整后EPS为1.94美元，分析师预期1.79美元。第三财季净销售65.2亿美元，分析师预期62.6亿美元。第三财季半导体系统净销售47.3亿美元，分析师预期44.8亿美元。预计第四财季调整后EPS为1.82-2.18美元，分析师预期1.94美元。应用材料（AMAT）美股盘后涨3.59%。]]></title>
+            <guid>2776990</guid>
+            <pubDate>Thu, 18 Aug 2022 20:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荔枝(LIZI.O)持续拉升，涨超20%。荔枝将于周四美股盘后公布Q2业绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizirav8760121.d.html</link>
+            <guid>2776984</guid>
+            <pubDate>Thu, 18 Aug 2022 18:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[周四（8月18日），美联储逆回购工具使用规模为2.218万亿美元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-19/detail-imizirav8755447.d.html</link>
@@ -186,125 +225,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8746738.d.html</link>
             <guid>2776904</guid>
             <pubDate>Thu, 18 Aug 2022 14:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【各国政府对另一场健康危机准备得如何？】经合组织在2021年进行的一项调查发现，卢森堡和爱尔兰民众对政府的医疗保健战略评价更高，分别有69%和60%的人表示认为政府会做好应对新一轮健康危机的准备。超过一半的英国人有同感。然而在奥地利对该议题的信任度很低，仅有29%的人表示认为政府会做好准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8745923.d.html</link>
-            <guid>2776903</guid>
-            <pubDate>Thu, 18 Aug 2022 14:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华润微副总经理马卫清：功率器件依然供不应求 碳化硅产品广受欢迎】据上证报，8月18日，2022世界半导体大会暨南京国际半导体博览会在南京国际博览中心开幕。华润微副总经理马卫清在演讲中表示，虽然涨价的逻辑不再持续，但功率器件的市场需求依然比较稳定，目前仍呈现出供不应求态势。具体到华润微，从去年下半年到今年上半年，华润微跟功率相关产品的出货量比较平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8745380.d.html</link>
-            <guid>2776902</guid>
-            <pubDate>Thu, 18 Aug 2022 14:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克秘书长：油价下跌反映了对经济的“担忧”，石油实物需求强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6792464.d.html</link>
-            <guid>2776898</guid>
-            <pubDate>Thu, 18 Aug 2022 14:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧佩克秘书长称，欧佩克希望延长与俄罗斯和其他非欧佩克产油国的协议。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6792403.d.html</link>
-            <guid>2776897</guid>
-            <pubDate>Thu, 18 Aug 2022 14:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【EIA天然气报告：截至8月12日当周，美国天然气库存总量为25190亿立方英尺】EIA天然气报告：截至8月12日当周，美国天然气库存总量为25190亿立方英尺，较此前一周增加180亿立方英尺，较去年同期减少2960亿立方英尺，同比降幅10.5%，同时较5年均值低3670亿立方英尺，降幅12.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8745083.d.html</link>
-            <guid>2776896</guid>
-            <pubDate>Thu, 18 Aug 2022 14:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧佩克秘书长：现在说欧佩克+将在9月5日的会议上做什么还为时过早】欧佩克秘书长：现在说欧佩克+将在9月5日的会议上做什么还为时过早，如果需要可能会削减或增加产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6792356.d.html</link>
-            <guid>2776895</guid>
-            <pubDate>Thu, 18 Aug 2022 14:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克秘书长：政策制定者和立法者应该为高能源价格负责，而不是欧佩克。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8744982.d.html</link>
-            <guid>2776894</guid>
-            <pubDate>Thu, 18 Aug 2022 14:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克秘书长：对2023年的石油前景“相对乐观”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6792248.d.html</link>
-            <guid>2776892</guid>
-            <pubDate>Thu, 18 Aug 2022 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月12日当周EIA天然气库存180亿立方英尺。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8744875.d.html</link>
-            <guid>2776891</guid>
-            <pubDate>Thu, 18 Aug 2022 14:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中超两将杨帆孙捷被足协禁赛5场】中国足协纪律委员会对长春亚泰球员孙捷和和天津津门虎球员杨帆作出禁赛5场+罚款5万元的处罚。8月15日，在中超联赛第13轮天津津门虎对阵长春亚泰的比赛中，球员孙捷和杨帆发生暴力冲突，最终双双被主裁判红牌罚下。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6792172.d.html</link>
-            <guid>2776890</guid>
-            <pubDate>Thu, 18 Aug 2022 14:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大商所率先推出协议交收库及交收业务检查机构相关业务】记者获悉，为更好构建多层次仓库服务体系，进一步做好协议交收、期转现等业务，深化期货市场服务实体经济功能，大商所于8月18日发布公告，启动协议交收库及交收业务检查机构征集工作，并配套出台相关管理办法。这是国内期货市场首次推出协议交收库及交收业务检查机构相关业务。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6791348.d.html</link>
-            <guid>2776889</guid>
-            <pubDate>Thu, 18 Aug 2022 14:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1至7月我国对外非金融类直接投资4242.8亿元 同比增长4.4%】根据商务部最新发布的数据，2022年1至7月，我国对外非金融类直接投资4242.8亿元，同比增长4.4%，折合650.6亿美元，同比增长3.6%。其中，流向租赁和商务服务业223.8亿美元，同比增长24.5%；流向批发和零售业、制造业、建筑业等领域的投资均呈增长态势。对“一带一路”沿线国家非金融类直接投资118.7亿美元，同比增长5.1%，占同期总额的18.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6791285.d.html</link>
-            <guid>2776888</guid>
-            <pubDate>Thu, 18 Aug 2022 14:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国初请业救济人数三周来首次意外下降】美国截至8月13日当周初请失业救济人数减少2000至25万，为三周来首次下降，续领失业金人数增至144万，创4个月来新高。初请失业救济人数下降表明劳动力需求依然健康，但一些雇主在经济不确定的情况下已开始裁员或冻结招聘，且随着美联储采取激进的加息路径，这种情况可能会持续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8743983.d.html</link>
-            <guid>2776887</guid>
-            <pubDate>Thu, 18 Aug 2022 14:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国费城地区8月份制造业活动意外扩张】美国8月费城联储制造业指数意外增长，为三个月来首次，但对未来的展望依然疲弱。费城联邦储备银行周四公布的数据显示，制造业当前评估指数从-12.3升至6.2，高于所有经济学家的预估。该指数高于零表明经济活动增长，预期为录得-5。不过衡量未来6个月景气度的指标连续第三个月低于零。订单指标增长约20点至负的5.1，表明订单量虽然仍在减少，但下降速度已经有所放缓。交货时间缩短，预示供应链正在正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8743883.d.html</link>
-            <guid>2776886</guid>
-            <pubDate>Thu, 18 Aug 2022 14:19:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长内托：巴西的货币工作做得更早，更快，人们知道央行的工作基本上完成了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8743828.d.html</link>
-            <guid>2776885</guid>
-            <pubDate>Thu, 18 Aug 2022 14:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长内托：我理解美国通胀改善的过程不是线性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizirav8743814.d.html</link>
-            <guid>2776884</guid>
-            <pubDate>Thu, 18 Aug 2022 14:19:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生态环境部和上海市合作一周年，形成环境治理体系十大成果】8月17日，生态环境部与上海市合作2022年度工作会议在上海召开，审议通过了《部市合作2022年重点工作清单》。一年来，生态环境部与上海市在共同推进经济高质量发展、生态环境高水平保护、长三角区域生态环境全方位协作以及共同构建超大城市现代环境治理体系等方面，形成了10项标志性成果。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6790815.d.html</link>
-            <guid>2776883</guid>
-            <pubDate>Thu, 18 Aug 2022 14:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳大利亚能源价格狂涨两倍，政府计划限制天然气出口，生产商不服】截至6月份的三个月里，澳大利亚最大电力市场的能源批发价格上涨了两倍。根据几年前的一项机制，政府可以要求天然气生产商优先考虑国内需求，限制出口。这种紧急权力从未使用过，但议员本月表示，他们可以利用这一机制来防止明年出现天然气短缺。但澳大利亚天然气行业警告政府，如果对生产商的出口数量施加临时限制，可能会损害该国的声誉。壳牌发言人称，该机制是一个重要的短期工具，有助于客户对天然气供应有信心。不过进一步干预可能会给未来开发天然气供应的投资带来风险，进而影响价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6790742.d.html</link>
-            <guid>2776882</guid>
-            <pubDate>Thu, 18 Aug 2022 14:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国谘商会经济研究高级主任Ataman Ozyildirim：近期经济衰退风险正在上升】美国谘商会经济研究高级主任Ataman Ozyildirim：美国7月谘商会领先指标月率第5个月下降，表明近期经济衰退风险正在上升，消费者的悲观情绪和股市波动，以及劳动力市场、住房建设和制造业新订单的放缓，都表明经济疲弱将加剧，并在美国经济中更广泛地蔓延开来。世界大型企业联合会预计，美国经济在第三季度预计不会扩张，可能在今年底或2023年初陷入短暂但温和的衰退。]]></title>
-            <guid>2776880</guid>
-            <pubDate>Thu, 18 Aug 2022 14:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【广东：巩固完善药品耗材集中采购制度 扩大带量采购范围】广东省政府办公厅印发《广东省深化医药卫生体制改革近期重点工作任务》提到，巩固完善药品耗材集中采购制度，扩大带量采购范围，加快省际联盟中选结果落地实施，力争2022年内国家和地方带量采购药品品种数合计超过350个，加快实现“应采尽采”，推进落实国家组织脊柱类高值医用耗材集中采购和使用工作。对国家组织集中采购以外用量大、金额比较高的药品耗材，至少开展1次省级集中带量采购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-18/detail-imizmscv6790258.d.html</link>
-            <guid>2776879</guid>
-            <pubDate>Thu, 18 Aug 2022 14:10:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
