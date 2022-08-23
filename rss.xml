@@ -4,11 +4,45 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 23 Aug 2022 18:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 21:06:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[公布财报后，诺德斯特龙(JWN.N)盘后跌近12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9425902.d.html</link>
+            <guid>2781264</guid>
+            <pubDate>Tue, 23 Aug 2022 20:17:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【诺德斯特龙百货二季度业绩好于预期，但下调全年业绩指引，股价盘后跌超10%】诺德斯特龙百货公司二季度总体收入41.0亿美元，分析师预期39.9亿美元。预计全年调整后EPS为2.30-2.60美元，公司先前预估3.20-3.50美元。预计全年收入将增长5%-7%，公司先前料增6%-8%。诺德斯特龙百货公司（JWN）美股盘后跌幅从6.72%扩大至10.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7459695.d.html</link>
+            <guid>2781262</guid>
+            <pubDate>Tue, 23 Aug 2022 20:11:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：临床阶段生物医药公司Third Harmonic Bio申请IPO，寻求在纳斯达克上市，代码为“THRD”，承销商包括摩根士丹利、杰富瑞和科文。]]></title>
+            <guid>2781260</guid>
+            <pubDate>Tue, 23 Aug 2022 20:10:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚数字支付公司Starbox Group（STBX）美国IPO首日收涨285%，报15.40美元。]]></title>
+            <guid>2781258</guid>
+            <pubDate>Tue, 23 Aug 2022 20:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国家航空航天局公布最新木星照片】 图片由带有专门红外滤光片的近红外相机拍摄，由于红外线对人眼是不可见的，因此这些光被映射到可见光谱上，再由公民科学家朱迪·施密特（Judy Schmidt ）与科学家的合作下，将数据转化为图像。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7454642.d.html</link>
+            <guid>2781244</guid>
+            <pubDate>Tue, 23 Aug 2022 18:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲近三分之二地区干旱或有干旱风险】 欧洲联盟委员会联合研究中心22日发布的一份报告显示，欧洲近三分之二地区发生干旱或面临干旱风险，部分地区旱情自8月以来持续恶化，已影响到内河航运、水力发电和农业收成。报告显示，欧洲47%的地区处于干旱预警状态，即面临干旱风险；17%地区处于干旱警报状态，即已陷入干旱，高于7月份的11%地区。干旱可能造成今年欧洲多种农作物减产，例如导致今年欧洲玉米产量比此前5年平均水平减少16%，大豆产量下降15%。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizirav9420272.d.html</link>
+            <guid>2781242</guid>
+            <pubDate>Tue, 23 Aug 2022 18:22:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【英国国家统计局公布最新修正数据：2020年国内产出下降11.0%】英国22日公布的最新官方数据显示，该国2020年的国内产出创下300多年来的最大降幅。英国国家统计局最新修正的数据显示，2020年英国国内产出下降了11.0%。而根据英格兰银行提供的历史数据，这个下降幅度比国家统计局此前的任何一次估算都要大，也是英国自1709年以来国内产出的最大降幅。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-24/detail-imizmscv7451723.d.html</link>
@@ -162,89 +196,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9405922.d.html</link>
             <guid>2781166</guid>
             <pubDate>Tue, 23 Aug 2022 14:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西债务违约人数增加至约6680万人】巴西财经媒体《经济价值报》23日援引信用评估机构发布的数据报道称，截至今年6月，巴西全国至少有6680万名消费者不能支付账单或偿还债务，与2021年8月6220万的债务违约人数相比，增加了460万。数据显示，巴西债务违约涉及的金额已从2021年8月的2446亿雷亚尔（约合3253亿元人民币），增长到了2022年6月的2814亿雷亚尔（约合3743亿元人民币），增长幅度达到15%，人均债务违约金额达4211.8雷亚尔（约合5602元人民币）。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9405912.d.html</link>
-            <guid>2781165</guid>
-            <pubDate>Tue, 23 Aug 2022 14:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新房销售跌至2016年初以来最低水平】今年7月，美国新屋销售出现年内第六次下滑，创下2016年初以来的最低增速。7月份的销售下滑是房地产市场在高房价和借贷成本上升的重压下不堪重负的最新例证。建筑业放缓，购房申请减少，更多买家退出交易。随着需求下滑，库存正在迅速增长，这可能会在未来几个月给房价带来下行压力。月底有46.4万套新房待售，为2008年以来最高。然而，其中90%的项目要么仍在建设中，要么尚未开工。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7439995.d.html</link>
-            <guid>2781163</guid>
-            <pubDate>Tue, 23 Aug 2022 14:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国7月新屋销售环比大幅下降12.6%】美国7月新屋销售环比大幅下降12.6%，为过去7个月中连续第6个月下滑，同比降幅达到29.6%，至51.1万套，创下2016年月以来新低。新房供应量飙升，从前一个月的9.2个月上升至10.9个月。新房价格中位数从41.49万美元飙升至43.94万美元，略低于创纪录的45.82万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7439718.d.html</link>
-            <guid>2781161</guid>
-            <pubDate>Tue, 23 Aug 2022 14:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Facebook违规追踪用户定位遭集体诉讼，斥3750万美元达成和解】根据美国旧金山联邦法院的一份文件，Meta Platforms(META.O)与Facebook用户签署了一份3750万美元的集体和解协议。这些用户控诉Facebook在他们关闭设备的定位服务后继续追踪他们的位置。据报道，美国加州北区地方法院周一宣布了这份和解协议，涵盖约7000万在2015年1月30日至2018年4月18日期间使用Facebook的美国居民。根据该文件，通过在线系统提交索赔的集体成员将以电子方式或支票方式获得付款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9405123.d.html</link>
-            <guid>2781158</guid>
-            <pubDate>Tue, 23 Aug 2022 14:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金山办公：2022年半年度净利润5.2亿元 同比降5.3%】金山办公公告，公司2022年半年度实现营业收入为17.92亿元，同比增长14.47%；归母净利润5.2亿元，同比下滑5.3%；基本每股收益1.13元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9404743.d.html</link>
-            <guid>2781157</guid>
-            <pubDate>Tue, 23 Aug 2022 14:12:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据厦门市纪委监委网站消息，厦门建发集团有限公司党委委员、副总经理，建发房地产集团有限公司党委书记、董事长庄跃凯涉嫌严重违纪违法，目前正接受厦门市纪委监委纪律审查和监察调查。]]></title>
-            <guid>2781156</guid>
-            <pubDate>Tue, 23 Aug 2022 14:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国新屋销售数据跌至2016年初以来最低水平】美国新屋销售总数年化数据今年出现第六次下滑，创下2016年初以来的最低增幅，延续了由借贷成本高企和需求回落推动的长达数月的房地产市场恶化景象。7月份的销售下滑是房地产市场在高房价和借贷成本上升的重压下不堪重负的最新例证。建筑业放缓，购房申请减少，更多买家退出交易。随着需求下滑，库存正在迅速增长，这可能会在未来几个月给房价带来下行压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7438393.d.html</link>
-            <guid>2781153</guid>
-            <pubDate>Tue, 23 Aug 2022 14:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【每日优鲜便利购作价3千万被收购？公司暂未回应】今日，市场上传出了一则每日优鲜旗下便利购业务已经被收购的消息而引发关注。对于收购传闻，记者向每日优鲜方面进行求证，公司暂未回应。另一方面，记者联系了深圳友朋创始人王永安，他回应记者称，此前曾给每日优鲜便利购大量“输血”，目前还在“抢救”当中，其他不做对外沟通。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7438299.d.html</link>
-            <guid>2781151</guid>
-            <pubDate>Tue, 23 Aug 2022 14:06:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股每日优鲜跌超10%，其旗下便利购业务最终作价3000万被收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9403705.d.html</link>
-            <guid>2781149</guid>
-            <pubDate>Tue, 23 Aug 2022 14:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月新屋销售总数年化录得51.1万户，为2016年1月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9403552.d.html</link>
-            <guid>2781147</guid>
-            <pubDate>Tue, 23 Aug 2022 14:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗民航组织要求美国解除制裁】伊朗民航组织负责人穆罕默迪·巴赫什23日说，受美国制裁影响，约40%的伊朗民航飞机处于停飞状态，希望“不公”的制裁早日被解除。穆罕默迪·巴赫什当天接受伊朗学生通讯社采访时说，在过去40年里，美国对伊朗航空业的制裁不断扩大，限制伊朗采购飞机整机和零部件，空中救援等人道主义领域也受到美国制裁影响。伊朗当前约有330架民航飞机，平均机龄接近27年，其中约60%的飞机处于可使用状态，其余因发动机或其他零部件问题停飞。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9403472.d.html</link>
-            <guid>2781143</guid>
-            <pubDate>Tue, 23 Aug 2022 14:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月新屋销售总数年化 51.1万户，预期57.5万户，前值59万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9403405.d.html</link>
-            <guid>2781142</guid>
-            <pubDate>Tue, 23 Aug 2022 14:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【现代牧业：上半年营收56亿元 同比大涨77%】现代牧业发布上半年业绩，实现总收入56.3亿元，同比增长77%。期内股东应占净利5.08亿元，同比微增2.2%。截至6月底，现代牧业在国内共投资经营38家牧场公司，拥有38.27万头奶牛，年化产奶量达230万吨以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizmscv7437623.d.html</link>
-            <guid>2781141</guid>
-            <pubDate>Tue, 23 Aug 2022 14:00:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[知名对冲基金Pelham Capital亏损缩小，但目前仍亏损33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-23/detail-imizirav9403333.d.html</link>
-            <guid>2781140</guid>
-            <pubDate>Tue, 23 Aug 2022 13:59:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
