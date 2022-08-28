@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 28 Aug 2022 18:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 21:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【十四家白酒上市公司披露中报，次高端酒企业绩分化】 截至8月28日，纳入统计的19家白酒企业中已有14家披露了半年报业绩。中高端白酒阵营的贵州茅台和五粮液实现营收净利双增长。部分次高端酒企则显示出业绩分化有所加大。持续开拓全国市场、优化产品结构、市场营销等方面多点开花助力下，山西汾酒上半年实现营业收入同比增长26.53%，归属于上市公司股东的净利润同比增长41.46%。另一家金徽酒也实现营收与净利润两位数增长，其中营业收入同比增长26.13%。与之形成对比，顺鑫农业和金种子酒等略显疲态。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0100209.d.html</link>
+            <guid>2785552</guid>
+            <pubDate>Sun, 28 Aug 2022 20:09:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【石油天然气出口增加 卡塔尔7月出口总额同比增长61.9%】据卡塔尔国家统计局公布的数据显示，今年7月，卡塔尔天然气以及其他气态碳氢化合物的出口同比增长90%，石油及其衍生品的出口同比增长35%。受益于此，卡塔尔7月的出口总额达到444亿卡塔尔里亚尔（约合838亿元人民币），同比增长61.9%，环比增长12.4%。贸易顺差152亿里亚尔（约合287亿元人民币），同比增长78%。卡塔尔是全球最主要的液化天然气生产国和出口国之一，其天然气和石油的出口额占其出口总额的大约80%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0090861.d.html</link>
@@ -400,23 +406,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8070788.d.html</link>
             <guid>2785103</guid>
             <pubDate>Sun, 28 Aug 2022 07:50:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月28日15时42分在四川甘孜州巴塘县发生3.3级地震，震源深度14千米。]]></title>
-            <guid>2785102</guid>
-            <pubDate>Sun, 28 Aug 2022 07:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[兴齐眼药：上半年实现净利润1.2亿元，同比增长50.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8070452.d.html</link>
-            <guid>2785099</guid>
-            <pubDate>Sun, 28 Aug 2022 07:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泸州老窖：上半年实现净利55.32亿元 同比增长30.89%】泸州老窖发布半年度报告，公司2022年半年度实现营业收入为116.64亿元，同比增长25.19%；归母净利润55.32亿元，同比增长30.89%；基本每股收益3.76元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8070380.d.html</link>
-            <guid>2785098</guid>
-            <pubDate>Sun, 28 Aug 2022 07:45:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
