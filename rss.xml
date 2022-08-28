@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 28 Aug 2022 15:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 18:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【石油天然气出口增加 卡塔尔7月出口总额同比增长61.9%】据卡塔尔国家统计局公布的数据显示，今年7月，卡塔尔天然气以及其他气态碳氢化合物的出口同比增长90%，石油及其衍生品的出口同比增长35%。受益于此，卡塔尔7月的出口总额达到444亿卡塔尔里亚尔（约合838亿元人民币），同比增长61.9%，环比增长12.4%。贸易顺差152亿里亚尔（约合287亿元人民币），同比增长78%。卡塔尔是全球最主要的液化天然气生产国和出口国之一，其天然气和石油的出口额占其出口总额的大约80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-29/detail-imiziraw0090861.d.html</link>
+            <guid>2785440</guid>
+            <pubDate>Sun, 28 Aug 2022 16:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8月29日零时起，海南琼海博鳌机场恢复国内客运航班商业化运行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0087498.d.html</link>
+            <guid>2785438</guid>
+            <pubDate>Sun, 28 Aug 2022 15:15:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【法国总理为征收能源暴利税敞开大门】法国总理博尔内保留了对企业“超额利润”征收新税的可能性。上个月，法国议员否决了这一提议。博尔内表示，她更倾向于采取其他措施，而非征收暴利税，比如公司降低消费价格，给员工发放奖金，以增强他们的消费能力。但她指出，虽然政府的政策一直是降低企业税，但公众很难理解，为何企业可以获得巨大的收益，而普通人却为收支平衡而烦恼。她的言论可能会助长对道达尔和Engie以及航运巨头CMA CGM等能源生产商征收特别税的新呼声。虽然政府没有支持这一举措，但它确实获得了总统马克龙所在政党的一些议员的支持。]]></title>
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0086246.d.html</link>
@@ -405,18 +417,6 @@
             <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8070380.d.html</link>
             <guid>2785098</guid>
             <pubDate>Sun, 28 Aug 2022 07:45:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【最新国家公路网规划“出炉” 江苏省总规模约10000公里】国家发展改革委和交通运输部近日正式公布《国家公路网规划（2022—2035年）》。根据《规划》，国家公路网（包含国家高速公路和普通国道）规划总规模约46.1万公里，其中江苏省总规模约10000公里，包括国家高速公路4100公里、普通国道5900公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imiziraw0047510.d.html</link>
-            <guid>2785096</guid>
-            <pubDate>Sun, 28 Aug 2022 07:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中信证券：预计A股波动将进一步加大 建议配置重心继续转向偏冷门行业】中信证券指出，市场整体增量资金依旧有限，国内政策密集落地应对经济风险，显著分化的中报披露收官，叠加外部中概风险和美元紧缩预期纠偏，预计A股波动将继续加大。预计已开启的市场切换将持续推进，本周领涨板块和交易热度都与前期发生了明显变化，本轮切换既不是简单的小切大，也不是传统的成长切价值，而是赛道内高切低，行业间热切冷的“非典型切换”，主要体现为赛道板块内部转向估值和增长确定性匹配度更好的个股，从纯粹炒预期的个股转向成长白马；行业间从热门赛道行业转向医药、基础化工、消费当中相对冷门但已出现边际改善迹象的细分行业及个股。建议继续坚持均衡配置，重心继续转向偏冷门行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-08-28/detail-imizmscv8067967.d.html</link>
-            <guid>2785094</guid>
-            <pubDate>Sun, 28 Aug 2022 07:17:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
