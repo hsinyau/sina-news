@@ -4,245 +4,377 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 01 Sep 2022 00:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 06:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【第七届东方经济论坛将于9月5日至8日举行】当地时间9月1日，俄罗斯远东和北极发展部部长切昆科夫表示，第七届东方经济论坛将于9月5日至8日在符拉迪沃斯托克举行。据悉，来自日本和韩国等国家的代表团也将出席。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8611666.d.html</link>
-            <guid>2789068</guid>
-            <pubDate>Thu, 01 Sep 2022 00:35:50 GMT</pubDate>
+            <title><![CDATA[  【越南对原产于中国的H型钢产品继续征收反倾销税】据中国贸易救济信息网消息，2022年8月31日，越南工贸部发布2022年8月19日作出的第1640/QD-BCT号决议，对原产于中国的H型钢产品（越南语：thép hình chữ H）作出第一次反倾销日落复审终裁，决定继续对涉案产品征收22.09%～33.51%的反倾销税，措施自2022年9月6日起生效，有效期为5年。（界面）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8658914.d.html</link>
+            <guid>2789357</guid>
+            <pubDate>Thu, 01 Sep 2022 06:15:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新疆昨日新增本土确诊病例5例 新增本土无症状感染者33例】新疆卫健委通报，8月31日0至24时，新疆维吾尔自治区新增本土确诊病例5例，均为无症状感染者转确诊病例，其中，乌鲁木齐市天山区2例、水磨沟区1例、米东区2例；新增本土无症状感染者33例，其中，乌鲁木齐市天山区3例、沙依巴克区5例、水磨沟区5例，伊犁州伊宁市15例，塔城地区乌苏市2例，昌吉州呼图壁县1例、吉木萨尔县1例、奇台县1例。新增境外输入无症状感染者3例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0602212.d.html</link>
-            <guid>2789067</guid>
-            <pubDate>Thu, 01 Sep 2022 00:31:05 GMT</pubDate>
+            <title><![CDATA[英国财政大臣扎哈维：目前正在与法国电力公司就SIZEWELL C核电站进行谈判，投资核电当然是个好主意。]]></title>
+            <guid>2789355</guid>
+            <pubDate>Thu, 01 Sep 2022 06:14:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国8月汇丰制造业PMI 47.6，前值49.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8611009.d.html</link>
-            <guid>2789066</guid>
-            <pubDate>Thu, 01 Sep 2022 00:30:32 GMT</pubDate>
+            <title><![CDATA[澳大利亚股指S&P/ASX200指数跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8658765.d.html</link>
+            <guid>2789354</guid>
+            <pubDate>Thu, 01 Sep 2022 06:13:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本8月制造业PMI终值 51.5，前值51。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0602071.d.html</link>
-            <guid>2789065</guid>
-            <pubDate>Thu, 01 Sep 2022 00:30:24 GMT</pubDate>
+            <title><![CDATA[【鲲鹏计算产业框架协议在长沙签约】8月31日，在2022互联网岳麓峰会“科技创新，引领数字未来”专场论坛现场，湖南邵阳市人民政府、岳阳市人民政府分别与湘江鲲鹏签署了鲲鹏计算产业框架协议签约。据悉，鲲鹏计算产业生态与邵阳、岳阳两市签署合作协议，将构建地市鲲鹏生态，带动湖南地市科技创新、人才培养、生态建设和数字化升级，从省会到地市，为整个湖南构建新发展格局、推动高质量发展提供强大算力支撑。（中国科学报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0650868.d.html</link>
+            <guid>2789353</guid>
+            <pubDate>Thu, 01 Sep 2022 06:13:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩国贸易收支8月份再现逆差】韩国产业通商资源部9月1日发布的韩国8月进出口统计显示，韩国贸易收支8月份再现逆差，这是从今年4月起，连续5个月出现逆差。这也是自2008年4月以来韩国首次连续5个月出现贸易逆差的情况。根据韩国产业通商资源部发布的数据，8月韩国出口566.7亿美元，比去年同期增加6.6%，进口661.5亿美元，同比增加28.2%。但从出口额来看，韩国的出口已连续22个月保持增长势头。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8610884.d.html</link>
-            <guid>2789064</guid>
-            <pubDate>Thu, 01 Sep 2022 00:29:35 GMT</pubDate>
+            <title><![CDATA[【机构评德国7月实际零售销售月率】这一数字超出预期，幅度相当大。细分数据显示，食品和杂货的增长（在过去三个月下降后）增加了2.1%。与此同时，非食品商品的零售额环比增长0.5%，而纺织品、服装、鞋类和皮革制品的销售额较7月温和增长0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0650730.d.html</link>
+            <guid>2789352</guid>
+            <pubDate>Thu, 01 Sep 2022 06:12:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[吉林省卫健委：8月31日0-24时，全省无新增本地确诊病例；无新增本地无症状感染者。 8月31日0-24时，全省新增境外输入确诊病例（轻型）1例，新增境外输入无症状感染者3例，均在长春市，以上人员入境后严格实施集中隔离医学观察管理措施，无省内自行活动轨迹。]]></title>
-            <guid>2789063</guid>
-            <pubDate>Thu, 01 Sep 2022 00:26:55 GMT</pubDate>
+            <title><![CDATA[  港股互联网电商股午后走低，截止发稿，美团跌5%、阿里巴巴跌近2%。]]></title>
+            <guid>2789351</guid>
+            <pubDate>Thu, 01 Sep 2022 06:11:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澜起科技：发布业界首款DDR5第一子代时钟驱动器工程样片】澜起科技消息，澜起科技宣布在业界率先推出DDR5第一子代时钟驱动器（简称CKD或DDR5CK01）工程样片，并已送样给业界主流内存厂商，该产品将用于新一代台式机和笔记本电脑的内存。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8610529.d.html</link>
-            <guid>2789061</guid>
-            <pubDate>Thu, 01 Sep 2022 00:26:07 GMT</pubDate>
+            <title><![CDATA[【机构评英国8月Nationwide房价指数月率】英国房价继续强劲上涨，因为市场预期需求状况将会减弱，即使英国央行在今年下半年继续进一步收紧政策。值得注意的是，这是房价连续第13个月上涨，在过去两年中，平均房价上涨了近5万英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8658441.d.html</link>
+            <guid>2789350</guid>
+            <pubDate>Thu, 01 Sep 2022 06:11:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[9月1日海南环岛高铁、海口市郊列车暂不恢复开行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0601527.d.html</link>
-            <guid>2789060</guid>
-            <pubDate>Thu, 01 Sep 2022 00:25:36 GMT</pubDate>
+            <title><![CDATA[  【国资委：各中央企业和各地改革工作台账完成率均超98%】国务院国资委副主任翁杰明介绍国企改革三年行动最新进展时表示，目前从在线数据看，各中央企业和各地改革工作台账完成率均超过98%，三年行动取得了显著成绩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0650202.d.html</link>
+            <guid>2789348</guid>
+            <pubDate>Thu, 01 Sep 2022 06:09:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海南昨日新增24例本土确诊和67例本土无症状感染者】8月31日0—24时，海南省新增感染者82例（确诊24例，减去无症状转确诊9例；无症状67例）。其中，新增本土确诊24例（含无症状转确诊9例），其中三亚市17例（含无症状转确诊8例）、儋州市3例、乐东县2例、万宁市1例（为无症状转确诊）、海口市1例；新增本土无症状67例，其中三亚市45例、乐东县14例、儋州市7例、海口市1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8610072.d.html</link>
-            <guid>2789056</guid>
-            <pubDate>Thu, 01 Sep 2022 00:21:18 GMT</pubDate>
+            <title><![CDATA[英国公司的借贷成本十年来首次超过5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0650031.d.html</link>
+            <guid>2789346</guid>
+            <pubDate>Thu, 01 Sep 2022 06:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【控制论原理让机器更容易理解人】俄罗斯南乌拉尔国立大学科研人员运用生物控制系统原理开发使机器更容易“理解”人的技术。这些机器包括先进的运动模拟器、医疗设备和工业控制系统。相关研究结果发表在最近的《传感器》杂志上。  （科技日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8609504.d.html</link>
-            <guid>2789050</guid>
-            <pubDate>Thu, 01 Sep 2022 00:16:49 GMT</pubDate>
+            <title><![CDATA[创业板指日内跌幅达1％，航空、旅游板块跌幅居前。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0649871.d.html</link>
+            <guid>2789343</guid>
+            <pubDate>Thu, 01 Sep 2022 06:06:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[文件：万科旗下万物云评估香港IPO需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8608972.d.html</link>
-            <guid>2789047</guid>
-            <pubDate>Thu, 01 Sep 2022 00:11:33 GMT</pubDate>
+            <title><![CDATA[【国资委：要提高国企中长期激励的覆盖面、灵活性和匹配度】据中证报，9月1日，国务院国资委党委委员、副主任翁杰明在巩固深化国企改革三年行动补短板强弱项专题推进会上表示，要提高国有企业中长期激励的覆盖面、灵活性和匹配度。要结合本单位实际，更有创新性、更加灵活地运用各种激励政策和工具，使政策更多惠及骨干人员。同时，强化对科技创新人才的精准激励。要将激励资源更大力度向在打造原创技术策源地、建设现代产业链链长、开展关键核心技术攻关等方面发挥重要作用的科技创新骨干人才倾斜，充分发挥精准滴灌和杠杆撬动作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8657703.d.html</link>
+            <guid>2789342</guid>
+            <pubDate>Thu, 01 Sep 2022 06:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国8月份进口同比增长28.2%，预估为23.7%；韩国8月份出口同比增长6.6%，预估为5.6%。]]></title>
-            <guid>2789035</guid>
-            <pubDate>Thu, 01 Sep 2022 00:02:09 GMT</pubDate>
+            <title><![CDATA[芬兰国有能源公司Fortum：退出俄罗斯市场的程序正在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8657441.d.html</link>
+            <guid>2789338</guid>
+            <pubDate>Thu, 01 Sep 2022 06:04:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3M计划裁员以在经济放缓之际削减成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0598234.d.html</link>
-            <guid>2789033</guid>
-            <pubDate>Wed, 31 Aug 2022 23:56:38 GMT</pubDate>
+            <title><![CDATA[【预制菜板块异动拉升 中百集团、红旗连锁双双涨停】预制菜板块异动拉升，中百集团、红旗连锁双双涨停，同庆楼、金健米业、步步高、国联水产等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8657136.d.html</link>
+            <guid>2789336</guid>
+            <pubDate>Thu, 01 Sep 2022 06:02:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本第二季度资本支出同比增长4.6%，预估为3.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8606484.d.html</link>
-            <guid>2789028</guid>
-            <pubDate>Wed, 31 Aug 2022 23:50:16 GMT</pubDate>
+            <title><![CDATA[德国7月实际零售销售月率 1.9%，预期0%，前值-1.60%。德国7月实际零售销售年率 -2.6%，预期-6.50%，前值-8.8%。]]></title>
+            <guid>2789334</guid>
+            <pubDate>Thu, 01 Sep 2022 06:00:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德国汉莎航空公司飞行员计划在9月2日进行罢工】德国汉莎航空公司飞行员工会宣布将在9月2日进行持续一整天的罢工。有消息称，这将导致所有从德国出发的航空及货运班次受到影响。该工会一名发言人透露，在与公司进行密集谈判之后，工会董事会应集体谈判委员会的要求作出了罢工的决定，理由是新的集体工资协议谈判失败，且近期包括探索性闭门会谈、改进工资提议、谈判尝试等在内的一系列努力均无果而终。汉莎航空公司飞行员工会要求今年的工资增长5.5%，并在明年自动进行通货膨胀补偿。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0597642.d.html</link>
-            <guid>2789027</guid>
-            <pubDate>Wed, 31 Aug 2022 23:50:06 GMT</pubDate>
+            <title><![CDATA[英国8月Nationwide房价指数年率 10%，预期8.90%，前值11.00%。英国8月Nationwide房价指数月率 0.8%，预期0.10%，前值0.10%。]]></title>
+            <guid>2789333</guid>
+            <pubDate>Thu, 01 Sep 2022 06:00:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黑龙江肇东发现9例核酸阳性人员，实施3日静默管理。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0597114.d.html</link>
-            <guid>2789023</guid>
-            <pubDate>Wed, 31 Aug 2022 23:43:55 GMT</pubDate>
+            <title><![CDATA[【港股博彩概念股走低】港股博彩概念股走低，新濠国际发展跌超5%，金沙中国有限公司跌近5%，澳博控股、银河娱乐跌超3%，永利澳门、美高梅中国跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0648743.d.html</link>
+            <guid>2789331</guid>
+            <pubDate>Thu, 01 Sep 2022 05:57:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【换手率普遍较低 公募基金调仓放缓】8月31日，2022年公募基金上半年业绩情况出炉。数据显示，偏股型公募基金调仓节奏明显放缓，持股周转率普遍偏低。部分基金经理以静制动，坚守自己的重仓股，也有基金经理选择大进大出调整持仓。不同基金经理管理的产品持股周转率出现较大差距。从调仓换股的行业看，上半年新能源仍是公募基金交易最火热的赛道，消费类公司则明显遇冷，交易频率相对较低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0596903.d.html</link>
-            <guid>2789022</guid>
-            <pubDate>Wed, 31 Aug 2022 23:41:50 GMT</pubDate>
+            <title><![CDATA[【工信部：按照适度超前原则 继续加大5G网络和千兆光纤网络建设力度】据中证报，工业和信息化部副部长徐晓兰9月1日在2022年服贸会“数字贸易发展趋势和前沿高峰论坛”上表示，工业和信息化部将持续推动数字经济和数字贸易做优做大做强。持续优化网络布局，加快数字基础设施建设，按照适度超前的原则，继续加大5G网络和千兆光纤网络建设力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0648714.d.html</link>
+            <guid>2789330</guid>
+            <pubDate>Thu, 01 Sep 2022 05:57:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【公募持有A股市值近6万亿 隐形重仓股曝光】数据显示，2022年上半年，公募基金持有A股市值合计达5.98万亿元，占A股总市值比重7.04%，占A股流通总市值比重8.43%，公募基金仍是持股市值占比最高的专业机构投资者。通过基金全部持股和基金十大重仓股进行对比，可以发现公募基金分别隐形持有隆基绿能、药明康德、海康威视、万华化学、爱尔眼科和东方财富等18家上市公司逾百亿元，而这些上市公司也几乎都在基金公司的十大重仓股之列。除此之外，一些顶流基金经理的调仓动向也曝光。如易方达基金经理张坤继续加大港股布局，并对配置的行业结构进行了调整，减少科技、金融行业的配置，增加医药和消费行业的配置。刘格菘管理的广发小盘成长持续加仓锦浪科技、福莱特和国联股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0596897.d.html</link>
-            <guid>2789021</guid>
-            <pubDate>Wed, 31 Aug 2022 23:41:43 GMT</pubDate>
+            <title><![CDATA[波音公司高管：印度的增长正在迅速反弹，预计航空公司近期将增加约25%的座位容量。波音公司高管：印度的增长正在迅速反弹，预计航空公司近期将增加约25%的座位容量。燃料成本、汇率和低票价对印度市场的增长构成挑战。]]></title>
+            <guid>2789329</guid>
+            <pubDate>Thu, 01 Sep 2022 05:57:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多地成立房地产纾困基金：撬动多方资本，盘活行业流动性】在中央政治局会议首次提出“保交楼、稳民生”的背景下，近期以来，多地政府牵头，联动地方AMC、地方国企等多种形式的国有资本，共同成立房地产纾困基金。据中指研究院统计，今年以来，包括郑州、南宁、浙江、湖北、陕西等省市明确设立纾困基金，稳定房地产市场发展。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8605696.d.html</link>
-            <guid>2789020</guid>
-            <pubDate>Wed, 31 Aug 2022 23:39:51 GMT</pubDate>
+            <title><![CDATA[【国际货币基金组织同斯里兰卡政府达成约29亿美元的援助协议】央视新闻援引斯里兰卡媒体报道，当地时间9月1日，国际货币基金组织（IMF）和斯里兰卡政府已达成一项工作人员级协议，以支持斯里兰卡的经济政策，在扩展基金机制（EFF）下提供为期48个月的约29亿美元的援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0648325.d.html</link>
+            <guid>2789328</guid>
+            <pubDate>Thu, 01 Sep 2022 05:52:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【SpaceX再获NASA新合同：将新增5项载人发射任务】美国航空航天局（NASA）在8月31日表示，根据一份新的价值14亿美元的合同订单，SpaceX公司将在2030年之前为NASA再执行5次载有宇航员的国际空间站任务，使该公司的载人龙飞船（Crew Dragon）的合同任务总数量达到14次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0596658.d.html</link>
-            <guid>2789019</guid>
-            <pubDate>Wed, 31 Aug 2022 23:39:09 GMT</pubDate>
+            <title><![CDATA[  【食品加工板块快速反弹 黑芝麻2连板】黑芝麻2连板，桂发祥、五芳斋此前涨停，青岛食品、安记食品涨超8%，仲景食品、西麦食品、盐津铺子等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8655933.d.html</link>
+            <guid>2789327</guid>
+            <pubDate>Thu, 01 Sep 2022 05:50:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  叮当健康在港交所公告，9月14日在港交所主板上市，发售价12港元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8605446.d.html</link>
-            <guid>2789017</guid>
-            <pubDate>Wed, 31 Aug 2022 23:35:26 GMT</pubDate>
+            <title><![CDATA[【天原股份：子公司受限电影响已解除】天原股份在互动平台表示，公司子公司受限电影响已经解除。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0647820.d.html</link>
+            <guid>2789326</guid>
+            <pubDate>Thu, 01 Sep 2022 05:48:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【头部效应显著 券商资管业务净收入超210亿元】今年上半年，41家上市券商实现资管业务手续费净收入合计212.86亿元。其中，中信证券、广发证券、华泰证券的资管业务手续费净收入合计达115亿元。资产管理总规模方面，华泰资管、光证资管、招商资管位居行业前列。数据也显示，资管业务分化的格局进一步加剧。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0596076.d.html</link>
-            <guid>2789015</guid>
-            <pubDate>Wed, 31 Aug 2022 23:32:24 GMT</pubDate>
+            <title><![CDATA[【华谊兄弟在佛山成立电影公司，注册资本5000万】天眼查App显示，近日，华谊兄弟电影（佛山）有限公司成立，法定代表人为王忠磊，注册资本5000万人民币，经营范围包括电影制片、发行、放映；电影摄制服务；电视剧发行、制作；文化娱乐经纪人服务等。股权穿透图显示，该公司由华谊兄弟电影有限公司全资持股，后者由华谊兄弟传媒股份有限公司全资持股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0647698.d.html</link>
+            <guid>2789324</guid>
+            <pubDate>Thu, 01 Sep 2022 05:47:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人工智能算法“照亮”月球永久阴影区】据科技日报，以瑞士苏黎世理工大学为首的一个国际研究小组利用人工智能算法观察到月球上的永久阴影区。该人工智能有望“照亮”永久的阴影区，尤其是那些尽管旋转但自然阳光仍无法到达的区域。这项近期刊载于《地球物理研究快报》上的研究也包含在美国国家航空航天局（NASA）“阿尔忒弥斯1号”任务计划中，有助于为其将来的登月计划确定着陆点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0595683.d.html</link>
-            <guid>2789012</guid>
-            <pubDate>Wed, 31 Aug 2022 23:27:42 GMT</pubDate>
+            <title><![CDATA[  【无锡出台全国首部车联网领域地方性法规】《无锡市车联网发展促进条例（草案）》8月29日通过无锡市人大常委会一审，成为全国首部车联网领域地方性法规。此次《条例》专题设置“基础设施建设”一章，从随路建设、存量道路升级两个方面重点保障基础设施建设、运维，在全国范围内首次将车联网道路基础设施纳入随路建设范畴，并明确了具体操作要求，强化智慧城市基础设施与车联网基础设施的衔接。重点鼓励市场主体参与基础设施建设，逐步推动基础设施建设模式成型，保障长效发展。 (中国证券网)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8655326.d.html</link>
+            <guid>2789323</guid>
+            <pubDate>Thu, 01 Sep 2022 05:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【即时零售升温 多方争相布局】据经济参考报，“即时零售”正在升温。商务部《2022年上半年中国网络零售市场发展报告》明确提及“即时零售”，并将其作为新消费场景之一。记者了解到，美团、京东、达达集团等加力布局即时零售市场，连锁商超、便利店等传统线下零售商也在积极进入即时零售市场。根据中国连锁经营协会等发布的《即时零售开放平台模式研究白皮书》，作为O2O（Online To Offline 线上到线下）到家业务的重要组成部分，即时零售风口已至，或将迎来快速增长。预计到2025年，即时零售中的开放平台模式规模将达到约1.2万亿元，引领并拉动O2O整体市场规模增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8604705.d.html</link>
-            <guid>2789011</guid>
-            <pubDate>Wed, 31 Aug 2022 23:27:33 GMT</pubDate>
+            <title><![CDATA[A股民航机场板块午后继续走低，吉祥航空跌近5%，华夏航空、中国国航、春秋航空、中国东航、白云机场等跟跌。]]></title>
+            <guid>2789322</guid>
+            <pubDate>Thu, 01 Sep 2022 05:44:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三维打印人造气动肌肉问世】据科技日报，意大利研究人员设计并制造了一种由3D打印结构组成的人造气动肌肉，其可根据需要伸展和收缩。据《科学·机器人》杂志报告，这是一种在单一打印过程中制造、由18种不同GRACE（能够收缩和拉长的执行器）组成的气动手。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8604404.d.html</link>
-            <guid>2789010</guid>
-            <pubDate>Wed, 31 Aug 2022 23:23:40 GMT</pubDate>
+            <title><![CDATA[哈萨克斯坦农业部：今年迄今，哈萨克斯坦粮食总产量为750万吨，去年同期为510万吨。]]></title>
+            <guid>2789321</guid>
+            <pubDate>Thu, 01 Sep 2022 05:43:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  披露文件显示，香港交易所已批准万科旗下的万物云在香港上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0594911.d.html</link>
-            <guid>2789008</guid>
-            <pubDate>Wed, 31 Aug 2022 23:20:19 GMT</pubDate>
+            <title><![CDATA[波兰央行货币政策委员Litwiniuk：预计波兰利率将在9月上调25个基点或更多。]]></title>
+            <guid>2789319</guid>
+            <pubDate>Thu, 01 Sep 2022 05:39:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国新能源汽车用高等级材料获突破】据央视新闻，昨天（8月31日），由我国自主研发建设的高等级无取向电工钢生产线在河北迁安投产，新材料将大幅提升新能源汽车电机功率密度和电机效率。这条生产线投产的两款新能源汽车用电工钢产品，作为新能源汽车驱动电机的核心功能材料，能够满足驱动电机更高效率的需求。首钢智新迁安电磁材料有限公司副总经理胡志远表示，电机的效率能够提升0.8%以上，如果按照每天每辆汽车跑50公里计算，2000万辆汽车每天就能省500万度电。北京首钢股份有限公司总工程师马家骥表示，这条生产线投产以后，我们会开辟一个新的工艺路径，引领新能源汽车材料行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8604045.d.html</link>
-            <guid>2789007</guid>
-            <pubDate>Wed, 31 Aug 2022 23:20:12 GMT</pubDate>
+            <title><![CDATA[摩根大通上调百度集团-SW港股评级至“增持”，目标价上调至195港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0646802.d.html</link>
+            <guid>2789318</guid>
+            <pubDate>Thu, 01 Sep 2022 05:39:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多地布局“新赛道” 激发经济新动能】据经济参考报，上海推出数字经济、绿色低碳、元宇宙和智能终端四个“新赛道”的行动方案；江苏提出，数字经济是“新赛道”，也是江苏转型发展的关键增量；四川提出，抓紧谋划培育世界一流产业，积极抢占机器人、储能和钒电池等10个“新赛道”产业；包括新能源、新材料在内的“十强产业”则是山东新旧动能转换的主战场……记者获悉，在巩固经济企稳回升向好势头的同时，多地加快布局产业“新赛道”，激发经济发展新动能。]]></title>
-            <guid>2789006</guid>
-            <pubDate>Wed, 31 Aug 2022 23:20:01 GMT</pubDate>
+            <title><![CDATA[【C汉仪大涨25% 触发临停】汉仪股份午后拉升大涨25%，较开盘涨幅达30%，触发临停。公司专业从事字体设计、字库产品开发、汉字信息技术研究，是国内较大的中文字库产品供应商之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0646611.d.html</link>
+            <guid>2789316</guid>
+            <pubDate>Thu, 01 Sep 2022 05:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【投行净收入微降 6家券商拿下近六成份额】据上证报，今年上半年，41家上市券商合计实现投行业务手续费净收入259.09亿元，同比下滑2.5%。投行业务的“马太效应”进一步加强，在行业整体收入下滑的背景下，排名前五的券商有3家上半年实现正增长。41家券商中，有6家上半年投行业务净收入在10亿元以上，合计151.65亿元，市场份额达58.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0594406.d.html</link>
-            <guid>2789005</guid>
-            <pubDate>Wed, 31 Aug 2022 23:16:35 GMT</pubDate>
+            <title><![CDATA[A股游戏股午后继续回调，大晟文化触及跌停，冰川网络、中南文化跌超5%，顺网科技、盛天网络、富春股份、迅游科技等跟跌。]]></title>
+            <guid>2789314</guid>
+            <pubDate>Thu, 01 Sep 2022 05:30:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中央气象台9月1日06时继续发布台风预报】中央气象台9月1日06时继续发布台风预报： 今年第11号台风“轩岚诺”（超强台风级）的中心今天（9月1日）早晨5点钟位于台湾省台东市偏东方向约510公里的西北太平洋洋面上，就是北纬23.1度、东经126.1度，中心附近最大风力17级以上（62米/秒），中心最低气压为915百帕，七级风圈半径240~280公里，十级风圈半径120公里，十二级风圈半径60公里。预计，“轩岚诺”将以每小时5-10公里的速度向南偏西方向缓慢移动，1-2日将在台湾以东洋面停滞或回旋，强度变化不大；尔后转向北偏西方向移动，3日夜间移入东海南部海面，强度缓慢减弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8603294.d.html</link>
-            <guid>2789004</guid>
-            <pubDate>Wed, 31 Aug 2022 23:13:53 GMT</pubDate>
+            <title><![CDATA[【四川美丰：控股子公司与贵州石油签署合作协议】四川美丰消息，近日，公司控股子公司四川双瑞与贵州石油合作协议签署仪式在贵阳举行。此次合作协议的签署，有利于充分利用贵州石油拥有的LNG加气站渠道和品牌优势，发挥四川双瑞产品资源优势，共同开发贵州区域LNG市场，拓展市场销售渠道，打通LNG上下游产业链。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0645689.d.html</link>
+            <guid>2789313</guid>
+            <pubDate>Thu, 01 Sep 2022 05:29:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山东省昨日新增本土确诊病例4例、本土无症状感染者19例】8月31日0时至24时，全省报告新增本土确诊病例4例，其中济宁3例，2例系集中隔离点检出，1例系重点人员筛查检出；青岛1例，系集中隔离点检出。新增本土无症状感染者19例，其中济宁14例，均系集中隔离点检出；济南2例，均为省外入鲁人员，系集中隔离点检出；聊城2例，为省外返鲁人员及其密切接触者，系集中隔离点检出；青岛1例，系集中隔离点检出。（健康山东）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0594032.d.html</link>
-            <guid>2789003</guid>
-            <pubDate>Wed, 31 Aug 2022 23:13:06 GMT</pubDate>
+            <title><![CDATA[【国家电投与魏桥集团签署战略合作框架协议】国家电投官微消息，8月30日，国家电投与魏桥集团签署战略合作框架协议。双方将建立全方位战略合作伙伴关系，推动清洁低碳能源发展，深化新能源产业、工程技术、海外资源开发、科技创新、资本运作和产业金融等领域合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8653346.d.html</link>
+            <guid>2789312</guid>
+            <pubDate>Thu, 01 Sep 2022 05:27:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上半年基金管理费收入近720亿元 同比增长6.92%】据上证报，依托于持续增长的管理规模，今年上半年公募基金管理费收入可观。天相投顾数据显示，上半年基金公司管理费收入为719.61亿元，较去年同期的673.06亿元增长6.92%。其中，管理费收入超10亿元的基金公司增至21家，行业“马太效应”仍在加强。具体来看，易方达基金是上半年管理费收入最多的基金公司，达到了51.07亿元，同比小幅增长。管理费收入第二名是广发基金，达到35.99亿元，与易方达基金相差约15亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0593860.d.html</link>
-            <guid>2789000</guid>
-            <pubDate>Wed, 31 Aug 2022 23:11:12 GMT</pubDate>
+            <title><![CDATA[【旅游板块震荡走低 君亭酒店跌近7%】旅游板块震荡走低，君亭酒店跌近7%，桂林旅游、西域旅游、首旅酒店、锦江酒店、中国中免等跌超3%]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0645497.d.html</link>
+            <guid>2789311</guid>
+            <pubDate>Thu, 01 Sep 2022 05:27:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【八成实现盈利 深市公司上半年整体稳中提质】据上证报，截至8月31日，深市主板1496家公司、创业板1179家公司披露了2022年半年报。各项数据显示，深市公司今年上半年整体保持韧性增长，新蓝筹、注册制下新上市公司增长动能强劲，先进制造、数字经济、绿色低碳等三大领域增速明显，龙头公司表现亮眼。深市主板公司上半年实现营业总收入7.74万亿元，同比增长6.14%。其中，1175家公司实现盈利，占比接近八成。创业板方面，1179家公司实现营业总收入1.52万亿元，同比增长19.10%，宁德时代、金龙鱼营业收入超过千亿元。创业板公司实现净利润总额1250.17亿元，同比增长10.93%。其中，超八成公司实现盈利，近五成公司净利润同比实现正增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8602872.d.html</link>
-            <guid>2788996</guid>
-            <pubDate>Wed, 31 Aug 2022 23:09:56 GMT</pubDate>
+            <title><![CDATA[【上海发布2022年元宇宙重大应用场景】 9月1日，2022世界人工智能大会在上海世博中心正式开幕。开幕式上，2022年“元宇宙重大应用场景发布”重磅开启，共有6大元宇宙重大应用场景在现场发布，包括一大纪念馆发布的“数字一大，大力弘扬伟大建党精神”场景，国家会展中心（上海）发布的“智慧国展，多重技术构筑智脑孪生”场景，张江发布的“孪生之城，超级场景预见未来城市”场景，中国宝武集团发布的“智慧产线，智能终端赋能国之重器”场景，上海广播电视台发布的“数字明珠，虚实融合遨游上海”场景，以及上海交通委发布的“孪生交通，服务智慧交通新转型”场景。（上证报）]]></title>
+            <guid>2789310</guid>
+            <pubDate>Thu, 01 Sep 2022 05:26:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国第二季度GDP环比增长0.7%，预估为0.7%；同比增长2.9%，预估为2.9%。]]></title>
-            <guid>2788994</guid>
-            <pubDate>Wed, 31 Aug 2022 23:01:49 GMT</pubDate>
+            <title><![CDATA[Meta的一位发言人周三表示，该公司正在成立一个新团队，专注于为其Facebook、Instagram和WhatsApp等应用开发付费功能。]]></title>
+            <guid>2789308</guid>
+            <pubDate>Thu, 01 Sep 2022 05:24:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【面对能源危机，德监管机构呼吁做好准备】 针对目前欧洲面临的能源危机，德国能源监管机构——联邦网络管理局局长穆勒8月31日在接受采访时表示，尽管目前德国国内天然气储备达到最大值的85%，且距离冬季来临为时尚早，但德国仍应当做好准备，以应对可能出现的冬季能源短缺。针对目前因设备检修而暂停供应的“北溪-1”天然气管道问题，穆勒表示乐观，并相信“北溪-1”将在9月3日检修结束后如约恢复供气。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0592011.d.html</link>
-            <guid>2788992</guid>
-            <pubDate>Wed, 31 Aug 2022 22:54:50 GMT</pubDate>
+            <title><![CDATA[【港股电讯设备板块部分走高】港股电讯设备板块部分走高，长飞光纤光缆涨近10%，比亚迪电子涨超5%，四威科技涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0644535.d.html</link>
+            <guid>2789304</guid>
+            <pubDate>Thu, 01 Sep 2022 05:17:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏伊士运河搁浅船只重新浮起 运河恢复通航】据报道，当地时间8月31日晚，一艘名为“AFFINITY”的油轮在苏伊士运河搁浅，该油轮悬挂新加坡国旗、载重6.4万吨、长252米，事故导致苏伊士运河航道当晚短暂停航。据苏伊士运河管理局最新声明，运河管理局工作人员已成功使搁浅油轮重新浮起，运河已恢复正常通航。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0591817.d.html</link>
-            <guid>2788991</guid>
-            <pubDate>Wed, 31 Aug 2022 22:52:05 GMT</pubDate>
+            <title><![CDATA[  【零售股午后异动 红旗连锁直线涨停】红旗连锁直线涨停，银座股份、徐家汇、茂业商业、步步高、重庆百货等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0643420.d.html</link>
+            <guid>2789301</guid>
+            <pubDate>Thu, 01 Sep 2022 05:07:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[叮当健康将香港IPO股票发行价定在每股12港元，计划通过首次公开发行股票发生3350万股，预计将从9月14日开始交易。]]></title>
-            <guid>2788983</guid>
-            <pubDate>Wed, 31 Aug 2022 22:21:55 GMT</pubDate>
+            <title><![CDATA[【工业和信息化部将加快5G网络和千兆光纤网络建设 打造一批人工智能开放平台】2022世界人工智能大会9月1日在上海世博中心开幕。据悉，工业和信息化部将加快5G网络和千兆光纤网络建设，稳步构建智能高效的融合基础设施，统筹数据中心布局，深化算法工作，打造一批人工智能开放平台。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8651167.d.html</link>
+            <guid>2789300</guid>
+            <pubDate>Thu, 01 Sep 2022 05:06:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西政府递交2023年预算提案，针对低收入家庭的补贴或将减少】 当地时间8月31日，巴西政府向议会递交了2023年度的预算提案，根据该提案，针对低收入家庭的现金补贴项目“巴西辅助计划”的支付标准，预计为每户每月为405雷亚尔（约合538元人民币）。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8599413.d.html</link>
-            <guid>2788982</guid>
-            <pubDate>Wed, 31 Aug 2022 22:19:05 GMT</pubDate>
+            <title><![CDATA[【农民也能缴公积金，龙港试点集体经济组织成员住房公积金制度】 从浙江温州龙港市农业农村局获悉，即日起龙港市正式在首批13个试点社区实施集体经济组织成员住房公积金制度，将农民群体纳入公积金保障体系。目前，已有首批50位农民提交建缴申请，经审核后将由市公积金管理部门为其开立个人账户。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8651056.d.html</link>
+            <guid>2789299</guid>
+            <pubDate>Thu, 01 Sep 2022 05:05:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报：“特色白名单”极速贷助力乡村振兴】经济日报评论称，2022年以来，邮储银行湖州市分行贯彻落实湖州银行业保险业稳经济一揽子相关政策措施，持续开展极速贷“特色白名单”助力乡村振兴活动。在湖州市金融监管机构指导下，通过走访各类专业市场、重点商圈，与客户面对面沟通，现场受理，大大地提升了客户体验。截至目前，邮储银行湖州市分行共采集“特色白名单”客户1300余户，累计发放贷款1.97亿元，有效地提升了当地农户、小微企业主、个体工商户等经营实体贷款的可获得性和便捷性。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0589462.d.html</link>
-            <guid>2788972</guid>
-            <pubDate>Wed, 31 Aug 2022 22:07:05 GMT</pubDate>
+            <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8650921.d.html</link>
+            <guid>2789298</guid>
+            <pubDate>Thu, 01 Sep 2022 05:04:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报：农户融资新模式 助推普惠金融提档加速】经济日报评论称，2022年以来，在浙江金华金融监管部门指导下，浙江农商银行系统武义农商银行依托数字化改革，大力推进“农户家庭资产负债表融资模式”，有效提升农户融资可得性、满足感。画像更精准。深化与相关单位合作对接，强化资源共享、信息互通，将固定资产等资产端内容、银行借款等负债端内容纳入农户家庭资产信息采集范围。通过实地走访采集，各类数据与银行核心系统联动，交叉验证，提升数据可信度。开发上线数字化农户家庭资产负债表应用管理系统，通过数据整合分析，编制家庭资产负债表，实现农户精准画像。目前，已收集各类真实有效数据51049条。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8598718.d.html</link>
-            <guid>2788971</guid>
-            <pubDate>Wed, 31 Aug 2022 22:06:39 GMT</pubDate>
+            <title><![CDATA[【涉房风险是否可控？国有大行高管集体回应】近日，六家国有大行半年报悉数披露并召开业绩说明会。关于外界普遍关心的房地产行业风险，多家大行对涉房风险进行充分说明，并采取多项措施保障风险总体平稳可控。下一步，大行将积极配合地方政府推进“保交楼、稳民生”工作，促进房地产市场平稳健康发展。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0642987.d.html</link>
+            <guid>2789296</guid>
+            <pubDate>Thu, 01 Sep 2022 05:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股回港中概股午后走低】港股回港中概股午后走低，微博跌近7%，贝壳跌近6%，新东方跌超5%，蔚来、小鹏汽车、知乎、华住集团跌超4%，理想汽车跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8650866.d.html</link>
+            <guid>2789295</guid>
+            <pubDate>Thu, 01 Sep 2022 05:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股啤酒概念股走低】港股啤酒概念股走低，华润啤酒跌超5%，百威亚太跌近5%，青岛啤酒股份跌近4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0642686.d.html</link>
+            <guid>2789294</guid>
+            <pubDate>Thu, 01 Sep 2022 05:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东银保监局党委书记：推动大湾区实现更多跨境金融先行先试】广东银保监局党委书记、局长裴光日前表示，下一步，将继续加强“三种思维”，推动大湾区实现更多跨境金融先行先试。一是加强系统思维，推动粤港澳三地在金融监管规则上实现更多突破。二是加强创新思维，鼓励支持多层次跨境金融创新。三是加强底线思维，统筹处理好扩大金融开放与防范金融风险的关系，进一步探索建立粤港澳大湾区金融监管协调沟通机制，强化大湾区跨境监管联动与风险监测合作，构建三地金融纠纷调解合作机制，推动大湾区金融市场持续健康发展。  （21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8650464.d.html</link>
+            <guid>2789293</guid>
+            <pubDate>Thu, 01 Sep 2022 05:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF就斯里兰卡29亿美元贷款达成工作人员层面协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8650343.d.html</link>
+            <guid>2789292</guid>
+            <pubDate>Thu, 01 Sep 2022 04:59:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京：自动驾驶示范区将扩至500平方公里】从北京市高级别自动驾驶示范区工作办公室获悉，示范区今年将推进3.0阶段建设，积极开展车路云一体化技术前沿探索，加快在全市复制推广示范区建设管理模式。进入3.0阶段后，北京自动驾驶示范区建设区域将扩展至全市500平方公里，更多市民可在京城街头体验自动驾驶商业化服务。（北京日报）]]></title>
+            <guid>2789289</guid>
+            <pubDate>Thu, 01 Sep 2022 04:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安途首批50辆第五代自动驾驶出租车登陆上海中心城区】9月1日，2022世界人工智能大会在上海开幕，无人驾驶企业AutoX（安途）宣布，推出上海市中心城区RoboTaxi（自动驾驶出租车）示范应用载人服务，并正式公开运营。作为签约企业AutoX宣布，首批50辆最新第五代RoboTaxi登陆上海中心城区，均已获得上海市载人示范应用牌照，新增车队将安途上海布局拓展至浦东、嘉定双区，包含浦东金桥开发区推出的上海首个中心城区自动驾驶开放示范应用道路，该道路包括丰富的特大型城市中心城区应用场景。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8649411.d.html</link>
+            <guid>2789288</guid>
+            <pubDate>Thu, 01 Sep 2022 04:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳门8月份幸运博彩毛收入21.89亿澳门元，同比下降50.7%。澳门1-8月份幸运博彩毛收入289亿澳门元，同比下降53.4%。]]></title>
+            <guid>2789287</guid>
+            <pubDate>Thu, 01 Sep 2022 04:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中原内配：控股股东、实控人薛德龙5月31日至8月31日期间通过集中竞价交易系统累计减持公司股份603.15万股，减持比例达到公司目前总股本的1%。]]></title>
+            <guid>2789286</guid>
+            <pubDate>Thu, 01 Sep 2022 04:45:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中原内配：控股股东、实控人薛德龙5月31日至8月31日期间通过集中竞价交易系统累计减持公司股份603.15万股，减持比例达到公司目前总股本的1%。]]></title>
+            <guid>2789285</guid>
+            <pubDate>Thu, 01 Sep 2022 04:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼7月份主要入境口岸外国旅客入境人数同比增长6396.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0641075.d.html</link>
+            <guid>2789284</guid>
+            <pubDate>Thu, 01 Sep 2022 04:45:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【艾瑞咨询：微信、支付宝、短视频平台成商家布局3大阵地】行业研究机构艾瑞咨询发布了《2022中国商户私域布局洞察报告》。报告显示：多平台布局成趋势，微信、支付宝、短视频平台成为商家私域经营最重要的三大阵地；小程序已是最主要私域载体；近8成商家对私域经营效果表示满意，新客、会员增长效果显著；商家私域经营成本平均涨40%，转化效率、经营成本、公域引流成商家布局私域的核心关注点；公域是私域最重要的流量来源，继支付宝2018年提出公私域结合开放模式后，微信、快手等也开始公私域建设布局。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8648966.d.html</link>
+            <guid>2789283</guid>
+            <pubDate>Thu, 01 Sep 2022 04:43:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦卢比兑美元上涨1.6%，至216.6卢比，此前巴基斯坦获得IMF贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8648951.d.html</link>
+            <guid>2789282</guid>
+            <pubDate>Thu, 01 Sep 2022 04:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日产将调整LEAF车型价格，因成本变得更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0640793.d.html</link>
+            <guid>2789281</guid>
+            <pubDate>Thu, 01 Sep 2022 04:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【集邦咨询：预估第三季NAND Flash Wafer合约价跌幅扩大至30%-35%】据TrendForce集邦咨询调查表示，时序进入第三季下旬，旺季不旺导致库存去化迟滞，NAND Flash市场交易冻结，买方消极观望，纷纷倾向不议价，令原厂库存压力已达临界点，转向开出破盘低价以求成交。此举将进一步引发原厂竞价走跌。TrendForce集邦咨询再次下修第三季NAND Flash wafer合约价，预估跌幅将由原先预估的15%-20%，扩大至30%-35%。]]></title>
+            <guid>2789280</guid>
+            <pubDate>Thu, 01 Sep 2022 04:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【外媒：七国集团财长会将讨论设定俄石油价格上限】据新加坡《联合早报》网站9月1日报道，七国集团（G7）财长将开会讨论为俄罗斯石油价格设定上限。 彭博社援引美国官员的话称，美国财长耶伦9月2日将和七国集团同行进一步讨论这一措施。这项计划将允许遵守价格上限的俄罗斯石油买家继续获得包括油轮的融资和保险在内的关键服务。 报道称，七国集团领导人还考虑了其他措施，包括阻止俄罗斯石油的运输。据报道，欧盟、英国和瑞士都计划从12月开始禁止本国公司为俄罗斯石油运输提供这些服务。 报道指出，目前还不清楚价格上限水平，也不清楚哪些国家会加入这一措施。（参考消息）]]></title>
+            <guid>2789279</guid>
+            <pubDate>Thu, 01 Sep 2022 04:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯成为国内首个获批创新医疗器械的互联网科技企业】据36氪，国家药品监督管理局经审查，批准了腾讯医疗健康（深圳）有限公司开发的“慢性青光眼样视神经病变眼底图像辅助诊断软件”创新产品注册申请。AI辅助判断青光眼获批，腾讯控股(00700.HK)也成为国内首个获批创新医疗器械的互联网科技企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0638286.d.html</link>
+            <guid>2789274</guid>
+            <pubDate>Thu, 01 Sep 2022 04:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日起全国铁路部门全面推广电子化补票】据“中国铁路”微信公众号消息，9月1日起，除少量市郊线路、边远支线外，全国铁路客运营业站与高铁动车组、普速旅客列车全面推广电子化补票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0637618.d.html</link>
+            <guid>2789273</guid>
+            <pubDate>Thu, 01 Sep 2022 04:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电影局：2022年电影暑期档总票房91.35亿元】国家电影局统计数据显示，2022年电影暑期档（6月1日至8月31日，共计92天）总票房91.35亿元，以平均每天1亿元的成绩，为电影市场复苏注入强劲动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0636882.d.html</link>
+            <guid>2789272</guid>
+            <pubDate>Thu, 01 Sep 2022 04:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【力拓同意以43加元/股的价格收购绿松石山的剩余股份】力拓集团与绿松石山原则上达成协议，力拓集团同意以每股43加元的价格收购绿松石山的剩余股份。注：目前，绿松石山资源51%的股份由力拓集团持有。绿松石山持有位于蒙古国的奥尤陶勒盖矿66%的股份，蒙古国政府拥有该矿剩余股份。该矿山是世界上已知的最大铜金矿之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0636561.d.html</link>
+            <guid>2789271</guid>
+            <pubDate>Thu, 01 Sep 2022 04:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国光电器：公司积极布局新能源汽车音响业务 锂电池项目正常推进中】国光电器在互动平台表示，公司积极布局新能源汽车音响业务，组建了专业的汽车音响团队，并与公司现有的材料实验室、电子、硬件、软件、结构设计团队强强联合，期望在2022年内取得重大突破。锂电池项目正常推进中，若有进一步消息，公司按法定程序履行信息披露义务。公司目前无与地方国资洽谈入股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8643102.d.html</link>
+            <guid>2789266</guid>
+            <pubDate>Thu, 01 Sep 2022 03:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【9月1日0时至10时 山东济南新增2例本土确诊病例】据山东济南市卫生健康委员会通报，9月1日0时至10时，济南市报告新增本土确诊病例2例。1例为省外入济返济人员，在重点人群筛查中检出。1例为其密切接触者，在集中隔离点检出。两人均由负压救护车转运至省公共卫生临床中心，结合流行病学史、临床表现和实验室检测结果，诊断为确诊病例（轻型）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0634337.d.html</link>
+            <guid>2789264</guid>
+            <pubDate>Thu, 01 Sep 2022 03:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股比亚迪股份跌超5%】港股比亚迪股份跌超5%， 报230港元，昨日收盘跌近8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0634015.d.html</link>
+            <guid>2789261</guid>
+            <pubDate>Thu, 01 Sep 2022 03:47:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta大中华区总裁：电子商务将是元宇宙技术应用的主要场景之一】9月1日，2022世界人工智能大会，脸书母公司Meta大中华区总裁梁幼莓发表视频演讲表示，电子商务将是元宇宙技术应用的主要场景之一。Meta在一项调研发现，亚太地区有超过2/3的潜在社交媒体购物人群表示，希望借助虚拟技术，不出家门就能选购商品。Analysis Group今年发布的元宇宙报告显示，如果元宇宙技术于2022年开始被采用，到2031年，元宇宙经济将会为世界GDP贡献超过3万亿美元，其中亚太地区的元宇宙GDP将超过1万亿美元。  （澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imiziraw0633738.d.html</link>
+            <guid>2789257</guid>
+            <pubDate>Thu, 01 Sep 2022 03:45:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港交所欧冠昇：待处理的医疗行业上市申请近40宗】在9月1日举行的港交所生物科技峰会上，行政总裁欧冠昇介绍，自从2018年上市制度改革以来，香港已经迎来了近100家医疗健康公司在港上市，新股融资总额达到近2600亿港元。自2018年4月底至2021年年底，全球医疗新股融资额的近20%通过香港新股市场筹集。欧冠昇表示，香港的医疗健康板块变得更加多元化，在2017年，市值前十大医疗健康公司基本上都是传统制药企业，但到了2022年，市值前十大医疗健康公司有4家生物科技公司，还有两家智慧医疗公司。“目前我们正在处理的医疗行业上市申请近40宗，其中，有13家尚无营业收入的生物科技公司申请通过18A章节上市。”欧冠昇表示，港交所将继续支持生物科技股票相关的ETF产品、结构性产品和衍生品的开发，丰富医疗健康产品生态圈；将利用香港对于创科发展的支持政策吸引更多来自不同医疗子行业的上市公司来上市。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-01/detail-imizmscv8641883.d.html</link>
+            <guid>2789255</guid>
+            <pubDate>Thu, 01 Sep 2022 03:45:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
