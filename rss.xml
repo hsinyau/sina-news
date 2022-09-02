@@ -4,13 +4,90 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 02 Sep 2022 18:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 21:06:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【瑞银与美国加州自动化投资服务公司WealthFront同意终止合并协议】瑞银集团与美国加州自动化投资服务公司Wealthfront已经同意终止其合并协议。该合并协议最初于2022年1月26日宣布，根据该协议，Wealthfront将被瑞银收购。瑞银仍致力于其在美国的增长计划，并将继续扩大其数字财富管理产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8898001.d.html</link>
+            <guid>2791659</guid>
+            <pubDate>Fri, 02 Sep 2022 20:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果操作系统首次在美国打败安卓，市场份额超过50%】据行业分析公司Counterpoint Research最新报告，截至今年第二季度，苹果在美国智能手机市场所占份额已经超过50%。这使得苹果公司在涉足金融和医疗等领域时比其竞争对手更有优势。这是苹果自2007年推出iPhone以来首次在美国市场占有最高的市场份额，而剩余市场份额由三星、联想为首的其余150多款安卓系统手机占有。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8897740.d.html</link>
+            <guid>2791657</guid>
+            <pubDate>Fri, 02 Sep 2022 20:48:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms(META.O)收购柏林初创公司Lofelt以尽快实现其VR目标。]]></title>
+            <guid>2791646</guid>
+            <pubDate>Fri, 02 Sep 2022 19:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳市福田区调整高风险区和中风险区】经专家组研判，自9月3日起，将福田区的莲花街道、南园街道相关区域和措施调整如下：一、高风险区：1.将莲花街道布尾村第28-35栋、第38栋、第41-50栋、第51C栋由低风险区调整为高风险区；2.将莲花街道布尾村第39A栋、第39B栋、第37A栋、第37B栋、第36栋和第36-1栋由中风险区调整为高风险区；3.将南园街道滨江新村第38栋、第39栋连廊一楼（38号-40号房）由中风险区调整为高风险区。二、中风险区：1.将莲花街道景林花园，布尾村第1-17栋、第17B栋、第18-21栋、第23-27栋由低风险区调整为中风险区。（幸福福田）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5728667.d.html</link>
+            <guid>2791645</guid>
+            <pubDate>Fri, 02 Sep 2022 19:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Truist Securities：将博通(AVGO.O)目标价从658美元下调至630美元。]]></title>
+            <guid>2791639</guid>
+            <pubDate>Fri, 02 Sep 2022 19:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊在美国关闭或放弃开建数十个仓库】亚马逊决定，鉴于美国市场的销售增速放缓，该公司削减正在无序扩张的配送运营。密切追踪亚马逊（物业活动）的咨询公司MWPVL International Inc.发现，亚马逊已经在美国市场关闭多个现有仓储设施，并放弃新开多个货站的计划，这两类设施的总数达到42个，可使用的面积达到2500万平方英尺。10月份，亚马逊在马里兰州拥有超过300名工人的设施将关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8894938.d.html</link>
+            <guid>2791635</guid>
+            <pubDate>Fri, 02 Sep 2022 19:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[腾讯旗下的Riot Games正在开发《英雄联盟》女性电竞。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5727942.d.html</link>
+            <guid>2791634</guid>
+            <pubDate>Fri, 02 Sep 2022 19:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州电力系统营运机构将电网限制延长至当地时间9月8日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5727759.d.html</link>
+            <guid>2791633</guid>
+            <pubDate>Fri, 02 Sep 2022 19:14:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国网红酸奶品牌Chobani撤回IPO注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5727389.d.html</link>
+            <guid>2791630</guid>
+            <pubDate>Fri, 02 Sep 2022 19:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推特要求马斯克交出2022年前6个月的短信】推特要求法官命令马斯克交出他在2022年前六个月的所有短信，称马斯克在他440亿美元的收购要约的诉讼中不配合交换证据。推特周五在特拉华州的一份法庭文件中提交了拟议的命令，该文件被附在对马斯克及其律师的密封制裁请求中。根据法庭文件，推特希望特拉华州大法官命令马斯克及其助手Jared Birchall出示他们从1月1日至7月8日的所有短信。马斯克的律师发言人Eric Herman没对此事作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5726560.d.html</link>
+            <guid>2791628</guid>
+            <pubDate>Fri, 02 Sep 2022 18:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拼多多在美国低调启动在线购物网站 拟挑战亚马逊】拼多多旗下的Temu已于9月1日上线，推出了包括服装、珠宝、宠物用品、家居用品、园艺用品在内的种类繁多的商品，可能对美国电商领头羊亚马逊(AMZN.O)构成新挑战，这是拼多多(PDD.O)首次向海外大举进军。Temu是一个跨境电商网站，大多产品可能来自海外。Temu称发货到美国需要7-15个工作日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8892985.d.html</link>
+            <guid>2791622</guid>
+            <pubDate>Fri, 02 Sep 2022 18:27:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【捷克政府在众议院的不信任投票中顺利过关】当地时间9月2日，由捷克总理菲亚拉领导的联合政府在众议院的不信任投票中顺利过关。由反对党“不满公民行动”党发起、自由与直接民主运动党支持的不信任动议于9月1日开始，经过长达22个小时马拉松式的辩论，最终，投票结果为84票赞成不信任动议，100票反对，16票缺席或弃权。由于该动议未能获得超过半数的选票，现政府得以继续执政。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5725873.d.html</link>
+            <guid>2791621</guid>
+            <pubDate>Fri, 02 Sep 2022 18:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将挚文集团(MOMO.O)目标价从7美元下调至5.80美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imqmmtha5725674.d.html</link>
+            <guid>2791620</guid>
+            <pubDate>Fri, 02 Sep 2022 18:18:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【尼日利亚北部洪灾至少56人死亡】尼日利亚官员2日表示，尼北部吉加瓦州5月以来遭遇严重洪涝灾害，目前已造成至少56人死亡，超过4000人无家可归。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-03/detail-imizmscv8892353.d.html</link>
             <guid>2791617</guid>
             <pubDate>Fri, 02 Sep 2022 18:09:59 GMT</pubDate>
         </item>
@@ -152,179 +229,6 @@
             <title><![CDATA[ 沃博联(WBA.O)：开始为12岁及以上符合条件的个人提供辉瑞(PFE.N)和Moderna(MRNA.O)加强针的接种预约服务。]]></title>
             <guid>2791561</guid>
             <pubDate>Fri, 02 Sep 2022 15:23:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿塞拜疆总统：计划将跨安纳托利亚天然气管道的年输气量提高1倍】阿塞拜疆总统阿利耶夫9月2日表示，阿方计划将跨安纳托利亚天然气管道的年输气量提高1倍，增加至320亿立方米。阿利耶夫透露，自俄乌冲突爆发以来，已有10余个国家的政府表示将开始或者增加从阿塞拜疆进口天然气。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5715615.d.html</link>
-            <guid>2791559</guid>
-            <pubDate>Fri, 02 Sep 2022 15:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三星：近期发现一起网络安全事故，部分美国客户的信息受到影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8882180.d.html</link>
-            <guid>2791558</guid>
-            <pubDate>Fri, 02 Sep 2022 15:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联邦法官公布特朗普海湖庄园被查获文件的详细清单】当地时间9月2日，美国一名联邦法官公布了一份详细清单，列出了联邦调查局上个月在搜索前总统特朗普海湖庄园时所查获的文件。该财产清单详细说明了调查人员在搜索中查获的材料数量，以及这些材料是如何与剪报、照片、书籍和衣服等看似无关紧要的物品混在一起的。清单描述道，调查人员收集了成百上千份没有任何分类标记的美国政府文件，其中只有少数文件带有机密或最高机密/SCI（敏感分隔信息）等分类标记。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5714918.d.html</link>
-            <guid>2791557</guid>
-            <pubDate>Fri, 02 Sep 2022 15:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞银集团：将Peloton(PTON.O)目标价从13美元下调至8美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5714880.d.html</link>
-            <guid>2791556</guid>
-            <pubDate>Fri, 02 Sep 2022 15:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷(CS.N)涨5%，集团目标于明年开始在中国提供财富管理服务，已为该业务聘请50名员工。]]></title>
-            <guid>2791554</guid>
-            <pubDate>Fri, 02 Sep 2022 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国发现新猴痘毒株，是与目前传播的猴痘病毒不同的变体】据当地媒体9月2日报道，英国卫生部门证实在该国发现了一种新猴痘毒株。英国卫生安全局表示，一名最近到过西非的人感染了与目前传播的猴痘病毒不同的变体。目前该患者已被送进皇家利物浦大学医院的高危传染病病房。英国卫生安全局说，正在进行接触者追踪，以确定是否还有其他相关病例，对公众的风险“非常低”。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5713978.d.html</link>
-            <guid>2791550</guid>
-            <pubDate>Fri, 02 Sep 2022 14:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【法国召开能源问题国防会议 呼吁民众减少能源消耗】当地时间9月2日，法国总统马克龙在爱丽舍宫召开了能源问题国防会议。会议结束后，法国能源转型部长阿涅丝·帕尼耶-吕纳谢（Agnès Pannier-Runacher）举行了新闻发布会。她还呼吁法国企业和民众节约能源。她说，现在需要企业和民众将政府公布的节约措施落实到位，以避免更多的限制措施。法国政府的总体目标是将能源消耗减少10%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5713953.d.html</link>
-            <guid>2791549</guid>
-            <pubDate>Fri, 02 Sep 2022 14:57:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY回落至109下方，日内跌0.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8880501.d.html</link>
-            <guid>2791547</guid>
-            <pubDate>Fri, 02 Sep 2022 14:55:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“丹妮尔”将成为本季的第一个大西洋飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5713314.d.html</link>
-            <guid>2791546</guid>
-            <pubDate>Fri, 02 Sep 2022 14:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纽元兑美元NZD/USD、澳元兑美元AUD/USD日内涨幅均达1.00%】纽元兑美元NZD/USD、澳元兑美元AUD/USD日内涨幅均达1.00%，现分别报0.6140和0.6854。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8879899.d.html</link>
-            <guid>2791545</guid>
-            <pubDate>Fri, 02 Sep 2022 14:49:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智能新能源重卡样车“深向星辰”在江苏盐城下线】9月2日，智能新能源重型卡车“深向星辰”的样车在江苏盐城的制造工厂下线，标志着其已完成整车及零部件制造关键环节，为年底小批量试制交付奠定了基础。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8879635.d.html</link>
-            <guid>2791544</guid>
-            <pubDate>Fri, 02 Sep 2022 14:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：正在尽我们所能确保生态继续改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8879608.d.html</link>
-            <guid>2791543</guid>
-            <pubDate>Fri, 02 Sep 2022 14:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：美国经济正在恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8879584.d.html</link>
-            <guid>2791542</guid>
-            <pubDate>Fri, 02 Sep 2022 14:46:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：拜登政府关注的是这份就业报告能够改变什么。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8879569.d.html</link>
-            <guid>2791541</guid>
-            <pubDate>Fri, 02 Sep 2022 14:46:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问委员会主席劳斯：非农就业报告显示女性就业率更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5712915.d.html</link>
-            <guid>2791540</guid>
-            <pubDate>Fri, 02 Sep 2022 14:46:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商品货币澳元兑美元涨1.0%，暂报0.6850。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5712755.d.html</link>
-            <guid>2791537</guid>
-            <pubDate>Fri, 02 Sep 2022 14:44:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非农就业报告令人放心 交易员看到软着陆之路】非农就业报告公布后，美股开盘大涨。市场对非农就业报告的反应表明，对美联储可能过度加息并将经济拖入衰退的担忧有所缓解。好于预期的非农就业数据，以及不断下跌的天然气价格和生产者价格，让交易员们更加确信，通胀已经开始好转，美联储可能不需要像在杰克逊霍尔年会上所说的那样激进。这也降低了加息引发经济衰退的可能性。但正如美联储委员们反复说的那样，他们关注的是通胀，于9月13日公布的CPI数据将提供更多线索。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8878801.d.html</link>
-            <guid>2791531</guid>
-            <pubDate>Fri, 02 Sep 2022 14:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至8月26日当周ECRI领先指标年率 -11.7%，前值-12.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711954.d.html</link>
-            <guid>2791530</guid>
-            <pubDate>Fri, 02 Sep 2022 14:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【全球第二大钢铁集团宣布多个工厂减产】当地时间周五，全球第二大、欧洲最大钢铁集团安赛乐米塔尔（ArcelorMittal）发布公告称，将在未来几个月里部分关闭两座德国工厂的产能。剧烈波动的能源价格和经济前景不确定性是公司作出这项决定的背景。而就在昨天，安赛乐米塔尔同样宣布将在九月底关闭位于西班牙阿斯图里亚斯工厂的一座高炉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711930.d.html</link>
-            <guid>2791529</guid>
-            <pubDate>Fri, 02 Sep 2022 14:35:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2022年9月2日，浙江温岭市集中隔离点新增1例初筛阳性感染者。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8878576.d.html</link>
-            <guid>2791528</guid>
-            <pubDate>Fri, 02 Sep 2022 14:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟经济委员真蒂洛尼表示，欧盟将寻求就油价上限计划达成一致立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711686.d.html</link>
-            <guid>2791527</guid>
-            <pubDate>Fri, 02 Sep 2022 14:32:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股走高，纳指和标普500指数均涨超1%，道指涨约0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8878323.d.html</link>
-            <guid>2791526</guid>
-            <pubDate>Fri, 02 Sep 2022 14:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国心连心化肥：拟分拆深冷能源于中国一家证券交易所独立上市】中国心连心化肥港交所公告，正考虑可能分拆本公司非全资附属公司河南心连心深冷能源股份有限公司及其附属公司并于中国一家证券交易所独立上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711646.d.html</link>
-            <guid>2791525</guid>
-            <pubDate>Fri, 02 Sep 2022 14:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宏微科技：赣州常春新优投资拟减持不超135万股】宏微科技公告，赣州常春新优投资合伙企业(有限合伙)拟于减持计划公告披露之日起15个交易日之后的三个月内通过集中竞价方式减持公司股份，减持公司股份不超过135万股，占公司总股本的比例不超过0.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5711012.d.html</link>
-            <guid>2791523</guid>
-            <pubDate>Fri, 02 Sep 2022 14:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北隆化县：购买被动式超低能耗建筑商品房项目，公积金贷款额度上浮20%】9月2日，河北省承德市隆化县发布《隆化县稳定经济运行的若干政策措施》，涉及多条房地产方面的举措。文件提出，支持发展被动式超低能耗建筑商品房项目。购买二星级及以上绿色建筑标准的新建被动式超低能耗自住住宅或者新建全装修自住住房的，住房公积金贷款额度上浮20%；协调金融机构对符合要求绿色建筑项目给予重点支持，包括授信额度方面，优先保证信贷投放；在利率定价方面，引导金融机构降低项目贷款利率水平；在贷款受理审批方面，采取绿色通道模式，优先受理、优先审批、优先投放。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8877667.d.html</link>
-            <guid>2791522</guid>
-            <pubDate>Fri, 02 Sep 2022 14:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【进出口银行成立进银基础设施基金有限公司】据证券时报，记者进出口银行获悉，经银保监会批复同意，进出口银行正式成立进银基础设施基金有限公司，并完成首笔进银基础设施基金投放。9月2日，进出口银行向上海国际港务（集团）股份有限公司和浙江省海港投资运营集团有限公司投放首笔进银基础设施基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5710930.d.html</link>
-            <guid>2791521</guid>
-            <pubDate>Fri, 02 Sep 2022 14:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧洲STOXX 600指数涨1.5%，暂报413.76点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imizmscv8877387.d.html</link>
-            <guid>2791520</guid>
-            <pubDate>Fri, 02 Sep 2022 14:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝壳启动上限10亿美元回购】贝壳披露，公司已启动此前宣布的不超过10亿美元的回购。公告显示，公司于9月1日回购14.5万股ADS（每1份ADS=3股A类普通股），共耗资约246.3万美元，回购价格为16.26美元至17.50美元。此前，贝壳宣布将在12个月内回购最多10亿美元的ADS或普通股，凸显了公司对自身长期可持续增长潜力的信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5710434.d.html</link>
-            <guid>2791519</guid>
-            <pubDate>Fri, 02 Sep 2022 14:19:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区STOXX 50指数上涨2.0%，报3527.02点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-02/detail-imqmmtha5710386.d.html</link>
-            <guid>2791517</guid>
-            <pubDate>Fri, 02 Sep 2022 14:19:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
