@@ -4,11 +4,58 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 05 Sep 2022 18:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 21:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【多家公司董监高声明对半年报“不保真” 财务、内控问题是主要理由】半年报是投资者了解公司阶段性运作情况的重要报告，但在刚刚收官的2022年半年报披露季中，却有一批上市公司的财报被董监高声明“不保真”。据不完全统计，共有20余家上市公司的董监高在半年报中表态，无法保证财报内容的真实性、准确性、完整性。背后原因包括2021年年报非标准意见所涉事项尚未解决、对公司内控和财务数据存疑、缺乏足够时间核实半年报内容、无独立第三方报告“背书”等。业内人士均认为，董监高对财务报表“不保真”表态情况频现，一方面因为新证券法加强了上市公司董监高的法律责任，另一方面也缘于上市公司董监高自身风险意识、责任心的提升。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imizmscv9274560.d.html</link>
+            <guid>2793789</guid>
+            <pubDate>Mon, 05 Sep 2022 20:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众汽车将推进保时捷的IPO计划。保时捷将拆分为50%的优先股和50%的普通股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6114979.d.html</link>
+            <guid>2793788</guid>
+            <pubDate>Mon, 05 Sep 2022 20:56:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大石油重镇阿尔伯塔省发生大型野火，过火面积或达8000公顷】 加拿大公园局当地时间5日表示，在加拿大阿尔伯塔省贾斯珀国家公园发生的一场野火过火面积已经达到5000至7000公顷。也有推测认为，火灾面积或已达到8000公顷。据悉，本次山火由9月1日的一次雷击引发，火灾面积在3日达到400公顷，4日达到1500公顷。由于当地气候干燥、多风且温暖，火势迅速蔓延。目前，当地已投入77名消防相关人员及8架直升机进行灭火。附近城镇也已经发出了关于空气质量、能见度、停电等问题的警告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imizmscv9274523.d.html</link>
+            <guid>2793787</guid>
+            <pubDate>Mon, 05 Sep 2022 20:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第11号台风“轩岚诺”在韩国南部海岸登陆】 当地时间9月6日凌晨4时50分左右，今年第11号台风“轩岚诺”在韩国南部庆尚南道巨济岛一带海岸登陆。受其影响，5日开始，韩国全境普遍刮风降雨，其中济州岛及南部沿海一带降下大暴雨。登陆后，预计台风“轩岚诺”将继续沿东北方向穿过韩国内陆，并于6日早8时左右从韩国东部沿海一带离开陆地，继续北上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imqmmtha6113830.d.html</link>
+            <guid>2793784</guid>
+            <pubDate>Mon, 05 Sep 2022 20:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上半年券商承销保荐净收入近300亿元，中信证券、中信建投和中金公司位列前三】 数据显示，上半年券商投行收入总体平稳，纳入统计的78家券商证券承销与保荐业务净收入299.70亿元，整体营业收入为2843.88亿元，承销保荐业务收入占比10.54%。其中，行业前十的券商承销与保荐业务净收入占比达到六成，而中信证券、中信建投证券、中金公司三家头部券商证券承销与保荐业务净收入为89.66亿元，占比近三成。同时，部分中小券商业绩大幅下行，“马太效应”显现。（经济参考报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imizmscv9269481.d.html</link>
+            <guid>2793774</guid>
+            <pubDate>Mon, 05 Sep 2022 18:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消费类锂电池赛道添“海归”，豪鹏科技募资近10亿元加码扩产】 闯荡美股十余年后，消费类电池企业深圳市豪鹏科技股份有限公司终于“游子归来”。9月5日，豪鹏科技正式在深交所主板挂牌上市，当日报收于75.15元/股。此前，公司曾搭建红筹架构并以“美国豪鹏”为主体在美上市，后于2019年完成私有化退市，此次回A募资近10亿元继续加码消费类锂电池业务方向。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imizmscv9268679.d.html</link>
+            <guid>2793767</guid>
+            <pubDate>Mon, 05 Sep 2022 18:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股股权融资8月突破2000亿元】数据显示，以上市日口径统计，相较于7月份87家公司1847.20亿元的募资金额，8月109家上市企业融资总额增至2007.80亿元。9月伊始，又有15家实现募资逾200亿元。综合来看，年内已有595家累计募资11436.97亿元，其中262家IPO融资4286.44亿元，333家再融资7150.53亿元。业内人士表示，随着资本市场改革持续深化，全市场直接融资比重将继续提升，股权融资服务实体经济的质量也将进一步提升。（经济参考报）]]></title>
+            <guid>2793766</guid>
+            <pubDate>Mon, 05 Sep 2022 18:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯能源部长：俄罗斯没有意图将液化天然气交易转向使用卢布结算。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-06/detail-imizmscv9268259.d.html</link>
+            <guid>2793761</guid>
+            <pubDate>Mon, 05 Sep 2022 18:09:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据韩国气象厅，今年第11号台风“轩岚诺”当地时间9月6日午夜时分以“非常强”的状态通过济州岛。（央视新闻）]]></title>
             <guid>2793748</guid>
@@ -176,138 +223,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6092325.d.html</link>
             <guid>2793689</guid>
             <pubDate>Mon, 05 Sep 2022 14:20:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：近期通胀可能不稳，但预计通胀将在接下来几个月缓和。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9252364.d.html</link>
-            <guid>2793688</guid>
-            <pubDate>Mon, 05 Sep 2022 14:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：我们致力于锚定预期，让汇率反映基本面而不是超调。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6092042.d.html</link>
-            <guid>2793687</guid>
-            <pubDate>Mon, 05 Sep 2022 14:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：印度央行将提供流动性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9252119.d.html</link>
-            <guid>2793686</guid>
-            <pubDate>Mon, 05 Sep 2022 14:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：印度卢比有序波动反映了基本面。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9252092.d.html</link>
-            <guid>2793685</guid>
-            <pubDate>Mon, 05 Sep 2022 14:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：加元可能维持在可持续的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9252068.d.html</link>
-            <guid>2793684</guid>
-            <pubDate>Mon, 05 Sep 2022 14:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：大宗商品价格前景的转变改变了加元的前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9251886.d.html</link>
-            <guid>2793683</guid>
-            <pubDate>Mon, 05 Sep 2022 14:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都路桥：公司目前没有酒类业务，与酱王府酒没有任何合作】成都路桥在互动平台回答投资者提问时表示，公司目前没有酒类业务，与酱王府酒没有任何合作，也没有任何与酱王府酒借壳上市相关的事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9251872.d.html</link>
-            <guid>2793682</guid>
-            <pubDate>Mon, 05 Sep 2022 14:15:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：我们的外汇储备为抵御外部冲击提供了缓冲。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9251830.d.html</link>
-            <guid>2793681</guid>
-            <pubDate>Mon, 05 Sep 2022 14:14:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：预计经常账将保持在舒适水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6091710.d.html</link>
-            <guid>2793680</guid>
-            <pubDate>Mon, 05 Sep 2022 14:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：油价低于政策预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6091626.d.html</link>
-            <guid>2793679</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源巨头Uniper CEO：Uniper预计天然气价格将从目前的水平回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6091614.d.html</link>
-            <guid>2793678</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国能源巨头Uniper CEO：德国缺乏液化天然气终端加剧了能源危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9251666.d.html</link>
-            <guid>2793677</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫官员：美国和欧洲正在合作，以确保有足够的天然气供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9251617.d.html</link>
-            <guid>2793676</guid>
-            <pubDate>Mon, 05 Sep 2022 14:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯政府内部报告显示，俄罗斯将面临更长、更深的衰退风险。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9250339.d.html</link>
-            <guid>2793674</guid>
-            <pubDate>Mon, 05 Sep 2022 14:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其股指涨幅扩大至4.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6090161.d.html</link>
-            <guid>2793673</guid>
-            <pubDate>Mon, 05 Sep 2022 14:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：北京第四范式智能技术股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6090093.d.html</link>
-            <guid>2793672</guid>
-            <pubDate>Mon, 05 Sep 2022 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[四川甘孜：调整地震应急响应为一级。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6089444.d.html</link>
-            <guid>2793669</guid>
-            <pubDate>Mon, 05 Sep 2022 13:53:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所：终止对唯都股份首次公开发行股票并在创业板上市审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9249453.d.html</link>
-            <guid>2793668</guid>
-            <pubDate>Mon, 05 Sep 2022 13:52:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川泸定地震造成人员死亡已超30人】截至9月5日21时，四川甘孜泸定县6.8级地震造成人员死亡已超过30人。四川甘孜州救灾指挥部决定将州级地震应急响应调整为一级。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9249075.d.html</link>
-            <guid>2793666</guid>
-            <pubDate>Mon, 05 Sep 2022 13:49:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海复旦：子公司华岭股份北交所IPO获证监会批复】上海复旦(01385.HK)在港交所发布公告，提示控股子公司华岭股份向不特定合格投资者公开发行股票并在北交所上市的进展。上海华岭申请公开发行股份并在北京证券交易所上市，中国证监会于9月2日已正式同意上海华岭公开发行股份的注册申请。建议公开发行股份及上市之条款，包括其规模及价格范围，以及时间表于本公告日期皆未落实。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6088162.d.html</link>
-            <guid>2793663</guid>
-            <pubDate>Mon, 05 Sep 2022 13:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥通胀率可能会比美国高一些。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imqmmtha6087943.d.html</link>
-            <guid>2793661</guid>
-            <pubDate>Mon, 05 Sep 2022 13:40:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利标普IPSA指数开盘上涨6.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-05/detail-imizmscv9247409.d.html</link>
-            <guid>2793658</guid>
-            <pubDate>Mon, 05 Sep 2022 13:34:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
