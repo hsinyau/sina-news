@@ -4,11 +4,39 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 07 Sep 2022 18:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 21:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：“木头姐”Cathie Wood旗下ARK Investment Management公司任命第一位首席未来学家（Chief Futurist）。]]></title>
+            <guid>2795974</guid>
+            <pubDate>Wed, 07 Sep 2022 20:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果正式停产并下架Apple Watch 3智能手表产品】随着新的Apple Watch Series 8型号和更新的Apple Watch SE的推出，苹果(AAPL.O)正式停产了过时的Apple Watch Series 3，该产品售价为199美元。自2015年以来，Apple Watch Series 3的设计与初代Apple Watch型号相同，也是第一款推出时提供蜂窝网络连接的Apple Watch。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8217244.d.html</link>
+            <guid>2795967</guid>
+            <pubDate>Wed, 07 Sep 2022 19:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股社交媒体板块尾盘继续走高，Pinterest(PINS.N)涨7%，Match Group(MTCH.O)涨6.7%，推特(TWTR.N)涨6.3%，Snap(SNAP.N)涨5.85%。]]></title>
+            <guid>2795965</guid>
+            <pubDate>Wed, 07 Sep 2022 19:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股年内上演极致行情，基金业绩首尾相差113%】今年以来，市场行情极致分化，主动权益基金的业绩差距也随之迅速拉大。截至9月6日，在全市场的主动权益基金中，今年业绩最好的一只已经大赚70.73%，而业绩最差的一只亏损了42.12%，首尾相差113个百分点。特别是9月以来，市场震荡加剧，基金业绩再度分化，有的基金在刷新净值新高，有的基金却创下历史新低。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6425610.d.html</link>
+            <guid>2795960</guid>
+            <pubDate>Wed, 07 Sep 2022 19:15:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥地利出台电价限制措施以对抗通货膨胀】当地时间7日，奥地利联邦政府宣布将采取电价限制措施以对抗通货膨胀，预计于今年12月生效，持续到2024年年中。根据新的电价措施，每户家庭每年消费不超过2900千瓦时的电能时，每千瓦时价格为10欧分，超过2900千瓦时的标准后将按市场价计费。奥地利政府将提供约30至40亿欧元支持该措施，预计奥地利家庭平均每年可节省约500欧元电费。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6422882.d.html</link>
+            <guid>2795925</guid>
+            <pubDate>Wed, 07 Sep 2022 18:12:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国债价格涨幅扩大，30年期美债收益率跌10个基点，暂报3.4%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6420835.d.html</link>
@@ -61,151 +89,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6401960.d.html</link>
             <guid>2795805</guid>
             <pubDate>Wed, 07 Sep 2022 14:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将采取干预措施缓解能源市场流动性紧张问题】据欧盟委员会发布的文件，欧盟准备采取措施，缓解能源市场因抵押品要求飙升而不断加剧的流动性压力。欧盟委员会希望“与相关证券和银行监管机构合作，探索能够让市场参与者找到满足追加保证金要求的抵押品”。此前有报道称欧盟计划对非天然气发电设置200欧元/兆瓦时的价格上限。瑞士信贷高级分析师Jens Zimmermann表示，欧盟的价格上限建议“足够高”，所以不会阻碍未来对非天然气生产技术的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6401887.d.html</link>
-            <guid>2795804</guid>
-            <pubDate>Wed, 07 Sep 2022 14:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际原子能机构：伊朗生产的浓缩铀丰度高达60% 接近武器级】据路透社当地时间9月7日消息，国际原子能机构当天发布的季度报告称伊朗生产的浓缩铀丰度高达60%，接近武器级，如进一步浓缩，就足以用于制造核弹。报告还称，联合国国际原子能机构不能“提供保证”伊朗核计划是“完全和平的”。（央视新闻）]]></title>
-            <guid>2795803</guid>
-            <pubDate>Wed, 07 Sep 2022 14:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“丹妮尔”位于亚速尔群岛西北约625英里处，最大持续风速为80英里/小时。]]></title>
-            <guid>2795800</guid>
-            <pubDate>Wed, 07 Sep 2022 14:41:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：“丹妮尔”仍是远北大西洋上空的大型飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6401184.d.html</link>
-            <guid>2795799</guid>
-            <pubDate>Wed, 07 Sep 2022 14:40:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦捷科技：公司5G射频模组已有出货】麦捷科技在互动平台回答投资者提问时表示，公司5G射频模组已有出货，更多规格的模组产品也处在规划及开发阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8191639.d.html</link>
-            <guid>2795798</guid>
-            <pubDate>Wed, 07 Sep 2022 14:40:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：美联储面临的挑战是在不引发衰退的情况下减缓经济活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8191600.d.html</link>
-            <guid>2795797</guid>
-            <pubDate>Wed, 07 Sep 2022 14:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：美联储的目标不是制造经济衰退或打击任何行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8191109.d.html</link>
-            <guid>2795796</guid>
-            <pubDate>Wed, 07 Sep 2022 14:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，宁波健世科技股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8190898.d.html</link>
-            <guid>2795793</guid>
-            <pubDate>Wed, 07 Sep 2022 14:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：政策的滞后是出于对未来的考虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6400191.d.html</link>
-            <guid>2795792</guid>
-            <pubDate>Wed, 07 Sep 2022 14:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：工资增长速度仍高于2%的通胀目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6400084.d.html</link>
-            <guid>2795791</guid>
-            <pubDate>Wed, 07 Sep 2022 14:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lucid Group(LCID.O)跌超5%，据悉至少6名制造领域高管已离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6399590.d.html</link>
-            <guid>2795789</guid>
-            <pubDate>Wed, 07 Sep 2022 14:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：中长期通胀预期仍在2%的通胀目标范围内。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8189973.d.html</link>
-            <guid>2795786</guid>
-            <pubDate>Wed, 07 Sep 2022 14:26:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特拒绝透露她对9月份美联储加息幅度的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6399183.d.html</link>
-            <guid>2795785</guid>
-            <pubDate>Wed, 07 Sep 2022 14:25:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：相较于任何一次会议，市场更关注利率路径。政策应以未来数据为指导。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8189669.d.html</link>
-            <guid>2795784</guid>
-            <pubDate>Wed, 07 Sep 2022 14:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软CFO出售近2000万美元股票】根据美国证券交易委员会（SEC）的公开文件，微软CFO Amy Hood出售了价值1955万美元的微软股票。根据SEC9月6日的文件，Hood以平均每股259.46美元的价格出售了75351.4股微软股票。此前，微软CEO萨蒂亚•纳德拉在9月1日出售了逾1400万美元的微软股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398151.d.html</link>
-            <guid>2795781</guid>
-            <pubDate>Wed, 07 Sep 2022 14:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浪潮信息回应“互联网客户砍单”传言：头部主要客户需求稳定】浪潮信息近日接受机构调研时回应“互联网客户砍单”传言称，上半年5、6月份市场出现很多不一样的声音，从公司内部来看，头部主要客户需求稳定，整体还能保持增长，但客户需求瞬息万变，下半年需求还存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6398115.d.html</link>
-            <guid>2795780</guid>
-            <pubDate>Wed, 07 Sep 2022 14:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：经济增长放缓幅度可能超过预期。失业率的上升可能超过预期。预计明年不会降息。]]></title>
-            <guid>2795779</guid>
-            <pubDate>Wed, 07 Sep 2022 14:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰支持欧盟国家强制减少15%的天然气（需求）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6397735.d.html</link>
-            <guid>2795774</guid>
-            <pubDate>Wed, 07 Sep 2022 14:14:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行：坚挺的波兰兹罗提将有助于降低通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8187913.d.html</link>
-            <guid>2795772</guid>
-            <pubDate>Wed, 07 Sep 2022 14:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯国际储备8月降至5657亿美元，较前一个月下降1.95%】当地时间9月7日，塔斯社援引俄罗斯央行发布的数据报道称，8月俄罗斯国际储备为5657亿美元，较前一个月下降1.95%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8187428.d.html</link>
-            <guid>2795771</guid>
-            <pubDate>Wed, 07 Sep 2022 14:08:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行：在接下来的几个季度里，我们预计波兰GDP增长会放缓。货币政策委员会即将做出的决定将取决于通货膨胀和经济活动。]]></title>
-            <guid>2795770</guid>
-            <pubDate>Wed, 07 Sep 2022 14:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：短期通胀预期风险变得根深蒂固。加拿大经济仍处于需求过剩、劳动力市场吃紧的状况中。]]></title>
-            <guid>2795769</guid>
-            <pubDate>Wed, 07 Sep 2022 14:06:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特重申支持美联储在未来讨论出售住房抵押贷款证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqqsmrn8187135.d.html</link>
-            <guid>2795768</guid>
-            <pubDate>Wed, 07 Sep 2022 14:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行：随着抵押贷款利率上升，加拿大房地产市场如预期般出现回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6396122.d.html</link>
-            <guid>2795767</guid>
-            <pubDate>Wed, 07 Sep 2022 14:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST瑞德：全资子公司被债权人申请破产重整】*ST瑞德公告，公司全资子公司奥瑞德有限收到哈尔滨中院通知书，辽阳粉末以奥瑞德有限不能清偿到期债务且明显缺乏清偿能力但具有重整价值为由，向哈尔滨中院申请对奥瑞德有限进行重整。公司营收全部来源于奥瑞德有限及其下属子公司，公司主要经营性资产全部由奥瑞德有限及其下属子公司持有，如法院正式受理对奥瑞德有限的重整申请，公司存在失去奥瑞德有限控制权的风险。若因重整失败奥瑞德有限被宣告破产，公司将失去主要经营性资产，面临终止上市风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-07/detail-imqmmtha6396074.d.html</link>
-            <guid>2795766</guid>
-            <pubDate>Wed, 07 Sep 2022 14:04:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
