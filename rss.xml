@@ -4,11 +4,65 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 08 Sep 2022 18:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 21:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国电信运营商T-Mobile授权回购至多140亿美元股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6586525.d.html</link>
+            <guid>2797363</guid>
+            <pubDate>Thu, 08 Sep 2022 20:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果发布新品再掀消费电子热潮，“果链”公司积极布局新增长点】 从历年智能手机出货量数据看，进入三季度后是智能手机销售的传统旺季，各大厂商一般都会选择在三季度推出自家的旗舰产品，合力带动市场，掀起消费电子热潮。而苹果公司作为行业龙头，也带动产业链上下游公司快速发展，“果链”上市公司跟进在手订单的同时，积极布局AR/VR领域。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8371260.d.html</link>
+            <guid>2797327</guid>
+            <pubDate>Thu, 08 Sep 2022 19:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国多个罢工行动因女王去世取消】 在英女王伊丽莎白二世去世后，铁路和邮政工人计划中的罢工行动被取消。据报道，英国铁路、海事和运输工会（RMT）原计划在9月15日和17日举行罢工。英媒称，英国运输工人协会也取消了计划中的罢工行动。通信工人工会原定于明天继续进行罢工行动，这一计划也已被取消。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8370165.d.html</link>
+            <guid>2797298</guid>
+            <pubDate>Thu, 08 Sep 2022 19:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【09月09日02时56分在新疆和田地区皮山县发生3.3级地震】中国地震台网正式测定：09月09日02时56分在新疆和田地区皮山县发生3.3级地震，震源深度10千米。最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8370056.d.html</link>
+            <guid>2797293</guid>
+            <pubDate>Thu, 08 Sep 2022 19:17:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国7月消费信贷 238.11亿美元，预期320亿美元，前值401.54亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8369427.d.html</link>
+            <guid>2797276</guid>
+            <pubDate>Thu, 08 Sep 2022 19:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露华浓(REV.N)盘中下挫，一度跌超12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8368169.d.html</link>
+            <guid>2797248</guid>
+            <pubDate>Thu, 08 Sep 2022 18:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：花旗银行在5亿美元的露华浓(REV.N)转让案中赢得诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqmmtha6581638.d.html</link>
+            <guid>2797240</guid>
+            <pubDate>Thu, 08 Sep 2022 18:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推特(TWTR.N)同意在6月的和解中向举报人支付700万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367754.d.html</link>
+            <guid>2797237</guid>
+            <pubDate>Thu, 08 Sep 2022 18:22:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行公告：印有女王陛下肖像的现钞仍将是法定货币。哀悼期结束后，将对英国央行纸币发布进一步声明。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-09/detail-imqqsmrn8367669.d.html</link>
+            <guid>2797228</guid>
+            <pubDate>Thu, 08 Sep 2022 18:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：特斯拉CEO马斯克称已经与苹果就Starlink的连接问题进行了一些有希望的对话，iPhone团队显然超级聪明。]]></title>
             <guid>2797194</guid>
@@ -70,158 +124,6 @@
             <title><![CDATA[市场消息：Shopify(SHOP.N)聘请摩根士丹利银行家Hoffmeister担任首席财务官。]]></title>
             <guid>2797088</guid>
             <pubDate>Thu, 08 Sep 2022 15:15:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，2022年09月08日，MTT Group Holdings Limited通过港交所上市聆讯。]]></title>
-            <guid>2797085</guid>
-            <pubDate>Thu, 08 Sep 2022 15:12:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐携手美格智能推出超小尺寸5G R16模组】 9月8日，紫光展锐携手美格智能推出超小尺寸15G R16模组SRM810，该模组基于紫光展锐业界首款5G R16 Ready芯片平台2 V516打造，双方将携手加速5G行业终端应用创新，共同推动5G R16技术在垂直行业的规模商用。（证券时报）]]></title>
-            <guid>2797081</guid>
-            <pubDate>Thu, 08 Sep 2022 15:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中金拔头筹，中信、中信建投紧随其后！上市券商财务顾问业务收入曝光】中国证券报消息，上市券商上半年财务顾问业务收入排名日前出炉。41家上市券商上半年财务顾问业务总收入为23.59亿元，其中行业前五名券商的收入占总收入的比重为54.22%。中金公司财务顾问收入最高，为4.52亿元。业内人士分析称，在注册制改革稳步推进的背景下，IPO成为优质资产的优选通道，优质资产供给端的减少导致并购热情下降，这对券商的并购综合服务能力提出了更高要求。]]></title>
-            <guid>2797080</guid>
-            <pubDate>Thu, 08 Sep 2022 15:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丹麦央行摆脱负利率】丹麦央行加息至0.65%（前值为-0.1%），称此举遵循欧洲央行9月8日当天加息75个基点的做法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8355034.d.html</link>
-            <guid>2797079</guid>
-            <pubDate>Thu, 08 Sep 2022 15:04:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周战略石油储备（SPR）库存减少752.7万桶至4.425亿桶，降幅1.67%。]]></title>
-            <guid>2797075</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2013.1万桶/日，较去年同期减少6.42%。]]></title>
-            <guid>2797074</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存增加884.5万桶至4.27亿桶，增幅2.11%。]]></title>
-            <guid>2797073</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油上周进口677.9万桶/日，较前一周增加82.3万桶/日。]]></title>
-            <guid>2797072</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国上周原油出口减少53.4万桶/日至343.3万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8354915.d.html</link>
-            <guid>2797071</guid>
-            <pubDate>Thu, 08 Sep 2022 15:03:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：上周美国国内原油产量维持在1210.0万桶/日不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568307.d.html</link>
-            <guid>2797070</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：预计“厄尔”将在今天晚些时候成为一场大型飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568244.d.html</link>
-            <guid>2797068</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“厄尔”现在正向东北偏北移动，预计将于今天晚些时候登陆百慕大。]]></title>
-            <guid>2797067</guid>
-            <pubDate>Thu, 08 Sep 2022 15:02:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计欧盟将很快作出干预，对能源价格设置上限，或对公用事业征收暴利税。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6568202.d.html</link>
-            <guid>2797066</guid>
-            <pubDate>Thu, 08 Sep 2022 15:01:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：供应中断、欧盟能源市场价格波动共同挤压公用事业的流动性，还在短期内增加了该行业多数发行方的政治风险。]]></title>
-            <guid>2797064</guid>
-            <pubDate>Thu, 08 Sep 2022 15:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，数科集团控股有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6567513.d.html</link>
-            <guid>2797060</guid>
-            <pubDate>Thu, 08 Sep 2022 14:52:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：能源市场的紧张局势对欧盟公用事业有不同的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8354108.d.html</link>
-            <guid>2797059</guid>
-            <pubDate>Thu, 08 Sep 2022 14:52:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国家飓风中心：飓风“凯”的风眼正在接近下加利福尼亚半岛中部】美国国家飓风中心：飓风“凯”的风眼正在接近下加利福尼亚半岛中部，预计今天晚些时候将给下加利福尼亚半岛西海岸部分地区带来飓风天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6567012.d.html</link>
-            <guid>2797058</guid>
-            <pubDate>Thu, 08 Sep 2022 14:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰经济部预计2022年GDP下降33.2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6566964.d.html</link>
-            <guid>2797057</guid>
-            <pubDate>Thu, 08 Sep 2022 14:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上市银行发力，“双碳”目标引领，绿色金融业务加速发展】绿色信贷、绿色债券、创新产品……当下，银行纷纷加入“绿色大军”，绿色金融发展正呈现多点开花趋势。统计发现，在日前披露完毕的上市银行半年报中，多家银行绿色信贷余额增长迅速。相较于上年末，多家国有大行、股份行绿色信贷余额实现双位数增幅。同时，绿色金融产品创新迭代加快，“减排贷”、“光伏贷”、“碳易贷”、绿色低碳卡、个人碳账户等层出不穷。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8353050.d.html</link>
-            <guid>2797055</guid>
-            <pubDate>Thu, 08 Sep 2022 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【庞大重整未了局：2.53亿股被拍卖 扯出创始人与实控人纠葛】近日，庞大原控股股东庞庆华的股权遭到司法拍卖。庞大重整实施近三年后，庞庆华手握的这笔股权既未完成解押，也未划转让渡给重整方。庞大集团在2019年陷入巨额亏损，因资不抵债，被债权人申请重整。随后，庞大集团实施重整，该公司创始人、原控股股东庞庆华向三家重整方出让股份，黄继宏成为上市公司新实际控制人。在庞庆华所持2.53亿股被司法拍卖背后，是在庞大集团重整实施近三年后，庞庆华手握的这笔股权既未完成解押，也未划转让渡给重整方。而由于重整方当初的相关承诺迟迟未兑现，庞庆华已向法院提起诉讼。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8352930.d.html</link>
-            <guid>2797054</guid>
-            <pubDate>Thu, 08 Sep 2022 14:40:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高途涨幅达5%】高途涨5%，Q2净亏损从上年同期的9.2亿元大幅收窄至4981万元，录得Non GAAP净利润65万，同比扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565721.d.html</link>
-            <guid>2797053</guid>
-            <pubDate>Thu, 08 Sep 2022 14:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国劳工统计局：2021年所有消费单位平均年支出较去年增长9.1%】当地时间9月8日，美国劳工统计局发布2021年消费者支出报告，显示2021年美国所有消费单位的平均年支出为66928美元，比2020年增长9.1%。同一时期，城市消费者物价指数（CPI-U）上升了4.7%，税前平均收入增长了3.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565598.d.html</link>
-            <guid>2797051</guid>
-            <pubDate>Thu, 08 Sep 2022 14:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【紫光展锐携手美格智能推出超小尺寸5G R16模组】9月8日，紫光展锐携手美格智能推出超小尺寸15G R16模组SRM810，该模组基于紫光展锐业界首款5G R16 Ready芯片平台2 V516打造，双方将携手加速5G行业终端应用创新，共同推动5G R16技术在垂直行业的规模商用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565548.d.html</link>
-            <guid>2797050</guid>
-            <pubDate>Thu, 08 Sep 2022 14:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰统计局：乌克兰第二季度GDP同比萎缩37.2％，环比下降19.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6565452.d.html</link>
-            <guid>2797049</guid>
-            <pubDate>Thu, 08 Sep 2022 14:32:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【免税款近1亿 海南自贸港首架“零关税”大型飞机通关】据央视新闻，一架波音777-200LRF型货运飞机在海口海关所属海口美兰机场海关通关放行，货值1亿美元，减免税款9589万元人民币。这是海南自由贸易港交通工具及游艇“零关税”政策实施以来首次享惠的“零关税”大型飞机，创下交通工具及游艇“零关税”政策项下单票享惠数额新高。]]></title>
-            <guid>2797047</guid>
-            <pubDate>Thu, 08 Sep 2022 14:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数上涨，因巴拿马型船价格再次走强】波罗的海干散货运价指数周四上涨45点或约4%，至1178点。海岬型船运价指数下跌4点或0.6%，至652点。海岬型船日均获利下跌35美元，至5407美元。巴拿马型船运价指数上涨180点或11.4%，至1757点，已连续第六个交易日上涨。巴拿马型船日均获利上涨1619美元，至15815美元。超灵便型散货船运价指数下跌5点，至1477点，连续第十个交易日下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqmmtha6564706.d.html</link>
-            <guid>2797046</guid>
-            <pubDate>Thu, 08 Sep 2022 14:24:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【康明斯中国与法国电力新能源在分布式光伏领域开展合作】9月8日获悉，康明斯中国与法国电力新能源在北京签署分布式光伏能源采购合同，旨在减少传统电网的用电量，降低生产运营中的碳排放。康明斯将提供运营厂房屋顶及部分空地并消纳太阳能电力，法电新能源将负责分布式光伏发电设备的投资、安装及运营。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-08/detail-imqqsmrn8351482.d.html</link>
-            <guid>2797045</guid>
-            <pubDate>Thu, 08 Sep 2022 14:24:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
