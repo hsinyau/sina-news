@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 10 Sep 2022 18:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 21:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【土耳其称希腊海岸警卫队在国际水域向一艘货船开火】土耳其海岸警卫队当地时间10日发表声明称，当日希腊海岸警卫队的2名队员向一艘悬挂科摩罗国旗的“安纳托利亚”号货船开火，当时该船只航行于距离土耳其博兹贾阿达海岸11海里处的国际海域。土耳其海岸警卫队获悉此事后，派出两艘船只前往事发地点，随后希腊海岸警卫队的船只离开了相关地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8636867.d.html</link>
+            <guid>2799203</guid>
+            <pubDate>Sat, 10 Sep 2022 20:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗查获一艘载有75.7万升走私柴油的船只】当地时间10日，伊朗伊斯兰革命卫队海军军官表示，伊朗在其南部海域附近查获了一艘载有75.7万升走私柴油的船只。船上7名船员均为外国籍，目前已按照司法命令移交相关部门。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6855383.d.html</link>
+            <guid>2799183</guid>
+            <pubDate>Sat, 10 Sep 2022 20:31:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利能源危机加剧 制造业面临经营困境】随着欧洲能源危机的不断加剧，今年冬季可能出现的天然气缺口让意大利很多制造业企业陷入经营困境。意大利萨克米集团董事长蒙加尔迪近日向中央广播电视总台记者表示，能源价格的上涨让一些企业停产，降低了欧洲制造业的竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6854393.d.html</link>
+            <guid>2799156</guid>
+            <pubDate>Sat, 10 Sep 2022 20:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南苏丹洪灾严重 政府宣布受洪水影响地区为国家灾难地区】当地时间9月9日，南苏丹政府宣布该国受洪水影响的地区为国家灾难地区。南苏丹新闻部长迈克尔·马奎·鲁埃斯表示，洪水已导致该国数千人流离失所，数百人丧生。本周早些时候，南苏丹总统基尔呼吁人道主义合作伙伴提供帮助。据了解，南苏丹在过去三年中经历了极端洪水，仅2021年就有超过80万人受灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8632629.d.html</link>
+            <guid>2799101</guid>
+            <pubDate>Sat, 10 Sep 2022 18:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高温干旱“烤”验美国西部牧场】近日，美国的高温和干旱给畜牧业带来了不小的压力。在美国加州，干旱导致天然草料减产，加上化肥、燃料等物资价格上涨，让很多牧场面临着运营困境。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqqsmrn8632377.d.html</link>
+            <guid>2799099</guid>
+            <pubDate>Sat, 10 Sep 2022 18:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹今年雨季已有118人因洪水死亡】当地时间10日，苏丹国家民防委员会证实，2022年雨季已有累计118人因洪水死亡，另有至少118人受伤，42258所房屋倒塌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-11/detail-imqmmtha6850865.d.html</link>
+            <guid>2799098</guid>
+            <pubDate>Sat, 10 Sep 2022 18:11:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美司法部和特朗普各提名两个审查海湖庄园文件的特别检察官】据美国有线电视新闻网（CNN）当地时间9月10日报道，美国司法部和前总统特朗普针对海湖庄园的文件审查各提名了两个特别检察官的候选人。（央视）]]></title>
             <guid>2799096</guid>
@@ -393,24 +429,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6792780.d.html</link>
             <guid>2798883</guid>
             <pubDate>Sat, 10 Sep 2022 05:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新西兰发生沉船事故 造成5人死亡】当地时间9月10日，新西兰南岛凯库拉附近发生一起沉船事故，一艘小船在与不明物体相撞后沉没。警方证实，共有5人在事故中死亡，另有6人获救。当地出动了救援直升机和潜水员进行搜救，具体事故原因还在调查中。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6792230.d.html</link>
-            <guid>2798882</guid>
-            <pubDate>Sat, 10 Sep 2022 05:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家航天局：探月工程四期已立项，将建立国际月球科研站基本型】据国家航天局的消息，我国探月工程有了新的进展。探月与航天工程中心主任刘继忠在接受总台记者采访时表示：探月工程四期任务已获国家批复，目前进展顺利。探月工程四期包括嫦娥六号、嫦娥七号和嫦娥八号任务，这三个任务将在未来十年之内陆续实施。其中，嫦娥六号是嫦娥五号的备份，具备采样返回的功能，它将前往月球背面执行任务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6789952.d.html</link>
-            <guid>2798879</guid>
-            <pubDate>Sat, 10 Sep 2022 05:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国总理朔尔茨会见欧洲理事会主席米歇尔 双方讨论能源问题】当地时间9月9日，德国总理朔尔茨在柏林会见了到访的欧洲理事会主席米歇尔，双方就当前的欧洲政策等问题进行了商讨。在会见后举行的联合发布会上，德国总理朔尔茨表示，俄乌冲突对德国造成了打击，俄罗斯现在已停止向德国供应天然气，高昂的能源价格对国家、对企业、对私人消费者都造成了极大的负担，他呼吁欧盟国家团结一致，应对冲突的影响。他同时感谢欧盟致力于制定降低能源价格的统一措施，他表示，德国也将努力推进新能源的转型，降低对天然气等传统能源的依赖。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-10/detail-imqmmtha6788880.d.html</link>
-            <guid>2798877</guid>
-            <pubDate>Sat, 10 Sep 2022 04:53:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
