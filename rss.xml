@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 12 Sep 2022 18:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 21:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【韦布太空望远镜拍摄的第一张猎户座星云照片发布】一国际研究小组刚刚公布了由韦布太空望远镜拍摄的猎户座星云的首批图像。猎户座星云位于距离地球1350光年的猎户座，是一个物质丰富的区域，许多恒星在这里形成。它的环境与45亿年前太阳系诞生时的环境相似，研究人员可以通过其了解太阳系形成的条件。这张照片揭示了许多壮观的结构，其规模约为40个天文单位，相当于我们太阳系的大小。这张照片还揭示了正在形成的恒星系统。它们由中心的原恒星组成，周围环绕着尘埃和气体圆盘，行星在其内部形成。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8840893.d.html</link>
+            <guid>2800000</guid>
+            <pubDate>Mon, 12 Sep 2022 19:38:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【台风“梅花”靠近日本冲绳 当地交通受影响】当地时间12日18时左右，今年第12号台风“梅花”在日本冲绳县石垣岛西北偏北70公里处海域继续向西北偏北方向移动。冲绳县正在加强防灾措施，随着“梅花”的靠近，当地交通也受到影响。台风“梅花”给当地带来强降雨天气，截至当地时间12日上午11时50分，波照间岛的24小时降水量达到358.5毫米，创当地有观测记录以来的最高值。冲绳县石垣岛部分建筑漏雨，有树木倒塌。当天，冲绳县的部分飞机航班停航。据日本气象部门消息，预计13日冲绳县石垣市、西表岛等地附近海域将出现高度10米的大浪。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8837740.d.html</link>
@@ -161,112 +167,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8823222.d.html</link>
             <guid>2799918</guid>
             <pubDate>Mon, 12 Sep 2022 13:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟仍在研究提高能源行业流动性的措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8822564.d.html</link>
-            <guid>2799912</guid>
-            <pubDate>Mon, 12 Sep 2022 13:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特跌1%，推特就终止收购协议通知书回应称，打算执行协议并按照与马斯克方商定的价格和条款完成交易。]]></title>
-            <guid>2799911</guid>
-            <pubDate>Mon, 12 Sep 2022 13:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所FTX创始人Bankman-Fried：加密货币下跌是因为“美元上涨”。]]></title>
-            <guid>2799910</guid>
-            <pubDate>Mon, 12 Sep 2022 13:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所FTX创始人Bankman-Fried：加密货币即将迎来监管透明化。]]></title>
-            <guid>2799909</guid>
-            <pubDate>Mon, 12 Sep 2022 13:41:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国和罗马尼亚签署协议帮助乌克兰粮食出口】据央视新闻，当地时间9月12日，法国交通部长与罗马尼亚交通部长签署一项协议，以帮助增加乌克兰向发展中国家（包括地中海地区国家）的粮食出口。自俄乌冲突爆发以来，乌克兰黑海多个港口被关闭导致粮食运输受阻，粮食出口大幅下降，全球粮食价格走高引发了全球对非洲和中东粮食短缺的担忧。法国交通部长表示，该协议涵盖陆路、海洋以及河流等出口运输方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8822324.d.html</link>
-            <guid>2799908</guid>
-            <pubDate>Mon, 12 Sep 2022 13:40:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部部署今年第12号台风“梅花”防御工作】据央视新闻，农业农村部今天发布，当前正值秋粮灌浆成熟期，正是产量形成的关键时期。台风“梅花”带来的大风降雨天气，在缓解南方旱情的同时，也可能造成局部秋粮倒伏和内涝。对此，农业农村部高度重视，紧急部署台风防御工作，要求各级农业农村部门始终绷紧防灾减灾这根弦，切实把防台风保丰收作为当前的紧迫任务，密切监测预警，备足防台救灾物资，提早落实防范措施，确保农、牧、渔民生命财产安全和农业生产安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821583.d.html</link>
-            <guid>2799905</guid>
-            <pubDate>Mon, 12 Sep 2022 13:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：2023年预算不会增加墨西哥的税收。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821302.d.html</link>
-            <guid>2799903</guid>
-            <pubDate>Mon, 12 Sep 2022 13:29:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：墨西哥2023年的预算允许汽油价格不上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8821292.d.html</link>
-            <guid>2799902</guid>
-            <pubDate>Mon, 12 Sep 2022 13:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：9月12日21时20分在青海海北州门源县（北纬37.75度，东经101.43度）发生3.6级地震，震源深度10千米。]]></title>
-            <guid>2799900</guid>
-            <pubDate>Mon, 12 Sep 2022 13:28:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌向印度制造商招标制造50万-100万Pixel智能手机，产量将达到估计年产量的10%-20%。]]></title>
-            <guid>2799898</guid>
-            <pubDate>Mon, 12 Sep 2022 13:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：任何措施，如交易“熔断机制”，都需要仔细评估，以保持金融稳定。]]></title>
-            <guid>2799895</guid>
-            <pubDate>Mon, 12 Sep 2022 13:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：正在“积极考虑”是否需要任何监管措施来缓解抵押品压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7041555.d.html</link>
-            <guid>2799894</guid>
-            <pubDate>Mon, 12 Sep 2022 13:13:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲证券及市场管理局：看到一些能源市场参与者的压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8820094.d.html</link>
-            <guid>2799893</guid>
-            <pubDate>Mon, 12 Sep 2022 13:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋气候变化部门表示，阿联酋将其2030年温室气体减排目标提高到31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7041342.d.html</link>
-            <guid>2799892</guid>
-            <pubDate>Mon, 12 Sep 2022 13:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示，美国商会呼吁对铁路劳工谈判采取“紧急行动”，以避免罢工及“国家经济灾难”。]]></title>
-            <guid>2799891</guid>
-            <pubDate>Mon, 12 Sep 2022 13:11:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯车臣官员：车臣向顿巴斯方向增兵万余人】据俄罗斯塔斯社9月12日报道，俄罗斯车臣共和国安全委员会秘书、"阿赫马特"特种作战团指挥官在"俄罗斯-1"电视频道的一档节目中表示，车臣向顿巴斯方向增派一万余名预备役军人。该指挥官指出，"（我们）正在重新调派数个旅和很多的坦克。我们还将车臣共和国一万余名预备役人员部署至顿巴斯方向。"他还强调，"索利达尔方向每天都在进行激烈交战，乌克兰军队正试图四面包抄。我们每天均消灭大量敌人并摧毁他们的武器装备。我们和卢甘斯克人民共和国第二集团军的战士们非常勇敢。" (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqmmtha7041284.d.html</link>
-            <guid>2799890</guid>
-            <pubDate>Mon, 12 Sep 2022 13:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查显示，俄罗斯基准利率预计将处于7%到7.75%之间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8819815.d.html</link>
-            <guid>2799889</guid>
-            <pubDate>Mon, 12 Sep 2022 13:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查显示，23位经济学家中有20位预计俄罗斯央行将于周五将基准利率下调50个基点至7.5%。]]></title>
-            <guid>2799888</guid>
-            <pubDate>Mon, 12 Sep 2022 13:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百胜餐饮授权回购高达20亿美元的股票】百胜餐饮授权回购高达20亿美元的股票，新授权将于2021年5月批准的现有回购计划完成后生效。百胜餐饮盘前短线走高，涨2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-12/detail-imqqsmrn8819724.d.html</link>
-            <guid>2799887</guid>
-            <pubDate>Mon, 12 Sep 2022 13:09:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
