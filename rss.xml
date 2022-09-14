@@ -4,121 +4,203 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 13 Sep 2022 21:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 00:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【两市融资余额增加22.17亿元】截至9月13日，上交所融资余额报7996.41亿元，较前一交易日增加19.75亿元；深交所融资余额报6996.86亿元，较前一交易日增加2.42亿元；两市合计14993.27亿元，较前一交易日增加22.17亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7225551.d.html</link>
+            <guid>2801121</guid>
+            <pubDate>Wed, 14 Sep 2022 00:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【共享单车运营区域扩大至北京所有行政区】从市交通委获悉，共享单车运营区域已由原来的五环内逐渐扩大至全市所有行政区，形成了“1+N”的服务格局。截至2022年8月底，全市范围内报备的运营车辆为99.85万辆，其中，中心城区79.82万辆，其他区20.03万辆。 “1+N”的服务格局，即中心城区作为一个整体的运营区域，美团、哈啰和滴滴青桔3家企业按照承诺的规模投放车辆；城市副中心、平原新城和生态涵养区作为N个独立运营区域，因地制宜地引入一家或多家共享单车企业，科学测定车辆运营规模上限。目前，在北京运营的共享单车企业共有3家，分别是美团、哈啰和滴滴青桔。 在总量方面，北京坚持“总量调控”政策，按照淡、旺季进行动态调整。  （北京日报）]]></title>
+            <guid>2801119</guid>
+            <pubDate>Wed, 14 Sep 2022 00:37:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西新增本土确诊病例7例、本土无症状感染者51例】据广西卫健委，9月13日0-24时，广西新增本土确诊病例7例（均在防城港市，其中东兴市6例，防城区1例）；本土无症状感染者51例（防城港市46例，其中防城区26例，东兴市20例；崇左市龙州县5例）。当日解除隔离医学观察本土无症状感染者7例（均在防城港市）。截至9月13日24时，全区现有本土确诊病例58例（防城港市42例，梧州市16例），无症状感染者537例（防城港市511例，梧州市15例，崇左市10例，百色市1例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7224357.d.html</link>
+            <guid>2801113</guid>
+            <pubDate>Wed, 14 Sep 2022 00:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  韩国副财政部长称，将密切监控金融和外汇市场；主要国家加息步伐的不确定性加剧。]]></title>
+            <guid>2801112</guid>
+            <pubDate>Wed, 14 Sep 2022 00:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆昨日新增本土确诊病例1例、本土无症状感染者25例】13日0至24时，新疆维吾尔自治区新增本土无症状感染者转确诊病例1例，在乌鲁木齐市天山区；新增本土无症状感染者25例，其中，乌鲁木齐市天山区6例，伊犁州伊宁市11例，吐鲁番市高昌区2例，巴州库尔勒市6例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8999507.d.html</link>
+            <guid>2801111</guid>
+            <pubDate>Wed, 14 Sep 2022 00:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【洋码头回应上海总部人去楼空传闻】近日有媒体报道称，有买手称，从去年7月份开始，账户内十多万货款便无法提现。此外，据该报道，洋码头位于静安区的总部办公场所，目前人去楼空，物业方贴出的告示显示，洋码头已长期拖欠租金等费用。对此，9月13日，洋码头创始人兼CEO曾碧波对记者回应表示，正在准备声明函，“谣言蛮多的。”  （每经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8999118.d.html</link>
+            <guid>2801110</guid>
+            <pubDate>Wed, 14 Sep 2022 00:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【新疗法可在几天内根除肿瘤】美国莱斯大学科学家通过使用植入式“药物工厂”，阻止了小鼠的晚期癌症，而且这种新疗法只需几天就能生效。该研究已发表在《临床癌症研究》上。 虽然这种方法仍需要一些时间才能在人类身上进行试验，但目前的成果表明，人们拥有了一种强大的新方法来根除一种侵袭性的肺癌——间皮瘤。 “药物工厂”由藻酸盐制成的微小珠子组成，每个微珠只有1.5毫米宽，能够连续爆裂产生白细胞介素-2（IL-2）——这种天然化合物能激活人体的白细胞以对抗肿瘤。  （科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7223265.d.html</link>
+            <guid>2801108</guid>
+            <pubDate>Wed, 14 Sep 2022 00:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯原股份回应：中国台湾分公司仅负责销售业务 未曾挖角高科技人才】据科创板日报，针对“百万年薪挖角台湾高科技人才及涉诉”传闻，芯原股份董事长兼总裁戴伟民回应称：“芯原台湾分公司一直为芯原开曼所控股，直至为了2020年8月芯原在科创板上市才转变成陆资控股。近二十年来，芯原台湾主要负责销售业务，从未雇佣过IC设计人员，也没有任何IC测试机台。目前该案件也尚未进入法院开庭阶段。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8998051.d.html</link>
+            <guid>2801105</guid>
+            <pubDate>Wed, 14 Sep 2022 00:18:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑龙江昨日新增本土确诊病例1例、本土无症状感染者44例】据黑龙江卫健委，9月13日0-24时，黑龙江省新增本土确诊病例1例（大庆市1例，在龙凤区），为集中隔离发现。新增本土无症状感染者44例，大庆市39例（高新区19例、龙凤区15例、萨尔图区4例、让胡路区1例），其中集中隔离发现24例、管控人群筛查发现15例；黑河市5例（均在爱辉区），其中集中隔离发现3例、社区筛查发现2例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8997175.d.html</link>
+            <guid>2801098</guid>
+            <pubDate>Wed, 14 Sep 2022 00:10:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北昨日新增16例无症状感染者】河北省卫健委发布，2022年9月13日0—24时，河北省无新增新型冠状病毒肺炎确诊病例；新增无症状感染者16例，其中石家庄市12例（裕华区），承德市1例（双滦区，在集中隔离点筛查发现），廊坊市1例（三河市，为外省协查密接人员，在集中隔离点筛查发现），保定市2例（莲池区1例、清苑区1例，为外省来冀返冀人员）。治愈出院2例，无症状感染者解除医学观察34例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7221476.d.html</link>
+            <guid>2801095</guid>
+            <pubDate>Wed, 14 Sep 2022 00:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本7月核心机械订单月率 5.3%，预期-0.8%，前值0.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8995211.d.html</link>
+            <guid>2801086</guid>
+            <pubDate>Tue, 13 Sep 2022 23:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江发布山洪灾害红色预警】浙江省水利厅、浙江省气象局2022年09月14日06时31分联合发布山洪灾害红色预警。预计14日8时至15日8时，临安区、海曙区、北仑区、鄞州区、奉化区、象山县、宁海县、余姚市、安吉县、柯桥区、上虞区、新昌县、嵊州市、定海区、普陀区发生山洪灾害可能性极大（红色预警），萧山区、余杭区、诸暨市、三门县、天台县发生山洪灾害可能性大（橙色预警），拱墅区、西湖区、富阳区、桐庐县、吴兴区、长兴县、浦江县、磐安县、义乌市、东阳市、岱山县、临海市发生山洪灾害可能性较大（黄色预警），建德市、乐清市、永康市、黄岩区、仙居县、温岭市、缙云县可能发生山洪灾害（蓝色预警）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7219153.d.html</link>
+            <guid>2801081</guid>
+            <pubDate>Tue, 13 Sep 2022 23:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沃森生物：董秘张荔被相关执法部门采取留置措施不会影响公司正常生产经营和管理活动】沃森生物在互动平台表示，董秘张荔因个人原因被相关执法部门采取留置措施这个突发事件不会影响公司正常的生产经营和管理活动，她负责的相关工作已进行了妥善的安排，目前公司各项经营管理工作均正常开展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8994446.d.html</link>
+            <guid>2801080</guid>
+            <pubDate>Tue, 13 Sep 2022 23:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【低位加仓看好中长期发展 上市险企“点金”权益市场】保险资金是资本市场最大的机构投资者之一。今年上半年，受长端利率低位震荡和权益市场波动冲击，A股五大上市险企总投资收益率有所降低，集中在3.1%至5.5%之间。展望未来权益资产配置，多险企表示下半年权益市场具备战略配置价值，消费、科技、新能源等领域有望受到资金青睐。]]></title>
+            <guid>2801079</guid>
+            <pubDate>Tue, 13 Sep 2022 23:40:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内23家支付机构黯然离场 多家支付公司股权被挂牌转让】日前，京东网络司法拍卖平台显示，中联信（福建）支付服务有限公司的100%股权被挂牌拍卖。早些时候，央行官网公示支付业务许可证（即支付牌照）核发信息发生更新，安徽圣德天开信息科技有限公司和福建省掌财通支付服务有限公司被列入已注销许可机构，这意味着这两张支付牌照正式失效。记者综合梳理今年前三季度支付机构情况发现，年内共计注销23张支付牌照，并有多家支付机构股权被转让，支付机构整合清退进行时。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8993827.d.html</link>
+            <guid>2801075</guid>
+            <pubDate>Tue, 13 Sep 2022 23:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际货币基金组织总裁与乌克兰总统讨论援助问题】当地时间9月13日，国际货币基金组织（IMF）总裁格奥尔基耶娃表示，她和乌克兰总统泽连斯基已就扩大对乌克兰的经济支持进行了讨论，国际货币基金组织的一个代表团将在未来几周内与乌克兰官员会面，以制定相关计划。格奥尔基耶娃表示，国际货币基金组织还在努力确保董事会批准一项提案，该提案旨在扩大对乌克兰和其他因俄乌冲突而面临紧急国际收支问题国家的紧急援助。她还指出，国际货币基金组织将为乌克兰提供约14亿美元的额外支持。  （央视新闻）]]></title>
+            <guid>2801074</guid>
+            <pubDate>Tue, 13 Sep 2022 23:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【强台风梅花携风带雨来袭    浙江东北部预计有特大暴雨】中央气象台预计，强台风“梅花”将于今天下午至夜间，在浙江温岭到舟山一带沿海地区登陆。预计今天8时到明天8时，浙江中北部沿海、上海沿海、江苏东南部沿海等地将有9-11级大风；辽东半岛、山东中东部、上海、江苏、安徽东部、浙江中北部等地有大到暴雨，其中，浙江东北部局地将有特大暴雨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8993773.d.html</link>
+            <guid>2801073</guid>
+            <pubDate>Tue, 13 Sep 2022 23:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  日本财务省副大臣神田真人称，将对外汇波动作出适当反应，不排除任何选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8993687.d.html</link>
+            <guid>2801072</guid>
+            <pubDate>Tue, 13 Sep 2022 23:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑州银行：行长申学清辞任】郑州银行9月14日在港交所公告，由于达到退出现职年龄，申学清已辞任银行执行董事、银行行长、战略发展委员会委员及消费者权益保护工作委员会主席及委员职务，并于2022年9月13日生效。于公告日期，董事会成员包括执行董事王天宇及夏华；非执行董事王丹、刘炳恒、苏小军、姬宏俊及王世豪；以及独立非执行董事李燕燕、李小建、宋科及李淑贤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7217796.d.html</link>
+            <guid>2801067</guid>
+            <pubDate>Tue, 13 Sep 2022 23:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【紧盯前三季度业绩 公募基金大举“埋伏”绩优股】三季度即将收官，多家上市公司已经发布了前三季度业绩预告，其中部分公司实现了前三季度业绩同比增长。立讯精密、雅化集团等业绩表现较好的公司，早已有公募基金“埋伏”其中。公募人士认为，市场情绪持续修复之后，基金经理最看好的投资逻辑依然是业绩和估值。从业绩预告情况以及最新中观景气数据看，建议投资者关注光伏、风电、储能、汽车等景气度较高的方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8992865.d.html</link>
+            <guid>2801063</guid>
+            <pubDate>Tue, 13 Sep 2022 23:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多只可转债触及下修条款 博弈机会显现】9月以来，截至9月13日，已有11只可转债触发转股价格下修条款，转股价格下修的博弈机会逐渐引起市场参与者关注。业内人士表示，对投资者来说，转股价格下修可迅速提升转股价值，影响可转债市场价格，由此产生交易性机会。不过，发行人会否以及在多大程度上调整转股价，取决于其对促进转股、稀释股权等因素的综合考量，存在一定不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7217121.d.html</link>
+            <guid>2801062</guid>
+            <pubDate>Tue, 13 Sep 2022 23:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【旺季来临 纸企盈利能力有望改善】随着造纸行业进入“金九银十”旺季，造纸企业纷纷发布涨价函，涨价幅度在200元/吨左右。业内人士表示，下游需求持续好转，纸企盈利能力有望改善。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8992625.d.html</link>
+            <guid>2801061</guid>
+            <pubDate>Tue, 13 Sep 2022 23:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“由蓝变黄”，申城台风预警升级】上海中心气象台2022年09月14日07时00分更新台风蓝色预警信号为台风黄色预警信号：受台风“梅花”影响，预计今天傍晚起我市最大阵风增强到8-10级，郊区9-11级，沿江沿海地区11-13级，台风蓝色预警信号更新为台风黄色预警信号，请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7216769.d.html</link>
+            <guid>2801060</guid>
+            <pubDate>Tue, 13 Sep 2022 23:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：多地取消二手房指导价是何信号】经济日报发文称，多地取消二手房指导价表明，学区房降温趋势明显，改善性购房需求更受重视，房地产市场稳预期持续加码。房地产调控只有对症下药、及时修正，才能达到最佳效果。需要看到，作为抑制加杠杆等炒房行为的手段之一，二手房指导价发挥的作用不容忽视，但这种调控政策仅仅是短期调节的手段，并不适合长期使用。同一城市的不同位置和地段，房价往往也具有一定的弹性，一刀切式使用同一个指导价，会进一步加剧市场的冷热不均。随着外部调节和市场自我修复的深入，二手房真实交易价格会逐步显现出来。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8991793.d.html</link>
+            <guid>2801057</guid>
+            <pubDate>Tue, 13 Sep 2022 23:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟将公布应对能源危机提议草案】当地时间13日，多家媒体援引欧盟内部消息称，欧盟即将公布一份提议草案，以应对可能在今年冬天进一步恶化的能源危机。根据多家媒体提前披露的提议草案内容，欧盟将要求石油、天然气、煤炭以及相关精炼加工企业参与“团结捐资”，以帮助欧洲国家缓解能源危机，各企业出资额度将根据2022财政年度所得应税超额利润计算，筹得的资金将用于帮助消费者和特定行业缓冲高涨的能源价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7216049.d.html</link>
+            <guid>2801056</guid>
+            <pubDate>Tue, 13 Sep 2022 23:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东省报告新增本土确诊病例10例 新增本土无症状感染者35例】据山东卫健委，2022年9月13日0时至24时，山东省报告新增本土确诊病例10例，其中青岛9例，系集中隔离点检出5例、高风险区检出2例和中风险区检出2例；烟台1例，系集中隔离点检出。新增本土无症状感染者35例，其中青岛25例，系高风险区检出11例、集中隔离点检出10例和中风险区检出4例；济宁7例，均系集中隔离点检出；烟台2例，均系集中隔离点检出；济南1例，为省外入鲁人员，系集中隔离点检出。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7216025.d.html</link>
+            <guid>2801055</guid>
+            <pubDate>Tue, 13 Sep 2022 23:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第二届全球人工智能峰会在沙特利雅得开幕，签署了《利雅得人工智能行动宣言》】 当地时间9月13日晚，由沙特阿拉伯大数据和人工智能局主办的第二届全球人工智能峰会在沙特首都利雅得开幕。沙特大数据和人工智能局局长在开幕发言中表示，期待与全球的合作伙伴加强合作，以人工智能造福人类。由沙特等11个国家组成的数字合作组织成员国官员当天还签署了《利雅得人工智能行动宣言》，重申希望通过利用人工智能的巨大潜力为所有人带来更光明的未来。此次峰会将持续三天时间，主办方的统计数据显示，将有超过10000人在线上和线下共同参与，其中200余名人工智能领域的政府官员、企业家与专家学者将发表演讲。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7215076.d.html</link>
+            <guid>2801054</guid>
+            <pubDate>Tue, 13 Sep 2022 22:55:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【权益基金密集发行，基金经理看好结构性投资机会】 9月以来，新基金发行有所回暖，部分权益基金募集规模超40亿元。权益基金成为近期发行主力，新锐基金经理、资深基金经理纷纷出马。主动权益基金亦有爆款出现。谢书英管理的兴证全球合瑞混合基金首募规模为49.5亿元，这也是谢书英加入兴证全球基金后发行的首只基金。多位明星基金经理表示，后续仍可把握较多结构性投资机会。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8990396.d.html</link>
+            <guid>2801053</guid>
+            <pubDate>Tue, 13 Sep 2022 22:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“银行系”基金公司有望再度扩容】一旦苏新基金获批，就意味着时隔6年银行系基金公司重启扩容。公开数据显示，自2016年6月16日大股东为恒生银行的恒生前海基金获批成立至今，其间没有新的银行系基金公司获批。在业内人士看来，政策的“东风”是银行系基金公司扩容的重要动力。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8989634.d.html</link>
+            <guid>2801047</guid>
+            <pubDate>Tue, 13 Sep 2022 22:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔多地延长紧急状态 为期30天】当地时间13日，厄瓜多尔总统拉索签发政令，在主要海港城市瓜亚基尔等地延长紧急状态，为期30天。政令称，鉴于当前犯罪集团活动猖獗，暴力袭击和非法行为尚未得到遏制，且有愈演愈烈的趋势，危害公民人身和财产安全，因此政府决定延长已经持续了一个月的紧急状态。8月14日，瓜亚基尔发生爆炸袭击，造成多人死伤，多栋建筑物损毁，之后政府颁布紧急状态令。初步调查表明，袭击与当地毒品犯罪集团有关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7213242.d.html</link>
+            <guid>2801043</guid>
+            <pubDate>Tue, 13 Sep 2022 22:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲能源紧缺，上市公司相关订单持续增长】随着欧洲能源缺口问题不断发酵，中国稳定供应全球的能力有望再度凸显，上市公司相关订单持续增长。9月13日，多家上市公司在互动平台上披露出口情况，电热毯、炭黑等出口订单持续增长。专家表示，除采暖电器海外需求增长外，欧洲能源问题带来的减产潮将影响全球供应，或推动国内包括化工、能源等对应细分行业进入上行周期。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7213183.d.html</link>
+            <guid>2801041</guid>
+            <pubDate>Tue, 13 Sep 2022 22:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工业机器人企业加码研发投入】工业机器人产业链相关上市公司加大研发投入，推出产品和行业解决方案，加快在光伏、锂电池等高景气行业的应用。据中国证券报记者不完全统计，今年上半年，在31家工业机器人产业链上市公司中，近六成公司研发支出实现同比增长。业内人士表示，在政策推动下，企业不断提升技术水平，推动工业机器人国产化进程提速，行业应用潜能加快释放。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8988883.d.html</link>
+            <guid>2801040</guid>
+            <pubDate>Tue, 13 Sep 2022 22:21:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[市场消息：推特公司总共具有98.6%投票权的股东支持批准马斯克的收购协议。]]></title>
             <guid>2801021</guid>
             <pubDate>Tue, 13 Sep 2022 21:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：推特公司总共具有98.6%投票权的股东支持批准马斯克的收购协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8985652.d.html</link>
-            <guid>2801019</guid>
-            <pubDate>Tue, 13 Sep 2022 20:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【完善产能布局 动力电池企业加快“出海”步伐】近期，动力电池企业纷纷宣布在海外建设工厂。继宁德时代宣布将在欧洲建设第二座动力电池工厂后，蜂巢能源9月9日宣布，公司将在欧洲建设第二座海外电池工厂。另外，远景动力、国轩高科、亿纬锂能等公司均加快了“出海”建厂步伐。业内人士表示，相关公司在海外投资建设生产基地，有利于进一步完善产能布局，受益产业集群红利，同时对于其拓展海外市场具有重要意义。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7209501.d.html</link>
-            <guid>2801012</guid>
-            <pubDate>Tue, 13 Sep 2022 20:49:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内A股IPO和再融资合计破万亿元 专家：对实体经济适配性显著增强】据数据统计，今年以来，截至9月13日，A股IPO和再融资规模合计逾万亿元，达1.137万亿元。川财证券首席经济学家、研究所所长陈雳表示，近年来，伴随着资本市场结构性变化，市场包容性大幅提升。目前，对标大型成熟企业、硬科技企业、成长型创新企业、创新型中小企业，A股市场体系中均有相应服务板块，资本市场对实体经济的适配性大幅增强。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7209338.d.html</link>
-            <guid>2801010</guid>
-            <pubDate>Tue, 13 Sep 2022 20:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙众议院多数代表支持对大型电力公司和银行业增加税收】当地时间9月13日，西班牙众议院的多数代表表示支持西班牙政府加收大型电力公司和银行业企业税收相关法令草案，尽管最大反对党派人民党等党派表示反对，但众议院大多数代表对这一草案表示了支持。西班牙首相桑切斯此前宣布该国将对电力公司和大型银行征收两项新的税收，以保证在未来两年内筹集更多款项，应对通货膨胀加剧对西班牙经济的打击。相关法案已于9月13日递交众议院审理，西政府希望法案在2022年底前得到批准，并从2023年起开始征收新的税款。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7207775.d.html</link>
-            <guid>2800995</guid>
-            <pubDate>Tue, 13 Sep 2022 19:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光伏硅片毛利下降倒逼提价，产能扩张不止“价格战”伺机而动】 9月13日，最新数据显示，单晶硅片价格为7.58元/片，较9月12日价格上调0.03元/片。在某券商电新行业研究员看来，硅片近期的价格上涨主要源于“电池片的产出持续增长，供应端需求带动着硅片的价格上涨”。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7207765.d.html</link>
-            <guid>2800994</guid>
-            <pubDate>Tue, 13 Sep 2022 19:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数涨幅扩大，英镑和纽元创2020年5月份以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8982000.d.html</link>
-            <guid>2800982</guid>
-            <pubDate>Tue, 13 Sep 2022 18:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗集团(C.N)盘中跌幅扩大至3.5%，CEO预计Q3投资银行业务收入将下降50%。]]></title>
-            <guid>2800981</guid>
-            <pubDate>Tue, 13 Sep 2022 18:56:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：摩根士丹利表示对目前员工规模感觉良好，没有立即裁员的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8981986.d.html</link>
-            <guid>2800980</guid>
-            <pubDate>Tue, 13 Sep 2022 18:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿塞拜疆国防部：与亚美尼亚的边境冲突已致50名阿方军人死亡】 当地时间9月13日，阿塞拜疆国防部发布的消息称，与亚美尼亚的边境冲突导致50名阿方军人死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7205431.d.html</link>
-            <guid>2800971</guid>
-            <pubDate>Tue, 13 Sep 2022 18:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NYMEX 10月汽油期货收报2.4804美元/加仑。NYMEX 10月取暖油期货收报3.5413美元/加仑。]]></title>
-            <guid>2800970</guid>
-            <pubDate>Tue, 13 Sep 2022 18:36:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克(SBUX.O)盘中转涨，抹平此前约3.4%的跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8981094.d.html</link>
-            <guid>2800964</guid>
-            <pubDate>Tue, 13 Sep 2022 18:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【120余份基金公告显示中秋节“闭门谢客”，现货黄金市场趁势多手法营销】统计发现，在今年中秋节假期前一周，有超过120余份公募基金公告提前“闭门谢客”，与以往不同，这次除了货币型基金外，FOF、QDII和债券型基金也加入其中。不过，与公募基金截然相反的是，黄金市场依旧呈现出“过节不打烊”的局面，且今年多家黄金公司继续推出多种促销手段，为投资者提供保值增值服务。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqmmtha7203508.d.html</link>
-            <guid>2800954</guid>
-            <pubDate>Tue, 13 Sep 2022 17:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非洲开发银行：气候变化正严重冲击非洲GDP增长】非洲开发银行（AfDB）表示，由于气候变化影响，非洲将损失5%至15%的人均国内生产总值（GDP）增速，并面临巨大的资金短缺。近年来，气候变化加剧了非洲大陆的干旱、洪水和气旋，对经济发展造成了极大冲击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8978140.d.html</link>
-            <guid>2800950</guid>
-            <pubDate>Tue, 13 Sep 2022 17:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯就亚美尼亚和阿塞拜疆冲突发表声明 呼吁双方缓和紧张局势】当地时间9月13日，联合国秘书长古特雷斯通过发言人就亚美尼亚和阿塞拜疆冲突发表声明。声明表示，古特雷斯对亚美尼亚和阿塞拜疆边境再次爆发冲突的报道深表关切。他呼吁双方立即采取措施缓和紧张局势，保持最大限度的克制，并通过对话和现有形式解决任何待解决的问题。古特雷斯还敦促两国充分执行之前达成的协议。声明表示，古特雷斯支持该地区正在进行的所有调解努力。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8977944.d.html</link>
-            <guid>2800946</guid>
-            <pubDate>Tue, 13 Sep 2022 17:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三亚最新调整：高风险区为9个、中风险区为24个。（三亚发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8977631.d.html</link>
-            <guid>2800942</guid>
-            <pubDate>Tue, 13 Sep 2022 17:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[塔吉特(TGT.N)发行本金为10亿美元的2032年到期的4.500%票据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-14/detail-imqqsmrn8974576.d.html</link>
-            <guid>2800932</guid>
-            <pubDate>Tue, 13 Sep 2022 16:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国能源巨头Uniper考虑向俄罗斯天然气工业股份公司提出损害索赔。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqmmtha7197008.d.html</link>
-            <guid>2800925</guid>
-            <pubDate>Tue, 13 Sep 2022 15:48:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰10月交付的天然气批发价格上涨5.4%，至200.75欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-13/detail-imqqsmrn8972002.d.html</link>
-            <guid>2800921</guid>
-            <pubDate>Tue, 13 Sep 2022 15:37:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
