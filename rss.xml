@@ -4,11 +4,195 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 15 Sep 2022 18:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 21:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  美国国家飓风中心：热带低气压在墨西哥南部形成。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9263035.d.html</link>
+            <guid>2803670</guid>
+            <pubDate>Thu, 15 Sep 2022 20:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总理：波兰将从2023年起固定家庭用电价格】为应对能源危机，当地时间9月15日，波兰总理莫拉维茨基在新闻发布会上宣布，将从2023年起固定家庭用电价格并为能源密集型企业提供支持。为此，波兰政府预计将耗资300亿兹罗提（约合人民币444亿元）。该措施规定，从明年开始，如家庭年用电量不超过2000千瓦时，电价固定。对于残疾人家庭、至少三个孩子的家庭或者农场，这一限制为2600千瓦时。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7491508.d.html</link>
+            <guid>2803640</guid>
+            <pubDate>Thu, 15 Sep 2022 20:42:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦快递盘后股价下跌11%，此前撤销2023财年业绩指引。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9262607.d.html</link>
+            <guid>2803634</guid>
+            <pubDate>Thu, 15 Sep 2022 20:40:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：下调智利评级至A2。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9262596.d.html</link>
+            <guid>2803633</guid>
+            <pubDate>Thu, 15 Sep 2022 20:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新一轮支持政策密集部署 技改投资成制造业增长重要引擎】技改投资正在迎来新一轮政策支持。近期国务院常务会议接连部署针对部分领域设备更新改造的财政金融支持政策，相关部委及地方也出台政策推动工业和技改投资增长。今年以来，制造业技改投资增长势头良好，1至7月保持两位数增速。分析人士表示，系列支持政策有望带动技改投资继续保持较快增长，成为制造业增长的重要引擎。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7491363.d.html</link>
+            <guid>2803629</guid>
+            <pubDate>Thu, 15 Sep 2022 20:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦快递撤销2023财年业绩指引】美国联邦快递撤销2023财年业绩指引，初步估算第一财季调整后EPS为3.44美元，分析师预期5.10美元。初步估算第一财季收入232亿美元，分析师预期235.4亿美元。初步估算第一财季调整后运营利润12.3亿美元，分析师预期17.4亿美元。确认公司将回购15亿美元股票。联邦快递（FDX）美股盘后暴跌8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9262422.d.html</link>
+            <guid>2803615</guid>
+            <pubDate>Thu, 15 Sep 2022 20:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内公募高管变动达269人次 业绩压力或降为次因】近日，鹏华基金发布了关于高级管理人员变更公告，同意聘任刘嵚担任公司副总经理。统计发现，截至9月15日，年内公募包括董事长、总经理和副总经理等高管变动已达269人次，相较去年同期的337人次有了明显减少。多位公募基金人士表示，公募高管变动主要与业务发展、组织架构调整、薪酬和业绩压力有关，业绩压力往往是导致高管变动的主要原因。今年由于市场持续波动，公募赚钱能力有所下降，在整体业绩下滑的态势下，业绩压力或成年内高管变动的次因。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7491228.d.html</link>
+            <guid>2803614</guid>
+            <pubDate>Thu, 15 Sep 2022 20:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【青岛二手住房不再限购 年内已有29城宣布放松商品房限购政策】青岛市住房和城乡建设局官方微信公众号“青岛住房和城乡建设”9月15日发布消息称，将动态完善房地产政策。继续在市南区、市北区(原四方区域除外)实行限购政策；对限购区域内新建商品住房，本地居民限购2套，二孩、三孩家庭可增购1套，外地居民居住满半年限购1套；二手住房不再限购。这是自今年9月1日以来全国范围内第三个发布放松商品房限购政策的城市，其他两个城市分别为宁波市（9月8日发布）和苏州市（9月14日发布）。据不完全统计，自年初至今，放松商品房限购的城市或地区已达到29个。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7491163.d.html</link>
+            <guid>2803608</guid>
+            <pubDate>Thu, 15 Sep 2022 20:31:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国首相特拉斯欲极力说服软银让芯片公司Arm在英国上市】英国首相特拉斯和财政大臣夸滕正准备发起最后的魅力攻势，说服日本软银公司让旗下芯片公司Arm在英国上市。软银此前曾表示，希望将总部位于剑桥的芯片设计公司Arm在纽约上市，因为科技公司在美国上市往往会获得更高的估值。目前，软银高管已开始与英国官员就罕见的两地上市的可能性进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7491036.d.html</link>
+            <guid>2803587</guid>
+            <pubDate>Thu, 15 Sep 2022 20:26:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【离岸人民币对美元汇率“破7” 专家称不存在持续贬值基础】9月15日晚间，离岸人民币对美元汇率盘中“破7”。数据显示，截至北京时间9月15日20时，离岸人民币对美元汇率最低下探至7.0183。在岸人民币对美元汇率也逼近“7”，最低至6.998。对于时隔2年多人民币汇率再次“破7”，民生银行首席经济学家温彬表示，这主要受到美联储为抑制高通胀而加速收紧货币政策的影响。随着美元指数不断走强，包括人民币在内的非美元货币大多出现了不同程度的贬值，与英镑、欧元、日元等主要发达经济体货币相比，人民币贬值幅度相对较小，而且人民币汇率指数总体稳定。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9262232.d.html</link>
+            <guid>2803582</guid>
+            <pubDate>Thu, 15 Sep 2022 20:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roblox(RBLX.N)盘后小幅走低1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7490611.d.html</link>
+            <guid>2803553</guid>
+            <pubDate>Thu, 15 Sep 2022 20:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Roblox(RBLX.N)：预计每个日活用户的平均预订量在3.89美元至3.96美元之间，同比下降14%-16%。]]></title>
+            <guid>2803550</guid>
+            <pubDate>Thu, 15 Sep 2022 20:12:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roblox(RBLX.N)：预计预订量在2.33亿美元和2.37亿美元之间，同比增长5%-7%。]]></title>
+            <guid>2803549</guid>
+            <pubDate>Thu, 15 Sep 2022 20:11:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德州仪器董事会批准提高股息，并授权追加150亿美元股票回购。德州仪器盘后上涨1.19%。]]></title>
+            <guid>2803547</guid>
+            <pubDate>Thu, 15 Sep 2022 20:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Roblox(RBLX.N)：8月收入预计在2.08亿美元至2.11亿美元之间，同比增长22%-24%。]]></title>
+            <guid>2803540</guid>
+            <pubDate>Thu, 15 Sep 2022 20:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Roblox(RBLX.N)：8月日活用户5990万，同比增长24％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9261791.d.html</link>
+            <guid>2803539</guid>
+            <pubDate>Thu, 15 Sep 2022 20:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  尚乘数科(HKD.N)收跌36.64%，股价报120.02美元，周四盘中最高涨超97%。]]></title>
+            <guid>2803537</guid>
+            <pubDate>Thu, 15 Sep 2022 20:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克金龙中国指数初步收跌0.8%，成分股金山云跌超9%，亘喜生物和大全新能源至少跌7.7%，斗鱼跌超6%，晶科能源跌超5.5%，新东方则涨超3.6%，逸仙电商涨超6%。]]></title>
+            <guid>2803528</guid>
+            <pubDate>Thu, 15 Sep 2022 20:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热门中概股多数走低 尚乘数科跌超33%】热门中概股多数走低，尚乘数科跌超33%，斗鱼跌超5%，知乎跌超4%，爱奇艺、理想汽车、小鹏汽车跌超3%，拼多多跌超2%，蔚来、哔哩哔哩、网易跌超1%。盈喜集团涨超13%，趣店涨超1%，京东、腾讯音乐小幅上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9261439.d.html</link>
+            <guid>2803527</guid>
+            <pubDate>Thu, 15 Sep 2022 20:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：英国CPI已见顶，仍预计英国央行将加息50个基点】机构认为，英国央行可能在9月22日的政策会议上再次大幅加息，基本预测是加息50个基点。加息75个基点仍有可能，但机构认为英国政府的紧急能源支持方案可确保明年通胀峰值较低、下降较快，从而减少了加快加息步伐的必要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7490120.d.html</link>
+            <guid>2803524</guid>
+            <pubDate>Thu, 15 Sep 2022 19:57:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：恢复追踪Lucid Group(LCID.O)，给予买入评级和28美元目标价】花旗分析师Itay Michaeli恢复了对Lucid Group(LCID.O)的追踪，给予买入评级和28美元的目标价。该分析师对他之前的评级、目标价或预期没有任何改变。他对Lucid的故事和该公司在电动车市场的地位持积极态度，因为Lucid“展示了领先的电动汽车技术资历，在里程、性能、充电动态和价格方面都是一流的。”]]></title>
+            <guid>2803522</guid>
+            <pubDate>Thu, 15 Sep 2022 19:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞穗：将英伟达(NVDA.O)目标价从225美元降至205美元 维持买入评级】瑞穗银行分析师Vijay Rakesh将英伟达目标价从225美元下调至205美元，并保持对该股的买入评级。Rakesh在研报中称，进入2022年底，美国的超大规模（Hyperscale）市场“仍然强劲”，会有适度的“阻力”。分析师认为，由于宏观担忧，一些超规模企业的增速可能会在2022年底开始放缓。他的调查显示，超大规模的订单出现了“阻力”，但没有完全抵消，第三季度环比持平，第四季度“可能疲软”。此外，Rakesh降低了对AMD(AMD.O)的预期，“宏观经济的不利因素给近期的前景蒙上了阴影。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7489798.d.html</link>
+            <guid>2803501</guid>
+            <pubDate>Thu, 15 Sep 2022 19:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杰富瑞：将诺德斯特龙(JWN.N)评级从持有上调至买入 目标价从21美元升至24美元】杰富瑞分析师Ashley Helgans将诺德斯特龙评级从持有上调至买入，目标价从21美元提升至24美元。该分析师认为，市场对百货公司的预期已经低于普遍预期。Helgans在研报中称，在经济低迷时期，诺德斯特龙的高收入消费者群体是一种“结构性优势”，而该行业过剩的库存可能比预期更有利于Rack折扣店的商品发行。该分析师认为，Rack的自助活动为诺德斯特龙在2023年提供了额外的助力。]]></title>
+            <guid>2803483</guid>
+            <pubDate>Thu, 15 Sep 2022 19:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Evercore ISI：将奈飞(NFLX.O)评级从同业一致上调至跑赢大市 目标价从245美元上调至300美元】Evercore ISI分析师Mark Mahaney将奈飞评级从同业一致上调至跑赢大市，目标价从245美元上调至300美元。Mahaney在研报中称，该公司的广告支持层和密码共享收入机会构成催化剂，可以推动收入增长的“实质性加速”。分析师认为，这些机会并没有被计入华尔街当前预期或股票的当前估值。他认为全球流媒体市场仍然具有吸引力，奈飞商业模式已经证明其经营利润率的杠杆作用，并正在产生大量的自由现金流。]]></title>
+            <guid>2803445</guid>
+            <pubDate>Thu, 15 Sep 2022 19:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3B家居公布最新关闭门店名单】美国家居用品零售商3B家居周四公布了即将关闭的十几家门店的名单，该公司后续总共将关闭150家门店。据悉，该公司上个月公布了将关闭“低生产”门店的计划，总关闭数量（150家）约占其同名门店的20%。关闭门店是该公司试图稳定财务状况、扭转销售下滑趋势的计划的一部分。8月底，该公司在关键的假日季之前获得了超过5亿美元的新融资，其中包括一笔贷款。此外，公司也在裁减员工数量，以节省开支。]]></title>
+            <guid>2803442</guid>
+            <pubDate>Thu, 15 Sep 2022 19:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷：将阿斯利康(AZN.O)评级从跑赢大市下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9259561.d.html</link>
+            <guid>2803427</guid>
+            <pubDate>Thu, 15 Sep 2022 18:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月16日02时35分在四川甘孜州巴塘县（北纬29.91度，东经99.58度）发生3.2级地震，震源深度11千米。]]></title>
+            <guid>2803426</guid>
+            <pubDate>Thu, 15 Sep 2022 18:52:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Atlantic Equities：将艺电(EA.O)评级从超配下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqmmtha7488233.d.html</link>
+            <guid>2803425</guid>
+            <pubDate>Thu, 15 Sep 2022 18:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【波兰8月通胀率达16.1%】当地时间9月15日，波兰中央统计局发布的报告显示，今年8月，波兰的通货膨胀率达到16.1%，是自1997年3月以来的最高值。其中商品价格同比上涨17.5%，服务价格同比上涨11.8%。能源价格在8月份增长最快，同比上涨40.3%，其主要原因是受到供暖燃料价格上涨的推动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9259227.d.html</link>
+            <guid>2803420</guid>
+            <pubDate>Thu, 15 Sep 2022 18:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：将星巴克(SBUX.O)目标价从88美元上调至96美元 维持持股观望评级】摩根士丹利分析师John Glass将对星巴克的目标价上调至96美元，并保持对该股的持股观望评级，此前该公司在其投资者日会议上概述了Glass所谓的“艰巨但可信的计划”，以加速美国市场的销售增长。Glass表示，该公司23-25财年10-12%的收入增长、7-9%的全球同店销售增长、7%的全球单位增长和15-20%的每股收益增长的财务目标，在他看来“可以实现，但十分艰巨”，尽管这些目标“设定了很高的标准，有些人可能认为这将造成负担”。]]></title>
+            <guid>2803419</guid>
+            <pubDate>Thu, 15 Sep 2022 18:38:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼(DIS.N)从2023年的计划中删除了两部电影，其中包括星战电影《侠盗中队》（Rogue Squadron），并推迟了另一部电影的上映时间。]]></title>
+            <guid>2803413</guid>
+            <pubDate>Thu, 15 Sep 2022 18:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据美国证券交易委员会文件：花旗集团(C.N)8月信用卡扣款率为1.33%，7月为1.19%。8月底信用卡拖欠率为0.82%，7月底为0.79%。]]></title>
+            <guid>2803408</guid>
+            <pubDate>Thu, 15 Sep 2022 18:11:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国据称考虑对Uniper增资数十亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9257807.d.html</link>
+            <guid>2803407</guid>
+            <pubDate>Thu, 15 Sep 2022 18:09:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  Atlantic Equities：将动视暴雪(ATVI.O)评级从中性上调至超配，目标价从95美元下调至84美元。]]></title>
             <guid>2803406</guid>
@@ -124,210 +308,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9253448.d.html</link>
             <guid>2803378</guid>
             <pubDate>Thu, 15 Sep 2022 16:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【NOPA：8月豆油库存为15.65亿磅 市场预期为16.58亿磅】据美国油籽加工商协会（NOPA）：8月豆油库存为15.65亿磅，市场预期为16.58亿磅，7月份数据为16.84亿磅，2021年8月数据为16.68亿磅。8月大豆压榨量为1.65538亿蒲式，市场预期为1.6611亿蒲式耳，7月份数据为1.7022亿蒲式，2021年8月数据为1.58843亿蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-16/detail-imqqsmrn9252383.d.html</link>
-            <guid>2803375</guid>
-            <pubDate>Thu, 15 Sep 2022 16:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前8个月全社会用电量同比增长4.4%】国家能源局15日发布今年前8个月全社会用电量数据。今年前8个月全社会用电量累计57839亿千瓦时，同比增长4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7480223.d.html</link>
-            <guid>2803373</guid>
-            <pubDate>Thu, 15 Sep 2022 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前IMF首席经济学家：美国正处于生产力衰退期，通胀程度是可怕的】近日，前国际货币基金组织（IMF）首席经济学家罗格夫（Kenneth Rogoff）发表了一份措辞严厉的经济评估报告，称美国正处于历史上的生产力衰退期，美联储所采取的政策不足以冷却通胀，此时市场尚未能完全消化利率攀升的幅度。罗格夫对美联储愿意冒多大的经济衰退风险来加息表示质疑，他认为美国民众将面临一个十分棘手的问题，那就是在美联储的政策影响下，他们愿意经历多长时间的经济衰退。罗格夫表示，目前数据所显示的通货膨胀程度是可怕的，且美联储前期政策效果不理想，民众真实工资水平比表面上显示的数据更加糟糕。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9251684.d.html</link>
-            <guid>2803372</guid>
-            <pubDate>Thu, 15 Sep 2022 15:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝雅：重申Pinterest(PINS.N)跑赢大市评级和30美元的目标价】贝雅分析师Colin Sebastian重申了他对Pinterest的积极看法，他认为假期购物提前开始可能有助于在第三季度收益报告之前改善其使用/参与趋势。他还认为，在增长和货币化机会方面快速改善的执行力和电子商务能力是潜在的催化剂，而该公司的盈利和可扩展的商业模式以及隐私/IDFA风险较小，应使Pinterest与展示和社交平台区别开来。该分析师重申了他对Pinterest股票的跑赢大市评级和30美元的目标价。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7480158.d.html</link>
-            <guid>2803371</guid>
-            <pubDate>Thu, 15 Sep 2022 15:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安赛乐米塔尔：由于削减产能的缘故，预计公司2022年最后一个季度在欧洲的钢铁产量将会下滑。]]></title>
-            <guid>2803367</guid>
-            <pubDate>Thu, 15 Sep 2022 15:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯游戏海外投资额超1000亿】据中信证券研究报告，自2012年以来，腾讯至少耗费978.67亿元，投资了33家海外游戏公司，包括开发《英雄联盟》的拳头公司、开发《皇室战争》的Supercell。考虑到样本遗漏，其整体投资额当在千亿之巨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9250817.d.html</link>
-            <guid>2803364</guid>
-            <pubDate>Thu, 15 Sep 2022 15:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京津冀国家技术创新中心燕郊中心启动创建】9月15日，2022年北京通州·河北廊坊北三县项目推介洽谈会以“线下线上相结合”的形式举办，分别在通州、廊坊等地设立分会场。推介洽谈会上，启动了京津冀国家技术创新中心燕郊中心创建工作。燕郊中心发展定位是综合性协同创新平台，重点布局先进制造、电子信息、生物医药、新能源、医疗器械与科学仪器、环境保护六大产业，承接京津冀国家技术创新中心成果的试验、放大和试产。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9250579.d.html</link>
-            <guid>2803363</guid>
-            <pubDate>Thu, 15 Sep 2022 15:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西2021年农业总产值同比增长58.6%】巴西国家地理统计局当地时间15日发布的调查结果显示，2021年巴西农业总产值达到7433亿雷亚尔（1雷亚尔约合1.35元人民币），同比（与2020年数据相比）增长58.6%。在农业总产值中，按作物来分，由大豆、玉米、甘蔗所创造的产值位居前三位，分别达到3417亿雷亚尔、1164亿雷亚尔和753亿雷亚尔，同比分别增长102.1%、60.7%和24.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7478993.d.html</link>
-            <guid>2803362</guid>
-            <pubDate>Thu, 15 Sep 2022 15:31:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国评级机构Scope：未来几年意大利公共债务将保持在GDP的145%-150%左右，总融资需求约占GDP的25%-30%。]]></title>
-            <guid>2803359</guid>
-            <pubDate>Thu, 15 Sep 2022 15:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙江恒威：人民币贬值会对公司业绩产生积极影响】浙江恒威(301222)在互动平台表示，公司销售主要以美元等外币定价，人民币贬值将影响公司以外币定价出口产品的市场竞争力，会对公司业绩产生积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9249827.d.html</link>
-            <guid>2803358</guid>
-            <pubDate>Thu, 15 Sep 2022 15:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：加大政策支持和资金投入，分层次分类别分物种布局建设种业基地】9月15日，全国种业基地提升工作推进会在京召开，会议要求，各地各部门务必提高政治站位，强化责任落实，创新工作机制，加大政策支持和资金投入，分层次分类别分物种布局建设种业基地，持续提高农作物基地农田建设标准化、制种全程机械化、种子加工自动化、流程控制信息化和生产服务社会化水平，着力加强畜禽基地场区设施标准化、饲养管理自动化、测定评估智能化和疫病防控立体化建设，搞好基地管理和服务，建立健全良种供应应急保障体系，为从源头上强化粮食安全保障奠定坚实基础。（农业农村部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9249571.d.html</link>
-            <guid>2803357</guid>
-            <pubDate>Thu, 15 Sep 2022 15:17:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯蒂费尔：将Twilio(TWLO.N)目标价下调至80美元，维持持有评级】斯蒂费尔分析师J.Parker Lane将对Twilio的目标价从90美元下调至80美元，并维持对该股的持有评级，此前该公司宣布了一项重组计划，将裁减11%的员工，并表示打算更加重视其软件解决方案组合的销售。虽然削减了对该股的目标价，但Lane认为，鉴于该公司更深入地强调其应用组合和放缓的宏观环境，此时宣布重组计划是谨慎的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9249536.d.html</link>
-            <guid>2803356</guid>
-            <pubDate>Thu, 15 Sep 2022 15:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国－东盟科技创新提升计划正式启动】第10届中国－东盟技术转移与创新合作大会15日在广西南宁召开。科技部部长王志刚在开幕式的线上主旨演讲中宣布，科技部启动实施中国－东盟科技创新提升计划。会议同时宣布中国－东盟技术转移专项行动正式启动，中国－东盟技术转移联盟正式成立，中国－东盟创新创业大赛暨中国－东盟创新创业营正式开启。]]></title>
-            <guid>2803353</guid>
-            <pubDate>Thu, 15 Sep 2022 15:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【为促进销量 亚马逊将允许商家进行电子邮件营销】亚马逊在Amazon Accelerate大会上表示，将允许在其平台上销售产品的品牌向购物者发送营销电子邮件。不过，这是一种促进销售的冒险行为，因为这可能会使用户的收件箱充斥着垃圾邮件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7477441.d.html</link>
-            <guid>2803352</guid>
-            <pubDate>Thu, 15 Sep 2022 15:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：宁波健世科技股份有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9248160.d.html</link>
-            <guid>2803346</guid>
-            <pubDate>Thu, 15 Sep 2022 14:59:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙商证券：电解铝行业受益全球能源危机 供需边际向好】浙商证券研报指出，铝是高密度能量载体。全球能源危机本质是能源系统出现功能性紊乱，对铝供应造成严重干扰：云南汛期反枯，再次遭遇缺电不可避免；欧洲也因能源价格持续高位，减产持续进行。全球能源再平衡需要较长时间，电解铝有望长期受益。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9248102.d.html</link>
-            <guid>2803344</guid>
-            <pubDate>Thu, 15 Sep 2022 14:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川甘孜州、雅安市抗震救灾指挥部终止州级、市级地震灾害一级应急响应】2022年9月5日12时52分，甘孜藏族自治州泸定县发生6.8级地震，造成四川省甘孜州、雅安市严重人员伤亡和重大财产损失。地震发生后，甘孜州、雅安市抗震救灾指挥部立即启动市级地震灾害一级应急响应，经甘孜州委、州人民政府同意，雅安市委、市政府同意，两地抗震救灾指挥部决定从9月15日18时起，终止州级、市级地震一级应急响应，应急救援阶段转入过渡安置及恢复重建阶段。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7476361.d.html</link>
-            <guid>2803340</guid>
-            <pubDate>Thu, 15 Sep 2022 14:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3B家居（BBBY）涨幅收窄至不足1.2%，该公司宣布关闭56家门店，为该公司削减成本行动以来的首次。]]></title>
-            <guid>2803338</guid>
-            <pubDate>Thu, 15 Sep 2022 14:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：美国一些地区的猴痘病例仍在上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9247686.d.html</link>
-            <guid>2803334</guid>
-            <pubDate>Thu, 15 Sep 2022 14:52:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家过敏症和传染病研究所所长福奇：截至9月14日，美国猴痘病例约为23000例，新病例的增长有所下降。]]></title>
-            <guid>2803333</guid>
-            <pubDate>Thu, 15 Sep 2022 14:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  建业地产在港交所公告称，拟在公开市场回购股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7476121.d.html</link>
-            <guid>2803330</guid>
-            <pubDate>Thu, 15 Sep 2022 14:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电信入库数源科技Mate50/Pro套装，将支持5G网络】中国电信终端产品库显示，9月15日，中国电信终端产品库入库“soyealink Mate 50 套装”和“soyealink Mate 50 Pro 套装”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7475806.d.html</link>
-            <guid>2803326</guid>
-            <pubDate>Thu, 15 Sep 2022 14:47:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证券交易委员会（SEC）主席Gensler：投资者希望知道众多公司所面临的气候风险。]]></title>
-            <guid>2803325</guid>
-            <pubDate>Thu, 15 Sep 2022 14:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）主席：美国商品期货交易委员会需要更多地接触加密交易平台。]]></title>
-            <guid>2803324</guid>
-            <pubDate>Thu, 15 Sep 2022 14:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：自8月初以来，新增猴痘病例下降了50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9247116.d.html</link>
-            <guid>2803321</guid>
-            <pubDate>Thu, 15 Sep 2022 14:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：百德医疗投资控股有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7475494.d.html</link>
-            <guid>2803320</guid>
-            <pubDate>Thu, 15 Sep 2022 14:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里健康发布线上用药趋势白皮书】据中证报，9月15日，在杭州举行的2022数字医药产业论坛暨阿里健康大药房6周年现场，阿里健康研究院联合中康科技发布了《2022线上用药趋势白皮书》。《白皮书》显示，购药者行为变化驱动线上高增长，其中“Z世代”和“新老人”群体增速最快，下沉市场用户增长也更为明显。线上医药在帮助提升药品可及性、改善患者用药依从性的同时，也诞生了很多新赛道，新医药趋势在线上全面爆发。中康科技还预测，依托“医+药”逐渐成熟的闭环生态，以及全场景专业药事服务，未来数年医药电商将持续翻倍增长。]]></title>
-            <guid>2803319</guid>
-            <pubDate>Thu, 15 Sep 2022 14:44:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国－东盟科技创新提升计划正式启动】据新华社，第10届中国－东盟技术转移与创新合作大会15日在广西南宁召开。科技部部长王志刚在开幕式的线上主旨演讲中宣布，科技部启动实施中国－东盟科技创新提升计划。会议同时宣布中国－东盟技术转移专项行动正式启动，中国－东盟技术转移联盟正式成立，中国－东盟创新创业大赛暨中国－东盟创新创业营正式开启。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7475446.d.html</link>
-            <guid>2803318</guid>
-            <pubDate>Thu, 15 Sep 2022 14:43:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：非洲的饥饿人口在过去两年猛增了三分之一，影响到1.23亿人。]]></title>
-            <guid>2803316</guid>
-            <pubDate>Thu, 15 Sep 2022 14:43:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国商品期货交易委员会（CFTC）主席：利益冲突是加密货币中的“大问题”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqmmtha7475346.d.html</link>
-            <guid>2803315</guid>
-            <pubDate>Thu, 15 Sep 2022 14:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：下行风险继续主导全球前景，高频数据表明第三季度势头进一步减弱。]]></title>
-            <guid>2803312</guid>
-            <pubDate>Thu, 15 Sep 2022 14:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织发言人：预计经济放缓将在2023年转化为一些国家的经济衰退，但现在判断全球是否会出现大范围衰退还为时尚早。]]></title>
-            <guid>2803311</guid>
-            <pubDate>Thu, 15 Sep 2022 14:32:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA天然气报告：截至9月9日当周，美国天然气库存总量为27710亿立方英尺，较此前一周增加770亿立方英尺，较去年同期减少2230亿立方英尺，同比降幅7.4%，同时较5年均值低3540亿立方英尺，降幅11.3%。]]></title>
-            <guid>2803309</guid>
-            <pubDate>Thu, 15 Sep 2022 14:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登将于当地时间上午11点就铁路纠纷解决发表讲话。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9245679.d.html</link>
-            <guid>2803308</guid>
-            <pubDate>Thu, 15 Sep 2022 14:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：金泉股份、和泰机电首发获通过】证监会公告，扬州金泉旅游用品股份有限公司、杭州和泰机电股份有限公司首发获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9245288.d.html</link>
-            <guid>2803306</guid>
-            <pubDate>Thu, 15 Sep 2022 14:26:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国抵押贷款利率自2008年以来首次超过6％】房地美数据显示，美国30年期按揭/抵押贷款利率上升至6.02%，创2008年11月份以来新高，一周之前为5.89%。融资成本在2022年飙升，已经给美国楼市踩刹车，让那些潜在买家望而止步，销售放缓，房价涨幅放慢。由于购房需求疲软，花旗集团等已经被迫（在按揭贷款业务方面）裁员，并刺激银行（业）高管们针对按揭贷款业务方面的收入下滑发出警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-15/detail-imqqsmrn9245285.d.html</link>
-            <guid>2803305</guid>
-            <pubDate>Thu, 15 Sep 2022 14:25:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
