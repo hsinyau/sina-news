@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 18:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【热带风暴“菲奥娜”已升级为一级飓风 向波多黎各移动】当地时间9月18日，在波多黎各周围活动的热带风暴“菲奥娜”（Fiona）已经升级为一级飓风，正向波多黎各移动。根据气象部门的预测，“菲奥娜”带来的历史性降雨可能会在当地引发山体滑坡和严重洪水。据报道，截至18日早上，波多黎各已有超过32万用户停电。因热带风暴“菲奥娜”引发的洪水已经在位于加勒比海的法属瓜德罗普岛上造成1人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-19/detail-imqqsmrn9589926.d.html</link>
+            <guid>2805643</guid>
+            <pubDate>Sun, 18 Sep 2022 16:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆和田地区皮山县发生3.6级地震】中国地震台网正式测定：23时06分在新疆和田地区皮山县（北纬36.08度，东经77.93度）发生3.6级地震，震源深度10千米， 最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9588444.d.html</link>
+            <guid>2805641</guid>
+            <pubDate>Sun, 18 Sep 2022 15:32:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[拜登顾问Jared Bernstein：美联储加息行动正帮助（拜登政府）给房价降温。]]></title>
             <guid>2805592</guid>
@@ -451,18 +463,6 @@
             <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7792047.d.html</link>
             <guid>2805341</guid>
             <pubDate>Sun, 18 Sep 2022 08:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非电力公司预计周日晚间供电缺口达5282兆瓦。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqmmtha7791985.d.html</link>
-            <guid>2805339</guid>
-            <pubDate>Sun, 18 Sep 2022 08:22:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非电力公司计划在今晚之前恢复部分发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-18/detail-imqqsmrn9555969.d.html</link>
-            <guid>2805338</guid>
-            <pubDate>Sun, 18 Sep 2022 08:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
