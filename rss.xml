@@ -4,428 +4,457 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 20 Sep 2022 09:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 12:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[贝莱德：实施能源价格上限或将扭曲正常的需求反应。]]></title>
-            <guid>2807117</guid>
-            <pubDate>Tue, 20 Sep 2022 09:13:29 GMT</pubDate>
+            <title><![CDATA[俄罗斯天然气工业股份公司股价跌14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9839992.d.html</link>
+            <guid>2807321</guid>
+            <pubDate>Tue, 20 Sep 2022 12:13:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【迦南科技：控股股东及非自然人股东拟减持不超过4%】迦南科技公告，控股股东及非自然人股东拟减持不超过4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8057738.d.html</link>
-            <guid>2807116</guid>
-            <pubDate>Tue, 20 Sep 2022 09:13:08 GMT</pubDate>
+            <title><![CDATA[【国林科技：因供货协议纠纷 万象矿业起诉公司】国林科技公告，公司近日收到香港特别行政区高等法院发出的传讯令状，因与公司《供货协议》纠纷事宜，万象矿业有限公司向香港特别行政区高等法院提起诉讼。涉案的金额：4600万美元。截至公告披露日，该案件已立案受理尚未开庭审理。]]></title>
+            <guid>2807316</guid>
+            <pubDate>Tue, 20 Sep 2022 12:12:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港金管局：为将来可能推出“数码港元”做准备】香港金融管理局今日发表题为《“数码港元”—迈出新一步》的政策立场文件，阐述金管局对零售层面央行数码货币（即“数码港元”或e-HKD）的政策立场及未来发展路向。金管局“金融科技2025”策略的其中一个方向，是加强对央行数码货币的研究工作，让香港能作出充分准备。金管局已从技术及政策层面审视在香港发行“数码港元”的可行性，并分别就高层次技术设计及主要政策与设计事项进行了两轮市场咨询。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9816549.d.html</link>
-            <guid>2807114</guid>
-            <pubDate>Tue, 20 Sep 2022 09:12:24 GMT</pubDate>
+            <title><![CDATA[华大基因：控股子公司产品获得英国MHRA注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8080992.d.html</link>
+            <guid>2807312</guid>
+            <pubDate>Tue, 20 Sep 2022 12:11:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【力量钻石：拟使用不超35亿元闲置募集资金进行现金管理】力量钻石(301071)9月20日晚间公告，公司拟使用不超过35亿元闲置募集资金进行现金管理，拟投资的产品品种包括期限不超过12个月的保本型理财产品、结构性存款和定期存款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8057248.d.html</link>
-            <guid>2807111</guid>
-            <pubDate>Tue, 20 Sep 2022 09:10:44 GMT</pubDate>
+            <title><![CDATA[印度方面表示，债务重组谈判象征着印度支持尽早达成并批准一项适合斯里兰卡的国际货币基金组织方案。]]></title>
+            <guid>2807311</guid>
+            <pubDate>Tue, 20 Sep 2022 12:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【GIC Private Limited对中国中免的持股比例从10.01%降至9.94%】据港交所披露文件，GIC Private Limited于9月15日减持中国中免6.5万股H股，持股比例从10.01%降至9.94%。]]></title>
-            <guid>2807110</guid>
-            <pubDate>Tue, 20 Sep 2022 09:09:40 GMT</pubDate>
+            <title><![CDATA[市场消息：印度开始与斯里兰卡就债务重组进行双边讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8080881.d.html</link>
+            <guid>2807310</guid>
+            <pubDate>Tue, 20 Sep 2022 12:10:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欣旺达：拟213亿元投建义乌新能源动力电池项目】欣旺达(300207)9月20日晚间公告，子公司欣旺达汽车电池拟与义乌市人民政府签署《项目投资协议书》。该项目投资主要从事锂离子动力电池及储能电池等产品的生产和销售，产品涵盖汽车动力电池和储能电池的电芯、模组、PACK及电池系统等。该项目计划总投入约213亿元，其中固定资产投资约160亿元，计划建设动力电池及储能电池总产能约50GWh生产基地。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8056946.d.html</link>
-            <guid>2807109</guid>
-            <pubDate>Tue, 20 Sep 2022 09:09:21 GMT</pubDate>
+            <title><![CDATA[印度延长碎米出口期限至9月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8080307.d.html</link>
+            <guid>2807297</guid>
+            <pubDate>Tue, 20 Sep 2022 12:05:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马来西亚9月1日至20日棕榈油出口量环比增长30.58％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8056917.d.html</link>
-            <guid>2807108</guid>
-            <pubDate>Tue, 20 Sep 2022 09:09:02 GMT</pubDate>
+            <title><![CDATA[【深康佳A：Mini LED芯片已具备量产能力】深康佳A披露调研活动信息公告，公司正在积极推进产业化工作，已建成Micro LED全制程批量生产线，Micro LED芯片开始进入量产阶段，Mini LED芯片已具备量产能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8080270.d.html</link>
+            <guid>2807296</guid>
+            <pubDate>Tue, 20 Sep 2022 12:04:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[罗曼股份：上海诚毅拟减持不超过1.85%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9815722.d.html</link>
-            <guid>2807106</guid>
-            <pubDate>Tue, 20 Sep 2022 09:08:08 GMT</pubDate>
+            <title><![CDATA[思摩尔国际：全资子公司深圳麦时科技有限公司收到烟草专卖局颁发的烟草专卖生产企业许可证，有效期限自2022年9月5日至2023年9月30日。]]></title>
+            <guid>2807289</guid>
+            <pubDate>Tue, 20 Sep 2022 12:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【极端天气导致韩国蔬菜大幅减产价格暴涨 中国产泡菜成救兵】受罕见高温、暴雨、台风等极端天气影响，近来韩国蔬菜大幅减产，价格暴涨，韩国农林畜产食品部表示，9月11日至19日，首尔可乐市场一颗白菜的批发价高达8992韩元，比本月1日至10日上涨了28%。韩国泡菜价格涨不停，相对价格低廉的中国产泡菜进口量持续增长，韩国关税厅进出口贸易统计显示，今年前8个月，韩国进口中国产泡菜累计1.986亿美元（约合13.9亿元人民币），同比增长27.6%。尤其是8月单月泡菜进口额达1337.6万美元（约合9381万元人民币），同比大增41.1%，关税厅预计中国产泡菜进口将持续增长。]]></title>
-            <guid>2807105</guid>
-            <pubDate>Tue, 20 Sep 2022 09:07:44 GMT</pubDate>
+            <title><![CDATA[印度石油部：政府已经收到了有关暴利税征收方式、税率、责任确定等方面的交涉和要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8079530.d.html</link>
+            <guid>2807287</guid>
+            <pubDate>Tue, 20 Sep 2022 11:58:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【晶科科技与郴电国际、苏文电能签订75MW/150MWH集中式共享储能合作协议】9月15日，晶科科技与郴电国际、苏文电能正式签署《75MW/150MWH集中式共享储能项目合作框架协议》。根据协议，三方将共同布局郴州储能项目建设，推动光储能源一体化发展，为地区低碳转型，绿能发展添力赋能。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8056508.d.html</link>
-            <guid>2807104</guid>
-            <pubDate>Tue, 20 Sep 2022 09:06:23 GMT</pubDate>
+            <title><![CDATA[印度方面称，有关石油暴利税审查的报告具有误导性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8079524.d.html</link>
+            <guid>2807286</guid>
+            <pubDate>Tue, 20 Sep 2022 11:58:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音(BA.N)盘前拉升转涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8056129.d.html</link>
-            <guid>2807103</guid>
-            <pubDate>Tue, 20 Sep 2022 09:04:00 GMT</pubDate>
+            <title><![CDATA[【聚胶股份：目前暂未涉及大健康产业领域】聚胶股份在互动平台表示，公司产品目前主要用于卫生巾、婴儿纸尿裤、成人失禁用品、宠物垫、医疗防护垫等，目前暂未涉及大健康产业领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9838085.d.html</link>
+            <guid>2807285</guid>
+            <pubDate>Tue, 20 Sep 2022 11:56:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国民航恢复737MAX新飞机引进即将完成全部流程】9月14日，民航局与波音公司在浙江舟山组织召开了737MAX飞机运行评审（即AEG评审）专题会议，旨在评审737系列改进后的整体机型训练规范。据悉，预期会议提出的疑问解决后，民航局将发布《波音737系列飞机航空器评审报告》第二次修订，标志着中国民航恢复737MAX新飞机引进即将完成全部流程。（中国民航报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9814702.d.html</link>
-            <guid>2807102</guid>
-            <pubDate>Tue, 20 Sep 2022 09:02:20 GMT</pubDate>
+            <title><![CDATA[【Eviation电动飞机在跑道完成高速滑行测试 最大航程814公里】以色列初创公司Eviation此前已推出纯电动飞机Alice。近日，该电动飞机Alice已完成在跑道上高速滑行的测试。在本次测试中，其从停机坪中行驶至跑道，并成功在高速滑行中抬起来机头，让起落架离地，但该飞机并未升空。该飞机最大航程为814公里，巡航速度为407公里/时，可容纳9名乘客和2名机组人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9838065.d.html</link>
+            <guid>2807284</guid>
+            <pubDate>Tue, 20 Sep 2022 11:56:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[广发证券：中国证监会同意公司向专业投资者公开发行面值总额不超过100亿元次级公司债券的注册申请。该批复自同意注册之日起24个月内有效。]]></title>
-            <guid>2807101</guid>
-            <pubDate>Tue, 20 Sep 2022 09:00:44 GMT</pubDate>
+            <title><![CDATA[  【天娱数科：公司第一大股东变更为朱晔】天娱数科公告，9月16日股东恒丰银行通过大宗交易方式减持695.04万股上市公司股份，其持有的上市公司股份比例从5.420064%减少至4.999995%。本次权益变动后，恒丰银行不再是公司第一大股东。朱晔成为公司第一大股东；公司仍处于无控股股东、无实际控制人的状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9837887.d.html</link>
+            <guid>2807279</guid>
+            <pubDate>Tue, 20 Sep 2022 11:53:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【匈牙利外长：欧盟不应再对俄施加制裁】当地时间9月20日，匈牙利外交部长西雅尔多表示，欧盟不应该再向俄罗斯施加制裁。他表示，施加新的制裁只能加剧欧洲的能源危机，损害欧洲自身。俄乌冲突爆发以来，欧盟与美国一道对俄罗斯施加多轮制裁，但由于不少欧盟国家长期依赖俄罗斯能源供应，其反噬作用令欧盟处境窘迫。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8055347.d.html</link>
-            <guid>2807100</guid>
-            <pubDate>Tue, 20 Sep 2022 09:00:07 GMT</pubDate>
+            <title><![CDATA[【郑州保交楼出台新举措：交房即发证】为进一步攻坚化解问题楼盘，近日，郑州市将全面实施保交楼项目“交房即发证”工作，对全市范围内经确认的停工项目自重新启动后，确保在交房时，资料齐全申请办理不动产登记的购房人能当天拿到不动产权证。根据要求，地方政府要落实属地职责，压实企业自救主体责任，维护购房人合法权益，对全市范围内经确认的停工项目在规定时间内全部重新开工建设并纳入“交房即发证”范围。同时，在市问题楼盘领导小组的指导下，资源规划局、房管局、城建局、公安局、税务局等职能部门依照各自职能提前介入、主动服务、容缺受理、并联审批、限时办结，确保在交房时，对于资料齐全的购房人能当天拿到不动产权证。（正观新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9837683.d.html</link>
+            <guid>2807278</guid>
+            <pubDate>Tue, 20 Sep 2022 11:52:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【思进智能：股东拟继续减持公司不超3.8%股份】思进智能9月20日晚间公告，股东宁波富博睿祺创业投资中心（有限合伙）累计减持公司股份309.22万股，占公司总股本的2.0533%。此次减持完成后，富博睿祺尚持有公司股份1481.15万股，占公司总股本的9.0761%。富博睿祺计划以集中竞价交易或大宗交易方式继续减持公司股份累计不超过620万股（占公司总股本比例3.7992%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8055196.d.html</link>
-            <guid>2807099</guid>
-            <pubDate>Tue, 20 Sep 2022 08:59:15 GMT</pubDate>
+            <title><![CDATA[思摩尔国际：9月20日全资子公司深圳麦时科技有限公司收到烟草专卖局颁发的烟草专卖生产企业许可证，有效期限自2022年9月5日至2023年9月30日。]]></title>
+            <guid>2807274</guid>
+            <pubDate>Tue, 20 Sep 2022 11:49:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百宏实业：投资5.18亿元用于扩产越南30万吨聚酯瓶片项目】百宏实业公告，将进一步在越南投资7390万美元(约合人民币5.18亿元)扩产聚酯瓶片产线。包括购买20万平米的土地，建设1.4万平米的新厂房，预计新增产能为30万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813876.d.html</link>
-            <guid>2807098</guid>
-            <pubDate>Tue, 20 Sep 2022 08:57:52 GMT</pubDate>
+            <title><![CDATA[据消息人士称，德国政府接近收购Uniper，预计成本超过300亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8078431.d.html</link>
+            <guid>2807272</guid>
+            <pubDate>Tue, 20 Sep 2022 11:47:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝壳(BEKE.N)：于9月19日回购50.2万股，回购价格为5.86-6.01美元，共耗资约300万美元。]]></title>
-            <guid>2807096</guid>
-            <pubDate>Tue, 20 Sep 2022 08:57:03 GMT</pubDate>
+            <title><![CDATA[【普京：俄半年内已出口价值60亿美元军事装备】9月20日，俄罗斯总统普京与国防工业企业领导座谈时表示，俄罗斯国防工业在六个月内向国外出口了价值60亿美元的军事装备。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9837094.d.html</link>
+            <guid>2807271</guid>
+            <pubDate>Tue, 20 Sep 2022 11:46:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德尔股份：控股股东之一致行动人拟减持不超过1.79%】德尔股份公告，控股股东之一致行动人拟减持不超过1.793%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813701.d.html</link>
-            <guid>2807095</guid>
-            <pubDate>Tue, 20 Sep 2022 08:56:40 GMT</pubDate>
+            <title><![CDATA[泰国财长：泰国仍然吸引着投资者和资本流入。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9837025.d.html</link>
+            <guid>2807268</guid>
+            <pubDate>Tue, 20 Sep 2022 11:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海波重科：与金智科技签订战略合作协议】海波重科公告，与江苏金智科技股份有限公司签订战略合作协议，在光伏建设一体化、储能等新能源领域，双方根据具体项目情况将以共同投资成立项目公司等多种形式进一步深化合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813679.d.html</link>
-            <guid>2807094</guid>
-            <pubDate>Tue, 20 Sep 2022 08:56:27 GMT</pubDate>
+            <title><![CDATA[德国能源巨头Uniper发言人表示，所有各方都在紧急努力实现Uniper的可持续稳定，谈判正在进行中。]]></title>
+            <guid>2807267</guid>
+            <pubDate>Tue, 20 Sep 2022 11:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委穆勒：现在必须对抗通胀，否则以后就必须大幅加息。需要“足够强大、果断的”政策措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813625.d.html</link>
-            <guid>2807093</guid>
-            <pubDate>Tue, 20 Sep 2022 08:55:57 GMT</pubDate>
+            <title><![CDATA[泰国财长：由于美元快速走强，泰铢疲软。没有对泰铢汇率水平设定目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8077880.d.html</link>
+            <guid>2807262</guid>
+            <pubDate>Tue, 20 Sep 2022 11:41:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家飓风中心：飓风“菲奥娜”造成多米尼加共和国东部地区仍在发生强降雨和危及生命的暴洪。]]></title>
-            <guid>2807092</guid>
-            <pubDate>Tue, 20 Sep 2022 08:55:25 GMT</pubDate>
+            <title><![CDATA[【海尔智家：回购约1796万港元H股和620万元A股】海尔智家在港交所发布公告，当日回购70万股H股，回购价格为25.45-25.85港元，共耗资约1796万港元；同日回购24.1万股A股，回购价格为25.65-25.95元，共耗资约620万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8077860.d.html</link>
+            <guid>2807261</guid>
+            <pubDate>Tue, 20 Sep 2022 11:41:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国信证券现4.17亿元溢价大宗交易 机构卖出】国信证券今日收跌0.34%，报8.83元。该股当日出现4.17亿元溢价大宗交易，成交价为8.86元/股，买方为中信证券北京总部证券营业部，卖方为机构专用席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813536.d.html</link>
-            <guid>2807091</guid>
-            <pubDate>Tue, 20 Sep 2022 08:55:07 GMT</pubDate>
+            <title><![CDATA[印度央行行长：印度央行始终关注任何不必要的风险，并根据需要随时作出响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9836427.d.html</link>
+            <guid>2807259</guid>
+            <pubDate>Tue, 20 Sep 2022 11:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【双汇发展现2.06亿元溢价大宗交易 机构卖出 】双汇发展今日收跌0.56%，报24.75元。该股当日出现2.06亿元溢价大宗交易，成交价为24.77元/股，买方为中信证券北京总部证券营业部，卖方为机构专用席位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9813128.d.html</link>
-            <guid>2807090</guid>
-            <pubDate>Tue, 20 Sep 2022 08:52:21 GMT</pubDate>
+            <title><![CDATA[印度央行行长：创新必须是负责任的，并要提高金融体系的效率和弹性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8077432.d.html</link>
+            <guid>2807257</guid>
+            <pubDate>Tue, 20 Sep 2022 11:38:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海启动清理规范行动 打击寄生在银行保险产业链上的不法中介】近期上海银保监局启动清理规范金融中介活动专项行动，旨在进一步规范清理辖内银行保险机构与各类中介的合作，防范相关风险向银行保险体系传导，发现和打击寄生在银行保险产业链上的不法中介，促进金融服务直达消费者。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8053947.d.html</link>
-            <guid>2807089</guid>
-            <pubDate>Tue, 20 Sep 2022 08:50:30 GMT</pubDate>
+            <title><![CDATA[海尔智家在港交所发布公告，当日回购70万股，耗资约1796万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9835963.d.html</link>
+            <guid>2807253</guid>
+            <pubDate>Tue, 20 Sep 2022 11:35:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【前8月青海省对“一带一路”沿线国家合计进出口增长1.4倍】今年前8个月，青海省进出口总值28.8亿元，增速高于全国46.7个百分点，其中对“一带一路”沿线国家合计进出口增长1.4倍。据西宁海关统计，2022年前8个月，青海省进出口总值增速排名全国第2位。据西宁海关负责人介绍，前8个月，青海省对“一带一路”沿线国家合计进出口10.3亿元，增长1.4倍，对RCEP成员国合计进出口11.2亿元，增长1.8倍；其中东盟、几内亚、日本、南非、新加坡为前五大贸易伙伴。 (中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9812611.d.html</link>
-            <guid>2807088</guid>
-            <pubDate>Tue, 20 Sep 2022 08:49:38 GMT</pubDate>
+            <title><![CDATA[芬兰能源公司Fortum：关于Uniper未来的谈判正在进行中，但没有达成交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9835937.d.html</link>
+            <guid>2807252</guid>
+            <pubDate>Tue, 20 Sep 2022 11:35:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[保加利亚天然气公司Bulgargaz CEO：保加利亚将于今日启动液化天然气项目招标。]]></title>
-            <guid>2807087</guid>
-            <pubDate>Tue, 20 Sep 2022 08:48:38 GMT</pubDate>
+            <title><![CDATA[【高盛在亚洲裁撤至少25名银行家】市场消息：据知情人士透露，因资本市场波动抑制各行业交易，高盛在亚洲至少裁减了25名银行家。此次裁员涉及该行在亚洲的股票资本市场、医疗保健、电信、媒体和技术团队。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8077122.d.html</link>
+            <guid>2807251</guid>
+            <pubDate>Tue, 20 Sep 2022 11:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国移动：移动业务8月净增客户数210.9万，本年累计净增客户数1,635万。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9812392.d.html</link>
-            <guid>2807086</guid>
-            <pubDate>Tue, 20 Sep 2022 08:48:23 GMT</pubDate>
+            <title><![CDATA[【深圳将打造全球首个5G引领的智能网联交通测试基地】据“深圳发布”今日消息，位于深圳市坪山区的深圳智能网联交通测试平台规划中的第二阶段主体区域土建工程近日正式启动，预计2023年建成交付使用，将打造全球首个立体化布局的未来城市交通体系和5G引领的智能网联交通测试基地。]]></title>
+            <guid>2807249</guid>
+            <pubDate>Tue, 20 Sep 2022 11:34:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆巴达拉能源公司(Mubadala Energy）在马来西亚发现天然气储层。]]></title>
-            <guid>2807084</guid>
-            <pubDate>Tue, 20 Sep 2022 08:45:43 GMT</pubDate>
+            <title><![CDATA[西班牙能源部长：西班牙可能将天然气增值税减税延长至12月31日之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9835773.d.html</link>
+            <guid>2807248</guid>
+            <pubDate>Tue, 20 Sep 2022 11:33:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【王毅阐述中国自身发展和对美政策确定性】当地时间9月19日，国务委员兼外长王毅在纽约与美中关系全国委员会、美中贸易全国委员会、美国商会代表成员进行座谈交流。针对当前中美关系前景中的确定性越来越少，不确定性越来越多，王毅阐述了中国的五个“确定性”。王毅表示，中国自身的发展前景是确定的，中国改革开放的决心是确定的，中国对美政策是确定的，中国继续加强两国经贸合作的态度是确定的，中国同美方开展多边协调的意愿是确定的。王毅表示，必须维护好中美关系的政治基础，尤其是切实恪守一个中国原则。（央视新闻）]]></title>
-            <guid>2807083</guid>
-            <pubDate>Tue, 20 Sep 2022 08:45:11 GMT</pubDate>
+            <title><![CDATA[印度央行行长：周二将推出三款新的金融科技产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8076892.d.html</link>
+            <guid>2807245</guid>
+            <pubDate>Tue, 20 Sep 2022 11:32:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：09月20日16时17分在墨西哥（北纬18.40度，西经103.55度）发生5.9级地震，震源深度10千米。]]></title>
-            <guid>2807082</guid>
-            <pubDate>Tue, 20 Sep 2022 08:42:42 GMT</pubDate>
+            <title><![CDATA[【宝馨科技：拟签署《项目投资合作协议》及成立合资公司】宝馨科技：拟与张春福教授、朱卫东副教授、安徽大禹实业集团有限公司就“HJT-钙钛矿叠层、钙钛矿电池”产业化技术开发及产品推广达成合作意向，拟签署《项目投资合作协议》及成立合资公司。合资公司负责开展钙钛矿-异质结叠层电池技术的研发、开展钙钛矿-异质结叠层电池产业化技术研究以及商业化解决方案推广，并将相应技术应用于公司异质结电池项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8076489.d.html</link>
+            <guid>2807240</guid>
+            <pubDate>Tue, 20 Sep 2022 11:29:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本全国住宅用地均价31年来首次同比上涨】当地时间9月20日，日本国土交通省发布的2022年基准地价统计数据显示，日本全国所有用地均价相比上一年上涨0.3%，为3年来首次出现正增长。其中，住宅用地均价较去年上涨0.1%，是1991年以来首次同比上涨。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8051868.d.html</link>
-            <guid>2807079</guid>
-            <pubDate>Tue, 20 Sep 2022 08:38:04 GMT</pubDate>
+            <title><![CDATA[【奥特维：签订9200万元硅片分选机销售合同】奥特维公告，近日与中启江苏太阳能科技有限公司签订《产品设备供销合同》，公司向中启江苏太阳能科技有限公司销售硅片分选机，合同金额约9200万元。因公司商品平均验收周期为6-9个月，受本合同具体交货批次及验收时间的影响，合同履行对2022年业绩影响存在不确定性，将对公司2023年经营业绩产生积极的影响。]]></title>
+            <guid>2807238</guid>
+            <pubDate>Tue, 20 Sep 2022 11:25:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【公元股份：控股子公司新三板挂牌申请获受理】公元股份9月20日晚间公告，控股子公司浙江公元新能源科技股份有限公司在全国中小企业股份转让系统挂牌申请获得受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8051565.d.html</link>
-            <guid>2807078</guid>
-            <pubDate>Tue, 20 Sep 2022 08:35:59 GMT</pubDate>
+            <title><![CDATA[印度央行行长：致力于分阶段实施中央银行数字货币。]]></title>
+            <guid>2807237</guid>
+            <pubDate>Tue, 20 Sep 2022 11:25:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[天源环保：中标2.5亿元获嘉县生活垃圾焚烧发电建设项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8051506.d.html</link>
-            <guid>2807077</guid>
-            <pubDate>Tue, 20 Sep 2022 08:35:24 GMT</pubDate>
+            <title><![CDATA[【国际能源署呼吁到2035年全球禁止汽油和柴油汽车的销售】在今日发布的一份报告中，国际能源署（IEA）表示，全球在向净零交通运输过渡方面取得的进展没有达到《巴黎协定》的目标。研究显示，电动汽车需要增加，到2030年，全球电动汽车的比例需要从目前的1%提高到20%~25%，与此同时，60%售出的新车也需要实现零排放。该机构呼吁，到2035年在全球范围内禁止销售汽油和柴油汽车，此外，各国政府应商定一个时间表，决定何时所有新销售的道路车辆应实现零排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8076027.d.html</link>
+            <guid>2807236</guid>
+            <pubDate>Tue, 20 Sep 2022 11:24:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[普洛药业：吸入用乙酰半胱氨酸溶液获得药品注册证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8051340.d.html</link>
-            <guid>2807076</guid>
-            <pubDate>Tue, 20 Sep 2022 08:34:08 GMT</pubDate>
+            <title><![CDATA[【土耳其总统埃尔多安：普京近期透露愿尽快结束俄乌冲突】据俄罗斯塔斯社消息，当被PBS记者问及如何看待俄乌冲突结束的时间表时，埃尔多安表示，俄罗斯的态度在这个问题上至关重要。“在乌兹别克斯坦（撒马尔罕），我与普京总统会了面，我们与他进行了非常广泛的讨论。”埃尔多安接着说：“俄总统实际上向我表明他愿意尽快结束这一切，这是我的印象。” (澎湃)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9834730.d.html</link>
+            <guid>2807235</guid>
+            <pubDate>Tue, 20 Sep 2022 11:24:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【郑州第二批供地3宗地块终止出让，供地数量减至14宗】据新京报，9月20日，河南省郑州市公共资源交易中心官网显示，郑州市今年第二批集中供地计划中的3宗地块终止挂牌出让。至此，郑州市本批次集中供应土地数量减至14宗，总起始价约103.24亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9810130.d.html</link>
-            <guid>2807075</guid>
-            <pubDate>Tue, 20 Sep 2022 08:33:48 GMT</pubDate>
+            <title><![CDATA[【万润新能中签号出炉 共约1.48万个】万润新能披露首次公开发行股票网上中签结果，中签号码共有14835个，每个中签号码只能认购500股万润新能股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8075892.d.html</link>
+            <guid>2807234</guid>
+            <pubDate>Tue, 20 Sep 2022 11:23:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天津拟提高这些家庭首套房公积金贷款额度】9月20日，天津市住房公积金管理中心发布了“关于《关于调整租房提取住房公积金和个人住房公积金贷款有关政策的通知（征求意见稿）》公开征求意见的公告”。其中提到：养育未成年二孩及以上多子女的本市缴存职工，符合租房提取住房公积金条件的，可按照实际房租支出提取住房公积金；申请个人住房公积金贷款购买家庭首套住房的，贷款最高限额以本市统一贷款限额为基础上浮20%。（津云微信公号）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9810102.d.html</link>
-            <guid>2807074</guid>
-            <pubDate>Tue, 20 Sep 2022 08:33:35 GMT</pubDate>
+            <title><![CDATA[【纳思达：控股子公司通过ISO 26262功能安全管理体系认证】纳思达公告，公司控股子公司珠海极海半导体有限公司于2022年9月20日收到国际独立第三方检测、检验和认证机构德国TÜV莱茵颁发的ISO 26262功能安全管理体系认证证书。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8075630.d.html</link>
+            <guid>2807233</guid>
+            <pubDate>Tue, 20 Sep 2022 11:20:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度方面表示，针对斯里兰卡危机，印度将继续支持斯里兰卡，特别是通过促进长期投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8051190.d.html</link>
-            <guid>2807073</guid>
-            <pubDate>Tue, 20 Sep 2022 08:33:04 GMT</pubDate>
+            <title><![CDATA[泰国财长：泰国财政部将很快与泰国央行就泰铢疲软问题举行会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9834307.d.html</link>
+            <guid>2807232</guid>
+            <pubDate>Tue, 20 Sep 2022 11:20:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百度糯米App将于12月停止服务 称因公司业务调整】百度糯米发布App下线公告称，因公司业务调整，百度糯米App将停止服务与运营，预计将于2022年12月正式停止相关服务。目前，百度糯米官网已无法访问用户个人数据，百度糯米App已在各主要应用商店下架。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809942.d.html</link>
-            <guid>2807072</guid>
-            <pubDate>Tue, 20 Sep 2022 08:32:32 GMT</pubDate>
+            <title><![CDATA[商汤：于9月20日回购610万股，回购价格为1.94-1.98港元，共耗资约1192.8万港元。]]></title>
+            <guid>2807230</guid>
+            <pubDate>Tue, 20 Sep 2022 11:18:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海临港：全资子公司拟以公开挂牌方式引入战略投资者】上海临港9月20日晚间公告，公司全资子公司高科技园公司拟通过公开挂牌方式增资扩股引入战略投资者，增资金额不超过30亿元。增资扩股完成后，公司持有高科技园公司的股权比例预计不低于84.38%，引入的战略投资者持股比例不高于15.62%，公司仍为高科技园公司的控股股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809892.d.html</link>
-            <guid>2807071</guid>
-            <pubDate>Tue, 20 Sep 2022 08:32:00 GMT</pubDate>
+            <title><![CDATA[纳思达：控股子公司通过ISO 26262功能安全管理体系认证。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9833999.d.html</link>
+            <guid>2807229</guid>
+            <pubDate>Tue, 20 Sep 2022 11:17:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委穆勒：从历史上看，现在的利率水平仍然很低。利率远未达到能使经济放缓的限制性水平。]]></title>
-            <guid>2807070</guid>
-            <pubDate>Tue, 20 Sep 2022 08:31:46 GMT</pubDate>
+            <title><![CDATA[【上海天洋：与一道新能源签订2023年太阳能电池封装胶膜战略合作协议】上海天洋公告，全资子公司昆山天洋与一道新能源签订2023年太阳能电池封装胶膜战略合作协议。2023年度，一道新能源向公司之全资子公司昆山天洋采购不低于0.36GW组件所需的纯POE胶膜；2.2GW组件所需的双玻胶膜（EVA搭配共挤POE），月度平均采购数量纯POE不低于30万平米、双玻胶膜（EVA搭配共挤POE）不低于170万平米（合计约2400万平米）。最终销售金额以实际交付数量及订单价格为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9833728.d.html</link>
+            <guid>2807227</guid>
+            <pubDate>Tue, 20 Sep 2022 11:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汤加一火山48小时内喷发8次 当地提高预警级别至橙色】根据汤加地质服务局消息，汤加主岛以北一座火山在过去48小时内喷发了8次。当局提醒海员注意和火山保持距离。报道称，过去10天，该火山持续喷出熔岩，并形成大量火山灰。随着喷发速度加快，当地已将预警级别提高至橙色，飞行员在飞越火山附近空域时要小心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8050954.d.html</link>
-            <guid>2807068</guid>
-            <pubDate>Tue, 20 Sep 2022 08:31:17 GMT</pubDate>
+            <title><![CDATA[腾讯音乐：公司将不迟于9月21日（星期三）上午八时三十分（香港时间）披露（其中包括）代表A类普通股的美国存托股份届时在上一个交易日于纽交所的收市价。预期A类普通股将于9月21日（星期三）开始在香港联交所买卖。]]></title>
+            <guid>2807226</guid>
+            <pubDate>Tue, 20 Sep 2022 11:14:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海峡环保：瑞力投资拟减持不超过1.31%】海峡环保公告，瑞力投资拟减持不超过1.31%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8050894.d.html</link>
-            <guid>2807067</guid>
-            <pubDate>Tue, 20 Sep 2022 08:30:58 GMT</pubDate>
+            <title><![CDATA[【四川成渝高速公路：控股股东已累计增持约1.23亿港元 完成原定计划】四川成渝高速公路在港交所发布公告，自2022年4月21日至2022年9月20日，公司控股股东蜀道集团通过联交所及上交所港股通交易系统累计增持公司6109.6万股H股股份，约占公司总股本的1.998%，累计增持金额约为1.23亿港元。截至公告披露日，蜀道集团本次增持计划实施完毕。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9833315.d.html</link>
+            <guid>2807225</guid>
+            <pubDate>Tue, 20 Sep 2022 11:12:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国信证券：上市证券做市交易业务资格获核准】国信证券公告，近日，公司收到中国证监会《关于核准国信证券股份有限公司上市证券做市交易业务资格的批复》，根据相关规定，中国证监会核准公司上市证券做市交易业务资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8050821.d.html</link>
-            <guid>2807066</guid>
-            <pubDate>Tue, 20 Sep 2022 08:30:43 GMT</pubDate>
+            <title><![CDATA[【蓝帆医疗：子公司产品获得中国NMPA批准注册】蓝帆医疗公告，子公司山东吉威医疗制品有限公司研发和生产的创新医疗器械产品“优美莫司涂层冠状动脉球囊扩张导管”于近日获得国家药品监督管理局（NMPA）的批准注册。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9833016.d.html</link>
+            <guid>2807224</guid>
+            <pubDate>Tue, 20 Sep 2022 11:10:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国宝安：石墨烯材料是贝特瑞的种子业务，尚处于培育阶段】中国宝安在投资者互动平台表示，石墨烯材料是贝特瑞的种子业务，尚处于培育阶段，目前暂未贡献业绩及利润。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8050755.d.html</link>
-            <guid>2807065</guid>
-            <pubDate>Tue, 20 Sep 2022 08:30:26 GMT</pubDate>
+            <title><![CDATA[【城发环境：中标2亿元内黄县农村生活垃圾清运项目】城发环境公告，中标2亿元内黄县农村生活垃圾清运项目；中标舞阳县城乡生活垃圾转运站项目，中标成交价为105.5元/吨；中标西华县农村生活垃圾清运项目，中标成交价为125元/吨。]]></title>
+            <guid>2807223</guid>
+            <pubDate>Tue, 20 Sep 2022 11:06:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【五矿稀土：拟将证券简称变更为“中国稀土”】五矿稀土9月20日晚间公告，公司拟将名称由原“五矿稀土股份有限公司”变更为“中国稀土集团资源科技股份有限公司”，证券简称由“五矿稀土”变更为“中国稀土”。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809600.d.html</link>
-            <guid>2807064</guid>
-            <pubDate>Tue, 20 Sep 2022 08:30:09 GMT</pubDate>
+            <title><![CDATA[【城发环境：中标2亿元内黄县农村生活垃圾清运项目】城发环境公告，中标2亿元内黄县农村生活垃圾清运项目；中标舞阳县城乡生活垃圾转运站项目，中标成交价为105.5元/吨；中标西华县农村生活垃圾清运项目，中标成交价为125元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8073526.d.html</link>
+            <guid>2807221</guid>
+            <pubDate>Tue, 20 Sep 2022 11:04:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿美CEO：十年前就已经有明显的能源危机信号了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809378.d.html</link>
-            <guid>2807062</guid>
-            <pubDate>Tue, 20 Sep 2022 08:28:28 GMT</pubDate>
+            <title><![CDATA[美国证券交易委员会(SEC)在声明中宣布与摩根士丹利达成和解，SEC称公司在更换服务器时未保护客户数据安全，摩根士丹利没有承认或否认这些指控，摩根士丹利将支付3500万美元罚款。]]></title>
+            <guid>2807220</guid>
+            <pubDate>Tue, 20 Sep 2022 11:03:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【丰元股份今日涨停 两机构净买入9044.95万元】丰元股份今日涨停，成交额9.18亿元，换手率13.18%，盘后龙虎榜数据显示，两机构净买入9044.95万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809200.d.html</link>
-            <guid>2807061</guid>
-            <pubDate>Tue, 20 Sep 2022 08:27:29 GMT</pubDate>
+            <title><![CDATA[【海目星：拟定增募资不超过20亿元】海目星公告，拟定增募资不超过20亿元，用于西部总部及激光智能装备制造基地项目（一期）、海目星激光智造中心项目、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8073164.d.html</link>
+            <guid>2807218</guid>
+            <pubDate>Tue, 20 Sep 2022 11:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲地中海地震中心：墨西哥米却肯州发生5.6级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9809176.d.html</link>
-            <guid>2807060</guid>
-            <pubDate>Tue, 20 Sep 2022 08:27:13 GMT</pubDate>
+            <title><![CDATA[【惠云钛业：拟6.3亿元投建年产10万吨新能源材料磷酸铁项目】惠云钛业公告，拟以自有或自筹资金投资建设年产10万吨新能源材料磷酸铁项目，项目建设工期预计为12个月，项目总投资预计为6.3亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8072779.d.html</link>
+            <guid>2807215</guid>
+            <pubDate>Tue, 20 Sep 2022 10:59:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【永安药业：与浙江双子签订不超过5000万元框架协议】永安药业9月20日晚间公告，目前，根据公司技术改造和项目建设需要，此前协议已不能满足公司实际需求，因此董事会决定加大与浙江双子智能装备有限公司的合作力度，重新与其签订交易总金额不超过5000万元的《设备制造及系统集成框架协议》，该协议签订后，原交易总金额不超过1000万元协议终止。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8050174.d.html</link>
-            <guid>2807059</guid>
-            <pubDate>Tue, 20 Sep 2022 08:26:10 GMT</pubDate>
+            <title><![CDATA[【阳光电源回应“广发基金巨额持仓”、“欧洲限电价格政策影响”等问题】阳光电源回应“广发基金巨额持仓”、“欧洲限电价格政策影响”等问题：基金持仓是各基金基于对公司价值判断自由选择的结果；欧洲近期限电电价政策不是针对家庭和终端消费者，目前消费端电价仍在高位，估计对未来储能和光伏市场影响有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8072718.d.html</link>
+            <guid>2807214</guid>
+            <pubDate>Tue, 20 Sep 2022 10:58:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2022世界制造业大会在安徽合肥开幕】由工信部、科技部、商务部、国务院国资委、中国工程院、国务院发展研究中心、全国工商联、全国对外友协、中国中小企业协会、全球中小企业联盟、安徽省人民政府共同主办的2022世界制造业大会在安徽省合肥市开幕。本次大会以“制造世界 创造美好”为主题，紧扣制造业发展趋势和热点，旨在进一步凝聚各方共识，搭建促进制造业创新发展与交流合作平台。大会围绕新能源汽车、新一代信息技术、高端装备制造、新材料、智能家电等发布了15项重大创新产品，进行了央企、民企、外企、港澳企、台企、侨企“六百”项目签约，设置了平行论坛及展览展示、大会发布、线上展会等活动。]]></title>
-            <guid>2807057</guid>
-            <pubDate>Tue, 20 Sep 2022 08:25:46 GMT</pubDate>
+            <title><![CDATA[【证监会同意2家企业科创板IPO注册】证监会同意北京晶品特装科技股份有限公司、赛恩斯环保股份有限公司首次公开发行股票并在科创板上市的注册申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9831575.d.html</link>
+            <guid>2807213</guid>
+            <pubDate>Tue, 20 Sep 2022 10:58:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄气：“西伯利亚力量”天然气管道将临时中断供气】当地时间9月20日，俄罗斯天然气工业股份公司发布消息说，“西伯利亚力量”天然气管道的天然气运输将于9月22日至29日期间暂停，原因是将进行管道维修工作。（央视新闻）]]></title>
-            <guid>2807056</guid>
-            <pubDate>Tue, 20 Sep 2022 08:25:21 GMT</pubDate>
+            <title><![CDATA[腾讯控股：目前没有减持股份的计划或时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9831564.d.html</link>
+            <guid>2807212</guid>
+            <pubDate>Tue, 20 Sep 2022 10:58:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【钧达股份今日涨停 两机构净买入1.24亿元】钧达股份今日涨停，成交额12.05亿元，换手率4.59%，盘后龙虎榜数据显示，两机构净买入1.24亿元，四机构净卖出1.15亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9808919.d.html</link>
-            <guid>2807055</guid>
-            <pubDate>Tue, 20 Sep 2022 08:25:00 GMT</pubDate>
+            <title><![CDATA[市场消息：德国接近达成将能源巨头Uniper国有化的协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8072357.d.html</link>
+            <guid>2807211</guid>
+            <pubDate>Tue, 20 Sep 2022 10:55:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【匈牙利大部分加油站将在下周断油】据报道，从9月19日起，匈牙利天然气和石油巨头MOL只能提供所需燃料的四分之一。MOL解释说，油气供应短缺的原因是为了保持匈牙利燃料订单和供应的可预测性。这家油气巨头的声明也涉及汽油和柴油的交付。与其他欧洲国家一样，匈牙利政府决定在今年年底前维持燃料和基本食品的价格上限。匈牙利的汽油和柴油价格将保持在每升480匈牙利福林(1.19欧元/升)。这样做的代价是很快就没有汽油和柴油了。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9808598.d.html</link>
-            <guid>2807053</guid>
-            <pubDate>Tue, 20 Sep 2022 08:22:27 GMT</pubDate>
+            <title><![CDATA[【美国西南边境不到一年内抓捕无证移民逾215万人】美国海关与边境保护局公布的数据显示，在截至今年8月的11个月内，超过215万名无证移民在美国西南边境被捕。海关与边境保护局局长克里斯·马格努斯在新闻发布会上说，今年在西南边境抓捕并驱逐的无合法理由居留美国人员“将多于以往任何一年”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9830835.d.html</link>
+            <guid>2807210</guid>
+            <pubDate>Tue, 20 Sep 2022 10:52:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【优彩资源：上海凯峰拟减持不超过2%】优彩资源公告，上海凯峰拟减持不超过2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9808055.d.html</link>
-            <guid>2807052</guid>
-            <pubDate>Tue, 20 Sep 2022 08:19:02 GMT</pubDate>
+            <title><![CDATA[【欧盟能源监管机构将为电价设立上限 以应对电价飙升】欧盟能源监管机构合作局（ACER）将为每日电价设定一个坚实的上限，以帮助遏制能源危机对家庭和企业的冲击。现在对次日拍卖的制度是，如果任何单一小时内价格达到上限的60%，则最高清算价格自动上涨1000欧元（1002.3美元）/百万瓦时。该局还呼吁输电系统运营商提高跨境容量，否则将对欧盟的供应安全造成进一步的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8071975.d.html</link>
+            <guid>2807209</guid>
+            <pubDate>Tue, 20 Sep 2022 10:52:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美迪凯：丰盛佳美拟减持不超过2%股份】美迪凯公告，丰盛佳美拟减持不超过2%股份。同日公告，拟将所持有智能光电4.1%股权和5.35%股权分别以322.85万元和421.27万元的对价转让给美迪凯一号、美迪凯二号。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9807953.d.html</link>
-            <guid>2807051</guid>
-            <pubDate>Tue, 20 Sep 2022 08:18:36 GMT</pubDate>
+            <title><![CDATA[【健康元：发行GDR并在瑞士证券交易所上市的招股说明书获批准】健康元公告，发行GDR并在瑞士证券交易所上市的招股说明书获得瑞士证券交易所监管局招股书办公室批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9830623.d.html</link>
+            <guid>2807208</guid>
+            <pubDate>Tue, 20 Sep 2022 10:50:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三安光电股价跌逾7%，回应称网络传闻为假消息】9月20日，三安光电股价跌幅为7.05%。当日，有用户在网络平台发帖称，三安光电有相关人士中午在办公室被带走。对此，三安光电工作人员回应称，该传闻为假消息。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9807928.d.html</link>
-            <guid>2807050</guid>
-            <pubDate>Tue, 20 Sep 2022 08:18:12 GMT</pubDate>
+            <title><![CDATA[【遭旱情重创 美国得州棉花预计减产约六成】得州棉花通常在3月至6月种植，8月至12月收获。全美约四成棉花产自得州。法新社20日援引美国农业部数据报道，得州今年棉花预计减产58%。全美产量同比下降21%，创2015年以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9830591.d.html</link>
+            <guid>2807207</guid>
+            <pubDate>Tue, 20 Sep 2022 10:50:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【艾比森：公司虚拟拍摄全场景LED显示解决方案已应用于全球主要国家的虚拟摄影棚等场景】艾比森在接受调研时表示，目前公司推出的虚拟拍摄全场景LED显示解决方案已成功应用于美国、中国、英国、法国、俄罗斯、加拿大等全球主要国家的虚拟摄影棚、演播室、XR舞台等场景，取得了良好的市场反馈，行业优势显著。]]></title>
-            <guid>2807048</guid>
-            <pubDate>Tue, 20 Sep 2022 08:16:44 GMT</pubDate>
+            <title><![CDATA[市场消息：高通支持的无人机制造商ideaForge据悉将考虑在2023年在印度进行1.25亿美元的IPO。]]></title>
+            <guid>2807206</guid>
+            <pubDate>Tue, 20 Sep 2022 10:48:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[今日0时至14时，西藏新增无症状感染者51例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9807108.d.html</link>
-            <guid>2807036</guid>
-            <pubDate>Tue, 20 Sep 2022 08:11:43 GMT</pubDate>
+            <title><![CDATA[【天宜上佳：与京西重工（上海）签订战略合作协议 合作设计开发高性能汽车碳陶制动盘】天宜上佳公告，与京西重工（上海）有限公司签订战略合作协议，双方共同合作设计开发高性能汽车碳陶制动盘。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8071548.d.html</link>
+            <guid>2807205</guid>
+            <pubDate>Tue, 20 Sep 2022 10:47:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人福医药：氯巴占片获得药品注册证书】人福医药公告，氯巴占片获得药品注册证书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8048084.d.html</link>
-            <guid>2807033</guid>
-            <pubDate>Tue, 20 Sep 2022 08:11:09 GMT</pubDate>
+            <title><![CDATA[德商银行CEO：投资收入正在放缓。抵押贷款下降，房地产没有崩盘。未看到抵押贷款违约率上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9830242.d.html</link>
+            <guid>2807204</guid>
+            <pubDate>Tue, 20 Sep 2022 10:46:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩电池商希望美国豁免从中国采购原材料】韩国电动汽车电池制造商希望美国对一项要求其在中国以外地区多元化采购的法律提供豁免。今年8月美国通过《通胀削减法案》法案，旨在提高美国国内电动汽车产量，减少对中国原材料的依赖。根据这部法律，电池制造商到2023年须从中国以外地区采购至少40%的矿物原材料，到2027年这一比例将升至80%。韩国的电池制造商中许多与特斯拉、通用汽车、福特汽车等美国汽车制造商有合作关系。根据韩国贸易部，当前该国电动汽车电池制造商58%的锂、64%的钴、70%的石墨来自中国。韩国电动汽车电池制造商金肯尼（音译自Kenny Kim）在首尔会议间隙上表示，如果美国关于《通胀削减法案》不对韩国电池制造商提供豁免或优待，这些企业可能难以满足严格的要求，或从2024年开始无法遵守。（财联社）]]></title>
-            <guid>2807032</guid>
-            <pubDate>Tue, 20 Sep 2022 08:10:49 GMT</pubDate>
+            <title><![CDATA[【经济衰退将成为英国劳动力市场的转折点】受能源成本和通货膨胀的影响，英国许多企业都被迫裁员。在生产力下降和衰退担忧加剧之后，英国劳动力市场连续10个月的积极招聘意向将结束。据行业研究机构BDO报告，BDO就业指数自2021年10月以来逐月上升，然而，劳动力市场目前正处于一个转折点，随着企业在未来几个月保持谨慎，对衰退的担忧预计将给就业带来下行压力。BDO合伙人和中部地区负责人Kyla Bellingall表示，能源成本上升和其他通胀压力是我们可以预期的未来将继续面对的逆风，这将加剧企业和消费者在今年冬天感受到的经济和政治不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8071390.d.html</link>
+            <guid>2807203</guid>
+            <pubDate>Tue, 20 Sep 2022 10:46:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【长春高新回应“集采假消息做空事件”：已注意到股东维护合法权益】9月20日，针对“长春高新集采假消息做空事件”，长春高新表示，公司积极关注此事件，公司注意到部分股东通过合法渠道维护个人合法权益，但相关事实还需依靠监管机构查证，公司这边没有太多能回应的。(界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8047626.d.html</link>
-            <guid>2807030</guid>
-            <pubDate>Tue, 20 Sep 2022 08:08:56 GMT</pubDate>
+            <title><![CDATA[中国平安(02318.HK)：将于10月26日（星期三）举行董事会会议，以考虑及通过本集团截至2022年9月30日止九个月之第三季度业绩，以及处理其他任何事项。]]></title>
+            <guid>2807201</guid>
+            <pubDate>Tue, 20 Sep 2022 10:41:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【有色协会锡业分会：8月锡精矿进口金属量下滑超40%】中国有色金属工业协会锡业分会发布的数据显示，根据中国海关数据以及安泰科的折算，2022年8月我国锡精矿进口实物量17227吨，折金属量3601.1吨，环比下滑41.2%，同比下滑1.4%。主要进口来源地中，来自东南亚、南美洲以及非洲的主要锡生产区的进口含锡量均呈现出下降趋势，仅澳洲进口量有所增长。截至2022年8月末，我国累计进口锡精矿4.6万吨金属量，同比增长63.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8047546.d.html</link>
-            <guid>2807029</guid>
-            <pubDate>Tue, 20 Sep 2022 08:08:25 GMT</pubDate>
+            <title><![CDATA[【华光新材：与浙江省电子智造专委会签署战略合作协议】华光新材公告，9月17日，公司与浙江省电子学会电子智造专业委员会在电子领域建立战略合作伙伴关系，签署战略合作协议。华光新材提供给电子智造专委会相关企业锡焊膏、银浆等电子连接材料以及相应的连接技术支持服务。电子智造专委会会员单位为华光新材电子连接材料和连接技术的应用推广提供试样及批量使用的机会，加快先进电子连接材料和技术的国产化进程。]]></title>
+            <guid>2807200</guid>
+            <pubDate>Tue, 20 Sep 2022 10:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黑龙江省人民检察院原党组成员、副厅级检察员董金山被开除党籍】据黑龙江省纪委监委消息：日前，经黑龙江省委批准，黑龙江省纪委监委对省人民检察院原党组成员、副厅级检察员董金山严重违纪违法问题进行了立案审查调查。经省纪委常委会会议研究并报省委批准，决定给予董金山开除党籍处分；按规定取消其享受的待遇；收缴其违纪违法所得；将其涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。]]></title>
-            <guid>2807028</guid>
-            <pubDate>Tue, 20 Sep 2022 08:08:03 GMT</pubDate>
+            <title><![CDATA[【江龙船艇：子公司与香港政府签订1.78亿港元销售合同】江龙船艇公告，子公司澳龙船艇科技有限公司与中华人民共和国香港特别行政区政府签订重大销售合同，合同标的为3艘铝合金海洋清洁船，总金额为1.78亿港元，折算约1.58亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8070341.d.html</link>
+            <guid>2807199</guid>
+            <pubDate>Tue, 20 Sep 2022 10:38:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国铁合金工业协会铬系专业委员会召开信息交流会议 强调实质性减产限产】中国铁合金工业协会铬系专业委员会9月20日召开信息沟通交流会议。会议对多数铬系合金生产企业通过减产限产、计划性检修、降低生产负荷等措施进而调整市场供需关系、强化行业自律、最大限度维持行业健康发展的做法给予充分肯定。会议强调，铬系合金行业面临严峻考验的根源在于供需错配，解决问题的落脚点还是要通过实质性减产限产来进一步有效调整供需关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9806385.d.html</link>
-            <guid>2807027</guid>
-            <pubDate>Tue, 20 Sep 2022 08:07:50 GMT</pubDate>
+            <title><![CDATA[【Pilbara锂精矿拍卖价刷新历史纪录 机构：大超预期】澳洲Pilbara锂精矿第九次拍卖落锤，本次锂精矿最终成交价6988美元/吨（5.5%品位，FOB德黑兰港），折合6%品位的中国到岸价为7713美元/吨，高出上一次拍卖价10%，再一次刷新历史纪录。民生证券邱祖学团队认为，Pilbara锂精矿此次拍价相较于上次拍价上涨10%，最终拍卖价格大超预期。对于锂价长短期走向的判断，邱祖学团队认为随着今年第四季度大规模的正极材料产能投产及消费旺季，以及锂精矿的成本支撑，短期价格大概率将再创新高；长期来看供需仍然维持紧平衡，且云母等低品位锂资源整体大幅抬高边际成本曲线至15-20万多区间，算上合理的利润和投资回报率，长期锂价中枢将维持在25-30万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9829002.d.html</link>
+            <guid>2807198</guid>
+            <pubDate>Tue, 20 Sep 2022 10:37:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特汽车盘前跌4.5%，公司表示，第三季度与通胀相关的供应商成本将比最初预期高出约10亿美元。]]></title>
-            <guid>2807025</guid>
-            <pubDate>Tue, 20 Sep 2022 08:05:19 GMT</pubDate>
+            <title><![CDATA[【东瑞股份：获得追加2022年度活大猪供港澳配额】东瑞股份9月20日晚间公告，公司于近日收到广东省商务厅来函，根据《广东省商务厅关于下达2022年度供港澳活畜禽配额的通知》确定的配额动态管理原则，结合企业实际供应进度及申请，现追加公司2022年度活大猪供港配额26206头、供澳配额101头。]]></title>
+            <guid>2807197</guid>
+            <pubDate>Tue, 20 Sep 2022 10:36:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[雾芯科技(RLX.N)盘前涨3.4%，将于明日美股盘前发布财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8046959.d.html</link>
-            <guid>2807024</guid>
-            <pubDate>Tue, 20 Sep 2022 08:04:21 GMT</pubDate>
+            <title><![CDATA[【瑞声科技与镭昱半导体达成战略合作】近日，瑞声科技与Micro-LED微显示解决方案提供商镭昱半导体达成战略合作，并领投镭昱Pre-A++轮融资。该资金将用于全彩Micro-LED微显示芯片的研发迭代、团队投入及小规模量产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8070094.d.html</link>
+            <guid>2807196</guid>
+            <pubDate>Tue, 20 Sep 2022 10:35:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：欧洲投资银行不会资助天然气项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8046832.d.html</link>
-            <guid>2807020</guid>
-            <pubDate>Tue, 20 Sep 2022 08:03:08 GMT</pubDate>
+            <title><![CDATA[【友邦保险：回购约1.78亿港元股票】友邦保险在港交所发布公告，当日斥资约1.78亿港元回购股份248.5万股，每股回购价格为71.25-71.85港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8070037.d.html</link>
+            <guid>2807195</guid>
+            <pubDate>Tue, 20 Sep 2022 10:35:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本航空自卫队和德国空军将首次在日进行共同训练】据日本广播协会报道，日本航空自卫队宣布，德国空军的3架战斗机将于本月28日飞抵茨城县百里基地，与日方3架F-2战斗机进行共同训练。这将是日本航空自卫队和德国空军首次在日本国内进行共同训练。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8046627.d.html</link>
-            <guid>2807018</guid>
-            <pubDate>Tue, 20 Sep 2022 08:01:45 GMT</pubDate>
+            <title><![CDATA[【罗平锌电：拟2089万元新建节能增效富氧制备项目】罗平锌电公告，拟新建节能增效富氧制备项目，投资总额预计人民2088.56万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9828499.d.html</link>
+            <guid>2807194</guid>
+            <pubDate>Tue, 20 Sep 2022 10:32:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元区7月季调后经常帐逆差198.59亿欧元，前值为顺差42亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9805523.d.html</link>
-            <guid>2807016</guid>
-            <pubDate>Tue, 20 Sep 2022 08:01:20 GMT</pubDate>
+            <title><![CDATA[太古股份公司A(00019.HK)在港交所发布公告，当日斥资约2520.8万港元回购43.8万股，回购价格为每股56.35-58.35港元。]]></title>
+            <guid>2807193</guid>
+            <pubDate>Tue, 20 Sep 2022 10:30:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国明年将为乌克兰提供至少26.3亿美元的军事援助】据路透社报道，英国首相办公室当地时间9月20日表示，英国2023年对乌克兰的军事援助将达到或超过2022年的23亿英镑（约合26.3亿美元）。英国首相特拉斯办公室在一份声明中说，英国对乌克兰的军事支持可能包括多管火箭发射系统等军事装备。（央视新闻）]]></title>
-            <guid>2807015</guid>
-            <pubDate>Tue, 20 Sep 2022 07:59:11 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：09月20日18时23分在四川甘孜州巴塘县发生3.4级地震，震源深度11千米。]]></title>
+            <guid>2807192</guid>
+            <pubDate>Tue, 20 Sep 2022 10:30:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部：中国是推动世界经济增长的稳定器和动力源】9月20日，外交部发言人汪文斌主持例行记者会。有记者就日前国家统计局发布党的十八大以来中国经济社会发展成就系列报告提问。发言人汪文斌表示，报告显示2021年中国经济总量占世界经济的比重达到18.5%，比2012年提高了7.2个百分点。近10年间，中国对世界经济增长的平均贡献率超过30%，位居世界第一。这充分表明中国是推动世界经济增长的稳定器和动力源。近年来经济全球化遭遇逆流，单边主义保护主义上升，世界经济形势低迷，面对困难和挑战，中方坚信开放合作是历史大势，互利共赢是人心所向。我们坚持实施更大范围、更宽领域、更深层次对外开放，着力促进贸易和投资自由化、便利化，持续打造市场化、国际化、法治化营商环境，让中国市场成为世界的市场、共享的市场、大家的市场，为世界经济复苏注入更多动力和稳定性。未来，中国开放的大门不仅不会关闭，而且会越开越大。中方愿同世界各国一道，秉持开放包容、互利共赢的精神，拓展各领域务实合作，让世界各国更好分享中国发展的机遇。（央视新闻）]]></title>
-            <guid>2807014</guid>
-            <pubDate>Tue, 20 Sep 2022 07:58:45 GMT</pubDate>
+            <title><![CDATA[【华光新材：与浙江省电子智造专委会签署战略合作协议】华光新材(688379)9月20日晚间公告，9月17日，公司与浙江省电子学会电子智造专业委员会（简称“电子智造专委会”）在电子领域建立战略合作伙伴关系，签署战略合作协议。华光新材提供给电子智造专委会相关企业锡焊膏、银浆等电子连接材料以及相应的连接技术支持服务。电子智造专委会会员单位为华光新材电子连接材料和连接技术的应用推广提供试样及批量使用的机会，加快先进电子连接材料和技术的国产化进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9828022.d.html</link>
+            <guid>2807191</guid>
+            <pubDate>Tue, 20 Sep 2022 10:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航天机电：意大利高级法院接受GSE上诉申请 确认关于削减MILIS公司电站补贴决定】航天机电公告，公司收到通知，意大利行政高级法院（简称CdS）就公司海外电站项目公司MILIS公司与意大利政府能源服务管理部门（简称GSE）关于FIT标准诉讼发布了判决结果：意大利行政高级法院接受意大利能源服务管理部门的上诉申请，确认了意大利能源服务管理部门在2018年发布的关于削减MILIS公司电站补贴的决定，推翻了2021年11月6日拉齐奥大区行政法院（TAR）出具的判决。同日公告，公司拟启动为子公司连云港新能源引入具有资源优势的外部投资者，实现对原有老旧产线的升级改造。本次拟通过国有产权交易所引入战略合作方增资总额不低于8000万元。如出资资产包含非货币性资产，须为具备生产182/210大尺寸的光伏组件产线。]]></title>
-            <guid>2807013</guid>
-            <pubDate>Tue, 20 Sep 2022 07:57:55 GMT</pubDate>
+            <title><![CDATA[【东瑞股份：获得追加2022年度活大猪供港澳配额】东瑞股份公告，获得追加2022年度活大猪供港配额26206头、供澳配额101头。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8069125.d.html</link>
+            <guid>2807190</guid>
+            <pubDate>Tue, 20 Sep 2022 10:29:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世界黄金协会：预计黄金交易量和消费需求9月将回升】世界黄金协会今日发布的报告显示，若各国央行继续大力加息，黄金则可能持续承压，但经济滞胀甚至全面衰退的风险或许会抵消这一压力，因为黄金在该环境下的表现历来出色。短期来看，预计黄金交易量和消费需求9月将回升。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9804816.d.html</link>
-            <guid>2807012</guid>
-            <pubDate>Tue, 20 Sep 2022 07:56:03 GMT</pubDate>
+            <title><![CDATA[小米集团(01810.HK)：于9月20日回购240万股，回购价格为10.04-10.08港元，共耗资约2417万港元。]]></title>
+            <guid>2807189</guid>
+            <pubDate>Tue, 20 Sep 2022 10:28:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金博股份：与中科星城签订战略合作协议】金博股份公告，与湖南中科星城石墨有限公司签订战略合作协议，共同研发和应用满足锂电池负极领域应用的碳基复合材料高温热场材料及新型高温热场产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqmmtha8068818.d.html</link>
+            <guid>2807187</guid>
+            <pubDate>Tue, 20 Sep 2022 10:26:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[电子信息司副司长徐文立表示，2022年上半年，新进网手机中有128款支持北斗，出货量合计1.32亿部，出货量占比达98.5%。(新京报)]]></title>
+            <guid>2807186</guid>
+            <pubDate>Tue, 20 Sep 2022 10:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰控股(HSBC.N)CEO：汇丰计划今年完成转型计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9827404.d.html</link>
+            <guid>2807185</guid>
+            <pubDate>Tue, 20 Sep 2022 10:23:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股腾讯概念股盘前走低，贝壳(BEKE.N)跌超3%，哔哩哔哩(BILI.O)跌近2%，腾讯音乐(TME.N)跌近1%。]]></title>
+            <guid>2807184</guid>
+            <pubDate>Tue, 20 Sep 2022 10:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鞍重股份：年产1万吨碳酸锂生产线正式投产】鞍重股份公告，近日，公司控股孙公司领能锂业年产2万吨磷酸铁锂生产线（一期）建设项目暨年产1万吨电池级碳酸锂生产线经两个月的设备调试，正式投产运行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-09-20/detail-imqqsmrn9826706.d.html</link>
+            <guid>2807182</guid>
+            <pubDate>Tue, 20 Sep 2022 10:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
