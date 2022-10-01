@@ -4,11 +4,46 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 01 Oct 2022 18:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 21:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国总统拜登批准北卡罗来纳州进入紧急状态】根据美国白宫发布的声明，美国总统拜登于当地时间10月1日批准北卡罗来纳州进入紧急状态，并下令联邦政府提供援助，以帮助应对飓风“伊恩”对当地造成的影响。（央视）]]></title>
+            <guid>2817104</guid>
+            <pubDate>Sat, 01 Oct 2022 20:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度北方邦发生一起交通事故至少22人死亡】印度一辆载有近50人的拖拉机10月1日傍晚在北方邦行驶时坠入路边池塘，导致至少22人死亡，另有多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqqsmrp1257440.d.html</link>
+            <guid>2817073</guid>
+            <pubDate>Sat, 01 Oct 2022 20:31:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国防长访问乌克兰敖德萨】德国国防部长克里斯蒂娜·兰布雷希特10月1日到访乌克兰敖德萨。访问期间，兰布雷希特向基辅方面承诺，将在未来几天内向乌克兰交付IRIS-T防空系统。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9535065.d.html</link>
+            <guid>2817042</guid>
+            <pubDate>Sat, 01 Oct 2022 19:44:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【限电、限价、征收暴利税！欧盟批准这一紧急措施】欧洲理事会近日宣布，正式批准欧盟委员会此前建议的有关控制能源价格的紧急措施。措施的三大要点是：限电、限价、征收暴利税。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9534409.d.html</link>
+            <guid>2817023</guid>
+            <pubDate>Sat, 01 Oct 2022 19:19:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月1日起 从事电子烟生产经营应持烟草专卖许可证！】根据监管规定，10月1日起，从事电子烟生产经营的电子烟市场主体应当取得烟草专卖许可证。依法取得烟草专卖许可证的电子烟生产企业、雾化物生产企业、电子烟用烟碱生产企业、电子烟批发企业、电子烟零售主体等应当通过电子烟交易管理平台进行交易。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9533621.d.html</link>
+            <guid>2817012</guid>
+            <pubDate>Sat, 01 Oct 2022 18:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗首都培训中心爆炸死亡人数升至35人】联合国阿富汗援助团10月1日在社交媒体发文说，阿首都喀布尔此前一天发生的培训中心爆炸袭击死亡人数已升至35人，另有82人受伤，其中大部分是年轻女性。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqqsmrp1253703.d.html</link>
+            <guid>2817001</guid>
+            <pubDate>Sat, 01 Oct 2022 18:15:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【尼加拉瓜宣布与荷兰断交】尼加拉瓜政府9月30日晚宣布与荷兰断绝外交关系。尼加拉瓜外交部在当晚的外交照会中谴责荷兰对尼持有“干涉主义和新殖民主义”立场，威胁并中止为尼原住民和非洲裔社区建立医院等共同利益项目。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-02/detail-imqmmtha9531935.d.html</link>
@@ -386,27 +421,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1205687.d.html</link>
             <guid>2816571</guid>
             <pubDate>Sat, 01 Oct 2022 06:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：热带风暴“Orlene”将继续向北移动，预计本周晚些时候将经过墨西哥哈利斯科州西部。]]></title>
-            <guid>2816566</guid>
-            <pubDate>Sat, 01 Oct 2022 05:51:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【雄安新区至忻州高速铁路正式开工建设】设计时速350公里、正线全长342公里的雄安新区至忻州高速铁路（简称雄忻高铁）正式开工建设。建设工期4.5年。线路东起京雄城际铁路雄安站，向西经河北省雄安新区、保定市，至山西省忻州市，接入大同至西安高铁忻州西站。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-01/detail-imqqsmrp1203241.d.html</link>
-            <guid>2816565</guid>
-            <pubDate>Sat, 01 Oct 2022 05:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：泽连斯基声称“不会再与普京和谈”】据今日俄罗斯电视台网站报道，乌克兰总统泽连斯基9月30日在社交媒体上说，只要普京继续担任俄罗斯总统，他就拒绝通过谈判达成和平解决方案。 泽连斯基声称，他“始终建议平等、诚实、有尊严和公平地与俄罗斯共存”，并且把谈判失败归咎于俄罗斯，坚称“很显然，与现任俄罗斯总统是不可能谈判的”。他写道：“我们愿意与俄罗斯对话，但已经是与另一位俄罗斯总统对话。” 报道注意到，与他在社交媒体上的大多数帖子不同，这一篇是完全用乌克兰文写的，没有附带英文翻译。 报道指出，泽连斯基多次拒绝莫斯科提出的和平建议，最近一次是拒绝了普京9月30日提出的恢复谈判的建议。（参考消息）]]></title>
-            <guid>2816564</guid>
-            <pubDate>Sat, 01 Oct 2022 05:46:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中企投建柬埔寨首条高速公路开通试运营】10月1日，由中国企业投资建设运营的柬埔寨金港高速公路开通试运营。开通试运营活动在金港高速公路金边站和西哈努克站同时举行。柬埔寨公共工程与运输部国务秘书伊特布纳、西哈努克省省长郭宗仁，以及中企代表等出席当天的活动。金港高速公路是柬埔寨首条高速公路。据悉，试运营启动前，已有500多名一线属地工作人员经过中企培训及考核后上岗。（央视）]]></title>
-            <guid>2816563</guid>
-            <pubDate>Sat, 01 Oct 2022 05:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
