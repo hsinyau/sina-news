@@ -6,6 +6,13 @@
     "description": "新浪全球实时财经新闻",
     "items": [
         {
+            "id": 2818099,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9715042.d.html",
+            "title": "“特斯拉劲敌”Rivian三季度产量7,363辆，交付6,584两。维持全年产量25,000辆的预期不变，分析师预期26,273辆。Rivian（RIVN）美股盘后上涨3%。",
+            "date_modified": "2022-10-03T20:42:57.000Z"
+        },
+        {
             "id": 2818071,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1428426.d.html",
@@ -149,60 +156,6 @@
             "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1419417.d.html",
             "title": "丰田汽车美国9月总销量同比增长17.1%。",
             "date_modified": "2022-10-03T14:32:18.000Z"
-        },
-        {
-            "id": 2817997,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418874.d.html",
-            "title": "市场消息：意大利法院撤销对苹果和亚马逊的1.73亿欧元反垄断罚款。",
-            "date_modified": "2022-10-03T14:24:26.000Z"
-        },
-        {
-            "id": 2817995,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1418643.d.html",
-            "title": "【乌总理：欧盟将向乌克兰提供50亿欧元宏观金融援助】乌克兰国家通讯社10月3日报道称，乌克兰总理什梅加尔当天在其官方社交账户上宣布，欧盟已签署谅解备忘录，将向乌克兰提供50亿欧元的宏观金融援助。（央视新闻）",
-            "date_modified": "2022-10-03T14:21:20.000Z"
-        },
-        {
-            "id": 2817993,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9701086.d.html",
-            "title": "卡塔尔二季度GDP同比增长6.3%。",
-            "date_modified": "2022-10-03T14:20:19.000Z"
-        },
-        {
-            "id": 2817983,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9700127.d.html",
-            "title": "【2022年北京马拉松将于11月6日举行】据北京马拉松赛事官网消息，2022年贝壳北京马拉松将于11月6日举行，起点为天安门广场，终点为奥林匹克公园景观大道。选手报名工作将于10月4日10时启动，10月7日10时截止。",
-            "date_modified": "2022-10-03T14:05:54.000Z"
-        },
-        {
-            "id": 2817980,
-            "content_html": "",
-            "title": "美国8月营建支出月率 -0.7%，预期-0.30%，前值-0.40%。美国8月营建支出月率录得-0.7%，为2021年2月以来最大降幅。",
-            "date_modified": "2022-10-03T14:02:40.000Z"
-        },
-        {
-            "id": 2817974,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9699252.d.html",
-            "title": "英国央行表示，它在购债操作中购买了2210万英镑的英国国债。",
-            "date_modified": "2022-10-03T13:53:00.000Z"
-        },
-        {
-            "id": 2817973,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1416570.d.html",
-            "title": "美国国家飓风中心：飓风“Orlene”在墨西哥西南部登陆。",
-            "date_modified": "2022-10-03T13:51:25.000Z"
-        },
-        {
-            "id": 2817972,
-            "content_html": "",
-            "title": "数位卫星通信供应商卫讯公司(VSAT.O)复牌涨超19%，国防技术承包商L3Harris(LHX.N)涨2.3%，L3Harris宣布以约19.6亿美元收购卫讯战术数据链路（TDL）产品线。",
-            "date_modified": "2022-10-03T13:50:53.000Z"
         }
     ]
 }
