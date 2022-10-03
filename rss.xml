@@ -4,11 +4,383 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 03 Oct 2022 09:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 12:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[西班牙财政部：将在周四发行2029年、2032年和2050年到期的价值高达5亿欧元的债券。]]></title>
+            <guid>2817904</guid>
+            <pubDate>Mon, 03 Oct 2022 12:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大至9月30日全国经济信心指数 46.47，前值47.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1408234.d.html</link>
+            <guid>2817902</guid>
+            <pubDate>Mon, 03 Oct 2022 12:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：飓风“Orlene”的中心接近墨西哥西南部海岸，强风、强降雨和危险的风暴潮正在向海岸蔓延。]]></title>
+            <guid>2817901</guid>
+            <pubDate>Mon, 03 Oct 2022 11:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将巴里克黄金(GOLD.N)目标价从28美元下调至16美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9690215.d.html</link>
+            <guid>2817899</guid>
+            <pubDate>Mon, 03 Oct 2022 11:54:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德意志银行：将杜邦(DD.N)目标价从70美元下调至60美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1407723.d.html</link>
+            <guid>2817898</guid>
+            <pubDate>Mon, 03 Oct 2022 11:51:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：俄国家杜马批准顿涅茨克等四地“入俄”条约】综合塔斯社、俄新社10月3日最新报道，俄罗斯国家杜马（议会下院）批准了顿涅茨克、卢甘斯克、扎波罗热、赫尔松四个地区加入俄罗斯的条约。 据俄新社此前报道，俄罗斯总统普京9月30日在克里姆林宫与顿涅茨克、卢甘斯克、扎波罗热、赫尔松四个地区的代表签署了这些地区加入俄罗斯的条约。俄罗斯宪法法院10月2日认定，顿涅茨克、卢甘斯克、扎波罗热、赫尔松四个地区加入俄罗斯的条约符合俄罗斯联邦宪法。（环球网）]]></title>
+            <guid>2817897</guid>
+            <pubDate>Mon, 03 Oct 2022 11:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会称指控金·卡戴珊非法兜售加密证券，金·卡戴珊同意缴纳126万美元的罚款达成和解协议。]]></title>
+            <guid>2817894</guid>
+            <pubDate>Mon, 03 Oct 2022 11:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  法拉第未来盘前跌超5%，此前公司董事会建议投票支持反向股票分割提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9688737.d.html</link>
+            <guid>2817893</guid>
+            <pubDate>Mon, 03 Oct 2022 11:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大皇家银行：将康卡斯特(CMCSA.O)目标价从55美元下调至45美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9688706.d.html</link>
+            <guid>2817892</guid>
+            <pubDate>Mon, 03 Oct 2022 11:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东健康：于10月3日回购23.3万股，回购价格为44.45-47.4港元，共耗资约1066.5万港元。]]></title>
+            <guid>2817887</guid>
+            <pubDate>Mon, 03 Oct 2022 11:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙经济部长：我希望西班牙首相桑切斯能说服德国放弃反对天然气价格上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9688117.d.html</link>
+            <guid>2817886</guid>
+            <pubDate>Mon, 03 Oct 2022 11:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华晨中国：本公司已履行所有复牌指引。公司已向联交所申请由10月5日上午九时正起恢复买卖股份。于股份恢复买卖后，公司将继续与联交所合作，协助调查违反上市规则之情况。以此，本公司已整改导致暂停买卖之事宜。]]></title>
+            <guid>2817883</guid>
+            <pubDate>Mon, 03 Oct 2022 11:20:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度9月份煤炭总产量增长12％，至5793万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1405242.d.html</link>
+            <guid>2817882</guid>
+            <pubDate>Mon, 03 Oct 2022 11:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现代汽车美国9月销量59,465辆，同比增长11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9687426.d.html</link>
+            <guid>2817881</guid>
+            <pubDate>Mon, 03 Oct 2022 11:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称不准备对乌公民实施签证制度】据俄罗斯媒体10月3日报道，俄罗斯副外长叶甫根尼·伊万诺夫当天表示，俄罗斯不准备针对乌克兰公民实施签证制度。 根据乌方规定，从今年7月1日开始入境乌克兰的俄罗斯公民必须持有乌克兰签证。9月6日，俄罗斯副外长安德烈·鲁坚科表示，尽管乌克兰针对俄罗斯公民实施了签证制度，但是乌克兰公民仍可以在2023年1月1日前按照之前的规定入境俄罗斯，无需签证。（央视新闻）]]></title>
+            <guid>2817880</guid>
+            <pubDate>Mon, 03 Oct 2022 11:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【票房破5亿！横店影视出品《万里归途》即将海外上映】横店影视消息，据猫眼专业版数据，截至10月3日13时35分，由横店影视旗下浙江横店影业有限公司出品影片《万里归途》票房突破5亿元，在今年国庆档的7部新片中遥遥领先，占据了总票房的七成。同时，《万里归途》总场次15.7万场，成为中国影史国庆节总场次冠军。目前，电影《万里归途》正在全国热映中，即将全球上映，从10月21日起于海外各地陆续上映。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9687194.d.html</link>
+            <guid>2817877</guid>
+            <pubDate>Mon, 03 Oct 2022 11:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：俄外交部称将对立陶宛驱逐俄罗斯临时代办作出相应回应】据俄新社10月3日报道，对于立陶宛宣布驱逐俄罗斯临时代办，俄外交部向该媒体表示：“俄罗斯将作出相应回应。”综合塔斯社、俄新社此前报道，立陶宛外交部10月3日早些时候宣布俄罗斯驻立陶宛临时代办谢尔盖·里亚博科为“不受欢迎的人”，并要求其在5天内离开立陶宛。（环球网）]]></title>
+            <guid>2817876</guid>
+            <pubDate>Mon, 03 Oct 2022 11:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深海成全球油气勘探开发热点 我国海洋石油勘探开发进入超深水时代】随着科技进步，深海日益成为全球油气勘探开发热点，有关报告指出，近10年新发现的101个大型油气田中，深水油气田数量占比67%，储量占比68%。过去十年，我国深海油气勘探也取得历史性突破。2012年，我国首座自主设计、建造的第六代超深水半潜式钻井平台开钻，海洋油气勘探开发挺进深海迈出了实质性步伐，深海油气勘探开发进入快车道。2021年，我国首个自营超深水大气田“深海一号”成功投产，标志着我国海洋石油勘探开发能力全面进入“超深水时代”。（央视财经）]]></title>
+            <guid>2817875</guid>
+            <pubDate>Mon, 03 Oct 2022 11:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evercore ISI：将沃博联目标价从41美元下调至32美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1404412.d.html</link>
+            <guid>2817874</guid>
+            <pubDate>Mon, 03 Oct 2022 11:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[麦当劳：Kareem Daniel当选麦当劳董事会成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1404339.d.html</link>
+            <guid>2817873</guid>
+            <pubDate>Mon, 03 Oct 2022 11:05:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典央行副行长弗洛登：住房市场可能是我们最关注的领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9686303.d.html</link>
+            <guid>2817872</guid>
+            <pubDate>Mon, 03 Oct 2022 11:03:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会提议向捷克提供25亿欧元额外财政支持】当地时间10月3日，欧盟委员会提议根据欧盟特别援助机制向捷克提供25亿欧元的额外财政支持，这将使欧盟对该国的财政支持总额达45亿欧元。一旦欧盟财长理事会批准通过该项提议，相关资金将以优惠贷款的形式拨付捷克政府。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1403941.d.html</link>
+            <guid>2817871</guid>
+            <pubDate>Mon, 03 Oct 2022 11:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长实集团：回购120万股 耗资约5622万港元】长实集团在港交所发布公告，当日回购120万股，耗资约5622万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1403645.d.html</link>
+            <guid>2817870</guid>
+            <pubDate>Mon, 03 Oct 2022 10:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【佩斯科夫：当前形势下无法就俄日和平条约问题进行谈判】据俄罗斯卫星网10月3日报道，俄总统新闻秘书佩斯科夫当天表示，当前形势下俄罗斯无法与日本就和平条约问题进行谈判。日本首相岸田文雄早前表示，虽然两国关系因俄乌冲突而复杂化，但日本仍然致力于坚持签署和约的路线。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9685071.d.html</link>
+            <guid>2817864</guid>
+            <pubDate>Mon, 03 Oct 2022 10:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒：立陶宛宣布驱逐俄罗斯驻立陶宛临时代办】据俄新社10月3日最新报道，立陶宛宣布驱逐俄罗斯驻立陶宛临时代办谢尔盖·里亚博科。另据塔斯社报道，立陶宛宣布谢尔盖·里亚博科为“不受欢迎的人”。 (环球网)]]></title>
+            <guid>2817863</guid>
+            <pubDate>Mon, 03 Oct 2022 10:43:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时铁路工会宣布提前举行罢工】比利时铁路工会宣布将于当地时间10月4日22时至5日22时举行24小时罢工。罢工原定于10月18日举行，目的是对政府目前正在进行的预算谈判施加压力。面对铁路员工短缺和工作条件下降，工会表示有必要立即采取罢工行动。他们此前曾呼吁政府调整铁路预算，并为他们提供更多资源来招聘员工。（央视新闻）]]></title>
+            <guid>2817862</guid>
+            <pubDate>Mon, 03 Oct 2022 10:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台继续发布寒潮蓝色预警 这些地方降温超18℃】中央气象台10月3日18时继续发布寒潮蓝色预警：受强冷空气影响，预计，10月3日20时至10月6日20时，中东部大部地区气温普遍下降8℃～12℃，东北地区东部、黄淮大部、江淮、江汉、江南中北部及四川盆地东部等地部分地区降温12℃～16℃，其中，吉林东北部、河南南部、湖北大部、安徽中北部、江苏西部、湖南北部等地部分地区降温幅度可达18℃以上。（央视新闻）]]></title>
+            <guid>2817861</guid>
+            <pubDate>Mon, 03 Oct 2022 10:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来：建议批准修正提案，将普通股按1：2至1：10的整数比例进行反向股票分割。]]></title>
+            <guid>2817860</guid>
+            <pubDate>Mon, 03 Oct 2022 10:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法拉第未来：董事会建议投票“赞成”反向股票分割的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1402309.d.html</link>
+            <guid>2817859</guid>
+            <pubDate>Mon, 03 Oct 2022 10:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区财长表示，将设法避免能源价格冲击发展成第二轮通胀效应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1402276.d.html</link>
+            <guid>2817858</guid>
+            <pubDate>Mon, 03 Oct 2022 10:38:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[复星国际：于10月3日回购100万股，回购价格为4.82-5港元，共耗资约492万港元。]]></title>
+            <guid>2817856</guid>
+            <pubDate>Mon, 03 Oct 2022 10:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时铁路工会宣布提前举行罢工】 比利时铁路工会宣布将于当地时间10月4日22时至5日22时举行24小时罢工。罢工原定于10月18日举行，目的是对政府目前正在进行的预算谈判施加压力。面对铁路员工短缺和工作条件下降，工会表示有必要立即采取罢工行动。他们此前曾呼吁政府调整铁路预算，并为他们提供更多资源来招聘员工。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9684038.d.html</link>
+            <guid>2817855</guid>
+            <pubDate>Mon, 03 Oct 2022 10:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典央行副行长弗洛登：非常不确定加息的影响会有多大，以及它对经济的影响的传导速度会有多快。]]></title>
+            <guid>2817854</guid>
+            <pubDate>Mon, 03 Oct 2022 10:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，将协调措施，在欧盟声明草案中保持跨国竞争的公平竞争环境。]]></title>
+            <guid>2817853</guid>
+            <pubDate>Mon, 03 Oct 2022 10:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，将设法避免能源价格冲击发展成第二轮通胀效应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1401614.d.html</link>
+            <guid>2817852</guid>
+            <pubDate>Mon, 03 Oct 2022 10:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，政府不能完全保护经济免受能源价格飙升的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1401594.d.html</link>
+            <guid>2817851</guid>
+            <pubDate>Mon, 03 Oct 2022 10:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，将重点关注特殊、临时和有针对性的收入措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683883.d.html</link>
+            <guid>2817850</guid>
+            <pubDate>Mon, 03 Oct 2022 10:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，援助计划将给预算带来压力，并减缓能源需求的调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1401564.d.html</link>
+            <guid>2817849</guid>
+            <pubDate>Mon, 03 Oct 2022 10:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，在2023年不应通过财政政策对总需求提供广泛支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1401542.d.html</link>
+            <guid>2817848</guid>
+            <pubDate>Mon, 03 Oct 2022 10:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，财政政策应以保持债务可持续性为目标，提高潜在成长率，使欧洲央行抗击通胀的工作更容易。]]></title>
+            <guid>2817847</guid>
+            <pubDate>Mon, 03 Oct 2022 10:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[草案声明显示，欧元区财长表示，援助计划的重点将放在保护脆弱国家上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683771.d.html</link>
+            <guid>2817846</guid>
+            <pubDate>Mon, 03 Oct 2022 10:27:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：印度黄金精炼商利用税收规则的改变，将进口黄金登记为铂金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683711.d.html</link>
+            <guid>2817845</guid>
+            <pubDate>Mon, 03 Oct 2022 10:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【友邦保险：斥资1.78亿港元回购273.6万股】友邦保险(01299.HK)公告，当日斥资1.78亿港元回购273.6万股，回购价格每股为64.55-65.55港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683697.d.html</link>
+            <guid>2817844</guid>
+            <pubDate>Mon, 03 Oct 2022 10:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司表示，准备通过搁置的北溪2号输送天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683628.d.html</link>
+            <guid>2817843</guid>
+            <pubDate>Mon, 03 Oct 2022 10:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃达丰与长和就沃达丰英国和THREE UK合并事宜展开谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1401259.d.html</link>
+            <guid>2817841</guid>
+            <pubDate>Mon, 03 Oct 2022 10:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：这将有助于检查B线的完整性，减少对环境的潜在风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683264.d.html</link>
+            <guid>2817840</guid>
+            <pubDate>Mon, 03 Oct 2022 10:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯MOEX指数涨3%，俄罗斯卢克石油公司领涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683240.d.html</link>
+            <guid>2817839</guid>
+            <pubDate>Mon, 03 Oct 2022 10:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：正在降低北溪2号管道B线的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9683207.d.html</link>
+            <guid>2817838</guid>
+            <pubDate>Mon, 03 Oct 2022 10:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞典央行副行长弗洛登：明年的经济下滑可能是温和的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1400926.d.html</link>
+            <guid>2817837</guid>
+            <pubDate>Mon, 03 Oct 2022 10:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：北溪管道的压力已经稳定，天然气泄露已停止。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1400909.d.html</link>
+            <guid>2817836</guid>
+            <pubDate>Mon, 03 Oct 2022 10:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[无线网络技术研发公司InterDigital(IDCC.O)：与苹果(AAPL.O)续签专利许可协议，在2022年10月1日开始7年许可期限。]]></title>
+            <guid>2817835</guid>
+            <pubDate>Mon, 03 Oct 2022 10:18:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利油企埃尼集团CEO：有信心这个问题可以在本周解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9682841.d.html</link>
+            <guid>2817834</guid>
+            <pubDate>Mon, 03 Oct 2022 10:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利油企埃尼集团CEO：俄罗斯天然气工业股份公司停止天然气供应是由于监管问题，而不是地缘政治问题。]]></title>
+            <guid>2817833</guid>
+            <pubDate>Mon, 03 Oct 2022 10:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta Platforms(META.O)数据泄露隐私调查接近尾声。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1399851.d.html</link>
+            <guid>2817832</guid>
+            <pubDate>Mon, 03 Oct 2022 10:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国家杜马（议会下院）国家建设和法律委员会今天通过了顿涅茨克等四地区加入俄罗斯联邦的宪法法律草案。国家杜马全会即将对草案进行审议。 (央视新闻)]]></title>
+            <guid>2817831</guid>
+            <pubDate>Mon, 03 Oct 2022 10:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯控股：10月3日耗资约3.52亿港元回购134万股】腾讯控股（00700.HK）公告，于10月3日回购134万股，回购价格259.6-266.4港元/股，共耗资约3.52亿港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9681420.d.html</link>
+            <guid>2817829</guid>
+            <pubDate>Mon, 03 Oct 2022 09:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌议长：乌克兰计划在年底前开始欧盟成员资格谈判】当地时间10月3日，乌克兰最高拉达（议会）议长斯特凡丘克宣布，乌克兰计划在今年年底前满足欧盟委员会此前提出的7项条件，并就乌克兰加入欧盟展开全面谈判。他表示，乌克兰已采取措施使乌克兰立法适应欧洲立法，并已经建立与欧盟合作的机构等。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9680751.d.html</link>
+            <guid>2817825</guid>
+            <pubDate>Mon, 03 Oct 2022 09:44:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【太阳纸业：两条生活用纸生产线顺利投产】太阳纸业消息，太阳纸业广西基地北海园区连传喜讯，公司全资子公司广西太阳纸业有限公司在2022年实施的15万吨生活用纸项目稳步推进，项目第一期四台生活用纸纸机中的PM9与PM10生产线已分别于9月12日和10月3日先后顺利试产。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1398518.d.html</link>
+            <guid>2817824</guid>
+            <pubDate>Mon, 03 Oct 2022 09:44:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：印尼将10月煤炭基准价格上调至每吨330.97美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9680525.d.html</link>
+            <guid>2817822</guid>
+            <pubDate>Mon, 03 Oct 2022 09:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，欧佩克+会议将在欧洲东部时间10月5日14:00（北京时间10月5日19:00）开始，部长级会议将于10月5日14:30（北京时间10月5日19:30）开始。]]></title>
+            <guid>2817821</guid>
+            <pubDate>Mon, 03 Oct 2022 09:39:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：世界银行将向埃及提供4亿美元，用于发展交通部门的可持续基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1397666.d.html</link>
+            <guid>2817819</guid>
+            <pubDate>Mon, 03 Oct 2022 09:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所披露文件：9月28日，贝莱德取得美团(03690.HK)510.5万股股份的保证权益，持股比例从4.94%增加到5.03%。]]></title>
+            <guid>2817818</guid>
+            <pubDate>Mon, 03 Oct 2022 09:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗集团减持小鹏汽车至5%以下】据港交所数据，花旗集团9月27日减持小鹏汽车-W(09868.HK)56.37万股，持股比例由减持前的5.01%减少至减持后的4.97%，此后如继续减持将无需发布数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9679823.d.html</link>
+            <guid>2817817</guid>
+            <pubDate>Mon, 03 Oct 2022 09:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，欧佩克+将在10月5日会议后举行新闻发布会。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1397353.d.html</link>
+            <guid>2817815</guid>
+            <pubDate>Mon, 03 Oct 2022 09:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联想集团(00992.HK)：董事会会议将于11月3日举行，旨在(其中包括)审议及批准(如适用)截至2022年9月30日止六个月之未经审核财务业绩，以及考虑派发中期股息(如有)。]]></title>
+            <guid>2817814</guid>
+            <pubDate>Mon, 03 Oct 2022 09:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国办：加快推进“一件事一次办” 打造政务服务升级版】国务院办公厅发布关于加快推进“一件事一次办”打造政务服务升级版的指导意见，其中提出，2022年底前，各地区要建立部门协同、整体联动的工作机制，完成企业和个人政务服务“一件事一次办”事项基础清单中的任务，并结合各地实际拓展本地区“一件事一次办”事项范围。2025年底前，各地区“一件事一次办”事项范围进一步扩大，服务领域进一步拓展，企业和个人全生命周期重要阶段涉及的更多政务服务事项实现“一件事一次办”，打造政务服务升级版，更好满足企业和群众办事需求。]]></title>
+            <guid>2817813</guid>
+            <pubDate>Mon, 03 Oct 2022 09:22:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[瑞信欧元计价债券跌幅扩大至历史新低，2032年发行的债券跌幅超过7美分，在欧元交易网站上报69.9美分。]]></title>
             <guid>2817810</guid>
@@ -19,333 +391,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9677867.d.html</link>
             <guid>2817809</guid>
             <pubDate>Mon, 03 Oct 2022 09:07:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世茂集团(00813.HK)：作为保护香港九龙大窝坪项目价值工作的一部分，集团于2022年9月初成功与大华银行有限公司（作为安排人）就10.3亿港元的贷款融资订立融资协议，以取替原有项目贷款融资。]]></title>
-            <guid>2817808</guid>
-            <pubDate>Mon, 03 Oct 2022 09:06:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世茂集团(00813.HK)：本公司正与其财务及法律顾问积极推进境外债务重组工作，并持续与各类债权人进行建设性对话。]]></title>
-            <guid>2817807</guid>
-            <pubDate>Mon, 03 Oct 2022 09:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄央行制定新的汇率确定机制】据《俄罗斯报》10月3日报道，俄罗斯央行决定在确定官方外汇汇率时参考银行报表和交易所外交易平台数据。俄央行称，新的汇率确定机制可以更加准确地确定外汇兑卢布的汇率。俄罗斯商业咨询网（RBC）3日报道称，新的汇率确定机制是为了应对在制裁加剧的情况下“不友好国家”货币在外汇交易市场停止交易的情形。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9677347.d.html</link>
-            <guid>2817804</guid>
-            <pubDate>Mon, 03 Oct 2022 09:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞信CDS升至新高，股价跌至新低】瑞士信贷的信贷风险指标升至历史新高，且股价创下新低，加剧了市场的动荡。此前，该银行试图让市场相信其金融稳定性，但却事与愿违。ICE Data Services的数据显示，其五年期信用违约互换价格一度升至293个基点，高于年初的55个基点，为历史最高水平。与此同时，瑞士信贷股价周一一度下跌12%，仅今年就下跌了约60%，股价有望创下最大年度跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9676957.d.html</link>
-            <guid>2817803</guid>
-            <pubDate>Mon, 03 Oct 2022 08:56:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渣打集团：在伦交所回购204.9万股 耗资约9226万元】渣打集团在港交所发布公告，9月30日在伦交所回购204.9万股，耗资约1157万英镑(折合约9226万人民币)。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1394929.d.html</link>
-            <guid>2817802</guid>
-            <pubDate>Mon, 03 Oct 2022 08:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国司法部长因涉嫌“非法获利”受审】综合路透社和法新社报道，当地时间10月3日，法国最高法院发言人表示，司法部长埃里克·迪蓬-莫雷蒂将在一个专门负责政府不当行为的司法机构接受审判，他涉嫌在两起潜在的利益冲突案件中“非法获利”。（央视新闻）]]></title>
-            <guid>2817801</guid>
-            <pubDate>Mon, 03 Oct 2022 08:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部发言人：伊核协议恢复执行仍有可能】当地时间10月3日，伊朗外交部发言人卡纳尼在发布会上证实，近期伊朗通过联合国大会等场合，一直与相关方就伊核协议进行交涉。卡纳尼表示，伊核协议恢复执行仍有可能。9月20日至26日，伊朗总统莱希率团前往纽约参加了第77届联大会议。伊朗外交部发言人卡纳尼在周一的发布会上表示，联合国大会是就取消对伊朗制裁进行谈判的好机会。他证实，通过调解人，伊朗和美国在联大会议期间交换了信息。最近，伊朗正通过欧洲协调员以及周边国家的外长与相关方进一步交换信息。卡纳尼强调，伊朗决心达成一项良好、强大和稳定的协议，并坚持继续就伊核问题对话的进程。他说：“我们坚持外交谈判进程。我们欢迎周边国家的善意。我们仍然在谈判、互动和信息交流的过程中。恢复执行伊核协议仍有机会，如果对方特别是美国表现出政治意愿，有可能在最短时间内达成协议，恢复协议还有时间。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1394837.d.html</link>
-            <guid>2817800</guid>
-            <pubDate>Mon, 03 Oct 2022 08:54:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：国庆长假前三天吃穿消费投诉较多】记者10月3日从上海市监管局获悉，2022年国庆长假前三日，上海市监管局12315热线平台共接收各类投诉举报13263件。其中，一般食品1604件、服装鞋帽1334件、化妆品1104件、家居用品830件和销售服务618件。国庆长假前三日，12315热线平台接到一般食品类投诉举报1604件、服装鞋帽类投诉举报1334件，其中线上消费诉求占比85%，主要反映网购食品和服装鞋帽存在质量瑕疵、配送不及时、宣传与实际不符，以及经营者未兑现促销承诺、在线客服敷衍推脱等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9676768.d.html</link>
-            <guid>2817799</guid>
-            <pubDate>Mon, 03 Oct 2022 08:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：飓风“Orlene”今天晚些时候将给墨西哥西部大陆部分地区带来强风和风暴潮。]]></title>
-            <guid>2817797</guid>
-            <pubDate>Mon, 03 Oct 2022 08:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼能源部：印尼将10月份煤炭基准价格定为每吨330.97美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1393372.d.html</link>
-            <guid>2817791</guid>
-            <pubDate>Mon, 03 Oct 2022 08:34:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国9月制造业PMI 48.4，预期48.5，前值48.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1392960.d.html</link>
-            <guid>2817786</guid>
-            <pubDate>Mon, 03 Oct 2022 08:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相就放弃取消最高所得税率计划表态】当地时间10月3日，针对英国政府放弃取消最高所得税率计划，首相特拉斯在社交媒体上表示，“我们明白了，并听取了民意”。特拉斯称，取消最高所得税率的计划干扰了其推动英国前进的使命。目前的工作重点将放在构建高增长经济体、为世界领先的公共服务提供资金、创造就业机会等问题上。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1392925.d.html</link>
-            <guid>2817785</guid>
-            <pubDate>Mon, 03 Oct 2022 08:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港鼓励发行人新增人民币股票交易柜台 小米称将积极探索】今日在香港立法会财经事务委员会上，香港财经事务及库务局局长许正宇，就鼓励在香港发行及交易双币股票。对此，小米集团表示：“已留意到香港特区政府就推动香港离案人民币业务发展的相关信息，感谢财经事务及库务局长许正宇，就在香港发行以及交易双币股票，及优化有关交易机制的有关建议。公司将深入研究政策内容，探索并支持香港强化全球离岸人民币业务枢纽功能，积极为公司股东及广大投资者创造价值。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9674416.d.html</link>
-            <guid>2817783</guid>
-            <pubDate>Mon, 03 Oct 2022 08:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际能源署说欧洲将面临“史无前例”的天然气短缺风险】国际能源署3日发布天然气市场季度报告，警告欧洲在今年冬天将面临“史无前例”的天然气短缺风险，同时建议以节省用气应对。报告显示，为保证供暖季结束前天然气储备始终充足，欧洲联盟成员国的用气需求应比过去5年的平均水平降低9%至13%。其中，大部分改变不得不由消费者做出，包括将取暖器调低1摄氏度和调整锅炉温度，以及工业和公共设施节气等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9674366.d.html</link>
-            <guid>2817781</guid>
-            <pubDate>Mon, 03 Oct 2022 08:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷欧元计价债券下跌至历史低点，2032年到期的债券下跌超过5欧分，至72.2欧分。]]></title>
-            <guid>2817778</guid>
-            <pubDate>Mon, 03 Oct 2022 08:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将Pinterest(PINS.N)目标价从22美元上调至23美元。]]></title>
-            <guid>2817777</guid>
-            <pubDate>Mon, 03 Oct 2022 08:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行(DB.N)美股盘前跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1390794.d.html</link>
-            <guid>2817775</guid>
-            <pubDate>Mon, 03 Oct 2022 08:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元区9月制造业PMI终值 48.4，预期48.5，前值48.5。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9672566.d.html</link>
-            <guid>2817771</guid>
-            <pubDate>Mon, 03 Oct 2022 08:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月制造业PMI终值录得47.8，为2020年6月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9672350.d.html</link>
-            <guid>2817769</guid>
-            <pubDate>Mon, 03 Oct 2022 07:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国9月制造业PMI终值 47.8，预期48.3，前值48.3。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9672344.d.html</link>
-            <guid>2817768</guid>
-            <pubDate>Mon, 03 Oct 2022 07:57:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国9月制造业PMI终值 47.7，预期47.8，前值47.8。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1389943.d.html</link>
-            <guid>2817766</guid>
-            <pubDate>Mon, 03 Oct 2022 07:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大和：将腾讯控股目标价由430港元下调至395港元，评级买入。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1389880.d.html</link>
-            <guid>2817765</guid>
-            <pubDate>Mon, 03 Oct 2022 07:49:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利9月制造业PMI 48.3，预期47.5，前值48。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9671564.d.html</link>
-            <guid>2817764</guid>
-            <pubDate>Mon, 03 Oct 2022 07:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大和：将玖龙纸业评级降至跑赢大市，将目标价由8港元下调至5.6港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9670833.d.html</link>
-            <guid>2817761</guid>
-            <pubDate>Mon, 03 Oct 2022 07:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新东方在线午后一度涨10% 东方甄选带货GMV创新高】新东方在线午后一度涨10%，截至发稿涨9%，报32.1港元，成交1.52亿港元。此前，东方甄选于9月24日举办了一场宁夏新疆农产品主题的专场直播带货活动，收获超8000万元单日GMV，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9670434.d.html</link>
-            <guid>2817757</guid>
-            <pubDate>Mon, 03 Oct 2022 07:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士9月SVME采购经理人指数 57.1，预期54.5，前值56.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1388406.d.html</link>
-            <guid>2817756</guid>
-            <pubDate>Mon, 03 Oct 2022 07:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月03日15时00分在南桑威奇群岛（南纬56.40度，西经26.15度）发生5.3级地震，震源深度10千米。]]></title>
-            <guid>2817755</guid>
-            <pubDate>Mon, 03 Oct 2022 07:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：我从来没有严厉批评过英国央行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9670244.d.html</link>
-            <guid>2817754</guid>
-            <pubDate>Mon, 03 Oct 2022 07:29:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕称，高利率是由美联储驱动的，这是一个全球性问题。在预算案前不会有减税措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9669913.d.html</link>
-            <guid>2817752</guid>
-            <pubDate>Mon, 03 Oct 2022 07:23:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行在法兰克福交易所交易股价下跌1.04%，至7.44欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9669785.d.html</link>
-            <guid>2817751</guid>
-            <pubDate>Mon, 03 Oct 2022 07:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其9月CPI同比上涨83.45％ 创24年来新高】土耳其统计局当地时间10月3日公布的数据显示，2022年9月土耳其消费者价格指数（CPI）较去年同期上涨83.45％，创下24年来新高。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9669342.d.html</link>
-            <guid>2817750</guid>
-            <pubDate>Mon, 03 Oct 2022 07:16:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙9月制造业PMI 49，预期49.2，前值49.9。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1387443.d.html</link>
-            <guid>2817748</guid>
-            <pubDate>Mon, 03 Oct 2022 07:15:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调查显示：多项负面看法致岸田内阁支持率持续下跌】据日本《读卖新闻》10月3日报道，读卖新闻社10月1日至2日在日本全国实施的舆论调查显示，岸田内阁支持率为45%，不支持率为46%。这是岸田政府执政以来，不支持率首次超过支持率。“世界和平统一家庭联合会”（原统一教）与政治家的关系、物价上涨、对为前首相安倍晋三举行“国葬”的负面看法等导致了支持率的下降。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1387343.d.html</link>
-            <guid>2817747</guid>
-            <pubDate>Mon, 03 Oct 2022 07:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：查尔斯三世将向威廉“付房租” 每年70万英镑租赁海格罗夫庄园】据俄罗斯卫星社3日报道，据英国《太阳报》援引消息人士的话报道，英国国王查尔斯三世将向他的儿子威廉每年支付70万英镑，用于租赁海格罗夫庄园。报道称，在查尔斯登基后，威廉继承了康沃尔公爵的头衔，并获得了价值3.45亿英镑的不动产，包括查尔斯最喜欢的住所。 报道援引消息人士的话称：“国王签署了一份长期租约，为海格罗夫和周围土地支付费用。”报道指出，查尔斯将为这处房产每年支付70万英镑。（参考消息）]]></title>
-            <guid>2817743</guid>
-            <pubDate>Mon, 03 Oct 2022 07:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：国债市场所发生的一切与45%的税率计划无关。相信我们的计划将比目前我们经历的高税率情况带来更多的（经济）增长。]]></title>
-            <guid>2817741</guid>
-            <pubDate>Mon, 03 Oct 2022 07:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其高级别代表团将访问利比亚 能源议题受关注】据土耳其外交部消息，当地时间10月3日，土耳其高级别代表团将启程前往利比亚展开正式访问。访问期间，双方将讨论利比亚政治过渡进程、双边关系、军事训练合作以及地区热点问题。声明中显示，高级别代表团成员包括土耳其外交部长恰武什奥卢、能源和自然资源部部长法提赫、国防部长阿卡尔、贸易部长穆什、总统府新闻局局长阿尔通以及总统府发言人卡伦。分析人士指出，能源合作将是此次访问的重要议题之一。当地时间9月21日，利比亚石油和天然气部长穆罕默德·奥恩对媒体透露，根据利比亚与土耳其签订的海上划界协议，该国发现的可能有石油的区域40%位于土耳其一侧。（央视新闻）]]></title>
-            <guid>2817740</guid>
-            <pubDate>Mon, 03 Oct 2022 06:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东临沂购房限时优惠：在中心城区首次买新房最高补贴35万元】9月29日，临沂市出台《关于进一步促进房地产市场平稳健康发展的若干措施》，其中包括个人首次购买新建商品住房、人才住房政策、调整公积金贷款额度等。在落实人才住房政策方面，对新到临沂“两新”组织就业或创办企业的博士研究生、硕士研究生和全日制本科生，在临沂市首次购房，符合条件的分别给予30万元、10万元、5万元的一次性购房补贴，所需资金由受益财政按比例承担。对符合有关条件的高层次人才，采取“一事一议”的方式给予一次性购房补贴。2022年9月29日至2023年3月29日期间，个人首次购买中心城区范围内新建商品住房的，同时享受“支持刚需住房消费”条款提及的购房补贴。这意味着，符合条件的博士研究生、硕士研究生和全日制本科生可享受的购房补贴可以达到35万元、15万元和10万元。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9667582.d.html</link>
-            <guid>2817738</guid>
-            <pubDate>Mon, 03 Oct 2022 06:53:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国政府将放弃取消45%最高所得税税率的计划】综合路透社和法新社消息，当地时间10月3日，英国财政大臣夸西·克沃滕发表声明称，将放弃此前提出的取消45%最高所得税税率的计划。英国政府9月23日宣布一系列措施以期提振经济，其中包括大规模减税方案（取消45%的最高所得税税率，并将基本税率从20%降至19%），以及取消银行业奖金上限等内容。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1385480.d.html</link>
-            <guid>2817737</guid>
-            <pubDate>Mon, 03 Oct 2022 06:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济团体联合会（Keidanren）负责人：日元疲软的趋势暂时不会改变，因为日本继续放松货币政策，且美国提高利率以对抗通货膨胀。]]></title>
-            <guid>2817736</guid>
-            <pubDate>Mon, 03 Oct 2022 06:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济团体联合会（Keidanren）负责人：政府的外汇干预是有意义的，它表明投机行为是不可容忍的。]]></title>
-            <guid>2817735</guid>
-            <pubDate>Mon, 03 Oct 2022 06:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港股山东黄金午后涨超4% 前八月利润同比增超200%】山东黄金午后涨超4%，截至发稿，涨4.01%，报12.98港元。9月29日，山东黄金集团党委书记董事长满慎刚表示，“今年前8个月，黄金产量同比增幅90%左右、营业收入和利润总额同比增幅200%以上，均好于预期、优于同期，全部创出历史新高。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9667055.d.html</link>
-            <guid>2817733</guid>
-            <pubDate>Mon, 03 Oct 2022 06:45:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕称中期计划将于11月底出台。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9667031.d.html</link>
-            <guid>2817732</guid>
-            <pubDate>Mon, 03 Oct 2022 06:45:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【明源云午后一度涨超14% 公司回购且控股股东增持】明源云午后持续反弹，盘中一度涨超14%，截至发稿，涨8%报5.06港元。消息面上，明源云公告，9月30日斥资约2038.33万港元回购448.7万股。同日，控股股东陈晓晖透过其控制的实体以平均每股约4.59港元的价格购买合共150万股公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1385206.d.html</link>
-            <guid>2817731</guid>
-            <pubDate>Mon, 03 Oct 2022 06:44:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus终止购买印度支付平台BillDesk的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1385066.d.html</link>
-            <guid>2817729</guid>
-            <pubDate>Mon, 03 Oct 2022 06:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：我们100%专注于增长计划。我们的增长计划是强有力的一揽子计划。取消45%最高所得税税率的计划的会“盖过”强有力的一揽子计划。]]></title>
-            <guid>2817727</guid>
-            <pubDate>Mon, 03 Oct 2022 06:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士9月CPI月率录得-0.2%，为2020年11月以来最大降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1384162.d.html</link>
-            <guid>2817725</guid>
-            <pubDate>Mon, 03 Oct 2022 06:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士9月CPI月率 -0.2%，预期0.2%，前值0.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1384086.d.html</link>
-            <guid>2817724</guid>
-            <pubDate>Mon, 03 Oct 2022 06:30:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：放弃该计划将使我们能够集中精力实现经济增长方案的主要部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9665836.d.html</link>
-            <guid>2817723</guid>
-            <pubDate>Mon, 03 Oct 2022 06:29:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：很明显，该计划会分散我们应对国家挑战的注意力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1383992.d.html</link>
-            <guid>2817722</guid>
-            <pubDate>Mon, 03 Oct 2022 06:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣夸滕：不会继续实施取消45%最高所得税税率的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1383919.d.html</link>
-            <guid>2817721</guid>
-            <pubDate>Mon, 03 Oct 2022 06:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东东莞新增2例外省输入无症状感染者】10月3日0—12时，广东东莞市新增2例外省输入无症状感染者，均为非闭环管理重点人员筛查发现。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1383502.d.html</link>
-            <guid>2817719</guid>
-            <pubDate>Mon, 03 Oct 2022 06:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飓风“伊恩”已造成美国至少87人死亡】据美国全国广播公司报道，飓风“伊恩”已在美国佛罗里达州和北卡罗来纳州共造成至少87人死亡。截至当地时间10月2日，佛罗里达州仍有超过数十万户居民断电。美国国家飓风中心表示，随着“伊恩”向北移动，或将给弗吉尼亚州、马里兰州等地带来降雨，该机构已向相关地区发布山洪预警。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9665009.d.html</link>
-            <guid>2817718</guid>
-            <pubDate>Mon, 03 Oct 2022 06:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：给予携程(TCOM.O)买入评级，目标价146美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1383023.d.html</link>
-            <guid>2817717</guid>
-            <pubDate>Mon, 03 Oct 2022 06:14:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本三季度大型制造业企业信心指数继续走低】日本央行3日公布的企业短期经济观测调查（日银短观）结果显示，今年第三季度，日本大型制造业企业信心指数继续下滑，比上季度下降1点，至8点。调查显示，受乌克兰危机持续导致国际能源价格高企、日元持续走软等因素影响，三季度制造业企业成本压力加大。全部16个制造业行业中，9个行业大企业信心下降，其中石油煤炭、非铁金属行业大型制造业企业信心指数出现两位数降幅。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqmmtha9664561.d.html</link>
-            <guid>2817716</guid>
-            <pubDate>Mon, 03 Oct 2022 06:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼9月通胀率升至5.95% 达近7年来最高】印度尼西亚中央统计局10月3日公布的统计数据显示，印尼9月份通货膨胀率升至5.95%，为自2015年10月以来的最高值。  （央视新闻）]]></title>
-            <guid>2817715</guid>
-            <pubDate>Mon, 03 Oct 2022 06:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东曹县召开“房地产市场回暖动员会”：抓好国庆节售房黄金季】10月2日，曹县房产服务中心发布消息称，10月1日，山东省菏泽市曹县召开“房地产市场回暖动员会”。会上，曹县副县长马涛表示，一要坚定信心，全力抓好国庆节售房黄金季，各楼盘要加大宣传优惠活动，促进曹县房地产市场回暖。二要齐心协力、抱团取火，提振信心，严肃查处恶性竞争的不法行为。三要坚决贯彻中央稳经济大盘的部署，打击唱衰曹县经济和房地产市场的行为。（澎湃新闻）]]></title>
-            <guid>2817714</guid>
-            <pubDate>Mon, 03 Oct 2022 06:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  大和：将万科企业目标价由16.8港元下调至15.8港元，评级持有。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-03/detail-imqqsmrp1382176.d.html</link>
-            <guid>2817712</guid>
-            <pubDate>Mon, 03 Oct 2022 06:02:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
