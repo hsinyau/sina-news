@@ -4,11 +4,51 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 04 Oct 2022 15:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 18:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【德国总理会见荷兰首相并强调：必须保护能源安全】 当地时间10月4日，德国总理朔尔茨在柏林会见了到访的荷兰首相吕特。朔尔茨在会谈后的新闻发布会上表示，德国目前的能源价格需要降低，他呼吁采取统一行动打击天然气市场的投机行为。他强调，必须保护能源安全。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1518164.d.html</link>
+            <guid>2818733</guid>
+            <pubDate>Tue, 04 Oct 2022 18:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：谷歌公司将支付8500万美元，以了结美国亚利桑那州消费者隐私诉讼。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1517528.d.html</link>
+            <guid>2818732</guid>
+            <pubDate>Tue, 04 Oct 2022 17:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国科隆国际摩托车及两轮车展览会4日在科隆市会展中心开幕，雅迪、众星等近20家中国参展企业展示了摩托车、电动自行车及相关零配件和装备产品。（新华网）]]></title>
+            <guid>2818731</guid>
+            <pubDate>Tue, 04 Oct 2022 17:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta Platform关闭社交媒体平台Facebook的Newsletter服务。]]></title>
+            <guid>2818728</guid>
+            <pubDate>Tue, 04 Oct 2022 17:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了105个对手方的2.234万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9801659.d.html</link>
+            <guid>2818727</guid>
+            <pubDate>Tue, 04 Oct 2022 17:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【飓风“伊恩”被列为美国第25大致命飓风】 10月4日，根据美国国家海洋和大气管理局收集的数据，近日在佛罗里达州登陆的飓风“伊恩”被列为美国第25大致命飓风。佛罗里达州官员表示，截至目前该州至少有101人因飓风死亡，北卡罗来纳州也有至少有4人因飓风死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1513134.d.html</link>
+            <guid>2818717</guid>
+            <pubDate>Tue, 04 Oct 2022 16:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪拿下全球汽车租赁公司SIXT10万辆车大单】 10月4日，比亚迪宣布，与全球汽车租赁公司SIXT签署合作协议，为欧洲市场提供新能源汽车租赁服务，SIXT 将在未来6年内向比亚迪采购至少10万台新能源车。车辆将于今年第四季度开始交付，第一阶段合作市场包括德国、英国、法国、荷兰。比亚迪产销快报显示，其9月新能源汽车单月销量约20.13万辆，同比增长183.07%；1-9月的累计销量突破百万辆至118.01万辆，同比增长249.56%。这一数据远超市场预期，使比亚迪继续稳居全球新能源车销量第一。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9795882.d.html</link>
+            <guid>2818702</guid>
+            <pubDate>Tue, 04 Oct 2022 15:21:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【市场消息：OPEC+考虑至多减产石油200万桶/日】 数名代表称，OPEC+可能会在周三（10月5日）开会时讨论至多减产200万桶/日，届时还可能会讨论减产100万桶/日-150万桶/日的可能性。任何减产力度都将建立在现存基线之上，以衡量所有产油国的贡献。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1509431.d.html</link>
@@ -182,137 +222,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787889.d.html</link>
             <guid>2818633</guid>
             <pubDate>Tue, 04 Oct 2022 13:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)：9月美国电动车销量4,691辆，同比增长197.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502985.d.html</link>
-            <guid>2818632</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贵州茅台：正式开始2023年度茅台酒生产】据贵州茅台消息，10月4日，岁在重阳，茅台举行壬寅年（2022）茅台酒节，遵自然之法则，正式开始2023年度茅台酒生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787785.d.html</link>
-            <guid>2818631</guid>
-            <pubDate>Tue, 04 Oct 2022 13:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车美国9月销量为142644辆，同比下降8.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502459.d.html</link>
-            <guid>2818621</guid>
-            <pubDate>Tue, 04 Oct 2022 13:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：对于是否采用央行数字货币，尚未做出决定。需要评估央行数字货币的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787168.d.html</link>
-            <guid>2818618</guid>
-            <pubDate>Tue, 04 Oct 2022 13:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国首相回应放弃对高收入者减税计划】当地时间10月4日，针对英国政府放弃对高收入者减税计划一事，英国首相特拉斯在接受媒体采访时表示，她对此“完全不感到羞耻”。她还表示，对高收入者减税，并非英国政府的优先政策。10月3日，英国财政大臣夸西·克沃滕发表声明称，放弃此前提出的对高收入者取消45%最高所得税率的计划。该计划是英国政府于9月23日宣布的一系列提振经济措施之一。该计划在过去一周引发市场动荡，并招致广泛反对。夸西·克沃滕和特拉斯均证实，政策“大转向”是两人的共同决定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787144.d.html</link>
-            <guid>2818617</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：智利安托法加斯塔发生5.3级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1502341.d.html</link>
-            <guid>2818611</guid>
-            <pubDate>Tue, 04 Oct 2022 13:15:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：荷兰内阁制定能源价格上限条款。荷兰将天然气价格上限设定为1.45欧元/立方米，电价上限为0.4欧元/千瓦时。]]></title>
-            <guid>2818610</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄气公司：若摩尔多瓦在10月20日前未支付天然气费用 将保留暂停供应的权利】俄气公司4日发布消息称，摩尔多瓦天然气公司Moldovagaz在2022年多次违反合同中关于所供天然气的付款期限的条款。俄气表示，公司保留相关权利，以在2022年10月20日之前违反支付天然气的义务时完全停止向Moldovagaz供应天然气。俄气将同时保留权利在Moldovagaz违反历史债务相关条款时随时终止合同。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9787076.d.html</link>
-            <guid>2818609</guid>
-            <pubDate>Tue, 04 Oct 2022 13:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[达拉斯联储主席洛根：美国央行数字货币（CBDC）需要国会的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9786888.d.html</link>
-            <guid>2818607</guid>
-            <pubDate>Tue, 04 Oct 2022 13:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF总裁格奥尔基耶娃：英国央行对英国财政计划的反应“非常恰当、迅速”。英国有强大的机构正在采取措施确保财政和货币政策的一致性。]]></title>
-            <guid>2818605</guid>
-            <pubDate>Tue, 04 Oct 2022 13:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月1日当周红皮书商业零售销售年率 12.3%，前值11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9785607.d.html</link>
-            <guid>2818584</guid>
-            <pubDate>Tue, 04 Oct 2022 12:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月04日20时44分在四川凉山州冕宁县（北纬28.91度，东经102.14度）发生3.6级地震，震源深度15千米。]]></title>
-            <guid>2818575</guid>
-            <pubDate>Tue, 04 Oct 2022 12:50:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：10月04日20时44分在四川凉山州冕宁县附近（北纬28.92度，东经102.21度）发生3.7级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>2818571</guid>
-            <pubDate>Tue, 04 Oct 2022 12:46:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：已就欧盟的可再生能源支持措施达成协议。已就欧盟最低工资法达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1499831.d.html</link>
-            <guid>2818568</guid>
-            <pubDate>Tue, 04 Oct 2022 12:41:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：我们不能再排除经济萎缩的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1499669.d.html</link>
-            <guid>2818567</guid>
-            <pubDate>Tue, 04 Oct 2022 12:40:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国总理朔尔茨：在高油价问题上，德国与美国、挪威、阿拉伯国家等盟国进行合作的意愿非常强烈。]]></title>
-            <guid>2818566</guid>
-            <pubDate>Tue, 04 Oct 2022 12:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世界银行称，受俄乌冲突影响，预计2022年欧洲和中亚地区经济将增长0.2%，2023年将增长0.3%。（财联社）]]></title>
-            <guid>2818565</guid>
-            <pubDate>Tue, 04 Oct 2022 12:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孟加拉国大部分地区一度陷入停电状态】据孟加拉国政府发布的消息，当地时间10月4日，因电网故障，该国大部分地区一度陷入停电状态。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9783768.d.html</link>
-            <guid>2818556</guid>
-            <pubDate>Tue, 04 Oct 2022 12:30:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿联酋能源部长：欧佩克+将在评估市场前景后作出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9783471.d.html</link>
-            <guid>2818554</guid>
-            <pubDate>Tue, 04 Oct 2022 12:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美光科技(MU.O)承诺为纽约半导体工厂提供高达1000亿美元的资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqmmtha9783047.d.html</link>
-            <guid>2818553</guid>
-            <pubDate>Tue, 04 Oct 2022 12:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kaleyra(KLR.N)盘前拉升10%，消息面，意大利云通信平台公司Kaleyra将为亚马逊印度支付公司提供短信服务。]]></title>
-            <guid>2818552</guid>
-            <pubDate>Tue, 04 Oct 2022 12:20:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中集再次向美国发运建筑模块 将建硅谷地标酒店】中集集团消息，9月30日上午，由中集建科旗下中集模块化建筑（简称中集MBS）参建的citizenM Menlo Park酒店项目举行模块发运仪式，该公司管理层、项目团队、客户代表及各分包方代表一同出席了发运仪式。citizenM Menlo Park酒店项目位于美国硅谷，该酒店共5层，由161个模块组成，配置240套房间，建成后将会成为硅谷地标性酒店建筑。citizenM酒店集团是一家国际连锁潮牌酒店，目前其已经开业的连锁酒店分布在纽约、伦敦、巴黎、洛杉矶、西雅图、上海等全球一线都会城市。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1497826.d.html</link>
-            <guid>2818547</guid>
-            <pubDate>Tue, 04 Oct 2022 12:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉夫罗夫：俄方根本不在乎西方国家是否承认4地区入俄】据塔斯社4日报道，俄罗斯外交部长拉夫罗夫当天向记者表示，俄方根本不在乎西方国家是否承认顿涅茨克、卢甘斯克、赫尔松、扎波罗热四个地区加入俄罗斯。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-04/detail-imqqsmrp1497744.d.html</link>
-            <guid>2818543</guid>
-            <pubDate>Tue, 04 Oct 2022 12:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
