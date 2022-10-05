@@ -4,11 +4,124 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 05 Oct 2022 15:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 18:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  能源储存设施监管部门：德国天然气储备率至10月5日达到92.53%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9891724.d.html</link>
+            <guid>2819439</guid>
+            <pubDate>Wed, 05 Oct 2022 18:13:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伦敦金属交易所（LME）在金属产品交割中限制采用乌拉尔矿冶公司（UMMC）的产品。UMMC为俄罗斯第二大铜生产公司。]]></title>
+            <guid>2819438</guid>
+            <pubDate>Wed, 05 Oct 2022 18:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推特和马斯克据称10月5日将围绕潜在的并购协议举行磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1604505.d.html</link>
+            <guid>2819437</guid>
+            <pubDate>Wed, 05 Oct 2022 18:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西9月外汇流出38.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9890506.d.html</link>
+            <guid>2819435</guid>
+            <pubDate>Wed, 05 Oct 2022 17:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了102个对手方的2.231万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqmmtha9890163.d.html</link>
+            <guid>2819430</guid>
+            <pubDate>Wed, 05 Oct 2022 17:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯10月份在波罗的海港口的乌拉尔石油装载量将增至650万吨（9月份为590万吨）。]]></title>
+            <guid>2819428</guid>
+            <pubDate>Wed, 05 Oct 2022 17:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚洲开发银行将向巴基斯坦提供多达25亿美元的洪灾救援支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-06/detail-imqqsmrp1602313.d.html</link>
+            <guid>2819427</guid>
+            <pubDate>Wed, 05 Oct 2022 17:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯2022年至10月3日CPI较上年同期上升10.4%。10月3日当周CPI环比上升0.07%。]]></title>
+            <guid>2819419</guid>
+            <pubDate>Wed, 05 Oct 2022 16:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特能源大臣阿卜杜勒-阿齐兹：实际减产量不会是50万桶/日，我们估计是100-110万桶/日。]]></title>
+            <guid>2819415</guid>
+            <pubDate>Wed, 05 Oct 2022 15:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：认为70美元/桶的油价是可以接受的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9885919.d.html</link>
+            <guid>2819413</guid>
+            <pubDate>Wed, 05 Oct 2022 15:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯将准备削减产量以抵消价格上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1598606.d.html</link>
+            <guid>2819412</guid>
+            <pubDate>Wed, 05 Oct 2022 15:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯的石油产量为990万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9885898.d.html</link>
+            <guid>2819411</guid>
+            <pubDate>Wed, 05 Oct 2022 15:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯副总理诺瓦克表示，俄罗斯将在2022年生产5.3亿吨石油，在2023年生产4.9亿吨石油。]]></title>
+            <guid>2819409</guid>
+            <pubDate>Wed, 05 Oct 2022 15:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟委员会主席冯德莱恩建议将天然气价格上限与TTF挂钩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1598194.d.html</link>
+            <guid>2819405</guid>
+            <pubDate>Wed, 05 Oct 2022 15:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利政府：预计智利2023年GDP增长为-0.5%，此前预期为-0.1%。预计智利2023年通胀率为6.3%，此前预期为5.4%。]]></title>
+            <guid>2819404</guid>
+            <pubDate>Wed, 05 Oct 2022 15:26:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本将删除“核电站最长运行60年”的相关规定】日本原子能规制委员会委员长山中伸介当天表示，将从《核反应堆等规制法》中删除有关“核电站原则上运行40年、最长60年”的相关规定。据悉，日本经济产业省当天提出了调整核电站运行年限的方针，已得到了原子能规制委员会的认可。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9885186.d.html</link>
+            <guid>2819403</guid>
+            <pubDate>Wed, 05 Oct 2022 15:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国科学家实现百公里自由空间高精度时间频率传递】据中国科学院消息，我国科研团队在国际上首次实现了百公里级的自由空间高精度时间频率传递实验，时间传递稳定度达到飞秒（千万亿分之一秒）量级，频率传递万秒稳定度优于4E-19（相当于时钟约一千亿年的误差不超过一秒），可满足目前最高精度光钟的时间传递要求。（央视）]]></title>
+            <guid>2819402</guid>
+            <pubDate>Wed, 05 Oct 2022 15:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲央行在2022年夏季降低对南欧国家债市的支持力度】 周三数据显示，欧洲央行抗疫购债组合中的意大利债券持仓规模在8月和9月减少了12.43亿欧元（12亿美元），希腊和西班牙债券也有所减少；法国债券增量最大，净购买19.7亿欧元。相比之下，欧洲央行在6-7月增持173亿欧元南欧国家债券，当时欧洲央行开始利用债券持仓来保护更脆弱的欧元区成员国，抵御其认为的政府债券收益率不合理飙升。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9885093.d.html</link>
+            <guid>2819401</guid>
+            <pubDate>Wed, 05 Oct 2022 15:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：伊朗要求加入欧佩克+联合部长级监督委员会（JMMC）。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1597500.d.html</link>
+            <guid>2819400</guid>
+            <pubDate>Wed, 05 Oct 2022 15:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF：由于加息，全球工资-物价螺旋上升的风险很低】国际货币基金组织认为，全球工资-物价螺旋上涨的风险有限，因为激进的加息和实际工资下降有助于稳定消费者的预期。以John Bluedorn为首的IMF经济学家分析了过去50年里通胀和工资上涨、失业率保持在低水平的22种情况。他们发现，这些情形都没有导致工资-物价螺旋上升。在所有这些情形中，最终通胀都出现下降，名义工资则上升。但分析师们也表示，这不应该成为决策者自满的理由，当工人预计未来通胀率将保持在与当前物价增长相同的水平时，他们往往要求涨薪，这可能会导致预期不稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9884658.d.html</link>
+            <guid>2819398</guid>
+            <pubDate>Wed, 05 Oct 2022 15:16:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：OPEC+减产200万桶/日的决定将从11月开始生效，一直持续到2023年12月。]]></title>
             <guid>2819392</guid>
@@ -192,129 +305,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9879628.d.html</link>
             <guid>2819340</guid>
             <pubDate>Wed, 05 Oct 2022 13:58:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行在今天的购债拍卖中没有买入任何国债，做市商提供了4.136亿英镑国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592231.d.html</link>
-            <guid>2819335</guid>
-            <pubDate>Wed, 05 Oct 2022 13:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[两名欧佩克+消息人士称，欧佩克+的减产将从11月开始生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592118.d.html</link>
-            <guid>2819333</guid>
-            <pubDate>Wed, 05 Oct 2022 13:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯驱逐立陶宛驻俄临时代办】当地时间10月5日，据俄罗斯外交部公布的消息，俄罗斯驱逐了立陶宛驻俄临时代办。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1592070.d.html</link>
-            <guid>2819331</guid>
-            <pubDate>Wed, 05 Oct 2022 13:50:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者Amena Bakr：目前欧佩克+还没有就减产200万桶/日达成最终协议，部长们仍在讨论石油市场报告。]]></title>
-            <guid>2819330</guid>
-            <pubDate>Wed, 05 Oct 2022 13:49:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行：第三季度GDP增长将放缓。经济增长前景高度不确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1591903.d.html</link>
-            <guid>2819328</guid>
-            <pubDate>Wed, 05 Oct 2022 13:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMD跌近4%，此前遭富国银行将其目标价下调至90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1591639.d.html</link>
-            <guid>2819325</guid>
-            <pubDate>Wed, 05 Oct 2022 13:44:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚石油(XOM.N)涨2.5%，公司预计由于天然气收益抵消了炼油和化学品的疲软，Q3营业利润将维持上一季度创纪录的新高179亿美元。]]></title>
-            <guid>2819323</guid>
-            <pubDate>Wed, 05 Oct 2022 13:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  白宫发言人Kirby称，美国需要减少对欧佩克和外国石油生产商的依赖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9878075.d.html</link>
-            <guid>2819322</guid>
-            <pubDate>Wed, 05 Oct 2022 13:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰将与西班牙和葡萄牙联合申办2030年世界杯足球赛】当地时间10月5日，西班牙足协在官网宣布，乌克兰将加入西班牙和葡萄牙联合申办2030年世界杯足球赛的项目，该提案已经得到上述三国政府首脑的批准，同时也得到了欧足联的支持。预计乌克兰会很快将其代表团成员纳入西班牙和葡萄牙共同申办2030年世界杯足球赛的协调委员会之中。（央视新闻）]]></title>
-            <guid>2819320</guid>
-            <pubDate>Wed, 05 Oct 2022 13:34:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国星光电：自主研发Micro LED巨量转移技术现处于小批验证阶段】国星光电10月5日在互动平台上称，公司自主研发Micro LED巨量转移技术，现处于小批验证阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9877394.d.html</link>
-            <guid>2819316</guid>
-            <pubDate>Wed, 05 Oct 2022 13:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行维持利率不变，波兰兹罗提兑欧元跌0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9877300.d.html</link>
-            <guid>2819315</guid>
-            <pubDate>Wed, 05 Oct 2022 13:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行将利率维持在6.75%不变，市场预期为上调至7.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1590314.d.html</link>
-            <guid>2819313</guid>
-            <pubDate>Wed, 05 Oct 2022 13:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[知情人士称，埃隆-马斯克和推特(TWTR.N)法律团队尚未就结束诉讼达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9876970.d.html</link>
-            <guid>2819312</guid>
-            <pubDate>Wed, 05 Oct 2022 13:22:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+代表称，欧佩克+减产的决定将以当前（油市的）基准情况为衡量标准。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9876527.d.html</link>
-            <guid>2819310</guid>
-            <pubDate>Wed, 05 Oct 2022 13:16:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，欧佩克+联合部长级监督委员会（JMMC）会议结束，部长级会议开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1589484.d.html</link>
-            <guid>2819309</guid>
-            <pubDate>Wed, 05 Oct 2022 13:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辉瑞(PFE.N)宣布完成对全球血液疗法(GBT.O)的收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1588695.d.html</link>
-            <guid>2819305</guid>
-            <pubDate>Wed, 05 Oct 2022 13:04:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行：银行贷款下降83.3亿欧元至2.12万亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9875530.d.html</link>
-            <guid>2819304</guid>
-            <pubDate>Wed, 05 Oct 2022 13:02:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：壳牌(SHEL.N)对波兰海上风电合作持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1588313.d.html</link>
-            <guid>2819303</guid>
-            <pubDate>Wed, 05 Oct 2022 13:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国8月国际贸易逆差经修正为674亿美元】当地时间10月5日，根据美国经济分析局和美国人口普查局公布的数据，经修正，美国8月份的国际贸易逆差为674亿美元。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1587826.d.html</link>
-            <guid>2819302</guid>
-            <pubDate>Wed, 05 Oct 2022 12:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧佩克+一名代表称，欧佩克+联合部长级监督委员会（JMMC）会议已开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqmmtha9874225.d.html</link>
-            <guid>2819298</guid>
-            <pubDate>Wed, 05 Oct 2022 12:44:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将摩根士丹利(MS.N)目标价从99美元下调至93美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-05/detail-imqqsmrp1586807.d.html</link>
-            <guid>2819295</guid>
-            <pubDate>Wed, 05 Oct 2022 12:38:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
