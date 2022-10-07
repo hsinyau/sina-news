@@ -4,264 +4,326 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 07 Oct 2022 00:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 06:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【东正金融在港交所停牌】东正金融发布公告，紧随要约结束后，约1.47亿股H股(于本公告日期占全部已发行股份约6.89%)由公众人士持有。因此，公司未能符合上市规则第8.08(1)(a)条所载的25%最低公众持股量规定。应公司要求，H股将自2022年10月7日上午九时正起于香港联合交易所有限公司主板暂停买卖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9997075.d.html</link>
-            <guid>2820510</guid>
-            <pubDate>Fri, 07 Oct 2022 00:55:03 GMT</pubDate>
+            <title><![CDATA[KBW：将摩根大通(JPM.N)目标价从140美元下调至128美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0023477.d.html</link>
+            <guid>2820613</guid>
+            <pubDate>Fri, 07 Oct 2022 06:10:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本财务大臣铃木俊一：计划下周参加G20峰会。G20可能将讨论加息对经济的影响。日本9月外汇储备降幅创纪录。外汇干预是外汇储备下降的一个因素。]]></title>
-            <guid>2820509</guid>
-            <pubDate>Fri, 07 Oct 2022 00:50:52 GMT</pubDate>
+            <title><![CDATA[德国8月出口物价指数月率 2.1%，前值2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022958.d.html</link>
+            <guid>2820610</guid>
+            <pubDate>Fri, 07 Oct 2022 06:03:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储：澳大利亚家庭和银行的财务状况普遍良好。一些家庭已经感受到了加息带来的压力，这种压力可能会持续一段时间。滞后性意味着利率上升的影响尚未完全传导至抵押贷款的支付。大多数抵押贷款持有人的房屋中有大量的资产，可以经受住房价大幅下跌的考验。许多企业面临着成本不断上升、利率走高和收入增长放缓的压力。未来一段时间财务压力指标可能上升。]]></title>
-            <guid>2820508</guid>
-            <pubDate>Fri, 07 Oct 2022 00:50:03 GMT</pubDate>
+            <title><![CDATA[德国8月出口物价指数年率 18.6%，前值17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022954.d.html</link>
+            <guid>2820609</guid>
+            <pubDate>Fri, 07 Oct 2022 06:03:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  埃隆·马斯克表示，收购交易完成后，推特产品将快速更新发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9996516.d.html</link>
-            <guid>2820505</guid>
-            <pubDate>Fri, 07 Oct 2022 00:48:54 GMT</pubDate>
+            <title><![CDATA[英国9月Halifax季调后房价指数年率 9.9%，前值11.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022819.d.html</link>
+            <guid>2820607</guid>
+            <pubDate>Fri, 07 Oct 2022 06:01:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【被问是否会在G20峰会期间与普京会面，拜登：还有待观察】据美国《华盛顿观察家报》报道，当地时间周四（6日），在白宫被记者问及是否会与俄罗斯总统普京在11月举行的二十国集团（G20）峰会期间会面，美国总统拜登对此表示，“还有待观察”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9996064.d.html</link>
-            <guid>2820504</guid>
-            <pubDate>Fri, 07 Oct 2022 00:42:34 GMT</pubDate>
+            <title><![CDATA[英国9月Halifax季调后房价指数月率 -0.1%，前值0.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022811.d.html</link>
+            <guid>2820606</guid>
+            <pubDate>Fri, 07 Oct 2022 06:01:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【新疆昨日新增本土无症状感染者96例】10月6日0至24时，新疆维吾尔自治区无新增确诊病例；新增本土无症状感染者96例，其中，乌鲁木齐市天山区10例、沙依巴克区6例、高新区6例、水磨沟区9例、经开区4例、米东区10例，伊犁州伊宁市25例，塔城地区乌苏市6例，吐鲁番市高昌区9例，巴州库尔勒市11例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1705300.d.html</link>
-            <guid>2820502</guid>
-            <pubDate>Fri, 07 Oct 2022 00:37:46 GMT</pubDate>
+            <title><![CDATA[德国8月季调后工业产出月率 -0.8%，预期-0.50%，前值-0.30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022796.d.html</link>
+            <guid>2820605</guid>
+            <pubDate>Fri, 07 Oct 2022 06:01:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[弘阳地产2024年5月到期美元债势创7月28日以来最大跌幅。截至上午8:33，该公司7.3%债券每1美元跌1美分，至5.74美分。]]></title>
-            <guid>2820501</guid>
-            <pubDate>Fri, 07 Oct 2022 00:35:58 GMT</pubDate>
+            <title><![CDATA[德国8月进口物价指数年率 32.7%，预期29.9%，前值28.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022783.d.html</link>
+            <guid>2820604</guid>
+            <pubDate>Fri, 07 Oct 2022 06:01:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储：市场受到同步政策收紧、地缘政治紧张局势、美元走高、能源价格上涨的压力。如果全球金融状况进一步大幅收紧，金融稳定性面临的风险将被放大。]]></title>
-            <guid>2820500</guid>
-            <pubDate>Fri, 07 Oct 2022 00:32:59 GMT</pubDate>
+            <title><![CDATA[德国8月进口物价指数月率 4.3%，预期2%，前值1.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1731424.d.html</link>
+            <guid>2820603</guid>
+            <pubDate>Fri, 07 Oct 2022 06:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储公布金融稳定审查报告，称全球金融稳定风险增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1704994.d.html</link>
-            <guid>2820499</guid>
-            <pubDate>Fri, 07 Oct 2022 00:32:45 GMT</pubDate>
+            <title><![CDATA[德国8月实际零售销售年率 -4.3%，预期-4.3%，前值-2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1731417.d.html</link>
+            <guid>2820602</guid>
+            <pubDate>Fri, 07 Oct 2022 06:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[澳洲联储：加密资产对金融系统构成的风险很小。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1704911.d.html</link>
-            <guid>2820498</guid>
-            <pubDate>Fri, 07 Oct 2022 00:31:31 GMT</pubDate>
+            <title><![CDATA[德国8月实际零售销售月率 -1.3%，预期-1.1%，前值1.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0022722.d.html</link>
+            <guid>2820601</guid>
+            <pubDate>Fri, 07 Oct 2022 06:00:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【郑州强力攻坚“保交楼”专项行动取得重要阶段性成果】10月6日，距郑州市印发《“大干30天，确保全市停工楼盘全面复工”保交楼专项行动实施方案》整30天的时间节点，郑州全市已排查出的147个已售停工、半停工商品住宅项目中，有145个实现全面、实质性复工，郑州“保交楼、稳民生、促发展”专项行动取得重要阶段性成果。相关人员称，2个未复工的项目目前已确定化解路径：新密市凯旋山项目进入破产重整程序，新郑市盛华学府项目开始破产清算，预计十一月底前可实现复工。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1704682.d.html</link>
-            <guid>2820497</guid>
-            <pubDate>Fri, 07 Oct 2022 00:28:23 GMT</pubDate>
+            <title><![CDATA[【中国共产党第十九届中央纪律检查委员会第七次全体会议公报】 中国共产党第十九届中央纪律检查委员会第七次全体会议，于2022年10月7日在北京举行。出席这次全会的有中央纪委委员129人，列席2人。全会由中央纪律检查委员会常务委员会主持。中共中央政治局常委、中央纪委书记赵乐际讲话。全会审议并通过了十九届中央纪律检查委员会向中国共产党第二十次全国代表大会的工作报告，同意将报告提请中国共产党第十九届中央委员会第七次全体会议审议。（新华社）]]></title>
+            <guid>2820599</guid>
+            <pubDate>Fri, 07 Oct 2022 05:52:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首届欧洲政治共同体领导人会议举行】首届欧洲政治共同体领导人会议当地时间6日在捷克首都布拉格举行。除欧盟27个成员国外，另有包括英国、土耳其、乌克兰等17个欧洲国家和地区受邀参加，讨论新形势下欧洲安全、能源、气候变化和经济等议题。欧盟轮值主席国捷克总理菲亚拉在会前的致辞中说，希望将这一会议开成一个圆桌论坛，就当前欧洲及其他地区形势进行非正式交流。他强调，会议不会组建一个新的欧洲组织，也不会取代现有的合作形式，当天的会议甚至不会通过任何正式决议。观察人士认为，由于在一些地区问题上存在诸多分歧，与会国家和地区很难协调形成统一立场，欧洲政治共同体可能沦为无法解决实质问题的清谈俱乐部。一些欧盟候选国则担心，这个新机制会拖延其正式加入欧盟的进程。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1704302.d.html</link>
-            <guid>2820496</guid>
-            <pubDate>Fri, 07 Oct 2022 00:21:15 GMT</pubDate>
+            <title><![CDATA[瑞士9月未季调失业率 1.9%，预期2.00%，前值2.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1730463.d.html</link>
+            <guid>2820597</guid>
+            <pubDate>Fri, 07 Oct 2022 05:45:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国监管机构呼吁节能以应对天然气短缺】德国能源监管机构联邦网络管理局当地时间6日表示，德国家庭和小型企业上周天然气消耗量比之前4年同期平均水平高出近10%，如果不大幅削减用气量，德国冬季将面临严峻的能源危机。联邦网络管理局局长克劳斯·穆勒表示，为避免今冬出现紧急状况，家庭和小型企业必须节能至少20%。一周前穆勒也发表过类似倡议，但收效甚微，全国用气量不降反升。（央视）]]></title>
-            <guid>2820495</guid>
-            <pubDate>Fri, 07 Oct 2022 00:21:03 GMT</pubDate>
+            <title><![CDATA[瑞士9月季调后失业率 2.1%，预期2.10%，前值2.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1730435.d.html</link>
+            <guid>2820596</guid>
+            <pubDate>Fri, 07 Oct 2022 05:45:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  据日本财务省，日本9月份外汇储备环比下降，为有记录以来最大降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9994149.d.html</link>
-            <guid>2820491</guid>
-            <pubDate>Fri, 07 Oct 2022 00:15:30 GMT</pubDate>
+            <title><![CDATA[  【港股华润水泥控股跌超9% 归母应占盈利预计显著减少】华润水泥控股(01313.HK)跌9. 51%。根据公告，截至2022年9月30日止九个月公司拥有人应占盈利预期将较2021年同期显著减少,主要受到销售成本上升及销量减少影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1729664.d.html</link>
+            <guid>2820593</guid>
+            <pubDate>Fri, 07 Oct 2022 05:33:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿塞拜疆、亚美尼亚、法国和欧盟四方领导人举行会晤】据央视新闻援引俄新社报道，当地时间10月6日，阿塞拜疆、亚美尼亚、法国、欧盟四方第二阶段会晤在捷克布拉格举行，四方领导人出席。会晤结束后，阿塞拜疆总统阿利耶夫表示，阿塞拜疆与亚美尼亚有望在今年年底前签署和平条约。]]></title>
-            <guid>2820490</guid>
-            <pubDate>Fri, 07 Oct 2022 00:11:33 GMT</pubDate>
+            <title><![CDATA[  【港股双财庄涨超15% 较招股价已实现翻倍上涨】双财庄(02321.HK)涨15%，报1.34港元，较招股价的0.56港元已实现翻倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0020927.d.html</link>
+            <guid>2820592</guid>
+            <pubDate>Fri, 07 Oct 2022 05:32:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【重庆昨日新增本土确诊病例23例】据重庆卫健委消息，10月6日0—24时，重庆市新增本土确诊病例23例（巴南区3例、綦江区3例、秀山县3例、大足区2例、巫山县2例、万州区1例、沙坪坝区1例、江津区1例、永川区1例、南川区1例、铜梁区1例、梁平区1例、武隆区1例、垫江县1例、奉节县1例），新增本土无症状感染者26例（渝北区5例、巫山县4例、秀山县4例、合川区2例、梁平区2例、黔江区1例、沙坪坝区1例、南岸区1例、璧山区1例、荣昌区1例、城口县1例、丰都县1例、垫江县1例、彭水县1例），均在隔离管控人员中发现；治愈出院本土确诊病例1例（江津区）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1703352.d.html</link>
-            <guid>2820489</guid>
-            <pubDate>Fri, 07 Oct 2022 00:06:03 GMT</pubDate>
+            <title><![CDATA[  台积电9月销售额2,082.5亿元台币，同比增长36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1729588.d.html</link>
+            <guid>2820591</guid>
+            <pubDate>Fri, 07 Oct 2022 05:32:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【GC CONSTRUCTION：公开发售获约7.58倍认购 每股发售价0.50港元】香港建筑承建商GC CONSTRUCTION(01489.HK)在港交所发布公告，公布配发结果，该公司全球发售2.5亿股，其中公开发售占10%，配售占90%，最终发售价已厘定为每股发售股份0.50港元(发售价区间为0.5-0.54港元)，每手买卖单位5000股，预期股份于2022年10月10日(星期一)上午九时正开始在主板买卖。]]></title>
-            <guid>2820487</guid>
-            <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[  【预计发送旅客182万人次 长三角铁路迎国庆假期返程客流高峰】从中国铁路上海局集团有限公司获悉，10月7日是国庆假期最后一天，长三角铁路迎来返程客流高峰，当日预计发送旅客182万人次，铁路部门对客流饱满方向增开194列旅客列车增加运力，确保旅客安全、有序、放心出行。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1728916.d.html</link>
+            <guid>2820588</guid>
+            <pubDate>Fri, 07 Oct 2022 05:21:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  特斯拉CEO埃隆·马斯克表示，很高兴宣布特斯拉SEMI卡车将开始生产并于12月1日交付给百事可乐。]]></title>
-            <guid>2820486</guid>
-            <pubDate>Thu, 06 Oct 2022 23:55:34 GMT</pubDate>
+            <title><![CDATA[【俄媒：克宫称普京将于周五与埃尔多安通话】据塔斯社7日报道，俄罗斯总统新闻秘书、克里姆林宫发言人佩斯科夫6日对塔斯社表示，俄罗斯总统普京计划周五（10月7日）与土耳其总统埃尔多安举行电话会谈。报道称，当被问及俄总统日程安排是否包括周五与埃尔多安通话时，佩斯科夫称：“是的，确实如此。”（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0018559.d.html</link>
+            <guid>2820580</guid>
+            <pubDate>Fri, 07 Oct 2022 05:00:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【明天到10日 新一轮较强冷空气将影响我国中东部大部地区】中央气象台预计，明天到10日，新一轮较强冷空气将影响中东部大部地区，气温将下降6～10℃，局地超过12℃。长江以北大部分地区将伴有4～6级偏北风，阵风7～9级。此外，华北、东北地区还将出现明显雨雪天气，内蒙古东部、辽宁、吉林、黑龙江南部等地的部分地区有中到大雨，局部暴雨。内蒙古中东部、河北北部等地有小到中雪或雨夹雪，局部大雪。（新华网）]]></title>
-            <guid>2820484</guid>
-            <pubDate>Thu, 06 Oct 2022 23:51:19 GMT</pubDate>
+            <title><![CDATA[日本8月同步指标月率初值 1.6%，前值1.4%。日本8月领先指标月率初值 2%，前值-1.4%。]]></title>
+            <guid>2820579</guid>
+            <pubDate>Fri, 07 Oct 2022 05:00:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  日本9月外汇储备 12381亿美元，前值12921亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1702544.d.html</link>
-            <guid>2820483</guid>
-            <pubDate>Thu, 06 Oct 2022 23:51:01 GMT</pubDate>
+            <title><![CDATA[【瑞士信贷提出现金回购最高达30亿瑞士法郎的债务证券】瑞士信贷集团10月7日宣布，瑞士信贷国际提出以现金方式回购部分OpCo高级债务证券，金额高达约30亿瑞士法郎。瑞士信贷当日宣布，它正在就8种以欧元或英镑计价的高级债务证券提出现金要约，总代价不超过10亿欧元。同时，瑞信还宣布对12只美元计价的高级债务证券开展单独的现金要约收购，总价不超过20亿美元。两项要约均受制于各自要约备忘录中规定的各种条件。这些要约将分别于2022年11月3日和2022年11月10日到期。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0017853.d.html</link>
+            <guid>2820578</guid>
+            <pubDate>Fri, 07 Oct 2022 04:49:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【河北香河：京哈高速香河服务区3名工作人员在隔离点核酸初筛阳性】据香河县疾控中心官微消息，2022年10月6日，京哈高速香河服务区3名工作人员在隔离点核酸检测初筛阳性，系10月1日经停京哈高速香河服务区的外省病例关联人员，于10月3日作为密接进入隔离点，10月3日、4日、5日核酸检测结果均为阴性。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9992642.d.html</link>
-            <guid>2820482</guid>
-            <pubDate>Thu, 06 Oct 2022 23:50:54 GMT</pubDate>
+            <title><![CDATA[斯里兰卡部长表示，斯里兰卡的里海石油管道有足够的石油产品库存。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0015473.d.html</link>
+            <guid>2820573</guid>
+            <pubDate>Fri, 07 Oct 2022 04:14:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【挪威限制俄罗斯渔船进入港口】据挪威广播电视公司报道，挪威政府当日在新闻发布会上宣布，俄罗斯渔船现在只能在挪威三个港口停靠（即希尔克内斯、特罗姆瑟和博茨菲尤尔），并在那里接受检查。 (央视新闻)]]></title>
-            <guid>2820479</guid>
-            <pubDate>Thu, 06 Oct 2022 23:30:45 GMT</pubDate>
+            <title><![CDATA[由于用于石油货物的外汇短缺，斯里兰卡将关闭炼油厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0015469.d.html</link>
+            <guid>2820572</guid>
+            <pubDate>Fri, 07 Oct 2022 04:14:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本8月劳动现金收入年率 1.7%，预期1.40%，前值1.80%。日本8月所有家庭支出年率 5.1%，预期6.70%，前值3.40%。日本8月所有家庭支出月率 -1.7%，预期0.2%，前值-1.4%。日本8月加班工资年率 4.3%，前值4.7%。]]></title>
-            <guid>2820478</guid>
-            <pubDate>Thu, 06 Oct 2022 23:30:36 GMT</pubDate>
+            <title><![CDATA[【德国2000亿欧元能源计划遭欧盟多国批评】日前，德国拟投入2000亿欧元，以实现国内能源价格下降的目标；但该计划自公布以来，却遭到许多欧盟国家的反对。当地时间6日，在捷克首都布拉格参加欧洲政治共同体领导人会议的多个欧洲国家领导人也对德国的这一能源计划表示不满。多国领导人称，作为欧洲最大的经济体，德国的这一措施可能对地区小国造成不利影响，并损害欧盟团结。（央视）]]></title>
+            <guid>2820571</guid>
+            <pubDate>Fri, 07 Oct 2022 04:12:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报金观平：促进产业在国内有序转移】近年来，对于中国制造业转移的讨论热度不减。对此，我们不必担忧，但也不能轻视。一方面要认识到，制造业外迁、产业链转移是正常的经济现象，是全球化和市场机制作用的结果；另一方面，也要加快优化区域产业链布局，引导产业链关键环节留在国内，强化中西部和东北地区承接产业转移能力建设，促进产业在国内有序转移。在经济全球化背景下，产业发展和转移有其自身规律。为降低生产成本、扩大市场份额，资本往往会主动调整全球生产能力布局，向低成本地区流动。我国拥有庞大的国内市场、完整的产业体系以及高效的基础设施和新技术应用等优势，仍是当今世界最有吸引力的投资热土。]]></title>
-            <guid>2820477</guid>
-            <pubDate>Thu, 06 Oct 2022 23:29:46 GMT</pubDate>
+            <title><![CDATA[【十一机票价格五年来最低】 今年国庆机票价格创五年来同期最低。去哪儿平台数据显示，2022年十一黄金周机票平均支付价格约650元，同比2021年十一降低12%，较2019年低二成，10月3日-4日是假期价格洼地，低至500元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0014659.d.html</link>
+            <guid>2820568</guid>
+            <pubDate>Fri, 07 Oct 2022 04:04:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储梅斯特：预计明年不会降息。要消除高通胀还需要一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1701467.d.html</link>
-            <guid>2820476</guid>
-            <pubDate>Thu, 06 Oct 2022 23:28:55 GMT</pubDate>
+            <title><![CDATA[  【俄外交部：美国和欧盟与市场经济原则背道而驰】俄罗斯外交部发言人扎哈罗娃当地时间6日表示，欧盟批准的对俄新一轮制裁再次表明，美国和欧盟与市场经济原则背道而驰。扎哈罗娃表示，他们对所有经济行为进行干预并施加政治压力，其最重要的地缘政治任务就是削弱俄罗斯，并帮助那些向西方政客提供支持和资金的公司、巨头、垄断组织获取高额利润。扎哈罗娃还指出，俄罗斯将重新调整其石油出口方向，将石油出口到准备与俄罗斯开展正常合作的国家。欧盟6日批准实施第八轮对俄制裁方案，内容包括禁止超过价格上限的俄罗斯石油通过海路运输至第三方，禁止向俄罗斯公司提供信息技术、工程和法律服务等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0013643.d.html</link>
+            <guid>2820567</guid>
+            <pubDate>Fri, 07 Oct 2022 03:51:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国女排3比2击败荷兰队】在6日进行的2022世界女排锦标赛第二阶段（16强）小组赛中，中国女排鏖战五局，以3:2击败东道主荷兰队，赢得本阶段比赛两连胜。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1701196.d.html</link>
-            <guid>2820475</guid>
-            <pubDate>Thu, 06 Oct 2022 23:22:39 GMT</pubDate>
+            <title><![CDATA[【港股内房股持续低迷 旭辉控股集团跌幅扩大至12%】截至发稿，旭辉控股集团跌12.50%、碧桂园跌8.99%、龙湖集团跌8.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1721701.d.html</link>
+            <guid>2820563</guid>
+            <pubDate>Fri, 07 Oct 2022 03:43:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储梅斯特：美联储应该考虑在某个时候出售住房抵押贷款支持证券。货币供应量不是我关注的关键因素，它一直都不是观察通胀的可靠指标。]]></title>
-            <guid>2820474</guid>
-            <pubDate>Thu, 06 Oct 2022 23:22:15 GMT</pubDate>
+            <title><![CDATA[【海南省防总今日10时启动防汛防风Ⅳ级应急响应】据海南省防汛防风防旱总指挥部消息，海南省气象局于2022年10月7日9时10分发布暴雨三级预警：受偏东急流影响，预计未来24小时，本岛文昌、琼中、琼海和万宁的大部分乡镇降雨量将达100毫米以上，另外海口、定安、屯昌和陵水等市县的大部分乡镇将出现50毫米以上降水。海南省防汛防风防旱总指挥部决定于2022年10月7日10时启动防汛防风Ⅳ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1718496.d.html</link>
+            <guid>2820560</guid>
+            <pubDate>Fri, 07 Oct 2022 03:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国物流与采购联合会：三季度以来物流服务价格涨幅逐步趋缓】中国物流与采购联合会公布的最新数据显示，今年以来物流服务价格总体均位于较高水平。三季度以来，物流服务价格涨幅从高位逐步趋缓。从不同运输方式来看，海运方面，8月份中国出口集装箱综合运价指数平均值为3033.60点，较上月平均值下跌6.4%。公路运输市场供需两端基本平稳。8月份中国公路物流运价指数为103点，比上月回落0.16%。综合来看，三季度以来，物流服务价格涨幅从高位逐步趋缓。]]></title>
-            <guid>2820473</guid>
-            <pubDate>Thu, 06 Oct 2022 23:16:56 GMT</pubDate>
+            <title><![CDATA[韩国央行行长李昌镛称，韩国央行不希望其“机械”地跟随美国加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0009592.d.html</link>
+            <guid>2820559</guid>
+            <pubDate>Fri, 07 Oct 2022 03:08:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山东昨日新增本土确诊病例3例 本土无症状感染者7例】10月6日0时至24时，山东省报告新增本土确诊病例3例，其中烟台1例，为省外返鲁人员，系集中隔离点检出；泰安1例，为省外入鲁人员，系集中隔离点检出；滨州1例，为省外返鲁人员，系跨区域协查检出。新增本土无症状感染者7例，其中济南3例，2例为省外返鲁人员，1例为省外入鲁人员，均系集中隔离点检出；烟台2例，1例为省外返鲁人员，系集中隔离点检出，1例系居家隔离医学观察检出；泰安2例，均为省外入鲁人员，系集中隔离点检出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1700459.d.html</link>
-            <guid>2820470</guid>
-            <pubDate>Thu, 06 Oct 2022 23:11:48 GMT</pubDate>
+            <title><![CDATA[【假期将结束节假日概念港股回落 呷哺呷哺跌超5%】国庆假期最后一天，节假日概念港股多数回落，餐饮股中呷哺呷哺跌超5%，海底捞跌超3%；旅游股携程集团-S跌超3%；航空股中国航跌2%；免税龙头中国中免跌3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0009266.d.html</link>
+            <guid>2820558</guid>
+            <pubDate>Fri, 07 Oct 2022 03:05:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储梅斯特：没有看到任何证据表明加息步伐可以放缓。我们需要让实际利率转为正值，并在这一水平上维持一段时间，以降低通胀。]]></title>
-            <guid>2820468</guid>
-            <pubDate>Thu, 06 Oct 2022 23:09:55 GMT</pubDate>
+            <title><![CDATA[新加坡金管局将于10月14日发布货币政策声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0009070.d.html</link>
+            <guid>2820557</guid>
+            <pubDate>Fri, 07 Oct 2022 03:03:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国物流与采购联合会：三季度以来物流服务价格涨幅逐步趋缓】中国物流与采购联合会公布的最新数据显示，今年以来物流服务价格总体均位于较高水平。三季度以来，物流服务价格涨幅从高位逐步趋缓。从不同运输方式来看，海运方面，8月份中国出口集装箱综合运价指数平均值为3033.60点，较上月平均值下跌6.4%。公路运输市场供需两端基本平稳。8月份中国公路物流运价指数为103点，比上月回落0.16%。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9989975.d.html</link>
-            <guid>2820466</guid>
-            <pubDate>Thu, 06 Oct 2022 23:02:28 GMT</pubDate>
+            <title><![CDATA[【携程：2022国庆周边游人均消费增长30% 周边酒店花费增长一成】携程发布《2022年国庆假期旅游总结报告》。报告显示，今年本地游、周边游、短途游主导国庆假期旅游市场。国庆7天，本地、周边旅游订单占比达65%，本地周边人均旅游花费较去年国庆增长近30%。今年国庆最火爆的本地周边游集中在上海、北京、广州、杭州、深圳、南京、成都、重庆、长沙、苏州 合肥、武汉、宁波、西安、济南等城市。国庆假期，本地周边酒店订单占比超六成，用户在酒店消费方面出手更阔绰，本地周边的酒店订单平均花费较去年增长近一成。节末的酒店花费相对节前更贵一筹，10月5日至7日的酒店预订均价，相较于10月1日至4日，提高26%。]]></title>
+            <guid>2820555</guid>
+            <pubDate>Fri, 07 Oct 2022 02:57:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国8月经常帐收支初值为-30.5亿美元，前月为10.9亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9989941.d.html</link>
-            <guid>2820465</guid>
-            <pubDate>Thu, 06 Oct 2022 23:01:29 GMT</pubDate>
+            <title><![CDATA[【国庆档总票房破14亿，《万里归途》破10亿】据灯塔专业版数据，截至10月7日9时44分，2022国庆档（10月1日-10月7日）总票房（含预售）突破14亿。《万里归途》以绝对优势领跑，《平凡英雄》破亿票房列第二，已上映多日的《哥，你好》则反超一众新片列第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1717327.d.html</link>
+            <guid>2820554</guid>
+            <pubDate>Fri, 07 Oct 2022 02:56:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  美联储梅斯特：缩表行动相当于收紧政策利率约50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9989726.d.html</link>
-            <guid>2820463</guid>
-            <pubDate>Thu, 06 Oct 2022 22:55:31 GMT</pubDate>
+            <title><![CDATA[日本首相岸田文雄表示，日元快速单边下跌是不可取的，日本上个月的干预反映出不能对投机性的外汇走势视而不见。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1716614.d.html</link>
+            <guid>2820552</guid>
+            <pubDate>Fri, 07 Oct 2022 02:48:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国就业数据公布前夕，对冲基金面对美股周初大涨反而降低风险敞口】对冲基金未加入押注美联储即将减缓货币紧缩力度的行列，至少在周五就业数据公布前夕是如此。摩根大通机构经纪部门汇编的数据显示，在美国股市本周初创下2020年以来最大两天涨幅时，多空策略对冲基金同时减少了多头和空头头寸。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9989356.d.html</link>
-            <guid>2820458</guid>
-            <pubDate>Thu, 06 Oct 2022 22:45:20 GMT</pubDate>
+            <title><![CDATA[  【国资委要求中央企业“一企一策”制定碳达峰行动方案】国务院国资委要求中央企业有力有序推进碳达峰碳中和重点工作，明确要“一企一策”制定碳达峰行动方案，着力推进产业结构转型升级，调整优化能源结构，强化绿色低碳科技创新和推广应用，推进减污降碳协同增效。（新华社）]]></title>
+            <guid>2820551</guid>
+            <pubDate>Fri, 07 Oct 2022 02:45:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日内重点关注的财经事项】① 14:00 德国8月工业产出；② 14:45 法国8月贸易帐；③ 20:30 美国9月非农就业报告（含就业人口、失业率、平均每小时工资），加拿大9月就业报告；④ 22:00 美国纽约联储主席（美联储“三把手”、享有FOMC永久投票权）威廉姆斯讲话；⑤ 23:00 美国明尼阿波利斯联储主席卡什卡利讨论农业、食品/粮食、以及通胀；⑥ 次日00:00 美国亚特兰大联储主席博斯蒂克讲话；⑦ 次日03:00 美国8月消费信贷；⑧ 次日09:45 中国9月财新服务业和综合PMI。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1699089.d.html</link>
-            <guid>2820456</guid>
-            <pubDate>Thu, 06 Oct 2022 22:37:36 GMT</pubDate>
+            <title><![CDATA[【港股餐饮板块走低 呷哺呷哺跌近5%】港股餐饮板块走低，呷哺呷哺、九毛九跌超4%，海伦司跌超3%，海底捞跌2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1715561.d.html</link>
+            <guid>2820548</guid>
+            <pubDate>Fri, 07 Oct 2022 02:37:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【周五全球隔夜要闻】①欧美股市连续2个交易日下跌，美股大型科技股多数下跌。②周四美联储逆回购工具使用规模为2.233万亿美元。③IMF总裁格奥尔基耶娃表示，全球经济衰退的风险正在上升。IMF下周将下调2023年全球GDP增速预期。④推特公司拒绝马斯克以440亿美元原价收购该公司。⑤LME就是否禁止新的俄罗斯金属产品发布讨论文件。⑥美国司法部调查伦敦石油交易商Dare是否操纵燃油价格。⑦欧盟官员表示，27个欧盟成员国还需再次达成一致决定，才能批准限价机制。⑧国际原油期货结算价收涨，COMEX 12月黄金期货结算价收平。⑨美国至9月30日当周EIA天然气库存增加1290亿立方英尺，为2015年5月29日当周以来最大增幅。⑩美联储埃文斯表示，现在通胀非常高，还需要进一步加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9988727.d.html</link>
-            <guid>2820455</guid>
-            <pubDate>Thu, 06 Oct 2022 22:30:19 GMT</pubDate>
+            <title><![CDATA[  【港股博彩股半数上涨 永利澳门涨超3%】截至发稿，永利澳门涨3.54%、新濠国际发展涨1.42%、银河娱乐涨1.23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0005154.d.html</link>
+            <guid>2820546</guid>
+            <pubDate>Fri, 07 Oct 2022 02:22:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【明天到10日 新一轮较强冷空气将影响我国中东部大部地区】中央气象台预计，明天到10日，新一轮较强冷空气将影响中东部大部地区，气温将下降6～10℃，局地超过12℃。长江以北大部分地区将伴有4～6级偏北风，阵风7～9级。此外，华北、东北地区还将出现明显雨雪天气，内蒙古东部、辽宁、吉林、黑龙江南部等地的部分地区有中到大雨，局部暴雨。内蒙古中东部、河北北部等地有小到中雪或雨夹雪，局部大雪。]]></title>
-            <guid>2820454</guid>
-            <pubDate>Thu, 06 Oct 2022 22:29:13 GMT</pubDate>
+            <title><![CDATA[  韩国央行行长表示，如果通货膨胀率超过5%，韩国央行别无选择将只能上调利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1714230.d.html</link>
+            <guid>2820545</guid>
+            <pubDate>Fri, 07 Oct 2022 02:21:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议院多数党领袖舒默表示，在欧佩克行动后，正在考虑NOPEC法案和其它选项。]]></title>
-            <guid>2820453</guid>
-            <pubDate>Thu, 06 Oct 2022 22:22:09 GMT</pubDate>
+            <title><![CDATA[  【三生制药继续拉升 5个交易日累计涨超20%】港股三生制药(01530.HK)连续第五个交易日拉升，截至发稿涨超6%，5个交易日累计涨幅超24%。9月30日，三生制药发布2022财年中报。公司在2022年1月1日-2022年6月30日实现营业收入30.91亿元，同比下降0.51%，归属母公司净利润9.55亿元，同比增长6.19%，基本每股收益为0.39元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1712557.d.html</link>
+            <guid>2820541</guid>
+            <pubDate>Fri, 07 Oct 2022 02:02:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃尔玛向美国佐治亚州劳工部发布警告通知：恐怕会在亚特兰大配送中心裁员大约1500人。]]></title>
-            <guid>2820452</guid>
-            <pubDate>Thu, 06 Oct 2022 22:16:07 GMT</pubDate>
+            <title><![CDATA[央行：中国09月末黄金储备报6264万盎司（约1948.32吨），与上个月持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1712515.d.html</link>
+            <guid>2820540</guid>
+            <pubDate>Fri, 07 Oct 2022 02:02:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲汽车制造商协会（ACEA）：下调2022年车辆销售预期至下滑1%，此前曾在2月份预计欧洲乘用车销量将增长7.9%。]]></title>
-            <guid>2820451</guid>
-            <pubDate>Thu, 06 Oct 2022 22:11:49 GMT</pubDate>
+            <title><![CDATA[【华晨中国继续刷新12年新低 复牌3日跌超70%】华晨中国(01114.HK)今日高开低走，一度大跌9%，截至发稿跌近5%。复牌3日以来，跌幅已超70%并创12年来新低。因为母公司华晨集团深陷负债泥淖，债台高达718亿元。国庆长期第一天，汇添富基金便发布公告估值调整公告，决定自9月30日起对停牌股票“BRILLIANCE CHI”即华晨中国按照4.38港元进行估值调整。华晨中国停牌前的股价是7.3港元，一经汇添富调整，股价便被直接打了六折。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1711999.d.html</link>
+            <guid>2820536</guid>
+            <pubDate>Fri, 07 Oct 2022 01:56:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国特拉华州法官暂停推特对马斯克的诉讼】周四的法院文件显示，特拉华州法官暂停推特对埃隆·马斯克的诉讼，直至10月28日下午5点（北京时间次日凌晨5点），以允许交易完成。马斯克必须在10月28日之前完成Twitter交易，以避免审判。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9988049.d.html</link>
-            <guid>2820450</guid>
-            <pubDate>Thu, 06 Oct 2022 22:07:46 GMT</pubDate>
+            <title><![CDATA[  韩国企划财政部表示，必要时将准备好向金融企业供应外汇流动性的渠道。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0002400.d.html</link>
+            <guid>2820535</guid>
+            <pubDate>Fri, 07 Oct 2022 01:52:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[几内亚东北部锡吉里省一座金矿6日发生滑坡，造成8人死亡。锡吉里省诺拉索巴地区官员法图玛塔·特拉奥雷6日表示，在这起事故中共有8人死亡、5人受伤，其中一人重伤。遇难者遗体已被送往当地医院，4名受伤人员在该医院接受治疗，重伤者已转移至康康大区医院接受急救。几内亚东北部金矿资源丰富，锡吉里省非法采金行为屡禁不止，滑坡等安全事故时有发生。(央视)]]></title>
-            <guid>2820444</guid>
-            <pubDate>Thu, 06 Oct 2022 21:53:04 GMT</pubDate>
+            <title><![CDATA[  【港股石油股逆势走强 大摩上调油价至100美元/桶】截至发稿，海峡石油化工涨3.42%、中国石油股份涨1.18%、中国海洋石油涨0.71%。根据此前消息，大摩在欧佩克+宣布减产后将布油2023第一季度的预期上调至100美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1711172.d.html</link>
+            <guid>2820533</guid>
+            <pubDate>Fri, 07 Oct 2022 01:47:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国电力公司EDF：Paluel 3号法国核反应堆意外停电，发电量从1330 MW下降至400 MW。]]></title>
-            <guid>2820412</guid>
-            <pubDate>Thu, 06 Oct 2022 20:58:36 GMT</pubDate>
+            <title><![CDATA[  【金山软件跌7% 拟计提减值拨备至多65亿元】金山软件(03888.HK)低开低走，截至发稿跌7%。公司因金山云的投资拟计提减值拨备，预计拨备税前金额约为56亿元-65亿元，因此，今年前9月将录得重大亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0001837.d.html</link>
+            <guid>2820532</guid>
+            <pubDate>Fri, 07 Oct 2022 01:47:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[推特美股盘后涨幅近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9986383.d.html</link>
-            <guid>2820409</guid>
-            <pubDate>Thu, 06 Oct 2022 20:56:18 GMT</pubDate>
+            <title><![CDATA[韩国央行行长李昌镛：通货膨胀极有可能维持在高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1711084.d.html</link>
+            <guid>2820531</guid>
+            <pubDate>Fri, 07 Oct 2022 01:46:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[推特：银行方面表示马斯克尚未向他们发送借款通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9986333.d.html</link>
-            <guid>2820403</guid>
-            <pubDate>Thu, 06 Oct 2022 20:54:12 GMT</pubDate>
+            <title><![CDATA[  日本首相岸田文雄表示，将对天然气价格上涨采取额外措施，检视家庭和企业的负担。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmthc0001753.d.html</link>
+            <guid>2820529</guid>
+            <pubDate>Fri, 07 Oct 2022 01:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[推特称马斯克应该在10月10日安排完成交易事宜，马斯克拒绝就任何完成交易的时间节点作出承诺。]]></title>
-            <guid>2820402</guid>
-            <pubDate>Thu, 06 Oct 2022 20:54:05 GMT</pubDate>
+            <title><![CDATA[港股汽车股跌幅扩大，理想汽车跌超16%，蔚来汽车跌超8%，小鹏汽车、华晨中国跌近7%，比亚迪股份、长城汽车跌5%。]]></title>
+            <guid>2820528</guid>
+            <pubDate>Fri, 07 Oct 2022 01:43:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【港股比亚迪股份盘中跌超5%】港股比亚迪股份盘中大跌5.17%，现报194.400港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1710507.d.html</link>
+            <guid>2820527</guid>
+            <pubDate>Fri, 07 Oct 2022 01:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长三角铁路迎国庆假期返程客流高峰，今日预计发送182万人】从中国铁路上海局集团有限公司获悉，10月7日是国庆小长假最后一天，长三角铁路迎来返程客流高峰，当日预计发送旅客182万人次，铁路部门对客流饱满方向增开194列旅客列车增加运力。在10月1日至6日的6天里，长三角铁路共发送旅客1075.3万人次，日均发送旅客近180万人次；其中客流最高峰日为10月1日，当日发送旅客253.7万人次。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1710134.d.html</link>
+            <guid>2820525</guid>
+            <pubDate>Fri, 07 Oct 2022 01:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[内房股走低，旭辉控股集团跌7%，龙湖集团、时代中国控股跌超3%，碧桂园跌2.6%。]]></title>
+            <guid>2820524</guid>
+            <pubDate>Fri, 07 Oct 2022 01:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国总统尹锡悦表示，政府将继续采取措施缓解美元供需失衡。（财联社）]]></title>
+            <guid>2820522</guid>
+            <pubDate>Fri, 07 Oct 2022 01:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股新能源汽车股下挫，理想汽车跌超12%，蔚来跌超6%，小鹏汽车跌超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1709049.d.html</link>
+            <guid>2820521</guid>
+            <pubDate>Fri, 07 Oct 2022 01:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国铁集团：预计10月7日全国铁路发送旅客745万人次】从中国国家铁路集团有限公司获悉，10月6日，全国铁路共发送旅客642.1万人次，开行列车8135列；预计10月7日全国铁路发送旅客745万人次，计划开行列车8386列。铁路国庆黄金周运输自9月28日至10月8日，为期11天，全国铁路预计发送旅客6850万人次，日均发送旅客623万人次。国铁集团客运部负责人介绍，今年国庆黄金周，铁路客流以探亲流、旅游流、短途流为主，整体上保持平稳态势。 （澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqqsmrp1708605.d.html</link>
+            <guid>2820519</guid>
+            <pubDate>Fri, 07 Oct 2022 01:19:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：推特表示，已意识到一些推文显示了不正确的自我喜好，正努力解决这个问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9999006.d.html</link>
+            <guid>2820517</guid>
+            <pubDate>Fri, 07 Oct 2022 01:16:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【阜博集团拟成立合资公司 今日复牌】阜博集团(03738.HK)发布公告，该公司旗下全资附属公司与Candle Media, LLC就有关与其全资附属公司拟成立合资公司订立备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-07/detail-imqmmtha9998152.d.html</link>
+            <guid>2820515</guid>
+            <pubDate>Fri, 07 Oct 2022 01:07:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
