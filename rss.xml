@@ -4,7 +4,7 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 09 Oct 2022 15:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 18:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
@@ -414,12 +414,6 @@
             <title><![CDATA[  【北方华创：控股子公司被美国商务部工业和安全局列入未经核实清单】北方华创公告，关注到美国商务部工业和安全局（BIS）网站于当地时间2022年10月7日公布信息，将公司间接控股子公司北京北方华创磁电科技有限公司等31家中国实体列入“未经核实清单”（UnverifiedList，UVL）。]]></title>
             <guid>2821869</guid>
             <pubDate>Sun, 09 Oct 2022 09:05:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家外汇局：将持续完善跨境融资便利化试点政策】国家外汇管理局资本项目管理司今日发布《推进跨境融资外汇便利化 助力中小微企业创新发展》文章称，下一步，外汇局将持续完善跨境融资便利化试点政策，进一步提高跨境融资业务办理效率，助力高新技术和专精特新中小微企业在提升产业链供应链稳定性、推动经济社会发展中发挥更加重要的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1961079.d.html</link>
-            <guid>2821866</guid>
-            <pubDate>Sun, 09 Oct 2022 08:59:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
