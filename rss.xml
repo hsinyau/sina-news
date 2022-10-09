@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 09 Oct 2022 18:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 21:06:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【初步统计显示范德贝伦将连任奥地利总统】据奥地利媒体9日报道，奥地利总统范德贝伦在当天举行的新一届总统选举中以明显优势赢得绝对多数选票，将连任奥地利总统。奥地利内政部9日公布的初步统计结果显示，范德贝伦在总统选举中获得54.6%的选票。报道说，尽管官方的最终计票结果可能要到10日才公布，但初步计票结果已表明范德贝伦获得的选票远超其他候选人，不需要进行第二轮投票，将再次当选奥地利总统。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-10/detail-imqqsmrp2007217.d.html</link>
+            <guid>2822304</guid>
+            <pubDate>Sun, 09 Oct 2022 20:43:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【湖北神农架林区公积金阶段性政策：认贷不认房 延长贷款期限至退休后5年】湖北省神农架林区9日发布《神农架林区住房公积金中心关于实施住房公积金阶段性支持政策的通知》，该阶段性政策至2023年12月30日止。在住房公积金贷款政策方面，神农架提出“认贷不认房”。即：对缴存职工家庭成员中(本人、配偶及未成年子女)无住房公积金贷款记录，又未申请开具异地贷款缴存证明的缴存职工，办理住房公积金贷款时可按照首套房贷款政策执行。每一个缴存职工家庭仅限一次。文件显示，神农架林区还将延长贷款期限。缴存职工所申请的贷款期限可延长至法定退休时间后5年。即：贷款期限=法定退休年龄+5-主借款人实际年龄。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqmmthc0292194.d.html</link>
@@ -386,34 +392,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1965163.d.html</link>
             <guid>2821881</guid>
             <pubDate>Sun, 09 Oct 2022 09:31:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  北京大兴9日新增1名感染者，系外省市自驾返京人员。 (北京日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1963855.d.html</link>
-            <guid>2821876</guid>
-            <pubDate>Sun, 09 Oct 2022 09:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【湖北广电：中标3781.55万元工程项目】湖北广电公告，公司中标咸安区文体中心图书馆、文化馆功能布展建设项目，中标价格3781.55万元。公司已就该项目签署工程总承包合同，合同工期120天。目前，公司政企业务已中标正在实施的项目中，500万至1000万项目10个，1000万以上项目7个，合计金额2.3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1963414.d.html</link>
-            <guid>2821875</guid>
-            <pubDate>Sun, 09 Oct 2022 09:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科A：9月实现合同销售金额347.3亿元】万科A公告，9月实现合同销售面积227.1万平方米，合同销售金额347.3亿元；2022年1~9月，公司累计实现合同销售面积1,936.9万平方米，合同销售金额3,146.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-09/detail-imqqsmrp1962238.d.html</link>
-            <guid>2821873</guid>
-            <pubDate>Sun, 09 Oct 2022 09:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月09日16时54分在新疆和田地区皮山县发生3.0级地震，震源深度20千米。]]></title>
-            <guid>2821871</guid>
-            <pubDate>Sun, 09 Oct 2022 09:06:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北方华创：控股子公司被美国商务部工业和安全局列入未经核实清单】北方华创公告，关注到美国商务部工业和安全局（BIS）网站于当地时间2022年10月7日公布信息，将公司间接控股子公司北京北方华创磁电科技有限公司等31家中国实体列入“未经核实清单”（UnverifiedList，UVL）。]]></title>
-            <guid>2821869</guid>
-            <pubDate>Sun, 09 Oct 2022 09:05:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
