@@ -4,11 +4,117 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 14 Oct 2022 15:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Oct 2022 18:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【Blackstone Credit全球主管：通胀可能比市场预期更加顽固】Blackstone Credit全球主管Dwight Scott认为，通胀可能比市场所认为的更加持久，因此美联储可能不得不更加激进地紧缩。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2622460.d.html</link>
+            <guid>2829147</guid>
+            <pubDate>Fri, 14 Oct 2022 17:49:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国太空探索技术公司第四支长期宇航员团队将返回地球】当地时间14日，美国太空探索技术公司（SpaceX）向国际空间站（ISS）发射的第四支长期宇航员团队将返回地球，预计四名宇航员将在佛罗里达州海岸外附近溅落。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0936416.d.html</link>
+            <guid>2829145</guid>
+            <pubDate>Fri, 14 Oct 2022 17:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科文：将Meta Platforms(META.O)目标价从250美元下调至205美元 维持跑赢大市评级】科文分析师John Blackledge将Meta Platforms的目标价从250美元下调至205美元，并保持对该股的跑赢大市评级。鉴于各种宏观和外汇方面的不利因素，向短视频货币化的过渡，以及2022年第三季度低于预期的数字广告盈利，该分析师下调了他对2022-2027年的广告预期，这意味着在更严格的定价竞争下，广告支出同比下降。]]></title>
+            <guid>2829143</guid>
+            <pubDate>Fri, 14 Oct 2022 17:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯石油公司起诉德国经济部】德国经济和气候保护部发言人14日证实，已获知俄罗斯石油公司对其提起诉讼，但尚未收到相关文件。当天，德国东部城市莱比锡一家法院的发言人说，俄罗斯石油公司提起的诉讼已在处理中。这名发言人没有公布更多详细情况。（央视）]]></title>
+            <guid>2829136</guid>
+            <pubDate>Fri, 14 Oct 2022 16:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其巴尔滕一矿井发生爆炸】当地时间14日，土耳其巴尔滕省阿马斯拉区一矿井发生爆炸。救援、消防和医护人员已经赶往现场。目前爆炸原因尚不清楚。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqqsmrp2620154.d.html</link>
+            <guid>2829134</guid>
+            <pubDate>Fri, 14 Oct 2022 16:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚特兰大联储GDPNow模型预计美国第三季度GDP增速为2.81%，与此前预期变动不大。]]></title>
+            <guid>2829132</guid>
+            <pubDate>Fri, 14 Oct 2022 16:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沃达丰(VOD.O)已要求包括KKR集团和GIP组成的财团在内的竞购方在11月提交对Vantage Towers的具有约束力的报价，目的是宣布交易并公布半年收益。]]></title>
+            <guid>2829131</guid>
+            <pubDate>Fri, 14 Oct 2022 16:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：沃达丰(VOD.O)希望在11月15日前结束与Vantage Towers竞购方的谈判。]]></title>
+            <guid>2829130</guid>
+            <pubDate>Fri, 14 Oct 2022 16:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团：我们更关注市场的流动性和对交易方的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-15/detail-imqmmthc0932299.d.html</link>
+            <guid>2829125</guid>
+            <pubDate>Fri, 14 Oct 2022 16:13:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：将台积电(TSM.N)目标价下调至89美元 剔出确信买入名单】高盛发表研究报告，指台积电管理层口吻较对上一次会议更加保守。台积电承认留意到需求疲弱的影响，特别是7nm制程；其产能使用率在第四季将开始下滑，并持续至明年上半年。报告称，管理层进一步下调今年资本开支预算至360亿美元(此前为400亿美元)，是次下调预算的时机较该行预期略早。报告形容，台积电现估值吸引，相当于明年预测市盈率10.8倍，属过去十年历史范围(10-27倍)的下端。即使短期展望波动，管理层对长远增长仍有信心，维持未来数年收入年均复合增长介乎15%至20%的预测，料毛利率维持逾53%。高盛重申台积电买入评级，目标价由126美元下调至89美元，以反映盈利前景转弱及需求不确定性上升，亦剔出确信买入名单。]]></title>
+            <guid>2829117</guid>
+            <pubDate>Fri, 14 Oct 2022 15:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF：预计意大利和德国将在2023年陷入经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0931431.d.html</link>
+            <guid>2829115</guid>
+            <pubDate>Fri, 14 Oct 2022 15:57:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷董事会主席Axel Lehmann：瑞士信贷CET1到2022年年底将介于13%-14%。]]></title>
+            <guid>2829110</guid>
+            <pubDate>Fri, 14 Oct 2022 15:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大皇家银行：将百事(PEP.O)目标价上调至170美元，维持与行业一致评级】加拿大皇家银行分析师Nik Modi将百事的目标价从165美元上调至170美元，但维持对该股与行业一致的评级。该分析师在一份研究报告中告诉投资者，该公司第三季度的业绩标志着“又一个强劲的季度”，突出了强劲的顶线势头，价格稳固且弹性更好。然而，他补充说，百事的指引意味着第四季度的增长将放缓，他认为该股的估值是合理的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2616415.d.html</link>
+            <guid>2829108</guid>
+            <pubDate>Fri, 14 Oct 2022 15:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰9月通胀率达17.2%】当地时间14日，波兰中央统计局发布的报告显示，主要受能源和食品价格飙升推动，波兰9月消费价格指数同比上涨17.2%，是自1997年3月以来的最高值。其中，商品价格上涨18.7%，服务价格上涨12.5%。此外，该国9月的消费价格指数环比上涨1.6%，其中商品价格上涨1.7%，服务价格上涨1.3%。]]></title>
+            <guid>2829104</guid>
+            <pubDate>Fri, 14 Oct 2022 15:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国生产电热毯的机器正全速运转】欧洲即将到来的冬天在中国产生了意想不到的后果。由于乌克兰冲突和能源危机，欧洲人担心这个冬天会很冷。于是，中国工厂生产电热毯的机器在全速运转。根据报道，在义乌东面的慈溪市的工厂7月份向欧盟27国共销售129万条电热毯，比2020年增长15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0930172.d.html</link>
+            <guid>2829100</guid>
+            <pubDate>Fri, 14 Oct 2022 15:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CFRA将富国银行评级上调至持有，目标价50美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0929839.d.html</link>
+            <guid>2829098</guid>
+            <pubDate>Fri, 14 Oct 2022 15:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金固股份：公司阿凡达低碳车轮已供货给国内头部商用车主机厂和乘用车主机厂】金固股份10月14月在互动平台表示，截至目前，公司阿凡达低碳车轮已供货给国内头部商用车主机厂和乘用车主机厂，并拿到国内部分新能源车企项目。现正和其他主机厂商及主流新能源车企洽谈阿凡达车轮配套业务。南宁、合肥在建产能进度符合公司预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2615455.d.html</link>
+            <guid>2829097</guid>
+            <pubDate>Fri, 14 Oct 2022 15:18:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利：维持药明康德(02359.HK)增持评级 目标价177港元】摩根士丹利发表报告表示，就药明康德发盈喜，预计今年首三季度收入及整非国际财务报告准则下净利润按年各升71.9%及77.9%，较该行原预期各高出3.6%及17%，即相当于今年第三季收入及经调整非国际财务报告准则下净利润按年分别升77.8%及82%。大摩指出，药明康德给予全年收入增长68%至72%的指引，鉴于其今年首九个月业绩强劲，该行认为这是非常可实现的，并重申药明康德为该行的喜爱股份之一，维持增持投资评级及目标价177港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2615197.d.html</link>
+            <guid>2829094</guid>
+            <pubDate>Fri, 14 Oct 2022 15:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利CEO暗示可能启动裁员 称正在评估员工人数】摩根士丹利首席执行官James Gorman称高管们正在评估员工人数，这一表态或预示该行将开始裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0929325.d.html</link>
+            <guid>2829093</guid>
+            <pubDate>Fri, 14 Oct 2022 15:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[花旗集团CEO Fraser：美国经济可能在2023年下半年进入衰退。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0929254.d.html</link>
@@ -214,301 +320,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926836.d.html</link>
             <guid>2829051</guid>
             <pubDate>Fri, 14 Oct 2022 14:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月7日当周ECRI领先指标年率 -12%，前值-11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612739.d.html</link>
-            <guid>2829050</guid>
-            <pubDate>Fri, 14 Oct 2022 14:34:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至10月7日当周ECRI领先指标 141.7，前值142.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926792.d.html</link>
-            <guid>2829049</guid>
-            <pubDate>Fri, 14 Oct 2022 14:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：我们的基线预期还没有出现衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926785.d.html</link>
-            <guid>2829048</guid>
-            <pubDate>Fri, 14 Oct 2022 14:33:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国银行：临近年底，融资条件将变得紧张】美国银行表示，随着2022年逐渐接近尾声，美国的融资条件将继续紧张，甚至会进一步收紧，部分压力来自政府（票据）供应增加。分析师Mark Cabana和Katie Craig表示，围绕美国国债回购利率上调的风险也将增加融资压力。预计第四季净票据供应将达到900亿美元，鉴于经济放缓和"希望美国财政部出台更明智的债务管理政策"，这一数字可能会上升。美联储加息和量化紧缩也促使银行更积极地争夺资金，自量化紧缩启动以来，国内银行的存款外流达到1710亿美元；他们通过增加借贷来抵消这一影响。货币市场改革仍是一个风险，尽管时机不确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926765.d.html</link>
-            <guid>2829047</guid>
-            <pubDate>Fri, 14 Oct 2022 14:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：没有迹象表明价格预期已经脱锚。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612440.d.html</link>
-            <guid>2829046</guid>
-            <pubDate>Fri, 14 Oct 2022 14:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东东莞新增3例无症状感染者】据央视新闻，记者从东莞市疾病预防控制中心获悉，10月14日18—22时，东莞市新增3例无症状感染者（虎门镇1例，厚街镇1例，长安镇1例），其中2例在集中隔离发现，1例在社区筛查发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926460.d.html</link>
-            <guid>2829045</guid>
-            <pubDate>Fri, 14 Oct 2022 14:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：我们正在讨论定向长期再融资操作（TLTRO）条款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612338.d.html</link>
-            <guid>2829043</guid>
-            <pubDate>Fri, 14 Oct 2022 14:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：终端利率可能不得不提高，并在更长时间内保持在这一水平，但我对加息的速度比大多数人都要谨慎。]]></title>
-            <guid>2829042</guid>
-            <pubDate>Fri, 14 Oct 2022 14:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：我们必须在明年讨论量化紧缩的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926340.d.html</link>
-            <guid>2829041</guid>
-            <pubDate>Fri, 14 Oct 2022 14:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：加息是目前首选的工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926334.d.html</link>
-            <guid>2829040</guid>
-            <pubDate>Fri, 14 Oct 2022 14:27:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：注意到我们采取政策的同时，金融状况正在迅速收紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612307.d.html</link>
-            <guid>2829039</guid>
-            <pubDate>Fri, 14 Oct 2022 14:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：我担心的是我们正在进行一些非常激进的利率调整，因为它们需要时间来发挥作用。]]></title>
-            <guid>2829037</guid>
-            <pubDate>Fri, 14 Oct 2022 14:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们需要大幅放缓GDP增速。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612149.d.html</link>
-            <guid>2829035</guid>
-            <pubDate>Fri, 14 Oct 2022 14:24:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：加息还没有结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612143.d.html</link>
-            <guid>2829034</guid>
-            <pubDate>Fri, 14 Oct 2022 14:24:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：需要考虑其他央行的行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612138.d.html</link>
-            <guid>2829033</guid>
-            <pubDate>Fri, 14 Oct 2022 14:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：劳动力市场需要进一步降温。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612110.d.html</link>
-            <guid>2829032</guid>
-            <pubDate>Fri, 14 Oct 2022 14:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：我们需要在通胀问题上保持坚定立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612099.d.html</link>
-            <guid>2829031</guid>
-            <pubDate>Fri, 14 Oct 2022 14:24:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：渐进的政策非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612084.d.html</link>
-            <guid>2829030</guid>
-            <pubDate>Fri, 14 Oct 2022 14:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳拟推16条举措促进智能网联汽车产业发展】近日，深圳市发展和改革委员会发布《深圳市关于促进智能网联汽车产业高质量发展的若干措施（征求意见稿）》，公开向社会公众征求意见，反馈时间截至2022年11月10日。《征求意见稿》为了增强涉及智能网联汽车技术的自主创新能力，要求加快核心环节突破、推动关键技术攻关、加速创新成果转化、加大产业化力度。深圳将聚焦制约产业发展的技术短板，围绕感知决策系统、控制执行系统、关键零部件等产业核心领域和重要环节，支持开展重大装备和关键零部件研制，按项目总投资的40%予以最高不超过2亿元资助。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2612076.d.html</link>
-            <guid>2829029</guid>
-            <pubDate>Fri, 14 Oct 2022 14:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：4.5%-5%最有可能是联邦基金利率的最高水平，然后将维持在这一水平。]]></title>
-            <guid>2829027</guid>
-            <pubDate>Fri, 14 Oct 2022 14:23:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：如果需要，我们可以纠正我们的路线。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926026.d.html</link>
-            <guid>2829025</guid>
-            <pubDate>Fri, 14 Oct 2022 14:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们会在适当的时候停止加息，然后该利率将维持一段时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0926013.d.html</link>
-            <guid>2829024</guid>
-            <pubDate>Fri, 14 Oct 2022 14:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：注意确保通货膨胀不会根深蒂固。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611995.d.html</link>
-            <guid>2829023</guid>
-            <pubDate>Fri, 14 Oct 2022 14:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：现在的数据和我们预期的差不多。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925980.d.html</link>
-            <guid>2829022</guid>
-            <pubDate>Fri, 14 Oct 2022 14:22:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：不确定性太大，以致于我们无法定下确切的加息路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925975.d.html</link>
-            <guid>2829021</guid>
-            <pubDate>Fri, 14 Oct 2022 14:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我仍然认为9月份的预测非常合理。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611948.d.html</link>
-            <guid>2829020</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：美联储对经济预测的总结并不过时，这是一个很好的政策指南。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925934.d.html</link>
-            <guid>2829019</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：毫无疑问，我们需要更多的限制性政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925912.d.html</link>
-            <guid>2829018</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们在全球经济中工作，这当中有很多不确定性和风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925910.d.html</link>
-            <guid>2829017</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：现在是时候既要明确我们的目标，又要有条理地采取步骤，以确保我们不会破坏实现我们的通货膨胀目标。]]></title>
-            <guid>2829016</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：我们未来的加息需要参考数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925859.d.html</link>
-            <guid>2829015</guid>
-            <pubDate>Fri, 14 Oct 2022 14:21:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：今天的零售销售报告是经济降温的又一个迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925847.d.html</link>
-            <guid>2829014</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：住房需求也正在降温。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611864.d.html</link>
-            <guid>2829013</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：CPI报告并不令人惊讶，这是一个滞后的指标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925803.d.html</link>
-            <guid>2829012</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：劳动力市场正在降温。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925775.d.html</link>
-            <guid>2829011</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：最新的CPI数据非常令人失望，但并不出人意料。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611809.d.html</link>
-            <guid>2829010</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：周四的CPI报告提醒我们在通货膨胀方面还有很多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611792.d.html</link>
-            <guid>2829009</guid>
-            <pubDate>Fri, 14 Oct 2022 14:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储戴利：CPI数据显示通胀不配合我们的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611782.d.html</link>
-            <guid>2829008</guid>
-            <pubDate>Fri, 14 Oct 2022 14:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：加息路径需要是稳健和可预测的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925401.d.html</link>
-            <guid>2829007</guid>
-            <pubDate>Fri, 14 Oct 2022 14:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：但与此同时，这条道路的步伐需要与经济和金融市场的状况仔细权衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611415.d.html</link>
-            <guid>2829005</guid>
-            <pubDate>Fri, 14 Oct 2022 14:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[密歇根大学消费者调查主任Joanne Hsu评美国10月密歇根大学消费者信心指数初值：消费者对未来一年通胀率的预期中值升至5.1%，不同年龄、收入和教育程度的通胀率预期都有所上升。上个月，长期通胀预期自2021年7月以来首次跌破2.9-3.1%的狭窄区间，但自那以后，预期又回到2.9%的这一区间。3个月来，人们一直预计未来一年天然气价格将小幅上涨，10月份，短期和长期预期均出现反弹。]]></title>
-            <guid>2829004</guid>
-            <pubDate>Fri, 14 Oct 2022 14:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：我支持继续加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611358.d.html</link>
-            <guid>2829003</guid>
-            <pubDate>Fri, 14 Oct 2022 14:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：美联储政策对经济的全面影响还有待观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611345.d.html</link>
-            <guid>2829002</guid>
-            <pubDate>Fri, 14 Oct 2022 14:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：在市场波动期间，我们需要尽量减少政策的不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925314.d.html</link>
-            <guid>2829001</guid>
-            <pubDate>Fri, 14 Oct 2022 14:13:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：对实体经济的影响可能仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925292.d.html</link>
-            <guid>2829000</guid>
-            <pubDate>Fri, 14 Oct 2022 14:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：目前政策行动有滞后性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925284.d.html</link>
-            <guid>2828999</guid>
-            <pubDate>Fri, 14 Oct 2022 14:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：我预计利率将在一段时间内持续走高，但走得太快可能会扰乱金融市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqmmthc0925259.d.html</link>
-            <guid>2828998</guid>
-            <pubDate>Fri, 14 Oct 2022 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：我们的政策需要进入限制性领域，但程度还有待观察。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611275.d.html</link>
-            <guid>2828996</guid>
-            <pubDate>Fri, 14 Oct 2022 14:13:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：今年的金融状况已经相当紧缩，但我们显然还有更多工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611249.d.html</link>
-            <guid>2828994</guid>
-            <pubDate>Fri, 14 Oct 2022 14:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：美国最近的生产力表现糟糕透顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-14/detail-imqqsmrp2611204.d.html</link>
-            <guid>2828992</guid>
-            <pubDate>Fri, 14 Oct 2022 14:12:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
