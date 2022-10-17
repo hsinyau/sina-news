@@ -4,11 +4,51 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 17 Oct 2022 18:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Oct 2022 21:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【科创板做市交易临近，14家证券公司获得资格】 根据上交所近日发布的消息，目前上交所已完成各项准备工作，科创板股票做市交易业务上线已准备就绪。截至2022年10月14日，经中国证监会核准，14家证券公司取得了上市证券做市交易业务资格，标志着部分证券公司已具备开展科创板股票做市交易业务的条件。从全球市场来看，做市也已经成为国际投行最核心的业务之一。不过，做市业务对资本规模、投研水平、风控能力、技术系统等要求较高，券商如果没有深厚的内功，做好“必修课”，想在做市业务上分一杯羹甚至弯道超车并不容易。（证券时报）]]></title>
+            <guid>2831219</guid>
+            <pubDate>Mon, 17 Oct 2022 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉德国4680电池产线建厂受阻，将搬回美国，意在拜登政府的补贴】 10月17日获悉，特斯拉在德国的电池工厂由于当地的环保政策迟迟不能开建，而美国刚出台的《通货膨胀削减法案》，也利好在美国建立电池工厂。此外，德国的近期能源成本攀升并不是特斯拉暂缓德国电池工厂建设的主要原因之一，“因为德国还保留着汽车工厂。”（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1234292.d.html</link>
+            <guid>2831215</guid>
+            <pubDate>Mon, 17 Oct 2022 20:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【四家上市银行披露业绩快报，前三季度归母净利润同比增幅均超20%】 尽管距上市银行正式披露三季报尚有近一周时间，但多份银行三季报业绩快报已亮相。已披露业绩快报的成都银行、常熟银行、苏农银行、杭州银行4家上市银行业绩表现抢眼，前三季度均实现了盈利较快增长、资产质量稳定改善的良好局面。业绩快报显示，在净利润方面，4家银行均较去年同期出现较快增长，归母净利润同比增幅均超20%，分别为31.82%、31.59%、25.24%和20.62%。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp2913851.d.html</link>
+            <guid>2831213</guid>
+            <pubDate>Mon, 17 Oct 2022 20:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【多地首套房贷利率降至4%以下，四季度房地产市场有望加速修复】 9月底，中国人民银行接连两天出台降低首套房贷利率的政策，包括下调首套个人住房公积金贷款利率、阶段性放宽部分城市首套住房贷款利率下限。自上述政策发布后，已经有多个城市的首套房商贷利率降至4%以下。另外，多个城市也下调了首套个人住房公积金贷款利率。业内人士认为，随着楼市政策利好释放，地方因城施策逐步深化，对于提振房地产市场行情意义重大，有利于促进刚性和改善购房需求释放，四季度房地产市场有望加速修复。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp2913681.d.html</link>
+            <guid>2831212</guid>
+            <pubDate>Mon, 17 Oct 2022 20:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国将3座核电站运营时间延长至2023年】德国总理朔尔茨17日正式宣布，将德国剩余3座核电站的运营时间延长至2023年4月15日。朔尔茨已正式向相关部门宣布了这一决定，接下来德国政府将正式启动立法流程，以便伊萨尔二号核电站、内卡韦斯特海姆二号核电站和埃姆斯兰核电站可以在2022年12月31日之后继续运营至2023年4月15日。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqqsmrp2912086.d.html</link>
+            <guid>2831196</guid>
+            <pubDate>Mon, 17 Oct 2022 19:06:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【比亚迪携三款电动车型亮相巴黎车展】 10月17日，比亚迪携唐、汉、元PLUS（当地车型名为BYD ATTO 3）三款电动车型亮相巴黎车展。比亚迪全球战略合作伙伴壳牌参与发布会，双方共同宣布将为比亚迪欧洲车主提供更优质的充电体验，包括向车主开放欧洲境内约30万个壳牌充电桩使用权。（中新经纬）]]></title>
+            <guid>2831193</guid>
+            <pubDate>Mon, 17 Oct 2022 18:46:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩累计确诊霍乱病例89例】当地时间10月17日，黎巴嫩卫生部宣布，在过去48小时内，黎巴嫩新增霍乱确诊病例46例，新增死亡病例1例。黎巴嫩全国累计确诊霍乱病例89例，累计死亡3例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-18/detail-imqmmthc1231163.d.html</link>
+            <guid>2831186</guid>
+            <pubDate>Mon, 17 Oct 2022 18:26:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【规模效应受追捧，宝马拟将部分MINI电动车产线移至中国】 据《环球时报》援引英国《泰晤士报》消息，宝马集团打算停止在英国牛津工厂生产MINI电动车型，并将该生产线转移到中国。为何宝马要将英国牛津工厂的MINI电动车产线转移至中国？深度科技研究院院长张孝荣接受记者采访时表示，主要原因是中国电动车产业已经出现“规模效应”。北京社科院研究员王鹏向记者表示，宝马MINI电动车的产线转移，体现了我国在全球新能源汽车产业链中的综合实力。（证券时报）]]></title>
             <guid>2831185</guid>
@@ -124,96 +164,6 @@
             <title><![CDATA[加拿大央行调查：第三季度调查的初步迹象表明，价格和工资压力已开始缓解，但企业的通胀预期仍然很高。]]></title>
             <guid>2831123</guid>
             <pubDate>Mon, 17 Oct 2022 14:36:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行调查：预计1年通胀率为7.1%，2年期通胀率为5.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqqsmrp2900422.d.html</link>
-            <guid>2831120</guid>
-            <pubDate>Mon, 17 Oct 2022 14:33:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行调查显示，加拿大消费者通胀预期创下纪录新高。商业信心降幅创2020年以来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1220382.d.html</link>
-            <guid>2831119</guid>
-            <pubDate>Mon, 17 Oct 2022 14:31:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司称，1月1日至10月15日，天然气产量为3274亿立方米；1月1日至10月15日，俄罗斯对非独联体国家的天然气出口为893亿立方米。（财联社）]]></title>
-            <guid>2831115</guid>
-            <pubDate>Mon, 17 Oct 2022 14:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Cloudflare(NET.N)目标价从85美元下调至65美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1219866.d.html</link>
-            <guid>2831114</guid>
-            <pubDate>Mon, 17 Oct 2022 14:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国“天价”天然气令欧洲很受伤】法国总统马克龙日前抱怨美国天然气太贵。法国经济、财政及工业、数字主权部长布鲁诺·勒梅尔12日也呼吁美国天然气“卖便宜点”，以助欧洲国家应对能源短缺危机。除了法国，德国也在抱怨美国给供欧天然气开出“天价”。德国副总理兼经济和气候保护部长罗伯特·哈贝克近日暗指美国等“友好”国家以过高的价格向德国供应天然气，借俄乌冲突发战争财。哈贝克此前表示，因为要从俄罗斯之外的渠道购买天然气，能源成本高于以往，德国今年经济损失将接近600亿欧元，明年损失则可能接近1000亿欧元。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1219796.d.html</link>
-            <guid>2831113</guid>
-            <pubDate>Mon, 17 Oct 2022 14:23:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯石油公司Rosneft向监管部门提出申请，希望自11月14日开始，将GDR从英国伦敦证交所（LSE）退市。（财联社）]]></title>
-            <guid>2831108</guid>
-            <pubDate>Mon, 17 Oct 2022 14:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：俄对乌发动无人机攻击后，乌外长“历史首次”呼吁制裁伊朗】美国有线电视新闻网（CNN）17日宣称，俄罗斯当日上午出动20多架“伊朗制无人机”攻击基辅并造成伤亡。伊朗方面已经否认向俄罗斯提供无人机，乌克兰外长库列巴当日晚些时候发布视频声明，呼吁对伊朗进行制裁。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqqsmrp2898251.d.html</link>
-            <guid>2831106</guid>
-            <pubDate>Mon, 17 Oct 2022 14:04:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷：将福克斯(FOXA.O)目标价从41美元下调至36美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1217804.d.html</link>
-            <guid>2831103</guid>
-            <pubDate>Mon, 17 Oct 2022 13:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兴证资管9月30日至今已自购3000万元】据记者了解，兴证资管9月30日至今已自购旗下权益和FOF大集合产品3000万元 ，今年以来累计自购超过8000万元。今日来看，则有10家基金公司及3家券商资管公告自购，包括易方达基金、汇添富基金、南方基金、广发基金、嘉实基金、华夏基金、工银瑞信基金、招商基金、中欧基金、华安基金、国泰君安资管、中泰证券资管、华泰证券资管，自购金额累计达11.8亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqqsmrp2897468.d.html</link>
-            <guid>2831102</guid>
-            <pubDate>Mon, 17 Oct 2022 13:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纽约梅隆银行(BK.N)涨近6%，第三季度营收43亿美元，同比增长6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1217256.d.html</link>
-            <guid>2831101</guid>
-            <pubDate>Mon, 17 Oct 2022 13:51:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将微软(MSFT.O)目标价从340美元下调至320美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1217045.d.html</link>
-            <guid>2831100</guid>
-            <pubDate>Mon, 17 Oct 2022 13:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷(CS.N)涨4.6%，此前瑞士信贷同意支付4.95亿美元，以了结一宗涉及其在美国住宅抵押贷款支持证券(RMBS)发行中所起作用的官司。]]></title>
-            <guid>2831098</guid>
-            <pubDate>Mon, 17 Oct 2022 13:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roblox(RBLX.N)涨18%，此前预计9月营收为1.71亿至1.8亿美元，且9月的预订量更高。]]></title>
-            <guid>2831096</guid>
-            <pubDate>Mon, 17 Oct 2022 13:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联泓新科：当前公司EVA产品产销两旺】联泓新科披露调研活动信息公告，随着国内外光伏需求持续放量，将带动组件及EVA等上游核心原材料需求快速增长。同时，由于EVA树脂具有扩产周期长，供给放量节奏慢的特点，行业内对于EVA有望成为未来几年产业链供应最紧张环节之一的预期较为一致。当前公司EVA产品产销两旺，未来较长时间预计EVA都将维持较高景气和良好盈利能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-17/detail-imqmmthc1216539.d.html</link>
-            <guid>2831094</guid>
-            <pubDate>Mon, 17 Oct 2022 13:42:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行(BAC.N)涨近5%，第三季度营收245亿美元，同比增长7%；净利息收入为138亿美元，同比增长24%。]]></title>
-            <guid>2831089</guid>
-            <pubDate>Mon, 17 Oct 2022 13:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：10月17日21时20分在台湾屏东县海域（北纬21.63度，东经120.97度）发生4.8级地震，震源深度10千米。]]></title>
-            <guid>2831085</guid>
-            <pubDate>Mon, 17 Oct 2022 13:37:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
