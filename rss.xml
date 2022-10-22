@@ -4,11 +4,45 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 22 Oct 2022 09:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 12:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【巫云开高速全线首座千米隧道顺利贯通】22日，记者从重庆高速集团获悉，巫云开高速兴家隧道左洞顺利实现贯通，成为全线首座贯通的千米级隧道，标志着巫云开高速全线隧道施工取得了阶段性成果。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1772672.d.html</link>
+            <guid>2836271</guid>
+            <pubDate>Sat, 22 Oct 2022 12:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【义乌综合保税区进出口货值超160亿元】22日记者从义乌海关获悉，截至目前，浙江义乌综合保税区已发运跨境小包1800万个，汇集近50个国家的进口商品，进出口货值突破160亿元。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1770586.d.html</link>
+            <guid>2836270</guid>
+            <pubDate>Sat, 22 Oct 2022 11:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【缓解能源危机 德国接收首批阿联酋氢】德国21日举行仪式，接收首批来自阿拉伯联合酋长国的氢，以期推动能源转型、缓解国内能源危机。德国副总理兼经济和气候保护部长罗伯特·哈贝克与阿联酋工业和先进技术部长苏丹·贾比尔当天出席在德国汉堡市举行的接收仪式。综合媒体报道，这批氢以液态运送，数量不多，为13吨。德国正致力于在国内建立氢生产网络。哈贝克表示，进口同样是增加供应的关键。“现在，我们比以往任何时候都更需要推动转向氢能。”（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3435984.d.html</link>
+            <guid>2836269</guid>
+            <pubDate>Sat, 22 Oct 2022 11:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所：近期有关于交易所对券商、基金等市场机构进行指导的报道不属实】据上交所官方公众号，上交所就相关报道答记者问。近日，有媒体报道“境内交易所窗口指导券商、基金交易”。对此，上交所表示，本所关注到近期有关于交易所对券商、基金等市场机构进行指导的报道，该消息不属实。上交所始终遵循“建制度、不干预、零容忍”方针，坚持市场化、法治化原则，深化资本市场改革，充分发挥市场自我平衡、自我调节机制作用，促进市场平稳运行。上交所将继续严格依法合规履行监管职责，毫不动摇地推进资本市场健康发展。]]></title>
+            <guid>2836268</guid>
+            <pubDate>Sat, 22 Oct 2022 10:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【指数化投资趋势明显 沪市权益型ETF份额年内增长30%】最新数据显示，截至目前，上证、中证指数境内外产品规模已超1.6万亿元，今年以来沪市权益型ETF份额增长30%，创历史新高，增量资金通过指数产品持续流入市场。科创板指数方面，科创50指数产品份额逆势增长超80%，今年以来资金净流入超270亿元，产品规模突破500亿元；跟踪科创芯片、科创材料指数的ETF相继发行，募集资金约20亿元。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqqsmrp3431912.d.html</link>
+            <guid>2836266</guid>
+            <pubDate>Sat, 22 Oct 2022 09:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银：美联储或在2023年年中停止量化紧缩】瑞银集团经济学家和策略师表示，鉴于货币市场改革带来的影响和债务上限，预计美联储将被迫在明年年中左右停止缩表。根据周三发布的报告，另一个影响因素包括市场对美联储逆回购协议工具的使用存在“相对粘性”。（财联社）]]></title>
+            <guid>2836265</guid>
+            <pubDate>Sat, 22 Oct 2022 09:36:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【祥明智能：公司有机器人关节电机等新门类电机研发计划】祥明智能在互动平台表示，公司有机器人关节电机等新门类电机的研发计划，目前没有市场应用。]]></title>
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1759946.d.html</link>
@@ -287,17 +321,6 @@
             <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1707550.d.html</link>
             <guid>2835061</guid>
             <pubDate>Fri, 21 Oct 2022 19:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[每日优鲜(MF.O)直线拉升，现涨超23%，报1.98美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-10-22/detail-imqmmthc1706870.d.html</link>
-            <guid>2835036</guid>
-            <pubDate>Fri, 21 Oct 2022 19:02:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：承诺帮助埃隆-马斯克收购推特(TWTR.N)的银行计划持有支持该交易的全部130亿美元的债务，而不是将其银团化。]]></title>
-            <guid>2835027</guid>
-            <pubDate>Fri, 21 Oct 2022 18:47:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
