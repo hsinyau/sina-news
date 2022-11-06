@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 06 Nov 2022 15:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 18:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【诺和诺德宣布投资4亿成立投资公司 5年间总投资额超25亿元】第五届进博会期间，诺和诺德宣布投资4亿元成立诺和诺德（上海）投资有限公司，对其在中国大陆生产、贸易、研发等业务引擎实现控股，以整合优化诺和诺德在华业务资源，协同推动全产业链布局再升级。参展进博会五年间，诺和诺德已经五次投资中国，投资总额将超过25亿元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqmmthc3539886.d.html</link>
+            <guid>2856912</guid>
+            <pubDate>Sun, 06 Nov 2022 15:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑州港区富士康启动预招工：老员工返厂一次性给予500元补贴】从多位富士康合作劳务中介处获悉，郑州港区富士康IDPBG事业群已启动预招工，以小时模式入职，小时工价30元/时，工期至2023年2月15日。值得注意的是，为了鼓励富士康老员工返厂，在10月10日至11月5日期间曾离职的返乡人员，重新入职后将给予一次性关爱补贴500元。报到时间待港区解除静态管理后再行通知，公司统一组织车辆，点对点闭环输送。（财联社）]]></title>
+            <guid>2856911</guid>
+            <pubDate>Sun, 06 Nov 2022 15:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【乌克兰总统与欧盟委员会主席通电话】 乌克兰总统泽连斯基当地时间6日与欧盟委员会主席冯德莱恩通电话，讨论了欧盟当前和未来几年对乌克兰的宏观财政援助问题。双方还强调了继续开展粮食倡议对世界粮食安全的重要性。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5158283.d.html</link>
@@ -450,11 +461,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-06/detail-imqqsmrp5109711.d.html</link>
             <guid>2856536</guid>
             <pubDate>Sun, 06 Nov 2022 04:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国国家哀悼期结束 近12万人次吊唁踩踏事故遇难者】据韩联社11月6日消息，韩国首尔市政府当天表示，截至5日晚，近12万人次已前往设于首尔广场和首尔市25个区的吊唁堂，对梨泰院踩踏事故遇难者进行哀悼。（海外网）]]></title>
-            <guid>2856535</guid>
-            <pubDate>Sun, 06 Nov 2022 04:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
