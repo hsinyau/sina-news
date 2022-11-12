@@ -4,11 +4,232 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 11 Nov 2022 21:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 00:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【常州市加速打造“新能源之都”】在11月11日举行的2022世界工业与能源互联网博览会开幕式上，21个项目在常州市签约落地，总投资额达470亿元，其中包括国能集团常州绿色能源基地、光伏胶膜及固态电池、盐穴压缩空气储能发电二期等8个新能源产业项目。近年来，常州市新能源产业快速崛起，今年以来新能源汽车产销量突破20万辆、动力电池产销量占全国五分之一，预计全年新能源领域产值将超过5000亿元。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4259700.d.html</link>
+            <guid>2864210</guid>
+            <pubDate>Sat, 12 Nov 2022 00:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【核电运行装机容量料进一步增加】中国核能行业协会日前发布的数据显示，1-9月，全国运行核电机组累计发电量为3046.76亿千瓦时，占全国累计发电量的4.85%。业内人士表示，有关规划提出到2025年全国核电运行装机容量达到7000万千瓦左右，这意味着我国核电运行装机容量还有近30%的增长空间，相关上市公司有望获益。（中国证券报）]]></title>
+            <guid>2864208</guid>
+            <pubDate>Sat, 12 Nov 2022 00:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆昨日新增确诊病例25例、无症状感染者693例】据新疆卫健委消息：11月11日0时至24时，新疆维吾尔自治区新增确诊病例25例，新增无症状感染者693例，新增确诊病例治愈出院7例，新增无症状感染者解除隔离医学观察120例。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4259430.d.html</link>
+            <guid>2864192</guid>
+            <pubDate>Sat, 12 Nov 2022 00:33:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【特斯拉向全球开放其电动汽车充电枪设计】特斯拉在一篇博文中宣布，特斯拉正在向世界开放其电动车充电枪设计，并邀请充电网络运营商和汽车制造商使用特斯拉的充电枪和充电端口。特斯拉称，“该充电枪没有移动部件，尺寸只有一半，功率是联合充电系统（CCS）充电枪的两倍。作为其加速世界向可持续能源过渡的使命的一部分，特斯拉正在向汽车制造商和充电网络运营商免费提供该设计。”此外，特斯拉将其充电枪和端口重新命名为北美充电标准（NACS），并说这是北美最常见的充电标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4259370.d.html</link>
+            <guid>2864191</guid>
+            <pubDate>Sat, 12 Nov 2022 00:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南昨日新增本土无症状感染者1例】据海南省卫健委消息，2022年11月11日0时—24时，海南省新增感染者1例。其中，新增本土无症状感染者1例，为三亚市报告，在隔离人员筛查中发现。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5859610.d.html</link>
+            <guid>2864186</guid>
+            <pubDate>Sat, 12 Nov 2022 00:31:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁夏昨日新增无症状感染者9例】11月11日0—24时，宁夏新增无症状感染者9例，其中中卫市5例（沙坡头区2例、中宁县2例，均为宁夏外输入；海原县1例），银川市4例（金凤区1例、贺兰县1例、永宁县1例、灵武市1例，均为宁夏外输入）。无新增确诊病例，无新增疑似病例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4258680.d.html</link>
+            <guid>2864159</guid>
+            <pubDate>Sat, 12 Nov 2022 00:25:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑龙江昨日新增本土确诊病例9例 本土无症状感染者245例】11月11日0—24时，黑龙江省新增本土确诊病例9例，其中哈尔滨市8例（南岗区3例、香坊区2例、尚志市2例、平房区1例，其中集中隔离发现6例、居家隔离医学观察发现1例、社区筛查发现1例），绥化市1例（在北林区，为无症状感染者转确诊病例）。新增本土无症状感染者245例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4258582.d.html</link>
+            <guid>2864156</guid>
+            <pubDate>Sat, 12 Nov 2022 00:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆市新增本土确诊病例160例，新增本土无症状感染者1081例】11月11日0—24时，重庆市新增本土确诊病例160例（垫江县33例、沙坪坝区31例、巴南区13例、秀山县13例、南岸区11例、渝北区10例、合川区10例、九龙坡区9例、开州区6例、北碚区5例、永川区3例、云阳县3例、渝中区2例、铜梁区2例、忠县2例、万州区1例、涪陵区1例、大渡口区1例、江北区1例、南川区1例、荣昌区1例、梁平区1例），其中，83例在隔离管控人员中发现、2例在管控人员中发现、13例在重点人员核酸检测中发现、32例在区域核酸检测中发现、29例在扩面核酸检测中发现、1例由无症状感染者转为确诊病例。新增本土无症状感染者1081例（沙坪坝区206例、渝北区172例、九龙坡区171例、南岸区93例、大渡口区59例、垫江县57例、合川区42例、巴南区39例、江北区38例、渝中区37例、大足区28例、北碚区27例、璧山区18例、万州区13例、涪陵区11例、巫溪县11例、秀山县11例、铜梁区10例、南川区9例、江津区5例、永川区4例、奉节县4例、万盛经开区4例、綦江区3例、云阳县3例、长寿区2例、荣昌区2例、梁平区1例、彭水县1例），其中，444例在隔离管控人员中发现、24例在管控人员中发现、79例在重点人员核酸检测中发现、443例在区域核酸检测中发现、91例在扩面核酸检测中发现。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5858842.d.html</link>
+            <guid>2864141</guid>
+            <pubDate>Sat, 12 Nov 2022 00:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【多地三年行动成绩单亮相 国企改革开启新阶段】近期，随着国企改革三年行动步入收官冲刺期，湖北、湖南、河北、贵州等地密集披露“成绩单”。多地主体任务已基本完成，市场化机制、结构调整等一系列改革所形成的竞争优势为国企发展注入新动能，也为资本市场注入新活力。业内人士认为，国企改革已经从进度上实现预期成效，并开启“深化”新阶段。未来，地方国企战略性重组和专业化整合将积极推进，混改上市将加速落地。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4257802.d.html</link>
+            <guid>2864119</guid>
+            <pubDate>Sat, 12 Nov 2022 00:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前10月产销同比增幅均超170% 新能源车混动技术路线在壮大】曾被视作非主流的混合动力技术路线正在快速壮大。中国汽车工业协会11月10日披露，1至10月，中国新能源汽车产销同比均增长超过110%，在新能源汽车主要品种中，插电式混合动力汽车产销同比增幅均超过170%。记者采访发现，包括比亚迪、长城汽车等上市公司在内，汽车行业专家和研究机构等都对混合动力的未来寄予厚望。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5857714.d.html</link>
+            <guid>2864082</guid>
+            <pubDate>Sat, 12 Nov 2022 00:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【安徽昨日新增确诊病例13例、无症状感染者118例】11日0-24时，安徽省报告新增确诊病例13例（淮北市濉溪县），新增无症状感染者118例（合肥市长丰县1例、瑶海区2例、蜀山区1例，淮北市濉溪县105例、相山区1例，亳州市谯城区1例，宿州市埇桥区1例，蚌埠市禹会区1例，阜阳市颍上县1例、太和县2例、颍州区1例，芜湖市无为市1例）。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4257162.d.html</link>
+            <guid>2864080</guid>
+            <pubDate>Sat, 12 Nov 2022 00:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北昨日新增327例无症状感染者】据河北省卫健委发布，2022年11月11日0—24时，河北省无新增新型冠状病毒肺炎确诊病例；新增无症状感染者327例，其中石家庄市289例（裕华区191例、长安区78例、桥西区10例、新华区8例、正定县2例），张家口市12例（宣化区11例、怀安县1例），秦皇岛市10例（青龙县5例、海港区4例、开发区1例），廊坊市5例（广阳区2例、开发区1例、文安县1例、大厂县1例），邢台市4例（信都区2例、隆尧县1例、新河县1例），邯郸市3例（经开区2例、成安县1例），唐山市2例（遵化市1例、乐亭县1例），沧州市1例（运河区），定州市1例。无症状感染者解除医学观察22例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5857661.d.html</link>
+            <guid>2864079</guid>
+            <pubDate>Sat, 12 Nov 2022 00:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 今天《人民日报》头版的主要内容有：1、培育壮大外贸产业 深化人文交流合作 甘肃加快构建开放新格局；2、习近平将赴印尼出席二十国集团领导人第十七次峰会、赴泰国出席亚太经合组织第二十九次领导人非正式会议并对泰国进行访问；3、国家主席习近平任免驻外大使；4、光伏发电助力乡村振兴；5、李克强出席第25次中国—东盟领导人会议；6、全国政协召开网络议政远程协商会 围绕“推进黄河国家文化公园建设”协商议政 汪洋主持；7、脱贫县农村居民人均可支配收入增速继续高于全国平均水平 让脱贫群众生活更上一层楼；8、31个审批事项合——上海浦东新区试点“文体旅一证通”。]]></title>
+            <guid>2864077</guid>
+            <pubDate>Sat, 12 Nov 2022 00:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三季度基金代销百强榜单出炉 券商占据半数以上席位】基金代销能力哪家强？中基协近日发布2022年第三季度公募基金销售保有规模百强榜，以“股票+混合公募基金”保有总规模来看，招商银行、蚂蚁基金、天天基金占据前三，这一座次较今年前两个季度未发生变化。券商市占率持续上升。跻身百强的数量远远超过基金销售公司和银行，第三季度共有53家券商入围，占据一半以上。头部券商竞争激烈，华泰证券权益类基金保有规模达1190亿元，拿下了券商的头把交椅；中信证券权益类基金保有规模1075亿元，位居第二。（上海证券报）]]></title>
+            <guid>2864072</guid>
+            <pubDate>Sat, 12 Nov 2022 00:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【税优健康险产品拟扩容 被保险人群体拓展至家庭成员】11月11日，银保监会就《关于扩大商业健康保险个人所得税优惠政策适用产品范围有关事项的通知（征求意见稿）》在行业内征求意见，拟扩大个人所得税优惠政策适用商业健康保险的产品范围。据了解，此次税优健康险改革是为了推动商业健康保险个人所得税优惠政策惠及更多人民群众，进一步发挥商业健康保险积极作用，有效降低自付医疗费用，丰富对既往症患病人群、老年人群的保险保障，增强人民群众的获得感、幸福感和安全感。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4255775.d.html</link>
+            <guid>2864068</guid>
+            <pubDate>Fri, 11 Nov 2022 23:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲新法案拦截“外国补贴”企业，有媒体又扯上中国，专家驳斥】欧洲议会当地时间近日发表声明称，已批准一项新的法案，授予欧委会新权力，以调查并拦阻受外国政府补贴的企业收购欧盟境内公司或参与投标。欧洲新闻电视台在报道中称，这项法案的主要目的是限制那些获得中国政府补贴的公司收购欧洲公司或出高价获得欧盟的政府合同。专家表示，事实上，对当前的欧洲来说，采用所谓“外国补贴”最严重的是美国，而不是中国。近期备受争议的美国《通胀削减法案》，实质就是美国对其一些行业和企业实行这种排外式补贴，才导致欧洲方面坐不住了。 (环球时报)]]></title>
+            <guid>2864067</guid>
+            <pubDate>Fri, 11 Nov 2022 23:48:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯准备对化肥征收出口关税 税率或高达23.5%】综合多家俄罗斯媒体周五消息，俄罗斯副总理兼工业和贸易部长丹尼斯·曼图罗夫表示，该国将为化肥设定出口关税。曼图罗夫补充称，政府官员们已经准备了一份草案：如果任一化肥价格超过每吨450美元，政府将对高出450美元的部分收取23.5%的出口关税。（财联社）]]></title>
+            <guid>2864066</guid>
+            <pubDate>Fri, 11 Nov 2022 23:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【期待！天舟五号今天发射】据中国载人航天工程办公室消息，目前，长征七号遥六运载火箭已完成推进剂加注，瞄准北京时间2022年11月12日10时03分，在我国文昌航天发射场发射天舟五号货运飞船。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5854785.d.html</link>
+            <guid>2864065</guid>
+            <pubDate>Fri, 11 Nov 2022 23:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【祝贺！云海三号卫星发射成功】今天，我国在太原卫星发射中心使用长征六号改运载火箭，成功将云海三号卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。该卫星主要用于开展大气海洋环境要素探测、空间环境探测、防灾减灾和科学试验等。为中国航天点赞！（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4254020.d.html</link>
+            <guid>2864063</guid>
+            <pubDate>Fri, 11 Nov 2022 23:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【云南昨日新增省内感染者77例】云南昨日新增省内感染者77例，其中确诊病例7例：瑞丽市报告3例，鲁甸县报告2例，官渡区报告1例，弥勒市报告1例；无症状感染者70例。新增境外输入感染者2例，其中确诊病例1例（柬埔寨输入）；无症状感染者1例（缅甸输入）。新增甘肃入滇感染者3例，均为无症状感染者，宣威市报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4253540.d.html</link>
+            <guid>2864062</guid>
+            <pubDate>Fri, 11 Nov 2022 23:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东昨日新增本土确诊病例8例 本土无症状感染者139例】2022年11月11日0时至24时，山东省报告新增本土确诊病例8例，其中青岛4例，系集中隔离点检出2例和重点人员筛查检出2例（含1例省外返鲁人员）；济宁2例，均系主动就诊检出；泰安1例，系集中隔离点检出；临沂1例，系集中隔离点检出。新增本土无症状感染者139例，其中菏泽62例。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4253526.d.html</link>
+            <guid>2864061</guid>
+            <pubDate>Fri, 11 Nov 2022 23:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网自动测定：11月12日07时13分在四川凉山州宁南县附近（北纬26.99度，东经102.89度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2864060</guid>
+            <pubDate>Fri, 11 Nov 2022 23:16:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小米：双十一期间全渠道累计支付金额突破170亿】记者获悉，2022年10月31日晚八点至11月12日零点，小米全渠道累计支付金额突破170亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5853594.d.html</link>
+            <guid>2864059</guid>
+            <pubDate>Fri, 11 Nov 2022 23:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【为保障冬季用电 德国批准核电站继续运转】德国目前仍有三座核电站处于运营状态，按计划原定于今年年底“下线”。受能源短缺的影响，为保障冬季供电，当地时间11日，德国联邦议院通过《核能法》修正案，允许这三座核电站延长运营至明年四月中旬。]]></title>
+            <guid>2864058</guid>
+            <pubDate>Fri, 11 Nov 2022 23:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汽车行业加速自主化智能化】从汽车企业自身看，要加强战略研究、保持战略定力，坚持科技创新、加大研发投入，加速智能化进程。中国机械工业联合会执行副会长罗俊杰建议，车企要以新能源汽车、智能网联汽车的大规模推广应用为契机，聚焦芯片、新一代电子电气架构、新体系电池、车用操作系统、高精度传感器等领域，持续提升自身能力，优化供应链布局，以科技创新驱动产业链供应链发展，加快品牌和产品转型升级，适应消费变革，不断聚集自身成长新动力和行业发展新动能。（经济日报）]]></title>
+            <guid>2864057</guid>
+            <pubDate>Fri, 11 Nov 2022 23:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱任命Kiguel担任美洲外汇和新兴市场策略主管】巴克莱任命Andrea Kiguel担任美洲外汇和新兴市场宏观策略主管。Kiguel过去五年一直在花旗集团担任拉丁美洲本地市场策略师，11月7日开始在纽约的巴克莱工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4251686.d.html</link>
+            <guid>2864056</guid>
+            <pubDate>Fri, 11 Nov 2022 22:56:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国秋冬种接近尾声，播种总体顺利】农业农村部最新农情调度显示，目前全国秋冬种已接近尾声。各主产区推广种植良种，采用播种新技术，切实提高秋冬种质量。截至目前，全国冬小麦已播94.1%，冬油菜已播96.7%，播种总体顺利。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5852016.d.html</link>
+            <guid>2864055</guid>
+            <pubDate>Fri, 11 Nov 2022 22:53:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周六隔夜全球要闻汇总】1、美股三大指数收涨，道指涨0.1%，本周累计上涨4.15%；纳指涨1.87%，本周累计上涨8.1%；标普500指数涨0.93%，本周累计上涨5.9%。热门中概股普涨，纳斯达克金龙指数涨6.56%。2、美联储柯林斯表示，预计美联储将继续加息，现在预测终端利率还为时过早；货币政策过度收紧的风险已经增加。3、特斯拉称向全球开放电动汽车（EV）连接器设计。4、FTX集团表示已在美国启动破产程序，Bankman-Fried已辞去首席执行官职务。5、美国宇航局(NASA)称，阿尔忒弥斯1号登月火箭发射有望在11月16日按计划进行。6、欧盟委员会发布经济预测报告，上调2022年意大利预期经济增长率至3.8%，此前预计为2.9%，同时下调2023年意大利预期经济增长率至0.3%，此前预计为0.9%。7、伦敦金属交易所决定不禁止交割新的俄罗斯金属。8、WTI原油期货收涨2.88%，报88.96美元/桶；布伦特原油期货收涨2.47%，报95.99美元/桶。COMEX 12月黄金期货收涨0.9%，报1769.4美元/盎司。9、欧洲央行管委埃尔南德斯德科斯表示，可能在12月的会议上宣布量化紧缩政策(QT)的开始日期。10、加密货币交易所Coinbase将冲销其风险投资部门在FTX的投资；将参与FTX破产程序，以寻求对该交易所1500万美元存款的索赔。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5851907.d.html</link>
+            <guid>2864054</guid>
+            <pubDate>Fri, 11 Nov 2022 22:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台今日6时发布暴雪黄色预警】中央气象台11月12日06时发布暴雪黄色预警：预计11月12日08时至11月13日08时，辽宁东北部、吉林中东部、黑龙江东南部等地的部分地区有大到暴雪（10—19毫米），上述地区新增积雪深度3—8厘米，局地可达10厘米以上。]]></title>
+            <guid>2864052</guid>
+            <pubDate>Fri, 11 Nov 2022 22:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汽车行业加速自主化智能化】中国汽车工业协会11月10日发布的数据显示，10月份，我国汽车产销量分别达259.9万辆和250.5万辆，同比增长11.1%和6.9%，产销保持稳步增长态势，汽车市场自主化智能化进程加快。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4250581.d.html</link>
+            <guid>2864051</guid>
+            <pubDate>Fri, 11 Nov 2022 22:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第五届巴黎和平论坛开幕】第五届巴黎和平论坛当地时间11日在法国巴黎开幕，论坛为期两天，包括法国总统马克龙、阿根廷总统费尔南德斯、联合国教科文组织总干事阿祖莱在内的一些国家和政府领导人及国际组织、非政府组织、跨国公司和金融机构负责人等将出席论坛。在当今世界面临能源危机、粮食安全和通货膨胀等挑战背景下，与会者将重点讨论如何克服多重危机带来的社会经济影响、在重大问题上开展国际合作，以及支持多边主义和完善全球合作机制等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5850830.d.html</link>
+            <guid>2864049</guid>
+            <pubDate>Fri, 11 Nov 2022 22:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自由港液化天然气（Freeport LNG）：推特上关于破裂的输气管线延后恢复供气的内容是“虚假”信息。]]></title>
+            <guid>2864046</guid>
+            <pubDate>Fri, 11 Nov 2022 22:14:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼CEO Bob Chapek：将商务旅行限制在仅有的必要旅行，公司CFO和总顾问将负责评估市场营销和内容方面的开支。]]></title>
+            <guid>2864044</guid>
+            <pubDate>Fri, 11 Nov 2022 22:07:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Silvergate公告：存放在FTX的数字资产存款占比不足10%；在FTX没有尚未结清的贷款，也没有尚未完成的投资。]]></title>
+            <guid>2864042</guid>
+            <pubDate>Fri, 11 Nov 2022 22:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼计划定向冻结招聘，并裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4249212.d.html</link>
+            <guid>2864041</guid>
+            <pubDate>Fri, 11 Nov 2022 21:58:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信里昂证券有限公司将软银评级下调至增持 目标价7860日元】中信里昂证券有限公司将软银集团股份有限公司评级下调至增持，目标价7860日元，即上涨13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5849552.d.html</link>
+            <guid>2864040</guid>
+            <pubDate>Fri, 11 Nov 2022 21:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰称正在与白俄罗斯接壤的边境修建防御围栏】乌克兰国家通讯社当地时间11日报道称，乌总统办公室副主任季莫申科当天宣布，乌克兰正在与白俄罗斯接壤的边境修建钢筋混凝土防御围栏。目前已完成大约3公里，修建工作仍在进行中。他表示，目前乌克兰的边防警卫全天候监控边境情况。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5849330.d.html</link>
+            <guid>2864039</guid>
+            <pubDate>Fri, 11 Nov 2022 21:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚朵（ATAT）美国IPO首日收涨17.09%，报12.88美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4247811.d.html</link>
+            <guid>2864033</guid>
+            <pubDate>Fri, 11 Nov 2022 21:17:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数字资产上市公司Token.com宣称，公司对FTX及其关联公司Alameda Research均不存在风险敞口。]]></title>
+            <guid>2864032</guid>
+            <pubDate>Fri, 11 Nov 2022 21:16:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Voyager Digital评估若干选项，以应对数字资产交易平台FTX在美国启动破产程序。]]></title>
             <guid>2864029</guid>
@@ -114,145 +335,6 @@
             <title><![CDATA[【Piper Sandler：将西方石油(OXY.N)评级从增持下调至中性 目标价从78美元下调至76美元】Piper Sandler分析师Ryan Todd将西方石油(OXY.N)的评级从增持下调至中性，目标价从78美元下调至76美元。Todd在研报中表示，虽然向现金回报股东模式的转变是一个“值得欢迎的进展”，但由于预计2023年没有产量增长，西方石油公司的“差异化相对较小”。]]></title>
             <guid>2863996</guid>
             <pubDate>Fri, 11 Nov 2022 19:35:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股奈飞盘中涨超5%】美股奈飞盘中上涨5.19%，现报289.250美元，当前市值为1287.22亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5844775.d.html</link>
-            <guid>2863993</guid>
-            <pubDate>Fri, 11 Nov 2022 19:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coinbase表示，在FTX的敞口对其资产负债表来说并不重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4243680.d.html</link>
-            <guid>2863988</guid>
-            <pubDate>Fri, 11 Nov 2022 19:11:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coinbase将参与FTX破产程序，以寻求对该交易所1500万美元存款的索赔。]]></title>
-            <guid>2863987</guid>
-            <pubDate>Fri, 11 Nov 2022 19:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所Coinbase将冲销其风险投资部门在FTX的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4243617.d.html</link>
-            <guid>2863986</guid>
-            <pubDate>Fri, 11 Nov 2022 19:09:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：FTX US在当地时间周五中午停止处理提款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4243485.d.html</link>
-            <guid>2863984</guid>
-            <pubDate>Fri, 11 Nov 2022 19:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雅诗兰黛(EL.N)盘中走低，涨幅收窄至3.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5843750.d.html</link>
-            <guid>2863981</guid>
-            <pubDate>Fri, 11 Nov 2022 18:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股爱奇艺盘中涨超20%】美股爱奇艺盘中上涨21.43%，现报2.81美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5843736.d.html</link>
-            <guid>2863980</guid>
-            <pubDate>Fri, 11 Nov 2022 18:53:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【FTX创始人SBF净值从逾150亿美元蒸发至零】据亿万富豪指数，数字资产交易所FTX创始人Sam Bankman-Fried（SBF）的净值最近一周从超150亿美元蒸发至零。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5843701.d.html</link>
-            <guid>2863979</guid>
-            <pubDate>Fri, 11 Nov 2022 18:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Piper Sandler：将康菲石油(COP.N)目标价从133美元上调至155美元。]]></title>
-            <guid>2863978</guid>
-            <pubDate>Fri, 11 Nov 2022 18:50:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[雅诗兰黛洽谈以28亿美元收购Tom Ford。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4242827.d.html</link>
-            <guid>2863975</guid>
-            <pubDate>Fri, 11 Nov 2022 18:46:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：美股仍有反弹空间】摩根士丹利首席美国股票策略师Mike Wilson是一位著名的股市怀疑论者，他正确预测了今年的股市暴跌。他表示，美国股市近期的反弹并未结束，未来几周应该会持续下去。他认为，美股可能还会进一步上涨，可能会持续到感恩节，甚至可能持续到12月初。此前公布的美国10月CPI数据降温幅度超过预期，这增加了美联储采取鸽派政策的可能性。他表示，如果利率开始回落，这将有助于缓解成长型股票等长期资产的压力，并将有助于推动股市的下一轮反弹。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5843444.d.html</link>
-            <guid>2863974</guid>
-            <pubDate>Fri, 11 Nov 2022 18:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克：特斯拉考虑向美国出口中国造电动汽车的报道“错误”】马斯克用“错误”一词回应了有关特斯拉在考虑将上海生产的电动汽车出口到美国的消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5842696.d.html</link>
-            <guid>2863969</guid>
-            <pubDate>Fri, 11 Nov 2022 18:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将塔吉特(TGT.N)目标价从193美元下调至183美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5842631.d.html</link>
-            <guid>2863967</guid>
-            <pubDate>Fri, 11 Nov 2022 18:16:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉向全球开放电动车充电连接器设计】特斯拉(TSLA.O)公告宣布，为追求加速全球向可持续能源过渡的使命，今天向全球开放特斯拉的电动车充电连接器设计。公司欢迎充电网络运营商和汽车制造商将特斯拉充电连接器和充电端口（现称北美充电标准NACS）用于其设备和车辆上。NACS是北美最成熟的充电连接器设计。公司表示，网络运营商已开始计划在其充电设备上使用NACS，因此特斯拉用户将可以在没有适配器的其他（充电桩）网络上充电。同样公司期待未来的电动汽车采用NACS设计，在特斯拉北美超级充电站和充电网络进行充电。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4241897.d.html</link>
-            <guid>2863966</guid>
-            <pubDate>Fri, 11 Nov 2022 18:13:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉：连接器和充电口现在被称作“北美充电标准”，特斯拉用户可以在没有适配器的其他充电桩网络上充电。]]></title>
-            <guid>2863965</guid>
-            <pubDate>Fri, 11 Nov 2022 18:07:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉：将向世界开放电动汽车连接器设计。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4241717.d.html</link>
-            <guid>2863964</guid>
-            <pubDate>Fri, 11 Nov 2022 18:05:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特审查人员未能发现举报人所暴露的漏洞】此前一项美国联邦贸易委员会(FTC)下令对推特进行的隐私和数据控制审查并没有发现后来被举报人曝光的失误，引起了对主要技术平台监督的质疑。安永会计师事务所2021年外部审计结论是，推特有适当的保障措施，其“安全控制达到或超过了FTC根据2011年的同意法令要求的保护措施”。而此后数月，推特网络安全主管离职并声称推特的做法存在“严重的缺陷”。这不是第一次发生FTC下令进行的审计忽略了安全方面弱点这样的事件。2015年和2017年，FTC下令对Meta旗下Facebook进行审计，但没有发现该公司的问题，导致剑桥分析公司的数据泄露。Uber和Alphabet旗下谷歌也曾收到FTC的命令。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5841913.d.html</link>
-            <guid>2863958</guid>
-            <pubDate>Fri, 11 Nov 2022 17:50:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆乌鲁木齐昨日新增确诊病例25例，新增无症状感染者641例。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5841804.d.html</link>
-            <guid>2863955</guid>
-            <pubDate>Fri, 11 Nov 2022 17:46:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国学生贷款债务减免计划已停止接受申请】据美国消费者新闻与商业频道当地时间11日报道，由于10日美国得克萨斯州地区法院法官裁定，学生贷款债务减免计划违宪，美国政府目前已经停止接受学生申请。根据申请页面上的一条说明，该计划因法院命令而暂停，相关人员和机构正在寻求推翻这项命令。（央视）]]></title>
-            <guid>2863953</guid>
-            <pubDate>Fri, 11 Nov 2022 17:38:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[推特的众多审计员未能发现举报人所爆料的推特失检问题；安永在2021年审计报告中称推特证券是适宜的，审计方未能列出与前网络主管Mudge所指的差别。]]></title>
-            <guid>2863952</guid>
-            <pubDate>Fri, 11 Nov 2022 17:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[安永会计师事务所2021年审计结果表明推特的安全性适当。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5841144.d.html</link>
-            <guid>2863950</guid>
-            <pubDate>Fri, 11 Nov 2022 17:26:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将沃尔玛(WMT.N)目标价从162美元下调至161美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqqsmrp5840226.d.html</link>
-            <guid>2863942</guid>
-            <pubDate>Fri, 11 Nov 2022 17:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股航空航天与国防股大跌】美股航空航天与国防股大跌，维珍银河跌6%，洛克希德马丁、雷神跌3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4238774.d.html</link>
-            <guid>2863935</guid>
-            <pubDate>Fri, 11 Nov 2022 16:49:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Piper Sandler：维持英伟达(NVDA.O)增持评级 目标价200美元】Piper Sandler分析师Harsh Kumar看好英伟达下周的财报，他认为明年1月当季（第四财季）业绩指引将显示数据中心业务恢复增长。此外，Kumar在研报中表示，游戏业务中绝大多数的GPU库存过剩将在截至10月的第三财季前清除，第四财季可能会有一些库存留在销售渠道中。他认为，鉴于经济衰退的阻力，英伟达的增长率将放缓，但仍预计2024财年的增长率将在20%左右。Kumar对该股保持增持评级，目标价为200美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-12/detail-imqmmthc4238394.d.html</link>
-            <guid>2863930</guid>
-            <pubDate>Fri, 11 Nov 2022 16:39:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
