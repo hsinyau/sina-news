@@ -4,11 +4,241 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 16 Nov 2022 15:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Nov 2022 18:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：麦康奈尔再次当选美国参议院共和党领袖兼发言人。]]></title>
+            <guid>2869190</guid>
+            <pubDate>Wed, 16 Nov 2022 18:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：福特汽车(F.N)选择罗克韦尔自动化公司来推进其电动汽车项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6473936.d.html</link>
+            <guid>2869189</guid>
+            <pubDate>Wed, 16 Nov 2022 18:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国30年期国债收益率下跌，触及日内低点3.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4887315.d.html</link>
+            <guid>2869187</guid>
+            <pubDate>Wed, 16 Nov 2022 18:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【俄罗斯敦促波兰停止反俄猜测】 俄罗斯外交部发言人扎哈罗娃11月16日发表声明称，当天俄罗斯外交部召见了波兰驻俄罗斯临时代办。俄方表示，波兰方面因11月15日两枚导弹坠落事件而产生的反俄情绪是不可接受的。俄方希望波兰停止一切与此事件有关的反俄猜测。俄罗斯国防部已对俄罗斯武装力量与此事无关的问题给出了所有详尽的解释。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4887301.d.html</link>
+            <guid>2869186</guid>
+            <pubDate>Wed, 16 Nov 2022 18:05:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧洲央行官员可能倾向于12月加息50个基点，而不是75个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6473451.d.html</link>
+            <guid>2869181</guid>
+            <pubDate>Wed, 16 Nov 2022 17:52:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  乌拉圭在线支付体验公司dLocal Ltd.（DLO）短线跳水超3.0美元，刷新日低至17.82美元，使得日内整体跌幅扩大至超过17%，卖空者浑水的分析师Carson Block在伦敦Sohn会议上宣称正在做空这家支付公司，称DLocal的管理层在公司IPO之后卖出股票，那是一个“危险信号”，且该公司账户/财务信息存在冲突、让人警惕。]]></title>
+            <guid>2869180</guid>
+            <pubDate>Wed, 16 Nov 2022 17:40:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“零碳联盟”正式启动，顶级风投牵头设立，清洁氢能成重点投资方向】 11月16日，在新加坡举行的创新经济论坛上，由彭博、红杉中国、博枫、塔塔、FMG、穆巴达拉和远景集团共同成立的创新经济气候变化科技联盟（简称：零碳联盟）正式启动。作为联盟的共同发起方，沈南鹏表示：“应对全球气候危机是这个时代的重要命题，而绿色科技的规模化落地和应用是不可或缺的重要路径，这要求绿色技术投资在2021年超过7500亿美元的基础上，到2025年增加两倍，到2030年再增加一倍。据悉，零碳联盟在初期将专注于解决清洁氢能领域发展的障碍。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4885509.d.html</link>
+            <guid>2869176</guid>
+            <pubDate>Wed, 16 Nov 2022 17:23:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 英国将在能源效率方面开支（至少）数十亿（英镑），以便将需求砍掉13%。]]></title>
+            <guid>2869175</guid>
+            <pubDate>Wed, 16 Nov 2022 17:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储巴尔：家庭资产负债表总体表现强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4884741.d.html</link>
+            <guid>2869173</guid>
+            <pubDate>Wed, 16 Nov 2022 17:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：美国食品药品监督管理局警告5家公司销售类似玩具和食物的电子烟。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6471363.d.html</link>
+            <guid>2869172</guid>
+            <pubDate>Wed, 16 Nov 2022 17:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+【乌克兰总统泽连斯基：落在波兰的导弹不属于乌克兰】乌克兰总统泽连斯基当天表示，落入波兰境内的导弹毫无疑问不属于乌克兰。泽连斯基称，他已经收到了来自乌军和空军指挥部的报告，应当相信军方的结论。泽连斯基还认为，乌克兰应该被允许前往导弹坠落地点参与调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6471275.d.html</link>
+            <guid>2869171</guid>
+            <pubDate>Wed, 16 Nov 2022 17:06:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[
+【美国众议院将于12月举行针对加密货币交易平台FTX的听证会】当地时间11月16日，美国众议院金融服务委员会表示，将于12月举行听证会，调查于近期宣布破产的大型加密货币交易平台FTX交易集团，预计FTX创始人兼前首席执行官萨姆·班克曼-弗里德将出席听证会。该委员会表示，监督企业行为是国会最关键的职能之一，众议院将彻底调查FTX破产的原因，并追究不良行为者的责任。（央视新闻）]]></title>
+            <guid>2869161</guid>
+            <pubDate>Wed, 16 Nov 2022 16:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  亚马逊设备部门主管Dave Limp表示，公司开始在设备部门进行裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4882961.d.html</link>
+            <guid>2869156</guid>
+            <pubDate>Wed, 16 Nov 2022 16:34:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：马斯克称他预计将于本周完成推特的组织结构调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6469555.d.html</link>
+            <guid>2869154</guid>
+            <pubDate>Wed, 16 Nov 2022 16:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将家得宝(HD.N)目标价从355美元下调至335美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4882637.d.html</link>
+            <guid>2869153</guid>
+            <pubDate>Wed, 16 Nov 2022 16:28:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：特斯拉CEO埃隆·马斯克表示，他希望找到一个人来帮他管理推特。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4882566.d.html</link>
+            <guid>2869152</guid>
+            <pubDate>Wed, 16 Nov 2022 16:26:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)跌幅收窄至2%。亚马逊通知员工将在设备和服务部门裁员，未披露裁员数量和时间段。]]></title>
+            <guid>2869151</guid>
+            <pubDate>Wed, 16 Nov 2022 16:19:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：亚马逊(AMZN.O)整合其设备部门的一些团队和项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6468392.d.html</link>
+            <guid>2869149</guid>
+            <pubDate>Wed, 16 Nov 2022 16:12:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯经济部：俄罗斯2022年至11月14日的通胀同比上升12.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6468357.d.html</link>
+            <guid>2869148</guid>
+            <pubDate>Wed, 16 Nov 2022 16:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  英国央行行长贝利：英国核心商品通胀开始回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4881581.d.html</link>
+            <guid>2869147</guid>
+            <pubDate>Wed, 16 Nov 2022 16:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯11月14日当周CPI周环比上升0.06%，2022年迄今上升10.74%。]]></title>
+            <guid>2869142</guid>
+            <pubDate>Wed, 16 Nov 2022 16:05:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯三季度GDP同比萎缩4.0%，分析师预期下滑4.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqqsmrp6467740.d.html</link>
+            <guid>2869141</guid>
+            <pubDate>Wed, 16 Nov 2022 16:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乌克兰总统泽连斯基召开最高统帅部会议】 乌克兰媒体11月16日报道称，乌克兰总统泽连斯基当天召开了最高统帅部会议，会议分析了南部作战形势的发展，就下一步前线作战进行了评估。此外，会议还就进一步加强对关键基础设施的保护和提高防空有效性进行了讨论。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-17/detail-imqmmthc4881007.d.html</link>
+            <guid>2869140</guid>
+            <pubDate>Wed, 16 Nov 2022 16:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌基础设施部：一艘载有乌小麦的运粮船前往埃塞俄比亚】据乌克兰媒体11月16日报道，乌克兰基础设施部当天发布消息称，一艘载有2.7万吨乌克兰小麦的货船当天从乌克兰南部港口出发，前往埃塞俄比亚。该粮船为乌克兰总统泽连斯基发起的“来自乌克兰的粮食”人道主义项目的一部分。该项目将直接采购乌克兰粮食并运送到非洲和亚洲国家。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4880402.d.html</link>
+            <guid>2869139</guid>
+            <pubDate>Wed, 16 Nov 2022 15:57:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  古根海姆：将沃尔玛(WMT.N)目标价从155美元上调至165美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6467069.d.html</link>
+            <guid>2869138</guid>
+            <pubDate>Wed, 16 Nov 2022 15:56:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  加拿大皇家银行：将沃尔玛(WMT.N)目标价从151美元上调至163美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6466376.d.html</link>
+            <guid>2869133</guid>
+            <pubDate>Wed, 16 Nov 2022 15:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  花旗：将SEA(SE.N)目标价从129美元下调至97美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4879613.d.html</link>
+            <guid>2869132</guid>
+            <pubDate>Wed, 16 Nov 2022 15:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞士信贷：首予安森美半导体(ON.O)中性评级，目标价83美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6466356.d.html</link>
+            <guid>2869131</guid>
+            <pubDate>Wed, 16 Nov 2022 15:48:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  杰富瑞：将洛克希德马丁(LMT.N)目标价从450美元上调至500美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4879579.d.html</link>
+            <guid>2869129</guid>
+            <pubDate>Wed, 16 Nov 2022 15:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将纽约梅隆银行(BK.N)目标价从42.5美元上调至48美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6466313.d.html</link>
+            <guid>2869128</guid>
+            <pubDate>Wed, 16 Nov 2022 15:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Crypto.com的CEO：公司对Genesis和Gemini Earn并没有风险敞口。]]></title>
+            <guid>2869124</guid>
+            <pubDate>Wed, 16 Nov 2022 15:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【匈牙利外长：“友谊”输油管道恢复向匈牙利输送石油】 当地时间11月16日，正在塞尔维亚访问的匈牙利外交与对外经济部长西雅尔多表示，“友谊”管道目前已恢复向匈牙利输送石油。西雅尔多补充说，目前管道中的压力仍然很低，但正在开展技术工作以恢复其正常水平。匈牙利石油和天然气公司15日表示，由于乌克兰境内一个为“友谊”输油管道提供动力的变电站被火箭弹击中，该管道已临时中断向匈牙利、捷克和斯洛伐克输送石油。管道本身并未出现损坏。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6466234.d.html</link>
+            <guid>2869123</guid>
+            <pubDate>Wed, 16 Nov 2022 15:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根大通：将SEA(SE.N)目标价从70美元上调至75美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4878558.d.html</link>
+            <guid>2869117</guid>
+            <pubDate>Wed, 16 Nov 2022 15:33:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  瑞杰金融：将沃尔玛(WMT.N)目标价从150美元上调至160美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6465335.d.html</link>
+            <guid>2869116</guid>
+            <pubDate>Wed, 16 Nov 2022 15:33:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  MKM Partners：将沃尔玛(WMT.N)目标价从158美元上调至171美元。]]></title>
+            <guid>2869115</guid>
+            <pubDate>Wed, 16 Nov 2022 15:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根士丹利：将Silvergate Capital(SI.N)目标价从77美元下调至37美元。]]></title>
+            <guid>2869108</guid>
+            <pubDate>Wed, 16 Nov 2022 15:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【全国“5G+工业互联网”项目超过4000个】 从16日在武汉召开的“2022中国5G+工业互联网大会”新闻发布会上获悉，随着我国“5G+工业互联网”融合创新水平持续提高，截至目前，全国“5G+工业互联网”项目已超过4000个。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6464656.d.html</link>
+            <guid>2869106</guid>
+            <pubDate>Wed, 16 Nov 2022 15:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广州荔湾发布：广州市荔湾区决定自2022年11月17日零时起，除高风险区以外，在我区全域实行3项措施，包括加强社会面管理，住宅小区（楼宇）、城中村、产业园区、商务楼宇入口严格实行测温、扫场所码和查验24小时内核酸检测阴性证明等措施。各高校、职业院校和技工院校实施封闭管理。中小学阶段学校、幼儿园暂停返校及线下教学。校外培训机构暂停线下教学，托育、托管机构暂停服务。]]></title>
+            <guid>2869105</guid>
+            <pubDate>Wed, 16 Nov 2022 15:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雾芯科技(RLX.N)跌超5%，第三季度净营收同比减少37.7%至10.4亿元，经调整净利润同比减少27.4%至3.3亿元。]]></title>
+            <guid>2869103</guid>
+            <pubDate>Wed, 16 Nov 2022 15:20:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  Evercore ISI：将沃尔玛(WMT.N)目标价从135美元上调至140美元。]]></title>
+            <guid>2869098</guid>
+            <pubDate>Wed, 16 Nov 2022 15:13:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  腾讯美股粉单市场维持将近6%的涨幅，徘徊于39美元上方，盘初一度上涨约7.3%。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4876272.d.html</link>
@@ -25,256 +255,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4875823.d.html</link>
             <guid>2869090</guid>
             <pubDate>Wed, 16 Nov 2022 15:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国9月商业库存环比 0.4%，预期 0.5%，前值 0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6462557.d.html</link>
-            <guid>2869089</guid>
-            <pubDate>Wed, 16 Nov 2022 15:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国众议院金融服务委员会将于12月份就加密数字货币公司FTX（破产问题）举行听证会。]]></title>
-            <guid>2869088</guid>
-            <pubDate>Wed, 16 Nov 2022 14:59:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：尽管面临零售管理客户总资产（AUM）紧缩，欧洲财富管理公司但仍有韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4875580.d.html</link>
-            <guid>2869086</guid>
-            <pubDate>Wed, 16 Nov 2022 14:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新亚制程：拟定增募资不超过8.95亿元】新亚制程公告，拟定增募资不超过8.95亿元，扣除发行费用后将全部用于偿还银行贷款和补充流动资金。本次非公开发行股票的发行对象为上海利挞科技有限公司及宁波彪隋科技有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4875395.d.html</link>
-            <guid>2869082</guid>
-            <pubDate>Wed, 16 Nov 2022 14:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行货币政策委员丁格拉：现在存在过度紧缩的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6462209.d.html</link>
-            <guid>2869081</guid>
-            <pubDate>Wed, 16 Nov 2022 14:55:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国航：新开和复航多条国际航线】 近日，国航新开/复航北京首都—约翰内斯堡—成都、重庆—首尔仁川、重庆—迪拜等多条国际航线，计划新开/复航重庆—胡志明市、重庆—布达佩斯、天津—东京成田、天津—大阪关西、温州—米兰等航线。（中国民航网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4875150.d.html</link>
-            <guid>2869079</guid>
-            <pubDate>Wed, 16 Nov 2022 14:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2022年亚太经合组织高官会在曼谷结束】2022年亚太经合组织高官会16日在泰国首都曼谷结束。今年会议东道主泰国方面表示，本次高官会致力于推出符合亚太地区共同利益和愿景的有效政策，以支持本地区经济和社会繁荣发展。2022年亚太经合组织高官会主席他尼·通帕迪在当天的新闻发布会上说，为期两天的高官会成果包括亚太自由贸易区未来几年工作计划和有关生物经济、循环经济和绿色经济模式的曼谷目标草案最新版本等。他尼表示，亚太自由贸易区工作计划将为有关亚太自由贸易区的讨论注入新的活力，助力亚太地区实现更可持续和更具包容性的经济复苏，构建长期的经济韧性。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461949.d.html</link>
-            <guid>2869078</guid>
-            <pubDate>Wed, 16 Nov 2022 14:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利总理欧尔班的参谋长：在几周内就欧盟基金达成协议的机会很大。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461929.d.html</link>
-            <guid>2869077</guid>
-            <pubDate>Wed, 16 Nov 2022 14:51:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国总统拜登与英国首相苏纳克会晤】据白宫发表的声明，美国总统拜登于当地时间11月16日在二十国集团领导人第十七次峰会期间会见了英国首相里希·苏纳克。声明称，两国领导人讨论了俄乌局势，还讨论了在波兰东部发生的爆炸事件，并表示全力支持波兰开展对爆炸的调查。拜登和苏纳克还在一系列全球问题上进行了协调。两人还讨论了气候危机的应对，以及可持续能源的供应等话题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461644.d.html</link>
-            <guid>2869073</guid>
-            <pubDate>Wed, 16 Nov 2022 14:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯洛伐克经济部表示，“友谊”管道重新开始向斯洛伐克输送石油。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461558.d.html</link>
-            <guid>2869070</guid>
-            <pubDate>Wed, 16 Nov 2022 14:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国抵押贷款利率回落至7%以下】美国抵押贷款银行协会（MBA）周三公布的数据显示，美国最受欢迎的住房贷款平均利率创下7月份以来的最大单周跌幅，回落至略低于7%的水平，原因是通胀率超过峰值的迹象导致美国国债收益率下降。截至11月11日当周，30年期固定利率抵押贷款的平均合约利率下降24个基点至6.90%，金融市场受到上周数据的鼓舞，数据显示高通胀正在放缓，这将允许美联储缩减加息幅度。尽管有这些好消息，但抵押贷款利率仍较年初高出一倍多，且美联储迅速上调指标隔夜拆借利率令楼市承压。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461529.d.html</link>
-            <guid>2869069</guid>
-            <pubDate>Wed, 16 Nov 2022 14:47:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[
-【波罗的海干散货运价指数至两个月低点，因海岬型船运价下滑】波罗的海干散货运价指数周三跌至逾两个月最低水平，受海岬型船运费下跌打压。波罗的海干散货运价指数下跌12点或约0.9%，至1288点，为9月13日以来的最低水平。海岬型船运价指数下跌38点或约2.8%，至1333点。海岬型船日均获利下跌317美元，至11054美元。巴拿马型船运价指数上涨7点或0.4%至1688点。巴拿马型船日均获利上涨65美元，至15196美元。超灵便型散货船运价指数下跌6点，至1180点，连续第18个交易日下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461514.d.html</link>
-            <guid>2869068</guid>
-            <pubDate>Wed, 16 Nov 2022 14:46:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  洲际交易所（ICE）：英国按67.74英镑/吨出售现货碳排放许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461315.d.html</link>
-            <guid>2869067</guid>
-            <pubDate>Wed, 16 Nov 2022 14:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  英国央行行长贝利表示，央行仍有可能进一步提高利率；央行预计通货膨胀率将在冬季之后显著下降。]]></title>
-            <guid>2869066</guid>
-            <pubDate>Wed, 16 Nov 2022 14:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼向加拿大提议成立类似欧佩克的镍生产国集团】印尼投资部在周三的一份声明中说，印尼与加拿大的会谈中提议成立一个类似欧佩克的镍生产国组织。印尼和加拿大分别是世界上第一和第六大镍生产国。这项建议是印尼投资部长巴里周二在巴厘岛20国峰会期间会见加拿大国际贸易部长时提出的。声明说，印尼部长提出成立类似欧佩克的组织，用来"协调和整合镍矿政策"。欧佩克由13个生油国组成，经常决定全球产量。巴里尔在周三的声明中表示，成立镍生产国集团可以确保从电动汽车行业中获得最佳回报。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6461270.d.html</link>
-            <guid>2869065</guid>
-            <pubDate>Wed, 16 Nov 2022 14:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  塔吉特（TGT）下跌17%，创5月18日以来最大盘中跌幅。沃尔玛（WMT）涨超1.3%，延续上日涨6.5%的表现。]]></title>
-            <guid>2869064</guid>
-            <pubDate>Wed, 16 Nov 2022 14:41:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美股特朗普概念股走低，数字世界收购集团(DWAC.O)跌近7%，Phunware(PHUN.O)跌超5%。]]></title>
-            <guid>2869063</guid>
-            <pubDate>Wed, 16 Nov 2022 14:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东南亚基于食品配送、移动和金融服务的电子钱包领域领先的超级应用程序Grab美股盘初涨超13.4%，报3.55美元，逼近8月25日顶部3.66美元。]]></title>
-            <guid>2869060</guid>
-            <pubDate>Wed, 16 Nov 2022 14:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉年华邮轮(CCL.N)跌近13%，周三表示将非公开发行2027年到期10亿美元可转换高级债券，为其2024年到期的票据进行再融资。]]></title>
-            <guid>2869057</guid>
-            <pubDate>Wed, 16 Nov 2022 14:34:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国提交加强人工智能伦理治理立场文件】中国裁军大使李松11月16日率团出席在瑞士日内瓦举行的联合国《特定常规武器公约》2022年缔约国大会，并向大会提交了《中国关于加强人工智能伦理治理的立场文件》。李松指出，人工智能，伦理先行。作为最具代表性的颠覆性技术，人工智能在给人类社会带来潜在巨大发展红利的同时，其不确定性可能带来诸多全球性挑战，甚至引发根本性的伦理关切。国际社会普遍担心，如不加以规范，人工智能技术的误用滥用将损害人的尊严和平等、侵犯人权和基本自由、加剧歧视和偏见、冲击现有法律体系，并对各国政府管理、国防建设、社会稳定乃至全球治理产生负面影响。（央视新闻）]]></title>
-            <guid>2869053</guid>
-            <pubDate>Wed, 16 Nov 2022 14:31:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【道指开盘跌0.1%，标普500跌0.5%，纳指跌0.8%】塔吉特跌15.8%，Q3净利润同比下滑52.1% 。嘉年华邮轮跌12.5%，发行10亿美元优先级可转换债券。腾讯系中概股集体下挫，腾讯音乐跌5.3%，贝壳跌4.8%，拼多多跌3.7%。小牛电动涨6.0%，在欧洲上线多款新品。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4873111.d.html</link>
-            <guid>2869050</guid>
-            <pubDate>Wed, 16 Nov 2022 14:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗军：元宇宙处于资金投入和政策扶持起步阶段】中国计算机行业协会元宇宙产业专委会执行会长罗军表示，元宇宙整体还处于资金投入和政策扶持的起步阶段，因此并不适合所有的城市现阶段都一拥而上布局元宇宙产业。长三角、珠三角、京津冀等都市圈主要经济城市和部分省会城市有必要率先做好顶层设计，充分发挥各自优势，循序渐进，从元宇宙公共服务平台建设、应用场景开发、技术研发和元宇宙科学普及入手，促进元宇宙示范应用。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6460097.d.html</link>
-            <guid>2869049</guid>
-            <pubDate>Wed, 16 Nov 2022 14:30:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：TikTok计划在美国加州旧金山湾区Mountain View招聘大约1000名员工，届时，当地的人员规模大约将翻倍。]]></title>
-            <guid>2869047</guid>
-            <pubDate>Wed, 16 Nov 2022 14:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新疆乌鲁木齐市新增本土确诊病例18例，本土无症状感染者563例。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4872663.d.html</link>
-            <guid>2869046</guid>
-            <pubDate>Wed, 16 Nov 2022 14:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【苹果iPhone 14 Pro/Max发货时间延迟多达6周，美国用户无法在圣诞节前收货】 11月早些时候，苹果表示市场对iPhone 14 Pro和iPhone 14 Pro Max机型的需求依然强劲。然而由于供应链能力下降，预计iPhone 14 Pro与iPhone 14 Pro Max的出货量将低于此前预期，顾客也将等待更长时间才能收到新产品。现在，延迟情况似乎变得更糟。在苹果美国网上商店，iPhone 14 Pro 设备的预计发货时间目前在 6 周左右，所有的 iPhone 14 Pro 型号现在下单购买只能从 12 月 27 日开始交货，这让许多想买礼物的客户在圣诞节前无法购买到。 IT之家获悉，iPhone 14 Pro 国行版现在购买，也需要 5-6 周内发货。（IT之家）]]></title>
-            <guid>2869045</guid>
-            <pubDate>Wed, 16 Nov 2022 14:25:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国和英国国债价格上涨，10年期德债/英债收益率均下跌10个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6459527.d.html</link>
-            <guid>2869044</guid>
-            <pubDate>Wed, 16 Nov 2022 14:24:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[葡萄牙财长预计今年经济至少增长6.7%，超过政府6.5%的预期，并预计第四季度葡萄牙经济不会出现收缩。]]></title>
-            <guid>2869043</guid>
-            <pubDate>Wed, 16 Nov 2022 14:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广州番禺17日0时起有序恢复全区社会面正常流动，21日起有序恢复线下教学。（南方Plus）]]></title>
-            <guid>2869041</guid>
-            <pubDate>Wed, 16 Nov 2022 14:23:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【因鸡蛋供应不足，英国部分超市实行限购】 近日，由于鸡蛋供应不足，英国部分超市已经开始限制顾客可购买鸡蛋的数量，每名顾客仅可购买两盒鸡蛋（每盒鸡蛋一般为6枚至12枚），以保证市场供应稳定。近期，受能源、饲料成本上涨和禽流感等因素影响，英国鸡蛋产量正在下降，不少超市对节日期间的鸡蛋供应表示担忧。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4872144.d.html</link>
-            <guid>2869040</guid>
-            <pubDate>Wed, 16 Nov 2022 14:20:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【百果园再次递交港股上市申请】港交所文件显示，深圳百果园实业(集团)股份有限公司再次递交港股上市申请。今年5月2日，百果园曾向港交所提交上市申请书。申请书显示，百果园为水果零售经营商。根据弗若斯特沙利文的资料，按2021年水果零售额计，百果园是中国第一大水果零售商，占中国总市场份额1.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6458412.d.html</link>
-            <guid>2869034</guid>
-            <pubDate>Wed, 16 Nov 2022 14:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  艾伯维(ABBV.N)盘前拉升，现涨近1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6457773.d.html</link>
-            <guid>2869030</guid>
-            <pubDate>Wed, 16 Nov 2022 14:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  艾伯维(ABBV.N)：加拿大卫生部批准用于治疗偏头痛发作的药物Ubrevy。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6457665.d.html</link>
-            <guid>2869028</guid>
-            <pubDate>Wed, 16 Nov 2022 14:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【楚天龙：Web3.0与区块链技术密切相关，公司积极关注相关技术行业发展动向】楚天龙在投资者互动平台表示，Web3.0与区块链技术密切相关，公司积极关注相关技术行业发展动向，以促进业务发展。公司目前在嵌入式软件安全技术、数字身份认证、区块链技术等方面形成了一系列技术积累，应用于数字人民币、智慧政务、金融科技、智慧交通、通信安全等行业的数字化建设。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4870553.d.html</link>
-            <guid>2869027</guid>
-            <pubDate>Wed, 16 Nov 2022 14:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港交所文件显示，乐华娱乐集团递交港股上市申请。申请书显示，乐华娱乐是一家艺人管理公司。]]></title>
-            <guid>2869025</guid>
-            <pubDate>Wed, 16 Nov 2022 14:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据港交所文件：深圳百果园实业(集团)股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4870411.d.html</link>
-            <guid>2869024</guid>
-            <pubDate>Wed, 16 Nov 2022 14:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：英伟达(NVDA.O)与微软(MSFT.O)合作打造云计算AI计算机。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6457281.d.html</link>
-            <guid>2869022</guid>
-            <pubDate>Wed, 16 Nov 2022 14:03:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率下跌11个基点至3.94%，创两个月新低。]]></title>
-            <guid>2869019</guid>
-            <pubDate>Wed, 16 Nov 2022 14:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美光科技盘前下挫，现跌近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6456610.d.html</link>
-            <guid>2869014</guid>
-            <pubDate>Wed, 16 Nov 2022 13:56:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美光科技：将把DRAM和NAND闪存晶圆生产开工率降低约20%】美光科技表示，与2022财年第四财季相比，将把DRAM和NAND闪存晶圆生产开工率降低约20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4869462.d.html</link>
-            <guid>2869013</guid>
-            <pubDate>Wed, 16 Nov 2022 13:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【腾讯高管：在特定情况下进行股票回购是正确决定】11月16日，在腾讯财报电话会议上，腾讯高管表示，腾讯作为上市公司，回购股票主要是希望股价能够更加稳定，更好维护股东和投资者的利益，主要关注股票的长期价值而非短期股价。在特定情况下进行股票回购是正确决定。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4869257.d.html</link>
-            <guid>2869011</guid>
-            <pubDate>Wed, 16 Nov 2022 13:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股特朗普概念股盘前走低，数字世界收购集团(DWAC.O)转跌5%，Phunware(PHUN.O)涨幅收窄至约3%，此前均涨超22%。]]></title>
-            <guid>2869009</guid>
-            <pubDate>Wed, 16 Nov 2022 13:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科集团与6家深圳市属国企签订战略合作协议】据万科投资者关系公众号，11月16日上午，在深圳举办中国国际高新技术成果交易会期间，万科集团与深圳地铁集团、盐田港集团、环境水务集团、巴士集团、特发集团、人才安居集团等6家深圳市属国企签署全面战略合作协议，在城市更新、物流服务、产城融合、TOD等领域深入合作，以专业力量助力深圳的城市发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqmmthc4868752.d.html</link>
-            <guid>2869006</guid>
-            <pubDate>Wed, 16 Nov 2022 13:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国提交加强人工智能伦理治理立场文件】中国裁军大使李松16日率团出席在瑞士日内瓦举行的联合国《特定常规武器公约》2022年缔约国大会，并向大会提交了《中国关于加强人工智能伦理治理的立场文件》。李松表示，中国的立场文件系针对国际社会的广泛关注而提出，结合了中国在科技伦理领域的政策实践，参考了国际社会有益成果。（新华社）]]></title>
-            <guid>2869001</guid>
-            <pubDate>Wed, 16 Nov 2022 13:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  东南亚网约车和快递服务公司Grab的CFO表示，将削减员工人数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-16/detail-imqqsmrp6454676.d.html</link>
-            <guid>2869000</guid>
-            <pubDate>Wed, 16 Nov 2022 13:38:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
