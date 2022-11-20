@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 20 Nov 2022 18:07:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:04:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国柴油价格上涨：卡车运输不得不加收燃油附加费】今夏以来，在美国全国范围内，卡车司机和卡车运输公司一直在应对不断上涨的柴油价格。他们说没有看到这些价格下降的迹象。有卡车司机表示，燃料现在已经涨到顶峰了，所以不得不去找我们的客户谈判并加收燃油附加费；如果没有燃油附加费，都无法维持运营。据美国汽车协会（AAA）称，一年前一加仑柴油的平均价格为3.65美元，现在高达5.33美元。高价格油料加上卡车司机短缺正在损害整个卡车运输行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqmmthc5357416.d.html</link>
+            <guid>2873308</guid>
+            <pubDate>Sun, 20 Nov 2022 21:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外交部：伊朗不会屈服于压力 将继续“和平”核计划】当地时间11月20日，伊朗外交部发言人卡纳尼表示，美国和欧洲三国近期在国际原子能机构理事会会议上提出的反伊朗决议是出于政治目的向伊朗施压的行为。卡纳尼强调，伊朗绝不会屈服于压力，伊朗将继续根据国家需要并遵守国际条约规定的权利和义务，继续本国“和平”核计划。（央视）]]></title>
+            <guid>2873307</guid>
+            <pubDate>Sun, 20 Nov 2022 20:12:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【厄瓜多尔队2比0卡塔尔队】2022卡塔尔世界杯揭幕赛，东道主卡塔尔队对战厄瓜多尔队。上半场比赛，厄瓜多尔队球员恩纳·瓦伦西亚上演梅开二度，为球队取得两球领先。最终，厄瓜多尔队2-0卡塔尔队取得胜利。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-21/detail-imqmmthc5353512.d.html</link>
@@ -414,12 +425,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6875304.d.html</link>
             <guid>2873191</guid>
             <pubDate>Sun, 20 Nov 2022 05:03:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【常饮酒吸烟血液中维C含量低  研究表明#睡眠减半抵御流感的抗体减半】许多因素都是拖垮免疫力的“幕后黑手”。吸烟、饮酒等不良嗜好就像是“内部污染”。常饮酒、吸烟的人血液中维生素C的含量明显偏低，而维C是维持免疫力的好帮手。缺少睡眠也可能拖垮免疫力。芝加哥大学研究发现，与每晚睡7.5—8.5小时的人相比，每晚只睡4个小时的人，体内抵御流感的抗体减少50%。美国阿帕托契州立大学有3项研究指出，每天运动30~45分钟，每周5次，持续12周后，免疫细胞数目会增加，抵抗力也相对增加。  （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-20/detail-imqqsmrp6874502.d.html</link>
-            <guid>2873188</guid>
-            <pubDate>Sun, 20 Nov 2022 04:50:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
