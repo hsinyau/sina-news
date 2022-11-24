@@ -4,11 +4,456 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 24 Nov 2022 12:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 15:06:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  捷克工业部长表示，今天欧盟内部关于天然气价格上限机制的讨论非常激烈；今天就联合购买天然气的内容达成一致，预计将会在12月12日的会议上达成正式协议。]]></title>
+            <guid>2878685</guid>
+            <pubDate>Thu, 24 Nov 2022 15:00:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟成员国未能就天然气限价方案达成共识】当地时间11月24日，欧盟能源部长会议在比利时布鲁塞尔举行，欧盟成员国未能就天然气限价方案达成共识。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5885151.d.html</link>
+            <guid>2878682</guid>
+            <pubDate>Thu, 24 Nov 2022 14:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌拉圭0比0韩国】11月24日，在卡塔尔世界杯小组赛H组首轮比赛中，乌拉圭队与韩国队互交白卷，平局收场。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5885063.d.html</link>
+            <guid>2878680</guid>
+            <pubDate>Thu, 24 Nov 2022 14:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿里巴巴：本公司沉痛宣布，本公司独立董事、审计委员会主席以及薪酬委员会及可持续发展委员会成员郭德明先生于2022年11月24日辞世。]]></title>
+            <guid>2878679</guid>
+            <pubDate>Thu, 24 Nov 2022 14:56:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行货币政策委员曼恩：我对通胀的预期处于英国央行预测区间的高端。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5884756.d.html</link>
+            <guid>2878678</guid>
+            <pubDate>Thu, 24 Nov 2022 14:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部：一套是欧洲可负担的天然气供应监管机制，第二套是加快可再生能源的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7448156.d.html</link>
+            <guid>2878677</guid>
+            <pubDate>Thu, 24 Nov 2022 14:50:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国经济部：欧盟成员国今天就两套紧急措施的内容达成了一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5884606.d.html</link>
+            <guid>2878676</guid>
+            <pubDate>Thu, 24 Nov 2022 14:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行货币政策委员曼恩：现在通胀预期远高于2%的目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5884540.d.html</link>
+            <guid>2878675</guid>
+            <pubDate>Thu, 24 Nov 2022 14:50:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行货币政策委员曼恩：英国的风险溢价仍反映在英镑上。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7448010.d.html</link>
+            <guid>2878674</guid>
+            <pubDate>Thu, 24 Nov 2022 14:49:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行货币政策委员曼恩：当局需要对国内压力采取更多行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7447999.d.html</link>
+            <guid>2878673</guid>
+            <pubDate>Thu, 24 Nov 2022 14:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国经济部称，欧盟成员国今天就两套紧急措施的内容达成了一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7447064.d.html</link>
+            <guid>2878671</guid>
+            <pubDate>Thu, 24 Nov 2022 14:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两部门：完善长江集装箱、铁矿石、煤炭等主要客货类港口运输系统】交通运输部、国家发展改革委发布关于印发《长江干线港口布局及港口岸线保护利用规划》的通知，其中提到，加快提升沿江港口运输系统效能，强化港口枢纽的辐射带动作用，完善长江集装箱、铁矿石、煤炭、商品汽车滚装、旅游客运等主要客货类港口运输系统。大力发展江海联运、铁水联运，推动减程提质、降本增效、节能减碳，打造横贯东西、纵联南北、通达全球的长江航运新格局。鼓励老旧码头腾退和复绿岸线，严格新建项目港口岸线使用审查，严禁未批先建、占大建小。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5883511.d.html</link>
+            <guid>2878670</guid>
+            <pubDate>Thu, 24 Nov 2022 14:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11月24日，新疆乌鲁木齐新增本土确诊病例3例，本土无症状感染者217例。（央视）]]></title>
+            <guid>2878669</guid>
+            <pubDate>Thu, 24 Nov 2022 14:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：一份法律文件草案显示，德国已经拟定计划，将对光伏、离岸风电场、以及核电等部分清洁能源发电公司的利润征收90%的暴利税。]]></title>
+            <guid>2878668</guid>
+            <pubDate>Thu, 24 Nov 2022 14:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【曼联股价暴涨近50%，“吸血鬼”愿意出售曼联，贝克汉姆有望参与收购】北京时间11月23日凌晨，曼联官方宣布与C罗立即解约。这样的消息让球迷议论纷纷，但是红魔的股价却在最近几天迎来了一波“逆势反弹”。道琼斯指数显示，截至美东时间11月23日收盘，曼联的股价报18.8美元/股，单日涨幅达25.84%。俱乐部总市值30.64亿美元。产生这一现象背后原因，无疑是格雷泽家族在本周二宣布，愿意在执掌17年后出售俱乐部，对完全出售俱乐部持开放态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7445829.d.html</link>
+            <guid>2878667</guid>
+            <pubDate>Thu, 24 Nov 2022 14:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  据港交所文件，美皓医疗集团有限公司通过港股主板上市聆讯。联席保荐人为创陞融资和国金证券(香港)有限公司。]]></title>
+            <guid>2878666</guid>
+            <pubDate>Thu, 24 Nov 2022 14:19:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【波司登：中期权益股东应占溢利7.34亿元 同比上升15%】波司登在港交所发布截至9月30日止6个月之中期业绩，截至2022年9月30日止六个月收入增加14.1%至约61.81亿元；公司权益股东应占溢利同比上升15%至约7.34亿元。品牌羽绒服业务仍为集团的最大收入来源，录得收入约38.57亿元，占总收入的62.4%，同比上升10.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7445227.d.html</link>
+            <guid>2878664</guid>
+            <pubDate>Thu, 24 Nov 2022 14:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科创板上市委：上海索辰信息科技股份有限公司首发获通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5881561.d.html</link>
+            <guid>2878663</guid>
+            <pubDate>Thu, 24 Nov 2022 14:13:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国科军工科创板IPO申请将于12月1日上会】科创板上市委11月24日公告，定于12月1日召开审议会议，审核江西国科军工集团股份有限公司（以下简称“国科军工”）的首发事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5880743.d.html</link>
+            <guid>2878661</guid>
+            <pubDate>Thu, 24 Nov 2022 14:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其博萨伊斯坦布尔银行股指数逆转涨势，现跌2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7443243.d.html</link>
+            <guid>2878660</guid>
+            <pubDate>Thu, 24 Nov 2022 13:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰各地电力开始恢复】乌克兰总统办公室副主任季莫申科当地时间24日称，乌克兰所有地区电力都已开始恢复，关键基础设施的电力已经先接通，居民用户正在逐步有序接入电网。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5879472.d.html</link>
+            <guid>2878659</guid>
+            <pubDate>Thu, 24 Nov 2022 13:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中科云网：与同翎新能源（扬州）有限公司签署《合作协议》，双方拟在超高效N型晶硅电池研发和生产制造领域开展合作；公司拟出资4200万元，股权转让后拟占同翎新能源（高邮）有限公司35%股权，该公司在江苏省高邮市正在建设年产6GW的TOPCon电池生产基地。]]></title>
+            <guid>2878658</guid>
+            <pubDate>Thu, 24 Nov 2022 13:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其银行股指下跌2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5878705.d.html</link>
+            <guid>2878657</guid>
+            <pubDate>Thu, 24 Nov 2022 13:43:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郑州：开放部分核酸采样屋，方便保供等重点人员核酸检测】郑州：为方便保障城市基本运转人员、流动人员等相关人群核酸检测，11月25日—29日，金水区、二七区、中原区、管城回族区、惠济区、郑东新区、经开区、高新区决定开放部分便民核酸采样屋，满足重点人员核酸需求。（郑州发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7442405.d.html</link>
+            <guid>2878656</guid>
+            <pubDate>Thu, 24 Nov 2022 13:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：我们还没有看到实际的工资-物价出现螺旋上升，但工资仍可能给通胀带来上行压力。]]></title>
+            <guid>2878655</guid>
+            <pubDate>Thu, 24 Nov 2022 13:39:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据港交所文件：花房集团公司通过港交所上市聆讯。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5878241.d.html</link>
+            <guid>2878654</guid>
+            <pubDate>Thu, 24 Nov 2022 13:38:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【上海市长召开经济形势专家座谈会 何帆、荀玉根、邵宇等6位专家受邀发言】上海市委副书记、市长龚正11月24日主持召开经济形势专家座谈会，与国内高校、智库和机构的6位专家座谈交流，听取专家对当前经济形势的研判分析，以及对上海系统谋划下阶段工作的意见建议。会上，受邀专家结合自身研究领域，围绕增强城市核心功能、深化改革和扩大开放、深入推进产业发展、服务融入新发展格局等话题作了深入阐述，并为上海优化政策举措建言献策。复旦大学泛海国际金融学院执行院长、教授钱军提出，上海要提升资本市场国际化水平，发展数字金融，拓展绿色金融，更好支持实体经济高质量发展。上海交通大学中国发展研究院院长、教授何帆认为，要聚焦稳定市场预期，更好发挥国企作用、扶持民企发展、促进外企融入中国经济。同济大学教授钟宁桦提出，优化财政政策的发力点，把有限的资金用在刀刃上，发挥稳增长作用，积极培育新增长点。华东师范大学城市与区域科学学院院长、教授杜德斌认为，要加快培育科技“引擎”企业，打造具有世界影响力的科研主体，厚植卓越科技人才的土壤，加快推进上海科创中心建设。海通证券首席经济学家荀玉根分析了数字经济和绿色低碳经济的发展机遇和推进方向，建议挖掘潜能，积极布局新赛道和未来产业。东方证券首席经济学家邵宇建议上海打好浦东引领区这张王牌，提升要素和资源市场化配置能力，开展更高水平压力测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5878195.d.html</link>
+            <guid>2878653</guid>
+            <pubDate>Thu, 24 Nov 2022 13:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【荣耀CEO赵明：操作系统是未来公司战略支点，边界是不做内容】11月22日-23日，荣耀在品牌独立两周年之际，推出了荣耀操作系统荣耀MagicOS7.0，以及搭载最新操作系统的两款手机荣耀MagicVs系列与荣耀80系列。荣耀CEO赵明表示，操作系统是未来荣耀业务发展的全新战略支点。“MagicOS突破以设备为中心的单机OS的局限性，带来以人为中心，跨系统、跨设备、跨生态的智慧生活解决方案。”（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5877810.d.html</link>
+            <guid>2878652</guid>
+            <pubDate>Thu, 24 Nov 2022 13:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行：随着融资成本上升，欧洲央行将监测银行流动性和定向长期再融资操作（TLTRO）。]]></title>
+            <guid>2878650</guid>
+            <pubDate>Thu, 24 Nov 2022 13:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【工信部：推动国家级集群向世界级加快提升】工信部在江苏无锡召开国家先进制造业集群现场会，会议强调，要对标世界级集群培育目标，充分发挥市场在资源配置中的决定性作用，更好发挥政府作用，着力构建深度融合的协同创新网络，形成世界一流创新能力；着力推动集群高端化智能化绿色化发展，建设世界一流先进制造能力；着力壮大互促共生的优质市场主体，培育世界一流企业；着力推动优质要素向集群汇聚，营造世界一流产业生态；着力构建现代化治理体系，打造世界一流集群治理能力，推动国家级集群向世界级加快提升。要紧紧围绕新时代目标任务，在总结经验基础上，创新思路举措，形成政策合力，加快构建省级-国家级-世界级集群梯次培育发展体系，完善央地联动、部门协同的工作机制，完善产业、创新、财政、金融、区域和公共服务等集群政策支持体系，促进集群交流与合作，推动集群工作不断迈上新台阶。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5876158.d.html</link>
+            <guid>2878647</guid>
+            <pubDate>Thu, 24 Nov 2022 13:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：欧盟委员会的秋季预测突显出，能源危机给欧元区主权国家带来的财政风险将持续到2023年。]]></title>
+            <guid>2878646</guid>
+            <pubDate>Thu, 24 Nov 2022 13:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[南非央行加息75个基点，将11月回购利率上调至7%，符合市场预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7439751.d.html</link>
+            <guid>2878645</guid>
+            <pubDate>Thu, 24 Nov 2022 13:15:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：欧元区预算和欧盟委员会的预测突显了财政压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5876052.d.html</link>
+            <guid>2878644</guid>
+            <pubDate>Thu, 24 Nov 2022 13:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO埃隆・马斯克宣布，特斯拉FSD（Full Self-Driving）Beta版已面向所有北美付费车主推出。]]></title>
+            <guid>2878643</guid>
+            <pubDate>Thu, 24 Nov 2022 13:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：财政支持带来了中期通胀风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5876028.d.html</link>
+            <guid>2878642</guid>
+            <pubDate>Thu, 24 Nov 2022 13:14:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会：欧盟要求成员国在2023年11月前将储气设施的储气率提高到90%，以避免供应中断和需求激增。]]></title>
+            <guid>2878641</guid>
+            <pubDate>Thu, 24 Nov 2022 13:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：物价压力不太可能快速消散。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5875560.d.html</link>
+            <guid>2878639</guid>
+            <pubDate>Thu, 24 Nov 2022 13:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄土国防部长通电话 讨论叙利亚北部局势等问题】据央视新闻，俄罗斯国防部长绍伊古24日应邀与土耳其国防部长阿卡尔通电话，讨论了叙利亚北部目前的局势，以及与继续实施黑海粮食倡议有关的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5875248.d.html</link>
+            <guid>2878637</guid>
+            <pubDate>Thu, 24 Nov 2022 13:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：中性利率预期不能反映加息步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5874901.d.html</link>
+            <guid>2878636</guid>
+            <pubDate>Thu, 24 Nov 2022 13:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[陕西：西安综合性国家科学中心创建方案已上报国家。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438552.d.html</link>
+            <guid>2878635</guid>
+            <pubDate>Thu, 24 Nov 2022 13:03:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：越来越多的证据表明，大流行和能源危机可能对当前和未来的潜在产出产生更持久的负面影响。]]></title>
+            <guid>2878634</guid>
+            <pubDate>Thu, 24 Nov 2022 13:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：欧元区通胀料在11月出现两年多来的首次下降】花旗表示，11月欧元区通胀数据是欧洲央行12月会议之前公布的一项重要数据，预计11月欧元区通胀将出现自2020年年中以来的首次下降。通胀下降预计将由能源驱动，但核心通胀预计将保持强劲。欧元区的整体通胀率预计将从10月份的10.6%下降到11月份的10.3%。不过，这位经济学家警告称，这可能还不是通胀真正下滑的开始。德国最新的工资协议提醒人们，通胀有关消息似乎仍将偏向上行。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438493.d.html</link>
+            <guid>2878633</guid>
+            <pubDate>Thu, 24 Nov 2022 13:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：我们将需要进一步提高利率，可能要进入限制性区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438432.d.html</link>
+            <guid>2878632</guid>
+            <pubDate>Thu, 24 Nov 2022 13:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：到目前为止收到的数据表明，放慢利率调整步伐的空间仍然有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5874710.d.html</link>
+            <guid>2878630</guid>
+            <pubDate>Thu, 24 Nov 2022 13:02:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：我们将继续做好准备，应对不合理的金融市场分裂现象。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5874700.d.html</link>
+            <guid>2878629</guid>
+            <pubDate>Thu, 24 Nov 2022 13:01:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行执委施纳贝尔：在当前的环境下，货币和财政政策可能会走向相反的方向。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5874680.d.html</link>
+            <guid>2878628</guid>
+            <pubDate>Thu, 24 Nov 2022 13:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  奥海科技：拟以5000万元-1亿元回购股份，回购价格不超过55元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438326.d.html</link>
+            <guid>2878627</guid>
+            <pubDate>Thu, 24 Nov 2022 13:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  俄罗斯至11月18日当周央行黄金和外汇储备5688亿美元，前值5521亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5874628.d.html</link>
+            <guid>2878626</guid>
+            <pubDate>Thu, 24 Nov 2022 13:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港证监会：唱高散货集团首脑嫌疑人被检控】继香港证监会与警方较早前采取的联合行动后，某个组织严密的“唱高散货”集团首脑嫌疑人谭绍祺被控以多项刑事罪行，今天在香港东区裁判法院应讯。另有其他13名人士此前已因与此案有关而被检控。裁判官于2022年10月3日发出手令以逮捕谭绍祺(男)。谭被控串谋诈骗及串谋在涉及证券的交易中使用具欺诈或欺骗意图的计划，违反普通法、《证券及期货条例》第300条以及《刑事罪行条例》第159A及159C条。谭也被控犯了《有组织及严重罪行条例》第25条所指的罪行，即处理已知道或相信为代表从可公诉罪行的得益的财产。被告暂时无须答辩，案件押后至2023年4月17日。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7438188.d.html</link>
+            <guid>2878623</guid>
+            <pubDate>Thu, 24 Nov 2022 13:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【元道通信：预中标11.97亿元中移铁通相关采购项目】元道通信公告，近日中国移动采购与招标网发布了《中移铁通有限公司2023年综合业务支撑服务集中采购项目中选候选人公示》，公司为上述项目中标候选人，整个服务周期中标金额合计11.97亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7437819.d.html</link>
+            <guid>2878622</guid>
+            <pubDate>Thu, 24 Nov 2022 12:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席经济学家连恩：长期通胀预期与2%的水平保持一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7436925.d.html</link>
+            <guid>2878620</guid>
+            <pubDate>Thu, 24 Nov 2022 12:47:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银客户持续撤离股市 连续第39周涌向债券】根据一份报告，由于担心经济衰退临近，美银私人客户集中逃离股市、涌向债券，资金连续第39周流入债券。Michael Hartnett等策略师引述EPFR Global数据称，在此背景下，全球债券基金在截至11月22日的四天内进一步流入了66亿美元资金，为逾三个月以来的最高水平。相比之下，美银私人客户已经连续九周撤出股票基金，明年市场前景面临高通胀、美联储立场鹰派和衰退阴影等因素。策略师们支持在明年上半年持有债券，认为下半年股票更具吸引力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5873136.d.html</link>
+            <guid>2878618</guid>
+            <pubDate>Thu, 24 Nov 2022 12:46:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席经济学家连恩：通货膨胀率仍然过高。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7436694.d.html</link>
+            <guid>2878617</guid>
+            <pubDate>Thu, 24 Nov 2022 12:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：一些官员们担心核心通胀还没有企稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5872940.d.html</link>
+            <guid>2878616</guid>
+            <pubDate>Thu, 24 Nov 2022 12:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：最新的通胀数据让人非常不放心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5872912.d.html</link>
+            <guid>2878615</guid>
+            <pubDate>Thu, 24 Nov 2022 12:44:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席经济学家连恩：工资增长速度仍然相对温和。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7436634.d.html</link>
+            <guid>2878614</guid>
+            <pubDate>Thu, 24 Nov 2022 12:44:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席经济学家连恩：食品价格将面临更多压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5872866.d.html</link>
+            <guid>2878613</guid>
+            <pubDate>Thu, 24 Nov 2022 12:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：欧洲央行管理委员会认为不再有必要进行前瞻性指导。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7436569.d.html</link>
+            <guid>2878612</guid>
+            <pubDate>Thu, 24 Nov 2022 12:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席经济学家连恩：负增长不会持续很长时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5872838.d.html</link>
+            <guid>2878611</guid>
+            <pubDate>Thu, 24 Nov 2022 12:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委诺特：对我来说，还不确定3%是否会是欧洲央行当前周期的最终利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7436526.d.html</link>
+            <guid>2878610</guid>
+            <pubDate>Thu, 24 Nov 2022 12:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行副行长金多斯：现在的通胀率可能已经达到或非常接近峰值了。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5872131.d.html</link>
+            <guid>2878609</guid>
+            <pubDate>Thu, 24 Nov 2022 12:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：欧洲央行首席经济学家连恩表示，今年第4季度和明年第1季度产出可能会下降。]]></title>
+            <guid>2878608</guid>
+            <pubDate>Thu, 24 Nov 2022 12:36:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“第二支箭”增信首批民营房企债券发行】据悉，美的置业集团有限公司、金辉集团股份有限公司于11月24日在银行间市场分别公告发行15亿元、12亿元中期票据，均由中债信用增进公司在民企债券融资支持工具（“第二支箭”）政策框架下提供全额担保增信。这是“第二支箭”延期并扩容政策实施后，首批增信民营房企债券发行，标志着“第二支箭”政策效能释放更进一步。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7435778.d.html</link>
+            <guid>2878607</guid>
+            <pubDate>Thu, 24 Nov 2022 12:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特阿美石油公司基础油公司（Saudi Aramco Base Oil Co.）获批IPO。]]></title>
+            <guid>2878606</guid>
+            <pubDate>Thu, 24 Nov 2022 12:35:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：欧洲央行执委施纳贝尔表示，英国的溢出效应是有限的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5871875.d.html</link>
+            <guid>2878605</guid>
+            <pubDate>Thu, 24 Nov 2022 12:34:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：一些成员表示，他们倾向于将欧洲央行的关键利率提高50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7435558.d.html</link>
+            <guid>2878604</guid>
+            <pubDate>Thu, 24 Nov 2022 12:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：因为市场已经消化了这种规模的加息决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7435538.d.html</link>
+            <guid>2878603</guid>
+            <pubDate>Thu, 24 Nov 2022 12:33:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：欧洲央行执委施纳贝尔警告疲弱的欧元可能造成价格压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7435521.d.html</link>
+            <guid>2878602</guid>
+            <pubDate>Thu, 24 Nov 2022 12:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：75个基点的加息步伐得到了绝大多数人的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7435488.d.html</link>
+            <guid>2878601</guid>
+            <pubDate>Thu, 24 Nov 2022 12:33:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：管委会应该继续正常化和收紧货币政策，而如果出现长期严重衰退，管委会可能会想要暂停（加息）。]]></title>
+            <guid>2878600</guid>
+            <pubDate>Thu, 24 Nov 2022 12:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：经济活动减弱不足以在很大程度上抑制通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5871719.d.html</link>
+            <guid>2878599</guid>
+            <pubDate>Thu, 24 Nov 2022 12:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：工资增长正在加速，但仍可以认为是温和的。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5871705.d.html</link>
+            <guid>2878598</guid>
+            <pubDate>Thu, 24 Nov 2022 12:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：当通胀高于目标时，欧洲央行需要表现出同样的决心，无论前景如何恶化，都要遏制过高的通胀，防止通胀根深蒂固。]]></title>
+            <guid>2878597</guid>
+            <pubDate>Thu, 24 Nov 2022 12:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行会议纪要：人们普遍认为通胀前景将继续恶化，这表明，通胀可能变得根深蒂固的风险正在增加。]]></title>
+            <guid>2878596</guid>
+            <pubDate>Thu, 24 Nov 2022 12:31:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及总统办公室：苏伊士运河2022年收入预计将在年底达到78亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5871152.d.html</link>
+            <guid>2878595</guid>
+            <pubDate>Thu, 24 Nov 2022 12:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息： 英国官员希望英国首相苏纳克将废除欧盟法律的时间推迟到2026年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5871104.d.html</link>
+            <guid>2878594</guid>
+            <pubDate>Thu, 24 Nov 2022 12:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天华超净：子公司签署战略合作协议】天华超净：子公司天宜锂业与成都巴莫签署了《2023-2025年战略合作协议书》，协议双方本着平等互利、合作共赢的目标，经友好协商，共同针对电池级氢氧化锂产品的供应，建立长期供货战略合作关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7434218.d.html</link>
+            <guid>2878593</guid>
+            <pubDate>Thu, 24 Nov 2022 12:21:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【劲嘉股份：公司在PET基膜技术上有相应的技术储备】劲嘉股份在互动平台表示，公司在PET基膜技术上有相应的技术储备，公司会结合市场发展和自身优势不断探索发展路径。]]></title>
             <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5869525.d.html</link>
@@ -31,453 +476,6 @@
             <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7431320.d.html</link>
             <guid>2878585</guid>
             <pubDate>Thu, 24 Nov 2022 11:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格林美：与韩国ECOPRO公司和SK ON公司签署在印尼投资镍资源HPAL合资公司备忘录】格林美公告，公司与韩国ECOPR和SK On共同签署了《谅解备忘录》，本备忘录为公司、ECOPRO、SK On或其关联方在印度尼西亚成立HPAL合资公司的部分高级条款的初步意向。本备忘录的签署将有效保障公司电池材料业务未来产能不断扩大对镍资源的战略需求，将推动公司镍资源在2025年自给率达到70%以上，2027年后实现100%完全自给，保障公司2026年前驱体销量50万吨远景目标的实现。]]></title>
-            <guid>2878582</guid>
-            <pubDate>Thu, 24 Nov 2022 11:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其年内第四次降息下调基准利率至9％】当地时间11月24日，土耳其央行召开货币政策委员会会议，宣布下调基准利率150个基点，从上月的10.5％下调至9%。这是自今年8月以来，土耳其央行连续第四次降息，也是时隔两年后利率再次回落至个位数。至此，土耳其央行今年以来共计下调基准利率500个基点。声明称，此次降息后，央行将结束此轮降息周期。今年以来，土耳其通胀率一直高位运行。尽管如此，土耳其总统埃尔多安一直反对高利率，坚持认为高利率会加剧而不是抑制通胀。当地时间9月28日，埃尔多安曾明确表示，希望央行将利率降至个位数。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7431009.d.html</link>
-            <guid>2878581</guid>
-            <pubDate>Thu, 24 Nov 2022 11:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行首席经济学家皮尔：英国央行不能接受对准备金薪酬的干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7430908.d.html</link>
-            <guid>2878580</guid>
-            <pubDate>Thu, 24 Nov 2022 11:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代、亿纬锂能将分别与宝马沈阳电池中心合作，提供电芯】从知情人士处获悉，在继国内动力电池龙头宁德时代后，宝马集团位于沈阳的动力电池中心也将与惠州亿纬锂能股份有限公司合作，从后者采购电芯。就在前不久的11月11日，宝马集团宣布将投资100亿元人民币用于沈阳动力电池中心的扩产。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5866833.d.html</link>
-            <guid>2878579</guid>
-            <pubDate>Thu, 24 Nov 2022 11:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【穆迪否认“正退出中国市场”：仍有较大规模运营】微信号“穆迪投资者服务”24日晚间发布最新声明称，穆迪仍在中国有较大规模的运营。穆迪表示，近日多个社交平台上出现关于穆迪正在退出中国市场的不实言论。穆迪声明，“正如我们在最近财报电话会议上宣布的决定，穆迪根据当前和预期未来的经济环境，现正采取措施调整全球人员布局。”穆迪强调，穆迪仍在中国有较大规模的运营，并会继续为中国的可持续增长及中国国内市场的进一步发展作出积极贡献。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7430274.d.html</link>
-            <guid>2878578</guid>
-            <pubDate>Thu, 24 Nov 2022 11:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：关于向匈牙利提供欧盟基金一事，正式决定很快就会出来，也许就在下周。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7430201.d.html</link>
-            <guid>2878577</guid>
-            <pubDate>Thu, 24 Nov 2022 11:42:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【通易航天：与合众汽车签订涂装产品合同】通易航天公告，近期收到合众汽车与公司签订的《涂装产品框架合同》，合众汽车向公司采购汽车涂装膜、改色膜及安装服务等。合众汽车在每次具体采购产品及服务时以书面形式或电子形式向公司发出采购订单，合作时间为2022年11月1日至2023年10月31日。根据公开资料显示，哪吒汽车是合众汽车公司旗下的汽车品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7430114.d.html</link>
-            <guid>2878575</guid>
-            <pubDate>Thu, 24 Nov 2022 11:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[凯美特气：财信资产、常勤壹号、财信精信拟合计减持不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5865918.d.html</link>
-            <guid>2878574</guid>
-            <pubDate>Thu, 24 Nov 2022 11:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越秀金控拟发行20亿元中期票据，用来偿还债务】根据中国银行间市场交易商协会披露的信息，广州越秀金融控股集团股份有限公司将发行2022年度第三期、第四期中期票据，两笔票据总计20亿元，目前正在预评中。根据募集说明书，广州越秀金融控股集团股份有限公司2022年度第三期中期票据注册金额16亿元，本期发行金额10亿元，期限5年，牵头主承销商/簿记管理人/存续期管理机构为招商银行，联席主承销商为广州农商银行。本期发行10亿元拟用于偿还“18越秀金融MTN002”，该笔债券到期日为2023年4月11日，无信用增信。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7429659.d.html</link>
-            <guid>2878573</guid>
-            <pubDate>Thu, 24 Nov 2022 11:37:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特警告称，大规模的财政政策可能导致通胀（走高）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5865432.d.html</link>
-            <guid>2878572</guid>
-            <pubDate>Thu, 24 Nov 2022 11:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【牧原股份：预计明年生猪养殖产能会进一步提升】牧原股份披露投资者关系活动记录表公告，随着生猪价格回升，公司现金流持续好转，公司对部分养殖项目复工建设，预计明年生猪养殖产能会进一步提升，出栏量会有所增加。当前公司生猪养殖产能中楼房猪舍占比不到10%，未来公司生猪养殖产能建设也不以楼房猪舍为主要模式。未来，公司将根据土地适配性等因素综合考虑，以确定建设、生产模式，实现经济效益最大化。]]></title>
-            <guid>2878571</guid>
-            <pubDate>Thu, 24 Nov 2022 11:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特：如果房价下跌，荷兰家庭债务将面临风险。]]></title>
-            <guid>2878570</guid>
-            <pubDate>Thu, 24 Nov 2022 11:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特：如果房价下跌，荷兰家庭债务将面临风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7428671.d.html</link>
-            <guid>2878569</guid>
-            <pubDate>Thu, 24 Nov 2022 11:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：部分欧盟南部成员国的公共债务很高，会带来风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5864678.d.html</link>
-            <guid>2878568</guid>
-            <pubDate>Thu, 24 Nov 2022 11:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[迈普医学：可吸收多层纤丝型再生氧化纤维素医疗器械进入临床试验。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5864512.d.html</link>
-            <guid>2878567</guid>
-            <pubDate>Thu, 24 Nov 2022 11:25:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度货币政策委员会成员戈亚尔：我的观点是，我们不需要追随美联储，因为我们的最终利率可能不同。]]></title>
-            <guid>2878565</guid>
-            <pubDate>Thu, 24 Nov 2022 11:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：日本央行将与政府密切合作以监控金融、货币市场趋势、以及对日本经济和物价的影响。]]></title>
-            <guid>2878563</guid>
-            <pubDate>Thu, 24 Nov 2022 11:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本央行行长黑田东彦：最近看到的日元大幅单边走弱对日本经济的影响是负面的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7428279.d.html</link>
-            <guid>2878562</guid>
-            <pubDate>Thu, 24 Nov 2022 11:23:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【今冬以来最强寒潮即将上线 多地累计降温幅度超20℃】寒潮天气即将上线！11月26日起，今冬以来最强寒潮将陆续席卷我国大部地区，届时雨雪大风铺展，气温也将剧烈下跌，多地累计降温幅度可达15℃甚至20℃以上，寒冷程度如数九寒天。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5864296.d.html</link>
-            <guid>2878561</guid>
-            <pubDate>Thu, 24 Nov 2022 11:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：未来几个月将继续加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7427501.d.html</link>
-            <guid>2878560</guid>
-            <pubDate>Thu, 24 Nov 2022 11:16:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三未信安中签号出炉：共约1.32万个】三未信安披露网上中签结果，中签号码共有13161个，每个中签号码只能认购500股三未信安股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7427235.d.html</link>
-            <guid>2878558</guid>
-            <pubDate>Thu, 24 Nov 2022 11:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【友邦保险：耗资约2.25亿港元回购近300万股】友邦保险(01299.HK)在港交所发布公告，当日耗资约2.25亿港元回购300.34万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7427007.d.html</link>
-            <guid>2878557</guid>
-            <pubDate>Thu, 24 Nov 2022 11:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海港湾：子公司取得2.96亿元印尼工程项目】上海港湾公告，子公司PT Geotekindo 近日收到PT PP (Persero) Tbk通知,确认公司已获得印尼Kalibaru Terminal Phase 1B at Tanjung Priok Port工程的地基处理工程项目，项目金额约6435.52亿印尼卢比（约合2.96亿人民币）。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5863005.d.html</link>
-            <guid>2878556</guid>
-            <pubDate>Thu, 24 Nov 2022 11:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利10年期国债收益率下跌15个基点，至3.66％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5862146.d.html</link>
-            <guid>2878554</guid>
-            <pubDate>Thu, 24 Nov 2022 11:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【绿地控股：9只境外债券展期征求事项获通过】绿地控股公告，近期，公司全资子公司绿地全球投资有限公司对其发行的9只境外债券（共计32.41亿美元）进行了展期征求，其中8只境外债券拟展期两年，已于2022年6月展期的1只境外债券拟展期一年。日前，上述9只境外债券展期征求事项召开了持有人会议并获通过。在根据展期征求方案完成包括同意费等相关款项支付后，对于展期征求债券的条款修订将于2022年11月25日生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5862099.d.html</link>
-            <guid>2878553</guid>
-            <pubDate>Thu, 24 Nov 2022 11:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万科：拟发行20亿元中期票据，募集资金全部用于项目建设】交易商协会的非金融企业债务融资工具注册资讯系统网站披露了万科企业股份有限公司关于发行2022年度第四期中期票据的注册文件，是金额为20亿元的中期票据项目，状态显示为“反馈中”。根据2022年度第四期中期票据募集说明书，发行人本次拟注册中期票据20亿元，首期发行20亿元。本期中期票据品种一期限为3+2年期，发行规模为人民币10亿元；品种二期限为5+2年期，发行规模为人民币10亿元；两个品种间可进行回拨，回拨比例不受限制；且无信用增进。主承销商为上海浦东发展银行股份有限公司，联席主承销商为中国银行股份有限公司。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7425988.d.html</link>
-            <guid>2878552</guid>
-            <pubDate>Thu, 24 Nov 2022 11:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【邮储银行与5家房企签约，提供意向性融资总额2800亿元】11月24日，从中国邮政储蓄银行获悉，邮储银行分别与万科集团、龙湖集团、绿城集团、碧桂园集团、美的置业集团签署全面战略合作协议，提供意向性融资总额2800亿元，共促房地产市场平稳健康发展。根据协议，邮储银行将充分发挥自身优势，整合资源，为五家房地产企业提供多元化的综合金融服务，深化在房地产贷款、个人住房按揭贷款、并购贷款、债券承销与投资、保函、供应链融资及结算服务等业务领域的合作。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5861656.d.html</link>
-            <guid>2878548</guid>
-            <pubDate>Thu, 24 Nov 2022 11:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其至11月24日一周回购利率 9%，预期9.00%，前值10.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5861612.d.html</link>
-            <guid>2878547</guid>
-            <pubDate>Thu, 24 Nov 2022 11:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国11月CBI工业物价预期差值 47，前值46。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7425581.d.html</link>
-            <guid>2878546</guid>
-            <pubDate>Thu, 24 Nov 2022 11:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国11月CBI工业订单差值 -5，预期-8，前值-4。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5861512.d.html</link>
-            <guid>2878545</guid>
-            <pubDate>Thu, 24 Nov 2022 11:00:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利政府：政府可以满足欧盟设定的所有条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5861311.d.html</link>
-            <guid>2878544</guid>
-            <pubDate>Thu, 24 Nov 2022 10:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利政府：希望与欧盟签署伙伴协议，并就欧盟复苏基金达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5861282.d.html</link>
-            <guid>2878543</guid>
-            <pubDate>Thu, 24 Nov 2022 10:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利政府：预计明年将从各种项目中获得总计70亿欧元的欧盟资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7425247.d.html</link>
-            <guid>2878542</guid>
-            <pubDate>Thu, 24 Nov 2022 10:58:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Twitter已解散其整个布鲁塞尔办事处。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7424995.d.html</link>
-            <guid>2878540</guid>
-            <pubDate>Thu, 24 Nov 2022 10:55:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【第28届中国义乌国际小商品博览会举行】据新华社，2022年11月24日至27日，以“新起点、新市场、新发展”为主题的第28届中国义乌国际小商品博览会在义乌国际博览中心举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7424573.d.html</link>
-            <guid>2878539</guid>
-            <pubDate>Thu, 24 Nov 2022 10:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【光启技术：公司董事兼总经理赵治亚辞职】光启技术公告，考虑到公司经营发展及工作调整需要，赵治亚申请辞去公司董事、董事会下属专门委员会委员以及公司总经理的职务，辞职后不在公司及公司子公司担任其他职务，拟在公司控股股东集团层面负责基础性、前沿性的开创研究。截至目前，赵治亚未直接持有公司股份，持有公司控股股东西藏映邦实业发展有限公司的股东深圳光启合众科技有限公司15.79%的股权。]]></title>
-            <guid>2878538</guid>
-            <pubDate>Thu, 24 Nov 2022 10:51:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海国际集装箱舱位交易平台上线试运行】据新华财经，从11月22日至24日于上海召开的2022北外滩国际航运论坛上获悉，上海国际集装箱舱位交易平台上线试运行。该交易平台以“自定义非标准化舱位合同+舱位发布”为交易模式，提供舱位出售、舱位求购两项服务，具有“锁定舱位、锁定运价、履约保证、纠纷调解”功能。通过交易平台，船公司可以出售舱位，锁定运费收益，获得履约保障，提高资源配置效率。无船承运人及货主可以锁定舱位及运输成本，获得履约保障，减少“甩箱”风险。交易数据显示，平台试运行首日已发布舱位60笔，覆盖欧洲、东南亚、日本、印巴、澳洲等航线，成交20笔，表明市场对该平台运行有良好预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7424277.d.html</link>
-            <guid>2878537</guid>
-            <pubDate>Thu, 24 Nov 2022 10:49:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美的置业与工行总行、建行总行、邮储总行签署战略合作协议】美的置业与工商银行总行举行战略合作协议线上签约仪式并签署了《全面战略合作协议》，双方明确以“总对总”模式进一步提升双方整体合作力度，建立长期稳定的战略合作关系。根据协议，工商银行将为美的置业在房地产开发贷款、债券承销与投资、预售资金监管保函、境外融资、内保外贷、房地产并购融资及其配套服务、租赁住房融资、个人住房按揭贷款等方面提供综合授信支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5860175.d.html</link>
-            <guid>2878536</guid>
-            <pubDate>Thu, 24 Nov 2022 10:48:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟外交官表示，欧盟能源部长将于12月中旬举行会议，在今天关于价格上限的辩论中，欧盟搁置了之前讨论的能源危机处理措施。]]></title>
-            <guid>2878535</guid>
-            <pubDate>Thu, 24 Nov 2022 10:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【芬兰准备对能源公司征收暴利税 为期一年】芬兰财政部长安妮卡·萨里科 (Annika Saarikko) 周三晚些时候表示，芬兰政府正准备对能源公司的超额利润征收新的临时税。Saarikko在接受当地新闻媒体采访时说，芬兰的计划是对能源利润征收额外的税，为期一年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5859869.d.html</link>
-            <guid>2878534</guid>
-            <pubDate>Thu, 24 Nov 2022 10:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳能源集团与浙商银行签署战略合作协议】浙商银行股份有限公司总行行长张荣森率队到访深圳能源集团，双方就进一步推进银企合作展开座谈，并签署战略合作协议。根据协议，双方将在公司金融、国际金融、资产管理、金融顾问等方面，开展更深层次、更宽领域、更高水平的战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7423855.d.html</link>
-            <guid>2878533</guid>
-            <pubDate>Thu, 24 Nov 2022 10:44:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[辉隆股份：拟以8000万元-1.5亿元回购股份，回购价格不超过人民币14元/股（含）。]]></title>
-            <guid>2878530</guid>
-            <pubDate>Thu, 24 Nov 2022 10:42:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委、爱尔兰央行行长Gabriel Makhlouf：下次的利率会议不排除任何加息可能性。]]></title>
-            <guid>2878527</guid>
-            <pubDate>Thu, 24 Nov 2022 10:38:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯大股东Prosus上半年营收为165亿美元，同比增长9%；每股收益为1.81美元，符合市场预期，较上年同期下降82%。]]></title>
-            <guid>2878526</guid>
-            <pubDate>Thu, 24 Nov 2022 10:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巨亏超60%！40万粉丝私募大V道歉】据中证报，11月22日下午，私募大V云蒙发布道歉声明，并回应“云蒙基金净值”等事项。“云蒙基金净值比0.4还低得多。”云蒙在文中表示，不公布净值是因为部分投资人不希望网上公布。云蒙基金使用高杠杆，集中投资于单一板块。云蒙还表示，自己及近亲所持基金份额占比超40%，投资人四十多人，一半为现实中的亲朋好友，一半为第三方平台上的网友或朋友。云蒙还透露，云蒙基金没有管理费，开立基金以来，个人承担相关费用200万元左右。]]></title>
-            <guid>2878525</guid>
-            <pubDate>Thu, 24 Nov 2022 10:37:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国太平：增持并举牌工商银行H股】据港交所数据，中国太平保险集团有限责任公司11月22日增持工商银行H股(01398.HK)8300万股，涉资3.1亿港元，持股比例由4.98%变为5.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7422960.d.html</link>
-            <guid>2878524</guid>
-            <pubDate>Thu, 24 Nov 2022 10:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 市场消息：瑞信在亚洲的财富管理业务客户纷纷涌向瑞银。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7422927.d.html</link>
-            <guid>2878523</guid>
-            <pubDate>Thu, 24 Nov 2022 10:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度货币政策委员会成员戈亚尔：将财政赤字削减2%是非常可行的。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5858016.d.html</link>
-            <guid>2878522</guid>
-            <pubDate>Thu, 24 Nov 2022 10:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行行长英韦斯：如果你看看潜在的通货膨胀，目前还没有任何迹象表明它会下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857880.d.html</link>
-            <guid>2878521</guid>
-            <pubDate>Thu, 24 Nov 2022 10:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：我们将不得不与英国政府当局合作，以恢复英国的声誉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857864.d.html</link>
-            <guid>2878520</guid>
-            <pubDate>Thu, 24 Nov 2022 10:29:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【熬出头了？硅料价格年内首“踩刹车”】 光伏赛道最强势环节出现降价。据PV infolink在11月23日最新公布的报价显示，本周多晶硅价格出现下降，均价由303元/kg下降至302元/kg，降幅0.3%。这也是多晶硅价格年内首次出现下降。国内上游工业硅产能近期明显提升，另外叠加下游需求趋稳，多晶硅厂商相继加大硅料产出以缓解供需紧张的局面。业内分析认为，虽然多晶硅价格难以在短时间内出现断崖式下跌，但价格已经开始出现下探迹象，今年年底至明年年初或出现持续回调。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7422013.d.html</link>
-            <guid>2878519</guid>
-            <pubDate>Thu, 24 Nov 2022 10:28:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国央行副行长拉姆斯登：虽然表面上看英国国债市场的溢价已经消失，但毫无疑问，英国的声誉受到了打击。]]></title>
-            <guid>2878518</guid>
-            <pubDate>Thu, 24 Nov 2022 10:28:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光启技术：公司董事兼总经理赵治亚辞职】光启技术公告，考虑到公司经营发展及工作调整需要，赵治亚博士申请辞去公司董事、董事会下属专门委员会委员以及公司总经理的职务，辞职后不在公司及公司子公司担任其他职务，拟在公司控股股东集团层面负责基础性、前沿性的开创研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7421917.d.html</link>
-            <guid>2878517</guid>
-            <pubDate>Thu, 24 Nov 2022 10:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中富通：中标4.39亿元中移铁通采购项目】中富通(300560)11月24日晚间公告，中国移动采购与招标网于近日对《中移铁通有限公司2023年综合业务支撑服务集中采购项目（区域二）》的中选候选人进行了公示，公司为该项目标包一（山东）第三中选候选人，项目中选份额比例13.4146%，预计项目中选金额4.39亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7421906.d.html</link>
-            <guid>2878516</guid>
-            <pubDate>Thu, 24 Nov 2022 10:27:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4连板英联股份：公司经营基本面未发生变化】英联股份发布股票交易异常波动公告，对外投资进行PET、PP、PI等材料复合铜箔相关业务，系公司在主营业务以外进行的业务尝试，公司经营基本面未发生变化。前述业务目前处于设备待交付阶段，公司此前没有研发生产相关产品的经验，产品研发的进度和结果存在不确定性，存在研发结果可能无法达到预期或研发失败的风险；如产品研发成功，后续尚需进行客户产品测试和市场销售等过程，是否通过客户认可以及市场销售情况均具有不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857539.d.html</link>
-            <guid>2878515</guid>
-            <pubDate>Thu, 24 Nov 2022 10:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其正在制订高铁方案 安卡拉到伊斯坦布尔拟只需80分钟】土耳其政府正在制订建造高速铁路路线的方案，预计安卡拉和伊斯坦布尔之间的行程时间将从大约5小时缩短到80分钟。该报写道，土耳其政府已经开始着手建设高速铁路线。该庞大项目可将安卡拉和伊斯坦布尔之间的行程时间由目前的近5小时缩短到80分钟。 该线路的输送能力将每天运送240万名乘客。据悉，土耳其交通和基础设施部已开始对该线路进行可行性研究。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7421591.d.html</link>
-            <guid>2878514</guid>
-            <pubDate>Thu, 24 Nov 2022 10:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【牧原股份：预计明年生猪养殖产能会进一步提升】牧原股份日前在接受调研时表示，随着生猪价格回升，公司现金流持续好转，公司对部分养殖项目复工建设，预计明年生猪养殖产能会进一步提升，出栏量会有所增加。公司2023年出栏量区间指引预计在2022年年度报告中披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857276.d.html</link>
-            <guid>2878513</guid>
-            <pubDate>Thu, 24 Nov 2022 10:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巨亏超60%！40万粉丝私募大V道歉】 雪球坐拥40万粉丝的私募大V“云蒙”近日突发道歉声明，首次透露基金净值比0.4还要低得多。类似的私募大V投资翻车事件并非个例。业内人士表示，投资中需警惕加杠杆、单押赛道的问题，投研能力的宽度才是决定基金经理能力重要因素。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857254.d.html</link>
-            <guid>2878512</guid>
-            <pubDate>Thu, 24 Nov 2022 10:23:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其外长与芬兰外长通电话 讨论北约东扩等问题】土耳其外长恰武什奥卢与芬兰外长哈维斯托当地时间11月24日通电话。据土外交部发布的声明显示，双方讨论了北约东扩、乌克兰近期事态发展和黑海港口农产品外运协议等问题。恰武什奥卢还强调，土方将在“利剑”行动框架内坚定地继续打击恐怖主义。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857182.d.html</link>
-            <guid>2878511</guid>
-            <pubDate>Thu, 24 Nov 2022 10:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特变电工：拟30.15亿投建热电联产项目 拟2亿元-3亿元增持新疆众和股权】特变电工公告，控股子公司天池能源公司以其全资子公司新疆特变电工楼兰新能源有限公司为主体投资建设若羌2×350MW热电联产项目，项目总投资金额30.15亿元。同日公告，拟以自有资金通过集中竞价交易方式择机从二级市场增持新疆众和股份，增持金额2亿元-3亿元，且增持股份数量不超过新疆众和总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7421325.d.html</link>
-            <guid>2878510</guid>
-            <pubDate>Thu, 24 Nov 2022 10:22:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超1500亿元授信 碧桂园获三大银行授信支持】11月24日，碧桂园分别与中国工商银行、中国银行、中国邮政储蓄银行签署战略合作协议，共获得三家银行逾1500亿元综合授信支持。截止收盘，港股碧桂园涨超20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5857037.d.html</link>
-            <guid>2878509</guid>
-            <pubDate>Thu, 24 Nov 2022 10:21:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国南方航空股份有限公司深圳分公司党委原副书记、总经理刘国军接受审查调查】贵州省纪委监委网站11月24日消息，据黔东南州纪委监委消息：中国南方航空股份有限公司深圳分公司党委原副书记、总经理刘国军涉嫌严重违纪违法，目前正接受南航集团纪检监察组纪律审查和黔东南州监委监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7421233.d.html</link>
-            <guid>2878508</guid>
-            <pubDate>Thu, 24 Nov 2022 10:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青岛第四批次集中推出40宗涉宅用地，起始总价约138亿元】据澎湃新闻，11月24日，山东省青岛市自然资源和规划局发布地块出让公告，本批次青岛拟集中供应40宗涉宅地块，起始总价约137.99亿元，地块主要分布在市北区、李沧区、黄岛区、城阳区、即墨区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5856652.d.html</link>
-            <guid>2878507</guid>
-            <pubDate>Thu, 24 Nov 2022 10:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国交通大臣哈珀：将在未来几天会见工会领袖。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7420916.d.html</link>
-            <guid>2878506</guid>
-            <pubDate>Thu, 24 Nov 2022 10:18:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特变电工：拟2亿元-3亿元增持新疆众和股权】特变电工公告，拟2亿元-3亿元增持新疆众和股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5856440.d.html</link>
-            <guid>2878505</guid>
-            <pubDate>Thu, 24 Nov 2022 10:16:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科陆电子：中标国家电网1.14亿元项目】科陆电子公告，中标国家电网1.14亿元项目，约占公司2021年度经审计营业收入的3.56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7420664.d.html</link>
-            <guid>2878504</guid>
-            <pubDate>Thu, 24 Nov 2022 10:16:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金运激光：新余全盛通投资管理有限公司拟减持不超过1.79%】金运激光公告，股东新余全盛通投资管理有限公司拟减持不超过1.79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7420304.d.html</link>
-            <guid>2878502</guid>
-            <pubDate>Thu, 24 Nov 2022 10:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汇丰：将唯品会(VIPS.N)目标价从9.6美元上调至9.9美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7420111.d.html</link>
-            <guid>2878501</guid>
-            <pubDate>Thu, 24 Nov 2022 10:12:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雅化集团：收购中非实业全资子公司70%股权】雅化集团公告，全资子公司雅化国际拟收购中非实业两个全资子公司70%的股权，并间接拥有纳米比亚达马拉兰矿区四个锂矿矿权70%的控制权；该项目收购股权的对价总额不超过1.45亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7420035.d.html</link>
-            <guid>2878500</guid>
-            <pubDate>Thu, 24 Nov 2022 10:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【刘强东启动京东近年来最大人事调整：多名总裁、副总裁换人】据晚点LatePost，11月20日（上周日）他刚刚面向高管们进行了一场三个多小时的发言，两天后他就发布全员信，紧接着本周三（11月23日），刘强东开启了他的第三个大动作。记者了解到，京东零售集团的各事业群总裁几乎均有调整，他们直接向京东零售CEO辛利军汇报。本周三的调整主要集中在总裁级别，副总裁也陆续有变动，京东零售集团CEO辛利军没有变动。一位京东人士称，往年“618”“双11”后都会有架构调整，但今年所有事业群负责人轮换算是近年来较大变动。]]></title>
-            <guid>2878499</guid>
-            <pubDate>Thu, 24 Nov 2022 10:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国皇家邮政工作人员再次举行罢工】因薪酬、工作岗位和条件争议未能解决，11.5万名皇家邮政工作人员从当天开始进行48小时罢工行动。代表邮政人员的工会还计划于11月30日至12月1日，12月9日、11日、14日、15日、23日和24日这些邮政服务一年中最繁忙的时间进行罢工行动，预计将严重影响邮件递送，进而可能影响在线销售量。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7419969.d.html</link>
-            <guid>2878498</guid>
-            <pubDate>Thu, 24 Nov 2022 10:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰央行副行长：欧盟和英国必须继续密切合作，因为确保我们的监管框架的一致和稳定的应用是很重要的。]]></title>
-            <guid>2878497</guid>
-            <pubDate>Thu, 24 Nov 2022 10:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱尔兰央行副行长：预计在都柏林上市的英国负债驱动型投资策略（LDI）基金的风险状况应该会有所降低。]]></title>
-            <guid>2878496</guid>
-            <pubDate>Thu, 24 Nov 2022 10:08:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富宝资讯：采购高峰期已过，今日锂价下跌3000元/吨】富宝分析：现货价格小幅下调后，下游采购仍在观望寻求价格博弈空间。目前现货市场以长协平稳保供为主，下游采购备货高峰期已过，部分材料厂采购计划看至明年年后。原料成本传导至终端，在一定程度上侵蚀终端车企利润空间。11月23日，比亚迪宣布明年新能源汽车价格调涨2000-6000元，可见下游接货承压明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqmmthc5855330.d.html</link>
-            <guid>2878495</guid>
-            <pubDate>Thu, 24 Nov 2022 10:08:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【米哈游解散CEO带队开发产品，已研发超过两年仍未上线】11月24日，米哈游发布内部公告，宣布正式解散在研发游戏产品PJSH，对此，米哈游相关负责人称，系内部业务调整。据了解，该产品是由米哈游创始人、《原神》制作人蔡浩宇带队，使用UE5引擎研发、主打二次元开放世界射击游戏，已研发超过两年。当时官方介绍，《PJSH》将于2021年上线，但至今甚至大家连面都没见过。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7419532.d.html</link>
-            <guid>2878493</guid>
-            <pubDate>Thu, 24 Nov 2022 10:08:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄方称正就扎波罗热核电站问题与国际原子能机构进行磋商】 当地时间24日，俄罗斯外交部副部长里亚布科夫在新闻发布会上表示，就扎波罗热核电站安全问题，俄方与国际原子能机构积极开展磋商。该机构正在制定有关扎波罗热核电站的相关报告，说明局势的复杂程度以及解决问题的难度，同时正在同相关西方国家进行对话。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7419489.d.html</link>
-            <guid>2878492</guid>
-            <pubDate>Thu, 24 Nov 2022 10:07:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建行与八家房企签署战略合作协议】11月24日下午，中国建设银行与包括万科集团、龙湖集团、美的置业、越秀地产、中交建在内的八家房企举行线上合作协议签约仪式，就房地产金融、住房租赁业务、综合金融服务、共同防范化解风险等方面开展全方位合作。这是建行落实“十六条”的具体举措之一。在签约房企上，建行对国有、民营等各类房地产企业一视同仁，既有央企中交建，也有越秀这样的地方国企，还有万科、龙湖、美的置业、合生创展、大华等民营房企。（见闻地产）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-11-24/detail-imqqsmrp7419358.d.html</link>
-            <guid>2878491</guid>
-            <pubDate>Thu, 24 Nov 2022 10:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
