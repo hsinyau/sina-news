@@ -4,13 +4,261 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 08 Dec 2022 15:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 18:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[纳斯达克综合指数涨幅达1%。]]></title>
+            <title><![CDATA[市场消息：FTX首席执行官John Ray本周参加了在曼哈顿举行的会议。曼哈顿检察官正在主导美国司法部对FTX崩盘的调查。]]></title>
+            <guid>2897860</guid>
+            <pubDate>Thu, 08 Dec 2022 17:57:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【燃油车销量下滑近三成，拖累11月乘用车零售市场表现】12月8日，乘用车市场信息联席会发布数据显示，“金九银十”势头未能延续，11月乘用车零售市场同环比双降。车市下滑的背后，与燃油车销量承压不无关系，零售量同比下降近三成，也终结了今年6-9月同比增长6%的正增长。不过，相比燃油车稍显低迷的表现，新能源汽车批发量与零售量继续高增长，稳住车市大盘。乘联会方面表示：“今年新能源汽车完成650万辆的销量目标，基本不成问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9050795.d.html</link>
+            <guid>2897859</guid>
+            <pubDate>Thu, 08 Dec 2022 17:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：FTX破产团队据悉将在纽约与联邦检察官会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9050779.d.html</link>
+            <guid>2897858</guid>
+            <pubDate>Thu, 08 Dec 2022 17:53:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【除了地产基金，黑石的信贷基金可能也有大麻烦】截至11月30日的季度，黑石私人信贷基金（BCRED）收到的赎回申请额约占该基金流通股的5%。黑石表示，所有向BCRED提出的赎回请求都将得到兑现，该基金拥有80亿美元的即时流动性。但有分析认为，随着BREIT限赎，这两个私募基金在明年上半年都会面临不小的销售压力]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7514333.d.html</link>
+            <guid>2897853</guid>
+            <pubDate>Thu, 08 Dec 2022 17:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Argus：将AT&T(T.N)评级上调至买入 目标价为24美元】Argus分析师Joseph Bonner将AT&T的评级从持有上调至买入，目标价为24美元。该分析师在一份研究报告中告诉投资者，AT&T的移动业务正在推动其整体业绩增长，同时验证了管理层的战略调整，即从娱乐资产转向核心无线和光纤宽带扩张战略。他补充说，电信行业历来被认为是经济动荡时期的避险持股类别，但AT&T还受益于其在过去几年中集中削减债务和再融资，这使其在当前的宏观环境中更具韧性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7514135.d.html</link>
+            <guid>2897851</guid>
+            <pubDate>Thu, 08 Dec 2022 17:28:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥能源部长：墨西哥在OPEC+获得175.3万桶/日的石油生产配额，这将持续至2023年12月份。]]></title>
+            <guid>2897850</guid>
+            <pubDate>Thu, 08 Dec 2022 17:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)：成本削减已开始达到2023年目标的80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7513588.d.html</link>
+            <guid>2897848</guid>
+            <pubDate>Thu, 08 Dec 2022 17:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)：证券产品部门的出售交易将于明年上半年结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9049516.d.html</link>
+            <guid>2897847</guid>
+            <pubDate>Thu, 08 Dec 2022 17:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士信贷(CS.N)短线拉升，现涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9049331.d.html</link>
+            <guid>2897846</guid>
+            <pubDate>Thu, 08 Dec 2022 17:10:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拥堵油轮数升至25艘：土耳其新规竟令美欧俄同时担忧】船代公司Tribeca周四（12月8日）最新的航运数据显示，共计有25艘油轮无法通过土耳其的两个海峡。具体数据显示，在黑海等待通过博斯普鲁斯海峡进入马尔马拉海的邮轮数量较昨日增加了9艘至16艘；而在马尔马拉海等待通过达达尼尔海峡进入地中海的油轮数量从昨日的12艘减少至9艘。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048959.d.html</link>
+            <guid>2897841</guid>
+            <pubDate>Thu, 08 Dec 2022 17:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大摩加入华尔街看衰大军：全球经济正处衰退边缘】继摩根大通、高盛、花旗等之后，摩根士丹利也加入了看衰明年经济前景的华尔街机构队伍。美东时间周三，大摩经济学家表示，2023年全球经济增长可能会非常缓慢，美国和欧洲可能会陷入衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7512850.d.html</link>
+            <guid>2897838</guid>
+            <pubDate>Thu, 08 Dec 2022 16:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：首予洛克希德马丁(LMT.N)买入评级 目标价为546美元】花旗分析师Jason Gursky首次覆盖洛克希德马丁，予其买入评级，目标价为546美元。该分析师表示，看好美国国防部在本十年剩余时间内的国防支出的增长前景，以及洛克希德马丁公司在所有领域的能力的多样性。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048588.d.html</link>
+            <guid>2897836</guid>
+            <pubDate>Thu, 08 Dec 2022 16:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英财政大臣将就征收能源暴利税与石油巨头会面】英国财政大臣杰里米·亨特将于周五与北海主要石油和天然气生产商会面，讨论扩大对能源行业征收暴利税的范围。参加会议公司将包括石油巨头壳牌（SHEL.US）、英国石油和道达尔（TTE.US）的代表，以及Harbour（PMOIF.US）和Neptune等独立公司的代表。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048543.d.html</link>
+            <guid>2897834</guid>
+            <pubDate>Thu, 08 Dec 2022 16:49:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：德国军方将斥资13.5亿欧元购买2万台加密无线电设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7512275.d.html</link>
+            <guid>2897831</guid>
+            <pubDate>Thu, 08 Dec 2022 16:40:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美加重要输油管线Keystone因漏油而关停 重启或需数日】加拿大和美国墨西哥湾的主要输油管道Keystone因为原油泄漏问题而被关闭。管道运营商TC能源公司称，漏油点位于内华达州Steele Cityl以南约20英里处，已经将受影响的区域隔离，工作人员正在努力控制和回收泄漏的石油。Keystone管道系统原油输送量超过60万桶/日。目前美国库欣原油库存处于7月以来最低水平。中西部地区炼油厂的原油加工量处于月以来最高水平，在关键管道关闭的情况下，原油供应可能会非常紧张。交易员表示，鉴于泄漏的原油流入水路，预计管道可能要关停数天。TC暂未提供对原油泄漏量或管道重启时间的估计。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9048132.d.html</link>
+            <guid>2897830</guid>
+            <pubDate>Thu, 08 Dec 2022 16:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Tigress Financial：将英伟达(NVDA.O)目标价下调至250美元 维持买入评级】Tigress Financial分析师Ivan Feinseth将英伟达的目标价从310美元下调至250美元，并维持对该股的买入评级，英伟他对该股估值进行重新评估。该分析师指出，调整后的目标价代表了较目前水平仍有超过55%的潜在上升空间，他认为英伟达在人工智能领域的行业领先地位、多种新产品及伙伴关系使其能够克服近期的不利因素影响，并为新的业务周期做好准备。]]></title>
+            <guid>2897826</guid>
+            <pubDate>Thu, 08 Dec 2022 16:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郭明錤：推特砍单伺服器 英特尔为主要输家】天风国际证券分析师郭明錤最新研报指出，在Elon Musk并购Twitter后，Twitter砍了伺服器订单约80%。Twitter伺服器几乎都采用Intel的处理器，故此砍单不利于Intel 2023年的营收与利润。因伺服器处理器是Intel关键利润驱动，故Intel为此砍单的主要输家。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7511744.d.html</link>
+            <guid>2897821</guid>
+            <pubDate>Thu, 08 Dec 2022 16:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股航空股普涨】美股航空股普涨，南方航空、东方航空涨4%，Ryanair、西南航空涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9047629.d.html</link>
+            <guid>2897820</guid>
+            <pubDate>Thu, 08 Dec 2022 16:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认智利评级为“A-”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9047517.d.html</link>
+            <guid>2897818</guid>
+            <pubDate>Thu, 08 Dec 2022 16:26:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通：将瓦莱罗能源(VLO.N)目标价从149美元下调至138美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqmmthc7511569.d.html</link>
+            <guid>2897817</guid>
+            <pubDate>Thu, 08 Dec 2022 16:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韦德布什：将游戏驿站(GME.N)目标价从6美元下调至5.3美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-09/detail-imqqsmrp9046708.d.html</link>
+            <guid>2897813</guid>
+            <pubDate>Thu, 08 Dec 2022 16:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊(AMZN.O)为部分用户推出TIKTOK风格的信息流，并计划在未来几个月内面向全美国范围内用户推出。]]></title>
+            <guid>2897812</guid>
+            <pubDate>Thu, 08 Dec 2022 16:05:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：迪士尼(DIS.N)在美国推出有广告版的Disney+，所有类别的广告商超过100家。]]></title>
+            <guid>2897811</guid>
+            <pubDate>Thu, 08 Dec 2022 16:02:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日重点关注的财经数据与事件】2022年12月9日 周五① 02:00 欧洲央行行长拉加德发表讲话② 09:30 中国11月CPI年率③ 21:30 美国11月PPI年率及月率④ 23:00 美国12月一年期通胀率预期⑤ 23:00 美国12月密歇根大学消费者信心指数初值⑥ 23:00 美国10月批发销售月率⑦ 次日02:00 美国至12月9日当周石油钻井总数⑧ 次日04:30 美国商品期货交易委员会持仓周报。]]></title>
+            <guid>2897810</guid>
+            <pubDate>Thu, 08 Dec 2022 16:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【核电站关闭维修 寒冷天气令瑞典电网供暖承压】瑞典南部是欧洲电力供应压力最大的地区之一，该国最大的核发电厂从周五起停运9天将进一步考验其电网的供暖能力。而下周席卷斯堪的纳维亚半岛和北欧大部分地区的严寒天气将加剧北欧气温骤降并可能出现暴风雪天气，而随着供暖电力需求上涨和大型核发电站关闭维修，该地区脆弱的电力供应平衡将变得更加紧张。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9045890.d.html</link>
+            <guid>2897808</guid>
+            <pubDate>Thu, 08 Dec 2022 15:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古根海姆：将百胜餐饮集团(YUM.N)目标价从140美元上调至145美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7509955.d.html</link>
+            <guid>2897807</guid>
+            <pubDate>Thu, 08 Dec 2022 15:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：将波音(BA.N)目标价从209美元上调至222美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9045547.d.html</link>
+            <guid>2897803</guid>
+            <pubDate>Thu, 08 Dec 2022 15:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国外交部：韩、美、日对朝首席代表将于印尼举行会晤】12月8日，韩国外交部表示，韩、美、日三国的朝核问题首席代表将于12日至13日在印尼首都雅加达举行双边和三边会议。据韩联社12月8日报道，这将是上述三国对朝鲜代表自9月7日在日本东京会晤后，时隔三个多月的又一次会晤。韩国外交部表示，韩国外交部半岛和平交涉本部长金健、美国国务院对朝政策特别代表星·金、日本外务省亚洲大洋洲局局长船越健裕将出席会议，共同评估近期朝鲜半岛局势。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7509578.d.html</link>
+            <guid>2897802</guid>
+            <pubDate>Thu, 08 Dec 2022 15:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国洛杉矶仇恨犯罪达近20年最高水平】美国加利福尼亚州洛杉矶郡人际关系委员会12月7日发布《2021年仇恨犯罪报告》。报告显示，2021年洛杉矶郡仇恨犯罪增长约23%，仇恨犯罪中74%具暴力性质，均为2002年以来最高数据。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9045347.d.html</link>
+            <guid>2897799</guid>
+            <pubDate>Thu, 08 Dec 2022 15:42:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“皇室后裔”要做国家元首，德国警方已锁定50余名政变嫌疑人】德国警方在调查一个极右翼组织并计划进行进一步逮捕，检察官称该组织准备推翻国家，并将一个德国皇室的前成员推举为国家领导人。调查人员说，该组织中许多人是“第三帝国公民”（Citizens of the Reich）运动的成员，他们计划让贵族海因里希十三世担任新国家的领导人。一些组织成员还计划冲击联邦议院并逮捕立法者。海因里希是东部图林根州罗伊斯王室的后裔。他现年71岁，一直从事房地产开发工作，于7日在法兰克福被捕。（央视）]]></title>
+            <guid>2897798</guid>
+            <pubDate>Thu, 08 Dec 2022 15:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出海新航道助力电商企业“一步跨境”，盐田港跨境电商运营中心正式启用】继盐田综保区跨境电商查验中心更迭“上线”后，盐田区跨境电商行业再迎重大利好。12月8日，盐田港跨境电商运营中心正式启用，为企业跨境电商业务的发展开辟了一条更加便利高效的新通道。今后，通过盐田港海运出口的跨境电商货物将无须“舍近求远”，可直接在盐田区内清单核放、汇总申报。这也意味着盐田区跨境电商模式更加齐全、业态更加丰富，在打造跨境电商物流总部基地方面又迈出重要一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9045219.d.html</link>
+            <guid>2897796</guid>
+            <pubDate>Thu, 08 Dec 2022 15:40:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Needham：将Mobileye Global(MBLY.O)目标价从40美元上调至43美元。]]></title>
+            <guid>2897792</guid>
+            <pubDate>Thu, 08 Dec 2022 15:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺基亚(NOK.N)：启动第二期3亿欧元的股票回购计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9044811.d.html</link>
+            <guid>2897791</guid>
+            <pubDate>Thu, 08 Dec 2022 15:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大宗商品贸易巨头托克集团创70亿美元年利润 超过此前四年总和】大宗商品贸易商托克集团（Trafigura）12月8日公布年报，在截至9月的上一财年里，托克集团的营收激增至3185亿美元；利润则达到创纪录的70亿美元，比此前四年的总和还要多。托克集团上一财年共支付17亿美元的股息，股息主要用于回购优先股。俄乌冲突引发的价格波动，使托克、嘉能可、维多等公司赚取了惊人收益。该集团首席财务官Christophe Salmon表示，这是石油和石油产品业务“异常强劲的一年”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7508755.d.html</link>
+            <guid>2897786</guid>
+            <pubDate>Thu, 08 Dec 2022 15:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[古根海姆：将Meta Platforms(META.O)目标价从125美元上调至130美元。]]></title>
+            <guid>2897785</guid>
+            <pubDate>Thu, 08 Dec 2022 15:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚石油(XOM.N)CFO：预计欧洲能源暴利税将对公司产生约20亿美元的成本。]]></title>
+            <guid>2897784</guid>
+            <pubDate>Thu, 08 Dec 2022 15:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚石油(XOM.N)：节约成本将推动2027年盈利增长20％。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7508327.d.html</link>
+            <guid>2897783</guid>
+            <pubDate>Thu, 08 Dec 2022 15:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟将提议延后执行新版医疗设备法律。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7508160.d.html</link>
+            <guid>2897782</guid>
+            <pubDate>Thu, 08 Dec 2022 15:18:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美股WSB概念股上扬，游戏驿站(GME.N)涨约10%，ContextLogic(WISH.O)涨超7%，AMC院线(AMC.N)涨近6%，Roblox(RBLX.N)涨超3%。]]></title>
+            <guid>2897781</guid>
+            <pubDate>Thu, 08 Dec 2022 15:17:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【定向增发+公司债 大名城抛出约50亿元再融资方案】房企融资政策调整后，扎堆房企推出再融资计划。12月8日晚间，大名城(600094)同时抛出了定增和公司债发行预案。定增预案显示，大名城拟非公开发行A股股票的数量不超过6亿股，且募集资金总额不超过30亿元，增发定向包括公司控股股东名城控股集团、实际控制人俞培俤以及实际控制人之一致行动人俞凯在内的不超过35名的特定投资者。发行价格由公司董事局根据股东大会的授权与保荐机构（主承销商）协商确定，所有发行对象均以现金方式认购本次发行的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7508072.d.html</link>
+            <guid>2897780</guid>
+            <pubDate>Thu, 08 Dec 2022 15:16:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚总理：奥地利的反对基于毫无根据的数字。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7507918.d.html</link>
+            <guid>2897779</guid>
+            <pubDate>Thu, 08 Dec 2022 15:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗马尼亚总理：对加入申根区缺乏共识感到失望。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9043838.d.html</link>
+            <guid>2897778</guid>
+            <pubDate>Thu, 08 Dec 2022 15:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉股价下跌，马斯克世界首富头衔短暂易主】当地时间7日，特斯拉首席执行官马斯克一度丢掉《福布斯》富豪榜世界首富的宝座，其净资产被路威酩轩集团董事长阿尔诺短暂超越。尽管马斯克当天晚些时候重新夺回首富地位，但领先优势相当有限。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9043804.d.html</link>
+            <guid>2897776</guid>
+            <pubDate>Thu, 08 Dec 2022 15:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  纳指涨超1%，标普500指数涨0.9%，道指涨幅扩大至超过0.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7507381.d.html</link>
             <guid>2897775</guid>
             <pubDate>Thu, 08 Dec 2022 15:06:10 GMT</pubDate>
         </item>
@@ -59,326 +307,6 @@
             <title><![CDATA[美国参议院民主党成员Warren施压美联储主席鲍威尔，要求美联储、美国货币监理署（OCC）、联邦存款保险公司（FDIC）等众多金融监管部门在数字货币交易所FTX崩塌之际调查银行机构与加密数字货币市场之间的关联。]]></title>
             <guid>2897763</guid>
             <pubDate>Thu, 08 Dec 2022 14:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚预计二叠纪盆地石油年增长率为10%，低于2022年的20%。预计2027年，二叠纪盆地的石油产量将达到90-100万桶/日。]]></title>
-            <guid>2897762</guid>
-            <pubDate>Thu, 08 Dec 2022 14:45:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美股新能源车板块涨跌不一 小牛电动涨超7%】美股新能源车板块涨跌不一，小牛电动涨超7%，蔚来汽车涨近4%，Lucid Group、特斯拉跌约2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9041968.d.html</link>
-            <guid>2897761</guid>
-            <pubDate>Thu, 08 Dec 2022 14:44:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股行业ETF周四盘初多数上涨，能源业ETF涨约1.5%领跑，全球航空业ETF涨超0.9%，科技行业ETF和全球科技股指数ETF涨超0.2%，公用事业ETF、可选消费ETF、日常消费品ETF均跌不到0.1%，生物科技指数ETF跌约0.2%表现最差。]]></title>
-            <guid>2897758</guid>
-            <pubDate>Thu, 08 Dec 2022 14:40:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【上海电气首台制氢装备下线 单体产氢量全国领先】上海电气首台碱性电解水制氢装备今日下线。装备单体产氢量全国领先，可达2000N㎥/h。装备由上海电气旗下上海氢器时代科技有限公司自主研制。预计在2023年，氢器时代碱性电解水制氢装备的产能可达500兆瓦，绿氢产能可达7.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7505068.d.html</link>
-            <guid>2897751</guid>
-            <pubDate>Thu, 08 Dec 2022 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在偿还10亿美元伊斯兰债券之前，巴基斯坦外汇储备降至67亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040815.d.html</link>
-            <guid>2897748</guid>
-            <pubDate>Thu, 08 Dec 2022 14:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  意大利国债价格跌幅扩大，10年期意债收益率上涨10个基点，报3.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504789.d.html</link>
-            <guid>2897747</guid>
-            <pubDate>Thu, 08 Dec 2022 14:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科拓生物接受调研：公司基本面正常 尾盘下跌可能是某股东交易错误造成】科拓生物今日在接受调研时表示，公司股价今日在收盘集合竞价阶段下跌约20%，据公司初步了解，可能是某股东交易错误造成，但具体情况仍应由交易所和相关股东最终确认。今日收盘集中竞价的成交额与公司正常交易的成交额相比具有较大差距。公司基本面正常，不存在应披露而未披露的信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040530.d.html</link>
-            <guid>2897746</guid>
-            <pubDate>Thu, 08 Dec 2022 14:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件，科笛集团向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504493.d.html</link>
-            <guid>2897745</guid>
-            <pubDate>Thu, 08 Dec 2022 14:23:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔世界杯前两星期接待游客76.5万人 显著低于预期】据路透社、美国消费者新闻与商业频道12月8日消息，卡塔尔在世界杯的前两星期接待了超76.5万名游客，远低于此前120万人的预期数字。国际游客人数远低于预期，导致卡塔尔的住宿出现意外过剩情况。路透社认为，卡塔尔住宿费用过高、禁售酒精饮料规定等都是外国游客数低于预期的原因。（海外网）]]></title>
-            <guid>2897744</guid>
-            <pubDate>Thu, 08 Dec 2022 14:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长Glapinski：不认为波兰会陷入衰退，可能零增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9040252.d.html</link>
-            <guid>2897743</guid>
-            <pubDate>Thu, 08 Dec 2022 14:21:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国和新西兰政商界人士看好两国经贸务实合作前景】中新两国政商界人士7日在新西兰奥克兰举行“愿景2023”双边经贸研讨会，与会人士坚定看好两国基于经贸务实合作的互利共赢前景。新西兰前总理约翰·基表示，对新西兰而言，中国有无限投资机会。“毋庸置疑，中国仍是今天亚洲地区最重要的市场，我对两国贸易前景充满信心。”银蕨农场、恒天然、佳沛等新西兰知名企业高管均在会上表示，过去几年公司在中国市场的销售业绩保持增长和韧性，未来将持续投资中国市场。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504048.d.html</link>
-            <guid>2897741</guid>
-            <pubDate>Thu, 08 Dec 2022 14:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：周四油价反弹 但年内仍有可能继续下跌】美国原油期货价格周四有所反弹，此前四个交易日下跌11%，昨日更是创下今年最低收盘价72.01美元。不过Spartan资本证券分析师Peter Cardillo在一份报告中称，今天的反弹并没有让市场走出看跌的技术结构，并表示更多的2022年低点可能将会到来。“事实上，我们认为油价可能很快跌破70美元/桶，短期目标为68美元/桶。”但一些分析师也提醒投资者，欧佩克官员可能会开始就潜在的减产计划发表意见，以吸引买家重返市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7504035.d.html</link>
-            <guid>2897740</guid>
-            <pubDate>Thu, 08 Dec 2022 14:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪：在马来西亚吉隆坡召开品牌发布会暨首款车型上市发布会】比亚迪汽车消息，12月8日，比亚迪在马来西亚吉隆坡召开品牌发布会暨首款车型上市发布会，宣布正式进入马来西亚乘用车市场，发布首款车型元PLUS，并公布标准续航版售价为149,800马来西亚林吉特（约合23万人民币），长续航版售价为167,800马来西亚林吉特（约合26万人民币）。发布会现场，海豚和海豹两款车型也作为彩蛋惊喜亮相。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9039941.d.html</link>
-            <guid>2897739</guid>
-            <pubDate>Thu, 08 Dec 2022 14:17:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲斯托克600指数继续下跌，现跌0.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7503944.d.html</link>
-            <guid>2897738</guid>
-            <pubDate>Thu, 08 Dec 2022 14:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【由于内布拉斯加州石油泄漏，TC能源公司停止了石油泵送】TC能源公司周四表示，在美国内布拉斯加州发现石油泄漏后，该公司已停止从产能为61万桶/日的Keystone管道输油。紧急关闭发生在当地时间周三晚上8点左右，此前由于检测到管道压力下降，警报响起。该管道受影响的部分已被隔离，并部署了拦油栅以控制泄漏往下游迁移。这一消息推动WTI原油日内大涨4%，布油涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7503551.d.html</link>
-            <guid>2897737</guid>
-            <pubDate>Thu, 08 Dec 2022 14:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：英国、西班牙银行对住宅房地产风险敞口最大，地方政府投资池将在2022年第三季度出现季节性资金外流。]]></title>
-            <guid>2897736</guid>
-            <pubDate>Thu, 08 Dec 2022 14:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行旗下DWS：尽管加息步伐料放缓，但美联储不太可能转向鸽派】德意志银行旗下资管子公司DWS经济学家Christian Scherrmann在一份报告称，预计美联储将在12月13日至14日的会议上小幅加息50个基点，但这不应被视为转向更为温和的政策立场。他表示：“通胀水平仍然过高，劳动力市场过于强劲，供求关系过于失衡，美联储无法放松警惕。”Scherrmann称，美联储的最新预测可能将反映出经济放缓，但也将反映美联储在2023年接受低经济增速和高利率水平的意愿。“美联储的点阵图可能会显示利率峰值略高于5%，而明年的经济增长可能会被下调至0.5%以下。”]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9038944.d.html</link>
-            <guid>2897735</guid>
-            <pubDate>Thu, 08 Dec 2022 14:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉夫罗夫：欧盟应该成为新多极世界一员，不应100%依赖美国】俄罗斯外交部长拉夫罗夫表示，俄罗斯希望欧盟成为多极世界的平等（组成）部分，为此欧盟不应该100%依赖美国。拉夫罗夫说道，欧洲与美国利益并不一致，但欧洲现在还不能捍卫自身利益。他认为，法国总统马克龙近日访问美国的结果可以证实这一点。他说，“欧洲有与美国不一致的利益，这很明显。在我看来，欧洲无法捍卫这些利益，这目前也是一个明显的事实。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7502799.d.html</link>
-            <guid>2897734</guid>
-            <pubDate>Thu, 08 Dec 2022 14:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部部务会议召开 研究水利工程供水价格管理工作】据水利部12月8日消息，12月8日，水利部党组书记、部长李国英主持召开部务会议，审议《取水计量技术导则》和《洪水影响评价技术导则》，研究水利工程供水价格管理工作。会议指出，取水计量是落实水资源刚性约束制度的重要基础性工作。要认真审视新形势下水资源管理的新任务新要求，强化取水计量设施建设与管理，加快构建现代化取水计量系统，及时、准确、全面掌握取用水情况，精打细算用好水资源，从严从细管好水资源。会议强调，进一步深化水利工程供水价格改革，建立健全有利于促进水资源集约节约利用和水利工程良性运行、与投融资体制相适应的水价形成机制。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9038736.d.html</link>
-            <guid>2897733</guid>
-            <pubDate>Thu, 08 Dec 2022 14:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“元宇宙公司”Meta Platform发言人：将转租位于爱尔兰首都都柏林新欧洲总部的部分（办公）空间。]]></title>
-            <guid>2897732</guid>
-            <pubDate>Thu, 08 Dec 2022 14:03:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内政大臣和同行们表示，他们愿意努力达成欧盟-英国移民合作协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7502201.d.html</link>
-            <guid>2897731</guid>
-            <pubDate>Thu, 08 Dec 2022 13:59:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟专员约翰逊：保加利亚和罗马尼亚还没有被允许加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9038280.d.html</link>
-            <guid>2897730</guid>
-            <pubDate>Thu, 08 Dec 2022 13:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国内政大臣布雷弗曼在与荷兰、比利时、法国和德国的联合声明中表示，他们将继续致力于解决西北欧的非正常移民问题。]]></title>
-            <guid>2897729</guid>
-            <pubDate>Thu, 08 Dec 2022 13:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：商业房地产行业是金融稳定的最大风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9037940.d.html</link>
-            <guid>2897728</guid>
-            <pubDate>Thu, 08 Dec 2022 13:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：亚太地区液化天然气需求将复苏，价格将居高不下。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501827.d.html</link>
-            <guid>2897727</guid>
-            <pubDate>Thu, 08 Dec 2022 13:53:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新湖中宝：控股股东拟转让公司不超10%股份引入国资】新湖中宝公告，公司控股股东新湖集团拟通过协议转让方式，由新湖集团或其指定主体向衢州市国有资本运营有限公司、衢州控股集团有限公司、衢州工业发展集团有限公司(合称“衢州方”)或其指定主体出售并转让公司股份合计不超8.6亿股（不超公司总股本的10%）。衢州方将在股份转让交易后，全力协助公司进一步争取地方政策支持、全面深化合作，推进公司转型。如上述股份转让完成，公司控股股东和实控人不会发生变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501822.d.html</link>
-            <guid>2897726</guid>
-            <pubDate>Thu, 08 Dec 2022 13:53:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧盟正式批准克罗地亚加入申根区】据欧盟官方消息，欧盟正式批准克罗地亚加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501800.d.html</link>
-            <guid>2897725</guid>
-            <pubDate>Thu, 08 Dec 2022 13:53:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国美零售：Shinning Crown同意向公司提供1.5亿港元贷款】国美零售在港公告，控股股东黄光裕全资公司Shinning Crown与公司签订贷款协议，Shinning Crown同意向公司提供1.5亿港元贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9037884.d.html</link>
-            <guid>2897724</guid>
-            <pubDate>Thu, 08 Dec 2022 13:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鸿海：将向一家印度子公司追加投入5亿美元用于长期投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9037866.d.html</link>
-            <guid>2897723</guid>
-            <pubDate>Thu, 08 Dec 2022 13:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊财政部长：从2023年起，希腊将出现基本财政盈余。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501727.d.html</link>
-            <guid>2897721</guid>
-            <pubDate>Thu, 08 Dec 2022 13:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其海事部门表示，如果没有适当的保函，将继续阻止油轮通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7501668.d.html</link>
-            <guid>2897717</guid>
-            <pubDate>Thu, 08 Dec 2022 13:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：瑞典克朗贬值没有动因。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9037638.d.html</link>
-            <guid>2897715</guid>
-            <pubDate>Thu, 08 Dec 2022 13:50:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深交所发布国证社会帮扶100指数 助力全面推进乡村振兴】深交所全资子公司深圳证券信息有限公司12月9日正式发布国证社会帮扶100指数，样本股涵盖近三年参与乡村产业、消费帮扶等工作的上市公司，旨在反映积极参与社会帮扶事业、支持国家乡村振兴战略的上市公司整体市场表现。帮扶100是国内首只聚焦社会帮扶事业的指数，有利于发挥上市公司的示范引领效应，引导更多市场主体持续巩固脱贫攻坚成果，积极参与全面推进乡村振兴工作，促进形成资本市场助力乡村产业发展新局面。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9037408.d.html</link>
-            <guid>2897712</guid>
-            <pubDate>Thu, 08 Dec 2022 13:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美的集团与大族集团签署战略合作框架协议】据美的集团消息，12月8日，美的集团与大族集团签署战略合作框架协议。双方将在工业自动化、制造智能化、楼宇数字化等多个领域开展全面深入的合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7500553.d.html</link>
-            <guid>2897711</guid>
-            <pubDate>Thu, 08 Dec 2022 13:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿塞拜疆共和国国家石油公司暂时停止向其在土耳其的炼油厂供应俄罗斯原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9036223.d.html</link>
-            <guid>2897708</guid>
-            <pubDate>Thu, 08 Dec 2022 13:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国初请数据公布后，美股期货小幅拉升，纳指期货涨0.65%，标普500指数期货涨0.55%，道指期货涨0.4%。]]></title>
-            <guid>2897702</guid>
-            <pubDate>Thu, 08 Dec 2022 13:30:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至12月3日当周初请失业金人数四周均值 23万人，前值22.875万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7499769.d.html</link>
-            <guid>2897701</guid>
-            <pubDate>Thu, 08 Dec 2022 13:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至11月26日当周续请失业金人数 167.1万人，预期160万人，前值160.8万人。]]></title>
-            <guid>2897700</guid>
-            <pubDate>Thu, 08 Dec 2022 13:30:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞银：2022年全球亿万富豪减少3%】瑞银财富管理8日发布的《亿万富豪报告》显示，受波动的环境影响，（截至今年3月）全球亿万富豪总人数略有下滑，亿万富豪的总财富也有小幅“缩水”。报告指出，截至2022年3月汇编数据时，全球共有2668名亿万富豪，而前一年为2755人，降幅约3%。这些亿万富豪的总财富也从2021年的13.1万亿美元下滑至2022年的12.7万亿美元。报告认为，2022年3月以来，由于资产价格下跌，亿万富豪的总财富和人数可能进一步减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7499726.d.html</link>
-            <guid>2897698</guid>
-            <pubDate>Thu, 08 Dec 2022 13:30:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏州固锝：已发起开拓海外市场行动 第二波业务人员正在海外】苏州固锝在互动平台表示，公司在国家政策允许范围内早已发起开拓海外市场的行动，比如说在8月份就已赴欧洲、日韩等地拜访客户、拓展业务；目前第二波业务人员正在海外活跃；第三波业务项目已提上日程，预计明年初将落实。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7499685.d.html</link>
-            <guid>2897697</guid>
-            <pubDate>Thu, 08 Dec 2022 13:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【*ST博天：公司重整计划获得法院裁定批准】*ST博天公告，北京市第一中级人民法院裁定批准公司重整计划，并终止公司重整程序。根据《重整计划》，公司应于12月31日前执行完毕重整计划。此次《重整计划》涉及权益调整，但不会导致公司控制权发生变更。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7499572.d.html</link>
-            <guid>2897695</guid>
-            <pubDate>Thu, 08 Dec 2022 13:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世茂股份：因近期拟就公司债券兑付安排事项召开债券持有人会议，所有本公司存续公司债券将自2022年12月9日开市起停牌。]]></title>
-            <guid>2897694</guid>
-            <pubDate>Thu, 08 Dec 2022 13:27:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其政府表示，15艘原油油轮正在黑海等待。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9035508.d.html</link>
-            <guid>2897693</guid>
-            <pubDate>Thu, 08 Dec 2022 13:27:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中药：国药集团不对本公司进行私有化相关安排】中国中药在港交所公告，公司董事会已注意到日期为12月7日的若干新闻报导，并已收到有关国药集团，本公司控股股东国药香港之间接母公司有意对本公司进行私有化的潜在提案的相关问询。经向国药香港作出在相关情况下合理询问，本公司从国药香港获悉，截至本公告日期，国药集团经初步研究，不对本公司进行私有化相关安排。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9035457.d.html</link>
-            <guid>2897691</guid>
-            <pubDate>Thu, 08 Dec 2022 13:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州浪奇：非公开发行股票申请获审核通过】广州浪奇12月8日晚间公告，公司非公开发行股票申请获得证监会发审委审核通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7498884.d.html</link>
-            <guid>2897690</guid>
-            <pubDate>Thu, 08 Dec 2022 13:20:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据比亚迪汽车12月8日消息，唐家族11月热销20020辆，同比大增146.4%，累计销量超42万辆。]]></title>
-            <guid>2897689</guid>
-            <pubDate>Thu, 08 Dec 2022 13:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其表示对油轮通航问题的解决方案持开放态度。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9034732.d.html</link>
-            <guid>2897688</guid>
-            <pubDate>Thu, 08 Dec 2022 13:18:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其指责船舶保险公司拒绝提供保险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9034715.d.html</link>
-            <guid>2897687</guid>
-            <pubDate>Thu, 08 Dec 2022 13:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯：瑞典和丹麦拒绝俄参与“北溪”事件调查】据央视新闻，俄罗斯外交部12月8日说，瑞典和丹麦拒绝让俄方参与“北溪”天然气管道泄漏事件相关调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9034480.d.html</link>
-            <guid>2897685</guid>
-            <pubDate>Thu, 08 Dec 2022 13:14:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【宝龙地产前11月销售379.32亿元 同比降59.27%】宝龙地产发布未经审核运营数据，11月公司实现销售额32.45亿元，同比下降60.97%；销售面积21.97万平方米。今年前11月，宝龙地产实现销售额379.32亿元，同比下降59.27%；销售面积252.91万平方米。其中，住宅销售额为265.53亿元，占比70%；商业销售额为113.79亿元，占比30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9034362.d.html</link>
-            <guid>2897683</guid>
-            <pubDate>Thu, 08 Dec 2022 13:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳地铁：乘客搭乘不再查验健康码】据深圳地铁消息，即日起，乘客搭乘深圳地铁时不再查验健康码。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7498220.d.html</link>
-            <guid>2897682</guid>
-            <pubDate>Thu, 08 Dec 2022 13:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长三角铁路12月9日起加开京沪、川渝、中原等多个方向旅客列车】记者从中国铁路上海局集团有限公司获悉，从12月9日起，长三角铁路将加开管内、直通多个方向旅客列车，并在周末启用高峰图的基础上，对部分高铁动车组列车采用重联运行。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9033710.d.html</link>
-            <guid>2897681</guid>
-            <pubDate>Thu, 08 Dec 2022 13:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国监管机构：截至12月8日，德国天然气储存水平为95.97％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7497559.d.html</link>
-            <guid>2897680</guid>
-            <pubDate>Thu, 08 Dec 2022 13:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD跌破1.36，日内跌0.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7497547.d.html</link>
-            <guid>2897679</guid>
-            <pubDate>Thu, 08 Dec 2022 13:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯至12月2日当周央行黄金和外汇储备 5713亿美元，前值5675亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7496893.d.html</link>
-            <guid>2897674</guid>
-            <pubDate>Thu, 08 Dec 2022 13:00:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
