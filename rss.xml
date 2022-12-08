@@ -4,325 +4,412 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 12:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[日本首相岸田文雄：将寻求超过1万亿日元的公共合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9007407.d.html</link>
-            <guid>2897437</guid>
-            <pubDate>Thu, 08 Dec 2022 09:05:53 GMT</pubDate>
+            <title><![CDATA[【机构分析：经济衰退担忧隐现，美国初请失业金数据出炉前，美股期货小幅上涨】上周非农数据走强，投资者担心美联储激进举措可能引发经济衰退，美国股指期货周四小幅上涨，晚间即将公布美国初请失业金人数。此外，美国周五将公布的PPI和密歇根大学消费者信心指数，以及下周将公布的11月CPI，也将成为市场关注的焦点，为美联储12月14日的政策决定提供更多线索。此前，包括摩根大通、贝莱德和花旗在内的美国主要银行和机构的高管预测，2023年美国经济可能出现衰退。德意志银行专题研究分析师Luke Templeman表示:“收益率曲线严重倒挂，衰退即将来临，而股市通常只有在衰退开始后才见底。但如果前景非常消极，市场预期不会有利好消息时，任何意外利好都可能刺激市场反弹。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7492223.d.html</link>
+            <guid>2897634</guid>
+            <pubDate>Thu, 08 Dec 2022 12:10:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南海关数据显示，11月进口环比增长1.3%至282.8亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9007187.d.html</link>
-            <guid>2897436</guid>
-            <pubDate>Thu, 08 Dec 2022 09:04:21 GMT</pubDate>
+            <title><![CDATA[【北欧联合银行：欧洲央行将连续3次加息75个基点】欧洲央行将在12月连续第三次加息75个基点，以回应管委会中更为鹰派的声音。我们认为，欧洲央行将推迟作出开始减持巨额债券决定的日期，或将日期定在2023年第二季度末或第三季度初，以回应管委会中较为鸽派的声音。此外，欧洲央行将为减持债券或量化紧缩制定广泛的指引，包括设定每月到期债券数额上限，最初设定为每月100亿至200亿欧元。尽管欧洲央行仍处于依据数据的模式，但似乎有可能进一步加息，而且幅度可能会放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9028309.d.html</link>
+            <guid>2897633</guid>
+            <pubDate>Thu, 08 Dec 2022 12:08:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国国航(00753.HK)：近日收到中国证监会批复，核准公司非公开发行不超过4,357,444,555股新股，发生转增股本等情形导致总股本发生变化的，可相应调整本次发行数量；批复自核准发行之日起12个月内有效。]]></title>
-            <guid>2897435</guid>
-            <pubDate>Thu, 08 Dec 2022 09:03:47 GMT</pubDate>
+            <title><![CDATA[欧盟的加密货币计划寻求从交易收益中获得税收，欧盟旨在要求加密货币提供商报告交易数据。]]></title>
+            <guid>2897631</guid>
+            <pubDate>Thu, 08 Dec 2022 12:06:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[越南海关数据显示，今年1-11月进口同比增长10.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9007084.d.html</link>
-            <guid>2897434</guid>
-            <pubDate>Thu, 08 Dec 2022 09:03:37 GMT</pubDate>
+            <title><![CDATA[乌克兰央行：10月份乌克兰CPI同比增长26.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7491890.d.html</link>
+            <guid>2897630</guid>
+            <pubDate>Thu, 08 Dec 2022 12:06:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伦敦金属交易所(LME)：铝库存减少6150吨，铜库存减少1100吨，镍库存减少1110吨，铅库存持平，锡库存增加5吨，锌库存减少175吨。]]></title>
-            <guid>2897433</guid>
-            <pubDate>Thu, 08 Dec 2022 09:03:18 GMT</pubDate>
+            <title><![CDATA[  【白俄罗斯央行将欧元从货币篮子权重中移除】白俄罗斯中央银行周四表示，将从计算白俄罗斯卢布官方汇率的货币篮子中移除欧元。中央银行在一份声明中表示，新的官方汇率将根据以下权重计算：60% 俄罗斯卢布、30% 美元和10%人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9028107.d.html</link>
+            <guid>2897629</guid>
+            <pubDate>Thu, 08 Dec 2022 12:06:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[大宗商品贸易商托克公布创纪录的70亿美元年利润。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7470791.d.html</link>
-            <guid>2897432</guid>
-            <pubDate>Thu, 08 Dec 2022 09:03:01 GMT</pubDate>
+            <title><![CDATA[【抗原试剂盒热销，部分药店缺货：厂商称两个月内产能可扩大4倍】据澎湃新闻，12月8日，记者以投资者及消费者身份，询问多家抗原试剂检测产品生产厂商与药店，有生产厂商告诉记者，公司正在扩大产能。而记者当日联系的位于上海多区的十多家药店，超过半数的药店告诉记者，抗原检测试剂盒暂时缺货。有的药店已断货一星期，有的药店称下周补货，还有一家药店内仅余一盒抗原检测试剂。 之江生物方面人士向记者表示，正在备产，公司产品供不应求，在扩产能，争取12月和1月的时候产能扩大4倍。“现货有，但C端（个人市场）还没开出来，我们电商这边在弄了。”上述人士说。 奥泰生物记者表示，公司目前也没有现货，但基本可以满足市场需求，公司是以订单形式按需生产，是否扩大产能要根据订单情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7491584.d.html</link>
+            <guid>2897627</guid>
+            <pubDate>Thu, 08 Dec 2022 12:02:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【热门中概股盘前部分走高】热门中概股盘前部分走高，哔哩哔哩涨超11%，小鹏汽车、理想汽车涨超5%，蔚来汽车、阿里巴巴涨超3%。]]></title>
-            <guid>2897430</guid>
-            <pubDate>Thu, 08 Dec 2022 09:01:55 GMT</pubDate>
+            <title><![CDATA[  乌克兰央行将基准利率维持在25%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7491429.d.html</link>
+            <guid>2897624</guid>
+            <pubDate>Thu, 08 Dec 2022 12:01:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【国药现代：子公司获孟鲁司特钠咀嚼片药品注册证书】国药现代公告，控股子公司国药致君坪山获孟鲁司特钠咀嚼片药品注册证书。该药品适用于哮喘的预防和长期治疗，以及减轻过敏性鼻炎引起的症状。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7470115.d.html</link>
-            <guid>2897429</guid>
-            <pubDate>Thu, 08 Dec 2022 08:59:23 GMT</pubDate>
+            <title><![CDATA[  【杉杉股份：子公司拟7.04亿元转让衢州杉杉51%股权给新亚制程】杉杉股份公告，全资子公司甬湶投资将其所持衢州杉杉51%的股权转让予新亚制程，交易价格为7.04亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7490631.d.html</link>
+            <guid>2897622</guid>
+            <pubDate>Thu, 08 Dec 2022 11:52:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海辰药业：公司及子公司未取得熊去氧胆酸原料药及制剂的药品注册批件】海辰药业发布股票交易异常波动公告，经核查，公司及子公司未取得熊去氧胆酸原料药及制剂的药品注册批件，仅在药品生产许可证范围中含熊去氧胆酸原料药，不代表公司可以生产、销售该药，截至本公告披露日，公司也未有该药的生产、销售行为。敬请广大投资者理性投资，注意风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7469887.d.html</link>
-            <guid>2897426</guid>
-            <pubDate>Thu, 08 Dec 2022 08:57:36 GMT</pubDate>
+            <title><![CDATA[  【武汉解除二环外限购仅为房交会期间限时政策 有效期22天】针对武汉调整限购，解除二环外楼市限购的消息，多位武汉本地业内人士告诉记者，该调整仅限于第39届武汉房交会期间，即12月8日至31日，有效期22天。其中一位业内人士称，“今天相关部门开了内部发布会，口径就是房交会期间，至于后面会不会延续仍需看12月市场成交情况。”据悉，此次武汉房地产交易会期间，将有204家房企、210个主要在售楼盘的5.8万套房源供市民挑选。展会期间，配套出台了一系列阶段性宽松措施，包括二环外放开限购、容缺办理外来购房资格、二手房带押过户试点、购房补贴、税费减免等。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7490153.d.html</link>
+            <guid>2897620</guid>
+            <pubDate>Thu, 08 Dec 2022 11:48:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国未来一年基荷电价上涨1.9%至400欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7469808.d.html</link>
-            <guid>2897425</guid>
-            <pubDate>Thu, 08 Dec 2022 08:57:03 GMT</pubDate>
+            <title><![CDATA[  【正邦科技：11月生猪销售收入5.14亿元 环比降26.22%】正邦科技公告，公司11月销售生猪29.58万头，环比下降54%，同比下降70.53%；销售收入5.14亿元，环比下降26.22%，同比下降61.9%。商品猪（扣除仔猪后）销售均价22.95元/公斤，较上月下降9.14%。1-11月，公司累计销售生猪795.94万头，同比下降43.64%；累计销售收入82.87亿元，同比下降70.84%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9026125.d.html</link>
+            <guid>2897619</guid>
+            <pubDate>Thu, 08 Dec 2022 11:45:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【10月份美国从俄货物进口额较9月翻番】据央视新闻，当地时间6日，美国普查局发布的美国10月国际货物和服务贸易报告显示，10月份美国从俄罗斯的货物进口额环比增长了一倍多。报告显示，今年9月美国从俄罗斯的货物进口额约为3.32亿美元，约合人民币23亿元，而十月份的进口额为7.32亿美元，约合人民币51亿元。去年，按总贸易额计算，美国是俄罗斯第五大贸易伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005855.d.html</link>
-            <guid>2897424</guid>
-            <pubDate>Thu, 08 Dec 2022 08:55:51 GMT</pubDate>
+            <title><![CDATA[埃克森美孚石油(XOM.N)：到2027年，预计上游产量将增加50万桶油当量/天，达到420万桶油当量/天。]]></title>
+            <guid>2897617</guid>
+            <pubDate>Thu, 08 Dec 2022 11:40:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【奥克股份：拟对杭州万锂达增资1500万元】奥克股份公告，决定以自有资金1500万元对杭州万锂达进行增资，认购杭州万锂达新增的88.2353万元注册资本。本次增资完成后，公司持有杭州万锂达15%的股权，杭州万锂达将成为公司的参股子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7469529.d.html</link>
-            <guid>2897423</guid>
-            <pubDate>Thu, 08 Dec 2022 08:55:02 GMT</pubDate>
+            <title><![CDATA[埃克森美孚石油(XOM.N)：与2019年相比，仍有望在2023年底实现总额约90亿美元的结构性成本削减。]]></title>
+            <guid>2897616</guid>
+            <pubDate>Thu, 08 Dec 2022 11:39:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[天鹅股份：控股股东山东供销资本公司拟减持不超过1.98%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005739.d.html</link>
-            <guid>2897422</guid>
-            <pubDate>Thu, 08 Dec 2022 08:54:54 GMT</pubDate>
+            <title><![CDATA[  【中国太保推出全国首个数字货币账户资金损失保险】日前太保产险苏州分公司联合交通银行苏州分行推出全国首个数字货币账户资金损失保险产品，并已签发首张保单。自2020年以来，中国太保产险苏州分公司拓展数字货币的使用领域，已通过与政府、银行及B端、C端客户合作，在收取保费、支付赔款和发放员工薪酬福利等多场景实现了创新突破。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7488939.d.html</link>
+            <guid>2897615</guid>
+            <pubDate>Thu, 08 Dec 2022 11:36:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度计划在库丹库拉姆建设4个1000MW的核电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005490.d.html</link>
-            <guid>2897416</guid>
-            <pubDate>Thu, 08 Dec 2022 08:52:44 GMT</pubDate>
+            <title><![CDATA[  【“20荣盛地产MTN003”债通过展期议案：本金展期一年 利息展期两年】荣盛房地产发展股份有限公司2020年度第三期中期票据2022年第二次持有人会议决议公告显示，“20荣盛地产MTN003”展期方案通过，本金展期一年，利息展期两年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9025180.d.html</link>
+            <guid>2897614</guid>
+            <pubDate>Thu, 08 Dec 2022 11:36:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度将在2027年之前完成四座库丹库拉姆核电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7469190.d.html</link>
-            <guid>2897415</guid>
-            <pubDate>Thu, 08 Dec 2022 08:52:24 GMT</pubDate>
+            <title><![CDATA[埃克森美孚石油：到2024年的股票回购计划规模扩大到500亿美元，包括2022年的150亿美元。]]></title>
+            <guid>2897611</guid>
+            <pubDate>Thu, 08 Dec 2022 11:32:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[奥地利内政部长：奥地利不会支持罗马尼亚和保加利亚加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005424.d.html</link>
-            <guid>2897414</guid>
-            <pubDate>Thu, 08 Dec 2022 08:52:15 GMT</pubDate>
+            <title><![CDATA[【小崧股份：子公司中标8960万元厂房建设项目】小崧股份12月8日晚间公告，全资子公司国海建设有限公司近日中标上饶高新区（博山片区）标准厂房建设项目，中标金额约8959.73万元，占公司2021年度营业收入的6.78%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7488385.d.html</link>
+            <guid>2897609</guid>
+            <pubDate>Thu, 08 Dec 2022 11:30:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【园林股份：联合预中标3.53亿元朔西湖环境治理项目】园林股份12月8日晚间公告，公司作为牵头人和淮北淮海建设工程有限责任公司组成的联合体，预中标安徽省淮北市杜集区重点采煤沉陷区朔西湖环境治理项目（二期），中标价3.53亿元，其中设计费700万元，施工费3.46亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005404.d.html</link>
-            <guid>2897413</guid>
-            <pubDate>Thu, 08 Dec 2022 08:52:06 GMT</pubDate>
+            <title><![CDATA[  【上海：5G基站占4G基站比例为65.6% 位列全国第一】工信部日前发布的数据显示，截至2022年第三季度，上海市在5G网络能级方面的多个统计指标在全国居于领先地位。其中，上海市5G基站占4G基站比例为65.6%，位列全国第一。上海市每万人5G基站数26.6个，位列全国第二。上海市503个重点场所，5G信号覆盖率达到96.8%，位居直辖市第一，其中机场、火车站、地铁线路实现5G信号100%全覆盖，三甲医院5G信号覆盖率超过95%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9023963.d.html</link>
+            <guid>2897607</guid>
+            <pubDate>Thu, 08 Dec 2022 11:23:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【网易联合中建八局推出挖掘机器人，用于西南重点基建项目建设】12月8日，澎湃新闻记者获悉，近日，网易与中建八局签订战略合作，双方将利用各自的研发能力、产业规划及市场规模，共同推进数字化和智能化工程机械领域的深入合作，推动其落地应用。目前，网易伏羲与中建八局联合研发的挖掘机器人，正在四川理塘参与西南重点基建项目建设，这也是全球首台登陆高原作业的无人挖掘机。通过手柄、电脑远程遥控，无人驾驶的挖掘机可以在零下二十度、4000米海拔的低温缺氧环境中作业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9005221.d.html</link>
-            <guid>2897410</guid>
-            <pubDate>Thu, 08 Dec 2022 08:50:44 GMT</pubDate>
+            <title><![CDATA[【中国结算：统一账户平台、身份信息核查系统暂停对外提供服务】中国结算消息，因技术系统测试，公司统一账户平台、身份信息核查系统于2022年12月10日全天暂停对外服务，2022年12月10日当天所有与统一账户平台交互的数据均为测试数据，仅供技术系统测试使用，非业务处理依据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9023488.d.html</link>
+            <guid>2897605</guid>
+            <pubDate>Thu, 08 Dec 2022 11:19:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【高新发展：2022年1-11月实现销售收入增长107.92%】高新发展：经公司初步核算，公司控股子公司成都森未科技有限公司2022年1-11月实现销售收入9,251.35万元，相比2021年同期销售收入4,449.58万元增长107.92%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7468788.d.html</link>
-            <guid>2897409</guid>
-            <pubDate>Thu, 08 Dec 2022 08:50:07 GMT</pubDate>
+            <title><![CDATA[  【ST联建：12月12日起撤销其他风险警示】ST联建公告，公司股票自12月12日起撤销其他风险警示，股票简称变更为“联建光电”。股票将于12月9日起停牌一天，并将于12月12日起复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7487002.d.html</link>
+            <guid>2897603</guid>
+            <pubDate>Thu, 08 Dec 2022 11:17:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国内政部长：赞成克罗地亚、罗马尼亚和保加利亚加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9004977.d.html</link>
-            <guid>2897408</guid>
-            <pubDate>Thu, 08 Dec 2022 08:49:15 GMT</pubDate>
+            <title><![CDATA[  【安徽宣城：多子女家庭住房公积金贷款上限60万元】安徽省宣城市发布《关于实施多子女家庭住房公积金贷款支持政策的通知》，宣城市符合国家生育政策生育二孩及以上多子女家庭购买住房首次申请住房公积金贷款的，最高贷款额度可在宣城市现行住房公积金贷款最高限额基础上增加10万元，上限60万元；符合人才引进政策的最高贷款额度70万元；符合购买绿色建筑政策的，最高贷款额度再上浮20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9022667.d.html</link>
+            <guid>2897600</guid>
+            <pubDate>Thu, 08 Dec 2022 11:10:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宁波建工：控股子公司中标11.66亿元宁波市轨道交通7号线、8号线一期工程下应南车辆段TJSG01标段施工项目。]]></title>
-            <guid>2897407</guid>
-            <pubDate>Thu, 08 Dec 2022 08:48:57 GMT</pubDate>
+            <title><![CDATA[【益生股份：11月白羽肉鸡苗销售收入2.43亿元】益生股份公告，公司2022年11月白羽肉鸡苗销售数量4,918.66万只，销售收入2.43亿元，同比变动分别为-1.83%、123.14%，环比变动分别为-1.03%、23.76%。益生909小型白羽肉鸡苗销售数量925.33万只，销售收入1,381.49万元，环比变动分别为1.36%、-4.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9022309.d.html</link>
+            <guid>2897598</guid>
+            <pubDate>Thu, 08 Dec 2022 11:08:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【摩根士丹利：欧洲央行下周将加息50个基点】摩根士丹利策略师表示，预计欧洲央行将于下周加息50个基点，并于2023年3月启动量化紧缩。策略师在一份报告中写道，他们的基本假设是终端利率为2.5%，但更强劲的经济增长和较晚出现的通胀峰值将导致更高的终端利率水平。策略师们表示，欧元区HICP通胀已在10月份达到10.6%的峰值，之后应该会有所回落，但短期内政策引发的波动和顽固的核心通胀应该会给欧洲央行带来压力。根据路孚特的数据，市场定价也消化了欧洲央行下周加息50个基点的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9004907.d.html</link>
-            <guid>2897406</guid>
-            <pubDate>Thu, 08 Dec 2022 08:48:46 GMT</pubDate>
+            <title><![CDATA[国家卫健委：各地要通过多种途径，将开放发热门诊的医疗机构名单向社会公布，要确保发热门诊24小时开诊，不得擅自、随意关闭、停诊。要加强宣传解读，便于广大群众知悉了解有关政策，及时获得医疗服务。]]></title>
+            <guid>2897596</guid>
+            <pubDate>Thu, 08 Dec 2022 11:04:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科翔股份：张新华、珠海市神之华一期投资中心拟合计减持不超过3.58%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7468514.d.html</link>
-            <guid>2897405</guid>
-            <pubDate>Thu, 08 Dec 2022 08:47:36 GMT</pubDate>
+            <title><![CDATA[  万通发展：GLP拟减持不超过2%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9021784.d.html</link>
+            <guid>2897595</guid>
+            <pubDate>Thu, 08 Dec 2022 11:03:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国内政部长：不同意奥地利反对扩大申根区的做法。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7468057.d.html</link>
-            <guid>2897403</guid>
-            <pubDate>Thu, 08 Dec 2022 08:44:46 GMT</pubDate>
+            <title><![CDATA[国家卫健委：各地不得强制要求居民通过所在社区、街道联系或者通过120急救车转运，不得以任何方式限制、阻拦其自主就诊。医疗机构对前来就诊的患者不得推诿、拒诊，严格落实发热门诊首诊负责制。]]></title>
+            <guid>2897594</guid>
+            <pubDate>Thu, 08 Dec 2022 11:03:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国际奥委会期望俄、白俄运动员回归国际赛场】据央视新闻，国际奥委会主席托马斯·巴赫7日在新闻发布会上说，国际奥委会希望找到能够让俄罗斯和白俄罗斯运动员回到国际赛场的办法。国际奥委会7日结束了为期三天的执委会会议，在会后的线上新闻发布会上，巴赫回答了记者的提问。总结第三天的会议内容，巴赫称执委们用了四个小时的时间讨论关于是否应该让俄罗斯和白俄罗斯运动员回归国际赛场的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7468022.d.html</link>
-            <guid>2897402</guid>
-            <pubDate>Thu, 08 Dec 2022 08:44:35 GMT</pubDate>
+            <title><![CDATA[国家卫健委发布关于进一步优化发热患者就诊流程的通知：对于出现发热、咳嗽等症状的居民，无论是否进行核酸或抗原检测，以及检测结果如何，如居民有就诊需求，均可自行前往医疗机构发热门诊（诊室）就诊。]]></title>
+            <guid>2897593</guid>
+            <pubDate>Thu, 08 Dec 2022 11:03:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国内政部长：欢迎罗马尼亚、保加利亚和克罗地亚加入申根区。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9004108.d.html</link>
-            <guid>2897400</guid>
-            <pubDate>Thu, 08 Dec 2022 08:42:47 GMT</pubDate>
+            <title><![CDATA[贵州茅台：将于2022年12月14日召开临时股东大会，审议《回报股东特别分红方案》等。]]></title>
+            <guid>2897591</guid>
+            <pubDate>Thu, 08 Dec 2022 11:01:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝斯美：拟收购宁波捷力克20%股权 推动农药出海战略】贝斯美12月8日晚间公告，公司拟8500万元收购宁波捷力克化工有限公司20%的股权。收购完成后，公司将借助宁波捷力克的全球农药注册登记实力和外贸业务经验，有效拓展海外市场，推动农药出海战略布局。另外，根据募投项目的实施进展，公司将“营销网络扩建项目”达到预定可使用状态时间由2022年12月延长至2023年12月。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9004039.d.html</link>
-            <guid>2897399</guid>
-            <pubDate>Thu, 08 Dec 2022 08:42:14 GMT</pubDate>
+            <title><![CDATA[塞尔维亚央行将基准利率上调至5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9021466.d.html</link>
+            <guid>2897590</guid>
+            <pubDate>Thu, 08 Dec 2022 11:00:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉中国负责人朱晓彤升任特斯拉CEO？外媒：马斯克钦点他来得州工厂抓产能】特斯拉CEO埃隆·马斯克已“点名”朱晓彤前往美国，帮助运营美国得克萨斯州超级工厂。消息人士告诉彭博社，本周朱晓彤已经带队中国工程团队抵达得克萨斯州超级工厂，以协助监督其产能扩张。知情人士表示，尚不清楚朱晓彤将在此待多久，也不清楚他是否会保留其在亚洲的职位。记者就此向特斯拉中国方面求证，截至发稿，对方未就此予以答复。（澎湃新闻）]]></title>
-            <guid>2897398</guid>
-            <pubDate>Thu, 08 Dec 2022 08:41:47 GMT</pubDate>
+            <title><![CDATA[【西安三星半导体：2022年产值将破千亿元，持续看好中国市场】三星（中国）半导体有限公司副总裁徐正贤7日在接受记者采访时表示，三星半导体西安工厂2022年产值将突破1000亿元人民币，他们对中国市场有信心，将持续在中国投资。三星（中国）半导体有限公司2012年落户西安高新区，是中国改革开放以来引进的单笔投资额最大的外商投资项目之一。截至目前，项目总投资高达270亿美元。“2014年投产的一期项目共投资137亿美元，2021年10月满产的二期项目投资了133亿美元，目前我们还在持续投资中。”徐正贤说。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7484989.d.html</link>
+            <guid>2897588</guid>
+            <pubDate>Thu, 08 Dec 2022 10:59:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广汽集团：2022年11月汽车产量为212,714辆，同比下降9.04%】广汽集团：2022年11月汽车产量为212,714辆，同比下降9.04%，本年累计产量为2,280,163辆，同比增长21.92%；11月汽车销量为190,305辆，同比下降15.09%，本年累计销量为2,227,800辆，同比增长16.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7467561.d.html</link>
-            <guid>2897397</guid>
-            <pubDate>Thu, 08 Dec 2022 08:41:14 GMT</pubDate>
+            <title><![CDATA[土耳其能源部长：土耳其计划成为设定参考价格的天然气中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7484954.d.html</link>
+            <guid>2897587</guid>
+            <pubDate>Thu, 08 Dec 2022 10:58:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【陈敏尔任天津市委委员、常委、书记】日前，中共中央决定：李鸿忠同志不再兼任天津市委书记、常委、委员职务，陈敏尔同志兼任天津市委委员、常委、书记。]]></title>
-            <guid>2897395</guid>
-            <pubDate>Thu, 08 Dec 2022 08:40:31 GMT</pubDate>
+            <title><![CDATA[标普全球普氏能源资讯：海湾产油国引领欧佩克+减产，沙特原油产量降至6个月低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7484941.d.html</link>
+            <guid>2897586</guid>
+            <pubDate>Thu, 08 Dec 2022 10:58:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【陈敏尔任天津市委委员、常委、书记】中共中央决定：李鸿忠同志不再兼任天津市委书记、常委、委员职务，陈敏尔同志兼任天津市委委员、常委、书记。]]></title>
-            <guid>2897394</guid>
-            <pubDate>Thu, 08 Dec 2022 08:40:03 GMT</pubDate>
+            <title><![CDATA[【第十七届海峡两岸林博会开幕，现场签约项目总投资27亿元】12月8日，第十七届海峡两岸（三明）林业博览会暨投资贸易洽谈会（在福建三明下洋会展中心开幕。在开幕式现场，还举行了项目签约仪式，明溪延寿山森林康养基地建设、通泰生物科技院士工作站等11个项目集中签约，总投资27.69亿元。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9021211.d.html</link>
+            <guid>2897585</guid>
+            <pubDate>Thu, 08 Dec 2022 10:58:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[长城汽车：11月销量合计87,560台，同比下降28.53%；1-11月销量合计990,081台，同比下降11.49%。11月新能源车销售12,863台，1-11月累计销售120,733台。]]></title>
-            <guid>2897390</guid>
-            <pubDate>Thu, 08 Dec 2022 08:37:32 GMT</pubDate>
+            <title><![CDATA[大名城：拟定增募资不超过30亿元，用于5个地块项目及补充流动资金；拟面向专业投资者公开发行不超过20亿元公司债券。]]></title>
+            <guid>2897583</guid>
+            <pubDate>Thu, 08 Dec 2022 10:55:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  共同药业：经过自查，公司生产的产品双降醇（BA）虽然向下游可生产产品熊去氧胆酸，但是公司尚未获取生产熊去氧胆酸的许可文件，也未进行商业化生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7466701.d.html</link>
-            <guid>2897389</guid>
-            <pubDate>Thu, 08 Dec 2022 08:35:21 GMT</pubDate>
+            <title><![CDATA[  【鸿海5亿美元增资印度孙公司 或为iPhone 14扩产】鸿海今天公告透过子公司增资印度当地孙公司5亿美元，这或是鸿海集团在印度清奈厂区扩充生产iPhone 14产线所需资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7484488.d.html</link>
+            <guid>2897582</guid>
+            <pubDate>Thu, 08 Dec 2022 10:53:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【同仁堂：拟不超1.9亿元取得京宜生物51%股权】同仁堂12月8日晚间公告，公司拟与湖北楚园春酒业有限公司、远安县栖凤生态产业发展基金有限公司、湖北京宜生物科技有限公司签署投资协议。京宜生物主营业务定位为生产、销售药酒、白酒、配制酒，未来向公司供应白酒基酒、黄酒等战略资源。公司预计向京宜生物投资不超1.9亿元，取得京宜生物51%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7466507.d.html</link>
-            <guid>2897387</guid>
-            <pubDate>Thu, 08 Dec 2022 08:33:46 GMT</pubDate>
+            <title><![CDATA[天合光能：公司与通合新能源（金堂）有限公司及通威太阳能有限公司签订单晶PERC电池片长单采购合同。合作期限自2023年1月1日起至2023年12月31日止。预计2023年采购金额合计为139.70亿元（含税）。]]></title>
+            <guid>2897581</guid>
+            <pubDate>Thu, 08 Dec 2022 10:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：中国零售平台多点或通过香港IPO筹资约1亿-2亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7466332.d.html</link>
-            <guid>2897385</guid>
-            <pubDate>Thu, 08 Dec 2022 08:32:13 GMT</pubDate>
+            <title><![CDATA[【东威科技：与胜利精密签订战略合作框架协议】东威科技公告，公司与胜利精密签订《战略合作框架协议》，对“新型高速高效水平夹持式复合铜箔电镀设备”进行开发合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7484385.d.html</link>
+            <guid>2897580</guid>
+            <pubDate>Thu, 08 Dec 2022 10:52:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【印度公布300亿美元的清洁能源电网升级计划】印度公布了一项耗资2.44万亿卢比的计划，旨在建设输电线路以连接可再生能源发电，其目标是到2030年将其清洁能源容量增加近两倍。电力部在一份声明中表示，该项目将把位于拉贾斯坦邦和古吉拉特邦太阳能发电厂以及泰米尔纳德邦的风电场连接到国家网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9002666.d.html</link>
-            <guid>2897384</guid>
-            <pubDate>Thu, 08 Dec 2022 08:31:58 GMT</pubDate>
+            <title><![CDATA[【巨人网络：12月16日，《太空行动》登陆国服】据巨人网络官微，巨人网络旗下太空狼人杀手游《太空行动》（Super Sus）今日宣布将于12月16日登陆国服，游戏官方网站现已同步上线。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9020136.d.html</link>
+            <guid>2897579</guid>
+            <pubDate>Thu, 08 Dec 2022 10:48:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安通控股：拟与中联航运和中联香港解除联营协议】安通控股12月8日晚间公告，基于国际航运市场发生重大变化，公司拟与中联航运股份有限公司（简称“中联航运”）和中联航运（香港）有限公司(简称“中联香港”）解除《联营外贸航线战略合作协议》，并协商草拟《和解协议》。如和解协议完成签订且顺利履行，联营协议将终止，可能导致未来公司外贸相关物流业务收入及利润减少，但不会对公司主营业务内贸集装箱物流服务造成重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7466058.d.html</link>
-            <guid>2897382</guid>
-            <pubDate>Thu, 08 Dec 2022 08:30:26 GMT</pubDate>
+            <title><![CDATA[  【韩国晶圆代工厂产能利用率降幅超出预期 部分厂商明年开工率或仅有50%】业内人士指出，Q4韩国第二大晶圆代工厂DB HiTek产能利用率已降至80%，Q3平均产能利用率则为95%。Key Foundry、Magna Chip、SK海力士System IC等代工厂产能利用率也仅有70%-80%。随着韩国晶圆代工厂产能利用率降幅超出预期，甚至有悲观预测称，部分公司明年开工率或仅有50%-60%水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483911.d.html</link>
+            <guid>2897578</guid>
+            <pubDate>Thu, 08 Dec 2022 10:48:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【康宁：84%消费者买手机认为耐用性是重要考虑，仅次于品牌】12月8日，玻璃供应商康宁公司的调查显示：在中国、印度和美国这三个全球最大的智能手机市场中，84%的消费者认为耐用性是他们购买手机时最重要的考虑因素之一，仅次于手机的品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7466000.d.html</link>
-            <guid>2897381</guid>
-            <pubDate>Thu, 08 Dec 2022 08:30:06 GMT</pubDate>
+            <title><![CDATA[  【华力创通：以7600万元认购并参与发起设立电子元器件和集成电路国际交易中心股份有限公司】华力创通公告，以自有资金7600万元认购并参与发起设立电子元器件和集成电路国际交易中心股份有限公司，持有其3.57%的股权。]]></title>
+            <guid>2897577</guid>
+            <pubDate>Thu, 08 Dec 2022 10:47:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[长春高新：控股子公司注射用醋酸西曲瑞克获得《药品注册证书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7465922.d.html</link>
-            <guid>2897379</guid>
-            <pubDate>Thu, 08 Dec 2022 08:29:14 GMT</pubDate>
+            <title><![CDATA[【最新研究：奥密克戎变异株免疫逃避能力增强，挑战单克隆抗体治疗】当地时间2022年12月7日，日本东京大学科学家Masaki Imai等人在《新英格兰医学杂志》发表文章《Efficacy of Antiviral Agents against Omicron Subvariants BQ.1.1 and XBB》称，奥密克戎亚谱系 BQ.1.1 （BQ.1亚谱系中的一株，记作BQ.1*）和 XBB 的免疫逃避能力大于早期的奥密克戎变体。奥密克戎变异株的持续进化加强了针对Covid-19（新型冠状病毒肺炎）新型单克隆抗体治疗的需求。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9019999.d.html</link>
+            <guid>2897576</guid>
+            <pubDate>Thu, 08 Dec 2022 10:47:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方证券徐海宁：通过基金投顾服务，客户呈现明显的逆势交易倾向】东方证券副总裁徐海宁表示，东方证券基金投顾实践一周年的经验表明，通过投顾服务，客户呈现明显的逆势交易倾向。在市场底部权益类投顾组合的申购量明显上涨、赎回量明显下降、净申购量达到峰值。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9002168.d.html</link>
-            <guid>2897376</guid>
-            <pubDate>Thu, 08 Dec 2022 08:28:18 GMT</pubDate>
+            <title><![CDATA[  【国氢科技B轮融资45亿元 投后估值超百亿】国家电投集团氢能科技发展有限公司完成45亿元B轮融资，成为国内氢能行业迄今为止单轮融资规模最大的股权融资。至此，国氢科技融后估值达130亿元，为国内氢能行业目前估值最高的独角兽企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483645.d.html</link>
+            <guid>2897574</guid>
+            <pubDate>Thu, 08 Dec 2022 10:45:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  元祖股份：股东兰馨成长拟减持不超过480万股，即不超过公司总股本的2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7465763.d.html</link>
-            <guid>2897375</guid>
-            <pubDate>Thu, 08 Dec 2022 08:27:57 GMT</pubDate>
+            <title><![CDATA[  【国盾量子：签署量子密话业务服务协议】国盾量子公告，预计将与中电信量子发生关联交易，签署壹份《量子密话业务服务协议》，双方约定，根据密话业务用户量，国盾量子收取2.76元/户/月（含税）的服务费用，合作期限一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9019772.d.html</link>
+            <guid>2897573</guid>
+            <pubDate>Thu, 08 Dec 2022 10:45:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一汽解放：前11月销量16万辆 同比下降61.33%】一汽解放12月8日晚间披露11月份产销快报，11月销量为12252辆；本年累计销量为160043辆，同比下降61.33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9001940.d.html</link>
-            <guid>2897373</guid>
-            <pubDate>Thu, 08 Dec 2022 08:26:30 GMT</pubDate>
+            <title><![CDATA[德国副总理兼经济部长哈贝克：预计今冬能源不会短缺，今年冬季将有足够的天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483500.d.html</link>
+            <guid>2897572</guid>
+            <pubDate>Thu, 08 Dec 2022 10:44:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美银美林将易捷航空公司评级从买进下调至落后大盘，目标价3.40英镑。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7465362.d.html</link>
-            <guid>2897372</guid>
-            <pubDate>Thu, 08 Dec 2022 08:24:45 GMT</pubDate>
+            <title><![CDATA[据深圳发布，今天18：45深圳将举行新闻发布会，介绍“稳增长促消费”政策措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9019689.d.html</link>
+            <guid>2897571</guid>
+            <pubDate>Thu, 08 Dec 2022 10:44:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【空客预计2023年和2024年宽体机需求将增长】空中客车公司首席执行官纪尧姆福里周四表示，2023年和2024年将是宽体喷气机需求积极增长的年份。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7464696.d.html</link>
-            <guid>2897371</guid>
-            <pubDate>Thu, 08 Dec 2022 08:20:15 GMT</pubDate>
+            <title><![CDATA[  招商港口：受让安通控股4.12%股份，合计受让金额6.44亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483474.d.html</link>
+            <guid>2897570</guid>
+            <pubDate>Thu, 08 Dec 2022 10:43:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【罗氏阿尔茨海默氏症检测试剂盒获美国FDA批准】罗氏宣布其Elecsys β-Amyloid (1-42)和Elecsys Phospho-Tau (181P) CSF检测试剂盒已获得美国食品和药物管理局(FDA) 510(k)批准。这是2款体外诊断免疫检测试剂盒，用于正在被评估阿尔茨海默氏症(AD)或其他原因痴呆且存在认知损害的55岁及以上的成人患者，检测脑脊液(CSF)中的β-淀粉样蛋白(1-42)和磷酸化Tau蛋白的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7464471.d.html</link>
-            <guid>2897368</guid>
-            <pubDate>Thu, 08 Dec 2022 08:18:28 GMT</pubDate>
+            <title><![CDATA[【棒杰股份：拟26亿元进军光伏项目】棒杰股份公告，公司借助战略股东光伏产业领域的丰富经验，投资设立全资子公司棒杰新能源布局光伏产业，从而形成“无缝服装+光伏”双主业的业务结构。董事会同意公司与扬州经济技术开发区管委会签署《高效光伏电池项目投资协议》，投资建设年产10GW高效光伏电池片项目，计划总投资约26亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483444.d.html</link>
+            <guid>2897569</guid>
+            <pubDate>Thu, 08 Dec 2022 10:43:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【晶科能源：启动楚雄晶科N型高效电池项目】从晶科能源获悉，晶科能源（楚雄）有限公司日前召开楚雄晶科N型高效电池项目启动大会。据公司此前三季报披露，公司N型TOPCon电池产能一期16GW已实现满产，二期19GW已开始建设，量产转化效率已达25%以上。公司表示，此次规划的产能将进一步巩固公司在N型领域领先地位。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7463913.d.html</link>
-            <guid>2897365</guid>
-            <pubDate>Thu, 08 Dec 2022 08:13:56 GMT</pubDate>
+            <title><![CDATA[  华侨城A：前海人寿及其一致行动人钜盛华拟减持不超过2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7483300.d.html</link>
+            <guid>2897568</guid>
+            <pubDate>Thu, 08 Dec 2022 10:42:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新产业：近日获得5项医疗器械注册证】新产业12月8日晚间公告，近日，公司收到广东省药监局颁发的5项《医疗器械注册证》。以上试剂新产品医疗器械注册证的取得，丰富了公司化学发光检测产品中“胃功能”、“高血压”、“贫血”、“肝纤维化”和“生长发育”项目类别。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7463739.d.html</link>
-            <guid>2897363</guid>
-            <pubDate>Thu, 08 Dec 2022 08:12:37 GMT</pubDate>
+            <title><![CDATA[迪马股份：拟向不超过35名特定投资者非公开发行股票，募集资金拟用于公司“保交楼、保民生”相关的房地产项目开发、以及符合上市公司再融资政策要求的补充流动资金和偿还债务等。]]></title>
+            <guid>2897567</guid>
+            <pubDate>Thu, 08 Dec 2022 10:40:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧股开盘普涨】欧股开盘普涨，德国DAX30指数开盘上涨0.11%，英国富时100指数上涨0.13%，法国CAC40指数涨幅0.19%，欧洲斯托克50指数开盘上涨0.04%，西班牙IBEX35指数开盘上涨0.08%，意大利富时MIB指数开盘上涨0.11%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8999801.d.html</link>
-            <guid>2897359</guid>
-            <pubDate>Thu, 08 Dec 2022 08:10:40 GMT</pubDate>
+            <title><![CDATA[【日本10月经常项目逆差达641亿日元】日本财务省8日公布的10月国际收支初值显示，反映日本与海外货物、服务和投资交易情况的经常项目为逆差641亿日元（约合人民币33亿元），时隔8个月出现逆差。日元贬值势头和原油价格高涨导致进口额大增，贸易收支恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9019010.d.html</link>
+            <guid>2897565</guid>
+            <pubDate>Thu, 08 Dec 2022 10:38:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日丰股份：子公司超级液冷枪通过检测 具备批量市场化条件】日丰股份12月8日晚间公告，公司控股子公司艾姆倍自主研发的产品——液态充电枪(包含液冷装置系统)，已完成研制及内测实验，并通过第三方专业机构检测，核心指标测试结果均符合预期设计要求，具备批量市场化条件。此次送检的超级液冷枪规格是600A/1500V，功率可达900KW。目前艾姆倍经过测试的液冷充电枪，以及即将推出的1000A更高的大功率充电枪，为新能源汽车超级快充的开发及运营提供了更优的充电解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7463109.d.html</link>
-            <guid>2897357</guid>
-            <pubDate>Thu, 08 Dec 2022 08:09:15 GMT</pubDate>
+            <title><![CDATA[土耳其央行要求银行不要在早盘交易中购买外汇。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7482694.d.html</link>
+            <guid>2897563</guid>
+            <pubDate>Thu, 08 Dec 2022 10:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以岭药业主力资金净流出19.16亿元，净流出额创历史新高】Wind数据显示，截至12月8日收盘，以岭药业主力资金净流出19.16亿元，净流出额创历史新高。日内净流出额在沪深两市中排名第1，占当日成交金额的14.54%，占流通市值的比例为2.69%，近5日主力资金累计净流出17.5亿元，近30日累计净流出72.99亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7463014.d.html</link>
-            <guid>2897356</guid>
-            <pubDate>Thu, 08 Dec 2022 08:08:32 GMT</pubDate>
+            <title><![CDATA[土耳其央行：将监控商业银行的外汇交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7482672.d.html</link>
+            <guid>2897562</guid>
+            <pubDate>Thu, 08 Dec 2022 10:37:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科拓生物回应尾盘竞价“20cm”跌停：具体原因不清楚，可能是乌龙指，公司生产经营一切正常】据21财经，科拓生物今日尾盘竞价“20cm”跌停，竞价成交额224.9万元，全天成交4500万元。记者以投资人身份联系了科拓生物，对于尾盘竞价跌停，相关人士表示，这个情况公司也关注到了，我们怀疑是股东挂错单，但具体原因我们也不清楚。同时，该人士称，公司目前生产经营一切正常，无应披露而未披露的重大信息。]]></title>
-            <guid>2897355</guid>
-            <pubDate>Thu, 08 Dec 2022 08:07:59 GMT</pubDate>
+            <title><![CDATA[乌兹别克斯坦官员称，乌兹别克斯坦停止了所有天然气出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9018750.d.html</link>
+            <guid>2897560</guid>
+            <pubDate>Thu, 08 Dec 2022 10:35:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【专家：用药不要用太多 合理使用】据澎湃新闻，北京大学第一医院感染疾病科主任王贵强介绍，居家观察和治疗，一方面要定期测体温，观察自己的各种症状，同时如果出现发热、咳嗽等等症状，可以对症用一些药，不要囤药，一般的感冒药和镇痛药就可以，按照说明书使用，也可以通过互联网咨询医生使用。镇痛药很多药名不一样，但是作用是一样的，不要混用，有些药吃多了会造成一系列不良反应，大家用药不要用太多。抗菌药我们强调合理使用，不能滥用，一定要在医生指导下来使用，抗菌药的使用也容易出现菌群失调，二重感染的风险。基础病人群的基础用药也需要保证，很多基础病老人居家的时候也要继续用药不能断药。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8998565.d.html</link>
-            <guid>2897344</guid>
-            <pubDate>Thu, 08 Dec 2022 08:01:44 GMT</pubDate>
+            <title><![CDATA[【上海：加强“行刑衔接”，依法打击“代理退保”黑产】 上海银保监局联合上海市地方金融监管局、上海市高级人民法院、上海市人民检察院、上海市公安局和上海市市场监管局发布《关于依法打击保险领域代理投诉举报黑产 优化营商环境的通告》，明确提出开展联合整治，优化营商环境，依法打击人身险领域不良代理组织或个人的违法违规活动。《通告》称，保险消费者应正确认识保险产品特性，根据自身风险保障需求，加强与保险公司的沟通，严防“退保黑产”诱惑，谨慎衡量是否有必要终止保险合同。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7482012.d.html</link>
+            <guid>2897558</guid>
+            <pubDate>Thu, 08 Dec 2022 10:30:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【利通电子：董事及实控人之一邵秋萍拟减持不超1.19%股份】利通电子公告，董事及实际控制人之一邵秋萍计划通过大宗交易方式减持不超过1.1868%，本次减持价格不得低于每股13.32元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7461629.d.html</link>
-            <guid>2897340</guid>
-            <pubDate>Thu, 08 Dec 2022 07:58:51 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：汤加Hihifo东北140公里处发生5.1级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7481959.d.html</link>
+            <guid>2897557</guid>
+            <pubDate>Thu, 08 Dec 2022 10:30:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家卫健委：要求医疗机构发热门诊必须“应设尽设、应开尽开”】国家卫生健康委医疗应急司司长郭燕红在国务院联防联控机制新闻发布会上强调，在秋冬季节，呼吸道传染病比较多，包括流感等，很多都有发热症状。所以我们要求医疗机构发热门诊必须“应设尽设、应开尽开”，同时要公开电话、地址，方便老百姓能够就近到发热门诊进行就诊。同时也要求发热门诊要扩大接诊空间，配齐医护力量、提升接诊能力，不能够随意关停，保证诊疗工作能够平稳有序地开展，更好地维护人民群众的健康。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp8997163.d.html</link>
-            <guid>2897335</guid>
-            <pubDate>Thu, 08 Dec 2022 07:51:05 GMT</pubDate>
+            <title><![CDATA[【南京二套房首付再下调？部分银行：正在研究】 12月7日午间，有多位中介人士和买房人向记者反映，南京二套房的首付比例再次调整，贷款未还清购买二套房的，首付比例由六成降至四成。针对此传闻，有银行人士接受记者采访时表示“正在研究”。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9017707.d.html</link>
+            <guid>2897554</guid>
+            <pubDate>Thu, 08 Dec 2022 10:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【吉林化纤：1.2万吨碳纤维复材项目第二条碳化线开车】吉林化纤公告，公司1.2万吨碳纤维复材项目第二条碳化线一次开车成功，该条碳化线是公司2021年非公开发行股票募投项目之一，目前，该募投项目的所有在建碳化装置投产已过半。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9017651.d.html</link>
+            <guid>2897553</guid>
+            <pubDate>Thu, 08 Dec 2022 10:25:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四大城市群聚集全国过半专精特新企业、超6成灯塔工厂】记者今日在大湾区科学论坛湾区科创峰会现场获悉，中国（深圳）综合开发研究院发布的《共享创新指数研究报告》显示，以科创为特色的专精特新企业已成为长三角、京津冀、大湾区和成渝四大城市群产业高质量发展的重要体现，目前四大城市群共有专精特新企业4980家，占全国专精特新企业的50.2%，与此同时，中国内地有超6成的灯塔工厂也聚集于此。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9017537.d.html</link>
+            <guid>2897551</guid>
+            <pubDate>Thu, 08 Dec 2022 10:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【樊纲：数字科技企业也是实体经济的重要组成部分】今日举行的大湾区科学论坛湾区科创峰会上，中国（深圳）综合开发研究院院长樊纲表示，制造业要想真正高质量发展，必须直面数字化转型挑战；华为、腾讯等数字科技企业为制造业提供数字化服务，也是实体经济的重要组成部分。樊纲指出，“要发展⾼新科技产业，⾸先就要积极发挥⼤企业的引领作用。我们的⼤企业不是太多，⽽是太少。我们应该认识到大企业的战略价值，使有竞争⼒的⼤企业不断涌现，使市场的竞争与合作不断扩展。”（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9017461.d.html</link>
+            <guid>2897548</guid>
+            <pubDate>Thu, 08 Dec 2022 10:23:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海南发展：子公司所在联合体收到1.2亿元莺歌唱晚驿站项目一期工程EPC中标通知书】海南发展12月8日公告，近日，公司控股子公司深圳市三鑫科技发展有限公司所在联合体收到旅游驿站发出的莺歌唱晚驿站项目（一期）工程总承包（EPC）《中标通知书》。本项目联合体中标金额1.2亿元，其中，三鑫科技负责土方工程、建筑工程、室内外装饰装修工程、安装工程、园林景观施工工作，三鑫科技在本项目承接工程金额约9278.88万元，具体金额以后续实际签订的合同为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7481121.d.html</link>
+            <guid>2897547</guid>
+            <pubDate>Thu, 08 Dec 2022 10:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【DSCC：国内面板厂商在全球OLED产能中的占比预计将在2024年达到40%左右】据市场研究机构DSCC近期预测，国内面板厂商在全球OLED产能中的占比预计仅从今年年初的40%小幅上升，至2027年预计再回到40%。展望未来，国内企业的份额预计将在2024年达到40%左右，2026年再次下降至40%左右，并在2027年反弹至40%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9017217.d.html</link>
+            <guid>2897545</guid>
+            <pubDate>Thu, 08 Dec 2022 10:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国内政大臣：边境罢工可能导致延误，不准备在安全问题上妥协。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7480859.d.html</link>
+            <guid>2897544</guid>
+            <pubDate>Thu, 08 Dec 2022 10:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前沿生物：与鱼跃医疗达成战略合作并签署《战略合作协议》】前沿生物公告，与鱼跃医疗达成战略合作并签署《战略合作协议》，双方就公司在研新药雾化吸入用FB2001在临床试验阶段所需的雾化吸入装置的供应、服务保障，以及双方在生命科学领域进一步开展药械合作等事宜，达成战略合作意向。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9016789.d.html</link>
+            <guid>2897543</guid>
+            <pubDate>Thu, 08 Dec 2022 10:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【嘉必优：控股股东、实控人自愿延长限售股锁定期】嘉必优(688089)12月8日晚间公告，基于对公司价值的认可和未来发展的信心，公司控股股东武汉烯王生物工程有限公司及实控人易德伟承诺自愿将所持公司首发前限售股锁定期自期满之日起延长6个月至2023年6月17日。此次延长锁定期的限售股数量为5476.53万股，占公司总股本的45.64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9016701.d.html</link>
+            <guid>2897542</guid>
+            <pubDate>Thu, 08 Dec 2022 10:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绿城房地产：公司关联方目前首期累计购买公司债券近1.2亿元】 绿城房地产集团有限公司公告，公司之关联方宁波绿城浙凡置业有限公司将按照交易场所交易规则，以市场化方式在二级市场购买本公司发行的公司债券及资产支持证券，首期规模介于人民币5亿元-20亿元之间。截至本公告出具日，公司之关联方购买债券为18绿城07、20绿城01、20绿城03、20绿城04、20绿城07、21绿城01、22绿城01、绿城22优，合计121.7万张，累计购买金额11,901万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7480446.d.html</link>
+            <guid>2897541</guid>
+            <pubDate>Thu, 08 Dec 2022 10:16:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首届滴水湖新兴金融大会召开：赋能实体经济、推动开放创新】 首届滴水湖新兴金融大会在位于临港新片区滴水湖畔的世界顶尖科学家论坛永久会场（临港中心）召开。上海市委常委、临港新片区党工委书记、管委会主任陈金山在致辞中表示，临港新片区召开首届滴水湖新兴金融大会，共同探讨“在社会主义现代化建设新征程中，新兴金融赋能实体经济、推动开放创新的新作用和新作为”，为进一步构建金融服务新生态，促进区域经济高质量发展贡献临港智慧、打造示范样板。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7480350.d.html</link>
+            <guid>2897540</guid>
+            <pubDate>Thu, 08 Dec 2022 10:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华夏幸福：下属全资子公司拟向大厂回族自治县国宏运营管理有限公司转让四项资产】华夏幸福公告，下属全资子公司拟向大厂回族自治县国宏运营管理有限公司转让四项资产，总价款合计为6.93亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7480258.d.html</link>
+            <guid>2897539</guid>
+            <pubDate>Thu, 08 Dec 2022 10:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国气候变化事务特使解振华：全球绿色低碳转型大趋势不可逆】 “此次能源危机让欧洲国家认识到，可再生能源更加安全、更为独立。《巴黎协定》确定的全球绿色低碳转型大趋势不可逆转。”在12月8日上午举办的“‘双碳’战略与绿色发展——2022上海公共关系国际论坛”上，中国气候变化事务特使解振华做了《推动绿色低碳转型创新，凝聚全球气候治理合力》的主旨演讲中，在演讲中，解振华作出如上表示。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9016312.d.html</link>
+            <guid>2897537</guid>
+            <pubDate>Thu, 08 Dec 2022 10:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【索尼集团拟重组研发体系 加大AI等重点领域投入】索尼集团日前宣布，将重组研发体系。从2023财年起，部分集团研发职能将转移至电气和半导体业务公司，总部将专注于人工智能（AI）和虚拟现实等尖端技术。高级常务董事兼CTO Hiroaki Kitano表示，目前属于索尼集团研发机构R&D Center的电气和半导体相关人员和职能将转移到各运营分支。将要调动的人员数量未公开，但“将是一个合理的数字”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9016208.d.html</link>
+            <guid>2897536</guid>
+            <pubDate>Thu, 08 Dec 2022 10:12:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：Q3晶圆代工十大厂商产值环比增长6% Q4产业将结束逐季成长趋势】研究机构TrendForce日前发布今年第三季度晶圆代工行业统计数据，Q3前十大晶圆代工厂商产值达到352.1亿美元，环比增长6%。不过，由于宏观经济环境拖累，导致下半年旺季不旺，客户对晶圆代工厂订单修正幅度加深，TrendForce预期，四季度营收将因此下跌，正式结束过去两年晶圆代工产业逐季成长的盛况。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqmmthc7479922.d.html</link>
+            <guid>2897535</guid>
+            <pubDate>Thu, 08 Dec 2022 10:12:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大秦铁路：拟与国铁集团续签综合服务框架协议】大秦铁路(601006)12月8日晚间公告，公司拟与中国国家铁路集团有限公司（简称“国铁集团”）续签《综合服务框架协议》，履行期三年，自2023年至2025年。各年度综合服务费用金额上限分别为：2023年度金额上限总计为481亿元，2024年度金额上限总计为494.07亿元，2025年度金额上限总计为507.87亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-08/detail-imqqsmrp9016116.d.html</link>
+            <guid>2897534</guid>
+            <pubDate>Thu, 08 Dec 2022 10:11:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
