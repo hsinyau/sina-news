@@ -4,11 +4,134 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 13 Dec 2022 18:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 21:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[莫德纳（MRNA）收涨19.63%，创最近一年最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqtfi6281612.d.html</link>
+            <guid>2903627</guid>
+            <pubDate>Tue, 13 Dec 2022 21:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：如果所有罪名成立，FTX创始人SBF将面临最高115年的监禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqtff9502109.d.html</link>
+            <guid>2903623</guid>
+            <pubDate>Tue, 13 Dec 2022 20:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【对俄制裁遭反噬，德国能源危机难解】当前在俄乌冲突的大背景下，能源价格居高不下。近日，德国能源专家亚历山大·拉尔表示，高度依赖俄罗斯天然气的德国企业目前情况不容乐观，而且对俄制裁的反噬作用将使德国的能源处境更加严峻。因为德国乃至欧洲的企业，没有办法生产足够电力以及获得足够的能源，来维持原有的产能水平，工业可能会出现全面崩盘。为了避免破产或者裁员，一些原本从俄罗斯购买天然气的企业，被德国政府国有化，但政府的资金也不是无穷无尽的。在制裁的反噬作用下，欧洲的能源危机将进一步加剧；反而是美国坐收渔翁之利。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqtff9483969.d.html</link>
+            <guid>2903621</guid>
+            <pubDate>Tue, 13 Dec 2022 20:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[当地时间14日7时30分，斐济大选投票正式开始。此次投票将从343名候选人中选举出55名议员，并确定新一任总理。（央视）]]></title>
+            <guid>2903619</guid>
+            <pubDate>Tue, 13 Dec 2022 20:25:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  市场消息：FTX创始人SBF的律师要求以25万美元的保释金对其进行保释。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6369002.d.html</link>
+            <guid>2903618</guid>
+            <pubDate>Tue, 13 Dec 2022 20:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部副部长Adeyemo被看好成为拜登的下一个高级经济助手。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6368817.d.html</link>
+            <guid>2903617</guid>
+            <pubDate>Tue, 13 Dec 2022 20:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  摩根士丹利：将F5网络(FFIV.O)目标价由170美元上调至190美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6346147.d.html</link>
+            <guid>2903615</guid>
+            <pubDate>Tue, 13 Dec 2022 19:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国中部遭龙卷风袭击，多地航班延误电力中断房屋受损】据报道，破坏性龙卷风正在席卷美国中部地区，已造成得克萨斯州北部至少7人受伤，另有建筑物受损。该州达拉斯-沃思堡国际机场数百个航班延误。此外，龙卷风还导致俄克拉何马州多地电力中断，房屋受损。报道称，从得克萨斯州到密西西比州，约有2100万人受到包括龙卷风在内的强风暴的威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxi9557542.d.html</link>
+            <guid>2903613</guid>
+            <pubDate>Tue, 13 Dec 2022 19:29:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【股权遭转让、高管频变更，部分中小基金公司生存难】近年来，公募行业进入快速发展期，但对于不少中小公募基金公司而言，热闹是别人的，自己则是诸多“烦心事”缠身。从整体来看，部分中小基金公司发展过程中面临三大痛点：原始资本金不够“烧”、股权遭小股东转让、核心管理层不稳定。在业内人士看来，优胜劣汰是公募行业未来的发展趋势，中小基金公司要生存必须要特色化经营。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6329887.d.html</link>
+            <guid>2903611</guid>
+            <pubDate>Tue, 13 Dec 2022 19:24:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【相关条款未谈拢，12月多家公司并购重组告吹】12月13日晚，电连技术、东方集团双双宣布，终止此前推进的并购事宜。据记者不完全统计，12月以来，已有近10家上市公司主动叫停了前期的并购计划，终止原因多与前期工作进度缓慢、收购条款未能达成一致有关。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6329320.d.html</link>
+            <guid>2903609</guid>
+            <pubDate>Tue, 13 Dec 2022 19:23:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  苹果将在欧盟法律的推动下允许外部/替代性的APP Stores在其iphone和iPad设备上运行。]]></title>
+            <guid>2903605</guid>
+            <pubDate>Tue, 13 Dec 2022 19:05:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【天能股份筹划瑞士交易所上市，A股再现瑞交所上市“小高峰”】12月13日晚天能股份公告，拟筹划境外发行全球存托凭证（GDR）并在瑞士证券交易所上市。随着天能股份此次筹划发行，近期赴瑞交所上市的企业迎来“小高峰”。据不完全统计，近一个月以来，已有中控技术、牧原股份、东威科技、天赐材料、三花智控、鱼跃医疗、赤峰黄金、密尔克卫等公司公告，筹划发行GDR并在瑞交所上市。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6312569.d.html</link>
+            <guid>2903604</guid>
+            <pubDate>Tue, 13 Dec 2022 19:04:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【北交所发行审核加速，多家公司调整发行价】北交所新股发行呈现加速之势，12月以来已有9只新股上市，同时，本周还有5只新股上市，12月将成为全年上市新股数量最高的月份。开源证券北交所研究中心总经理诸海滨表示，北交所融资排队时间较短，确定性较强，北交所实施一体化“流程再造”，建立挂牌、上市直联审核机制，更适合处于关键成长期的“小巨人”企业。近期，北交所市场出现了新股破发的情况，诸海滨指出，随着发行量快速提升，新股上市后短期有一定承压。多家已经成功“闯关”北交所的公司，在过会前后调整了公开发行方案，普遍为下调发行底价。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxi9528583.d.html</link>
+            <guid>2903603</guid>
+            <pubDate>Tue, 13 Dec 2022 18:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【房企“内保外贷”落地受关注，有望修复海外融资通道】继龙湖集团此前官宣获得中国银行7亿元规模的“内保外贷”之后，日前又有消息称，中国工商银行拟为碧桂园提供“内保外贷”业务，贷款规模初定为3亿美元，具体金额还有待最后落定。在中指研究院企业事业部研究负责人刘水看来，内保外贷有利于修复房企海外融资通道。“房企海外债偿还压力较大，2023年一季度，房企待偿海外债规模超过1000亿元。内保外贷帮助房企融资，能够促进海外投资者恢复投资信心，改善房企海外融资环境。（证券时报·e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6301420.d.html</link>
+            <guid>2903602</guid>
+            <pubDate>Tue, 13 Dec 2022 18:51:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧盟能源事务专员Simson：我们围绕天然气价格上限问题在技术层面取得进展。我们在价格上限机制的许多方面存在共识。今天（12月13日），看到大家都有意愿找到一个妥协性的方案。]]></title>
+            <guid>2903601</guid>
+            <pubDate>Tue, 13 Dec 2022 18:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【美国CPI发布前一分钟内美债买盘暴增 劳工统计局：未听闻数据泄露】在周二美国官方CPI报告发布前几十秒，美国国债买盘暴增，对此美国劳工统计局称，未听闻数据被提前泄露。报道称，在数据公布前60秒内，明年3月到期的10年期美债期货成交量达13518，在数据正式公布前收益率已下跌。美国劳动统计局发言人对此表示，虽然该机构不知晓任何数据提前公布的情况，但根据联邦指引，一些政府官员确实能够提前拿到数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6289311.d.html</link>
+            <guid>2903600</guid>
+            <pubDate>Tue, 13 Dec 2022 18:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【各地加速布局数据交易平台建设，抢占数字化转型市场先机】12月12日，在首届全球数字贸易博览会之江数字贸易论坛上，杭州国际数字交易中心正式揭牌。事实上，各地近年在加速布局数据化平台建设，北上广深等地均已成立数据交易所。无锡数字经济研究院执行院长吴琦表示：“数据交易所旨在通过数据的交易流通，实现数据的资产化和资本化，在促进数据产业发展、挖掘数据价值的同时，带动城市和城市群的数字化转型。”随着越来越多的数据交易所成立，数据要素市场顶层设计和市场体系逐步完善，数据确权、定价、交易等基础制度将逐步健全。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxi9502977.d.html</link>
+            <guid>2903595</guid>
+            <pubDate>Tue, 13 Dec 2022 18:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  贝雅：将Rivian(RIVN.O)的目标价由51美元下调至44美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6279974.d.html</link>
+            <guid>2903594</guid>
+            <pubDate>Tue, 13 Dec 2022 18:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美联储在固定利率逆回购操作中总计接纳了98个对手方的2.181万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxi9502541.d.html</link>
+            <guid>2903593</guid>
+            <pubDate>Tue, 13 Dec 2022 18:23:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【年内14名独立董事被处罚，专家建议完善激励约束相容机制】12月13日，*ST海核公告称，公司独立董事因涉嫌内幕交易收到证监会立案告知书，引发关注。根据上市公司收到的《行政处罚决定书》和《警示函》不完全统计，今年以来截至12月13日，共有14名独立董事因涉及未勤勉尽责、亲属短线交易等被警告并处以罚款。专家建议，完善独立董事的工作制度和追责制度，形成独立董事激励约束相容机制。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxi9502219.d.html</link>
+            <guid>2903591</guid>
+            <pubDate>Tue, 13 Dec 2022 18:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度与英国重启自贸协定谈判，双方期待达成协议】当地时间13日，印度工商部长皮尤什·戈亚尔与到访的英国国际贸易大臣凯米·巴德诺奇举行会晤。印度官方发布公告称，两国部长在会晤中讨论了正在进行的自由贸易协定，并重申对自贸协定谈判的承诺。双方表示相信协定将促进两国就业，并释放投资和出口的全部潜力。这次谈判是双方自7月以来的第一轮正式谈判，目标是达成一项削减关税的协议，并为英国的金融和法律等行业提供机会。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-14/detail-imxwqnxm6273934.d.html</link>
+            <guid>2903590</guid>
+            <pubDate>Tue, 13 Dec 2022 18:14:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  市场消息：欧盟国家考虑推迟对天然气价格上限水平的决定，欧盟天然气价格上限提议将价格水平上调至160-220欧元。]]></title>
             <guid>2903589</guid>
@@ -220,90 +343,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqaip9570730.d.html</link>
             <guid>2903528</guid>
             <pubDate>Tue, 13 Dec 2022 15:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非兰特兑美元上涨1.6%，南非国会议员们投票，反对关于弹劾Ramaphosa的调查。]]></title>
-            <guid>2903527</guid>
-            <pubDate>Tue, 13 Dec 2022 15:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  富国银行：将联邦快递(FDX.N)目标价从160美元上调至185美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6342123.d.html</link>
-            <guid>2903524</guid>
-            <pubDate>Tue, 13 Dec 2022 14:58:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  Moderna涨幅扩大至20%，创出3月14日以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqaip9563570.d.html</link>
-            <guid>2903523</guid>
-            <pubDate>Tue, 13 Dec 2022 14:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  嘉信理财（SCHW）美股盘初下跌3.7%，在标普500金融指数中表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6337092.d.html</link>
-            <guid>2903517</guid>
-            <pubDate>Tue, 13 Dec 2022 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日产预计不会在年底前与雷诺就重组联盟达成协议】据知情人士透露，日产汽车预计不会在年底前与最大股东雷诺就重组双方的联盟达成协议，因为这家日本汽车制造商的一些董事会成员希望谨慎行事，他们在技术转让上存在一些担忧。法国雷诺公司希望日产投资其计划分拆的一个新的电动汽车部门，这是其重大改革的一部分。据报道，日产此前要求雷诺将其在日产的持股比例从43%降至15%，以使两家汽车制造商持有对方公司相同的股份。据悉，双方已持续两个月的谈判仍在继续，现在看来可能会持续到新年。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6336195.d.html</link>
-            <guid>2903515</guid>
-            <pubDate>Tue, 13 Dec 2022 14:51:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【涉嫌“蹭热点”“炒概念”，逾60家A股公司被交易所关注或问询】据不完全统计，今年已有逾60家A股公司因涉嫌“蹭热点”“炒概念”被交易所关注或问询，其中部分公司已被采取监管措施，也有投资者因在“炒概念”过程中拉抬股价影响交易秩序等被采取监管措施。在业内人士看来，近期监管部门重典治乱，整治“炒概念”“蹭热点”痼疾正凝聚新合力，治理证券虚假信息乱象或上升至新高度，更加成熟、理性的市场新生态有望加快构建。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6335207.d.html</link>
-            <guid>2903514</guid>
-            <pubDate>Tue, 13 Dec 2022 14:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【首届欧盟-东盟全面峰会将于比利时召开】欧盟和东盟将于当地时间12月14日在比利时首都布鲁塞尔召开首次全面峰会。 本次峰会将由欧洲理事会主席米歇尔和东盟2022年轮值主席国柬埔寨首相洪森共同主持。 在本次峰会上，双方将重点就互联互通、清洁能源转型、贸易、数字化转型等方面进行交流。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6334908.d.html</link>
-            <guid>2903513</guid>
-            <pubDate>Tue, 13 Dec 2022 14:49:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【复宏汉霖与国药控股达成深化合作】12月9日，复宏汉霖(02696.HK)与国药控股(01099.HK)签署深化业务合作协议。根据协议，双方将继续在渠道拓展、营销管理、市场准入等领域开展广泛合作，并深度聚焦医药与保险领域的创新融合，共同探索商业健康险、药品创新支付体系和健康管理模式，打造商保支付环境下“医+药+险”生态圈，推动我国社会保障体系高质量、可持续发展。此外，复宏汉霖与国药控股还在物流仓储、原料采购及电子商务等方面达成战略共识，将携手多维度提升药物的可及性，助力多层次医疗保障制度的完善。（e公司）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqaip9555670.d.html</link>
-            <guid>2903511</guid>
-            <pubDate>Tue, 13 Dec 2022 14:47:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【私募年度业绩冲刺战打响！总体收益有所好转但分化仍明显】随着A股行情修复，私募年度业绩排位战进入白热化阶段。不过，受到年内股市波动影响，私募基金产品整体表现并不突出，业绩分化明显。根据私募排排网统计，截至11月末，有业绩更新的1635家股票策略私募今年以来平均收益为-9.84%，与截至10月末股票策略私募平均收益的-15.61%相比，11月以来的反弹行情使得股票策略产品年内整体平均收益明显收窄，且一部分私募已实现扭亏为盈。但今年仅剩不足一个月的时间里，各私募机构业绩会呈现怎样的变化，仍需持续关注。（经济观察报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqaip9553462.d.html</link>
-            <guid>2903508</guid>
-            <pubDate>Tue, 13 Dec 2022 14:45:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：FTX创始人SBF被控电信欺诈和共谋罪，此外还被控违反竞选财务规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-13/detail-imxwqair6330144.d.html</link>
-            <guid>2903507</guid>
-            <pubDate>Tue, 13 Dec 2022 14:44:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：12月13日22时25分在琉球群岛（北纬27.45度，东经129.60度）发生5.7级地震，震源深度10千米。]]></title>
-            <guid>2903505</guid>
-            <pubDate>Tue, 13 Dec 2022 14:42:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  欧盟委员会：美国的隐私保护措施是“适当的”，欧盟在拜登命令之后允许（推特和Facebook等社交媒体/科技公司的）用户数据继续输送到美国。]]></title>
-            <guid>2903503</guid>
-            <pubDate>Tue, 13 Dec 2022 14:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【云南铜业：拟64.24亿元投建西南铜业分公司搬迁项目】云南铜业12月13日晚公告称，公司拟在云南省昆明市安宁工业园区东兴东厂址迁建年产阴极铜55万吨生产线，建设主体为公司西南铜业分公司，项目总投资64.24亿元。项目建成后将具备年产阴极铜55万吨，以及硫酸140万吨、金锭11.28吨、银锭650吨的产能，同时生产其他有关副产品。（中证报）]]></title>
-            <guid>2903501</guid>
-            <pubDate>Tue, 13 Dec 2022 14:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  微软(MSFT.O)涨3.5%，微软同意授权竞争对手索尼以游戏订阅服务模式出售《使命召唤》游戏，以推动690亿美元收购动视暴雪的交易获批。]]></title>
-            <guid>2903500</guid>
-            <pubDate>Tue, 13 Dec 2022 14:34:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  甲骨文(ORCL.N)涨4.5%，2023财年Q2营收同比增长18%至122.75亿美元，净利润17.41亿美元，同比扭亏为盈。]]></title>
-            <guid>2903495</guid>
-            <pubDate>Tue, 13 Dec 2022 14:32:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
