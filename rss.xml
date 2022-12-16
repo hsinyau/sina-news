@@ -4,414 +4,150 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 16 Dec 2022 15:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 18:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[美国劳工统计局：“没有证据表明”CPI系统存在缺陷。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeai6791050.d.html</link>
+            <guid>2907356</guid>
+            <pubDate>Fri, 16 Dec 2022 18:05:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国劳工统计局：CPI的发布遵循所有正常程序。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeai6790945.d.html</link>
+            <guid>2907355</guid>
+            <pubDate>Fri, 16 Dec 2022 18:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊一英国仓库投票决定罢工】亚马逊位于英国考文垂仓库的员工将在新年举行罢工，因为不满足每小时50便士的加薪幅度。此前，超过98%的工人投票支持罢工，投票率超过63%。这是亚马逊英国仓库的工人首次投票决定罢工。GMB高级组织者Amanda Gearing称，“亚马逊有能力做得更好。现在避免罢工还为时不晚。亚马逊应该与GMB进行谈判，以改善工人的工资和条件。”]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeai6780554.d.html</link>
+            <guid>2907344</guid>
+            <pubDate>Fri, 16 Dec 2022 17:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚和菲利普斯66将获得180万桶战略石油储备（SPR）原油。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeai6775544.d.html</link>
+            <guid>2907340</guid>
+            <pubDate>Fri, 16 Dec 2022 17:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：亚马逊员工投票决定将在英国仓库举行罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeai6769945.d.html</link>
+            <guid>2907339</guid>
+            <pubDate>Fri, 16 Dec 2022 17:41:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莫高窟、鸣沙山、月牙泉门票半价！甘肃敦煌发布冬春旅游优惠政策】为助推文旅行业复工复产，12月15日，甘肃省敦煌市发布冬春旅游优惠政策，今冬明春，游客可以半价游览莫高窟、鸣沙山和月牙泉等景区。根据敦煌市发布的冬春优惠政策，从12月15日到明年3月31日，世界文化遗产敦煌莫高窟门票半价，开放洞窟也由旺季的8个增至12个，参观团组由旺季25人压缩到15人，同时还启动“飞天”专题体验参观线路，游客可以尽享“科技与文化”融合的沉浸式体验。此外，鸣沙山月牙泉景区以及玉门关和雅丹景区也推出了门票半价和游玩项目半价等优惠政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeaf9981291.d.html</link>
+            <guid>2907335</guid>
+            <pubDate>Fri, 16 Dec 2022 17:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国有工会投诉称，苹果违反了俄亥俄州的劳动法。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwxeaf9964064.d.html</link>
+            <guid>2907331</guid>
+            <pubDate>Fri, 16 Dec 2022 17:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：今年加密货币市场遭受了巨大的“打击”。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxuk0066554.d.html</link>
+            <guid>2907306</guid>
+            <pubDate>Fri, 16 Dec 2022 16:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商业保险公司Chubb(CB.N)：计划在5年内在宾夕法尼亚州创造3200个就业岗位。]]></title>
+            <guid>2907298</guid>
+            <pubDate>Fri, 16 Dec 2022 16:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油价下周一迎年内“最后一调”，或将“三连跌”】12月19日24时，国内新一轮成品油调价窗口将开启。本轮调价将是2022年国内油价“最后一调”。继上轮成品油价格“两连跌”后，机构预计，本轮成品油价格或继续下跌，国内油价在年末将呈“三连跌”走势。机构测算，截至12月16日本轮成品油调价周期第九个工作日，参考原油品种均价为每桶76.76美元，变化率为-6.84%，预计国内汽油、柴油下调幅度约为每吨460元，折合汽油、柴油每升下调0.34-0.38元。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxuk0038985.d.html</link>
+            <guid>2907297</guid>
+            <pubDate>Fri, 16 Dec 2022 16:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[商业保险公司Chubb(CB.N)：计划在费城设立新办公室，届时将有1250名员工。]]></title>
+            <guid>2907294</guid>
+            <pubDate>Fri, 16 Dec 2022 16:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼电影：阿凡达：水之道上映2天，总票房破2亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-17/detail-imxwwxum6797750.d.html</link>
+            <guid>2907291</guid>
+            <pubDate>Fri, 16 Dec 2022 16:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利：将Roblox(RBLX.N)目标价从35美元下调至27.5美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6796298.d.html</link>
+            <guid>2907289</guid>
+            <pubDate>Fri, 16 Dec 2022 15:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特汽车跌4% 提高F-150 Lightning电动皮卡的价格】福特汽车(F.US)跌4.49%，报12.45美元，总市值500亿美元。福特汽车公司网站周四显示，该公司将其最便宜款的F-150 Lightning 电动皮卡的价格上调了9%，至55974美元。这家汽车制造商在三个月内两次提高其电动皮卡的价格，以应对成本上升和供应链干扰给公司带来的困难。据悉，包括特斯拉和Rivian Automotive Inc .在内的全球汽车制造商也在努力应对锂等原材料价格上涨的问题，并警告称高成本将持续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxuk0018381.d.html</link>
+            <guid>2907288</guid>
+            <pubDate>Fri, 16 Dec 2022 15:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【麦格理：上调携程(TCOM.O)目标价至42.5美元 评级跑赢大市】麦格理发研报指，携程第三季业绩表现向好，主要由于夏季旅游需求改善及海外增长势头强劲所带动，令收入增长29%，高于市场及该行预期，经调整净利润达10亿元亦超出市场预期约31%。该行认为，国内旅游活动于第三季表现展现韧性，国际业务增长势头亦持续。麦格理指，出境旅游市场料于明年实现更快速复苏。将携程2022年经调每股ADS盈利预测下调27%，以反映近期市场疲软，并将明年及2024年预测上调7%及12%，基于2024年预测市盈率约23倍，将目标价上调至42.5美元，评级跑赢大市。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6791481.d.html</link>
+            <guid>2907286</guid>
+            <pubDate>Fri, 16 Dec 2022 15:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蒙特利尔银行：将Adobe(ADBE.O)目标价从332美元上调至390美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6789112.d.html</link>
+            <guid>2907281</guid>
+            <pubDate>Fri, 16 Dec 2022 15:50:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国大众汽车股东股东批准从保时捷品牌的IPO中特别分红。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6774104.d.html</link>
+            <guid>2907277</guid>
+            <pubDate>Fri, 16 Dec 2022 15:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特种化学品龙头科莱恩在华扩建阻燃剂工厂，总投资超7亿元】全球特种化学品巨头科莱恩追投约3亿元，加码中国无卤阻燃剂工厂建设。12月15日，科莱恩宣布其位于广东惠州大亚湾的Exolit OP无卤阻燃剂工厂第二条生产线正式动工，旨在满足中国以及亚洲的零部件制造商在电动汽车、电子电器、交通、5G通讯、基础设施和家电领域快速增长的创新与可持续发展的防火需求。该项目投资额约3亿元，预计2024年投产。]]></title>
+            <guid>2907275</guid>
+            <pubDate>Fri, 16 Dec 2022 15:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部首任气候顾问翰·莫顿宣布辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9990650.d.html</link>
+            <guid>2907274</guid>
+            <pubDate>Fri, 16 Dec 2022 15:32:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【鸿海出售紫光集团全部股权】鸿海在交易所公告，富士康工业互联网股份有限公司旗下兴微基金（持股99.99%），以不低于人民币53.8亿元将所持有48.91%的晟粤广州有限合伙份额全数处分予烟台海秀积体电路产业投资中心（有限合伙）。处分后，兴微基金对北京智广芯控股有限公司及紫光集团有限公司持有之股权为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9986400.d.html</link>
+            <guid>2907271</guid>
+            <pubDate>Fri, 16 Dec 2022 15:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞穗：将Adobe(ADBE.O)目标价从360美元上调至370美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6751970.d.html</link>
+            <guid>2907266</guid>
+            <pubDate>Fri, 16 Dec 2022 15:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【增资潮不断！今年以来信托业增资超百亿】截至12月16日，今年以来已有浙金信托、中诚信托、国通信托、华宝信托、东莞信托等十余家信托公司完成或正在推进增资工作，合计新增注册资本超百亿元。业内人士认为，信托公司增加注册资本可以增强资本实力，进而有更多资金保障公司战略转型和业务调整落地。资产管理类和资产服务类信托是未来行业发展方向。（中证报）]]></title>
+            <guid>2907265</guid>
+            <pubDate>Fri, 16 Dec 2022 15:14:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛计划明年1月份裁员8% 以应对明年更加严峻的经济环境】据悉，高盛计划裁员至多8%，以应对明年更加严峻的经济环境。这轮裁员将影响到该行的每个部门，可能会在1月份进行。高盛的裁员计划正在进行中，最终裁员规模可能会小于这个数字。多达4000名员工可能会因此受到影响，高盛此前一直处于招聘模式。截至9月30日，该公司共有49100名员工，较上年同期增长14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9968204.d.html</link>
+            <guid>2907262</guid>
+            <pubDate>Fri, 16 Dec 2022 15:08:32 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【拉夏贝尔(06116)收到法院《传票》及《民事起诉状》】拉夏贝尔(06116)发布公告，该公司于2022年12月16日收到上海市静安区人民法院(静安法院)(2022)沪0106民初40841号及 (2022)沪0106民初40842号《传票》及《民事起诉状》。据悉，该公司及公司子公司成都乐微服饰有限公司(成都乐微)、拉夏贝尔服饰(天津)有限公司(拉夏天津)、拉夏贝尔服饰(太仓)有限公司(拉夏太仓)，及邢加兴为被告人。诉讼请求的金额为借款本金、利息等合计约1.65亿元。]]></title>
             <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9965666.d.html</link>
             <guid>2907260</guid>
             <pubDate>Fri, 16 Dec 2022 15:06:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其总统称将使该国成为制定天然气价格的全球能源中心】土耳其总统埃尔多安当地时间12月16日表示，土耳其与俄罗斯正在采取必要措施，使土耳其成为能源中心，土耳其西北部的色雷斯地区将建设成为天然气和液化天然气的枢纽，“我们的目标是成为制定天然气价格的全球能源中心”。埃尔多安称，他与俄罗斯总统普京举行了重要会议，已经就此采取了相应措施。今年10月中旬，普京提议，俄方可通过土耳其向欧洲供气，并在土耳其建设欧洲最大的天然气枢纽。随后俄土领导人就这一议题进行磋商，并责成相关部门推进落实。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6741872.d.html</link>
-            <guid>2907257</guid>
-            <pubDate>Fri, 16 Dec 2022 15:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Platforms(META.O)涨超5%，此前摩根大通将Meta评级上调至超配，并将其目标价上调至150美元。]]></title>
-            <guid>2907255</guid>
-            <pubDate>Fri, 16 Dec 2022 15:04:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯蒂费尔：将Adobe(ADBE.O)目标价从375美元上调至400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6737116.d.html</link>
-            <guid>2907250</guid>
-            <pubDate>Fri, 16 Dec 2022 14:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德信服务集团(02215)附属为杭州瑞扬垫付本金额3.15亿元的贷款】德信服务集团(02215)发布公告，于2022年12月16日，贷款人上海栩全商贸(为公司的间接全资附属公司)与借款人杭州瑞扬供应链管理有限公司订立贷款协议，贷款人同意向借款人垫付本金额人民币3.15亿元的贷款，按年利率8%计息。根据贷款协议，借款人应向贷款人质押抵押资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9958768.d.html</link>
-            <guid>2907248</guid>
-            <pubDate>Fri, 16 Dec 2022 14:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国12月商业活动下滑，价格压力料难缓解】美国12月PMI显示，商业活动进一步萎缩，新订单降至逾两年半以来最低，但需求走软并未帮助大幅冷却通胀。标普全球市场情报首席经济学家Chris Williamson表示，随着2022年即将结束，美国的商业状况正在恶化，料第四季度GDP的年化增长率约为1.5%。同时，由于制造业和服务业的企业在客户需求低迷的情况下对招聘采取了更加谨慎的态度，就业增长已经放缓到了极点。好处是，需求的减弱减轻了供应链的压力。12月，供应商交货时间连续第二个月加快，预示着供应条件的改善，且定价权从卖方转移到买方。因此，价格压力继续急剧缓和。总之，调查数据表明，美联储加息对通胀产生了预期效果，但经济成本正在增加，经济衰退的风险也随之增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6734181.d.html</link>
-            <guid>2907245</guid>
-            <pubDate>Fri, 16 Dec 2022 14:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通信和信息公司Maxar Technologies Inc.（MAXR）周五高开120%，该公司将根据一份协议被Advent收购。]]></title>
-            <guid>2907244</guid>
-            <pubDate>Fri, 16 Dec 2022 14:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法巴银行董事长：欧洲和美国的经济都在放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6729542.d.html</link>
-            <guid>2907243</guid>
-            <pubDate>Fri, 16 Dec 2022 14:51:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东路桥：拟认缴出资25亿元参设环渤海投资中心】山东路桥(000498)12月16日晚间公告，公司子公司山东省路桥集团有限公司拟认缴出资25亿元参与设立环渤海西海岸（青岛）股权投资中心（有限合伙），环渤海投资中心总规模70亿元。环渤海投资中心资金仅限于投向路桥集团在青岛西海岸新区中标的基建项目。此次投资预计可为路桥集团匹配约2倍的共同出资资金，能够放大投资规模，更好的服务于公司施工主业。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6724899.d.html</link>
-            <guid>2907238</guid>
-            <pubDate>Fri, 16 Dec 2022 14:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【建设银行：将于12月26日派发现金股息合计28.5亿元】12月16日晚间，建设银行发布《境内优先股股息派发实施公告》显示，该行将于12月26日派发境内优先股股息，按照建行优1票面股息率4.75%计算，每股发放现金股息人民币4.75元(含税)。以建行优1发行量6亿股为基数，合计派发现金股息人民币28.50亿元(含税)。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9943349.d.html</link>
-            <guid>2907235</guid>
-            <pubDate>Fri, 16 Dec 2022 14:42:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nornickel计划2023年将资本开支提高10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9941592.d.html</link>
-            <guid>2907234</guid>
-            <pubDate>Fri, 16 Dec 2022 14:40:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【友宝在线再次递表申请港股主板IPO】据港交所文件，北京友宝在线科技股份有限公司再次递表申请港股主板IPO。高盛、中信建投国际、华泰国际担任联合保荐人。该公司此前曾在2022年5月27日递表一次。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6718418.d.html</link>
-            <guid>2907233</guid>
-            <pubDate>Fri, 16 Dec 2022 14:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行：将Adobe(ADBE.O)目标价从340美元上调至350美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9939964.d.html</link>
-            <guid>2907232</guid>
-            <pubDate>Fri, 16 Dec 2022 14:38:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【专家：积极的财政政策“加力提效” 明年财政支出力度可能更大】中央经济工作会议12月15日至16日在北京举行。会议提出，积极的财政政策要加力提效。保持必要的财政支出强度，优化组合赤字、专项债、贴息等工具，在有效支持高质量发展中保障财政可持续和地方政府债务风险可控。就此，粤开证券首席经济学家罗志恒表示，明年财政政策的基调是“加力提效”，将力度和规模置于效果之前，体现出比今年和去年更强的稳增长取向。这意味着，明年财政支出力度将更大，赤字规模和专项债总和仍会保持一定强度，同时财政支出将保持一定强度，带动总需求回升。罗志恒预计，基准情形下，明年财政赤字率或突破3%，提高至3.5%左右，当年新增专项债额度可能在3.65万亿元左右。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6716967.d.html</link>
-            <guid>2907231</guid>
-            <pubDate>Fri, 16 Dec 2022 14:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅在第十七次中国—中东欧国家合作国家协调员会议上发表视频致辞】2022年12月16日，国务委员兼外长王毅在第十七次中国—中东欧国家合作国家协调员会议上发表视频致辞。王毅回顾了合作启动10年来历程，强调中国和中东欧国家有着深厚历史联系、互补发展优势、强劲合作需求、共同振兴愿望，彼此是天然合作伙伴。无论国际风云如何变幻，都要以落实北京峰会共识为主线，推动合作向更加坚韧、协调、开放、普惠方向发展。王毅就深化中国—中东欧国家合作提出四点建议。一是坚持团结友好。友好是中国对欧政策主基调，合作是中国对欧政策总目标。二是坚持协同增效。中国—中东欧国家合作是中欧合作组成部分，遵守市场规则和欧盟标准，助推欧洲实现更均衡发展。三是坚持开放共赢。中方将坚定不移扩大对外开放，继续进口更多中东欧国家优势产品，对在华中东欧国家企业一视同仁。四是坚持务实普惠。中方愿在农食产品输华、电子商务、金融、互联互通、人员往来便利化等领域推出更多新的举措。本次会议以视频形式举行，外交部中国—中东欧国家合作事务特别代表以及中东欧成员国国家协调员或代表出席会议。（外交部网站）]]></title>
-            <guid>2907230</guid>
-            <pubDate>Fri, 16 Dec 2022 14:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adobe(ADBE.O)涨5%，2022财年Q4营收同比增长10%至45.3亿美元。]]></title>
-            <guid>2907228</guid>
-            <pubDate>Fri, 16 Dec 2022 14:32:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首个原生Chiplet技术标准发布】从12月16日举办的“第二届中国互连技术与产业大会”上获悉，首个由中国集成电路领域相关企业和专家共同主导制定的《小芯片接口总线技术要求》团体标准，正式通过工信部中国电子工业标准化技术协会的审定并发布。这是中国首个原生Chiplet技术标准，对于中国集成电路产业延续“摩尔定律”，突破先进制程工艺限制具有重要意义。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxum6709873.d.html</link>
-            <guid>2907226</guid>
-            <pubDate>Fri, 16 Dec 2022 14:30:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国政府制定了新的具有法律约束力的环境目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwxui9931299.d.html</link>
-            <guid>2907224</guid>
-            <pubDate>Fri, 16 Dec 2022 14:29:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财政部长：从2024年起，德国的公共财政将恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6834470.d.html</link>
-            <guid>2907222</guid>
-            <pubDate>Fri, 16 Dec 2022 14:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据港交所文件：Beijing UBOX Online Technology Corp.向港交所提交上市申请书。]]></title>
-            <guid>2907220</guid>
-            <pubDate>Fri, 16 Dec 2022 14:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财政部长：预计2023年公共部门赤字约占GDP的3.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6832039.d.html</link>
-            <guid>2907219</guid>
-            <pubDate>Fri, 16 Dec 2022 14:20:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【退烧药“2元一联”引关注，东北制药增产保供缓解买药难】辽宁方大集团东北制药官方消息称，公司101分厂接到追加排产指令后，紧急调度、合理安排，以增加班次的形式倒班、满负荷生产，全力以赴保障解热镇痛类、抗病毒类等防治药品的供应。当前，部分产品的日产量能达到平时的两倍。除解热、镇痛类药需求量大增外，维生素C也成为热销产品。据了解，1972年，当时的东北制药厂开始生产对乙酰氨基酚片，50年后的今天，辽宁方大集团东北制药仍然沿用此名字，一联20片，只卖2元钱。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6829303.d.html</link>
-            <guid>2907217</guid>
-            <pubDate>Fri, 16 Dec 2022 14:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SVB Securities：将礼来(LLY.N)目标价从384美元上调至410美元。]]></title>
-            <guid>2907216</guid>
-            <pubDate>Fri, 16 Dec 2022 14:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际足联主席：将重新考虑下届世界杯是否使用“16组3队”赛制】国际足联主席因凡蒂诺16日表示，国际足联将重新考虑在2026 年世界杯上引入“48支球队分16 组每组3队”赛制的计划，未来几周内将讨论是实施48支球队“分16组每组3队还是分12组每组4队”的赛制。（环球网）]]></title>
-            <guid>2907215</guid>
-            <pubDate>Fri, 16 Dec 2022 14:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴斯夫中国首个企业储能电站投入运营】巴斯夫中国官网消息，12月16日，巴斯夫在国内的首个企业储能项目在巴斯夫大中华区总部正式启用。这一新型智能储能电站位于巴斯夫上海浦东科技创新园，由巴斯夫与中国长江三峡集团有限公司联合打造。它采用磷酸铁锂储能技术，单次循环可储存总容量达12MWh的可再生能源电力。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0042348.d.html</link>
-            <guid>2907214</guid>
-            <pubDate>Fri, 16 Dec 2022 14:07:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利央行：预计2023年GDP增长0.4%，此前预测为0.3%；2024年增长1.2%，此前预计为1.4%。]]></title>
-            <guid>2907213</guid>
-            <pubDate>Fri, 16 Dec 2022 14:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利央行：预计2022年GDP增长3.8%，而此前预测为3.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0041869.d.html</link>
-            <guid>2907212</guid>
-            <pubDate>Fri, 16 Dec 2022 14:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【国际足联主席：将重新考虑下届世界杯是否使用“16组3队”赛制】法新社最新消息称，国际足联主席因凡蒂诺16日表示，国际足联将重新考虑在2026年世界杯上引入“48支球队分16组每组3队”赛制的计划，未来几周内将讨论是实施48支球队“分16组每组3队还是分12组每组4队”的赛制。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0041573.d.html</link>
-            <guid>2907211</guid>
-            <pubDate>Fri, 16 Dec 2022 14:06:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利央行：预计2022年通胀率为8.8％，2023年通胀率为7.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0041057.d.html</link>
-            <guid>2907210</guid>
-            <pubDate>Fri, 16 Dec 2022 14:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度石油部长：没有看到俄罗斯石油供应中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0040876.d.html</link>
-            <guid>2907209</guid>
-            <pubDate>Fri, 16 Dec 2022 14:05:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场对经济衰退的担忧加剧，石油周内涨幅收窄】市场对经济衰退的担忧加剧，石油一周涨幅收窄。全球股市走低，因为担心各国央行继续对抗通胀的决心将使经济陷入衰退。石油在今年年底遭遇坎坷，各国央行在本周的关键利率决定中都采取了鹰派的基调。PVM Oil Associates的分析师Stephen Brennock说，进一步紧缩的前景给风险资产带来了阻力。更多全面加息的警告重新点燃了对经济增长的担忧，这反过来又拖累了石油需求的前景。最近几天，最大的石油交易所交易基金（etf）也显示出一些投资者兴趣减弱的迹象。本周，美国石油基金公布了两年多来最大的单日资金流出。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0040571.d.html</link>
-            <guid>2907208</guid>
-            <pubDate>Fri, 16 Dec 2022 14:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国管网机构：截至12月16日，德国天然气库存率为90.23％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6813716.d.html</link>
-            <guid>2907205</guid>
-            <pubDate>Fri, 16 Dec 2022 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其计划到2053年将其能源依赖度从71%降低到13%，尽早制定基准天然气价格。]]></title>
-            <guid>2907204</guid>
-            <pubDate>Fri, 16 Dec 2022 13:58:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黑龙江冬捕季将于12月27日开幕】据央视新闻，记者从黑龙江省新闻办获悉，“2022黑龙江冷水鱼·冬捕季”将于2022年12月27日开幕，至2023年2月5日结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0033987.d.html</link>
-            <guid>2907203</guid>
-            <pubDate>Fri, 16 Dec 2022 13:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方电网启动Ⅲ级应急响应 应对今冬第二轮寒潮】据南方电网消息，南方电网于12月12日发布寒潮黄色预警，15日启动低温雨雪冰冻灾害Ⅲ级应急响应，做好充分应急准备，有序应对寒潮影响，全力保障电网安全稳定运行和电力可靠供应。截至12月16日17时，寒潮造成南方电网共47条10千伏及以上线路覆冰，覆冰区域集中在云南昭通、曲靖、贵州毕节等地区。低温天气导致广西、贵州等地取暖负荷大幅增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0033696.d.html</link>
-            <guid>2907202</guid>
-            <pubDate>Fri, 16 Dec 2022 13:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中交地产：“十四五”力争打造成为国内领先的城市开发和运营商】中交地产12月16日董事会审议通过了《“十四五”战略 规划》。按照规划，公司深刻认识外部发展环境变化，主动顺应行业深度转型调整，以高质量发展为主线，实现由以高杠杆、粗放式为主的发展方式向以高效益、集约式为主的发展方式转变，打造央企一流的党建引领平台、国内一流的城市开发运营平台、行业一流的管理示范平台“三个一流平台”，成为国内领先的城市开发和运营商。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0015870.d.html</link>
-            <guid>2907200</guid>
-            <pubDate>Fri, 16 Dec 2022 13:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：不认为美联储失去了对抗通胀的信誉。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6792590.d.html</link>
-            <guid>2907199</guid>
-            <pubDate>Fri, 16 Dec 2022 13:44:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：部分市场参与者对通胀更加乐观。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6792344.d.html</link>
-            <guid>2907198</guid>
-            <pubDate>Fri, 16 Dec 2022 13:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：实际利率需要变得限制性，并保持在那里。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6792072.d.html</link>
-            <guid>2907197</guid>
-            <pubDate>Fri, 16 Dec 2022 13:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：工资增长一直很高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0014248.d.html</link>
-            <guid>2907195</guid>
-            <pubDate>Fri, 16 Dec 2022 13:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：我没有看到任何类似20世纪70年代的工资—价格螺旋上升的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6791250.d.html</link>
-            <guid>2907194</guid>
-            <pubDate>Fri, 16 Dec 2022 13:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委副主任曾益新出席第15届中日韩卫生部长视频会议】第15届中日韩卫生部长会议以视频方式召开。国家卫生健康委副主任曾益新出席会议并发言。会议就应对大流行、促进卫生安全，加强全民健康覆盖，促进健康老龄化和慢病防控等议题深入交换意见。曾益新副主任介绍了中方相关做法和经验，提出以下合作倡议：一是要同舟共济，更好维护卫生安全；二是要密切合作，共建人类卫生健康共同体；三是要团结一致，践行真正的多边主义。会议通过了《第15届中日韩卫生部长会联合声明》。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6790897.d.html</link>
-            <guid>2907193</guid>
-            <pubDate>Fri, 16 Dec 2022 13:43:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：预计明年经济将温和增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0013054.d.html</link>
-            <guid>2907192</guid>
-            <pubDate>Fri, 16 Dec 2022 13:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：但经济增长更加温和。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6790092.d.html</link>
-            <guid>2907191</guid>
-            <pubDate>Fri, 16 Dec 2022 13:42:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美国没有陷入衰退，不认为它会陷入衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6789723.d.html</link>
-            <guid>2907190</guid>
-            <pubDate>Fri, 16 Dec 2022 13:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：我们在通胀数据中看到了好消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6789585.d.html</link>
-            <guid>2907189</guid>
-            <pubDate>Fri, 16 Dec 2022 13:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：核心服务领域的通胀率仍然很高。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0011915.d.html</link>
-            <guid>2907188</guid>
-            <pubDate>Fri, 16 Dec 2022 13:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债收益率继续攀升，美国10年期、30年期国债收益率均超过周四高点。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6789011.d.html</link>
-            <guid>2907187</guid>
-            <pubDate>Fri, 16 Dec 2022 13:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储将尽一切努力将通胀率降至2％。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6780092.d.html</link>
-            <guid>2907183</guid>
-            <pubDate>Fri, 16 Dec 2022 13:36:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储加息幅度可能超过FOMC的终端利率预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6779854.d.html</link>
-            <guid>2907182</guid>
-            <pubDate>Fri, 16 Dec 2022 13:36:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美国经济非常具有韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0002349.d.html</link>
-            <guid>2907181</guid>
-            <pubDate>Fri, 16 Dec 2022 13:36:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：认为有更多因素有助于降低通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0002129.d.html</link>
-            <guid>2907180</guid>
-            <pubDate>Fri, 16 Dec 2022 13:36:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特：并不指望欧洲央行完全缩小与美联储的利率差距。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0001857.d.html</link>
-            <guid>2907179</guid>
-            <pubDate>Fri, 16 Dec 2022 13:36:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：全球供应链正在改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0001487.d.html</link>
-            <guid>2907178</guid>
-            <pubDate>Fri, 16 Dec 2022 13:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[贝瑞基因：宏瓴并购拟减持不超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0001192.d.html</link>
-            <guid>2907177</guid>
-            <pubDate>Fri, 16 Dec 2022 13:35:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭台铭：与BioNTech共建mRNA癌症免疫疗法临床试验中心】鸿海创办人郭台铭16日在社交媒体上许下2023年新年愿望，“对抗癌症，不让亲爱的家人离你而去。我曾有的痛，希望别人无需承受。”郭台铭表示，今天德国BioNTech公司在官网正式宣布，将与永龄健康基金会携手合作，并计划在台湾建立mRNA癌症免疫疗法临床试验中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnn0000799.d.html</link>
-            <guid>2907176</guid>
-            <pubDate>Fri, 16 Dec 2022 13:35:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特：美联储比欧洲央行更接近结束加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6777290.d.html</link>
-            <guid>2907175</guid>
-            <pubDate>Fri, 16 Dec 2022 13:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：不需要超过6%的联邦基金利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9999668.d.html</link>
-            <guid>2907174</guid>
-            <pubDate>Fri, 16 Dec 2022 13:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储正朝着需要的方向发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9999397.d.html</link>
-            <guid>2907173</guid>
-            <pubDate>Fri, 16 Dec 2022 13:34:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储威廉姆斯：美联储的政策进展顺利。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9999136.d.html</link>
-            <guid>2907172</guid>
-            <pubDate>Fri, 16 Dec 2022 13:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大10月批发库存月率 0.6%，前值1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9993732.d.html</link>
-            <guid>2907171</guid>
-            <pubDate>Fri, 16 Dec 2022 13:31:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：欢迎欧盟决定对企业实施全球最低税率。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9993395.d.html</link>
-            <guid>2907170</guid>
-            <pubDate>Fri, 16 Dec 2022 13:31:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大11月新屋价格指数月率 -0.2%，前值-0.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6770432.d.html</link>
-            <guid>2907169</guid>
-            <pubDate>Fri, 16 Dec 2022 13:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大10月投资者净买入海外证券 -16.7亿加元，前值95.6亿加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6770089.d.html</link>
-            <guid>2907168</guid>
-            <pubDate>Fri, 16 Dec 2022 13:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大10月批发销售月率录得2.1%，为2022年1月以来最大增幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9992529.d.html</link>
-            <guid>2907167</guid>
-            <pubDate>Fri, 16 Dec 2022 13:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大10月批发销售月率 2.1%，预期1.30%，前值0.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnm9992271.d.html</link>
-            <guid>2907166</guid>
-            <pubDate>Fri, 16 Dec 2022 13:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度石油部长：预计计划中的生物燃料联盟的第一份文本将于明年1月与G20成员国达成。]]></title>
-            <guid>2907165</guid>
-            <pubDate>Fri, 16 Dec 2022 13:25:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  国际足联官方微博宣布，FIFA世俱杯将于2023年2月1日至11日在摩洛哥举办。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6751814.d.html</link>
-            <guid>2907161</guid>
-            <pubDate>Fri, 16 Dec 2022 13:17:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯洛伐克总统解散本届政府】据央视新闻，当地时间12月16日，斯洛伐克总统恰普托娃签署法令，宣布解散由总理黑格尔领导的政府，并临时委托其作为看守内阁总理在有限职权范围内履行职能。恰普托娃要求黑格尔在政权过渡期间致力于维护国家稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-16/detail-imxwwtnp6750835.d.html</link>
-            <guid>2907160</guid>
-            <pubDate>Fri, 16 Dec 2022 13:16:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
