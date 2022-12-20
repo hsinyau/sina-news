@@ -4,11 +4,193 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 20 Dec 2022 18:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 21:04:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【摩根大通：将高通(QCOM.O)目标价从185美元下调至160美元 维持增持评级】摩根大通分析师Samik Chatterjee将高通(QCOM.O)目标价从185美元下调至160美元，并保持对该股的增持评级。他对2023年网络和硬件行业的展望包括对股票建议的六个月较短期看法。Chatterjee更看好收入/利润弹性的组合，积压导致的收入可见性，以及在其覆盖范围内增长动力的多样化。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkrah3934300.d.html</link>
+            <guid>2912502</guid>
+            <pubDate>Tue, 20 Dec 2022 21:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃利奥特投资管理公司持股的Prosperity Life将竞购American Equity】由对冲基金巨头埃利奥特投资管理公司(Elliott Investment Management)持股的Prosperity Life Insurance Group已主动提出收购竞争对手American Equity Investment Life。知情人士说，最近的报价包括对American Equity当前股价的溢价。由于此事尚未公开，Prosperity Life可能选择不推进收购。]]></title>
+            <guid>2912498</guid>
+            <pubDate>Tue, 20 Dec 2022 20:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗调查显示，墨西哥分析师预计该国2022年CPI为8.01%，预计2023年消CPI为5.18%。]]></title>
+            <guid>2912497</guid>
+            <pubDate>Tue, 20 Dec 2022 20:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰航空11月乘客总数同比增长261.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkrah3926637.d.html</link>
+            <guid>2912496</guid>
+            <pubDate>Tue, 20 Dec 2022 20:52:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国股票投资寿险(AEL.N)恢复交易，现涨约7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkrak0702953.d.html</link>
+            <guid>2912495</guid>
+            <pubDate>Tue, 20 Dec 2022 20:51:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Elliott投资管理公司旗下保险公司Prosperity Life据悉竞购美国股票投资寿险(AEL.N)。美国股票投资寿险(AEL.N)盘中停牌，此前拉升超10%。]]></title>
+            <guid>2912493</guid>
+            <pubDate>Tue, 20 Dec 2022 20:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通：给予杜邦(DD.N)增持评级 目标价75美元】摩根大通分析师Stephen Tusa恢复了对杜邦(DD.N)的追踪，给予其增持评级和75美元的目标价。Tusa在研报中表示，尽管存在周期性风险，但股价并没有公平地反映出杜邦剩余投资组合的盈利能力和质量，“这种脱节应该在未来12个月内继续得到纠正”。分析师预计该公司在2023年上半年的分析师日将“更新叙述，并对投资组合的长期盈利能力提供一个明确的观点”，这将成为股价的催化剂。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk4046872.d.html</link>
+            <guid>2912492</guid>
+            <pubDate>Tue, 20 Dec 2022 20:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前11月全国一般公共预算收入超18万亿】12月20日，财政部发布2022年11月财政收支情况。数据显示，1-11月累计，全国一般公共预算收入185518亿元，扣除留抵退税因素后增长6.1%，按自然口径计算下降3%；全国一般公共预算支出为227255亿元，比上年同期增长6.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk4040551.d.html</link>
+            <guid>2912491</guid>
+            <pubDate>Tue, 20 Dec 2022 20:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【TC Energy将Keystone管道全面重启时间推迟至下周】据知情人士透露，TC Energy把因为漏油事故而关停的Keystone输油管全面重启时间推迟了一周。该管道原本计划12月20日开始全面重启，最新目标是12月28日或29日。Keystone输油管主要负责将重油从加拿大西部运至美国中西部地区，它的关闭导致石油市场动荡。据悉，该管道其中一条分支上周恢复运营但流量低于此前，而涉及破裂部分的管线区段仍然处于关闭状态。]]></title>
+            <guid>2912490</guid>
+            <pubDate>Tue, 20 Dec 2022 20:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【实探岁末新能源车市：国补退坡搅动“抢单行情” 车企直面降本考验】岁末年关，国家新能源汽车补贴退坡也进入最后的窗口期。限时保价、锁单优惠已成为多数车企吸引消费者的常规操作。近日，沪上多家新能源汽车直营门店中一些厂商在店门口打出“国补退坡倒计时”字样，祭出跨年迎新、赠送礼品等营销组合拳，年底促销之风愈演愈烈。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk4030532.d.html</link>
+            <guid>2912489</guid>
+            <pubDate>Tue, 20 Dec 2022 20:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【服务业扩大开放综合试点再扩围 新增6城】12月20日，国务院发布《关于同意在沈阳等6个城市开展服务业扩大开放综合试点的批复》。这是自2015年首次设立服务业扩大开放综合试点以来第二次扩围。此次入围的6个城市均为省会城市。接受证券时报记者采访的专家表示，这6个城市具有基础相对较好、区位发展有优势的特点。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk4027384.d.html</link>
+            <guid>2912488</guid>
+            <pubDate>Tue, 20 Dec 2022 20:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：TC推迟全面重启KEYSTONE管道，并将重启目标定于12月28-29日。]]></title>
+            <guid>2912487</guid>
+            <pubDate>Tue, 20 Dec 2022 20:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Piper Sandler：首予The Trade Desk(TTD.O)增持评级 目标价60美元】Piper Sandler分析师Matt Farrell开始追踪The Trade Desk(TTD.O)，给予其增持评级，目标价为60美元。Farrell在研报中表示，The Trade Desk是一个领先的独立需求方平台，允许媒体买家在数字环境中对程序化广告印象进行竞标。分析师认为，该公司的战略定位受益于对数据驱动的解决方案的需求和联网电视的兴起。虽然宏观环境在短期内“可能被证明是不稳定的”，但无论宏观周期如何，该公司都应该继续表现出色，他建议投资者持有该公司的股票，以获得“多年的联网电视的机会，同时也作为更广泛的数字广告市场的独特资产”。]]></title>
+            <guid>2912486</guid>
+            <pubDate>Tue, 20 Dec 2022 20:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【需求旺季出栏量增大 猪价跌至17元/公斤关口】瞄准了元旦、春节前的年度需求旺季，近期无论规模厂还是养殖散户都加大出栏力度，致使猪价在旺季显著回调。在10月下旬一度逼近30元/公斤高点后，国内生猪出栏价近两月震荡走弱，如今较前期高位已近腰斩。而在供应持续旺盛的刺激下，猪价短期或仍承压。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkun0797139.d.html</link>
+            <guid>2912484</guid>
+            <pubDate>Tue, 20 Dec 2022 20:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行批准了总额6.1亿美元的融资方案，以解决乌克兰的迫切需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk4016043.d.html</link>
+            <guid>2912482</guid>
+            <pubDate>Tue, 20 Dec 2022 19:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通：将美国网存(NTAP.O)评级从增持下调至中性 目标价从93美元下调至71美元】摩根大通分析师Samik Chatterjee将美国网存(NTAP.O)评级从增持下调至中性，目标价从93美元下调至71美元。分析师表示，他对该公司“差异化”云产品的有利看法现在被不利因素所平衡，其中包括企业IT支出的节制、存储预算的优化、现有存储组合的复苏带来的有限份额收益，以及“最重要的缺乏执行的一致性”。Chatterjee在研报中表示，IT支出的回落和执行不一致性限制了美国网存可能的重新评级，“而下行风险仍然存在”。]]></title>
+            <guid>2912480</guid>
+            <pubDate>Tue, 20 Dec 2022 19:49:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美铁首席执行官表示，支出法案将能够维持美国铁路在2023财年的运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkun0775827.d.html</link>
+            <guid>2912478</guid>
+            <pubDate>Tue, 20 Dec 2022 19:37:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：波音(BA.N)民用飞机公司进行管理层调整，销售主管转任全球供应链职位。]]></title>
+            <guid>2912474</guid>
+            <pubDate>Tue, 20 Dec 2022 19:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[苹果：美国职业足球大联盟（MLS）赛季直播订阅服务价格为14.99美元/月。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3979247.d.html</link>
+            <guid>2912471</guid>
+            <pubDate>Tue, 20 Dec 2022 19:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【FTC因隐私和安全问题对推特进行更深入审查】在马斯克收购推特后，美国联邦贸易委员会(FTC)对该公司的隐私和数据安全做法进行更深入的调查。FTC律师在上个月询问了两名推特前高管，即前首席隐私官Damien Kieran和最高级网络安全官Lea Kissner，询问自马斯克接管以来，推特是否能够遵守该机构2011年的同意令。这次调查标志着FTC至少第三次就其隐私和数据安全做法对推特进行审查，审查可能导致数百万美元的罚款，以及FTC对马斯克本人施加义务的新命令，这些义务将适用于其所有公司，即使他卸任CEO或离开推特也仍然有效。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3976876.d.html</link>
+            <guid>2912470</guid>
+            <pubDate>Tue, 20 Dec 2022 19:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LPR报价连续四个月“按兵不动” 明年初或为调降时间窗口】LPR报价连续四个月保持不动。多位接受记者采访的业内专家认为，尽管12月份LPR报价维持前值不变，但不会影响实体经济融资成本下行势头，预计年底新发放企业贷款加权平均利率将续创历史新低，新发放居民房贷利率也有望延续小幅下行势头。整体上看，预计2023年1月份或2月份，是LPR调降的时间窗口。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3972359.d.html</link>
+            <guid>2912469</guid>
+            <pubDate>Tue, 20 Dec 2022 19:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦贸易委员会就2011年的法令质询了两名推特前高管。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3967070.d.html</link>
+            <guid>2912467</guid>
+            <pubDate>Tue, 20 Dec 2022 18:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国公用事业巨头Uniper将开放天然气管道和储存产能，以便进行竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkun0742793.d.html</link>
+            <guid>2912465</guid>
+            <pubDate>Tue, 20 Dec 2022 18:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Cantor Fitzgerald：给予Rivian(RIVN.O)增持评级 目标价22美元】Cantor Fitzgerald分析师Andres Sheppard开始追踪Rivian(RIVN.O)，给予增持评级，目标价为22美元。Sheppard在研报中表示，Rivian受益于差异化的产品、亚马逊(AMZN.O)的强大支持和专有的充电网络，但股价今年以来下跌了79%，所以这可能是一个很好的进入点。]]></title>
+            <guid>2912464</guid>
+            <pubDate>Tue, 20 Dec 2022 18:57:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟批准德国63亿欧元救助SEFE的计划，批准345亿欧元救助公用事业公司Uniper的计划，要求德国政府到2028年将Uniper持股比例降至25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkun0733692.d.html</link>
+            <guid>2912463</guid>
+            <pubDate>Tue, 20 Dec 2022 18:46:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空：冬季风暴将迫使航班取消。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3955451.d.html</link>
+            <guid>2912461</guid>
+            <pubDate>Tue, 20 Dec 2022 18:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：沃尔玛(WMT.N)与美国所有50个州达成阿片类药物和解协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkuk3951790.d.html</link>
+            <guid>2912460</guid>
+            <pubDate>Tue, 20 Dec 2022 18:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会称正密切关注西班牙司法机构改革局势】当地时间12月20日，欧盟委员会司法部门发言人威甘德表示，欧盟委员会正在密切关注西班牙司法机构改革相关局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkkun0728112.d.html</link>
+            <guid>2912459</guid>
+            <pubDate>Tue, 20 Dec 2022 18:38:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：微软因收购动视暴雪的交易而招致众多游戏玩家的起诉。]]></title>
+            <guid>2912457</guid>
+            <pubDate>Tue, 20 Dec 2022 18:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：将华纳音乐(WMG.O)目标价从26美元上调至35美元 维持中性评级】花旗银行分析师Jason Bazinet将华纳音乐的目标价从26美元上调至35美元，并保持对该股的中性评级。Bazinet在研报中表示，如果华尔街对Spotify(SPOT.N)的付费用户和广告支持时间的预测是合理的，那么华纳的预期在未来两年内有适度走高的空间。分析师提高了他对华纳的预期和目标价，但考虑到过去几个月股价最近的强势，他认为从目前水平来看，股票没有足够的上升空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkenq0848530.d.html</link>
+            <guid>2912455</guid>
+            <pubDate>Tue, 20 Dec 2022 18:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国将联刚稳定团任务期限延长一年】当地时间12月20日，联合国安全理事会决定将联合国驻刚果（金）稳定特派团（联刚稳定团）的任务期限延长一年。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkenq0844768.d.html</link>
+            <guid>2912453</guid>
+            <pubDate>Tue, 20 Dec 2022 18:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员Braun：希望对美国政府拨款法案进行修订，但不会支持政府关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkenn4058911.d.html</link>
+            <guid>2912449</guid>
+            <pubDate>Tue, 20 Dec 2022 18:08:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国财政部发布的一份技术文件显示：该国政府将把通胀调整和成本细节都纳入企业暴利税。]]></title>
             <guid>2912445</guid>
@@ -111,137 +293,6 @@
             <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkenn3957071.d.html</link>
             <guid>2912403</guid>
             <pubDate>Tue, 20 Dec 2022 16:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FTX创始人SBF是否会被引渡到美国仍不确定，巴哈马法院可能在周二晚些时候举行听证会。]]></title>
-            <guid>2912401</guid>
-            <pubDate>Tue, 20 Dec 2022 16:20:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟深入调查博通610亿美元收购VMware的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxkenn3953994.d.html</link>
-            <guid>2912400</guid>
-            <pubDate>Tue, 20 Dec 2022 16:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大宗交易调查案推进之际 摩根士丹利两位高管被休假后相继离职】在美国监管当局对摩根士丹利大宗交易的调查仍未结束之际，该行这一部门两位之前被勒令休假的高管据悉已经离职。他们的去职表明银行家在配合调查问题上与摩根士丹利存在分歧。据悉，两位高管最初提交了辞呈，但因不愿密切配合该行参与调查，离职通知期被缩短且进程加快。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxiyes0859470.d.html</link>
-            <guid>2912398</guid>
-            <pubDate>Tue, 20 Dec 2022 16:15:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫称，拜登将于1月9日至10日前往墨西哥城会见墨西哥和加拿大领导人。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxiyes0858877.d.html</link>
-            <guid>2912397</guid>
-            <pubDate>Tue, 20 Dec 2022 16:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【已有25家上市房企筹划再融资】12月19日晚，万科A公告称，公司董事会制定了拟以新股配售方式、向非关联人士发行境外上市外资股（H股）的方案。近期，信贷、债券、股权融资“三支箭”连续落地对房企融资提供多维支撑。据中指研究院统计，自11月28日证监会恢复上市房企再融资以来，已有25家上市房企发布配股或定增融资公告。值得注意的是，中央经济工作会议提出，满足行业合理融资需求，推动行业重组并购，有效防范化解优质头部房企风险，改善资产负债状况。业内人士预计，下阶段将出台更多稳定企业主体政策，帮助企业有序降低债务和资金压力，2023年房企整体融资环境或将实质性改善。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-21/detail-imxxiyes0851557.d.html</link>
-            <guid>2912391</guid>
-            <pubDate>Tue, 20 Dec 2022 16:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚特兰大联储GDPNow模型预计美国第四季度GDP为2.7%，此前预计为2.8%。]]></title>
-            <guid>2912390</guid>
-            <pubDate>Tue, 20 Dec 2022 16:05:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车旗下自动驾驶部门Cruise在美国菲尼克斯和奥斯汀开始提供RoboTaxi服务。]]></title>
-            <guid>2912389</guid>
-            <pubDate>Tue, 20 Dec 2022 16:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国部分医院宣布进入“紧急事件”状态】当地时间12月20日，由于护士大规模罢工等一系列因素对医疗服务系统造成的持续及前所未有的压力，英国部分医院宣布进入“紧急事件”状态。这意味着医院将会优先关注状况最紧急的病人，并取消非紧急病人的转运工作等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0839999.d.html</link>
-            <guid>2912387</guid>
-            <pubDate>Tue, 20 Dec 2022 15:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯蒂费尔：将卡特彼勒(CAT.N)目标价从260美元上调至271美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0839286.d.html</link>
-            <guid>2912386</guid>
-            <pubDate>Tue, 20 Dec 2022 15:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气公司（Gazprom）：董事会批准了2023年2.3万亿卢布的投资计划。]]></title>
-            <guid>2912385</guid>
-            <pubDate>Tue, 20 Dec 2022 15:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国电力公司EDF：公司正想尽一切办法，以确保法国2023年核电发电量目标为300-330 TWh。]]></title>
-            <guid>2912383</guid>
-            <pubDate>Tue, 20 Dec 2022 15:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法兴银行：随着日本央行刺激对冲，日元的飙升才刚刚开始】法兴银行表示，周二日本央行行长黑田东彦宣布将10年期国债收益率上限提高了一倍，这个突然的政策调整震惊了市场，同时也加大了该国国际投资者对冲其外国资产的压力，预计将进一步推高日元汇率。法兴银行首席外汇策略师Juckes说，随着日本基金经理慢慢适应日本央行更为强硬的立场，明年1月份美元兑日元汇率可能跌至125，周二该货币对汇率跌逾3%，这意味着未来日元将较目前水平再上涨6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4048926.d.html</link>
-            <guid>2912381</guid>
-            <pubDate>Tue, 20 Dec 2022 15:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔银行：将施贵宝(BMY.N)目标价从83美元上调至92美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0819832.d.html</link>
-            <guid>2912379</guid>
-            <pubDate>Tue, 20 Dec 2022 15:34:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国2023年电力价格下跌1.4%，至326.5欧元/兆瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4040372.d.html</link>
-            <guid>2912376</guid>
-            <pubDate>Tue, 20 Dec 2022 15:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源商务委员会主席就Keystone输油管线漏油事件致函加拿大TC Energy。]]></title>
-            <guid>2912375</guid>
-            <pubDate>Tue, 20 Dec 2022 15:30:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部宣布终止与乌克兰互认文凭和学术职称的协议】当地时间12月20日，俄罗斯外交部宣布终止与乌克兰相互承认文凭和学术职称的协议。 （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4036214.d.html</link>
-            <guid>2912370</guid>
-            <pubDate>Tue, 20 Dec 2022 15:26:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BlockFi：公司已经提交建议，希望能允许撤回数字资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4034972.d.html</link>
-            <guid>2912369</guid>
-            <pubDate>Tue, 20 Dec 2022 15:25:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：民主党和共和党已经就支出法案达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4034486.d.html</link>
-            <guid>2912368</guid>
-            <pubDate>Tue, 20 Dec 2022 15:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔银行：将吉利德科学(GILD.O)目标价从72美元上调至90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0806858.d.html</link>
-            <guid>2912362</guid>
-            <pubDate>Tue, 20 Dec 2022 15:18:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉第未来(FFIE.O)直线拉升涨15%，截至11月30日，该股的空头净额较11月15日下降了10.3%。]]></title>
-            <guid>2912358</guid>
-            <pubDate>Tue, 20 Dec 2022 15:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩镑对美元黑市汇率跌破45000 创历史新低】当地时间12月20日，黎巴嫩本币黎镑对美元黑市汇率跌破45000比1，创历史新低。黎巴嫩自1997年起实施本币黎镑与美元挂钩的固定汇率政策，官方汇率一直保持在1507.5比1。2019年9月银行业危机以来，黎镑对美元黑市汇率快速贬值。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyeq4023720.d.html</link>
-            <guid>2912357</guid>
-            <pubDate>Tue, 20 Dec 2022 15:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行(DB.N)涨超6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0798365.d.html</link>
-            <guid>2912354</guid>
-            <pubDate>Tue, 20 Dec 2022 15:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德意志银行(DB.N)考虑将基本工资提高4%，但削减交易商的奖金。]]></title>
-            <link>https://finance.sina.cn/7x24/2022-12-20/detail-imxxiyes0796964.d.html</link>
-            <guid>2912352</guid>
-            <pubDate>Tue, 20 Dec 2022 15:08:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
