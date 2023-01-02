@@ -4,23 +4,382 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 02 Jan 2023 06:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 09:06:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[德国国债涨幅扩大，10年期国债收益率下跌10个基点至2.47％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutup6124867.d.html</link>
+            <guid>2927687</guid>
+            <pubDate>Mon, 02 Jan 2023 09:04:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国银行黑龙江省分行原党委委员、副行长陈枫接受纪律审查和监察调查】据中央纪委国家监委驻中国银行纪检监察组、吉林省纪委监委消息：中国银行黑龙江省分行原党委委员、副行长陈枫涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国银行纪检监察组纪律审查和吉林省监委监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutup6123166.d.html</link>
+            <guid>2927685</guid>
+            <pubDate>Mon, 02 Jan 2023 09:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银河电子：签署储能业务战略合作协议】银河电子公告，公司近期与苏州时代华景新能源有限公司在张家港市高新区签署了《储能业务战略合作协议》，双方拟就储能业务展开深入合作。双方分别在银河新能源产业园中进行户用储能系统和大型集装箱储能系统全产业链生产线的建设，目标是在银河新能源产业园中形成从锂电池（钠离子电池）、模组、PACK、户用储能系统、工商业储能系统和大型集装箱储能系统以及大数据云平台管理系统等全产业链的新能源储能产业。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutum9345479.d.html</link>
+            <guid>2927683</guid>
+            <pubDate>Mon, 02 Jan 2023 09:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区12月制造业PMI终值 47.8，预期47.8，前值47.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutum9344991.d.html</link>
+            <guid>2927682</guid>
+            <pubDate>Mon, 02 Jan 2023 09:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场情报经济总监Phil Smith评德国12月制造业PMI终值：围绕德国制造业的一些悲观情绪已经消散，12月PMI调查显示，工厂产出水平的低迷有所缓解，人们对未来一年前景的担忧有所减轻。调查显示，原材料供应增加，生产下降的势头有所缓解。不过，新订单快速下降仍是许多制造商面临的一个问题，尤其是中间产品生产商(即为其他业务生产零部件的制造商)，高库存只是拖累需求的因素之一。]]></title>
+            <guid>2927681</guid>
+            <pubDate>Mon, 02 Jan 2023 08:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【汤臣倍健：2022年净利预降10%-30%】汤臣倍健发布业绩预告，预计2022年归母净利12.28亿元~15.78亿元，同比下降10%-30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2234154.d.html</link>
+            <guid>2927680</guid>
+            <pubDate>Mon, 02 Jan 2023 08:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国12月制造业PMI终值 47.1，预期47.4，前值47.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9008707.d.html</link>
+            <guid>2927679</guid>
+            <pubDate>Mon, 02 Jan 2023 08:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普全球市场高级经济学家Joe Hayes评法国12月制造业PMI终值：由于通货膨胀、经济活动放缓和能源成本高企的影响，法国制造业的低迷持续到12月。然而，经济低迷的程度继续减弱，产出和新订单分别以5月和6月以来的最慢速度下降。商业信心的改善也提供了初步迹象，表明工业部门的衰退可能不像最初担心的那么严重。]]></title>
+            <guid>2927678</guid>
+            <pubDate>Mon, 02 Jan 2023 08:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首超40亿美元 土耳其防务出口额创新高】据美国《防务新闻》周刊网站近日报道，土耳其国防采购机构负责人伊斯梅尔·德米尔表示，土耳其年度防务和航空出口额首次突破40亿美元大关。根据土耳其出口商大会的数据，该国1月至11月期间的防务和航空出口额为37.7亿美元，比2021年同期的27.78亿美元增长35.7%。这一土耳其出口联盟组织表示，2022年10月的月度防务和航空出口额为4.64亿美元，11月为5.03亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9006957.d.html</link>
+            <guid>2927677</guid>
+            <pubDate>Mon, 02 Jan 2023 08:53:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中科江南：2022年净利预增54%-69%】中科江南发布业绩预告，预计2022年归母净利润2.41亿元~2.63亿元，同比增长54%-69%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2229501.d.html</link>
+            <guid>2927676</guid>
+            <pubDate>Mon, 02 Jan 2023 08:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国游戏产业市场规模首破20万亿韩元】韩国内容振兴院2日公布的《2022年大韩民国游戏白皮书》显示，去年韩国国内游戏产业销售额为20.9913万亿韩元，同比增长11.2%。这是韩国国内游戏产业市场规模有史以来首次突破20万亿韩元。其中，手游销售额为12.1483万亿韩元，占整体产业销售额的57.9%。电脑游戏销售额为56373亿韩元（26.8%）、主机游戏为10520亿韩元（5.0%）、街机游戏为2733亿韩元（1.3%）。去年，世界游戏市场规模为2197.58亿美元，同比增长8.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2229022.d.html</link>
+            <guid>2927675</guid>
+            <pubDate>Mon, 02 Jan 2023 08:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国12月制造业PMI终值录得49.2，为2022年8月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9005756.d.html</link>
+            <guid>2927674</guid>
+            <pubDate>Mon, 02 Jan 2023 08:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国12月制造业PMI终值 49.2，预期48.9，前值48.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2228268.d.html</link>
+            <guid>2927673</guid>
+            <pubDate>Mon, 02 Jan 2023 08:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中工国际：签署亚青会体育场馆项目EPC总承包商务合同】中工国际公告，公司此前中标乌兹别克斯坦2025年第四届亚洲青年运动会奥林匹克城项目。2022年12月30日，中工国际与塔什干市政府统一业主服务工程公司签署了2025年塔什干第四届夏季亚洲青年运动会和第五届亚洲残疾人青年运动会现代体育场馆建设项目（一标段和二标段）EPC总承包商务合同。两个标段合同总金额为20.84亿元，为公司2021年营业总收入的24.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9004992.d.html</link>
+            <guid>2927672</guid>
+            <pubDate>Mon, 02 Jan 2023 08:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安徽蚌埠：多子女家庭购买首套房，公积金最高可贷70万元】 从安徽省蚌埠市住房公积金管理中心官网获悉，近日，蚌埠市印发《关于实施多子女家庭使用住房公积金支持政策的通知》。相关工作人员表示，蚌埠市住房公积金政策支持的多子女家庭，是指一对夫妻生育二个及以上子女的家庭。对于多子女家庭首次申请住房公积金贷款在蚌埠市购买住房，单方缴存住房公积金的，最高贷款额度为40万元，双方缴存住房公积金的，最高贷款额度为70万元，具体贷款额度与住房公积金月缴存额和还款能力挂钩。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9004461.d.html</link>
+            <guid>2927671</guid>
+            <pubDate>Mon, 02 Jan 2023 08:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【傲农生物：12月生猪销售量环比增长14.04% 同比增长23.06%】傲农生物公告，2022年12月，公司生猪销售量51.31万头，销售量环比增长14.04%，同比增长23.06%。2022年12月末，公司生猪存栏243.45万头，较2021年12月末增长35.81%。2022年1-12月，公司累计销售生猪518.93万头，销售量同比增长59.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2226838.d.html</link>
+            <guid>2927670</guid>
+            <pubDate>Mon, 02 Jan 2023 08:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：卡塔尔要求对来自中国的旅客进行核酸检测（PCR检测）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9002913.d.html</link>
+            <guid>2927669</guid>
+            <pubDate>Mon, 02 Jan 2023 08:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贵州三力：“GMP改造二期扩建项目”预计6月可完成全部生产线的安装】贵州三力公告，公司募投项目“GMP改造二期扩建项目”已在公司新取得的毗邻公司现厂区的土地持续建设中，截至目前，项目已完成2栋4层主体生产车间的建设工作，并将于2023年1月中旬开始净化工程的实施，预计6月可完成全部生产线的安装，7月完成调试并开展试生产工作，届时新增产能规模预计将达到开喉剑喷雾剂6000万瓶/年，公司总体产能规模将接近10000万瓶/年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9001942.d.html</link>
+            <guid>2927668</guid>
+            <pubDate>Mon, 02 Jan 2023 08:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利12月制造业PMI 48.5，预期48.5，前值48.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue9001100.d.html</link>
+            <guid>2927667</guid>
+            <pubDate>Mon, 02 Jan 2023 08:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北汽蓝谷：子公司北京新能源汽车股份有限公司12月销量为9863辆，上年同期销量为4198辆；本年累计销量为50179辆，同比增长92.06%。]]></title>
+            <guid>2927666</guid>
+            <pubDate>Mon, 02 Jan 2023 08:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西伯利亚天然气直通上海 中俄东线日输气超6000万立方米】记者今天（1月2日）从国家管网集团了解到，中俄东线天然气管道自投产以来，已累计向国内输送天然气超300亿立方米，日输气量提升到6100万立方米，大幅提升了东北、华北及华东地区天然气保供能力。国家管网集团北方管道公司副总工程师宋飞称，中俄东线投产三年以来，输气量连续三年稳定增长，2022年底中俄东线输气量进一步增长，日输气量超过5000万立方米，2022年全年输气量突破150亿立方米。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8995006.d.html</link>
+            <guid>2927664</guid>
+            <pubDate>Mon, 02 Jan 2023 08:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF总裁格奥尔基耶娃警告世界经济面临“艰难的一年”】国际货币基金组织（IMF）总裁克里斯塔琳娜·格奥尔基耶娃（Kristalina Georgieva）警告称，全球经济面临“艰难的一年，比我们刚结束的一年还要艰难。”“我们预计全球经济的三分之一将陷入衰退，”格奥尔基耶娃在当地时间1月1日播出的采访中表示。国际货币基金组织已经在10月份警告称，全球经济的三分之一以上将收缩，2023年全球GDP增长率低于2%的可能性为25%，该组织将其定义为全球衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8994155.d.html</link>
+            <guid>2927663</guid>
+            <pubDate>Mon, 02 Jan 2023 08:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利富时MIB指数日内涨幅达1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2216048.d.html</link>
+            <guid>2927662</guid>
+            <pubDate>Mon, 02 Jan 2023 08:35:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙12月制造业PMI 46.4，预期46.2，前值45.7。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2200734.d.html</link>
+            <guid>2927658</guid>
+            <pubDate>Mon, 02 Jan 2023 08:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金石资源：公司董事、总经理赵建平去世，副董事长王福良代行总经理职责】金石资源公告，公司董事、总经理兼总工程师赵建平因病经抢救无效去世；公司全体董事推举公司副董事长、常务副总经理、首席专家王福良代行总经理职责。公司全体董事推举公司副董事长、常务副总经理、首席专家王福良代行总经理职责，公司董事会将会尽快完成公司总经理聘任工作。公司现任董事会成员由9人变成8人，未低于法定人数。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2197237.d.html</link>
+            <guid>2927655</guid>
+            <pubDate>Mon, 02 Jan 2023 08:10:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球首架国产大飞机C919飞抵海口美兰国际机场】 据央视新闻，2023年1月2日11时42分，伴随着MU7807航班的落地，中国东航全球首架国产大飞机C919从上海虹桥机场飞抵海口美兰国际机场，穿过象征民航最高礼仪的“水门”，正式开始在海口站的验证飞行工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2196951.d.html</link>
+            <guid>2927654</guid>
+            <pubDate>Mon, 02 Jan 2023 08:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【长华集团：截至12月31日，支付5323.63万元累计回购454.65万股公司股份】长华集团公告，截至2022年12月31日，公司通过集中竞价交易方式已累计回购股份454.65万股，约占公司总股本的比例为0.96%，购买的最高价为12.09元/股，最低价为10.16元/股，已支付的总金额为5323.63万元（不含交易费用）。]]></title>
+            <guid>2927653</guid>
+            <pubDate>Mon, 02 Jan 2023 08:09:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【声迅股份：声迅转债网上中签率为0.0006709717%】声迅股份公告，本次发行最终确定的网上向社会公众投资者发行的声迅转债总计为63.668万张，即6366.80万元，约占本次发行总量的22.74%，网上中签率为0.0006709717%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2195558.d.html</link>
+            <guid>2927652</guid>
+            <pubDate>Mon, 02 Jan 2023 08:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【维信诺：拟购买合肥维信诺40.91%股权并配套募资，股票1月3日起复牌】维信诺公告，公司拟向合屏公司、芯屏基金、兴融公司发行股份及支付现金购买其所持有的合肥维信诺40.91%股权；本次交易前，公司持有合肥维信诺18.18%股权。交易完成后，维信诺将持有合肥维信诺59.09%股权，合肥维信诺将成为公司控股子公司。本次交易预计构成公司重大资产重组。公司拟向不超过35名特定投资者非公开发行人民币普通股募集配套资金。募集配套资金拟用于支付本次交易的现金对价、支付交易税费与中介费用。同日公告，经向深圳证券交易所申请，公司股票将于2023年1月3日（星期二）开市起复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8971929.d.html</link>
+            <guid>2927651</guid>
+            <pubDate>Mon, 02 Jan 2023 08:07:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【康冠科技：预计2022年净利润同比增长65%-70%】康冠科技发布2022年年度业绩预告，预计净利润15.32亿元–15.7亿元，同比增长65.99%-70.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2191119.d.html</link>
+            <guid>2927649</guid>
+            <pubDate>Mon, 02 Jan 2023 08:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧股开盘，德国DAX指数涨0.42%，法国CAC40指数涨0.73%，欧洲斯托克50指数涨近1%。]]></title>
+            <guid>2927645</guid>
+            <pubDate>Mon, 02 Jan 2023 08:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通银行：副行长黄红元的任职资格获监管机构核准】 交通银行公告，公司2022年12月30日收到《中国银保监会关于交通银行黄红元任职资格的批复》，中国银行保险监督管理委员会已核准黄红元任本公司副行长的任职资格，黄红元已正式就任本公司副行长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2188763.d.html</link>
+            <guid>2927643</guid>
+            <pubDate>Mon, 02 Jan 2023 07:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宇晶股份：实际控制人发生变更】宇晶股份公告，公司2021年度非公开发行A股股票的新股已于2022年12月27日登记完成，公司本次非公开发行2000万股，由杨佳葳认购，此次发行完毕后，公司增加2000万股有限售条件流通股，总股本增加至1.20亿股。综合杨佳葳系杨宇红儿子，杨佳葳已在公司担任董事、总经理的客观情况，公司认为在本次发行完成后，杨佳葳与其父亲杨宇红共同控制公司，两人为公司的共同实际控制人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2187578.d.html</link>
+            <guid>2927642</guid>
+            <pubDate>Mon, 02 Jan 2023 07:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金春股份：“年产2万吨新型卫生用品热风无纺布项目”延期】金春股份公告，公司于2022年12月30日召开第三届董事会第十次会议、第三届监事会第十次会议，会议审议通过了《关于部分募投项目延期的议案》，同意公司在保持募集资金投资项目的实施主体、投资总额和资金用途等均不发生变化的情况下，根据募集资金投资项目当前的实际建设进度，将公司首次公开发行股票募集资金投资项目中的“年产2万吨新型卫生用品热风无纺布项目”达到预定可使用状态的时间延长至2023年12月。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2185224.d.html</link>
+            <guid>2927641</guid>
+            <pubDate>Mon, 02 Jan 2023 07:55:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【君实生物：VV116已完成一项对比PAXLOVID的轻至中度COVID-19患者早期治疗的III期临床研究】君实生物公告，公司控股子公司君拓生物与旺山旺水合作开发的口服核苷类抗SARS-CoV-2药物VV116片(项目代号：JT001/VV116，“VV116”)已完成一项对比奈玛特韦片/利托那韦片组合药物(PAXLOVID)用于伴有进展为重度包括死亡高风险因素的轻至中度新型冠状病毒感染(“COVID-19”)患者早期治疗的III期临床研究(NCT05341609， “JT001-010研究”)，同时还在不同的人群中开展了多项VV116的国际多中心III期临床研究。]]></title>
+            <guid>2927640</guid>
+            <pubDate>Mon, 02 Jan 2023 07:54:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【元旦后出境游更火？携程春运跨境游机票预订量同比增长超260%】1月2日，携程发布2023元旦假期总结报告。报告显示，相较2022年不到四成的用户跨省出行，这次元旦假期近六成的用户选择跨省游——人口流动显著释放消费潜力，跨年经济带动全国旅游迅速升温。元旦跨境机票预订量同比增长145%，春运跨境游热度则更高，预订量同比增长超过260%。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8957874.d.html</link>
+            <guid>2927639</guid>
+            <pubDate>Mon, 02 Jan 2023 07:51:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【现代汽车开始在挪威仅销售电动汽车】 据《韩国时报》（TheKoreaTimes）报道，现代汽车欧洲分部上周日表示，该公司已决定今年在挪威只销售电动汽车。“我们的欧洲分部已决定只在挪威销售电动汽车，首尔总部也确认了这一决定，”现代汽车相关人士表示。截至去年11月，在挪威注册的新车中，81.6%为电动汽车。该公司此前已宣布计划从2035年起在欧洲停止销售内燃机汽车，到2040年全球范围内将仅销售电动汽车。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8948804.d.html</link>
+            <guid>2927637</guid>
+            <pubDate>Mon, 02 Jan 2023 07:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西新总统签署保护亚马孙地区等环保法令】巴西新一任总统卢拉1日就职当天集中签署了多项与环境保护相关的行政法令，其中包括恢复亚马孙基金运作、遏制非法采矿、打击滥伐森林等内容。在1日下午宣誓就任巴西总统后几小时内，卢拉在其内阁的就职仪式现场签署了上任后的第一批行政法令，其中与环境保护相关的措施得到就职仪式参与者和现场观众长时间的鼓掌欢呼。根据最新行政法令及其解释性文件，巴西新一届政府将恢复被长期搁置的亚马孙基金的运作，“允许使用33亿雷亚尔（约合6.2亿美元）的国际捐款来打击亚马孙地区的环境犯罪”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2165830.d.html</link>
+            <guid>2927635</guid>
+            <pubDate>Mon, 02 Jan 2023 07:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去哪儿回应不同手机订酒店价格差距大：会员等级不同】 据中新经纬，对于被曝不同手机订酒店价格差距大一事，去哪儿2日回应表示，系因会员等级不同导致。去哪儿当日就此事出具的声明函称，2023年1月1日，微博用户曝出关于去哪儿网预订酒店价格差距大的问题，视频内容为失实信息。去哪儿要求该微博用户要求删除视频，停止侵害行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2163064.d.html</link>
+            <guid>2927634</guid>
+            <pubDate>Mon, 02 Jan 2023 07:32:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[空客就收购IT咨询集团Atos旗下网络安全部门Evidian的少数股权开始谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2161831.d.html</link>
+            <guid>2927633</guid>
+            <pubDate>Mon, 02 Jan 2023 07:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海普陀发布“普陀科创十条” 科技企业上市最高将获400万元资助】“半马苏河科创秀带——普陀区‘中华武数’科创平台迎新会”上，普陀2023年首项科技创新支持举措——《普陀区鼓励企业科创政策包》（“普陀科创十条”）发布。其中提出，对符合普陀区产业导向的、具有发展潜力的科技企业，经认定，通过母基金或产业直投的方式，给予最高不超过1亿元的股权融资份额。对科技企业在境内外主要证券交易所首次公开发行股票并上市的，给予最高400万元的资助；在全国中小企业股份转让系统挂牌交易的，给予最高105万元的资助。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2161064.d.html</link>
+            <guid>2927632</guid>
+            <pubDate>Mon, 02 Jan 2023 07:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【澳大利亚直升机相撞事故已造成4死3重伤】根据澳大利亚昆士兰州紧急救护服务部门（QAS）当地时间1月2日公布的消息，该州当日发生的直升机相撞事故已导致4人死亡、3人重伤。目前，事故原因正在调查当中。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutuc2149743.d.html</link>
+            <guid>2927629</guid>
+            <pubDate>Mon, 02 Jan 2023 07:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯计划1月份从波罗的海普里莫斯克港口出口181万吨超低硫柴油。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8925767.d.html</link>
+            <guid>2927628</guid>
+            <pubDate>Mon, 02 Jan 2023 07:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国现代石油银行宣布发放年终奖：10倍年薪】据《韩国先驱报》报道，韩国炼油商现代石油银行（Hyundai Oilbank）周一表示，它向其职员发放了相当于10倍年薪的年终奖金。该公司拒绝透露薪酬的具体数额。据悉，2021年，该公司雇员奖金相当于6倍年薪，人均奖金为7.26亿韩元（约合人民币393.45万元）。其他韩国主要炼油商——SK Energy、S-Oil和GS Caltex，也将很快决定奖金标准。（界面）]]></title>
+            <guid>2927627</guid>
+            <pubDate>Mon, 02 Jan 2023 07:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏州新能源汽车产业创新集群建设推进大会举行，总投资916亿元项目集中开工签约投产】1月2日，苏州市新能源汽车产业创新集群建设推进大会暨项目集中开工签约仪式在太仓举行。本次集中开工签约和投产投用产业项目共142个、总投资916亿元，涵盖新能源汽车整车、汽车电子及零部件、智能网联汽车等细分领域，其中总投资50亿元以上项目3个，30亿元以上项目6个，10亿元以上项目33个。（苏州日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8923849.d.html</link>
+            <guid>2927625</guid>
+            <pubDate>Mon, 02 Jan 2023 07:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因油价飙升，埃克森美孚和雪佛龙将合计获得近1千亿美元利润】根据S&P Capital IQ汇编的华尔街预期数据，埃克森美孚预计2022年利润将超过560亿美元，雪佛龙利润将超过370亿美元，这两家公司的利润都将创下历史新高，合计近1000亿美元。两家公司都认为，石油和天然气将在未来几十年为全球经济增长提供动力，尽管各国都在为应对气候变化而努力减少对化石燃料的依赖。埃克森美孚最近发布的长期能源展望显示，至少到2040年底，石油需求将继续增长。雪佛龙CEO表示，20年后，化石燃料仍将“主宰世界”。此外，此前有消息称埃克森美孚将起诉欧盟，以迫使其废除对石油公司征收新的暴利税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8922821.d.html</link>
+            <guid>2927624</guid>
+            <pubDate>Mon, 02 Jan 2023 07:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度国有矿业公司NMDC：从1月1日起将块状铁矿石价格调整为4300卢比/吨；从1月1日起将铁矿石细粉价格调整为3410卢比/吨。]]></title>
+            <guid>2927623</guid>
+            <pubDate>Mon, 02 Jan 2023 07:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克央行行长Michl：在一段时间内，利率仍将高于过去10年的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyutue8912767.d.html</link>
+            <guid>2927620</guid>
+            <pubDate>Mon, 02 Jan 2023 06:58:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克央行行长Michl：降低通胀是当务之急。1月通胀将因电价上涨而上升，到春季，通胀将下降。]]></title>
+            <guid>2927619</guid>
+            <pubDate>Mon, 02 Jan 2023 06:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东文登抽水蓄能电站首批机组投产发电】据国家电网消息，1月1日，山东文登抽水蓄能电站1号、2号机组通过15天考核试运行，顺利投产发电。电站机组投运后可承担电网调峰、填谷、调频、调相、紧急事故备用和黑启动等任务，对保障电网安全稳定运行、促进清洁能源消纳、推动能源结构调整具有重要意义。文登抽水蓄能电站总投资约85亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2263369.d.html</link>
+            <guid>2927618</guid>
+            <pubDate>Mon, 02 Jan 2023 06:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：将继续通过乌克兰向欧洲输送天然气，周一输送量为4240万立方米。]]></title>
+            <guid>2927617</guid>
+            <pubDate>Mon, 02 Jan 2023 06:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【即将到来的兔年，有384天？！】2022年已经过去，崭新的2023年已经到来。天文科普专家介绍，公历2023年为平年，2月有28天，全年共有365天。即将到来的农历癸卯兔年为闰年，全年共有384天。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2257310.d.html</link>
+            <guid>2927616</guid>
+            <pubDate>Mon, 02 Jan 2023 06:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《原神》推出2年移动端收入超276亿元】根据Sensor Tower的数据，自2020年推出以来，《原神》移动版已经取得了超过40亿美元（约276.8亿元人民币）的收入。其中，该作在中国市场的收入占比为34.6%，即14亿美元，其次是日本市场，收入占比为23.2%，即9.6亿美元。在美国市场的收入占比接近20%，约6.8亿美元，在韩国占比不到 10%，为2.5亿美元。（IT之家）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2252246.d.html</link>
+            <guid>2927615</guid>
+            <pubDate>Mon, 02 Jan 2023 06:42:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台湾长荣航勤员工不满待遇集体休假，长荣航空：去年底已调薪并核发年终奖】台湾《联合报》1月2日消息，因不满年终奖金仅1个月，长荣航勤元旦连假前两天有上百人临时请假，航班大乱，今天请假人数减少，约40人上下。长荣航空表示，去年底已完成调薪及年终奖金发放作业，对于相关技术性较高的作业员工，另行调高技术津贴，并配合航空业逐步复苏，积极提升作业能量，将持续进行人才招募。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2249830.d.html</link>
+            <guid>2927614</guid>
+            <pubDate>Mon, 02 Jan 2023 06:39:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高370米！“浦西第一高楼”徐家汇中心T2塔楼封顶】近日，位于徐家汇商圈核心地带的大型综合体项目徐家汇中心T2塔楼核心筒顺利实现封顶目标。T2塔楼高370米，是上海浦西在建最高楼，预计2024年竣工交付后将刷新浦西天际线，取代320米高的北外滩白玉兰广场，成为“浦西第一高楼”。（上海发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnh9026181.d.html</link>
+            <guid>2927613</guid>
+            <pubDate>Mon, 02 Jan 2023 06:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【市场消息，空客洽购Atos旗下网络安全部门少数股权】据知情人士称，空客集团已开始试探性谈判，试图收购IT咨询集团Atos旗下网络安全部门Evidian的少数股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2249075.d.html</link>
+            <guid>2927612</guid>
+            <pubDate>Mon, 02 Jan 2023 06:38:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰基辅市能源设施受损严重，已实施紧急停电】 当地时间1月2日，乌克兰基辅市长表示，由于夜间遭到轰炸，基辅市内的能源基础设施受损严重，目前该市已实施紧急停电举措，市内自来水供应还处于正常状态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnh9020441.d.html</link>
+            <guid>2927611</guid>
+            <pubDate>Mon, 02 Jan 2023 06:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国股市综合股价指数收盘下跌0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2240719.d.html</link>
+            <guid>2927610</guid>
+            <pubDate>Mon, 02 Jan 2023 06:33:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国药集团与清华大学签署战略合作协议】清华新闻网1月2日消息，2022年12月29日下午，清华大学与国药集团签署战略合作协议。根据协议，双方将着力提升科研创新能力，共建联合科研机构，聚焦生物医药产业需求开展多方面科研合作；推动国家级创新平台建设，推进医药产业相关技术自立自强；加强人才培养交流合作，共同培养生物医药领域高层次创新人才。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2238149.d.html</link>
+            <guid>2927608</guid>
+            <pubDate>Mon, 02 Jan 2023 06:31:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【明明：基本面强预期对债市制约仍未解除，但短期套息策略空间回升】中信证券首席经济学家明明债券研究团队表示，随着防疫政策优化措施基本落实而北上等超一线城市阳康人员返岗复工，基本面强修复预期限制了长端利率的下行空间。往后看，利率中枢长期高位震荡的逻辑仍在延续。然而短期来看，度过跨年时点后商业银行的资金融出意愿回升，资金面宽松或将延续，而短端利率在前期赎回潮的影响下已经处于相对高位，和资金利率间的较宽利差为套息策略提供了充裕空间，因此建议把握月初时段适当进行套息操作，但也要关注大量逆回购到期后央行的续作情况以及每日的资金净回笼。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2231811.d.html</link>
+            <guid>2927607</guid>
+            <pubDate>Mon, 02 Jan 2023 06:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【希腊迈索尼附近海域发生4.3级地震】据希腊国家电视台消息，当地时间1月2日7时28分，希腊伯罗奔尼撒半岛迈索尼附近海域发生里氏4.3级地震，震中位于迈索尼以南50公里处，震源深度为23.5公里。五分钟后，当地又发生了里氏2.9级的余震。目前暂无人员受伤及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2219622.d.html</link>
+            <guid>2927605</guid>
+            <pubDate>Mon, 02 Jan 2023 06:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电影《阿凡达：水之道》票房破11亿】据@灯塔专业版 微博消息，截至1月2日13时58分，影片《阿凡达：水之道》票房突破11亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnh8992876.d.html</link>
+            <guid>2927604</guid>
+            <pubDate>Mon, 02 Jan 2023 06:09:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【“静注人免疫球蛋白”爆红？无需盲目抢购，更不能滥用】 近日，静注人免疫球蛋白、阿兹夫定成为公众防疫的“抢手货”，对此，药师提醒：药品使用不慎反而损伤健康，无需盲目抢购。“静注人免疫球蛋白并非COVID-19免疫球蛋白，无需盲目抢购，更不能滥用。”1月1日，针对近日静注人免疫球蛋白遭到抢购的现象，武汉市第一医院呼吸内科临床药师、副主任药师邓体瑛做出健康提醒。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2214508.d.html</link>
             <guid>2927603</guid>
             <pubDate>Mon, 02 Jan 2023 06:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受大雾影响 土耳其暂时关闭达达尼尔海峡】土耳其阿纳多卢通讯社1月2日报道称，因大雾导致海平面能见度下降，达达尼尔海峡从当地时间2日5时30分起暂时关闭，过往船只禁止通行。达达尼尔海峡船舶交通服务局已向海峡南北两侧过往船只发出警告。]]></title>
-            <guid>2927602</guid>
-            <pubDate>Mon, 02 Jan 2023 06:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至1月2日13时59分，2023年元旦档（12月31日-1月2日）总票房突破5亿元。]]></title>
+            <title><![CDATA[【2023年元旦档总票房突破5亿元】 据灯塔专业版实时数据，截至1月2日13时59分，2023年元旦档（12月31日-1月2日）总票房突破5亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2212702.d.html</link>
             <guid>2927601</guid>
             <pubDate>Mon, 02 Jan 2023 06:06:23 GMT</pubDate>
         </item>
@@ -106,358 +465,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2170870.d.html</link>
             <guid>2927582</guid>
             <pubDate>Mon, 02 Jan 2023 05:17:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼贸易部长：印尼2023年需要进口99.1万吨白糖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnh8943080.d.html</link>
-            <guid>2927581</guid>
-            <pubDate>Mon, 02 Jan 2023 05:12:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度12月日经制造业PMI 57.8，预期54.3，前值55.7。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2156454.d.html</link>
-            <guid>2927580</guid>
-            <pubDate>Mon, 02 Jan 2023 05:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国计划2025年发射SMILE卫星】在中国科学院国家空间科学中心，科研团队正在研制太阳风-磁层相互作用全景成像卫星，也叫SMILE卫星，用于更好地认识太阳活动与地球磁场变化之间的关系。SMILE卫星计划于2025年发射升空，为人类空间天气预警预报服务提供数据支撑，也将为人类探索浩瀚宇宙、拓展认知边界提供新的重要平台。 (央视军事)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnf2151600.d.html</link>
-            <guid>2927578</guid>
-            <pubDate>Mon, 02 Jan 2023 04:54:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼统计局：印尼去年11月主要口岸的外国入境人数为544800人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyupnh8920662.d.html</link>
-            <guid>2927577</guid>
-            <pubDate>Mon, 02 Jan 2023 04:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港：含“扑热息痛”成分的药物供应维持稳定】据香港特区政府新闻公报，特区政府发言人1月2日表示，含“扑热息痛”（Paracetamol）成分的药物在香港整体供应维持稳定，市民不需要囤积有关药物。扑热息痛可用于止痛及退烧。根据纪录，香港现时有756个已注册的药剂制品含扑热息痛成分。政府亦强调，公营医疗系统就含“扑热息痛”成分药物的备存量十分充足。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9035553.d.html</link>
-            <guid>2927569</guid>
-            <pubDate>Mon, 02 Jan 2023 04:22:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华伍股份：公司在海上大兆瓦机组供货上一直都占比较高】华伍股份在互动平台表示，公司坚持关键零部件自主研发，具有独特的核心工艺流程作为保证，产品的可靠性和可维护性更好，产品结构设计更优，在大型化风电主机上具备技术优势。多年来，公司一直跟随整机厂客户的机型转化，在海上大兆瓦机组供货上一直都占比较高，陆上大兆瓦机组也随着整机机型的变化而供货，随着机型的大型化趋势不断发展，公司在大兆瓦机型的市场优势地位将更加凸显。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9034226.d.html</link>
-            <guid>2927568</guid>
-            <pubDate>Mon, 02 Jan 2023 04:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三星显示将推迟与日本Ulvac公司的IT OLED合作项目】据报道，三星显示已经改变了其在开发第八代IT OLED面板方面的优先次序，正计划推迟对其与日本Ulvac公司共同开发了一年多的全切割、垂直沉积方法的投资。消息人士称，三星显示将转向对一直在开发的Canon Tokki半切水平沉积法进行投资。这种方法已经商业化，目的是为苹果公司提供iPad平板电脑的OLED面板。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9034011.d.html</link>
-            <guid>2927567</guid>
-            <pubDate>Mon, 02 Jan 2023 04:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球最大的混合式抽水蓄能项目开工，机构预计这些股业绩大幅增长】12月29日，雅砻江两河口混合式抽水蓄能电站开工仪式在四川雅江两河口水电站大坝上举行。两河口混蓄电站是目前全球最大的混合式抽水蓄能项目、全国大型清洁能源基地中首个开工的混蓄项目、我国海拔最高的大型抽水蓄能项目。“十四五”期间，国内将核准219个抽水蓄能项目，总投资约1.6万亿元。截至2021年底，我国在建抽水蓄能项目48座、装机容量6153万千瓦。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9029190.d.html</link>
-            <guid>2927565</guid>
-            <pubDate>Mon, 02 Jan 2023 04:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经合组织警告称，养老基金必须“极度小心”流动性风险】养老基金最近将大量资金投入基础设施项目和私人股本等另类投资，以逃避政府债券的低收益率。但这类投资通常缺乏流动性，这意味着养老基金在需要时将无法迅速将这些投资转为现金。经合组织金融事务部私人养老金部门首席经济学家Pablo Antolin表示，现在有人呼吁加大监管灵活性，允许固定缴款计划投资于流动性不足的领域，这没什么问题。但我们也必须非常小心，因为流动性问题在投资策略管理中非常重要。Antolin还警告称，对另类投资要求的尽职调查水平，可能超出了许多规模较小的基金的能力范围，中小型养老基金可能无法很好地评估这类投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9027991.d.html</link>
-            <guid>2927564</guid>
-            <pubDate>Mon, 02 Jan 2023 04:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月3日起，京港地铁大兴线工作日早高峰运力延长20分钟】据京港地铁消息，自1月3日起，京港地铁大兴线工作日早高峰运力将延长20分钟，为乘客早高峰出行提供更大便利。京港地铁透露，最小行车间隔持续时间延长后，早高峰小时运力可提升17%，即在该时间段内，该条线路单向可多运送5000余名乘客。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2245999.d.html</link>
-            <guid>2927561</guid>
-            <pubDate>Mon, 02 Jan 2023 04:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交卷！新能源车年度交付座次排定！】1月1日，中国主流造车新势力公司纷纷发布2022年12月新车交付数据，与此同时，伴随本轮交卷，造车新势力的2022年座次也重新排定。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9018821.d.html</link>
-            <guid>2927559</guid>
-            <pubDate>Mon, 02 Jan 2023 03:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【造车新势力2022年交付量盘点：哪吒成销冠，竞争格局尚未定型】哪吒汽车公布的交付信息显示，其2022年全年累计销量达15.21万辆，同比增长118%，成首个年销量突破15万台的新势力品牌；理想汽车总计交付13.32万辆，同比2021年增长47.2%；蔚来共交付新车12.25万辆，同比增长34%；去年的销冠小鹏汽车今年累计交付量为12.08万辆，较2021年增长23%；零跑2022年累计交付量达11.12万辆，同比增长超154%，增幅为几家中最大；极氪和AITO问界分别为7.79万辆和7.62万辆。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek9009143.d.html</link>
-            <guid>2927558</guid>
-            <pubDate>Mon, 02 Jan 2023 03:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OTA平台元旦旅游数据显示：长途游复苏明显，超4成自驾】多个OTA平台元旦旅游数据复苏。马蜂窝大数据显示，2023元旦小长假，“长途游”热度环比增长48%，其中游玩4-8天的“中长途游”热度环比上涨172%，41%的游客选择自驾出行。感染高峰日趋平缓的一线及新一线城市出行率先迎来出游高峰，成为2023元旦假期旅游消费群体的主力，二者占比高达73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2226233.d.html</link>
-            <guid>2927555</guid>
-            <pubDate>Mon, 02 Jan 2023 03:45:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三鑫医疗：四川威力生透析机消毒液获得国家药品监督管理局批准上市】据三鑫医疗消息，近日，三鑫医疗全资子公司——四川威力生医疗科技有限公司获得由国家药品监督管理局批准的透析机消毒液Ⅲ类医疗器械注册证。该产品是以枸橼酸（柠檬酸）为主要有效成分的"械"字号消毒液，用于血液透析机的清洗、脱钙和热消毒。透析机消毒液由枸橼酸、乳酸、D,L-苹果酸和纯化水组成或枸橼酸和纯化水组成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2225697.d.html</link>
-            <guid>2927554</guid>
-            <pubDate>Mon, 02 Jan 2023 03:44:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国票房：《阿凡达2》连续三周稳居榜首，累计票房约为958亿韩元】韩国电影票综合电算网1月2日发布的统计数据，好莱坞大片《阿凡达：水之道》（《阿凡达2》）上周末（去年12月30日～1月1日）共吸引127.4万多人次观影，连续三周稳居票房榜首位。截至前一天，《阿凡达2》累计吸引774.2万多人次观看，国内累计票房约为958亿韩元（约合人民币5.2亿元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8999638.d.html</link>
-            <guid>2927553</guid>
-            <pubDate>Mon, 02 Jan 2023 03:40:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【秦刚与布林肯通话，讨论中美关系及维持开放的沟通渠道】1月1日，中国外交部部长秦刚与美国国务卿布林肯通电话。秦刚表示，期待与布林肯继续保持密切的工作关系，促进中美关系的发展。秦刚2日在社交平台发文说：“与布林肯通话说再见，我很高兴在任职（驻美大使）期间与他举行了几次坦诚、深入、富有建设性的会谈。期待与他继续保持密切的工作关系，促进中美关系发展。”布林肯也在社交平台表示，与中国外长秦刚通话，双方讨论了中美关系以及维持开放的沟通渠道。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8998209.d.html</link>
-            <guid>2927552</guid>
-            <pubDate>Mon, 02 Jan 2023 03:39:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拉加德：克罗地亚加入欧元区显示表明欧元具有持久吸引力】欧洲央行行长拉加德表示，克罗地亚加入欧元区证明欧元具有持久的吸引力，并能为成员国带来稳定。这也意味着欧洲央行管委会的决策者名单增至26人，克罗地亚央行行长武伊契奇将加入欧洲央行货币政策制定者的行列。拉加德在接受克罗地亚报纸Jutarnji采访时表示：“除丹麦外，只有6个欧盟成员国还没加入欧元区。如果他们需要更多时间，那也没关系。当他们符合标准并希望加入时，我们很乐意增加欧元区国家的数量”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8995704.d.html</link>
-            <guid>2927550</guid>
-            <pubDate>Mon, 02 Jan 2023 03:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据国家发改委数据，截至12月28日，全国生猪出场价格为18.99元/公斤，较12月21日下跌0.94%；主要批发市场玉米价格为2.96元/公斤，较12月21日下跌0.67%；猪粮比价为6.42，较12月21日下跌0.16%。]]></title>
-            <guid>2927547</guid>
-            <pubDate>Mon, 02 Jan 2023 03:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安深蓝：2022年12月SL03交付11650辆，环比增长42%】据长安深蓝官博消息，2022年12月长安深蓝SL03交付量达到11650辆，环比增长42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8989210.d.html</link>
-            <guid>2927546</guid>
-            <pubDate>Mon, 02 Jan 2023 03:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源集团青海同德抽水蓄能电站获核准】据国家能源集团官微消息，2022年12月30日，国家能源集团青海公司同德抽水蓄能电站获得青海省发展和改革委员会核准批复。据介绍，该项目位于青海省海南藏族自治州同德县河北乡境内，电站总装机240万千瓦，安装8台30万千瓦单级混流式水泵水轮发电机组。项目总投资170.3亿元，计划总工期78个月，预计2027年底前首台机组投产发电，2028年全部机组投产发电。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8987527.d.html</link>
-            <guid>2927545</guid>
-            <pubDate>Mon, 02 Jan 2023 03:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【XBB1.5致腹泻？专家：致病力无区别，没必要囤蒙脱石散】近日，有网传消息称：XBB1.5毒株在美国登顶，此毒株主攻心脑血管和肚子，建议准备蒙脱石散。对此，专家表示，其致病力和之前毒株没有区别，没必要大量囤积蒙脱石散。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8986485.d.html</link>
-            <guid>2927544</guid>
-            <pubDate>Mon, 02 Jan 2023 03:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【枪杀安倍的山上彻也发声：“赎罪后想要做些能惠及他人的事”】 日本前首相安倍晋三2022年7月8日在奈良市中枪身亡。事件过去5个月后，日本朝日电视台2022年12月31日发布独家报道称，枪杀安倍嫌犯山上彻也在受访时表示，“自己做了应该做的事”。报道称，除了上述言论，山上彻也还就他现在的想法称，“在赎罪后想要做一些能够惠及他人的事情”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2209132.d.html</link>
-            <guid>2927543</guid>
-            <pubDate>Mon, 02 Jan 2023 03:25:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太平洋国家抗议日本排放核污染水】据美国《纽约时报》网站2022年12月30日报道，在太平洋地区，围绕日本排放福岛核污染水计划展开了强烈抗议。报道称，日本计划2023年春天开始将去除了大多数放射性粒子的福岛核污染水排入太平洋，就像在其他地方所做的那样。这一做法令日本邻国日益惊恐。南太平洋国家几十年来一直遭受美国曾在马绍尔群岛进行的核试验的影响，对安全承诺尤为怀疑。上月，一个代表包括澳大利亚和马绍尔群岛在内的10多个太平洋国家的组织敦促东京推迟排放核污染水。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2207234.d.html</link>
-            <guid>2927542</guid>
-            <pubDate>Mon, 02 Jan 2023 03:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泉州金控集团托管的惠安恒大项目将公开竞价销售，首批共50套】本项目成交资金将汇入专用监管账户，由惠安县住房和城乡建设局统一监管。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8973134.d.html</link>
-            <guid>2927540</guid>
-            <pubDate>Mon, 02 Jan 2023 03:10:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：锂成为澳大利亚“新黄金”】西班牙《公众》日报网站2022年12月31日报道称，锂已成为人类社会向清洁能源转型的重要原料。它被用于制造电动汽车动力电池以及家庭备用电源，或在风能、太阳能发电厂中储存过剩电能的固定电池。澳大利亚是当今世界最大的锂来源国：它是全球锂开采量最多的国家和第一大出口国。报道称，锂是一种越来越珍贵的资源，并且正在成为澳大利亚的“新黄金”。（央视新闻）]]></title>
-            <guid>2927537</guid>
-            <pubDate>Mon, 02 Jan 2023 03:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月2日全国铁路预计发送旅客565万人次】从中国国家铁路集团有限公司获悉，1月1日，全国铁路共发送旅客474.5万人次，开行旅客列车6456列；1月2日，预计发送旅客565万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8964348.d.html</link>
-            <guid>2927536</guid>
-            <pubDate>Mon, 02 Jan 2023 03:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月1日起新能源车价格普遍上涨数千元】1月1日起购买新能源车不再享补贴，加上原材料价格在上涨，多家新能源车企此前已宣布将上调汽车零售价格。新年的市场上，有销售人员称，门店全系车型价格已上调。对于多家新能源车销售门店的负责人来说，刚刚过去的12月可以说颇为忙碌，受新能源车购置补贴终止影响，不少客户都赶在年底下单。（经济观察报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2187130.d.html</link>
-            <guid>2927535</guid>
-            <pubDate>Mon, 02 Jan 2023 03:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长城军工实控人变更为兵器装备集团】长城军工2022年12月31日披露，12月30日，安徽省国资委与兵器装备集团签署《关于安徽军工集团控股有限公司股权无偿划转协议》，安徽省国资委将持有的公司控股股东安徽军工集团控股有限公司51%股权无偿划转给兵器装备集团。本次无偿划转完成后，公司的控股股东仍为安徽军工集团；公司的实际控制人由安徽省国资委变更为兵器装备集团。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8964106.d.html</link>
-            <guid>2927534</guid>
-            <pubDate>Mon, 02 Jan 2023 02:59:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国已停止从俄罗斯进口液化天然气】英国外交部当地时间1月1日在推特发文称，“今天，英国已经停止从俄罗斯进口液化天然气。”  （界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8958697.d.html</link>
-            <guid>2927532</guid>
-            <pubDate>Mon, 02 Jan 2023 02:54:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京艺术博物馆1月3日起恢复对外开放】据北京艺术博物馆消息，北京艺术博物馆自2023年1月3日（周二）起恢复对外开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8956293.d.html</link>
-            <guid>2927531</guid>
-            <pubDate>Mon, 02 Jan 2023 02:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合创汽车2022年累计交付突破2万台】据合创汽车官博消息，合创汽车2022年12月交付3134台，2022年全年累计交付突破20000台。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8951632.d.html</link>
-            <guid>2927530</guid>
-            <pubDate>Mon, 02 Jan 2023 02:45:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【消息称继iPhone之后 印度还要争取生产MacBook和iPad】据报道，由于在印度生产iPhone取得了成功，印度政府正准备加大刺激力度，进一步寻求在印度生产MacBook和iPad等产品。印度电子和信息技术部的高层人士称，印度正考虑将面向IT硬件的“生产激励计划”（PLI）的规模从当前的735亿卢比扩大到2000亿卢比，从而进一步扩大苹果的制造生态系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2172107.d.html</link>
-            <guid>2927529</guid>
-            <pubDate>Mon, 02 Jan 2023 02:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去哪儿回应不同手机订酒店存价差：会员等级越高价格越低】近日有网友表示，预订酒店时，在日期、房型相同情况下，三台手机设备显示出不同价格。对此，去哪儿回应称，会员等级越高价格越低。“视频中三个手机，去哪儿会员等级越高价格越低。487元的价格是钻石会员，520元是普通会员，877元是未登陆的报价，页面明确提示登陆解锁更多优惠价格。”（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2168923.d.html</link>
-            <guid>2927528</guid>
-            <pubDate>Mon, 02 Jan 2023 02:38:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国2021年游戏产业销售额同比增加11.2%，创新高】 据报道，韩国文创内容振兴院2日发布《2022年韩国游戏白皮书》，2021年国内游戏市场销售额同比增加11.2%，为20.9913万亿韩元（约合人民币1146亿元），创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2167120.d.html</link>
-            <guid>2927527</guid>
-            <pubDate>Mon, 02 Jan 2023 02:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非国际关系与合作部：南中建交25周年 互利合作成果丰硕】1月1日，南非与中国迎来了建交25周年。南非国际关系与合作部同日发表声明说，25年来，南中两国深化各领域双边关系，互利合作取得了丰硕的成果。声明说，南中两国有着蓬勃发展的经济关系，中国目前是南非最大的全球贸易伙伴，南非也是中国在非洲的第一大贸易伙伴。建交以来，两国贸易额大幅增长。“更重要的是，这种互利关系支持南非实现国内发展的外交政策目标，并促进了非洲大陆更广泛的社会经济发展目标。”声明说。国际关系与合作部表示，今年南非将接棒中国担任金砖国家主席国，两国将继续致力于在中非合作论坛框架下开展密切合作。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2164947.d.html</link>
-            <guid>2927525</guid>
-            <pubDate>Mon, 02 Jan 2023 02:34:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中储粮与中粮组建中企联合油脂有限公司，2023年1月运营】 中储粮集团公司官方微信近日消息，中储粮集团公司与中粮集团公司开展股权层面合作，已共同组建中企联合油脂有限公司，2023年1月开业运营。据悉，中企联合油脂有限公司在2022年9月已注册，其组建运营标志着中粮与中储粮在战略性重组、专业化整合、产业链协同方面进入新的阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8941036.d.html</link>
-            <guid>2927524</guid>
-            <pubDate>Mon, 02 Jan 2023 02:33:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《区域全面经济伙伴关系协定》对印尼正式生效】当地时间2023年1月2日，《区域全面经济伙伴关系协定》（RCEP）对印度尼西亚正式生效。作为该协议的配套措施，印尼政府还颁布了一项关于货物原产地及为本地出口的货物签发原产地文件规定的新条例。该条例同步于当地时间1月2日生效。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8939333.d.html</link>
-            <guid>2927523</guid>
-            <pubDate>Mon, 02 Jan 2023 02:31:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创维汽车：2022年总销量21916台，同比增长255.72%】据创维汽车官博消息，2022年12月创维汽车共交付3116台, 其中海外出口1098台；2022年全年总销量21916台，同比增长255.72%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8938599.d.html</link>
-            <guid>2927521</guid>
-            <pubDate>Mon, 02 Jan 2023 02:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长春调整公积金贷款政策，“三孩家庭”额度可提高20万元】据长春市住房公积金管理中心消息，长春市住房公积金管理委员会发布《关于调整长春市住房公积金个人住房贷款政策的通知》。通知明确，购房所在地在长春市主城区及开发区（不含双阳区、九台区）：有共同借款人的，单笔贷款最高额度为90万元；无共同借款人的为60万元。对生育、抚养二孩、三孩的公积金缴存职工家庭，首次申请公积金贷款的，“二孩家庭”贷款额度可在单笔贷款最高额度基础上提高10万元；“三孩家庭”贷款额度可在单笔贷款最高额度基础上提高20万元。上述调整自2023年1月1日开始执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2160497.d.html</link>
-            <guid>2927520</guid>
-            <pubDate>Mon, 02 Jan 2023 02:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【推特拖欠近14万美元租金被房东告上法庭】马斯克的推特公司近日因拖欠旧金山一处办公室的租金被房东告上法庭。根据上周四提交的诉讼文件，房东Columbia Reit-650 California LLC声称，这家社交媒体公司未能支付加州大街650号办公空间的136260美元租金。这个办公室和推特公司总部是分开的，总部在旧金山的市场街。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiei2159091.d.html</link>
-            <guid>2927519</guid>
-            <pubDate>Mon, 02 Jan 2023 02:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公元股份：新的户外移动储能产品目前尚处在研发阶段】公元股份在互动平台表示，公司原有户外储能产品尚未形成规模收入，新的户外移动储能产品目前尚处在研发阶段。另外，公元管道产品已广泛应用于港珠澳大桥、北京大兴国际机场、雄安新区等众多国家重点工程项目和国际援建项目，杭州亚运会的一些基建项目，公司管道产品也有应用其中。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuiek8934120.d.html</link>
-            <guid>2927517</guid>
-            <pubDate>Mon, 02 Jan 2023 02:24:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾降雨已造成至少51人死亡】菲律宾国家减灾委发布消息称，截至当地时间2023年1月2日6时，发生在菲律宾多个地区的降雨已造成至少51人死亡、19人失踪，受灾人口逾59万。报告显示，降雨导致农业方面的损失超过2.4亿比索（约合人民币2900万元），基础设施方面损失超过11.3亿比索（约合人民币1.3亿元）。目前菲律宾共计22个城市宣布进入灾难状态。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9061352.d.html</link>
-            <guid>2927515</guid>
-            <pubDate>Mon, 02 Jan 2023 02:19:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【童朝晖：北京两家定点医院重型和危重型都算上，占到3%-4%】北京市呼吸疾病研究所所长童朝晖表示，大家可能对武汉记忆很深刻，病人都是比较严重的呼吸衰竭，都要上呼吸机，都要上ECMO，这个比例是很高的。后来通过从武汉以后，全国各地好些地方我们也都去过，包括这回到了北京，我觉得从临床治疗到临床救治起来难度肯定比武汉小得多，我们压力没那么大。奥密克戎的特点就是传染性强、传播力强，一传好多人阳性了，实际上真正需要去住院或者需要住到ICU的比例还是低。大概我也统计了一下，这两家定点医院把重型和危重型都算上，占到3%-4%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2281309.d.html</link>
-            <guid>2927514</guid>
-            <pubDate>Mon, 02 Jan 2023 02:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中节能国祯：三大重要项目迎来重大进展】中节能国祯消息，2022年年底，中节能国祯三个项目迎来重大进展。合肥市钟油坊污水处理厂顺利完成通水、即墨污水处理厂升级改造工程正式通水运营、界首市城区黑臭水体治理PPP项目工程通过竣工验收。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9057437.d.html</link>
-            <guid>2927513</guid>
-            <pubDate>Mon, 02 Jan 2023 02:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年火必将裁员40%？孙宇晨：消息不属实，火必是熊市里的一把火】消息称加密货币交易所火必（Huobi，2022年11月22日从火币改名为火必）将取消年终奖，并计划精简团队，由目前的1200人裁撤到600到800人，高薪员工重新洽谈工资结构。即火必有意再次裁员近40%规模的员工。一位接近火必的人士表示：“裁员消息具有一定可靠性，火必退出中国后一直亏损，得降低成本。”但火必方面否认了该消息，界面新闻从火必全球顾问孙宇晨在火必内部的回复中得知，孙宇晨称：“媒体传播的火必裁员计划是不真实的，熊市过冬不易，但火必是熊市里的一把火。火必最近的业务做的很好，每日新增达到了行业第一的水平，正是发展的关键时期，相信2023年会更好。”（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9054848.d.html</link>
-            <guid>2927512</guid>
-            <pubDate>Mon, 02 Jan 2023 02:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【塔里木油田2022年生产油气3310万吨 创历史新高】塔里木油田官微消息，2022年12月31日，塔里木油田全年油气产量当量达到3310万吨历史新高，同比净增128万吨。其中生产石油液体736万吨、天然气323亿立方米，油气产量当量连续6年超百万吨增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9053916.d.html</link>
-            <guid>2927511</guid>
-            <pubDate>Mon, 02 Jan 2023 02:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印尼总统：预计2023年经济增长在5%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2275574.d.html</link>
-            <guid>2927510</guid>
-            <pubDate>Mon, 02 Jan 2023 02:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源集团雄安基地项目开工】该项目建设用地面积59828平方米，主要功能定位为“二级单位本部+未来能源研究中心+产业集控中心”。总建筑面积为186959平方米，其中地上建筑面积118546平方米，地下建筑面积68413平方米。（雄安发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2274103.d.html</link>
-            <guid>2927508</guid>
-            <pubDate>Mon, 02 Jan 2023 02:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大地产重庆公司：2022年全年交付逾1.1万套】“恒大地产在重庆”微信公众号1月2日消息，2022年全年，恒大地产重庆公司累计实现16个项目，27批次的交付，全年交付逾11000套。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9050580.d.html</link>
-            <guid>2927507</guid>
-            <pubDate>Mon, 02 Jan 2023 02:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国贸易代表戴琪计划于周三会见韩国驻美大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9047594.d.html</link>
-            <guid>2927506</guid>
-            <pubDate>Mon, 02 Jan 2023 02:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国贸易代表戴琪计划于周五会见日本经济大臣。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2270427.d.html</link>
-            <guid>2927505</guid>
-            <pubDate>Mon, 02 Jan 2023 02:03:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃酒泉市人大常委会财经预算工委原副主任吴生学接受审查调查】据甘肃省酒泉市纪委监委网站1月2日消息，酒泉市人大常委会财政经济预算工作委员会原副主任吴生学涉嫌严重违纪违法，目前正接受酒泉市纪委监委纪律审查和监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2264808.d.html</link>
-            <guid>2927504</guid>
-            <pubDate>Mon, 02 Jan 2023 01:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中新集团：中新（天长）工业绿岛表面处理园项目举行“云签约”】据中新集团消息，2022年12月28日上午，中新(天长)工业绿岛表面处理园项目举行“云签约”仪式。仪式上，中新智地与安徽省滁州天长市政府、天长市秦栏镇政府三方签订正式投资协议；中新智地、中新公用、中新联科、天长市科技工业发展有限公司四方签署股东合作协议，未来将整合各方资源和禀赋，共同将项目打造成区域产业配套载体新标杆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2264414.d.html</link>
-            <guid>2927503</guid>
-            <pubDate>Mon, 02 Jan 2023 01:56:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国人寿发起首单保险资管权益类资产支持计划，总规模64.04亿元】中国人寿官微消息，中国人寿集团旗下国寿投资公司按照市场化原则发起首单保险资管权益类资产支持计划“国寿投资-中国通用盘活增效资产支持计划”。该计划总规模为64.04亿元，于2022年12月29日在北京产权交易所摘牌受让中国通用技术（集团）控股有限责任公司自用性办公楼宇。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9031573.d.html</link>
-            <guid>2927502</guid>
-            <pubDate>Mon, 02 Jan 2023 01:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【还要多久才能熬过这段最艰难的时光？卫健委回应】国家卫生健康委医政司司长焦雅辉表示，急性传染病还是有它的规律，在急性感染的高峰以后，都是第一周到第二周是最艰难的。现在其实不同的城市正在经历急诊和重症的高峰，可能是我们最困难的时期。随着这一波大部分感染的重症，感染高峰过去以后，往后就会出现往下走的趋势。病毒传播一定有它的传播系数，传播到一定程度了，病毒总会越来越弱，我们通俗讲就是说传不动了，到了这样一个阶段的话，这个困难一定会过去的。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawm2248038.d.html</link>
-            <guid>2927501</guid>
-            <pubDate>Mon, 02 Jan 2023 01:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【未来三天新疆北部有持续降雪，华北黄淮等地霾天气发展】中央气象台1月2日发布天气提示：预计未来三天，西南地区等地仍多弱雨雪天气，新疆北部也有持续的降雪天气。预计2-5日，华北中南部、黄淮中西部、汾渭平原、江淮、江汉、江南西部等地等地有轻至中度霾，河南、山东西部、河北南部和关中平原的部分地区有重度霾；夜间至次日早晨时段，山东西部、河南东部、河北南部、四川盆地东部等地夜间至早晨有大雾。6日，受冷空气影响，上述区域扩散条件转好，雾霾天气减弱消散。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9022859.d.html</link>
-            <guid>2927499</guid>
-            <pubDate>Mon, 02 Jan 2023 01:38:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油价马上要调整 元旦后迎来2023年第一涨】油价马上要调整，元旦后迎来2023年第一涨！调整时间为：2023年1月3日24时。本周期（12月19日以来），国际油市利多占优，油价整体上行。预计2023年1月3日成品油调价窗口开启时，国内成品油价格将迎来上调，预计上调幅度或在每吨240元左右，折合92#汽油、0#柴油每升分别上调0.19元、0.20元。2022年，国内成品油零售限价共经历了24个调价窗口，为13涨10跌1搁浅，涨跌相抵后，国内汽、柴油价格累计每吨分别提高550元和530元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9021502.d.html</link>
-            <guid>2927498</guid>
-            <pubDate>Mon, 02 Jan 2023 01:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石油上限加速全球能源流向转变 全球局势将更加复杂】俄罗斯石油价格上限正在加速全球能源流向的转变，比如，印度越来越多地利用俄罗斯的石油折扣，而与此同时，沙特、阿联酋和其他主要中东能源出口国正将重点从传统的亚洲市场转向以更高的价格向欧洲国家出售石油，以确保它们的能源需求。全球能源版图的重新划分也可能会影响地缘政治联盟，因为各国政府都在努力加强巩固各自能源安全的关系。近几个月来，沙特能源部长萨勒曼暗示，沙特正打算向欧洲供应更多原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9019592.d.html</link>
-            <guid>2927497</guid>
-            <pubDate>Mon, 02 Jan 2023 01:35:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新一轮冬季风暴袭击美国 多地将迎暴风雪】据央视新闻援引美国广播公司（ABC）当地时间1月1日报道，新一轮冬季风暴正穿过美国西部和中西部及墨西哥湾，预计将带来暴风雪和龙卷风。美国国家气象局称，1日中午之前，此轮风暴影响范围将从得克萨斯州延伸到路易斯安那州，形成强风和龙卷风天气，并在1日下午逐渐升级，中西部地区可能在2日和3日迎来暴风雪。目前，美国16个州处于冬季风暴或大风警报之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-02/detail-imxyuawn9015608.d.html</link>
-            <guid>2927496</guid>
-            <pubDate>Mon, 02 Jan 2023 01:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
