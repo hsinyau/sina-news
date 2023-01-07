@@ -4,11 +4,82 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 07 Jan 2023 18:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 21:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【划红线：俄罗斯战略威慑美西方】新年伊始，俄罗斯总统普京以视频方式出席远航启动仪式，为俄海军首艘搭载“锆石”高超音速导弹的护卫舰“戈尔什科夫海军上将号”开始战斗值勤送行。此间观察家指出，俄高调宣布这艘具有战略意义的海军舰艇前往大西洋、印度洋及地中海，意在警告美国、北约谨慎介入俄乌冲突。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww9043365.d.html</link>
+            <guid>2935493</guid>
+            <pubDate>Sat, 07 Jan 2023 20:51:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春运首日铁路发送旅客630万人次】来自国铁集团的数据显示，昨日全国铁路预计发送旅客630万人次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww9025871.d.html</link>
+            <guid>2935491</guid>
+            <pubDate>Sat, 07 Jan 2023 20:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一艘非法移民船在突尼斯海域沉没 致5人丧生10人失踪】突尼斯媒体1月7日报道，据斯法克斯市一名司法部门官员透露，一艘载有30多名非法移民的船只6日在斯法克斯海域沉没，造成5人死亡，另有10人失踪。突尼斯海岸警卫队已成功救出20名非法移民，对失踪人员的搜救行动仍在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2578098.d.html</link>
+            <guid>2935490</guid>
+            <pubDate>Sat, 07 Jan 2023 20:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【入境北京国际客运 航班分流今起取消】日前，民航局发布公告称，根据《关于对新型冠状病毒感染实施“乙类乙管”的总体方案》和《关于中外人员往来暂行措施的通知》要求，决定自1月8日零时（北京时间）开始，取消目的地为北京的国际客运航班从指定第一入境点入境。]]></title>
+            <guid>2935488</guid>
+            <pubDate>Sat, 07 Jan 2023 20:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023年度国考今举行：拟招3.7万人，近260万人报考】今日，中央机关及其直属机构2023年度考试录用公务员公共科目笔试将举行，本次国考计划招录3.71万人，近260万人报名过审，通过资格审查人数与录用计划数之比约为70:1。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww9005662.d.html</link>
+            <guid>2935487</guid>
+            <pubDate>Sat, 07 Jan 2023 19:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京大兴机场：预计17日起多家航司恢复大兴机场国际航线】各国内外航空公司积极筹备复航工作，预计1月17日起，南方航空、东方航空、首都航空、喜马拉雅航空等恢复大兴机场国际及地区客运航线。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmeww8997278.d.html</link>
+            <guid>2935486</guid>
+            <pubDate>Sat, 07 Jan 2023 19:47:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卢甘斯克地区一天然气管道发生爆炸】当地时间1月7日，卢甘斯克地区卢图吉诺一处天然气管道发生爆炸，事故导致约1.1万用户天然气供应中断。当地政府派出了消防和救援团队前往现场救援，管道爆炸造成的大火已被扑灭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2545691.d.html</link>
+            <guid>2935485</guid>
+            <pubDate>Sat, 07 Jan 2023 19:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国洛杉矶发生枪击事件 致1死2伤】当地时间1月7日，美国加州洛杉矶发生枪击事件，造成1人死亡、2人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2539888.d.html</link>
+            <guid>2935484</guid>
+            <pubDate>Sat, 07 Jan 2023 19:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推特削减更多负责全球内容审核的员工】据知情人士透露，推特公司在新所有者马斯克的领导下，进一步削减了其处理全球内容审核的信任和安全团队，以及与仇恨言论和骚扰有关的部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzmexa2526871.d.html</link>
+            <guid>2935461</guid>
+            <pubDate>Sat, 07 Jan 2023 19:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥首都发生地铁相撞事故 造成至少1死16伤】当地时间1月7日，墨西哥首都墨西哥城地铁3号线发生地铁相撞事故，造成至少1人死亡、16人受伤。具体事故原因仍在调查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzkyre2643979.d.html</link>
+            <guid>2935431</guid>
+            <pubDate>Sat, 07 Jan 2023 18:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：特斯拉11.3版本将在2周内全面发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzkyqy9078791.d.html</link>
+            <guid>2935411</guid>
+            <pubDate>Sat, 07 Jan 2023 18:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6大期货期权将引入境外交易者！境内特定品种增至23个 期货对外开放再进一步】日前，中国证监会宣布消息，确定郑商所菜籽油、菜籽粕、花生期货和期权为境内特定品种，上述品种将于1月12日引入境外交易者参与交易。至此，中国期货市场境内特定品种将达23个，期货市场对外开放再进一步。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzkyre2632327.d.html</link>
+            <guid>2935410</guid>
+            <pubDate>Sat, 07 Jan 2023 18:30:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【订单量暴增210%！“年夜饭”主题套餐太火爆】数据显示，最近一周，平台上上新了“年夜饭”主题套餐的餐饮商户数周环比增长107%，“年夜饭”主题套餐订单量增长210%。老字号纷纷上线年夜饭外卖，龙虾海鲜、海参盆菜、烤鸭等“硬菜”均是年夜饭热门选择。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxzkyre2604488.d.html</link>
@@ -250,72 +321,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmc8765827.d.html</link>
             <guid>2935278</guid>
             <pubDate>Sat, 07 Jan 2023 08:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：多措施缓解农村地区药品短缺】据央视新闻，国务院联防联控机制于今天（1月7日）召开新闻发布会，国家卫生健康委基层卫生健康司司长聂春雷表示，国家卫健委关注到一些农村地区存在药品等医疗物资短缺问题。重点采取了以下措施：一是国务院联防联控机制物资保障组建立了日调度制度，二是加强供需对接，三是坚持中西医结合，合理选用西药、中成药和中药汤剂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5530872.d.html</link>
-            <guid>2935275</guid>
-            <pubDate>Sat, 07 Jan 2023 08:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华龙证券上市辅导五年后迎实质性进展 A股IPO申请获证监会受理】华龙证券上市辅导五年终于迎来实质性进展。根据证监会披露最新的《沪市主板申请首次公开发行股票企业基本信息情况表》，华龙证券IPO于2022年12月30日获得受理，华龙证券拟登陆沪市主板。从2018年4月至2022年10月，中信证券先后向甘肃证监局报送第一期至第十六期辅导工作进展情况报告。根据最新辅导情况报告，中信证券在辅导过程中发现华龙证券存在五大类问题并作出规范。这五大类问题包括：历史沿革问题、自有房产及租赁房产问题、股份代持问题、公司治理情况和私募投资基金子公司整改情况。 (界面新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5528477.d.html</link>
-            <guid>2935274</guid>
-            <pubDate>Sat, 07 Jan 2023 08:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾12月贸易帐 47.9亿美元，预期34.5亿美元，前值34.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5528288.d.html</link>
-            <guid>2935272</guid>
-            <pubDate>Sat, 07 Jan 2023 08:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾12月进口年率 -11.4%，预期-10.2%，前值-8.60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmc8751157.d.html</link>
-            <guid>2935271</guid>
-            <pubDate>Sat, 07 Jan 2023 08:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国台湾12月出口年率 -12.1%，预期-13.3%，前值-13.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmf5528161.d.html</link>
-            <guid>2935270</guid>
-            <pubDate>Sat, 07 Jan 2023 08:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月17日起，大兴机场恢复国际客运航线】据“北京大兴国际机场”微信公众号，1月17日起，大兴机场将有中国南方航空、中国东方航空、首都航空、喜马拉雅航空等航空公司陆续恢复国际客运航线。春运期间，预计有5家航司共计5条国际航线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzkcmc8740186.d.html</link>
-            <guid>2935267</guid>
-            <pubDate>Sat, 07 Jan 2023 07:51:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银川铁路春运预计发送旅客92万人次 日均发送旅客2.3万人】据央视新闻，2023年春运大幕正式拉开，今年春运自1月7日至2月15日，共计40天，其间，宁夏银川火车站及管辖各站预计发送旅客92万人次，日均发送旅客2.3万人，同比2022年增长18.3%。节前以江浙、广东等南方省市和陕甘周边等地在宁夏经商、务工的返乡客流、探亲客流为主；节后以大中专院校学生返校客流和务工返程客流、旅游客流为主。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzixci5629091.d.html</link>
-            <guid>2935264</guid>
-            <pubDate>Sat, 07 Jan 2023 07:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：全国98.8%乡镇已设置发热诊室】国务院联防联控机制于今天（1月7日）召开新闻发布会，国家卫生健康委基层卫生健康司司长聂春雷会上介绍，目前全国98.8%的乡镇卫生院和社区卫生服务中心都开设了发热门诊，而且发热门诊接诊量占比超过了60%，就是说基层的发热门诊占全国发热门诊量的60%以上。对需要转诊的患者，将及时向亚定点医院、定点医院转诊或上级医院转诊，充分发挥了基层医疗机构第一道防线的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzixci5628762.d.html</link>
-            <guid>2935263</guid>
-            <pubDate>Sat, 07 Jan 2023 07:29:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家卫健委：“早发现、早识别、早干预、早转诊” 确保农村地区做到“关口前移”】据央视新闻，国务院联防联控机制于今天（1月7日）召开新闻发布会，国家卫生健康委基层卫生健康司司长聂春雷在会上介绍：农村地区要做到“关口前移”，核心是落实“早发现、早识别、早干预、早转诊”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzixci5618825.d.html</link>
-            <guid>2935262</guid>
-            <pubDate>Sat, 07 Jan 2023 07:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都车站春运预计发送旅客超950万人次】据央视新闻，今年春运期间（1月7日—2月15日），成都车站预计发送旅客952.2万人次（日均23.8万人次），预计春节前发送旅客352.5万人次（日均23.5万人次），同比2022年增长10.0%。节前客流高峰预计出现在1月18日左右（腊月二十七），全站预计发送旅客32.9万人次，其中成都东23.0万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzixcf8841586.d.html</link>
-            <guid>2935261</guid>
-            <pubDate>Sat, 07 Jan 2023 07:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  据山西省纪委监委消息，山西省长治市原副市长陈鹏飞严重违纪违法被开除党籍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-07/detail-imxzixci5605632.d.html</link>
-            <guid>2935260</guid>
-            <pubDate>Sat, 07 Jan 2023 07:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
