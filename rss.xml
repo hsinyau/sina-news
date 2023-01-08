@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 08 Jan 2023 15:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 18:06:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国“超级百万”彩票头奖奖金累积至约11亿美元】美国“超级百万”彩票发行机构说，鉴于已经24轮无人中得头奖彩票，该彩票10日再次开奖时，头奖奖金将累积至约11亿美元。6日是“超级百万”最近一次开奖，当时头奖奖金约9.4亿美元，可惜没人中得头奖。由于中头奖机会仅为3.026亿分之一，该彩票已经两个多月、24轮没有出现头奖中奖者。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-09/detail-imxzpcpy8884310.d.html</link>
+            <guid>2936322</guid>
+            <pubDate>Sun, 08 Jan 2023 17:27:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国能源监管机构预计冬季结束前不会出现天然气短缺】德国能源监管机构联邦网络局局长穆勒当地时间8日在接受媒体采访时表示，这个冬天将不会出现天然气短缺的状况。穆勒透露，德国眼下有足够的天然气储备，在冬季结束之后，预计还将剩余50%左右的天然气储备，现在更需要关注的是2023年至2024年的下一个冬季。穆勒依旧呼吁民众不要放松警惕，应继续在取暖和沐浴方面保持节约。而且，现在节省下来的能源可以有助于防止能源价格在今年夏季再度攀升。另外，在穆勒看来，目前德国的能源供应仍面临三大风险因素：下一个冬天温度更低、其他国家天然气消费量增加以及天然气基础设施的安全风险。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxznxha8894059.d.html</link>
@@ -361,40 +367,6 @@
             <title><![CDATA[【浙富控股：签署宜昌水电高端制造产业园项目合作框架协议 拟打造抽水蓄能及清洁能源装备生产基地】浙富控股公告，公司、湖北省宜昌市人民政府、三峡集团本着“平等自愿、优势互补、战略合作、共同发展、互利共赢”的基本原则，近日签署了《宜昌水电高端制造产业园项目合作框架协议》。三方协同发力，利用各自资源、项目、产业上的优势，携手进军清洁能源高端装备领域。三峡集团与浙富控股将在宜昌市设立合资公司，致力于打造抽水蓄能及清洁能源装备生产基地，以满足三峡集团自身发展的装备需求。]]></title>
             <guid>2936189</guid>
             <pubDate>Sun, 08 Jan 2023 08:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【旭升集团：预计2022年净利润6.65亿元至7.35亿元 增长60.93%到77.87%】旭升集团发布2022年年度业绩预增公告，预计2022年年度实现归属于上市公司股东上市公司股东的净利润为6.65亿元至7.35亿元，同比增长60.93%到77.87%。]]></title>
-            <guid>2936186</guid>
-            <pubDate>Sun, 08 Jan 2023 08:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京基智农：12月生猪销售收入2.58亿元】京基智农发布公告，2022年12月，公司销售生猪14.84万头(其中仔猪3.49万头)，销售收入2.58亿元;商品猪销售均价18.42元/kg。2022年1-12月，公司累计销售生猪126.44万头(其中仔猪25.67万头)，累计销售收入22.69亿元;商品猪销售均价19.71元/kg。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxznnsh8831305.d.html</link>
-            <guid>2936185</guid>
-            <pubDate>Sun, 08 Jan 2023 08:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陕国投A：2022年度净利润9.1亿元，同比增长24.29%】陕国投A发布2022年度业绩快报，实现营业总收入18.98亿元，同比下降0.56%。归属于上市公司股东的净利润9.1亿元，同比增长24.29%。扣除非经常性损益后的归属于上市公司股东的净利润9.08亿元，同比增长27.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxznhkk8961443.d.html</link>
-            <guid>2936184</guid>
-            <pubDate>Sun, 08 Jan 2023 08:33:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大北农：2022年1-12月累计销售收入93.86亿元】大北农公告，2022年12月份生猪销售情况公司控股及参股公司生猪销售数量当月合计为55.31万头，1-12月累计为443.12万头；销售收入当月合计为13.22亿元，1-12月累计为93.86亿元；公司控股及参股公司商品肥猪当月销售均价为19.25元/公斤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxznhkk8960512.d.html</link>
-            <guid>2936183</guid>
-            <pubDate>Sun, 08 Jan 2023 08:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【二三四五：上海岩合拟溢价受让公司9.68%股份 成为控股股东】二三四五公告，上海岩合科技合伙企业（有限合伙），将受让韩猛及张淑霞通过协议转让方式转让的公司5.54亿股股份（占总股本的9.68%），转让价款合计为20亿元，折合3.61元/股（二三四五目前股价2.08元/股）。截至目前，公司无控股股东、实际控制人；权益变动完成后，上海岩合科技合伙企业（有限合伙）将成为公司的控股股东，叶可及傅耀华将成为公司的实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-08/detail-imxznhkq2514651.d.html</link>
-            <guid>2936182</guid>
-            <pubDate>Sun, 08 Jan 2023 08:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东诚药业：下属公司获得177Lu-LNC1004注射液药物临床试验批准通知书】东诚药业公告，公司下属公司YANTAI LNCBIO TECHNOLOGY SINGAPORE PTE.LTD.(“蓝纳成新加坡”)收到美国食品药品监督管理局核准签发的关于177Lu-LNC1004注射液的药品临床试验批准通知书，将于近期开展I期临床试验。此前，为配合该产品的临床研究，蓝纳成新加坡已于2022年12月7日收到FDA核准签发的关于伴随诊断试剂68Ga-FAPI-46注射液的SMP(IND号:164185)用于患者筛选、疗效评估和相关安全信息的收集。]]></title>
-            <guid>2936181</guid>
-            <pubDate>Sun, 08 Jan 2023 08:32:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
