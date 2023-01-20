@@ -4,11 +4,57 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 20 Jan 2023 18:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 21:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[硅谷银行收涨17%，创2018年以来最大单日涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawvrx5470819.d.html</link>
+            <guid>2952949</guid>
+            <pubDate>Fri, 20 Jan 2023 21:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长麦卡锡：我接受美国总统拜登的邀请，“坐下来讨论负责任地提高债务上限，以解决不负责任的政府支出”。]]></title>
+            <guid>2952944</guid>
+            <pubDate>Fri, 20 Jan 2023 21:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2022年共推出股权激励和员工持股计划582单 深市公司积极提升创新发展动能】股权激励和员工持股计划是公司治理的重要机制，是现代企业吸引和留住人才的重要手段。2022年，深市公司推出的股权激励和员工持股计划（合称激励方案）合计582单，较上年增加22单，涉及股份92亿股，较上年增长13%，整体市场活跃度稳步提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawriz5593829.d.html</link>
+            <guid>2952941</guid>
+            <pubDate>Fri, 20 Jan 2023 20:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：Chris Hipkins被提名接任新西兰总理。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawriz5587004.d.html</link>
+            <guid>2952939</guid>
+            <pubDate>Fri, 20 Jan 2023 20:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[玻利维亚总统Luis Arce：宁德时代与玻利维亚敲定一份协议，将在该国盐滩修建两家锂工厂。参与签署协议的还包括宁德时代旗下Brunp部门和洛阳栾川钼业集团股份有限公司。初期将向这两家工厂投资超过10亿美元。两家工厂将分别具备年产2.5万吨碳酸锂的潜力。]]></title>
+            <guid>2952935</guid>
+            <pubDate>Fri, 20 Jan 2023 20:17:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国三名现役军人因参与国会大厦骚乱事件遭指控】三名现役美国海军陆战队员因参与2021年1月6日国会大厦骚乱事件受到指控。他们是迈卡·库默 、约书亚·阿巴特和道奇·戴尔·海洛宁，三人于本周被捕。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawriz5574387.d.html</link>
+            <guid>2952934</guid>
+            <pubDate>Fri, 20 Jan 2023 20:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国查明1月11日航空业停摆原因：承包商误删文件】美国航空管理局表示，导致1月11日航空业停摆原因是一名主要的承包商无意中删错了计算机系统中的文件，而非人们担心的网络攻击。航空公司的高管们认为出现此漏洞的原因是联邦航空局的资金和人员配备不足。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawrkc2322559.d.html</link>
+            <guid>2952926</guid>
+            <pubDate>Fri, 20 Jan 2023 19:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【春节也不停工！动力电池行业加速扩大产能以满足市场需求】截至2022年10月，全国动力及储能电池产能规划已超过6480GWh。动力电池产能扩张速度还在加速，有机构测算，2023年~2025年，国内一、二线动力电池厂商规划产能复合增速分别为28%和46%。当前，动力电池生产厂家一直处于赶工状态，甚至有的今年春节都不会停工，招聘也比往年提前了不少。动力电池企业之所以要加紧招聘，是为了保证订单按时交付。在新能源汽车行业快速发展的背景下，为保障动力电池供应链安全稳定，各车企都向动力电池企业给出大手笔订单，且供货周期在5~10年，供货数量达数十GWh甚至上百GWh。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawriz5521499.d.html</link>
+            <guid>2952911</guid>
+            <pubDate>Fri, 20 Jan 2023 18:47:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国至1月20日当周石油钻井总数 613口，前值623口。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawmaf2403626.d.html</link>
@@ -77,241 +123,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawmaf2360402.d.html</link>
             <guid>2952850</guid>
             <pubDate>Fri, 20 Jan 2023 16:57:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[高盛股价涨幅收窄至1.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawmaf2338467.d.html</link>
-            <guid>2952844</guid>
-            <pubDate>Fri, 20 Jan 2023 16:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美联储调查高盛消费者业务情况；随着高盛信用卡业务、消费者贷款发放力度的增长，美联储正研究高盛的内部保障措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyawmac5559186.d.html</link>
-            <guid>2952843</guid>
-            <pubDate>Fri, 20 Jan 2023 16:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【去年12月信用债净融资规模创七年新低，下行趋势或延续】12月信用债净融资规模为-6078.69亿元，创下2015年以来新低。虽然进入2023年以后，连续两周信用债净融资额为正，Wind数据显示，本周信用债累计发行3826.47亿元，净融资额高达1543.51亿元。但是不少市场人士认为，春节提前等因素导致短期信用债发行规模走高，展望2023年全年信用债净融资规模下降趋势难以扭转。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaweuf5676554.d.html</link>
-            <guid>2952838</guid>
-            <pubDate>Fri, 20 Jan 2023 16:20:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募基金资产净值去年险守26万亿元大关，发展前景仍看好】1月20日，中国证券投资基金业协会发布2022年12月公募基金市场数据：截至去年12月底，我国公募基金资产净值合计26.03万亿元，仍然站上26万亿大关，全年规模增长接近5千亿。其中，权益类基金虽经调整，但目前已经明显回暖；债基近期规模缩水，去年规模仍然取得正增长；QDII基金全年规模猛增37%，是规模增幅最为迅猛的产品类型。多位业内人士对此表示，公募基金总规模变化与股、债基础市场存在明显关联，但受益于我国宏观经济增长，资管行业的快速发展，居民财富的增长等长期利好，国内公募基金总规模仍然是总体向上趋势，随着公募基金长期赚钱效应的凸显，未来行业仍然具备较好的发展前景。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaweuf5669849.d.html</link>
-            <guid>2952833</guid>
-            <pubDate>Fri, 20 Jan 2023 16:10:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：到2040年，亚马逊将在弗吉尼亚州的数据中心投资350亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaweui2442421.d.html</link>
-            <guid>2952831</guid>
-            <pubDate>Fri, 20 Jan 2023 16:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车：将在美国密歇根、俄亥俄、纽约的四家工厂投资9.18亿美元，主要用于V8生产；将投资8.54亿美元用于生产新的V8发动机，0.64亿美元用于电动汽车生产。]]></title>
-            <guid>2952830</guid>
-            <pubDate>Fri, 20 Jan 2023 16:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士信贷：将奈飞(NFLX.O)目标价从271美元上调至291美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaweui2438387.d.html</link>
-            <guid>2952829</guid>
-            <pubDate>Fri, 20 Jan 2023 16:01:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将微软(MSFT.O)目标价从282美元下调至280美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-21/detail-imyaweui2438257.d.html</link>
-            <guid>2952828</guid>
-            <pubDate>Fri, 20 Jan 2023 16:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将英国石油(BP.N)目标价从39美元上调至40美元。]]></title>
-            <guid>2952827</guid>
-            <pubDate>Fri, 20 Jan 2023 16:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将雪佛龙(CVX.N)目标价从199美元上调至200美元。]]></title>
-            <guid>2952826</guid>
-            <pubDate>Fri, 20 Jan 2023 16:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将壳牌(SHEL.N)目标价从70美元上调至75美元。]]></title>
-            <guid>2952825</guid>
-            <pubDate>Fri, 20 Jan 2023 16:00:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Piper Sandler：将道达尔(TTE.N)目标价从61美元上调至62美元。]]></title>
-            <guid>2952824</guid>
-            <pubDate>Fri, 20 Jan 2023 16:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科文：将Salesforce(CRM.N)评级从跑赢大市下调至与大市同步，目标价从175美元下调至160美元。]]></title>
-            <guid>2952823</guid>
-            <pubDate>Fri, 20 Jan 2023 16:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ABA：预计美国经济2023年增速为零，爆发经济衰退的概率为50-50。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2429704.d.html</link>
-            <guid>2952821</guid>
-            <pubDate>Fri, 20 Jan 2023 15:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国政府委任原高盛银行家为Uniper的CFO】德国政府委任Jutta Doenges为最近国有化的公用事业公司Uniper SE的CFO。Doenges此前为高盛集团银行家，并有过负责运营德国债务管理机构的经历。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5649727.d.html</link>
-            <guid>2952819</guid>
-            <pubDate>Fri, 20 Jan 2023 15:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[太平洋投资管理公司（PIMCO）正准备重返欧洲抵押贷款债务（CLO）市场，并承销发行。]]></title>
-            <guid>2952818</guid>
-            <pubDate>Fri, 20 Jan 2023 15:43:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【夜间高铁来了 火车站通宵运营】春运开启以来，湖南长沙南站到达旅客超70万人次，同比2022年春运增加24.2%。为满足旅客出行需求，长沙南站正式开行夜间高铁，开启“通宵运营”模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5643962.d.html</link>
-            <guid>2952817</guid>
-            <pubDate>Fri, 20 Jan 2023 15:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国东北地区遭遇暴风雪天气 近700万人将受影响】美国东北地区佛蒙特州、新罕布什尔州、马萨诸塞州北部和缅因州当日将面临一轮强降雪及冻雨天气，该地区大约700万人处于冬季天气警报之下。]]></title>
-            <guid>2952816</guid>
-            <pubDate>Fri, 20 Jan 2023 15:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)短线小幅拉升，现涨0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2417339.d.html</link>
-            <guid>2952813</guid>
-            <pubDate>Fri, 20 Jan 2023 15:31:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：福特汽车(F.N)计划在德国科隆工厂进行裁员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5640073.d.html</link>
-            <guid>2952809</guid>
-            <pubDate>Fri, 20 Jan 2023 15:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Benchmark：将动视暴雪(ATVI.O)目标价下调至90美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2417060.d.html</link>
-            <guid>2952807</guid>
-            <pubDate>Fri, 20 Jan 2023 15:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将奈飞(NFLX.O)目标价从350美元上调至400美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2416193.d.html</link>
-            <guid>2952806</guid>
-            <pubDate>Fri, 20 Jan 2023 15:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将诺德斯特龙(JWN.N)目标价从21美元下调至17美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5639071.d.html</link>
-            <guid>2952805</guid>
-            <pubDate>Fri, 20 Jan 2023 15:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【个人养老金首月销售战况出炉，华夏基金揽资3.9亿强势领跑】随着公募基金2022年四季报披露，个人养老金首月销售战况也新鲜出炉。截至去年年末，华夏基金旗下9只养老目标基金Y份额合计规模超过3.9亿元，是目前唯一一家个人养老金规模超过3亿元的基金公司，除此之外，易方达、兴证全球、工银瑞信三家基金公司旗下个人养老金规模也已突破2亿元大关，中欧、南方、招商三家基金公司的个人养老金规模也均已过亿。从单只养老目标基金来看，华夏养老2040三年、兴全安泰积极养老目标五年是目前两只Y份额资产净值超过2亿元的基金，上述两只基金Y份额成立至今，分别迎来1.80亿份、2.10亿份净申购。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5636234.d.html</link>
-            <guid>2952803</guid>
-            <pubDate>Fri, 20 Jan 2023 15:24:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国成屋销售继续下滑 全年创下2008年以来最大年度跌幅】美国12月成屋销售下滑至10多年来的最低水平，在抵押贷款利率迅速飙升的背景下，这是美国住房市场有记录以来最糟糕的一年之一。美国全国房地产经纪人协会周五公布的数据显示，美国12月成屋销售总数年化下降1.5%至402万户，为2010年以来的最低水平，成交量连续11个月出现下滑。2022年全年，美国二手房销售下降17.8%，创下2008年以来最大跌幅。美联储数十年来最激进的紧缩行动导致抵押贷款利率在2022年飙升至20年来的最高水平，许多潜在买家被排挤出局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5635200.d.html</link>
-            <guid>2952801</guid>
-            <pubDate>Fri, 20 Jan 2023 15:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志银行将投资银行家的奖金总额削减40%】德意志银行将投资银行家的奖金总额削减40%，但扩大了交易员的奖金池。投行部门的奖金池整体压缩10%，并购部门和资本市场的银行家受到的影响将不同。这一决定与该行投行业务的收入在去年前9个月下滑58%相关。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5626782.d.html</link>
-            <guid>2952798</guid>
-            <pubDate>Fri, 20 Jan 2023 15:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储乔治：FOMC的重点是使物价回归稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5626410.d.html</link>
-            <guid>2952797</guid>
-            <pubDate>Fri, 20 Jan 2023 15:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国12月成屋销售下降1.5%】根据美国房产经纪协会NAR的数据，12月份成屋销售连续第11个月下滑。美国四个主要地区中有三个出现环比下降，而西部地区的销售持平。所有地区都出现了同比下降。成屋销售总数较11月下降1.5%，12月成屋销售总数年化为402万套。销量同比下降34.0%。NAR首席经济学家Lawrence Yun表示：“12月对购房者来说又是一个艰难的月份，他们继续面临有限库存和抵押贷款利率高企的问题。然而，由于抵押贷款利率在去年年底达到峰值后已明显下降，预计销售将很快再次回升。”“全国房价仍然增长，不过是温和的，”Yun补充道，“与去年相比，全国大约一半的市场可能会向潜在买家提供折扣价格。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2402149.d.html</link>
-            <guid>2952793</guid>
-            <pubDate>Fri, 20 Jan 2023 15:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯伦贝谢(SLB.N)：预计国际深水区业务与浅水区、国际陆地区相比有更高的上升空间。]]></title>
-            <guid>2952792</guid>
-            <pubDate>Fri, 20 Jan 2023 15:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科文：将奈飞(NFLX.O)目标价从405美元上调至440美元 维持跑赢大市评级】科文分析师John Blackledge将奈飞目标价从405美元上调至440美元，并保持对该股的跑赢大市评级。分析师提高了他的预期和目标价，因为奈飞广告支持层级的推出有一个坚实的开端，并且其付费共享计划在2023年第一季度末推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5624239.d.html</link>
-            <guid>2952790</guid>
-            <pubDate>Fri, 20 Jan 2023 15:07:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月成屋销售总数年化 402万户，预期396万户，前值409万户。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5618323.d.html</link>
-            <guid>2952784</guid>
-            <pubDate>Fri, 20 Jan 2023 15:00:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月成屋销售年化月率 -1.5%，预期-3.40%，前值-7.70%。]]></title>
-            <guid>2952783</guid>
-            <pubDate>Fri, 20 Jan 2023 15:00:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利联合圣保罗银行（Intesa Sanpaolo SpA）砍掉将近200亿欧元（折合216亿美元）风险加权资产，此前欧洲央行指责该公司对于所面临风险的计算方式。]]></title>
-            <guid>2952782</guid>
-            <pubDate>Fri, 20 Jan 2023 14:59:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【冲A失败，今年已有14家企业IPO按下“终止键”】2023年以来，多家拟IPO企业冲A失败。截至1月20日，已有14家拟IPO企业“撤单”，1家主板企业IPO审核被否，另有2家公司被暂缓表决。在市场人士看来，撤单企业大多存在和板块定位不符、未能达到上市标准等问题，部分企业经过多轮问询，并不能有效准确地回答交易所的提问，只能通过撤回等方式按下“终止键”。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2393973.d.html</link>
-            <guid>2952781</guid>
-            <pubDate>Fri, 20 Jan 2023 14:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行委员Duda：要尽早考虑降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5616394.d.html</link>
-            <guid>2952780</guid>
-            <pubDate>Fri, 20 Jan 2023 14:56:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年报审计有问题，两会计师事务所被出具警示函】1月20日，监管部门披露了多项对中介机构的监管措施。因在华夏航空年报审计项目中存在函证程序执行不到位等问题，立信会计师事务所被出具警示函，并记入证券期货市场诚信档案；因审计工作底稿记录和归档方面存在问题等，大华会计师事务所被出具警示函；珠海育邦私募股权投资基金管理有限公司则因存在向非合格投资者募集资金、向投资者承诺投资本金不受损失或承诺最低收益、未按照合同约定向投资者披露基金信息等情形，被采取监管措施。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5615095.d.html</link>
-            <guid>2952779</guid>
-            <pubDate>Fri, 20 Jan 2023 14:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国东北地区遭遇暴风雪天气 近700万人将受影响】美国东北地区佛蒙特州、新罕布什尔州、马萨诸塞州北部和缅因州当日将面临一轮强降雪及冻雨天气，该地区大约700万人处于冬季天气警报之下。美国国家气象局表示，新英格兰部分地区的降雪量可能会高达每小时1英寸（2.54厘米），一些城市的降雪量可能会达到6至9英寸（15.24至22.86厘米）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweuf5614541.d.html</link>
-            <guid>2952778</guid>
-            <pubDate>Fri, 20 Jan 2023 14:54:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克100指数涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2390891.d.html</link>
-            <guid>2952777</guid>
-            <pubDate>Fri, 20 Jan 2023 14:53:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股行业ETF盘初多数上涨】其中，区域银行ETF涨1.63%领跑，银行业ETF和网络股指数ETF也至多涨1.4%，全球科技股指数ETF和科技行业ETF涨幅不到0.5%，医疗业ETF则跌将近0.1%，日常消费品ETF跌超0.4%，公用事业ETF跌约1.1%表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2389628.d.html</link>
-            <guid>2952776</guid>
-            <pubDate>Fri, 20 Jan 2023 14:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克“私有化”特斯拉操作出尔反尔，集体起诉案已开审】当地时间1月18日，特斯拉公司首席执行官埃隆·马斯克遭特斯拉股东集体诉讼案在美国旧金山联邦法院开审。据报道，马斯克曾在2018年发布推文称，他正在考虑以每股420美元的价格将特斯拉私有化，并补充称“资金已到位”。不过，这一计划一周后突然宣告结束，原因是资金不足以完成这笔交易。股东方认为，马斯克的言论存在虚假性和误导投资者嫌疑。马斯克方则解释称，当时他已经与沙特公共投资基金达成协议，准备以每股420美元将特斯拉私有化。审团将听取控辩双方的陈述，最终根据马斯克发布推文的动机判定推文是否影响了股东利益和特斯拉股价、如何影响股价等。审判预计持续三周。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2389160.d.html</link>
-            <guid>2952775</guid>
-            <pubDate>Fri, 20 Jan 2023 14:50:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国迎来第三个液化天然气终端】德国第三个浮式液化天然气接收站已交付使用，这是德国向增加燃料进口和取代俄罗斯供应迈出的又一步。液化天然气终端Hoegh Gannet已经抵达汉堡附近的Brunsbuettel，几周的调试和试运行将开始。德国能源企业莱茵集团周五声明称，首批液化天然气货物将于本月底抵达。在测试期间，该装置将与一条新的天然气管道连接，在2月份之前将燃料输送到德国能源网络。莱茵集团首席执行官Markus kreber称，浮动液化天然气终端使天然气进口成为可能，从而加强了德国的供应安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-20/detail-imyaweui2388370.d.html</link>
-            <guid>2952774</guid>
-            <pubDate>Fri, 20 Jan 2023 14:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
