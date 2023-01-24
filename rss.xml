@@ -4,11 +4,427 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 24 Jan 2023 06:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 09:06:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[伦敦金属交易所(LME)：铝库存增加5600吨，铜库存减少150吨，镍库存减少168吨，铅库存持平，锡库存持平，锌库存持平。]]></title>
+            <guid>2956170</guid>
+            <pubDate>Tue, 24 Jan 2023 09:05:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌A(GOOGL.O)美股盘前跌超1%，其在数字广告市场的主导地位将受到美国司法部起诉。]]></title>
+            <guid>2956167</guid>
+            <pubDate>Tue, 24 Jan 2023 09:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月制造业PMI初值录得48.8，为2022年8月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1556968.d.html</link>
+            <guid>2956166</guid>
+            <pubDate>Tue, 24 Jan 2023 09:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月综合PMI初值 50.2，预期49.8，前值49.3。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1555972.d.html</link>
+            <guid>2956165</guid>
+            <pubDate>Tue, 24 Jan 2023 09:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月服务业PMI初值 50.7，预期50.2，前值49.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1555903.d.html</link>
+            <guid>2956164</guid>
+            <pubDate>Tue, 24 Jan 2023 09:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧元区1月制造业PMI初值 48.8，预期48.5，前值47.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4778675.d.html</link>
+            <guid>2956163</guid>
+            <pubDate>Tue, 24 Jan 2023 09:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芬兰外长：必须考虑在没有瑞典的情况下单独加入北约】综合法新社和欧洲新闻台（EURONEWS）报道，当地时间1月24日，芬兰外长佩卡·哈维斯托表示，芬兰必须考虑在没有瑞典的情况下单独加入北约。不过，哈维斯托也表示现在“下结论还为时过早”。土耳其总统埃尔多安23日表示，在上周末位于斯德哥尔摩土耳其驻瑞典大使馆附近发生包括焚烧《古兰经》在内的抗议活动后，瑞典不应指望土耳其支持其加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1555547.d.html</link>
+            <guid>2956162</guid>
+            <pubDate>Tue, 24 Jan 2023 08:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[多地积极尝试保租房REITs试点，一线城市20%的人接受10年以上租房。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1555188.d.html</link>
+            <guid>2956161</guid>
+            <pubDate>Tue, 24 Jan 2023 08:58:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：我谨慎乐观地认为，有关赞比亚债务的技术问题将得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1555015.d.html</link>
+            <guid>2956160</guid>
+            <pubDate>Tue, 24 Jan 2023 08:58:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IMF总裁格奥尔基耶娃：债权人的多样性使债务重组的讨论变得复杂。共同框架必须有达成结论的时间表。]]></title>
+            <guid>2956159</guid>
+            <pubDate>Tue, 24 Jan 2023 08:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国国防部长皮斯托留斯称，德国总理朔尔茨正在与盟国讨论向乌克兰运送“豹2”主战坦克的问题，可能在未来几天内做出运送决定。]]></title>
+            <guid>2956157</guid>
+            <pubDate>Tue, 24 Jan 2023 08:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台1月24日18时解除寒潮蓝色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1545264.d.html</link>
+            <guid>2956156</guid>
+            <pubDate>Tue, 24 Jan 2023 08:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国2022年12月汽车产量同比增长2.75%至15.86万辆】泰国工业联合会（FTI）1月24日表示，泰国12月汽车产量同比增长2.75%，达到158606辆，前一个月同比增长15%。2022年，泰国汽车产量增长11.73%，达到188万辆。12月，泰国汽车出口同比增长10.17%，达到111605辆。不过，由于一些汽车型号缺乏半导体，以及泰国部分地区发生洪灾，该国12月国内汽车销量同比下降了9.02%，至82799辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1542100.d.html</link>
+            <guid>2956154</guid>
+            <pubDate>Tue, 24 Jan 2023 08:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元指数DXY短线上扬逾15点，报101.96。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4763959.d.html</link>
+            <guid>2956153</guid>
+            <pubDate>Tue, 24 Jan 2023 08:36:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国PMI数据公布后，欧元兑美元EUR/USD短线下挫20点，报1.0871。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1539805.d.html</link>
+            <guid>2956152</guid>
+            <pubDate>Tue, 24 Jan 2023 08:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：春节1月21日至1月23日高速公路流量恢复至2019年92%左右】上海市交通委指挥中心介绍，春节前三天(1月21日至1月23日)，上海市对外交通累计发送旅客74.79万人次，较2022年同期上升76.57%；累计到达旅客46.28万人次，较2022年同期上升127.27%。市内交通累计运送乘客709.74万人次，较2022年同期下降30.74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4759868.d.html</link>
+            <guid>2956151</guid>
+            <pubDate>Tue, 24 Jan 2023 08:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月综合PMI初值 49.7，预期49.6，前值49。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1536823.d.html</link>
+            <guid>2956150</guid>
+            <pubDate>Tue, 24 Jan 2023 08:30:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月制造业PMI初值 47，预期47.9，前值47.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4759693.d.html</link>
+            <guid>2956149</guid>
+            <pubDate>Tue, 24 Jan 2023 08:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯政府新闻局：俄政府扩大了远东四个超前发展区的边界，以便为启动新的投资项目创造条件。]]></title>
+            <guid>2956148</guid>
+            <pubDate>Tue, 24 Jan 2023 08:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普全球市场情报高级经济学家Joe Hayes评法国1月PMI数据】尽管法国最新的PMI数据显示，经济低迷已经持续了三个月，但经济活动的下降仍然相当有限，而且肯定不像许多人在今年冬天之前预期的那么严重。从最新数据中还可以发现许多其他积极因素，比如投入价格通胀进一步缓解，以及商业信心回升。法国劳动力市场也继续显示出其韧性，就业增长加速至三个月高点。尽管如此，经济低迷仍是由需求驱动的，1月份新业务流入总额再次下降。除了持续高企的通胀（这削弱了客户的购买力），随着借贷成本上升，欧元区利率上升也拖累了需求。然而，商业乐观情绪的增强和招聘活动进一步活跃表明，法国各地有很多企业都认为经济低迷只是短暂的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1531335.d.html</link>
+            <guid>2956147</guid>
+            <pubDate>Tue, 24 Jan 2023 08:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[上海发布低温黄色预警：预计未来24小时内全市大部地区日最低温度将下降到零下3℃以下。（看看新闻）]]></title>
+            <guid>2956146</guid>
+            <pubDate>Tue, 24 Jan 2023 08:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国1月制造业PMI初值录得50.8，为7个月来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4752787.d.html</link>
+            <guid>2956145</guid>
+            <pubDate>Tue, 24 Jan 2023 08:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国1月制造业PMI初值 50.8，预期49.6，前值49.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4751159.d.html</link>
+            <guid>2956143</guid>
+            <pubDate>Tue, 24 Jan 2023 08:15:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰国防部副部长提出辞职】据乌克兰多家媒体24日报道，负责乌军后勤的乌克兰国防部副部长沙波瓦洛夫已经因高价为部队采购食品丑闻提出辞职。报道称，乌克兰国防部长列兹尼科夫同意了沙波瓦洛夫的辞职申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1525538.d.html</link>
+            <guid>2956142</guid>
+            <pubDate>Tue, 24 Jan 2023 08:12:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本拟开元宇宙“百年百货店”，三菱商事、京都府等已加盟】据共同社，日本促进运用网络虚拟空间“元宇宙”相关研究的“元宇宙推进协议会”1月23日宣布，打算汇集全国创业以来已有百年以上历史的老企业，在元宇宙开设“百年百货店”。当前以汇集百家企业为目标，推动日本酒酿酒商和味噌生产商等加入。协议会还考虑让访问百货店的人透过名品也对各地特色和历史产生兴趣。该协议会成立于去年春季，三菱商事、NTT都科摩、鹿岛和京都府等约50家企业及团体加盟。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1522668.d.html</link>
+            <guid>2956141</guid>
+            <pubDate>Tue, 24 Jan 2023 08:09:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙IBEX35指数1月24日（周二）开盘上涨21.93点，涨幅0.25%，报8966.03点；意大利富时MIB指数1月24日（周二）开盘上涨70.55点，涨幅0.27%，报25892.00点；法国CAC40指数1月24日（周二）开盘上涨20.64点，涨幅0.29%，报7052.66点；英国富时100指数1月24日（周二）开盘上涨9.25点，涨幅0.12%，报7793.92点；德国DAX30指数1月24日（周二）开盘上涨19.99点，涨幅0.13%，报15122.94点；欧洲斯托克50指数1月24日（周二）开盘上涨9.43点，涨幅0.23%，报4160.25点。]]></title>
+            <guid>2956140</guid>
+            <pubDate>Tue, 24 Jan 2023 08:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部：尽管媒体的腐败指控是毫无根据的，国防部副部长依然递交了辞呈，以保持（民众）对国防部的信任。]]></title>
+            <guid>2956138</guid>
+            <pubDate>Tue, 24 Jan 2023 08:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内涨幅达3.00%，现报3.552美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4735528.d.html</link>
+            <guid>2956137</guid>
+            <pubDate>Tue, 24 Jan 2023 07:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三菱商事宣布出资支持EV充电服务创业公司YourStand】1月24日消息，三菱商事今日宣布，出资支持日本电动车充电服务创业公司YourStand。目前还没有明确出资额和出资比例。据悉，YourStand成立于2018年，主营业务为公寓与高级住宅的EV充电设备的导入和运用。该公司在去年12月23日与三菱商事签订了以后者为承销商面向第三方增资的协议，今年1月20日双方进一步签订了业务合作合同。双方计划利用三菱商事的销售能力，通过导入YourStand的设备与布局策略，进行业务扩展。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1510218.d.html</link>
+            <guid>2956136</guid>
+            <pubDate>Tue, 24 Jan 2023 07:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部：乌克兰国防部副部长辞职，理由是“媒体指控”军队食品供应中有腐败现象。]]></title>
+            <guid>2956135</guid>
+            <pubDate>Tue, 24 Jan 2023 07:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪拜将2023年4月的原油官方售价设为较阿曼均价贴水0.20美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4731226.d.html</link>
+            <guid>2956133</guid>
+            <pubDate>Tue, 24 Jan 2023 07:52:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尼日利亚2022年洪灾造成600余人死亡】当地时间1月23日，尼日利亚应急管理机构称，2022年该国洪灾共造成662人死亡，超过240万人流离失所。尼日利亚每年4月进入雨季，到10月逐渐结束，雨季期间连续降雨容易引发洪灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4729590.d.html</link>
+            <guid>2956132</guid>
+            <pubDate>Tue, 24 Jan 2023 07:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：长期看好差异化定位的连锁医疗公司】中信建投研报指出，严肃医疗方向，长期来看，全球肿瘤发病率随着老龄化程度提升而增长，肿瘤医疗服务兼具刚需特质和成长性，我们长期看好差异化定位；连锁消费医疗具备量价齐升和连锁扩张驱动高增长的特征。建议积极关注：辅助生殖行业牌照较为稀缺；康复医院的盈利周期比综合医院短，对人员技术要求相对不高，与周边公立医院合作及差异化定位较为重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1504125.d.html</link>
+            <guid>2956131</guid>
+            <pubDate>Tue, 24 Jan 2023 07:45:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看图：美国高端住宅和普通住宅的销量变化不再有巨大差距】美国所有价格类别的房屋销售都在下降，但高端住宅销售下降最为明显。百万美元以上的房屋销售和相对更“负担得起”的价格在25万-50万美元之间房屋的销量不再存在巨大差距，这两类房屋的销售同比分别下降45.2%和37.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4726979.d.html</link>
+            <guid>2956130</guid>
+            <pubDate>Tue, 24 Jan 2023 07:45:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国1月INSEE制造业信心指数 103，预期102，前值101。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1503827.d.html</link>
+            <guid>2956129</guid>
+            <pubDate>Tue, 24 Jan 2023 07:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国1月INSEE商业信心指数 102，预期102，前值102。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4726612.d.html</link>
+            <guid>2956128</guid>
+            <pubDate>Tue, 24 Jan 2023 07:45:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【KDDI与三星电子、富士通合作 开始在日本商业部署5G Open vRAN站点】日本三大电信公司之一KDDI当地时间1月24日宣布与三星电子、富士通达成合作，于2023年1月19日在日本大阪启动了符合O-RAN标准的5G开放式虚拟无线接入网站点（5G Open vRan）的商业部署。三家公司于去年2月启动了首个该站点。今后，KDDI、三星和富士通将继续在日本开发Open vRAN的解决方案，并推动KDDI在日本全国范围内部署5G SA服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4724643.d.html</link>
+            <guid>2956127</guid>
+            <pubDate>Tue, 24 Jan 2023 07:42:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑石集团拟出售印度最大房地产投资信托公司股票 现价4.8亿美元】两位消息人士称，黑石正在商谈将其在印度最大房地产投资信托公司Embassy Office Parks中的一半股份出售给私募股权公司贝恩资本，按目前价格计算，该交易价值高达4.8亿美元。消息人士称，谈判仍处于初级阶段。该计划是在未来几周内通过印度证券交易所的大宗交易执行交易，但时间及定价尚未最终确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4721681.d.html</link>
+            <guid>2956125</guid>
+            <pubDate>Tue, 24 Jan 2023 07:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中信建投：医美需求将逐步复苏 头部公司韧性十足】中信建投24日发布研报指出，防疫政策优化下复苏可期，医美头部公司韧性十足。海外经验看，防疫政策优化下医美需求将逐步复苏，考虑到国内政策导向及经营韧性，我们看好细分龙头爱美客、华熙生物、华东医药及巨子生物等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4720939.d.html</link>
+            <guid>2956124</guid>
+            <pubDate>Tue, 24 Jan 2023 07:36:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑石集团拟出售印度最大房地产投资信托公司股票，现价4.8亿美元】据路透社1月24日消息，两位消息人士称，黑石正在商谈将其在印度最大房地产投资信托公司Embassy Office Parks中的一半股份出售给私募股权公司贝恩资本，按目前价格计算，该交易价值高达4.8亿美元。消息人士称，谈判仍处于初级阶段。该计划是在未来几周内通过印度证券交易所的大宗交易执行交易，但时间及定价尚未最终确定。（界面新闻）]]></title>
+            <guid>2956123</guid>
+            <pubDate>Tue, 24 Jan 2023 07:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国商务部：2023年出口量增长目标为1%-2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4718667.d.html</link>
+            <guid>2956121</guid>
+            <pubDate>Tue, 24 Jan 2023 07:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去哪儿：返程机票预订量同比增超三成，已超过2019年同期】春运节后返程启动，1月24日，从在线旅游平台“去哪儿”获悉，今年返程集中在1月26日至1月31日（初五至初十），1月27日（初六）是返程高峰。截至1月23日，1月26日至1月31日的机票预订量同比2022年增长33%，超过2019年同期。火车票预订量同比增长27%，热门线路高铁票几乎全部售罄。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4715976.d.html</link>
+            <guid>2956120</guid>
+            <pubDate>Tue, 24 Jan 2023 07:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国财长勒梅尔：通胀应该会从2023年年中开始放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1489216.d.html</link>
+            <guid>2956119</guid>
+            <pubDate>Tue, 24 Jan 2023 07:23:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄官员：俄罗斯被迫降低与爱沙尼亚外交级别】俄罗斯驻爱沙尼亚大使当地时间1月24日表示，爱沙尼亚的系列行为使得俄罗斯没有别的选择，只能降低与其的外交级别。西方正计划向爱沙尼亚提供最现代的系列常规武器，其目的就是威胁近在咫尺的圣彼得堡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4710683.d.html</link>
+            <guid>2956117</guid>
+            <pubDate>Tue, 24 Jan 2023 07:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[春节前三天，三亚经营性住宿设施平均入住率82.28%。（三亚发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1486919.d.html</link>
+            <guid>2956116</guid>
+            <pubDate>Tue, 24 Jan 2023 07:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国知名床垫制造商舒达-席梦思申请破产保护】1月24日消息，据一份文件显示，美国床垫制造商舒达-席梦思（Serta Simmons Bedding）在得克萨斯州申请破产保护。文件显示，席梦思预计负债10亿至100亿美元，估计资产为10亿至100亿美元。该公司在一份单独的声明中表示，申请不包括其在加拿大或波多黎各的业务。本次重组将使融资债务从约19亿美元降至约3亿美元。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4708535.d.html</link>
+            <guid>2956115</guid>
+            <pubDate>Tue, 24 Jan 2023 07:17:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国商务部：泰国2022年出口同比增长5.5%至2871亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1484027.d.html</link>
+            <guid>2956114</guid>
+            <pubDate>Tue, 24 Jan 2023 07:15:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国12月预算赤字飙升至纪录高位 债务利息上升令公共财政承压】英国政府更深地陷入了债务漩涡。债务利息的上升，以及为使消费者和企业免受能源价格冲击而引发的支出，都令公共财政饱受压力。英国国家统计局周二表示，12月财政赤字达到创纪录的274亿英镑(折合340亿美元)，几乎是去年同期107亿英镑赤字的三倍。经济学家此前预期为173亿英镑。当月的赤字受到173亿英镑债务利息成本增加的推动，这是历史上12月份最大的涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4704481.d.html</link>
+            <guid>2956113</guid>
+            <pubDate>Tue, 24 Jan 2023 07:12:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：2022/2023年4月至12月公共部门借款1281亿英镑，比去年同期增加51亿英镑。]]></title>
+            <guid>2956112</guid>
+            <pubDate>Tue, 24 Jan 2023 07:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：去年12月份借款增加反映了英国预算责任办公室（OBR）对学生贷款的预期。]]></title>
+            <guid>2956111</guid>
+            <pubDate>Tue, 24 Jan 2023 07:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士2022年12月黄金出口量环比增长16.3%，至150.1吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1478618.d.html</link>
+            <guid>2956110</guid>
+            <pubDate>Tue, 24 Jan 2023 07:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国家统计局：去年12月的借款数据是1993年有记录以来最高的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4701411.d.html</link>
+            <guid>2956109</guid>
+            <pubDate>Tue, 24 Jan 2023 07:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【财经网站Forexlive评德国2月Gfk消费者信心指数】这一数据标志着德国消费者信心再次有所改善（目前已连续四个月上升），但读数仍处于负值区域，这仍值得注意。德国市场研究机构捷孚凯（GfK）指出，能源价格下跌能确保消费者情绪不那么悲观，但私人消费将无法对今年的整体经济增长做出积极贡献。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4700186.d.html</link>
+            <guid>2956108</guid>
+            <pubDate>Tue, 24 Jan 2023 07:04:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY日内跌幅达0.50%，现报129.98。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1476963.d.html</link>
+            <guid>2956107</guid>
+            <pubDate>Tue, 24 Jan 2023 07:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金向上触及1940美元/盎司，日内涨0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4697884.d.html</link>
+            <guid>2956106</guid>
+            <pubDate>Tue, 24 Jan 2023 07:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月公共部门净借款 265.81亿英镑，预期232亿英镑，前值211.96亿英镑。]]></title>
+            <guid>2956105</guid>
+            <pubDate>Tue, 24 Jan 2023 07:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月政府收支短差 172.1亿英镑，前值203.36亿英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1474674.d.html</link>
+            <guid>2956104</guid>
+            <pubDate>Tue, 24 Jan 2023 07:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士12月贸易帐 28.27亿瑞郎，前值23.07亿瑞郎。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4697275.d.html</link>
+            <guid>2956103</guid>
+            <pubDate>Tue, 24 Jan 2023 07:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国2月Gfk消费者信心指数 -33.9，预期-33，前值-37.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhq4697155.d.html</link>
+            <guid>2956102</guid>
+            <pubDate>Tue, 24 Jan 2023 07:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统解除总统办公室副主任职务】乌克兰总统泽连斯基解除了总统办公室副主任季莫申科的职务。此前泽连斯基曾表示，总统办公室副主任和副总检察长将会离开岗位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1472382.d.html</link>
+            <guid>2956101</guid>
+            <pubDate>Tue, 24 Jan 2023 06:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克央行副行长：捷克面临的最大风险是工资增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychqhs1469529.d.html</link>
+            <guid>2956100</guid>
+            <pubDate>Tue, 24 Jan 2023 06:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：继续通过乌克兰向欧洲输送天然气，周二的天然气输送量为2440万立方米。]]></title>
+            <guid>2956098</guid>
+            <pubDate>Tue, 24 Jan 2023 06:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[芬兰外长Haavisto：芬兰可能会考虑在瑞典无法加入北约的情况下继续加入北约，但与瑞典一起加入北约仍是首选。]]></title>
+            <guid>2956097</guid>
+            <pubDate>Tue, 24 Jan 2023 06:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗外交部强烈谴责欧盟和英国的新一轮对伊制裁】伊朗外交部发言人卡纳尼发表声明称，强烈谴责欧盟和英国近期对伊朗施加的新一轮制裁。他说，这些行动表明西方无法正确理解伊朗，以及他们对对伊政策失败感到绝望、沮丧和愤怒。卡纳尼强调，西方很清楚，制裁不会影响伊朗人民应对外国干涉和阴谋的决心。卡纳尼表示，伊朗保留对此类行动进行报复的权利，并将很快公布针对欧盟和英国侵犯人权和支持恐怖主义的新制裁名单。欧盟轮值主席国瑞典23日在社交媒体上宣布，欧盟外长会议已经通过对伊朗的新一轮制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1591278.d.html</link>
+            <guid>2956096</guid>
+            <pubDate>Tue, 24 Jan 2023 06:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[船货调查机构Intertek：印尼2022年12月棕榈油出口量为233万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1586269.d.html</link>
+            <guid>2956094</guid>
+            <pubDate>Tue, 24 Jan 2023 06:37:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣铃木俊一：日本央行购买债券不是想将债务货币化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1575183.d.html</link>
+            <guid>2956092</guid>
+            <pubDate>Tue, 24 Jan 2023 06:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克出席法庭 称提出将特斯拉私有化时有足够资金】特斯拉CEO马斯克当地时间1月23日在出席旧金山联邦法院的一桩由一群投资者提起的诉讼时说，他2018年提出将特斯拉私有化的想法时，所需资金是有保障的。马斯克称，来自沙特主权财富基金的融资以及他本人在火箭公司SpaceX的持股本可提供足够资金。“仅凭SpaceX的股票，我就觉得资金是有保障的。”马斯克说，他在2018年7月底会见了沙特公共投资基金（PIF）的代表，在那次会议上没有讨论将特斯拉私有化的具体价格，也没有签署文件，但在会议结束时马斯克认为这是一项板上钉钉的交易。不过该基金后来放弃了支持马斯克将特斯拉私有化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4789440.d.html</link>
+            <guid>2956090</guid>
+            <pubDate>Tue, 24 Jan 2023 06:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本财务大臣铃木俊一：外汇汇率是由市场决定的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1562634.d.html</link>
+            <guid>2956086</guid>
+            <pubDate>Tue, 24 Jan 2023 06:16:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩美日陆军参谋长或于4月在夏威夷会晤】韩国军方24日消息，美国印太司令部旗下陆军司令部计划安排韩美日陆军参谋长会议，并近日向韩国陆军参谋总长朴正焕发出了参会邀请。据报道，美方计划安排4月初在夏威夷举行三国参谋长会议。韩国军方有关人士表示，军方正在考虑是否接受美方参会邀请，会议形式和议题等尚在协调当中。]]></title>
+            <guid>2956085</guid>
+            <pubDate>Tue, 24 Jan 2023 06:15:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：印尼托贝洛西北169公里发生5.8级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1561321.d.html</link>
+            <guid>2956083</guid>
+            <pubDate>Tue, 24 Jan 2023 06:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2022财年净亏损额将达3170亿日元 东电申请上调电价约三成】东京电力控股公司1月23日宣布，已向日本经济产业省申请，6月1日起大多数家庭签约的管制电价平均上调29.31%。此举旨在改善因火力发电燃料价格高涨而低迷的业绩。实际涨价幅度和时间将由国家的审查决定。若按照申请内容，标准家庭每月电费预计将增加2611日元（约合人民币136元）。东电涨价是东日本大地震后经营恶化的2012年以来首次。鉴于随着乌克兰危机等资源价格上涨，东电是第六家申请涨价的电力巨头。东电23日还公布预测，2022财年（2022年4月至2023年3月）合并财报的净亏损额将达到3170亿日元。而上财年为净盈利56亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1560787.d.html</link>
+            <guid>2956082</guid>
+            <pubDate>Tue, 24 Jan 2023 06:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统办公室副主任季莫申科：我向泽连斯基递交了辞呈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4778583.d.html</link>
+            <guid>2956081</guid>
+            <pubDate>Tue, 24 Jan 2023 06:08:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【俄罗斯人口出生率持续下降】据《俄罗斯报》网站1月22日报道，俄罗斯人口出生率正在下降——根据俄罗斯国家统计局的数据，2022年上半年，出生率下降了6.3%。而在2021年，出生人口只有130万，是过去10年的低谷。（参考消息）]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4775749.d.html</link>
@@ -60,315 +476,6 @@
             <title><![CDATA[巴基斯坦能源部长：尚不清楚电力供应中断的原因。需要调查是否有外部干扰，比如网络攻击，尽管这种可能性较小。]]></title>
             <guid>2956067</guid>
             <pubDate>Tue, 24 Jan 2023 05:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦能源部长：巴基斯坦有足够的燃料来运行发电厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4742789.d.html</link>
-            <guid>2956065</guid>
-            <pubDate>Tue, 24 Jan 2023 05:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦能源部长：全国电力供应已经恢复。将需要重新连接一些公用电力设施，如燃煤电厂，预计将需要48小时才能完成重连。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1519439.d.html</link>
-            <guid>2956063</guid>
-            <pubDate>Tue, 24 Jan 2023 05:18:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外长拉夫罗夫到访比勒陀利亚 与南非外长举行会谈】当地时间1月23日，在南非行政首都比勒陀利亚，南非国际关系与合作部部长娜莱迪·潘多尔接待了到访的俄罗斯外长谢尔盖·拉夫罗夫，并举行双边会谈。这是自俄乌冲突以来，俄罗斯外长拉夫罗夫首次访问南非。在23日举行的双边会晤中拉夫罗夫表示，他赞赏南非所秉持的中立立场，以及南非认为乌克兰和西方对持续的冲突负有责任。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1516230.d.html</link>
-            <guid>2956061</guid>
-            <pubDate>Tue, 24 Jan 2023 05:14:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【硅谷裁员潮中，安捷伦科技CEO承诺今年不裁员】据MarketWatch 1月23日消息，在硅谷裁员潮中，美国硅谷测试分析仪器生产商安捷伦科技（Agilent Technologies）首席执行官Mike McMullen上周在与员工的会议上承诺今年不会裁员。安捷伦为分析实验室及临床和常规诊断市场等提供服务，其股票在过去12个月中上涨了15%，而标普500指数同期下跌9%。（界面新闻）]]></title>
-            <guid>2956058</guid>
-            <pubDate>Tue, 24 Jan 2023 05:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果MR头显据悉具备眼动和手部追踪功能 预计首年将销售约100万部】苹果将推出售价约3000美元的混合现实（MR）头戴式设备，可能命名为Reality Pro。知情人士透露，眼动和手部追踪功能将是该设备的主要卖点。设备本身内置传感器以读取眼动，用户盯着屏幕上的项目即可控制设备。用户将拇指和食指捏在一起即可激活任务，区别于依赖手柄的一些其它竞争品。知情人士称，苹果公司计划最早在今年春天推出这款设备，不过时间表可能会调整。该公司将在6月的软件开发者年度会议上讨论该产品，然后在今年晚些时候发布。苹果预计第一年将销售约100万部头戴式设备，且不寻求首款型号实现盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4736144.d.html</link>
-            <guid>2956057</guid>
-            <pubDate>Tue, 24 Jan 2023 05:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国今年已发生38起大规模枪击事件】美国“枪支暴力档案”网站的统计显示，截至当地时间1月23日，今年以来美国已发生38起大规模枪击事件（除枪手以外至少4人中枪），已有2720人因各类涉枪事件死亡，2096人因各类涉枪事件受伤。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4732126.d.html</link>
-            <guid>2956054</guid>
-            <pubDate>Tue, 24 Jan 2023 05:04:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国银行前瞻美国GDP数据】美国第四季度GDP环比可能增长2.5%，第三季度为3.2%。我们估计12月名义个人收入环比增长0.2%，名义个人支出环比持平。我们预计12月总体个人消费支出通胀月率为0.0%，将年率从5.5%降至5.0%，而我们预计核心个人消费支出通胀率为月率0.26%，年率将从4.7%降至4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiys4729472.d.html</link>
-            <guid>2956053</guid>
-            <pubDate>Tue, 24 Jan 2023 05:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受强冷空气影响 浙江宁波18条客渡航线停航】记者从浙江宁波海事局了解到，受强冷空气影响，今天（24日）宁波市沿海海面风力达到阵风9~10级。截至今天12时，浙江宁波辖区水域共有18条客渡航线停航，其余航线将视风力情况及时停航。其中，白峰至六横沙岙、白峰至普陀山、白峰至桃花、白峰至鸭蛋山、白峰至虾峙共5条市际航线全部停航，对宁波、舟山两地市民的水上出行造成较大影响。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1500222.d.html</link>
-            <guid>2956051</guid>
-            <pubDate>Tue, 24 Jan 2023 04:51:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国电力市场结算机构Elexon：根据冬季煤炭合同，英国国家电网于1月24日取消了draxx-5和draxx-6煤机组的启动指令。]]></title>
-            <guid>2956050</guid>
-            <pubDate>Tue, 24 Jan 2023 04:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国调查记者公布多份推特内部文件】美国调查记者 马特·塔伊比近来相继公布了他获得的多份推特内部文件。这些文件显示，包括美国联邦调查局和中央情报局在内的美国政府机构操纵社交媒体，来达到实施网络信息战、操纵舆论的目的。塔伊比说，曾经有一次，推特员工收到美国国务院发来的一份关停账户名单，国务院给出的理由是，这些账户所谓“传播有关乌克兰的负面信息”是由俄罗斯方面指使的。（央视网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychiyu1493699.d.html</link>
-            <guid>2956047</guid>
-            <pubDate>Tue, 24 Jan 2023 04:42:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷和巴西总统呼吁推进区域一体化】阿根廷总统费尔南德斯和到访的巴西总统卢拉23日表示，双方愿共同努力深化双边关系，推进区域一体化。费尔南德斯和卢拉当天在阿根廷总统府玫瑰宫举行会晤。两国总统在会晤后发表讲话时一致表示，双方希望强化南方共同市场（南共市）的作用，重新激活南美洲国家联盟，推进有关建立南美洲共同货币的讨论。卢拉表示，拉美国家间经贸往来应减少对美元的依赖，建立南美洲共同货币体系是十分现实且必要的。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1618350.d.html</link>
-            <guid>2956044</guid>
-            <pubDate>Tue, 24 Jan 2023 04:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌CEO宣布高级副总裁及以上人员将减薪】据《华尔街日报》，谷歌（Google）首席执行官皮查伊（Sundar Pichai）1月23日在全体会议上表示，作为削减成本措施的一部分，高级副总裁及以上级别员工将削减奖金。谷歌母公司Alphabet上周宣布自2009年以来首次大规模裁员，将裁减约12000个职位，占员工总数的6%。]]></title>
-            <guid>2956043</guid>
-            <pubDate>Tue, 24 Jan 2023 04:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高盛计划削减590亿美元的资产管理部门投资】高盛集团资产和财富管理部门首席投资官索尔兹伯里（Julian Salisbury）在接受路透社采访时表示，该公司的资产管理部门计划减少590亿美元的另类投资，因为这些投资令其利润承压。索尔兹伯里说，高盛正寻求在未来几年剥离其头寸，并用外部资本取代其资产负债表上的部分资金。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4835131.d.html</link>
-            <guid>2956042</guid>
-            <pubDate>Tue, 24 Jan 2023 04:22:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年12月全国受理网络违法和不良信息举报1462.8万件】中央网信办举报中心近日公布的统计数据显示，2022年12月，中央网信办举报中心指导全国各级网信举报工作部门、主要网站平台受理举报1462.8万件，环比增长23.1%、同比增长16.1%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1604462.d.html</link>
-            <guid>2956040</guid>
-            <pubDate>Tue, 24 Jan 2023 04:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部发言人：各方仍在就伊核问题履约谈判进行沟通】当地时间23日，伊朗外交部发言人卡纳尼就伊核问题履约谈判进展、美伊关系、西方施加制裁等议题举行新闻发布会。卡纳尼强调，没有进行正式谈判不意味着沟通和交流的停止，伊核问题相关各方仍在通过多种渠道进行履约谈判的信息交换。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4816951.d.html</link>
-            <guid>2956039</guid>
-            <pubDate>Tue, 24 Jan 2023 04:02:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国2023年汽车产量预计为195万辆，增长3.53%。泰国2023年国内汽车销量预计为90万辆，增长6.36%。泰国2023年汽车出口量预计为105万辆，增长1.22%。]]></title>
-            <guid>2956038</guid>
-            <pubDate>Tue, 24 Jan 2023 04:01:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【至少7国报告儿童止咳糖浆受污染事件，WHO紧急呼吁各国协调行动】 据联合国新闻网1月23日报道，在过去4个月，至少7个国家报告了若干起儿童非处方止咳糖浆确认或怀疑受到高浓度二甘醇和乙二醇污染的事件。其中3个国家（冈比亚、印尼和乌兹别克斯坦）报告了300多例死亡病例，大多数是5岁以下儿童。世卫组织呼吁其194个成员国采取行动，防止更多死亡发生。“由于这些不是孤立的事件，世卫组织呼吁参与医疗供应链的各利益相关方立即采取协调的行动。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4810078.d.html</link>
-            <guid>2956037</guid>
-            <pubDate>Tue, 24 Jan 2023 03:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【春节前三天，国内酒店预订量同比增长56%】1月24日，春节假期过半，全国旅游出行市场快速复苏，长线旅游度假市场持续升温，出境游迅速恢复，周边游继续保持了较高的活跃度。同程旅行数据显示，今年春节假期前三天，国内酒店预订量同比增长56%，景区门票预订量同比增长79%，国内机票预订量同比增长30%，出境机票同比增长218%。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1580289.d.html</link>
-            <guid>2956034</guid>
-            <pubDate>Tue, 24 Jan 2023 03:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原东电高管因福岛核电站事故被提诉日本最高法院】据日本广播协会24日消息，1月18日，东京高等法院对福岛第一核电站事故中东京电力公司前管理层3人因业务过失致死伤罪作出二审判决，3人均被判无罪。24日，本案检方指定律师就此判决向最高法院提起上诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4801485.d.html</link>
-            <guid>2956033</guid>
-            <pubDate>Tue, 24 Jan 2023 03:40:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泰国12月汽车产量同比增长2.75%，11月同比增长15.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1578106.d.html</link>
-            <guid>2956032</guid>
-            <pubDate>Tue, 24 Jan 2023 03:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国电力市场结算机构Elexon：根据冬季煤炭合同，英国国家电网于1月24日取消了Wbups-2煤机组的启动指令。]]></title>
-            <guid>2956031</guid>
-            <pubDate>Tue, 24 Jan 2023 03:36:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大规模停电持续超过12小时，巴基斯坦现已恢复供电】1月23日晚，巴基斯坦政府向数百万人恢复供电。当日，巴基斯坦电网陷入故障，引发了该国几个月来最严重的停电事件。据路透社1月24日报道，巴基斯坦1月23日清晨开始大规模停电，持续了超过12小时。巴基斯坦最近正处于冬季用电高峰。（央视）]]></title>
-            <guid>2956030</guid>
-            <pubDate>Tue, 24 Jan 2023 03:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年全球图像传感器市场：索尼占据半壁江山 三星腰斩】根据市场研究机构Omdia最新数据显示，索尼持续稳坐全球图像传感器(CIS)市场龙头，2022年第三季度销售额达到24.42亿美元，市场占比高达51.6%。三星紧随其后，但是份额仅有15.6%，不及索尼1/3。第三至五名则分别为豪威科技、安森美、格科微电子，市占率分别为9.7%、7%与4%。（快科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1569278.d.html</link>
-            <guid>2956029</guid>
-            <pubDate>Tue, 24 Jan 2023 03:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：加州枪击事件已致7死，“受害者是华人工人”，拜登听取简报】据美国全国广播公司（NBC）消息，美国加利福尼亚州圣马特奥县半月湾两地当地时间23日发生枪击事件，目前已造成7人死亡1人受伤。半月湾地区议员黛比·鲁多克说，此次枪击案受害者是农场的华人工人（Chinese farmworkers），但报道没有说明受害者国籍。《纽约时报》最新报道，白宫新闻秘书卡里娜·让-皮埃尔当地时间23日晚些时候在推特上发文称，美国总统拜登已听取国土安全顾问关于加州圣马特奥县枪击事件的简报，“他已要求联邦执法部门向当地政府提供任何必要的协助”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1567682.d.html</link>
-            <guid>2956028</guid>
-            <pubDate>Tue, 24 Jan 2023 03:25:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《满江红》总票房超10亿元】 猫眼专业版数据显示，1月24日11时16分，电影《满江红》上映3天，总票房超10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1565832.d.html</link>
-            <guid>2956027</guid>
-            <pubDate>Tue, 24 Jan 2023 03:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今晨北方13个省会级城市创今冬以来气温新低 明晨冰冻线将抵华南】受到寒潮影响，今天（1月24日）早晨，北方13个省会级城市气温创今冬以来新低！其中长春-27.3℃，沈阳-21.8℃，呼和浩特-28.6℃，太原-19.4℃，北京-15.4℃，天津-15.2℃，石家庄-11℃，西安-6.5℃，兰州-15.6℃，银川-18.8℃，西宁-21.3℃，乌鲁木齐-23.3℃，济南-13.6℃，均为当地今冬新低。预计本次过程最低气温将出现在25日早晨，0℃线可至华南北部一线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1552251.d.html</link>
-            <guid>2955990</guid>
-            <pubDate>Tue, 24 Jan 2023 03:06:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【1月23日发送旅客2352.5万人次，全国高速公路小客车流量4324.7万辆次】 来自国务院联防联控机制春运工作专班数据显示，1月23日（春运第17天，农历正月初二）全国铁路、公路、水路、民航共发送旅客2352.5万人次，环比增长38.0%，比2019年同期下降50.8%，比2022年同期增长67.7%。其中：全国铁路发送旅客522.3万人次，环比增长88.4%，比2019年同期下降31.6%，比2022年同期增长84.0%。公路发送旅客1638万人次，环比增长26.7%，比2019年同期下降55.5%，比2022年同期增长59.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4773300.d.html</link>
-            <guid>2955979</guid>
-            <pubDate>Tue, 24 Jan 2023 03:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月24日10时57分在河北邯郸市磁县（北纬36.42度，东经114.26度）发生2.5级地震，震源深度8千米。]]></title>
-            <guid>2955977</guid>
-            <pubDate>Tue, 24 Jan 2023 03:04:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊旅游部长：期待迎接中国游客到来】希腊旅游部长瓦西利斯·基基利亚斯日前在雅典接受新华社记者采访时表示，中国市场对希腊旅游业至关重要，中国游客重返希腊将给当地旅游业带来积极影响。基基利亚斯表示，希中两国文明历史都极为悠久，中国人民对了解希腊文化和文明很感兴趣。“我们正积极准备欢迎中国游客重返希腊。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsw1546086.d.html</link>
-            <guid>2955949</guid>
-            <pubDate>Tue, 24 Jan 2023 02:58:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年12月私募资管产品备案762只】中国基金业协会日前发布的数据显示，2022年12月，证券期货经营机构当月共备案私募资管产品762只，设立规模899.65亿元。截至2022年12月底，证券期货经营机构私募资管业务规模合计14.31万亿元（不含社保基金、企业年金）。具体来看，截至2022年12月底，证券公司及其资管子公司平均管理私募资管业务规模662亿元，证券公司私募子公司平均管理私募基金73亿元，基金管理公司平均管理私募资管业务规模409亿元，基金子公司平均管理私募资管业务规模274亿元，期货公司及其资管子公司平均管理私募资管业务规模27亿元。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4768505.d.html</link>
-            <guid>2955943</guid>
-            <pubDate>Tue, 24 Jan 2023 02:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华龙一号核电机组建设稳步推进】春节期间，多项国家重大工程加速推进，展现经济活力。作为我国自主研发的第三代核电技术——华龙一号核电机组的建设在这个春节里也是如火如荼地进行之中。在位于广东惠州的太平岭核电站，正在建设大湾区的两台华龙一号核电机组，每台机组年发电量可达近100亿度，这两台机组建成后，将为大湾区提供更加清洁、稳定的电力保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4763626.d.html</link>
-            <guid>2955930</guid>
-            <pubDate>Tue, 24 Jan 2023 02:52:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟拟延长与乌克兰的贸易自由化安排】欧盟委员会副主席东布罗夫斯基斯称，欧盟打算在支持乌克兰经济的框架内，延长与乌克兰的贸易自由化安排。他表示，“这些措施为乌克兰提供了显著的经济支持”。欧盟与乌克兰贸易自由化临时安排于去年通过，有效期至2023年6月。这项安排对乌克兰的部分产品实施零关税，暂停使用进口价格制度，暂停所有关税配额，并规定即使在有效期满后，也不对来自乌克兰的进口产品征收反倾销税。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsu4754501.d.html</link>
-            <guid>2955877</guid>
-            <pubDate>Tue, 24 Jan 2023 02:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：01月24日10时13分在印尼马鲁古海发生5.5级地震，震源深度30千米。]]></title>
-            <guid>2955876</guid>
-            <pubDate>Tue, 24 Jan 2023 02:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看图：Salesforce的支出高于美国软件同行】彭博汇编数据显示，作为美国最大的客户关系管理（CRM）软件开发商，Salesforce支出占营收的比例远远高于Adobe和微软公司等同行。彭博分析师Anurag Rana表示，专注于运营利润率意味着近期内可能不会进行重大收购，因为此前对Slack、Tableau和Mulesoft的收购削弱了Salesforce的利润率。BC Capital Markets的分析师Rishi Jaluria认为，激进投资者可能要求Salesforce剥离之前收购的一些公司，以追求更大的利润。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsp4418143.d.html</link>
-            <guid>2955859</guid>
-            <pubDate>Tue, 24 Jan 2023 02:35:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文旅部：谨慎参与高风险项目，避免前往没有正式开发开放、缺乏安全保障的区域旅游】 文化和旅游部办公厅发布《关于进一步加强春节期间旅游安全工作的通知》，其中提出，要有针对性的增加游客安全提示提醒，多方式、多渠道引导游客预约错峰出行，关注旅途中的消防和道路交通安全，谨慎参与高风险项目，避免前往没有正式开发开放、缺乏安全保障的区域旅游。提醒游客做好自身健康第一责任人，保持良好的个人卫生习惯。]]></title>
-            <guid>2955847</guid>
-            <pubDate>Tue, 24 Jan 2023 02:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文旅部：指导督促旅行社和在线旅游企业严格落实有关规定 规范旅游包车行为】文化和旅游部办公厅发布《关于进一步加强春节期间旅游安全工作的通知》，要加强对设施设备的安全检查，不符合安全要求的坚决停止运营和使用。要加强对公共文化单位、文化和旅游经营单位的指导，做好流量管理，完善安全提示警示标识和安全防护设施。要加强部门间协同，会同相关部门对公共文化单位、文化和旅游经营单位的消防疏散通道等开展隐患排查。要指导督促旅行社和在线旅游企业严格落实有关规定，规范旅游包车行为，选择符合资质的供应商、合作商。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsr1188518.d.html</link>
-            <guid>2955806</guid>
-            <pubDate>Tue, 24 Jan 2023 02:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国2022年天然气和煤炭进口均创新高】据韩国产业通商资源部24日发布的数据，2022年天然气和煤炭的进口额分别为*67亿美元和*81亿美元，均创1956年开始该项统计以来的最高值。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsr1185584.d.html</link>
-            <guid>2955791</guid>
-            <pubDate>Tue, 24 Jan 2023 02:20:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏发布海浪Ⅳ级蓝色警报】 受强冷空气影响，预计1月24日中午到夜间，江苏近海将出现3.0～4.8米的大到巨浪；近岸海域将出现2.0～3.0米的中到大浪。请海上作业船舶采取回港等避浪措施，人员注意安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imychcsr1185551.d.html</link>
-            <guid>2955790</guid>
-            <pubDate>Tue, 24 Jan 2023 02:20:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【和黄医药与武田制药达成呋喹替尼中国以外地区开发及商业化许可协议】和黄医药宣布其子公司和记黄埔医药（上海）有限公司与Takeda Pharmaceutical Company Limited（武田制药）子公司达成独家许可协议。呋喹替尼在中国内地、香港和澳门由和黄医药销售。武田制药将从和记黄埔医药（上海）有限公司取得呋喹替尼在除中国内地、香港及澳门以外的全球范围的针对所有适应症的开发及商业化独家许可。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4532466.d.html</link>
-            <guid>2955758</guid>
-            <pubDate>Tue, 24 Jan 2023 02:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州北部发生多起枪击事件 已造成7人死亡】当地时间1月23日，综合法新社和《纽约时报》报道，美国加利福尼亚州北部发生多起枪击事件，已造成7人死亡。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1307461.d.html</link>
-            <guid>2955757</guid>
-            <pubDate>Tue, 24 Jan 2023 02:10:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TheracosBio糖尿病新药Brenzavvy获美国FDA批准】生物制药公司TheracosBio 1月23日宣布，美国食品药品管理局（FDA）已批准其口服钠-葡萄糖协同转运蛋白2（SGLT2）抑制剂Brenzavvy（bexagliflozin）用于改善成人2型糖尿病患者的血糖控制，作为饮食和运动外的辅助疗法。SGLT2抑制剂是一类处方药，可阻止糖被肾脏再吸收，通过尿液排出体内的更多糖分。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4524964.d.html</link>
-            <guid>2955756</guid>
-            <pubDate>Tue, 24 Jan 2023 02:05:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师：Salesforce裁员8000人远未结束 后续还会有大动作】华尔街分析师们日前表示，维权投资者埃利奥特投资管理公司（Elliott Investment Management）和Starboard Value可能会敦促Salesforce削减更多工作岗位，对董事会进行改革，并剥离之前收购的一些公司，以追求更大的利润。作为最大的客户关系管理（CRM）软件开发商，Salesforce一直在努力应对增长放缓、高管离职和投资者压力。自2021年末创下峰值以来，Salesforce股价已经下跌了一半。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4521143.d.html</link>
-            <guid>2955755</guid>
-            <pubDate>Tue, 24 Jan 2023 02:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【岸田文雄仍想谈和平协议，俄方：现在免谈】日本首相岸田文雄23日在施政演说中表示，仍致力于与俄罗斯谈判两国间达成和平协议。俄方回应说，这件事现在免谈。据俄罗斯卫星通讯社报道，俄总统新闻秘书德米特里·佩斯科夫当天在记者会上就俄方是否准备与日方继续谈判的问题回答道：“（俄日）目前没有实质性对话。当然，在目前状况下，几乎不存在这样的可能性。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4502171.d.html</link>
-            <guid>2955645</guid>
-            <pubDate>Tue, 24 Jan 2023 01:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南：春节连续生产可以享受奖补】近日，河南省印发《支持企业春节前后稳岗稳产若干政策措施》，鼓励和引导企业春节前后稳定生产、快速复产。政策明确，连续生产可以享受奖补。2023年1月17日至2月5日（腊月二十六至正月十五，共20天）期间保持连续生产（日均用电量不低于2022年日均用电量的70%）的规模以上工业企业，以2023年1月该企业参加失业保险职工人数为基数，按500元/人的标准进行奖补，每家企业奖补金额最高不超过10万元，所需资金由省财政从就业补助资金中列支。（河南日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4500331.d.html</link>
-            <guid>2955640</guid>
-            <pubDate>Tue, 24 Jan 2023 01:34:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾强降雨已致38人死亡 超194万人受灾】菲律宾国家减灾委发布通报称，截至1月24日上午6时，菲律宾近期强降雨已导致38人死亡，另有5人失踪。通报称，目前受灾人数已经超过194万。基础设施损失超过2.8亿菲律宾比索，农业损失超过7.5亿比索。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1276150.d.html</link>
-            <guid>2955624</guid>
-            <pubDate>Tue, 24 Jan 2023 01:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国将在2026年用LNG取代俄罗斯天然气】据俄罗斯卫星通讯社报道，德国经济部在就德国联邦议院左翼党的要求作出的答复中称，德国将到2026年实现再气化，届时液化天然气（LNG）的进口量将与已停止供应的俄罗斯天然气相当。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1273588.d.html</link>
-            <guid>2955605</guid>
-            <pubDate>Tue, 24 Jan 2023 01:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《熊出没·伴我“熊芯”》总票房超3亿元】 猫眼专业版数据显示，1月24日9时7分，电影《熊出没·伴我“熊芯”》总票房超3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1270467.d.html</link>
-            <guid>2955582</guid>
-            <pubDate>Tue, 24 Jan 2023 01:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：马鲁古海发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1267901.d.html</link>
-            <guid>2955566</guid>
-            <pubDate>Tue, 24 Jan 2023 01:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市春节前三天接待游客441.26万人次】 “上海发布”微信公众号消息，上海市文化旅游局介绍，据上海旅游大数据监测，假期前三天上海市接待游客441.26万人次。上海市春节7天演出安排总场次达到602场，同比2022年增长32%，已售票房约1026万元，同比增长42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4489904.d.html</link>
-            <guid>2955555</guid>
-            <pubDate>Tue, 24 Jan 2023 01:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长三角铁路今日预计发送旅客115万人次】据澎湃新闻，记者从中国铁路上海局集团有限公司获悉，今日是正月初三，长三角铁路将迎来节后客流小高峰，当日预计发送旅客115万人次。铁路部门计划增开南昌、武汉、长沙、郑州、徐州、合肥、安庆、阜阳地区至沪宁杭及浙江沿海等方向旅客列车19列，组织105列动车组列车重联运行。自1月7日春运启动以来，长三角铁路共发送旅客2532.2万人次，日均发送旅客148.97万人次，同比增长27.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1266486.d.html</link>
-            <guid>2955551</guid>
-            <pubDate>Tue, 24 Jan 2023 01:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今日全国铁路预计发送旅客670万人次，开行旅客列车8013列】1月24日，记者从中国国家铁路集团有限公司获悉，今日全国铁路预计发送旅客670万人次，开行旅客列车8013列。1月23日，全国铁路发送旅客522.3万人次，开行旅客列车6683列。1月22日，全国铁路发送旅客277.2万人次，开行旅客列车6258列。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkr4486888.d.html</link>
-            <guid>2955543</guid>
-            <pubDate>Tue, 24 Jan 2023 01:16:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本央行提议购买1000亿日元的TBS远期直接交割债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1260400.d.html</link>
-            <guid>2955512</guid>
-            <pubDate>Tue, 24 Jan 2023 01:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒：美国司法部将针对谷歌数字广告业务提起反垄断诉讼】 1月24日援引知情人士报道，美国司法部准备最快于当天就谷歌（Google）在数字广告市场的主导地位提起诉讼。该案件预计将在本周末前提交联邦法院。这将是美国司法部对谷歌的第二起反垄断诉讼。2020年10月20日，时任司法部长威廉·巴尔（William Barr）领导的司法部就谷歌的搜索业务起诉该公司，称该公司利用与无线运营商和手机制造商的独家分销协议来损害竞争。该案将于今年9月开庭审理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-24/detail-imycfxkt1253663.d.html</link>
-            <guid>2955488</guid>
-            <pubDate>Tue, 24 Jan 2023 01:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
