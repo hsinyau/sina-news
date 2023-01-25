@@ -4,11 +4,379 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 25 Jan 2023 06:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:05:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[微软(MSFT.O)盘前跌1.3%，此前预计Azure云计算业务本季度收入增速将放缓。]]></title>
+            <guid>2957254</guid>
+            <pubDate>Wed, 25 Jan 2023 09:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格表示，北约不是、也不会是乌克兰冲突的一方，不向乌克兰派部队或飞机。]]></title>
+            <guid>2957253</guid>
+            <pubDate>Wed, 25 Jan 2023 09:03:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉(TSLA.O)盘前跌约2%，特斯拉将于盘后公布财报，有分析师预计净利润将创近3年新低。]]></title>
+            <guid>2957252</guid>
+            <pubDate>Wed, 25 Jan 2023 09:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绿的谐波参加2023日本东京机器人RoboDEX展览会】据绿的谐波消息，绿的谐波团队携减速器创新产品和一体化解决方案，参加2023年1月25日开始举办的日本东京机器人RoboDEX展览会。针对SCARA机器人，首次展出高速、耐冲击、长寿命专用减速器产品套餐；针对协作和多关节等机器人，展出耐受超长寿命试验(MTBF)的系列化产品；针对半导体、医疗等高要求应用，旗下开璇智能展出超高精度、超快响应、低振动噪声的系列化旋转运动执行器；此外，还首次展出轻量化高集成度谐波减速模组，以及面向智能制造应用的转台类产品。在此期间，参展团队还将应邀拜访多家日本国际知名企业，探讨深度交流合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4373130.d.html</link>
+            <guid>2957251</guid>
+            <pubDate>Wed, 25 Jan 2023 09:02:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士1月ZEW投资者信心指数录得-40，为2022年3月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1149812.d.html</link>
+            <guid>2957250</guid>
+            <pubDate>Wed, 25 Jan 2023 09:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所(LME)：铝库存持平，铜库存减少1050吨，镍库存减少162吨，铅库存持平，锡库存持平，锌库存持平。]]></title>
+            <guid>2957249</guid>
+            <pubDate>Wed, 25 Jan 2023 09:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月IFO商业预期指数 86.4，预期85，前值83.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1149669.d.html</link>
+            <guid>2957248</guid>
+            <pubDate>Wed, 25 Jan 2023 09:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月IFO商业景气指数录得90.2，为2022年6月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4372573.d.html</link>
+            <guid>2957247</guid>
+            <pubDate>Wed, 25 Jan 2023 09:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国1月IFO商业现况指数 94.1，预期95，前值94.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1149567.d.html</link>
+            <guid>2957246</guid>
+            <pubDate>Wed, 25 Jan 2023 09:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士1月ZEW投资者信心指数 -40，前值-42.8。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1149422.d.html</link>
+            <guid>2957244</guid>
+            <pubDate>Wed, 25 Jan 2023 09:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国30年期国债收益率跌至去年12月12日以来的最低水平，报3.566%，日内下跌约5个基点。]]></title>
+            <guid>2957243</guid>
+            <pubDate>Wed, 25 Jan 2023 08:57:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非洲开发银行：非洲每年需650亿美元贷款以生产足够粮食】当地时间1月24日，非洲开发银行在一份声明中表示，非洲农民每年需要650亿美元的贷款来生产足够的粮食，以减少进口并使其经济免受外部冲击。目前，非洲大陆每年进口超过1亿公吨谷物，成本为750亿美元。由于近期通胀飙升，俄乌冲突导致商品价格上涨，进一步暴露非洲过度依赖进口粮食等问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4366732.d.html</link>
+            <guid>2957241</guid>
+            <pubDate>Wed, 25 Jan 2023 08:52:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国10年期国债收益率跌至去年12月15日以来的最低水平，报3.215%，日内下跌约6个基点。]]></title>
+            <guid>2957240</guid>
+            <pubDate>Wed, 25 Jan 2023 08:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本政府官员引用日本央行行长黑田东彦的话表示，日本央行的目标是在维持宽松货币环境的同时，通过调整收益率曲线控制操作来恢复市场功能。]]></title>
+            <guid>2957239</guid>
+            <pubDate>Wed, 25 Jan 2023 08:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本政府官员引用日本央行行长黑田东彦的话表示，日本央行将坚决保持宽松的货币环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1141986.d.html</link>
+            <guid>2957238</guid>
+            <pubDate>Wed, 25 Jan 2023 08:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利12月非欧盟贸易帐 20.1亿欧元，前值20.1亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4359359.d.html</link>
+            <guid>2957236</guid>
+            <pubDate>Wed, 25 Jan 2023 08:42:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡央行行长：斯里兰卡银行系统美元短缺的问题已经缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4359279.d.html</link>
+            <guid>2957235</guid>
+            <pubDate>Wed, 25 Jan 2023 08:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯里兰卡央行行长：市场上没有明显的外汇短缺，目前市场上有足够的外汇支持10亿美元或更多的进口。]]></title>
+            <guid>2957234</guid>
+            <pubDate>Wed, 25 Jan 2023 08:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻日本大使：希望日方继续尽最大努力，全力搜救、抢救香港籍货轮船员】中国驻福冈总领事馆消息，孔铉佑大使委托律桂军总领事就香港籍货轮沉没事与日本搜救部门通电话。1月25日，获悉香港籍货轮金田轮于当日凌晨在长崎县附近海域沉没后，中国驻日本大使孔铉佑委托驻福冈总领事律桂军，分别同日本海上保安厅第七管区负责人和长崎海上保安部负责人通电话。律桂军表示，中方高度关注这次海难事故，孔铉佑大使十分关心船员安危，希望日方继续尽最大努力，用一切手段，全力搜救船员，全力抢救已救起的船员。（界面新闻）]]></title>
+            <guid>2957233</guid>
+            <pubDate>Wed, 25 Jan 2023 08:32:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本政府自2021年11月以来首次下调出口预期，自2022年10月以来首次下调进口预期。]]></title>
+            <guid>2957232</guid>
+            <pubDate>Wed, 25 Jan 2023 08:25:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[汇丰将易捷航空公司评级上调至买进，目标价6.30英镑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4346350.d.html</link>
+            <guid>2957231</guid>
+            <pubDate>Wed, 25 Jan 2023 08:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本政府11个月来首次下调整体经济前景，认为虽然经济正在温和复苏，但最近出现了一些疲软现象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1122948.d.html</link>
+            <guid>2957230</guid>
+            <pubDate>Wed, 25 Jan 2023 08:21:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【债券多头受到澳新两国通胀数据打击】新西兰和澳大利亚今日公布的数据显示，通胀尚未见顶，押注全球央行政策转向的债券多头遭遇了现实考验。澳大利亚3年期国债收益率飙升9个基点，至3.13%；新西兰2年期国债收益率下跌12个基点。随着油价降温和供应链问题缓解，全球债券交易员正加大对通胀已见顶的押注力度，这与各国央行政策制定者的态度有一定差异。各国央行的政策制定者都曾警告，鉴于物价压力仍然很高，加息周期还没能结束。施罗德集团驻悉尼固定收益基金经理Kellie Wood表示，利率市场确实低估了澳洲联储的加息路径，过早地对暂停加息抱有期望。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4335557.d.html</link>
+            <guid>2957228</guid>
+            <pubDate>Wed, 25 Jan 2023 08:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  欧股开盘普遍上涨，英国富时100指数涨0.13%，法国CAC40指数涨0.1%，德国DAX30指数涨0.06%。]]></title>
+            <guid>2957227</guid>
+            <pubDate>Wed, 25 Jan 2023 08:04:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙12月PPI月率 -1.7%，前值-2.20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1104921.d.html</link>
+            <guid>2957226</guid>
+            <pubDate>Wed, 25 Jan 2023 08:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙12月PPI年率 14.7%，前值20.70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4327786.d.html</link>
+            <guid>2957225</guid>
+            <pubDate>Wed, 25 Jan 2023 08:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  西班牙批准70%-80%的可再生能源项目许可证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4327201.d.html</link>
+            <guid>2957223</guid>
+            <pubDate>Wed, 25 Jan 2023 07:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：随着经济复苏，泰国资产更具吸引力。泰铢的波动暂时不会影响货币政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpq1101035.d.html</link>
+            <guid>2957221</guid>
+            <pubDate>Wed, 25 Jan 2023 07:54:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消息称日本第一生命保险拟给5万员工平均加薪5%】知情人士称，日本寿险巨头第一生命保险正计划给其5万名员工平均加薪5%，加入越来越多的提高薪酬以帮助员工应对通胀的日本公司行列。此次加薪将于4月生效，因为与工会的谈判正在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckxpn4323836.d.html</link>
+            <guid>2957220</guid>
+            <pubDate>Wed, 25 Jan 2023 07:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【张家界一景区单日接待量创新高，游客晚上被困山上？景区回应】1月24日，大年初三，湖南张家界国家森林公园接待游客逾6万人，接待人数创单日新高。但有游客在网上反映，景区未控制人流量，导致成千上万名游客大晚上被困在山上。1月25日，当地旅游部门工作人员称没有游客滞留。景区管理局在接受红星新闻记者采访时还表示，最后一名游客应该是在24日晚上快到9点时下山的，景区工作人员也一直陪着，和游客交流，安抚游客。1月25日，景区还对全部线路进行了限流，通过线路单循环引导人流快速进出景区。（红星新闻）]]></title>
+            <guid>2957219</guid>
+            <pubDate>Wed, 25 Jan 2023 07:52:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：虽然旅游业的复苏给经济前景带来利好，但由于出口放缓，提振作用不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1229455.d.html</link>
+            <guid>2957218</guid>
+            <pubDate>Wed, 25 Jan 2023 07:50:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：将继续加息一段时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1229045.d.html</link>
+            <guid>2957216</guid>
+            <pubDate>Wed, 25 Jan 2023 07:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪：印度和埃及的目标是将贸易额增加到120亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1228994.d.html</link>
+            <guid>2957215</guid>
+            <pubDate>Wed, 25 Jan 2023 07:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：随着经济增长加速，在短期内进行加息是合适的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1227343.d.html</link>
+            <guid>2957214</guid>
+            <pubDate>Wed, 25 Jan 2023 07:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度总理莫迪：印度和埃及签署战略伙伴关系协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4450109.d.html</link>
+            <guid>2957213</guid>
+            <pubDate>Wed, 25 Jan 2023 07:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【深海一号工程加速推进】春节期间，我国首个自营超深水大气田——“深海一号”二期工程的第一口水下气井正进入作业关键期，“海洋石油982”深水钻井平台正控制钻头向5000米的海底深处挺进。“深海一号”是我国自主勘探开发的首个千亿方级超深水大气田，年产气量可达30亿立方米，一期于2021年6月正式投产，二期于近期正式开工建设。随着二期的勘探开发，“深海一号”的天然气储量从1000亿立方米增至1500亿立方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1224760.d.html</link>
+            <guid>2957212</guid>
+            <pubDate>Wed, 25 Jan 2023 07:43:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【部分交易一度暂停 纽交所现技术故障，约250股初始交易或被取消】当地时间1月24日，纽交所许多股票在开市时表现出异常大的波动，部分股票甚至暂停交易，包括一些大型蓝筹股。随后，纽交所在上午9时50分左右，即开盘后20分钟表示，其所有系统均已正常运行。截至收盘，道指涨0.31%，报33733.96点；标普500指数跌0.07%，报4016.95点；纳指跌0.27%，报11334.27点。此次事故中受波及的股票达到250只左右。美国证券交易委员会发言人表示，该机构正在调查此事。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1224637.d.html</link>
+            <guid>2957211</guid>
+            <pubDate>Wed, 25 Jan 2023 07:43:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：通胀将在今年晚些时候回到目标区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4444664.d.html</link>
+            <guid>2957210</guid>
+            <pubDate>Wed, 25 Jan 2023 07:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海信成为日本职棒队“横滨DeNA海湾之星”比赛服赞助商】据日经报道，1月23日，中国家电企业海信集团的日本子公司海信日本发布消息称，该公司与日本职业棒球队横滨DeNA海湾之星队签署了队服相关赞助协议。2023年赛季开始，该队队服将添加海信的标志。海信是2022年世界杯赞助商，在体育领域正在加强市场营销策划。公司此次希望在日本通过职业棒球赛提高品牌知名度。2022年，海信旗下的REGZA成为日本最畅销电视品牌，市占率24.1%。（界面新闻）]]></title>
+            <guid>2957209</guid>
+            <pubDate>Wed, 25 Jan 2023 07:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：供给侧通胀压力继续放缓，但核心通胀仍处于高位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1215742.d.html</link>
+            <guid>2957207</guid>
+            <pubDate>Wed, 25 Jan 2023 07:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国3年期国债收益率下跌5.3个基点至4.4％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4438593.d.html</link>
+            <guid>2957206</guid>
+            <pubDate>Wed, 25 Jan 2023 07:32:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行：潜在通胀指标仍然很高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1208088.d.html</link>
+            <guid>2957203</guid>
+            <pubDate>Wed, 25 Jan 2023 07:20:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国央行将2023年入境外国游客人数预期提高到2550万人（11月预期为2200万人），将2024年预期提高到3400万人（11月预期为3150万人）。]]></title>
+            <guid>2957200</guid>
+            <pubDate>Wed, 25 Jan 2023 07:14:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盘点31省份去年GDP：8省份超5万亿，广东总量连续34年第一】在国家统计局公布2022年全国GDP数据后，各地也陆续发布了去年的经济数据。目前，31个省份的2022年GDP数据均已揭晓。数据显示，已有8个省份GDP超过5万亿大关，其中，广东、江苏两省超过12万亿元，广东GDP总量连续34年位居全国第一。在增速方面，福建、江西并列榜首。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4427470.d.html</link>
+            <guid>2957199</guid>
+            <pubDate>Wed, 25 Jan 2023 07:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国11月未季调核心输出PPI月率为0.3%，英国11月未季调核心输出PPI年率为13.0%。]]></title>
+            <guid>2957198</guid>
+            <pubDate>Wed, 25 Jan 2023 07:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国11月未季调输入PPI月率为-0.2%，英国11月未季调输入PPI年率为18.0%。]]></title>
+            <guid>2957197</guid>
+            <pubDate>Wed, 25 Jan 2023 07:08:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国11月未季调输出PPI月率为-0.1%，英国11月未季调输出PPI年率为16.2%。]]></title>
+            <guid>2957196</guid>
+            <pubDate>Wed, 25 Jan 2023 07:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芯片设备需求强劲 ASML一季度销售预测超过分析师预估】1月25日消息，欧洲最大的半导体设备生产商ASML Holding NV表示，由于对先进芯片制造设备的需求强劲，公司第一季度销售可能会超过分析师的预期。ASML周三在截止12月31日的季度业绩公告中表示，预计一季度销售额为61亿欧元至65亿欧元(折合67亿美元至71亿美元)。机构调查分析师的预测结果为60.7亿欧元。“我们的客户表示，他们预计市场将在下半年反弹。考虑到我们的订单交付周期和光刻投资的战略性质，对我们系统的需求仍然强劲，”公司首席执行官Peter Wennink在声明中指出。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1198056.d.html</link>
+            <guid>2957195</guid>
+            <pubDate>Wed, 25 Jan 2023 07:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调核心输出PPI年率 12.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1196473.d.html</link>
+            <guid>2957194</guid>
+            <pubDate>Wed, 25 Jan 2023 07:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调核心输出PPI月率 0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4419330.d.html</link>
+            <guid>2957193</guid>
+            <pubDate>Wed, 25 Jan 2023 07:03:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调输出PPI年率 14.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1195379.d.html</link>
+            <guid>2957192</guid>
+            <pubDate>Wed, 25 Jan 2023 07:01:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调输出PPI月率 -0.8%，预期0.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1195318.d.html</link>
+            <guid>2957191</guid>
+            <pubDate>Wed, 25 Jan 2023 07:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调输入PPI年率 16.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1195245.d.html</link>
+            <guid>2957190</guid>
+            <pubDate>Wed, 25 Jan 2023 07:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国12月未季调输入PPI月率 -1.1%，预期-0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1195191.d.html</link>
+            <guid>2957189</guid>
+            <pubDate>Wed, 25 Jan 2023 07:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国1月25日央行利率决定 1.5%，预期1.5%，前值1.25%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1194800.d.html</link>
+            <guid>2957188</guid>
+            <pubDate>Wed, 25 Jan 2023 07:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司：继续通过乌克兰向欧洲输送天然气，周三的天然气输送量为2440万立方米。]]></title>
+            <guid>2957185</guid>
+            <pubDate>Wed, 25 Jan 2023 06:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦KSE-100指数涨2%，报39843.76点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1187827.d.html</link>
+            <guid>2957184</guid>
+            <pubDate>Wed, 25 Jan 2023 06:48:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一中国香港籍货船在长崎近海沉没：14人获救，仍有8人失踪】1月25日凌晨，一艘中国香港注册货轮在长崎县男女群岛附近沉没，船上载有22名中国和缅甸船员。据法新社25日最新报道，目前已有14人获救，仍有8人失踪，日本和韩国海上保安厅正在进行搜救。（澎湃新闻）]]></title>
+            <guid>2957183</guid>
+            <pubDate>Wed, 25 Jan 2023 06:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚太6E卫星与独立推进舱星间分离成功】记者从中国航天科技集团有限公司获悉，亚太6E卫星与独立推进舱近日星间分离成功。在发射成功10天后，亚太6E这颗国产全电推进同步轨道通信卫星正式开启了电推变轨的旅程。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4399969.d.html</link>
+            <guid>2957182</guid>
+            <pubDate>Wed, 25 Jan 2023 06:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼棕榈油协会（GAPKI）：印尼2022年棕榈油出口量下降8.5%至3080万吨。]]></title>
+            <guid>2957180</guid>
+            <pubDate>Wed, 25 Jan 2023 06:36:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国股市综合股价指数收盘上涨1.39%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4390922.d.html</link>
+            <guid>2957179</guid>
+            <pubDate>Wed, 25 Jan 2023 06:32:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ASML计划今年仍将生产60套EUV系统和375套DUV系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4383221.d.html</link>
+            <guid>2957177</guid>
+            <pubDate>Wed, 25 Jan 2023 06:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚S&P/ASX200指数1月25日（周三）收盘下跌22.10点，跌幅0.30%，报7468.30点。]]></title>
+            <guid>2957176</guid>
+            <pubDate>Wed, 25 Jan 2023 06:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国总统尹锡悦：构建韩阿投资合作平台，落实300亿美元主权财富基金投资后续措施】韩国总统尹锡悦25日在首尔龙山总统府主持召开国务会议时就日前访问阿联酋吸引300亿美元投资一事指示相关部门构建韩阿投资合作平台，迅速落实主权财富基金投资的相关后续措施。尹锡悦表示，这是阿联酋空前规模的对外投资，将尽快通过出口战略会议和规制改革战略会议亲自部署相关事宜。尹锡悦在闭门会议上强调大胆开放韩阿投资合作平台，从而让更多的部门和企业参与合作事务。他还列举了两国签署约50项谅解备忘录、基于巴拉卡核电站加强核电合作，并强调为再掀“中东建设热潮”做好准备。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfs1147814.d.html</link>
+            <guid>2957173</guid>
+            <pubDate>Wed, 25 Jan 2023 06:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄总统新闻秘书：美媒关于“俄将再动员”的消息不实】据塔斯社报道，俄罗斯总统新闻秘书佩斯科夫1月24日表示，美国有线电视新闻网（CNN）关于俄罗斯可能再进行一轮动员的消息不属实。据CNN称，俄罗斯总统普京似乎正在研究再动员20万人入伍的可能性。对于美媒的报道是否同早前在社交网络上出现的相关传闻同样不可信的问题，佩斯科夫给出了肯定的答复。（央视新闻）]]></title>
+            <guid>2957172</guid>
+            <pubDate>Wed, 25 Jan 2023 06:10:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【中西亚经合组织成员国同意推动能源等领域合作】据新华社塔什干1月24日电，中亚和西亚经济合作组织秘书长诺济里24日表示，该组织成员国同意推动能源、交通等多领域合作。]]></title>
             <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycktfq4362885.d.html</link>
@@ -73,224 +441,6 @@
             <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4470097.d.html</link>
             <guid>2957155</guid>
             <pubDate>Wed, 25 Jan 2023 05:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同比增超5倍！今年登陆新三板企业31家】 Wind统计显示，截至1月20日收盘，今年以来总共有31家企业在新三板挂牌，而去年同期仅为5家，可见，今年以来新三板挂牌家数较去年同期暴增超过5倍。目前新三板总共有6594家企业，其中创新层有1654家。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1241865.d.html</link>
-            <guid>2957154</guid>
-            <pubDate>Wed, 25 Jan 2023 05:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年A股现金分红创纪录 达1.62万亿】在过去的2022年，A股公司现金分红再创新纪录。据统计，按照除权除息日期计算，2022年A股合计现金分红达到1.62万亿，接近3400家公司实施派现，分红金额和公司数量均创历史新高。23家公司派现金额超过百亿元，其中工商银行、农业银行、贵州茅台等3家公司派现金额排名前三。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4459271.d.html</link>
-            <guid>2957115</guid>
-            <pubDate>Wed, 25 Jan 2023 05:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软CFO回应大规模裁员：希望公司成本结构与收入更加协同一致】微软公司今日发布了截至2022年12月31日的2023财年第二季度财报。财报发布后，公司CFO艾米·胡德（Amy Hood）在财报会议上回应了分析师关于大规模裁员的问题。她表示：“在刚刚过去的四季度，我们的员工数同比增长相对放缓。之所以作出这样的决定原因在于我们希望公司的成本结构能与收入更加协同一致。当然，我们做决定的过程非常谨慎、认真，毕竟我们不希望太多有才华的人受影响。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4452446.d.html</link>
-            <guid>2957083</guid>
-            <pubDate>Wed, 25 Jan 2023 05:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本11月同步指标月率终值 -0.3%，前值-0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1226818.d.html</link>
-            <guid>2957067</guid>
-            <pubDate>Wed, 25 Jan 2023 05:01:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本11月领先指标月率终值 -1.2%，前值-1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1226795.d.html</link>
-            <guid>2957066</guid>
-            <pubDate>Wed, 25 Jan 2023 05:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本11月同步指标终值 99.3，前值99.1。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4449584.d.html</link>
-            <guid>2957065</guid>
-            <pubDate>Wed, 25 Jan 2023 05:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本11月领先指标终值 97.4，前值97.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1226599.d.html</link>
-            <guid>2957064</guid>
-            <pubDate>Wed, 25 Jan 2023 05:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一中国香港籍货船在韩日公海沉没，韩媒：韩国海警等船只救起12人】据韩联社报道，韩国济州地方海警厅1月25日消息，一艘中国香港籍货船当天凌晨在韩日公海海域沉没，22名船员中找到12人，但仅有1人存在意识，其中11人意识尚未恢复。海警还在事发海域发现3艘空救生筏和2艘空救生艇，并推测获救的船员很可能被送往日本长崎。济州海警厅正在事故地与日本海上保安厅联动搜救船员。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4446120.d.html</link>
-            <guid>2957040</guid>
-            <pubDate>Wed, 25 Jan 2023 04:55:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中企承建尼日利亚拉各斯轻轨蓝线项目一期正式通车】由中企承建的尼日利亚拉各斯轻轨蓝线项目一期24日举行通车仪式。尼总统布哈里、中国驻尼大使崔建春和拉各斯州州长巴巴吉德·桑沃-奥卢等出席仪式，并试乘轻轨列车。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1219536.d.html</link>
-            <guid>2957023</guid>
-            <pubDate>Wed, 25 Jan 2023 04:49:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：位于美国得克萨斯州利伯蒂县的343号天然气压缩站出现不可抗力因素。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4423983.d.html</link>
-            <guid>2956875</guid>
-            <pubDate>Wed, 25 Jan 2023 04:19:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Stellantis因发动机问题召回7.6万辆插电混动小型货车】汽车制造商Stellantis美国分公司周二表示，由于短路问题可能导致发动机意外熄火，该公司将召回7.6万辆插电式混合动力小型货车。召回范围包括2017年至2023年美国的6.7万辆克莱斯勒Pacifica Hybrid小型货车，其他国家约9000辆。Stellantis将为召回车辆更新电源逆变器软件，如果需要，还将更新仪表板组合软件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1197536.d.html</link>
-            <guid>2956872</guid>
-            <pubDate>Wed, 25 Jan 2023 04:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：巴西国家石油公司合规委员会批准普拉特斯担任CEO】据CNN Brasil援引知情人士报道，巴西国家石油公司的合规部门批准了参议员普拉特斯（Jean-Paul Prates）担任公司CEO的提名。普拉特斯本人暂未对CNN Brasil报道置评。（界面新闻）]]></title>
-            <guid>2956871</guid>
-            <pubDate>Wed, 25 Jan 2023 04:12:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒渲染：“末日之钟”被拨快10秒，到达“最接近全球灾难的时刻”】 据美国全国公共广播电台(NPR)、英国《卫报》、俄罗斯塔斯社等媒体报道，美国《原子科学家公报》杂志的科学家小组于当地时间周二（24日）在华盛顿国家新闻俱乐部新闻发布会上宣布，将“末日之钟”拨快10秒，距离象征“世界末日的午夜”仅剩90秒。《卫报》称，这是该时钟自其1947年设立来最接近“午夜”的时刻，该时钟的设立是为了说明上世纪核武器时代初期全球面临的生存威胁程度。英国天空新闻网说，这也意味着“全球比以往任何时候都更加接近灾难”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1192185.d.html</link>
-            <guid>2956870</guid>
-            <pubDate>Wed, 25 Jan 2023 04:10:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰田将在俄罗斯召回超过4.7万辆汽车】塔斯社1月24日消息，丰田将在俄罗斯召回超过4.7万辆汽车，此次召回将涵盖从2020年11月28日至今售出的汽车。消息称，召回原因为车辆或无法接收来自事故应急响应自动信息系统的回拨电话。此外，对于某些车辆，如果点火开关在关闭后几分钟内打开，则可能无法保存其位置的最新数据。本次召回，车辆数据传输模块将被重新编程，所有活动将对车主免费。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1191491.d.html</link>
-            <guid>2956869</guid>
-            <pubDate>Wed, 25 Jan 2023 04:10:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中方回应耶伦：美国能作的最大贡献是“处理好自身债务问题”】据新加坡《联合早报》网站1月25日报道，中美两国就发展中国家债务问题再度隔空交锋。美国财长耶伦23日呼吁中国减免非洲国家赞比亚的债务。赞比亚是耶伦此次非洲三国之行的第二站，她在访问期间向媒体表示，赞比亚的债务积压拖累了整个国家的经济，而中国一直是解决赞比亚债务问题的障碍。中国驻赞比亚大使馆24日在官网发文回应称，美国在其他国家债务问题上能作的最大贡献，是“处理好自身债务问题、停止破坏其他主权国家积极解决债务问题的努力”。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1183471.d.html</link>
-            <guid>2956846</guid>
-            <pubDate>Wed, 25 Jan 2023 04:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【-16.7℃！今晨，北京创1月下旬气温45年来最低】气象部门的监测显示，在强冷空气影响下，近两天北京地区气温持续低迷，全天气温在冰点以下。尤其是今天早晨，观象台最低气温低至-16.7℃（7时26分），再创今冬新低，也创下了1978年来北京1月下旬气温最低值。昨天白天，观象台最高气温-6.3℃（16时05分），白天都寒气逼人。今天白天气温虽从谷底回升，却仍难以走出冰点，预计也只有-3℃。市民外出仍需防寒保暖。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4399137.d.html</link>
-            <guid>2956775</guid>
-            <pubDate>Wed, 25 Jan 2023 03:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻旧金山总领馆：有中国公民在加州半月湾枪击事件中遇害】 中国驻旧金山总领馆官员24日说，经多方了解，加利福尼亚州半月湾市枪击事件遇害人员中包括中国公民。总领馆官员说，总领馆对此次严重枪击事件深感震惊和痛惜。经多方了解，遇害人员中包括中国公民。总领馆正与当地警方进一步对接，并已与部分遇害者家属取得联系，将尽力提供领事协助。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4396889.d.html</link>
-            <guid>2956765</guid>
-            <pubDate>Wed, 25 Jan 2023 03:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国将向乌克兰提供50辆“艾布拉姆斯”坦克？俄驻美大使：将被俄军摧毁】俄罗斯卫星通讯社1月25日消息，在美国当地媒体报道称美国总统拜登拟于周三宣布向乌克兰提供30至50辆“M1-艾布拉姆斯”坦克后，俄罗斯驻美大使安东诺夫称，美国向乌克兰提供坦克将是“公然挑衅”，无法用“防御性武器”来解释。他警告，俄军“将摧毁美国坦克，就像摧毁所有其他北约装备一样”。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4396260.d.html</link>
-            <guid>2956764</guid>
-            <pubDate>Wed, 25 Jan 2023 03:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【做空印度首富！兴登堡指控阿达尼集团股票操纵和会计欺诈】知名做空机构兴登堡研究公司（Hindenburg Research）周三表示，该公司通过在美国交易的债券和非印度交易的衍生品工具持有印度阿达尼集团的空头头寸。兴登堡在其做空报告中表示：“今天，我们公布为期两年的调查结果，提供了17.8万亿卢比(约2180亿美元)的印度企业集团阿达尼在过去几十年里肆无忌惮地进行股票操纵和会计欺诈的证据。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4393945.d.html</link>
-            <guid>2956757</guid>
-            <pubDate>Wed, 25 Jan 2023 03:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年日本百货店销售额增长约13%】日本百货店协会1月24日公布的2022年全国百货店销售额显示，现有门店销售额较上年增长13.1%，连续两年好于上年。从地区来看，东京、名古屋和大阪等10个主要城市总计增长16.9%。其中增幅较大的包括大阪增长22.4%、东京19.7%、京都16.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4392052.d.html</link>
-            <guid>2956733</guid>
-            <pubDate>Wed, 25 Jan 2023 03:40:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩军加紧研发高超音速武器 或明年试射】韩联社援引韩国军方和军工业界24日消息报道称，韩国军方计划今年下半年组装空对地高超音速导弹，2024年进行试射。该研发项目将由韩国国防科学研究所（ADD）牵头，拟先确保空对地高超音速导弹设计技术，并研制和试验导弹。目前，研发人员正检查具体的设计方案，并制作用于检验设计的设备。按照目前的进度，今年下半年将开始组装导弹，明年有望进行试射。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4391432.d.html</link>
-            <guid>2956722</guid>
-            <pubDate>Wed, 25 Jan 2023 03:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一中国香港籍货轮在长崎近海沉没：5人获救，17人或在海上漂流】24日晚11点15分左右，在日本长崎县男女群岛以西110公里的海上，一艘中国香港籍货轮“JINTIAN”（排水量6651吨）发出求救信号。据第7管区海上保安总部称，货船上22名船员为14名中国籍和8名缅甸籍，其中5人被附近正在航行的民间船只救助。其余17人可能乘坐救生艇在海上漂流等，海保正在加紧搜索。来自民间船只的信息显示，船员转移到救生艇上，货轮已沉没。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1165402.d.html</link>
-            <guid>2956707</guid>
-            <pubDate>Wed, 25 Jan 2023 03:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【市场研究公司：去年12月Twitter广告收入同比下降超70%】广告市场研究公司“标准媒体指数”（SMI）近期公布的数据显示，2022年12月Twitter平台上的广告主支出同比下降71%。在埃隆·马斯克（Elon Musk）接手Twitter之后，广告主大幅削减了在Twitter平台上的广告预算。另一家市场研究公司Pathmatics估计，在马斯克10月27日接管Twitter之后，Twitter上排名前30的广告主中有14家停止了在Twitter上的所有广告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1164795.d.html</link>
-            <guid>2956706</guid>
-            <pubDate>Wed, 25 Jan 2023 03:34:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知名做空机构兴登堡：正做空印度首富阿达尼的公司】知名做空机构兴登堡研究公司（Hindenburg Research）表示，该公司通过在美国交易的债券和非印度交易的衍生品工具持有印度阿达尼集团(Adani Group Companies)的空头头寸。阿达尼集团是由印度首富高塔姆·阿达尼创办的企业帝国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxu1164708.d.html</link>
-            <guid>2956705</guid>
-            <pubDate>Wed, 25 Jan 2023 03:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2022年韩国企业直接融资额下降11.6%，至1659亿美元】韩国金融监督院周三公布的数据显示，由于对通胀和借贷成本上升的担忧导致股票和债券市场暴跌，2022年韩国企业直接融资出现萎缩。韩国企业去年通过出售股票和债券共筹集了204.57万亿韩元(约1659亿美元)，较2021年下降11.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imycknxs4382209.d.html</link>
-            <guid>2956661</guid>
-            <pubDate>Wed, 25 Jan 2023 03:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京港地铁：1月26日至28日，地铁4号线双向延长运营】京港地铁1月25日发布运营提示，为做好节日期间北京南站火车站的轨道交通运输接驳，保障晚间抵京旅客顺利出行，1月26日至28日（农历正月初五至初七）地铁4号线将双向延长运营：上行由公益西桥站开往安河桥北站的末班车由23:16延长至次日00:12；下行由安河桥北站开往公益西桥站的末班车由22:48延长至23:15。公益西桥站00:12始发的末班车在公益西桥站至西四站沿途各站乘客可正常进出站，平安里站至安河桥北站沿途各站乘客仅可出站不可进站。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhru4499813.d.html</link>
-            <guid>2956584</guid>
-            <pubDate>Wed, 25 Jan 2023 03:08:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯称在会见日本外相林芳正时讨论了乌克兰问题。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhrw1273381.d.html</link>
-            <guid>2956580</guid>
-            <pubDate>Wed, 25 Jan 2023 03:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【软银提交经修正税务报告，申报370亿日元收入】软银集团周二表示，该公司在日本提交了一份经修正的税务报告，申报截至2021年3月31日的两年内370亿日元（约合2.83亿美元）收入。此前该公司称与税务机关就Sprint与T-Mobile US合并的相关费用产生分歧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhrw1269097.d.html</link>
-            <guid>2956578</guid>
-            <pubDate>Wed, 25 Jan 2023 02:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰总理希普金斯：通胀正在拉高家庭预算，我们需要采取更多措施对抗高通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhru4489521.d.html</link>
-            <guid>2956575</guid>
-            <pubDate>Wed, 25 Jan 2023 02:54:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国济州机场恢复运作，多条出港航班延误】因强风暴雪袭击而一度停运的济州国际机场1月25日开始恢复运作。截至上午7点，尚无航班被取消或计划停飞。但从济州出发的多条航班延误，机场方面提醒乘客出行前确认航班信息。前一日，受强风暴雪袭击的影响，济州机场的全部航班被取消。据机场推算，约有3.5万至4万名旅客被困在当地。为了运送停飞航班旅客，国土交通部将金浦机场的飞机起降许可时间延长2个小时至26日凌晨1点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhru4487565.d.html</link>
-            <guid>2956574</guid>
-            <pubDate>Wed, 25 Jan 2023 02:52:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非国家电力公司谈大规模限电：正在为“过去错误”付出代价】南非当地时间1月24日，即将离任的南非国家电力公司首席执行官安德烈·德·鲁伊特在向南非议会金融监管机构介绍限电措施时表示，该公司目前的领导层正在为“过去的错误”付出代价。据德·鲁伊特透露，南非民众如今不得不面对的用电危机并不是最近才出现的问题，事实上南非政府早在1998年就已知晓此事，当时一份能源白皮书记录到南非国家电力公司正在紧急增加新的产能。德·鲁伊特强调，如果南非国家电力公司早在2014年时没有拒绝与独立电力生产商签署购电协议，本可以避免停电。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhrw1257509.d.html</link>
-            <guid>2956572</guid>
-            <pubDate>Wed, 25 Jan 2023 02:42:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【调查显示三分之二美国人预测楼市三年内将崩盘】美国信用卡及抵押贷款金融服务公司NerdWallet的年度购房者报告显示，67%的受访者认为房地产市场崩盘“未来三年内即将发生”。32%的受访者表示，与去年相比，他们对2023年的购房能力“感觉更差”，高于一年前的25%。阻碍购房者的最主要的三个原因是经济恶化、抵押贷款利率上升和高房价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhrw1257425.d.html</link>
-            <guid>2956571</guid>
-            <pubDate>Wed, 25 Jan 2023 02:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾强降雨已致39人死亡 受灾人数超194万】菲律宾国家减灾委25日发布通报称，截至24日18时，菲律宾近期强降雨导致的死亡人数上升至39人，另有5人失踪。通报称，目前受灾人数已超过194万。基础设施方面的损失已超4.3亿菲律宾比索，农业损失超过8.3亿比索。自1月2日以来，受低压区的影响，菲律宾多地出现强降雨，导致发生洪水和山体滑坡等灾害。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhru4471708.d.html</link>
-            <guid>2956565</guid>
-            <pubDate>Wed, 25 Jan 2023 02:28:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰森食品CFO对公共场所酗酒和私闯民宅指控认罪】据《华尔街日报》消息，美国阿肯色州费耶特维尔检察官办公室和地区法院称，泰森食品首席财务官John R. Tyson在去年11月因在一栋不属于他的房子里睡着而被捕后，对相关指控表示认罪。Tyson是这家肉类巨头创始人的曾孙，他同意就公共场所酗酒和非法侵入民宅的指控各支付150美元罚款。（界面新闻）]]></title>
-            <guid>2956563</guid>
-            <pubDate>Wed, 25 Jan 2023 02:22:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国遭超强暴风雪袭击 数百条航线停航停运】据韩联社报道，当地时间24日，超强寒流裹挟强风暴雪袭击韩国，导致其境内多地客轮航线停航，济州机场全部航班被取消。韩国中央灾难安全对策本部24日消息，截至当天上午11时，韩国各地86条客轮航线的113艘客船停航。济州地方航空厅称，233个出港航班和233个进港航班于24日全部取消。（中新网）]]></title>
-            <guid>2956559</guid>
-            <pubDate>Wed, 25 Jan 2023 02:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：法国迪卡侬决定转让在俄资产】《俄罗斯商业咨询报》援引零售和咨询领域消息人士的话披露，法国体育用品分销商迪卡侬已经决定出售在俄资产。3名消息人士表示，迪卡侬已经开始为在俄资产寻找买家，期望把所有资产全部出售。另一位消息人士说，迪卡侬愿意分开销售旗下资产。该公司驻俄地区代表此前表示，迪卡侬门店自2022年6月起就已经全面停止在俄运营。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-01-25/detail-imyckhru4443588.d.html</link>
-            <guid>2956555</guid>
-            <pubDate>Wed, 25 Jan 2023 01:56:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沃尔玛将提高美国小时工的工资水平】据《华尔街日报》报道，沃尔玛在周二给员工的一份内部通知中表示，从下个月开始，沃尔玛门店和仓库的美国工人的起薪将从每小时12美元提高到至少14美元。据悉，包括亚马逊和Target在内的竞争对手的最低工资为每小时15美元。这些变化是沃尔玛为缩小与竞争对手的差距而进行的一系列加薪举措中的最新一项，将使该公司的平均时薪超过17.5美元。该公司发言人说，目前沃尔玛小时工的平均时薪约为17美元。（界面新闻）]]></title>
-            <guid>2956547</guid>
-            <pubDate>Wed, 25 Jan 2023 01:32:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
