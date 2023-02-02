@@ -4,465 +4,436 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 02 Feb 2023 12:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 15:06:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【友邦保险：斥资约2.25亿港元回购261.38万股】友邦保险(01299.HK)发布公告，当日斥资约2.25亿港元回购261.38万股，每股回购价格为84.75-87.6港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6666866.d.html</link>
-            <guid>2967648</guid>
-            <pubDate>Thu, 02 Feb 2023 12:10:40 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：投资者可能对抗通胀的进展过于乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6692555.d.html</link>
+            <guid>2967899</guid>
+            <pubDate>Thu, 02 Feb 2023 15:02:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD回吐涨幅，短线回落60余点至英国央行加息前水平，现报1.2328。]]></title>
-            <guid>2967647</guid>
-            <pubDate>Thu, 02 Feb 2023 12:10:30 GMT</pubDate>
+            <title><![CDATA[美国12月耐用品订单月率修正值为5.6%，预期5.60%，前值5.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9915403.d.html</link>
+            <guid>2967898</guid>
+            <pubDate>Thu, 02 Feb 2023 15:02:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国利率期货显示，与英国央行利率决议之前相比，2023年英国央行的加息路径略微走高。]]></title>
-            <guid>2967646</guid>
-            <pubDate>Thu, 02 Feb 2023 12:09:56 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：历史表明，如果不采取有力而果断的货币政策，高通胀往往会持续下去。]]></title>
+            <guid>2967896</guid>
+            <pubDate>Thu, 02 Feb 2023 15:02:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国泰航空将于3月1日起分阶段送出香港往返机票】据新京报·贝壳财经，记者从国泰航空获悉，国泰航空将全力配合“飞遇世界钜赏”活动，送出前往香港的往返机票。国泰航空表示，将从3月1日起，分阶段送出前往香港的往返机票。首阶段，由东南亚地区于3月展开，中国内地将于4月紧接其后，东北亚及中长线地区会安排在5月或之后进行。此前，香港特区行政长官李家超今日（2月2日）在“你好，香港！”启动礼上宣布，将向世界各地旅客派发50万张免费机票，欢迎旅客来港。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9887827.d.html</link>
-            <guid>2967645</guid>
-            <pubDate>Thu, 02 Feb 2023 12:08:52 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：各国央行必须避免误读商品价格的大幅下跌，避免在服务业通胀和工资增长明显放缓之前放松政策。]]></title>
+            <guid>2967895</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【深房中协：严禁房地产中介机构及从业人员参与违规利用“经营贷”】2月2日，深圳市房地产中介协会发布关于严禁全市房地产中介机构及从业人员参与违规利用“经营贷”的郑重提示，剑指经营贷违规流入房地产领域。《提示》指出，近日有媒体报道深圳个别“金融贷款中介”协助客户获得享受国家减息政策的经营性贷款后，引导所贷资金违规流向房地产领域，此行为不仅违反了国家相关金融信贷政策，还严重违背国家“房住不炒”的定位与原则。对此，深圳市房地产中介协会郑重提示：严禁参与贷款中介、金融中介、“影子”中介等场外机构和个人违规利用“经营贷”的不法行为。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6663227.d.html</link>
-            <guid>2967644</guid>
-            <pubDate>Thu, 02 Feb 2023 12:07:35 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：服务业通胀和工资调整更为缓慢。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9915119.d.html</link>
+            <guid>2967894</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国10年期公债收益率在英国央行决议后反弹7个基点，日内仍下跌7个基点至3.236%。]]></title>
-            <guid>2967643</guid>
-            <pubDate>Thu, 02 Feb 2023 12:06:49 GMT</pubDate>
+            <title><![CDATA[美国12月工厂订单月率增长.8%，预期增长2.2%，前值下降1.80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9915032.d.html</link>
+            <guid>2967893</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行：2023年第一季度英国GDP预计将收缩0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9884696.d.html</link>
-            <guid>2967642</guid>
-            <pubDate>Thu, 02 Feb 2023 12:06:17 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：宽松的金融环境对央行构成挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9914908.d.html</link>
+            <guid>2967891</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国能源监管机构：1月第四周的天然气消费量比2018年至2021年的平均消费量低8.6%；与前一周相比上涨了8.2%。]]></title>
-            <guid>2967641</guid>
-            <pubDate>Thu, 02 Feb 2023 12:06:10 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：为了确保物价稳定，（利率）“长期高企”的做法可能是必要的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6691894.d.html</link>
+            <guid>2967890</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行不再用“有力”一词来描述未来的加息行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6661470.d.html</link>
-            <guid>2967640</guid>
-            <pubDate>Thu, 02 Feb 2023 12:05:57 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：各国央行必须确保政策在足够长的时间内保持适当的紧缩，以持久地将通胀拉回到目标水平。]]></title>
+            <guid>2967889</guid>
+            <pubDate>Thu, 02 Feb 2023 15:01:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行：通货膨胀已经达到顶峰，将从2024年第二季度起将降至2%以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6660948.d.html</link>
-            <guid>2967639</guid>
-            <pubDate>Thu, 02 Feb 2023 12:05:27 GMT</pubDate>
+            <title><![CDATA[【美国二手车电商平台Carvana受空头挤压 股价连日飙升】美国二手车电商平台Carvana(CVNA.N)周四盘初一度飙升逾46%，周三亦上涨逾33%。根据MarketWatch数据，该公司空头占比达59%，意味着超一半的浮动股票掌握在押注该股将下跌的卖空者手中。该股股价去年因通货膨胀加剧和二手车价格下跌而暴跌了94%，但今年迄今已上涨近两倍，大部分涨幅来自过去一周。随着Carvana获得积极势头，卖空者纷纷回补自己的头寸，他们押注该公司涨势不会持续，因为其面临着一系列的财务问题，包括迫在眉睫的破产问题。同时，Carvana正在采取“毒丸”策略，以在其解决财务问题之前阻止敌意收购的企图。]]></title>
+            <guid>2967888</guid>
+            <pubDate>Thu, 02 Feb 2023 15:00:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行决策官员是以7-2比数通过升息至4.0%的决议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6660692.d.html</link>
-            <guid>2967638</guid>
-            <pubDate>Thu, 02 Feb 2023 12:05:14 GMT</pubDate>
+            <title><![CDATA[【秦刚同日本外相林芳正通电话】2023年2月2日，外交部长秦刚同日本外相林芳正通电话。秦刚表示，中方愿与日方保持高层级对话沟通，深化数字经济、绿色发展、维护产供链稳定等领域合作，推动中日关系沿着正确轨道改善发展。秦刚说，希望日方秉持客观理性的对华认知，在历史、台湾等重大问题上重信守诺、谨言慎行，在军事安全领域慎重行事，在钓鱼岛问题上制止右翼势力挑衅。中日经济彼此依存互惠，希望日方着眼维护国际贸易规则和自身长远利益，继续秉持市场原则和自由开放精神开展对华经贸科技合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9913936.d.html</link>
+            <guid>2967886</guid>
+            <pubDate>Thu, 02 Feb 2023 14:59:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行：将失业率峰值的预期从6%以上下调至5.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6658981.d.html</link>
-            <guid>2967634</guid>
-            <pubDate>Thu, 02 Feb 2023 12:03:34 GMT</pubDate>
+            <title><![CDATA[【东风将在襄阳启动新能源乘用车项目 投资53.1亿】据东风汽车消息，今天下午，东风与襄阳市签署东风新能源乘用车项目框架协议和进区协议，总投资53.1亿元，推动新能源乘用车导入襄阳生产，助力加快襄阳汽车产业转型升级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9913871.d.html</link>
+            <guid>2967885</guid>
+            <pubDate>Thu, 02 Feb 2023 14:59:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行表示，预计经济前景较11月的预期更暗淡，通胀风险“显著偏向上行”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6658631.d.html</link>
-            <guid>2967633</guid>
-            <pubDate>Thu, 02 Feb 2023 12:03:06 GMT</pubDate>
+            <title><![CDATA[联邦快递(FDX.N)今日续涨超5%，公司此前宣布将削减10%以上的管理层岗位，周三该股上涨逾4%。]]></title>
+            <guid>2967883</guid>
+            <pubDate>Thu, 02 Feb 2023 14:57:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行称通胀持续将需要进一步收紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9880548.d.html</link>
-            <guid>2967632</guid>
-            <pubDate>Thu, 02 Feb 2023 12:01:31 GMT</pubDate>
+            <title><![CDATA[【三大央行相继加息 美元兑欧元、英镑走强】据报道，美联储、英国央行、欧洲央行相继加息，美元似乎会从中受益。美联储加息25个基点，而英国和欧洲央行加息50个基点。然而，美国利率仍处于较高水平，为美元提供了支撑。美国劳动力市场的弹性表明，美联储可能需要进一步加息，并在更长时间内保持高利率，尽管许多投资者押注货币政策将在今年晚些时候开始放松。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6685889.d.html</link>
+            <guid>2967879</guid>
+            <pubDate>Thu, 02 Feb 2023 14:52:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[百时美施贵宝公司预计2023年调整后每股收益7.95美元至8.25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9880261.d.html</link>
-            <guid>2967631</guid>
-            <pubDate>Thu, 02 Feb 2023 12:01:03 GMT</pubDate>
+            <title><![CDATA[澳元兑美元AUD/USD日内走低0.50%，现报0.7098。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9908298.d.html</link>
+            <guid>2967878</guid>
+            <pubDate>Thu, 02 Feb 2023 14:52:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行如期加息50个基点，英镑兑美元GBP/USD短线急拉60点，现报1.2360。]]></title>
-            <guid>2967630</guid>
-            <pubDate>Thu, 02 Feb 2023 12:00:53 GMT</pubDate>
+            <title><![CDATA[捷克央行行长：我们预计1月份通胀将大幅飙升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6685268.d.html</link>
+            <guid>2967877</guid>
+            <pubDate>Thu, 02 Feb 2023 14:51:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泽连斯基与冯德莱恩在基辅举行会谈】据央视新闻，当地时间2月2日，乌克兰总统泽连斯基与欧盟委员会主席冯德莱恩在乌克兰首都基辅举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9879180.d.html</link>
-            <guid>2967626</guid>
-            <pubDate>Thu, 02 Feb 2023 11:58:59 GMT</pubDate>
+            <title><![CDATA[市场消息：德意志银行计划加大裁员力度，但交易员们可能会“幸免于难”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6685073.d.html</link>
+            <guid>2967875</guid>
+            <pubDate>Thu, 02 Feb 2023 14:51:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行利率决定前，英国10年期国债收益率跌至去年12月中旬以来的最低水平，报3.176%，当日下跌13个基点。]]></title>
-            <guid>2967625</guid>
-            <pubDate>Thu, 02 Feb 2023 11:57:13 GMT</pubDate>
+            <title><![CDATA[  【德意志银行首席执行官预计2023年投资银行业务收入稳定】德意志银行首席执行官Christian Sewing在与分析师的电话会议上表示，交易业务财年收入可能下降，但预计为交易咨询和资本承销业务将回升，预计公司银行和私人银行业务将持续增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9907915.d.html</link>
+            <guid>2967874</guid>
+            <pubDate>Thu, 02 Feb 2023 14:51:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2月2日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.【新思想引领新征程】畅通双循环 加快构建新发展格局； 2.李克强向新西兰新任总理致贺电； 3.【开好局 起好步】浙江多措并举推动高质量发展； 4.【开好局 起好步】安徽：加速产业升级 打造发展新引擎； 5.2022年我国商务运行总体实现稳中有进； 6.我国湿地保护修复取得显著成效； 7.一批重大生态保护修复治理工程稳步推进； 8.【新时代新征程新伟业】推动古生物学研究走向国际最前沿； 9.不断完善医疗服务体系 守护人民群众健康； 10.国内联播快讯： （1）2023年1月30日起 跨境电商出口退运商品享税收支持； （2）节后铁路累计发送旅客突破1亿人次； （3）《养老和家政服务标准化专项行动方案》发布； （4）第三届中国国际消费品博览会将于4月11日至15日在海口市举办； （5）上海新认定20家跨国公司地区总部和10家研发中心； （6）义乌国际商贸城今天开市； （7）长江十年禁渔工作取得阶段性成效； （8）总台中央新影集团发布2023年重点影视节目； 11.国际奥委会发文高度评价北京冬奥会的成果及影响力； 12.俄称打击乌人员和装备 乌称打击俄兵力集中区 土总统：西方向乌提供武器无助于解决冲突； 13.美国民众强烈谴责警察暴力执法和种族主义； 14.国际联播快讯： （1）以色列空袭加沙 巴方发火箭弹回应； （2）美国冬季风暴持续 得州至少8人死亡； （3）美联储再次宣布加息25个基点。]]></title>
-            <guid>2967623</guid>
-            <pubDate>Thu, 02 Feb 2023 11:54:08 GMT</pubDate>
+            <title><![CDATA[【分析师：德国国债收益率下跌表明欧洲央行可能很快转向】Equiti Capital首席宏观经济学家Stuart Cole表示，德国国债收益率的下跌很能说明问题，这表明市场预计很快就能看到欧洲央行的政策转向。在我看来，这就是股市走高的原因。欧洲央行一如预期地加息50个基点，但令人惊讶的是，它今天宣布将在3月份再加息50个基点，这表明欧洲央行目前的立场比美联储或英国央行强硬得多。我能理解为什么欧洲央行如此强硬，欧元区通胀压力仍然过高，表明通胀的增长势头仍在保持，因此需要进一步收紧政策。但就跟英镑的反应一样，欧元不断下跌表明人们担心欧洲央行的行动可能会让经济陷入衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6684150.d.html</link>
+            <guid>2967873</guid>
+            <pubDate>Thu, 02 Feb 2023 14:49:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中远海发计划发行不超过80亿元人民币债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9871725.d.html</link>
-            <guid>2967622</guid>
-            <pubDate>Thu, 02 Feb 2023 11:50:32 GMT</pubDate>
+            <title><![CDATA[捷克央行：董事会以5-2票通过维持利率不变的决定，有两人支持加息50个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9905698.d.html</link>
+            <guid>2967872</guid>
+            <pubDate>Thu, 02 Feb 2023 14:47:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海医药与河南商丘达成多项战略合作】上海医药与商丘市政府、上药雷允上与白云山东泰、上药科园与一顺药业签署战略合作协议。双方将在省级配方颗粒标准制定、配方颗粒产品销售、医药流通领域、产品准入领域、SPD供应链服务等方面开展深度合作，充分发挥各自优势，形成联动发展的良好局面，打造沪豫政企合作新样本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6648222.d.html</link>
-            <guid>2967621</guid>
-            <pubDate>Thu, 02 Feb 2023 11:49:43 GMT</pubDate>
+            <title><![CDATA[【美股行业ETF盘初涨跌各异】其中，网络股指数ETF涨超4.3%领跑，可选消费ETF涨2.2%，科技行业ETF、全球科技股指数ETF、全球航空业ETF也至少涨超1.3%，医疗业ETF则跌超0.8%，能源业ETF和日常消费品ETF跌约0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9902684.d.html</link>
+            <guid>2967867</guid>
+            <pubDate>Thu, 02 Feb 2023 14:44:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国制药商礼来公司预计2023年每股收益将达到8.35美元至8.55美元或8.10美元至8.30美元。]]></title>
-            <guid>2967620</guid>
-            <pubDate>Thu, 02 Feb 2023 11:49:23 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：再投资中的绿色投资将以内部和外部分析为指导。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9900961.d.html</link>
+            <guid>2967866</guid>
+            <pubDate>Thu, 02 Feb 2023 14:42:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列将扣留巴勒斯坦的税款增加一倍】以色列财政部长斯莫特里赫2日称，他1日签署了一项命令，将为巴勒斯坦代收的税款中扣留的金额增加一倍，每月达到1亿新谢克尔（约合3000万美元），以抗议巴勒斯坦政府向巴勒斯坦袭击者提供经济补偿的政策。根据巴以双方1994年签订的《巴黎经济议定书》，以色列负责对运往巴勒斯坦的物品征收关税，并对在以色列工作的巴勒斯坦人征收个人所得税，定期将税款移交给巴方。这笔款项每年约23亿美元，约占巴勒斯坦政府运营预算的三分之二。暂停向巴方移交代收税款是以色列对巴方经常使用的“惩罚”措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6647935.d.html</link>
-            <guid>2967619</guid>
-            <pubDate>Thu, 02 Feb 2023 11:49:13 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD短线下挫超40点，现报1.0915，日内跌幅达0.66%。]]></title>
+            <guid>2967865</guid>
+            <pubDate>Thu, 02 Feb 2023 14:42:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英杰电气：根据客户技术路线和产品类型研发的样机已做出 目前正在做测试】英杰电气接受机构调研时表示，最近公司运用于半导体行业的电源有一定的进展，从目前我们在一些客户现场试用的情况看，在部分机台上取得了比较好的效果，同时前期根据一些客户的技术路线和产品类型进行研发的样机已经做出，目前正在做样机测试，还有一些型号的样机正在研发中，总体上处于持续推进中。光伏电池片行业情况类似。目前公司在两种技术路线上都有电源在客户那边做测试试用，HJT行业投资成本较大，目前还有一个降本的过程，体量没有TOPCON上的快，相比之下，TOPCON可能会先有订单，具体时间不好说，取决于客户新上项目的时间和具体采购计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6647387.d.html</link>
-            <guid>2967618</guid>
-            <pubDate>Thu, 02 Feb 2023 11:48:24 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：这并不意味着在持续加息的基础上保持稳定的加息步伐，未来加息步伐可能是50个或者25个基点。]]></title>
+            <guid>2967863</guid>
+            <pubDate>Thu, 02 Feb 2023 14:41:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【藏格矿业：公司碳酸锂单吨销售成本控制在3万元左右 具有很强成本优势】藏格矿业接受机构调研时表示，公司碳酸锂单吨销售成本控制在3万元左右，具有很强的成本优势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6647290.d.html</link>
-            <guid>2967617</guid>
-            <pubDate>Thu, 02 Feb 2023 11:48:13 GMT</pubDate>
+            <title><![CDATA[美股走势分化，道指盘初下挫逾200点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9899370.d.html</link>
+            <guid>2967861</guid>
+            <pubDate>Thu, 02 Feb 2023 14:39:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华软科技：控股子公司与金奥海洋签署合作框架协议】华软科技：控股子公司北京奥得赛化学有限公司与北京金奥海洋科技发展有限责任公司双方就海洋防污剂产品及防污剂防污涂料产品的原材料合作事宜于近日签署了《合作框架协议》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6646618.d.html</link>
-            <guid>2967616</guid>
-            <pubDate>Thu, 02 Feb 2023 11:47:38 GMT</pubDate>
+            <title><![CDATA[嘉楠科技和比特数字美股盘初涨超7.4%，领跑纳斯达克金龙中国指数的成分股，爱奇艺涨3.7%，贝壳涨3.2%，亿邦国际涨3.1%，理想汽车涨3.1%，百度、小鹏汽车等至多涨1%，B站则跌1.7%，拼多多跌2.1%，新东方跌3.3%，美华国际跌3.5%表现最差。]]></title>
+            <guid>2967857</guid>
+            <pubDate>Thu, 02 Feb 2023 14:38:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌国家能源公司称电力赤字减少 可满足80%的用电需求】乌克兰媒体2月2日报道称，乌克兰国家能源公司当天发布消息称，本周电力系统赤字有所减少，尽管仍存在缺口，但发电能力足以满足大约80%的消费者需求。乌国家能源公司还表示，乌东部和中部地区两个变电站受损的变压器设备已经完成修复，这将使上述发电厂机组投入运行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9869236.d.html</link>
-            <guid>2967615</guid>
-            <pubDate>Thu, 02 Feb 2023 11:47:18 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：尚未达到利率峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6675609.d.html</link>
+            <guid>2967855</guid>
+            <pubDate>Thu, 02 Feb 2023 14:37:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本9家电力巨头亏损总额预计超1万亿日元】关于日本10大电力公司2022财年（2022年4月～2023年3月）合并财报的预期，1日获悉，除了中部电力之外的9家公司均为亏损，亏损额合计预计超过1万亿日元（约合人民币521亿元）。受俄乌冲突和日元贬值影响，液化天然气（LNG）和煤炭等进口价格高涨，火力发电的燃料费增多。东京电力控股等7家公司为了改善业绩，力争电费价格4月以后大幅上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxh6645933.d.html</link>
-            <guid>2967614</guid>
-            <pubDate>Thu, 02 Feb 2023 11:46:59 GMT</pubDate>
+            <title><![CDATA[【兴业银行与中国联通签署全面战略合作协议】2月1日，兴业银行与中国联通在福州签署全面战略合作协议。根据协议，双方将在巩固现有业务合作领域基础上，进一步发挥各自优势、整合双方资源，在金融服务、信息通信、金融科技等领域全面深化战略合作，以数字科技推动金融创新，共同打造“通信+金融”新生态。（e公司）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9898455.d.html</link>
+            <guid>2967854</guid>
+            <pubDate>Thu, 02 Feb 2023 14:37:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄外交部：将对奥地利宣布驱逐四名俄外交官一事作出“适当回应”】据俄罗斯卫星通讯社报道，俄罗斯外交部2月2日表示，将对奥地利宣布驱逐四名俄罗斯外交官一事作出“适当回应”。奥地利外交部2日早些时候表示，奥地利将驱逐四名俄罗斯外交官，其中包括两名驻联合国的外交官。法新社称，根据奥地利外交部的说法，这些俄外交官的行为“与他们的外交身份不相符”，他们必须在2月8日之前离境。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9867956.d.html</link>
-            <guid>2967613</guid>
-            <pubDate>Thu, 02 Feb 2023 11:46:03 GMT</pubDate>
+            <title><![CDATA[美国二手车电商平台Carvana Co.（CVNA）上涨37%，随后临时停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6675262.d.html</link>
+            <guid>2967853</guid>
+            <pubDate>Thu, 02 Feb 2023 14:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【 截至2022年末我国运行核电装机容量56985.74MWe】中国核能行业协会微信公众号2月2日披露，截至2022年12月31日，我国运行核电机组共55台(不含台湾地区)，装机容量为56985.74MWe(额定装机容量)。]]></title>
-            <guid>2967612</guid>
-            <pubDate>Thu, 02 Feb 2023 11:44:28 GMT</pubDate>
+            <title><![CDATA[美国证券交易委员会（SEC）在社交应用WhatsApp调查中要求对冲基金行业审核员工对移动手机的使用情况。]]></title>
+            <guid>2967852</guid>
+            <pubDate>Thu, 02 Feb 2023 14:37:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国资委主任张玉卓会见深圳市政府主要负责同志】 国务院国资委党委书记、主任张玉卓会见到访的广东省深圳市委副书记、市长覃伟中一行，双方就深化国资国企改革、加强科技创新合作、共同落实国家战略推进高质量发展进行了深入交流。张玉卓表示，国资委将坚决贯彻落实党中央、国务院决策部署，大力支持深圳深化国资国企改革，不断激发市场主体活力，提升改革综合成效。鼓励支持中央企业加大在深投资力度，加大战略性新兴产业投资布局，提高核心竞争力，增强核心功能。充分发挥双方科技创新优势，集聚创新人才资源，强化关键核心技术攻关，为高水平科技自立自强提供有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9862465.d.html</link>
-            <guid>2967608</guid>
-            <pubDate>Thu, 02 Feb 2023 11:40:20 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们需要把利率调整到限制范围内。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9897200.d.html</link>
+            <guid>2967849</guid>
+            <pubDate>Thu, 02 Feb 2023 14:36:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏州固锝：预计2023年Topcon银浆出货量会有比较大的增长】苏州固锝接受机构调研时表示，2022年，苏州晶银已经实现了Topcon正面银铝浆的小批量出货。2023年，公司将持续加大Topcon银浆客户的拓展力度，预计2023年公司Topcon银浆的出货量会有比较大的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeikxe9858322.d.html</link>
-            <guid>2967605</guid>
-            <pubDate>Thu, 02 Feb 2023 11:35:40 GMT</pubDate>
+            <title><![CDATA[索尼涨近4%，2022财年第三财季营收同比增长13%至34129亿日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6672170.d.html</link>
+            <guid>2967848</guid>
+            <pubDate>Thu, 02 Feb 2023 14:33:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[默克公司预计2023年销售额为572亿美元至587亿美元，预计为580.7亿美元。]]></title>
-            <guid>2967603</guid>
-            <pubDate>Thu, 02 Feb 2023 11:31:50 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：人们一致认为通胀风险需要变得“更加平衡”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9894931.d.html</link>
+            <guid>2967847</guid>
+            <pubDate>Thu, 02 Feb 2023 14:33:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【施罗德近两个月减持约3.5亿港元新秀丽】据港交所数据，施罗德集团股份有限公司1月31日公布减持新秀丽(01910.HK)。持股比例由2022年12月7日7.98%降至6.83%；持股数减少约1636万股至约9849万股；按此期间平均股价21.423港元计，涉资约3.5亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6760783.d.html</link>
-            <guid>2967602</guid>
-            <pubDate>Thu, 02 Feb 2023 11:29:39 GMT</pubDate>
+            <title><![CDATA[壳牌涨约2%，2022年经调净利达到创纪录的399亿美元，比上年的192.9亿美元增逾一倍。]]></title>
+            <guid>2967846</guid>
+            <pubDate>Thu, 02 Feb 2023 14:33:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总统泽连斯基：我在基辅与欧盟的冯德莱恩讨论了对俄罗斯的新制裁，呼吁（欧盟）采取更严厉的制裁措施。]]></title>
-            <guid>2967601</guid>
-            <pubDate>Thu, 02 Feb 2023 11:26:37 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：不会说欧元区已经出现反通胀（disinflationary）。]]></title>
+            <guid>2967844</guid>
+            <pubDate>Thu, 02 Feb 2023 14:32:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会核发和泰机电、多利科技、彩蝶实业3家企业IPO批文】证监会核准杭州和泰机电股份有限公司首次公开发行不超过1616.68万股新股；核准滁州多利汽车科技股份有限公司首次公开发行不超过3533.33万股新股；核准浙江彩蝶实业股份有限公司首次公开发行不超过2900万股新股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6756003.d.html</link>
-            <guid>2967600</guid>
-            <pubDate>Thu, 02 Feb 2023 11:24:33 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：风险存在不对称性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9893464.d.html</link>
+            <guid>2967843</guid>
+            <pubDate>Thu, 02 Feb 2023 14:31:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【岚图汽车正式进驻以色列，岚图FREE将于3月开启交付】 据岚图汽车官微消息，日前，岚图汽车以色列品牌发布会在特拉维夫举行，岚图FREE同步开启预售，将于3月开启交付。2023年，岚图还将出海瑞典、荷兰、丹麦等国家，逐步丰富在海外的产品布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9976818.d.html</link>
-            <guid>2967599</guid>
-            <pubDate>Thu, 02 Feb 2023 11:22:37 GMT</pubDate>
+            <title><![CDATA[【经济学家：英国央行和欧洲央行在传达的信息上存在分歧】经济学家表示，英国央行和欧洲央都加息50个基点，但传达的信息不同。投资管理公司Brooks Macdonald的首席投资官Edward Park表示，尽管两家央行在利率方面采取了相同的举措，但“它们的说法截然不同”。“在伦敦市场内部，越来越多的人认为，英国经济将难以应对利率的累积影响，”他指出。相比之下，“预计欧洲央行将维持其鹰派叙事，因为它们比已经加息的美国和英国离限制性政策区间更远，”他补充道。凯投宏观首席欧洲经济学家安德鲁•肯宁汉Andrew Kenningham表示，欧洲央行的声明“并不意味着政策立场的明显变化”，而英国央行和美联储可以说是出人意料地发出了鸽派论调。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6669554.d.html</link>
+            <guid>2967841</guid>
+            <pubDate>Thu, 02 Feb 2023 14:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟宣布将培训乌克兰军人数量增加一倍至3万人】乌克兰媒体2月2日报道称，欧洲安全与外交政策高级代表博雷利在与乌克兰总理什梅加尔会见后通过其官方社交媒体宣布，欧盟将增加帮助培训乌克兰军人的计划，从总人数1.5万人增加到3万人。欧盟将提供针对“豹2”坦克在内的新装备的技术培训。此外，欧盟还将向乌克兰提供2500万欧元用于乌境内的排雷工作。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9976402.d.html</link>
-            <guid>2967598</guid>
-            <pubDate>Thu, 02 Feb 2023 11:22:12 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：量化紧缩将是可预测和衡量的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6665651.d.html</link>
+            <guid>2967839</guid>
+            <pubDate>Thu, 02 Feb 2023 14:24:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泰和新材：芳纶隔膜涂覆计划今年一季度中试线运行】泰和新材接受机构调研时表示，芳纶隔膜涂覆计划今年一季度中试线运行，绿色印染今年会有一定销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6753151.d.html</link>
-            <guid>2967597</guid>
-            <pubDate>Thu, 02 Feb 2023 11:21:42 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：密切关注工资谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9888240.d.html</link>
+            <guid>2967838</guid>
+            <pubDate>Thu, 02 Feb 2023 14:24:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【方舟基金：至2030年为止 预测AI训练成本每年狂降70%】近日，“木头姐”凯西•伍德的方舟投资管理公司在《2023年大胆想法》（Big Ideas 2023）投资报告书中预测，至2030年为止，AI训练成本将持续以每年70%的速度降低。举例来说，要将一款大型语言模型训练至GPT-3 （Generative Pre-trained Transformer 3，生成型预训练变换模型-3）等级，2020年得花费近460万美元，2022年骤降至45万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9974507.d.html</link>
-            <guid>2967596</guid>
-            <pubDate>Thu, 02 Feb 2023 11:19:20 GMT</pubDate>
+            <title><![CDATA[芬兰总理：瑞典也符合成为北约成员所需的所有条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9888094.d.html</link>
+            <guid>2967837</guid>
+            <pubDate>Thu, 02 Feb 2023 14:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【爱立信与Mugler达成协议 向德国提供5G专网】爱立信与电信公司Mugler达成协议，向德国多个行业提供专用5G网络，为该国正在进行的数字化转型增添了新的动力。该供应商表示，继在私营园区的成功合作后它将与Mugler一起部署网络，目标行业包括制造、能源、港口、机场、医疗保健等。爱立信就其专用5G产品进行了大力推广，声称它通过自动化、灵活性和智能化连接来实现“高级运营”，同时提供LTE和独立组网的5G连接。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9974370.d.html</link>
-            <guid>2967595</guid>
-            <pubDate>Thu, 02 Feb 2023 11:19:11 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：任何决定都是妥协的结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6663468.d.html</link>
+            <guid>2967836</guid>
+            <pubDate>Thu, 02 Feb 2023 14:21:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【景顺两周减持约2065万股再鼎医药ADR】据港交所数据，景顺顾问公司1月27日减持再鼎医药(09688.HK)ADR。持股比例由1月12日7.90%降至5.79%；持股数减少约2065万股至约5676万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9971588.d.html</link>
-            <guid>2967594</guid>
-            <pubDate>Thu, 02 Feb 2023 11:16:15 GMT</pubDate>
+            <title><![CDATA[  【视觉中国：AIGC技术有利于提升公司服务市场广度与深度，相关业务尚处于初期阶段】视觉中国在互动平台表示，公司认为，AIGC技术将进一步充分发挥优质合规内容数据的价值，提高图片、视频、音乐素材的AIGC内容的生产能力；推出AIGC生产工具提升创作者的生产效率和内容质量；采用AIGC技术有效提升AI驱动的搜索能力、用户交互和服务交付体验，AIGC技术有利于提升公司服务市场的广度与深度。公司将积极探索AIGC内容产业健康发展新路径，为数字文化创意产业升级贡献力量。公司相关业务尚处于初期阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9885337.d.html</link>
+            <guid>2967835</guid>
+            <pubDate>Thu, 02 Feb 2023 14:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【希荻微：2023年预计增长最快的是充电管理这条产品线】希荻微接受机构调研时表示，2023年会增长的产品线主要是DC/DC、充电管理、端口保护及信号切换、并入的韩国动运AF/OIS芯片这四条产品线。DC/DC、充电管理、端口保护及信号切换三条产品线中预计增长最快的是包括电荷泵和锂电池快充的充电管理这条产品线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6747922.d.html</link>
-            <guid>2967593</guid>
-            <pubDate>Thu, 02 Feb 2023 11:15:34 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：密切关注金融稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6662241.d.html</link>
+            <guid>2967834</guid>
+            <pubDate>Thu, 02 Feb 2023 14:18:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meta表示，对数据中心容量、服务器、网络基础设施和员工数量的预期投资将推动公司支出在2023年继续上升，预计2023年的费用支出将对营业利润率、盈利能力产生不利影响。]]></title>
-            <guid>2967591</guid>
-            <pubDate>Thu, 02 Feb 2023 11:14:40 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：银行贷款调查显示，欧洲央行的“垄断”很好地发挥了作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9884468.d.html</link>
+            <guid>2967832</guid>
+            <pubDate>Thu, 02 Feb 2023 14:17:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拉夫罗夫指责美国直接参与“北溪”天然气管道爆炸事件】俄罗斯外长拉夫罗夫2月2日在接受俄罗斯媒体采访时公开表示，美国直接参与了去年严重破坏波罗的海海底“北溪”天然气管道的爆炸事件。另据俄罗斯卫星通讯社补充，拉夫罗夫受访时称，美国副国务卿纽兰为“北溪”管道爆炸事件拍手叫好是在公开认罪，她的话说明美国直接参与了这场“恐怖袭击”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6746898.d.html</link>
-            <guid>2967590</guid>
-            <pubDate>Thu, 02 Feb 2023 11:14:32 GMT</pubDate>
+            <title><![CDATA[南非电力公司Eskom将从本周末起进一步下调南非全国范围的限电措施力度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9884199.d.html</link>
+            <guid>2967831</guid>
+            <pubDate>Thu, 02 Feb 2023 14:17:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Meta：因个人原因，Susan J.S.Taylor辞去首席会计官一职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6743499.d.html</link>
-            <guid>2967589</guid>
-            <pubDate>Thu, 02 Feb 2023 11:10:55 GMT</pubDate>
+            <title><![CDATA[瑞典总理：我们和芬兰的目标是共同完成入约进程。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9883772.d.html</link>
+            <guid>2967830</guid>
+            <pubDate>Thu, 02 Feb 2023 14:17:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据美国证券交易委员会文件：英特尔(INTC.O)申请发行混合储架，未披露规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6742511.d.html</link>
-            <guid>2967588</guid>
-            <pubDate>Thu, 02 Feb 2023 11:09:38 GMT</pubDate>
+            <title><![CDATA[福特汽车1月美国销量同比增长2%，1月电动车销量创新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9883332.d.html</link>
+            <guid>2967829</guid>
+            <pubDate>Thu, 02 Feb 2023 14:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美银美林将Meta平台股份有限公司评级上调至买进；目标价220美元。]]></title>
-            <guid>2967587</guid>
-            <pubDate>Thu, 02 Feb 2023 11:06:02 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：“打算”并不是100%的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6659479.d.html</link>
+            <guid>2967828</guid>
+            <pubDate>Thu, 02 Feb 2023 14:16:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国海军维护成本攀升】美国政府问责局一份最新报告显示，美国海军现役舰船的维护成本和时间不断增加，可能需要盟友分担。报告评估了美国海军10级舰船中的151艘，发现10年间10级舰船中有7级每小时航行成本增加，航行时间减少。俄罗斯卫星通讯社2日报道，美国海军接受评估的10级舰船，行动和维护费用2020财年上升至170亿美元左右，比2011财年增加大约25亿美元，增幅17%。其中，维护保养费用增加12亿美元，增幅达24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9960270.d.html</link>
-            <guid>2967586</guid>
-            <pubDate>Thu, 02 Feb 2023 11:04:57 GMT</pubDate>
+            <title><![CDATA[芬兰总理：我们希望土耳其和匈牙利尽快批准我们的申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9882126.d.html</link>
+            <guid>2967827</guid>
+            <pubDate>Thu, 02 Feb 2023 14:16:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家卫健委发布国家血液病医学中心和国家血液病区域医疗中心设置标准】 据央视新闻，国家卫生健康委办公厅近日印发《国家血液病医学中心设置标准》和《国家血液病区域医疗中心设置标准》，明确了血液病“双中心”的设置标准。国家卫生健康委医政司有关负责人介绍，推进国家医学中心和区域医疗中心建设工作是我国推行分级诊疗制度、实现分级诊疗目标的重要措施。国家医学中心和区域医疗中心要求“医教研防管”全方位提升，承载着科研创新、医学科技领域的领军作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6736779.d.html</link>
-            <guid>2967585</guid>
-            <pubDate>Thu, 02 Feb 2023 11:04:27 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：用有力的方式表达我们的决心是合理的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9881975.d.html</link>
+            <guid>2967826</guid>
+            <pubDate>Thu, 02 Feb 2023 14:16:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本国有芯片企业Rapidus董事长：需要540亿美元才能开始大规模生产】日本国有芯片企业Rapidus董事长东哲郎(Tetsuro Higashi)周四对表示，要在2027年开始大规模生产先进逻辑芯片，需要约7万亿日圆(约合540亿美元)。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6736300.d.html</link>
-            <guid>2967584</guid>
-            <pubDate>Thu, 02 Feb 2023 11:04:02 GMT</pubDate>
+            <title><![CDATA[【德国去年外贸顺差连续第五年下降】德国联邦统计局2日公布的数据显示，经季节和工作日调整后，德国2022年商品出口额和进口额分别约为1.56万亿欧元和1.49万亿欧元，比上一年分别增长14.3%和24.3%。数据显示，德国2022年贸易顺差约为760亿欧元，连续第五年下降。德国联邦统计局表示，主要原因在于受乌克兰危机等因素影响，德国进口能源成本猛增。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6658815.d.html</link>
+            <guid>2967825</guid>
+            <pubDate>Thu, 02 Feb 2023 14:15:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江苏：探索数字人民币在商品房预售资金监管等领域应用】 江苏省人民政府官网发布《江苏省数字人民币试点工作方案》。《工作方案》提出，积极创造条件，逐步探索财政预算单位和国有企事业单位采用数字人民币开展日常资金收付，着力开展财政支付、政府采购、公共资源交易、税费缴纳、社会保障、教育医疗等公共领域应用。支持数字人民币缴纳诉讼费、不动产登记费、交通罚没款等非税收入，推进数字人民币在公积金缴纳支取、物业管理费缴纳等方面的应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9956249.d.html</link>
-            <guid>2967583</guid>
-            <pubDate>Thu, 02 Feb 2023 11:00:51 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：不要怀疑我们将通胀率降至2%的决心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9881364.d.html</link>
+            <guid>2967824</guid>
+            <pubDate>Thu, 02 Feb 2023 14:15:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新加坡大华银行：英国央行加息50个基点的预期似乎已被消化】新加坡大华银行经济学家LeeSueAnn预计，英国央行将加息50个基点。虽然12月的会议纪要似乎为下调加息幅度至25个基点打开了大门，但英国央行在这次会议上加息25个基点的可能性似乎比市场预期的要小，最近英国的经济数据比较支持鹰派的观点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6730498.d.html</link>
-            <guid>2967581</guid>
-            <pubDate>Thu, 02 Feb 2023 10:57:06 GMT</pubDate>
+            <title><![CDATA[芬兰总理：我们与瑞典一起加入北约符合每个人的利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9880730.d.html</link>
+            <guid>2967823</guid>
+            <pubDate>Thu, 02 Feb 2023 14:15:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝莱德减持约1.97亿港元中海油服H股】据港交所数据，贝莱德集团1月30日公布减持中海油服H股(02883.HK)。持股比例由1月24日10.15%降至8.99%；持股数减少2094万股至1.6283亿股；按此期间平均股价9.411港元计，涉资约1.9710亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9952815.d.html</link>
-            <guid>2967580</guid>
-            <pubDate>Thu, 02 Feb 2023 10:56:29 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们充分提高利率的决心不应受到怀疑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9880289.d.html</link>
+            <guid>2967822</guid>
+            <pubDate>Thu, 02 Feb 2023 14:14:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英荷壳牌公司与俄气石油签署出售其在合资企业股份的文件】英荷壳牌石油公司发布消息称，该公司与俄气石油公司签署出售萨雷姆石油开发公司50%股份的文件，并正在等待俄罗斯的批准。壳牌公司还表示，该公司已停止以第三方所有长期购买俄罗斯石油。壳牌购买从俄罗斯出口的石油产品的所有合同也已终止。壳牌的两份供应管道天然气的合同到2022年底已终止。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9952672.d.html</link>
-            <guid>2967579</guid>
-            <pubDate>Thu, 02 Feb 2023 10:56:22 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：潜在的通胀压力、财政措施和工资增长压力都支持3月份加息50个基点。]]></title>
+            <guid>2967821</guid>
+            <pubDate>Thu, 02 Feb 2023 14:14:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会：树牢“大投保”理念 积极探索更多提升中小投资者获得感的路径和方式】中国证监会2月2日召开2023年系统工作会议，研究部署2023年重点工作，对全面实行股票发行注册制改革进行动员部署。会议指出，要进一步健全资本市场风险防控长效机制。高度关注各类金融风险的关联性、系统性，强化跨市场跨行业跨境风险防范化解，不断完善资本市场风险预防预警处置问责制度体系。要更好保护中小投资者合法权益。树牢“大投保”理念，推动加强行政执法、民事赔偿、刑事追责的机制衔接，畅通投资者维权救济渠道，积极探索更多提升中小投资者获得感的路径和方式。要加快打造“治理、生态、文化”三位一体的资本市场软实力。把加强党的领导和行政监管、行业自律、市场自治更好结合起来，持续涵养良好的市场生态和文化，让资本市场更加健康、充满活力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6729552.d.html</link>
-            <guid>2967578</guid>
-            <pubDate>Thu, 02 Feb 2023 10:56:13 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：对于提前传达3月份加息的信息存在一些疑问。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9876453.d.html</link>
+            <guid>2967820</guid>
+            <pubDate>Thu, 02 Feb 2023 14:11:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英镑兑美元GBP/USD日内走低0.50%，现报1.2314。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6728045.d.html</link>
-            <guid>2967577</guid>
-            <pubDate>Thu, 02 Feb 2023 10:54:56 GMT</pubDate>
+            <title><![CDATA[匈牙利福林兑欧元上涨0.9%，创5月25日以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6652959.d.html</link>
+            <guid>2967819</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【恒瑞医药人事变动频繁？董事长孙飘扬回应】2022年以来，恒瑞医药高管团队发生多起人事变动，引发关注。2月2日，孙飘扬表示，在过去一年多的时间里，恒瑞医药高管团队多次变阵，“我想各种各样的原因都有，或许是他们认为外面更有前途，或是他们与恒瑞的发展目标无法适应”。谈到履新不久的首席战略官江宁军时，孙飘扬对记者表示，恒瑞需要有江宁军这样兼具国际视野和丰富临床经验的人才，相信其能够肩负起恒瑞医药目前在产品创新、临床推动、国际化等方面的工作。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6727066.d.html</link>
-            <guid>2967576</guid>
-            <pubDate>Thu, 02 Feb 2023 10:54:06 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：但没有完全达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6652797.d.html</link>
+            <guid>2967818</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【重庆水务：拟1.4亿元出售九龙公司90%股权及相关债权】重庆水务公告，公司及公司全资子公司重庆公用事业建设有限公司（下称“建设公司”）通过公开挂牌方式以1.4亿元出售九龙县汤古电力开发有限公司（下称“九龙公司”）90%股权及公司和建设公司对九龙公司依法享有的相关债权。本次转让有助于公司出清低效无效资产，预计公司当期收益可增加1亿元，同时公司按协议约定还将享有九龙公司仲裁案件日后胜诉款项的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6726562.d.html</link>
-            <guid>2967575</guid>
-            <pubDate>Thu, 02 Feb 2023 10:53:43 GMT</pubDate>
+            <title><![CDATA[【市场分析：现在说英国央行将很快停止加息还为时过早】Quilter Investors首席投资官Marcus Brookes表示，英国通胀和利率的前景仍然不确定，现在就得出英国央行将很快停止加息的结论还为时过早。在英国央行将利率上调50个基点至4.0%后，他表示：“现在说这是结束加息的开始，感觉有点为时过早。”他表示，通胀“顽固地处于高位”，英国央行热衷于强调工作远未完成。或许英国央行乐于让一场轻微但长期的衰退发生，以抑制通胀。他说投资者应该保持“耐心和多元化”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9875028.d.html</link>
+            <guid>2967816</guid>
+            <pubDate>Thu, 02 Feb 2023 14:10:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通将Meta目标价从150美元上调至225美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9949380.d.html</link>
-            <guid>2967574</guid>
-            <pubDate>Thu, 02 Feb 2023 10:53:35 GMT</pubDate>
+            <title><![CDATA[美国两年期国债收益率跌至4.032%，创10月4日以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6651513.d.html</link>
+            <guid>2967815</guid>
+            <pubDate>Thu, 02 Feb 2023 14:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会：要稳步提高直接融资比重 统筹一二级市场动态平衡】中国证监会2月2日召开2023年系统工作会议，研究部署2023年重点工作，对全面实行股票发行注册制改革进行动员部署。会议指出，要稳步提高直接融资比重。聚焦支持科技创新这个关键，统筹多层次市场体系建设，统筹股市和债市协同发展，统筹一二级市场动态平衡，进一步畅通“科技-产业-金融”良性循环。要推动培育体现高质量发展要求的上市公司群体。围绕建设现代化产业体系，切实落实“两个毫不动摇”，完善市场化激励约束机制，增强推动上市公司质量提升的合力，大力提高对各种所有制、不同类型、不同规模企业的服务能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9947031.d.html</link>
-            <guid>2967572</guid>
-            <pubDate>Thu, 02 Feb 2023 10:51:30 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们需要评估加息速度和利率水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9874297.d.html</link>
+            <guid>2967814</guid>
+            <pubDate>Thu, 02 Feb 2023 14:09:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【气派科技：工控类、消费类产品从2022年第四季度开始急单增多】气派科技接受机构调研时表示，公司车规类产品的量比较少，不具有代表性，工控类、消费类产品从2022年第四季度开始急单增多，客户端可能存在结构性缺货，也可能是春节备货的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6723171.d.html</link>
-            <guid>2967571</guid>
-            <pubDate>Thu, 02 Feb 2023 10:50:17 GMT</pubDate>
+            <title><![CDATA[瑞典总理：将继续执行与芬兰和土耳其的关于加入北约的三边备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9874168.d.html</link>
+            <guid>2967813</guid>
+            <pubDate>Thu, 02 Feb 2023 14:09:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国监管机构提议禁止向债务咨询公司收取推荐费】英国金融监管机构周四表示，将禁止提供债务咨询的公司从业内其他公司收取推荐费，理由是存在利益冲突，可能损害客户利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9945524.d.html</link>
-            <guid>2967570</guid>
-            <pubDate>Thu, 02 Feb 2023 10:49:25 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们的利率还没有达到峰值，我们还有很多事情要做。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6650795.d.html</link>
+            <guid>2967812</guid>
+            <pubDate>Thu, 02 Feb 2023 14:08:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【证监会：稳步提高直接融资比重，推动提升估值定价科学性有效性】2月2日，中国证监会召开2023年系统工作会议。会议指出，要稳步提高直接融资比重。聚焦支持科技创新这个关键，统筹多层次市场体系建设，统筹股市和债市协同发展，统筹一二级市场动态平衡，进一步畅通“科技-产业-金融”良性循环。要推动提升估值定价科学性有效性。深刻把握我国的产业发展特征、体制机制特色、上市公司可持续发展能力等因素，推动各相关方加强研究和成果运用，逐步完善适应不同类型企业的估值定价逻辑和具有中国特色的估值体系，更好发挥资本市场的资源配置功能。要进一步健全资本市场风险防控长效机制。高度关注各类金融风险的关联性、系统性，强化跨市场跨行业跨境风险防范化解，不断完善资本市场风险预防预警处置问责制度体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6720882.d.html</link>
-            <guid>2967567</guid>
-            <pubDate>Thu, 02 Feb 2023 10:47:43 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：今天达成了强烈的共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9873530.d.html</link>
+            <guid>2967811</guid>
+            <pubDate>Thu, 02 Feb 2023 14:08:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[证监会：统筹推动提高上市公司质量和投资端改革。深入实施新一轮推动提高上市公司质量三年行动方案，推动权益类基金高质量发展，引导更多中长期资金入市。]]></title>
-            <guid>2967566</guid>
-            <pubDate>Thu, 02 Feb 2023 10:46:54 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：“打算”这个词也不是不可能改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6650374.d.html</link>
+            <guid>2967810</guid>
+            <pubDate>Thu, 02 Feb 2023 14:08:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汉莎航空与VARO Energy就可再生燃料签署谅解备忘录】德国航空公司汉莎航空和VARO Energy签署了一份关于生产和供应可持续航空燃料的谅解备忘录。该航空公司补充说，根据协议，VARO最早将于2026年向汉莎集团提供大量非化石能源生产的燃料。]]></title>
-            <guid>2967561</guid>
-            <pubDate>Thu, 02 Feb 2023 10:42:14 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：我们关于利率决定的讨论具有连续性和一致性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfa9873090.d.html</link>
+            <guid>2967808</guid>
+            <pubDate>Thu, 02 Feb 2023 14:08:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据港交所披露，1月30日，摩根大通以每股16.29港元的均价买入万科企业200.6万股H股，持股比例5.96%增加到6.07%。]]></title>
-            <guid>2967560</guid>
-            <pubDate>Thu, 02 Feb 2023 10:41:45 GMT</pubDate>
+            <title><![CDATA[【凯投宏观：欧洲央行政策立场没有发生重大变化】凯投宏观首席欧洲经济学家Andrew Kenningham在一份报告中表示，欧洲央行最新声明没有给其政策立场带来任何重大变化，该行承诺未来将进一步加息。欧洲央行可能会继续加息，直到今年年中存款利率从目前的2.5%达到3.5%的峰值。目前的指引意味着欧洲央行预计从那时起将在很长一段时间内将利率维持在这一水平。我们同意这一观点，因为我们认为，通胀在一段时间内不会明显回落至目标水平，尽管我们预计今年将出现经济衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6649793.d.html</link>
+            <guid>2967807</guid>
+            <pubDate>Thu, 02 Feb 2023 14:07:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝莱德减持约2.18亿港元中国铝业H股】贝莱德集团1月30日披露减持中国铝业H股(02600.HK)，持股比例由1月26日6.96%降至5.64%；持股数减少5202万股至2.2245亿股；按此期间平均股价4.185港元计，涉资约2.1771亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6714135.d.html</link>
-            <guid>2967559</guid>
-            <pubDate>Thu, 02 Feb 2023 10:41:31 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：这次的利率决定不代表3月的利率决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6648751.d.html</link>
+            <guid>2967806</guid>
+            <pubDate>Thu, 02 Feb 2023 14:06:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【青龙管业：实控人拟减持不超1%股份】青龙管业公告，公司实际控制人陈家兴计划十五个交易日后的六个月内以集中竞价方式减持公司股份不超过334.99万股（占公司总股本的1%）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6713206.d.html</link>
-            <guid>2967558</guid>
-            <pubDate>Thu, 02 Feb 2023 10:40:19 GMT</pubDate>
+            <title><![CDATA[【欧洲央行和英国央行利率决议轮番来袭，欧元区国债收益率跌势未止】欧元区国债收益率延续跌势，德国10年期国债收益率下跌20个基点，报2.09%；德国2年期国债收益率下跌16.5个基点，报2.5%；意大利10年期国债收益率下跌30个基点，报3.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6646234.d.html</link>
+            <guid>2967804</guid>
+            <pubDate>Thu, 02 Feb 2023 14:04:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山大地纬：正在研发全新一代的医疗信息化整体解决方案 其中有应用和产品涉及到chatGPT领域】山大地纬在互动平台上表示，公司正在研发全新一代的医疗信息化整体解决方案，智能化是最重要的一个特征，其中智能预问诊、智能导诊、智能问答等应用和产品都涉及到chatGPT领域，运用知识图谱、自然语言处理、人机交互等AI技术，通过医疗对话交互形式，采集患者病情信息，为患者推荐最佳挂号科室和医生，解答患者就医过程中的各种疑惑，但尚未形成落地案例。]]></title>
-            <guid>2967557</guid>
-            <pubDate>Thu, 02 Feb 2023 10:40:11 GMT</pubDate>
+            <title><![CDATA[通用汽车和奈飞达成一份协议，将在节目秀和电影中投放电动汽车类信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6645251.d.html</link>
+            <guid>2967803</guid>
+            <pubDate>Thu, 02 Feb 2023 14:03:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两天暴涨39%，Chatbot贡献几成业绩？初灵信息：涉及年报，目前保密】据银柿财经，近日，人工智能概念和ChatGPT概念再度走强，对于初灵信息旗下的Chatbot所属业务对公司营收贡献以及公司在智能聊天机器人方面的技术优势和竞争力等问题，笔者联系了初灵信息，公司证券部工作人员回复称，该业务产生的营收具体数据涉及年报披露，目前属于保密信息，不方便回复。此外，对于公司最新动态，投资者可关注微信公众号或者互动易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6712473.d.html</link>
-            <guid>2967556</guid>
-            <pubDate>Thu, 02 Feb 2023 10:39:12 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD日内走低0.50%，现报1.0933。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6644452.d.html</link>
+            <guid>2967802</guid>
+            <pubDate>Thu, 02 Feb 2023 14:02:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌军方称摧毁俄军新型“Tor-M2DT”防空系统】乌克兰媒体报道称，乌克兰军方当天公布了第406独立炮兵旅士兵在赫尔松地区摧毁俄军新型“Tor-M2DT”防空系统的视频。报道称，这是乌方首次确认摧毁该防空系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6712369.d.html</link>
-            <guid>2967555</guid>
-            <pubDate>Thu, 02 Feb 2023 10:39:01 GMT</pubDate>
+            <title><![CDATA[欧洲央行行长拉加德：银行对企业的贷款急剧减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6644130.d.html</link>
+            <guid>2967801</guid>
+            <pubDate>Thu, 02 Feb 2023 14:01:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【大胜达：智能工厂上线的“AI虚拟厂长”目前仅有部分对话场景应用了chatGPT技术】大胜达在互动平台上表示，公司智能工厂上线的“AI虚拟厂长”可以实现面向企业内外部数据的智能查询和主动预警，目前仅有部分对话场景应用了chatGPT技术，并利用NLP2SQL实现语义转数据的高效查询，助力企业实现数据驱动生产。]]></title>
-            <guid>2967554</guid>
-            <pubDate>Thu, 02 Feb 2023 10:38:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部：我国与RCEP成员贸易投资合作取得积极成效】 在国务院新闻办举行的新闻发布会上，商务部有关负责人介绍，《区域全面经济伙伴关系协定》（RCEP）的实施，扩大了我国与RCEP成员的贸易投资合作，取得了积极成效。从贸易看，2022年我国与RCEP其他成员进出口总额达12.95万亿元，同比增长7.5%，占我国外贸总额的30.8%。其中，我们对8个RCEP成员的进出口增速超过了两位数。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6712130.d.html</link>
-            <guid>2967553</guid>
-            <pubDate>Thu, 02 Feb 2023 10:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国商务部长：英国政府与英国钢铁公司的谈判正在进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9932150.d.html</link>
-            <guid>2967551</guid>
-            <pubDate>Thu, 02 Feb 2023 10:36:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[山东章鼓在互动平台表示，公司参股的喀什安德主要致力于新型半固态、固态电解质膜的开发和应用。]]></title>
-            <guid>2967550</guid>
-            <pubDate>Thu, 02 Feb 2023 10:33:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东：实施工业投资跃升计划 推动全省工业投资实现两位数增长】广东省工业和信息化厅一级巡视员吴育光透露，将实施工业投资跃升计划，力争推动2023年全省工业投资实现两位数增长；组织做好省领导同志牵头联系大项目工作，突出抓好投资50亿元以上、总投资额约8000亿元的55个项目的省市县联合跟踪服务；并全力实施广东工业技术改造“双增”行动，2023年新推动9000家工业企业开展技术改造。 (21财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierk6706041.d.html</link>
-            <guid>2967549</guid>
-            <pubDate>Thu, 02 Feb 2023 10:33:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【初灵信息：智能客服平台产品及相关应用尚在推广阶段】初灵信息发布股票交易异常波动公告，智能客服平台产品及相关应用尚在推广阶段，是否能推广成功尚存在不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9927064.d.html</link>
-            <guid>2967547</guid>
-            <pubDate>Thu, 02 Feb 2023 10:31:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【如意集团：控股股东及其一致行动人被动减持1.08%股份】如意集团公告，公司控股股东如意科技及一致行动人毛纺集团于2023年1月17日-2月1日期间，因债权债务纠纷案判决后被司法处置，以集中竞价方式被动减持公司股份比例为1.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeierh9925682.d.html</link>
-            <guid>2967546</guid>
-            <pubDate>Thu, 02 Feb 2023 10:29:27 GMT</pubDate>
+            <title><![CDATA[美元指数DXY日内涨超0.50%，现报101.46。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-02/detail-imyeirfe6643576.d.html</link>
+            <guid>2967800</guid>
+            <pubDate>Thu, 02 Feb 2023 14:00:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
