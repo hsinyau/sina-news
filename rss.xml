@@ -4,273 +4,472 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 03 Feb 2023 09:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 12:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【宇通客车：1月份销量同比降31.02%】宇通客车公告，1月份销量1261辆，同比降31.02%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3706158.d.html</link>
-            <guid>2969178</guid>
-            <pubDate>Fri, 03 Feb 2023 09:05:51 GMT</pubDate>
+            <title><![CDATA[美国银行：新兴市场股票和债券连续第七周录得流入（83亿美元）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6970347.d.html</link>
+            <guid>2969371</guid>
+            <pubDate>Fri, 03 Feb 2023 12:09:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【双鹭药业：获得伏格列波糖片药品注册证书】双鹭药业公告，近日收到国家药监局核准签发的伏格列波糖片（0.2mg，0.3mg）《药品注册证书》，伏格列波糖片为口服类降糖药。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6926327.d.html</link>
-            <guid>2969175</guid>
-            <pubDate>Fri, 03 Feb 2023 09:03:44 GMT</pubDate>
+            <title><![CDATA[美国银行：牛熊指标处于2022年3月以来的最高水平，录得自2020年8月以来最大的三个月涨幅，主要是由于强劲的新兴市场流入和强劲的股市广度。]]></title>
+            <guid>2969370</guid>
+            <pubDate>Fri, 03 Feb 2023 12:09:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯将增加外汇销售以抵消石油和天然气收入的下降。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3703184.d.html</link>
-            <guid>2969174</guid>
-            <pubDate>Fri, 03 Feb 2023 09:03:29 GMT</pubDate>
+            <title><![CDATA[中国地震台网自动测定：02月03日20时04分在青海海西州德令哈市附近发生4.8级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2969369</guid>
+            <pubDate>Fri, 03 Feb 2023 12:08:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【申万宏源：自营参与碳排放权交易获得中国证监会无异议函】申万宏源公告，自营参与碳排放权交易获得中国证监会无异议函。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6925735.d.html</link>
-            <guid>2969173</guid>
-            <pubDate>Fri, 03 Feb 2023 09:03:14 GMT</pubDate>
+            <title><![CDATA[【道明证券前瞻美国非农：料增长22万人】道明证券预计，与12月相比，工资增长将基本保持不变，1月份非农仍有22万人的增长。失业率和平均时薪都应该保持稳定：前者处于几十年来的低点3.5%，后者环比增长0.3%。在鲍威尔的讲话之后，市场围绕这个数字是不对称的。也就是说，一个好于预期的数字不太可能在实质上破坏风险情绪，而疲软的迹象将加强风险情绪。这对美元和其他与股市动态更密切相关的外汇篮子来说是关键。这可能会防止美元在短期内跌至新的低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6969449.d.html</link>
+            <guid>2969368</guid>
+            <pubDate>Fri, 03 Feb 2023 12:08:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【内蒙古二连浩特铁路口岸进出口运量实现开门红】从中国铁路呼和浩特局集团有限公司获悉，今年1月份，二连浩特铁路口岸完成进出口运量142.78万吨、同比增长99.9%，其中进口运量完成118.92万吨、同比增长138.7%，出口运量完成23.86万吨、同比增长10.4%，实现首月开门红。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6925314.d.html</link>
-            <guid>2969171</guid>
-            <pubDate>Fri, 03 Feb 2023 09:02:56 GMT</pubDate>
+            <title><![CDATA[加拿大国家银行财富管理（NBF）前瞻美国非农：1月非农可能录得15万人的增长。预计家庭调查也将显示类似的增长。假设就业参与率保持在62.3%，这种情况可能会使失业率保持在3.5%不变。]]></title>
+            <guid>2969367</guid>
+            <pubDate>Fri, 03 Feb 2023 12:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈药股份：所属企业药品注射用头孢美唑钠通过仿制药一致性评价】哈药股份公告，所属企业药品注射用头孢美唑钠通过仿制药一致性评价。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3693093.d.html</link>
-            <guid>2969156</guid>
-            <pubDate>Fri, 03 Feb 2023 08:54:16 GMT</pubDate>
+            <title><![CDATA[【加拿大皇家银行前瞻美国非农：料增长15万人】加拿大皇家银行预计，美国1月份的非农就业人数可能继续上升，尽管预计15万人的增长将是自2020年12月以来的最小增幅。劳动力市场依然紧张，裁员人数仍然很低。但职位空缺数量一直在下降，预计失业率将从12月的3.5%上升至3.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6968813.d.html</link>
+            <guid>2969366</guid>
+            <pubDate>Fri, 03 Feb 2023 12:07:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国银行：副行长陈怀宇辞职】中国银行公告，陈怀宇因工作调动，辞去本行副行长职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3692119.d.html</link>
-            <guid>2969154</guid>
-            <pubDate>Fri, 03 Feb 2023 08:53:28 GMT</pubDate>
+            <title><![CDATA[    3个月期美元LIBOR上涨2.8个基点至4.83414%，为2007年以来最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3744959.d.html</link>
+            <guid>2969365</guid>
+            <pubDate>Fri, 03 Feb 2023 12:06:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲理事会主席米歇尔抵达乌克兰首都基辅】当地时间2月3日，欧洲理事会主席米歇尔抵达乌克兰首都基辅并进行访问。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6912714.d.html</link>
-            <guid>2969153</guid>
-            <pubDate>Fri, 03 Feb 2023 08:50:56 GMT</pubDate>
+            <title><![CDATA[  【银保监会：2022年末银行业金融机构总资产同比增长10.0%】银保监会相关部门负责人表示，2022年末，银行业金融机构总资产379.4万亿元，同比增长10.0%。保险公司总资产27.1万亿元，同比增长9.1%。保险资金运用余额25.1万亿元，同比增长9.1%。2022年全年，人民币贷款新增21.3万亿元，同比多增1.36万亿元，增速为11.1%，银行保险新增债券投资超过11万亿元。2022年全年，保险公司原保险保费收入4.7万亿元，同比增长4.6%，新增保单件数554亿件，同比增长13.3%，赔款与给付支出1.5万亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6958256.d.html</link>
+            <guid>2969364</guid>
+            <pubDate>Fri, 03 Feb 2023 11:55:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东芝退出住宅用太阳能发电业务 因竞争激烈导致盈利恶化】东芝子公司东芝能源系统今日宣布退出住宅用太阳能发电系统业务。新销售已停止，存量业务将卖给太阳能发电的其他从业者。由于市场的竞争激化，盈利恶化，东芝称今后将聚焦于产业用太阳能发电业务。东芝目前拥有轻量、可折叠“薄膜型钙钛矿太阳能电池”等技术，可贴附于建筑物墙面等进行发电，目前正以25年投用为目标进行开发。（科创板日报）]]></title>
-            <guid>2969152</guid>
-            <pubDate>Fri, 03 Feb 2023 08:50:39 GMT</pubDate>
+            <title><![CDATA[【法国核电发电量跃升至12个月高点】法国核电站的发电量达到近一年来的最高水平，暂时为欧洲在今年冬天节约天然气的努力提供了一些缓解。根据电网运营商RTE的数据，周五该国有45个反应堆在线，发电量高达45360兆瓦。这是自去年2月11日以来的最高水平，但比过去五年的平均水平低了约12%。不过发电量的飙升可能是短暂的，因为本月的新维护工作可能会将发电量限制在一年中的这个时候的历史低位。在俄罗斯天然气供应基本停止的情况下，法国有多少核设施能够恢复服务并继续运行，对欧洲的能源安全至关重要。电网运营商RTE此前表示，8个反应堆将于本月下线，进行维护。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6957957.d.html</link>
+            <guid>2969363</guid>
+            <pubDate>Fri, 03 Feb 2023 11:54:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海关总署与澳门海关签署AEO互认安排】海关总署与澳门海关签署《海关总署和澳门海关关于内地海关企业信用管理制度与澳门海关认可经济营运商计划互认的安排》。内地海关成为澳门海关首个AEO互认伙伴。内地与澳门海关实施AEO互认安排后，双方AEO企业货物可享受较低查验率、优先查验、指定联络员服务、优先通关等4项互认便利措施，帮助AEO企业大大压缩货物通关时间，最大限度地降低企业港口、保险、物流等贸易成本，进一步促进内地与澳门贸易便利化，为推动两地经贸合作高质量发展创造更加良好环境。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3688778.d.html</link>
-            <guid>2969149</guid>
-            <pubDate>Fri, 03 Feb 2023 08:50:03 GMT</pubDate>
+            <title><![CDATA[【花旗：料美国非农将大幅增长30.5万人】花旗预计1月份美国非农就业人数将大幅增长30.5万人，潜在的就业增长仍然强劲。预计1月份平均时薪将比12月份增长0.4%，高于普遍预期的0.3%。预计失业率将保持在3.5%不变，尽管1月份家庭调查的组成部分存在一些不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6957588.d.html</link>
+            <guid>2969362</guid>
+            <pubDate>Fri, 03 Feb 2023 11:54:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天宇股份：全资子公司药品磷酸西格列汀片获得批准】天宇股份公告，全资子公司诺得药业近日收到国家药品监督管理局准签发的关于磷酸西格列汀片的《药品注册证书》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3688148.d.html</link>
-            <guid>2969148</guid>
-            <pubDate>Fri, 03 Feb 2023 08:49:23 GMT</pubDate>
+            <title><![CDATA[摩根士丹利：将亚马逊目标价从140美元上调至150美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6957109.d.html</link>
+            <guid>2969361</guid>
+            <pubDate>Fri, 03 Feb 2023 11:53:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞联新材：拟与海融医药在创新药等领域开展合作】瑞联新材公告，与海融医药于近日签订了《战略合作协议》，双方同意在创新药、高端仿制药原料药工艺研究及生产相关领域开展全面的深入合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6911018.d.html</link>
-            <guid>2969147</guid>
-            <pubDate>Fri, 03 Feb 2023 08:49:18 GMT</pubDate>
+            <title><![CDATA[摩根士丹利：将谷歌A目标价从125美元上调至135美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6956925.d.html</link>
+            <guid>2969360</guid>
+            <pubDate>Fri, 03 Feb 2023 11:53:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2022年我国规上互联网企业利润总额保持增长】工信部发布的2022年互联网和相关服务业运行情况显示，2022年，互联网业务收入小幅下降，利润总额保持增长，研发经费规模加快增长。2022年，我国规模以上互联网和相关服务企业完成互联网业务收入14590亿元，同比下降1.1%；规模以上互联网企业营业成本同比增长3.3%，增速较上年回落12.8个百分点；实现利润总额1415亿元，同比增长3.3%，增速较上年回落10个百分点。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6910784.d.html</link>
-            <guid>2969146</guid>
-            <pubDate>Fri, 03 Feb 2023 08:48:58 GMT</pubDate>
+            <title><![CDATA[交易平台币安：印度的加密货币交易所WAZIRX不能再使用其钱包服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6955424.d.html</link>
+            <guid>2969359</guid>
+            <pubDate>Fri, 03 Feb 2023 11:51:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南凌科技：东方富海拟减持不超2.4546%】南凌科技公告，东方富海拟减持不超2.4546%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3685633.d.html</link>
-            <guid>2969144</guid>
-            <pubDate>Fri, 03 Feb 2023 08:47:02 GMT</pubDate>
+            <title><![CDATA[【爱司凯回复关注函：不存在2022年度扣除后营收低于1亿元的情况】爱司凯回复深交所关注函，公司不存在通过新增业务、无商业实质的交易等方式增加2022年度收入规模的情形。经公司核查，2022年度扣除后的营业收入约为1.27亿元，扣除项目主要为正常经营之外的其他业务收入（房屋租赁），不存在2022年度扣除后营业收入低于1亿元的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3731509.d.html</link>
+            <guid>2969358</guid>
+            <pubDate>Fri, 03 Feb 2023 11:49:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万华化学：宁波工厂MDI二期装置例行停产检修】万华化学公告，本公司全资子公司万华化学（宁波）有限公司MDI二期装置（80万吨/年）将于2023年2月13日开始停产检修，预计检修30天左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3684063.d.html</link>
-            <guid>2969141</guid>
-            <pubDate>Fri, 03 Feb 2023 08:45:43 GMT</pubDate>
+            <title><![CDATA[  友邦保险：当日斥资约2.25亿港元回购265.72万股，每股回购价格为83.75-85.2港元。]]></title>
+            <guid>2969357</guid>
+            <pubDate>Fri, 03 Feb 2023 11:49:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贵州发布搞活汽车流通扩大汽车消费若干措施：加快农村汽车消费，繁荣发展二手车交易】 贵州省商务厅等20部门印发《贵州省搞活汽车流通扩大汽车消费的若干措施》，《若干措施》分“加快新能源与节能汽车流通发展、加快农村汽车消费、繁荣发展二手车交易、促进汽车更新消费、加快推进汽车进出口交易、优化汽车使用环境、推动汽车消费‘触电转型’、加强汽车流通载体建设、丰富汽车金融服务”共9个部分、23条款项。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3682782.d.html</link>
-            <guid>2969140</guid>
-            <pubDate>Fri, 03 Feb 2023 08:44:37 GMT</pubDate>
+            <title><![CDATA[【科德数控：拟定增募资不超过6亿元】科德数控：拟定增募资不超过6亿元，在扣除本次发行相关的发行费用后，公司拟将募集资金用于五轴联动数控机床智能制造项目、系列化五轴卧式加工中心智能制造产业基地建设项目、高端机床核心功能部件及创新设备智能制造中心建设项目、补充流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6953450.d.html</link>
+            <guid>2969356</guid>
+            <pubDate>Fri, 03 Feb 2023 11:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【立航科技：中标某工程武器装填装置】 立航科技2月3日晚间公告，公司于近日收到《中标通知书》，中标产品为某工程武器装填装置。公司后续将按照相关研制管理程序及总体安排开展研制工作。公司将积极推进该项目合同的签署，对公司未来财务状况和经营成果产生积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3681962.d.html</link>
-            <guid>2969138</guid>
-            <pubDate>Fri, 03 Feb 2023 08:43:51 GMT</pubDate>
+            <title><![CDATA[  【再生元季度利润下降46%】再生元制药公司（Regeneron Pharmaceuticals）周五报告其第四季度利润暴跌约46%，原因是其眼药Eylea在美国的销售额下降。该公司公布截至12月31日的季度净收入为12亿美元，即每股收益10.50美元，而去年同期为22.3亿美元，即每股收益19.69美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3730102.d.html</link>
+            <guid>2969355</guid>
+            <pubDate>Fri, 03 Feb 2023 11:48:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东芝退出住宅用太阳能发电业务 因竞争激烈导致盈利恶化】2月3日消息，东芝子公司东芝能源系统今日宣布退出住宅用太阳能发电系统业务。新销售已停止，存量业务将卖给太阳能发电的其他从业者。日本政府于2012年推出上网电价补贴政策意在推广可再生能源，东芝以此为契机于10年开始销售家用太阳能发电系统，目前已向约10万户住宅提供产品。但由于市场的竞争激化，盈利恶化，东芝称今后将聚焦于产业用太阳能发电业务。东芝目前拥有轻量、可折叠“薄膜型钙钛矿太阳能电池”等技术，可贴附于建筑物墙面等进行发电，目前正以25年投用为目标进行开发。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6904592.d.html</link>
-            <guid>2969137</guid>
-            <pubDate>Fri, 03 Feb 2023 08:43:40 GMT</pubDate>
+            <title><![CDATA[  【杰瑞股份：拟用不超800万元自有资金 为应届毕业生员工提供购房借款】杰瑞股份公告，为有效吸引和留住优秀人才，支持员工在公司长期发展，缓解购房压力，拟使用不超过800万元的自有资金为符合条件的应届毕业生员工提供购房借款，在此额度内可循环使用。员工最高借款金额为20万元/人，用于公司员工在工作常驻地或烟台七区购买住房，包括归还银行购房贷款及支付购房首付款，最长还款期限为5年，该借款为无息借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6947370.d.html</link>
+            <guid>2969354</guid>
+            <pubDate>Fri, 03 Feb 2023 11:42:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟在乌克兰首都举行峰会时，基辅和乌克兰各地发布了空袭警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3679221.d.html</link>
-            <guid>2969134</guid>
-            <pubDate>Fri, 03 Feb 2023 08:41:00 GMT</pubDate>
+            <title><![CDATA[【香港二手楼价指数创9周以来新高，近6周累计上升1.52%】中原地产2月3日发布报告称，反映香港二手楼价走势的中原城市领先指数（CCL）最新报158.75点，创9周新高，环比上周升0.56%。CCL见底后近6周累计上升1.52%，反映新春前有买家提早入市，二手成交活跃，楼价明显转势。其中大型屋苑指数升0.63%，中小型单位指数升0.71%，两者齐创10周以来新高；大型单位指数跌0.13%，新春前豪宅价格反复偏软。本周香港四区楼价齐升，香港岛升0.51%，连续6周上涨。九龙升1.19%，升幅创7周以来最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3722824.d.html</link>
+            <guid>2969353</guid>
+            <pubDate>Fri, 03 Feb 2023 11:39:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【克里米亚议会：对俄罗斯有不友好行为的外国人财产收归国有】当地时间3日，克里米亚议会批准将对俄罗斯有不友好行为的外国人的财产收归国有。首批清单中包含大约500家企业、银行和旅游基础设施等资产。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6902066.d.html</link>
-            <guid>2969133</guid>
-            <pubDate>Fri, 03 Feb 2023 08:40:55 GMT</pubDate>
+            <title><![CDATA[易居企业控股：本公司未能够根据计划完成重组。公司有意及时并在2023年3月底之前，与旧票据持有人及本公司其他财务债权人进行透明对话，以寻找及达成协商一致的解决方案。]]></title>
+            <guid>2969352</guid>
+            <pubDate>Fri, 03 Feb 2023 11:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【光庭信息：坚木坚贯拟减持不超2%】光庭信息公告，坚木坚贯拟减持不超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3677592.d.html</link>
-            <guid>2969130</guid>
-            <pubDate>Fri, 03 Feb 2023 08:38:58 GMT</pubDate>
+            <title><![CDATA[【日本纸业考虑用木材制造可持续的航空燃料】日本纸业在一份声明中表示，日本纸业、住友商事和绿色地球研究所上周五同意共同研究用木质生物质生产生物乙醇。如果项目成功，该项目将在2027财年从日本纸业的工厂生产生物乙醇，作为日本航空工业可持续航空燃料(SAF)的原料。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6943686.d.html</link>
+            <guid>2969351</guid>
+            <pubDate>Fri, 03 Feb 2023 11:37:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【河南南阳：筹建张衡实验室、张仲景实验室和南水北调元宇宙研究中心等高能级创新平台】 南阳市人民政府近日印发《提振市场信心稳定经济发展加快现代化副中心城市建设若干政策措施》。其中提出，筹建张衡实验室、张仲景实验室和南水北调元宇宙研究中心等高能级创新平台，在装备制造、新材料、光电信息、中医药等优势特色领域新增省级创新平台20家以上。（南阳市政府网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3673848.d.html</link>
-            <guid>2969127</guid>
-            <pubDate>Fri, 03 Feb 2023 08:35:40 GMT</pubDate>
+            <title><![CDATA[【流浪地球2登顶单日票房榜】据猫眼专业版数据，电影《流浪地球2》2月5日单日实时票房超7500万，领先第二名《满江红》超300万，提前锁定单日票房冠军。这也是《球2》上映13天来再度登顶单日票房榜。电影《流浪地球2》以连续多日以不足27%的排片，贡献着30%左右的票房。目前小破球的排片占比是26.8%，票房占比32.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6939463.d.html</link>
+            <guid>2969350</guid>
+            <pubDate>Fri, 03 Feb 2023 11:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金证股份：股东拟合计减持不超2.4%公司股份】 金证股份2月3日晚间公告，公司合计持股8.84%的董事赵剑及其一致行动人玄元私募基金投资管理（广东）有限公司－玄元科新119号私募证券投资基金、持股6.11%的董事徐岷波拟分别通过集中竞价交易方式减持公司不超1.97%、0.43%的股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6896596.d.html</link>
-            <guid>2969126</guid>
-            <pubDate>Fri, 03 Feb 2023 08:35:30 GMT</pubDate>
+            <title><![CDATA[  【信利国际：1月综合营业净额约8.87亿港元 同比减约49.9%】信利国际发布公告，该集团2023年1月的未经审核综合营业净额约为8.87亿港元，较2022年同期的17.72亿港元减少约49.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6936780.d.html</link>
+            <guid>2969349</guid>
+            <pubDate>Fri, 03 Feb 2023 11:29:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚星客车：1月份销量同比下降23%】亚星客车公告，1月份销量为124辆，同比下降23%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6895052.d.html</link>
-            <guid>2969123</guid>
-            <pubDate>Fri, 03 Feb 2023 08:34:10 GMT</pubDate>
+            <title><![CDATA[  【拓普集团：更正业绩预告 2022年净利同比预增62%-72%】拓普集团发布更正业绩预告，公司原预计2022年年度净利17.5亿元-18.5亿元，现预计2022年年度净利16.5亿元-17.5亿元，同比增长62.2%-72.03%。2023年2月2日，公司收到美国海关及报关行邮件通知，公司需要补缴总金额约为1.41亿元的豁免关税，其中影响2022年度损益金额约为1.11亿元，影响2023年度损益金额约为0.30亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6936031.d.html</link>
+            <guid>2969348</guid>
+            <pubDate>Fri, 03 Feb 2023 11:28:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本出光兴产出售其在澳大利亚Ensham煤矿股份】日本出光兴产周五表示，已同意将其在澳大利亚Ensham煤矿的85%股权出售给Sungela Pty，预付款为3.4亿澳元。日本第二大炼油商出光兴产在一份声明中表示，该公司还将根据Ensham出售的煤炭价格和数量收取特许权使用费。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3671655.d.html</link>
-            <guid>2969122</guid>
-            <pubDate>Fri, 03 Feb 2023 08:33:46 GMT</pubDate>
+            <title><![CDATA[【挪威失业率创14年新低】挪威的失业率达到14年来的最低水平，表明劳动力市场强劲。挪威劳工和福利管理局周五公布的数据显示，经季节性因素调整后的1月份登记失业率从12月份修正后的1.7%降至1.6%，与7月份的水平相当，为2008年以来的最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6933121.d.html</link>
+            <guid>2969346</guid>
+            <pubDate>Fri, 03 Feb 2023 11:25:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【荣联科技收所关注函：要求说明立案调查对公司非公开发行股票事项的影响】 荣联科技收深交所关注函。公司此前披露，因涉嫌信息披露违法违规，证监会决定对公司立案。深交所要求公司说明非公开发行股票进展情况，并说明立案调查对公司非公开发行股票事项的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3668705.d.html</link>
-            <guid>2969116</guid>
-            <pubDate>Fri, 03 Feb 2023 08:29:59 GMT</pubDate>
+            <title><![CDATA[万科企业：1月合同销售面积167.3万平方米，合同销售金额人民币286.3亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6932935.d.html</link>
+            <guid>2969345</guid>
+            <pubDate>Fri, 03 Feb 2023 11:24:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天津大学为肾结石患者带来福音 发现新型结晶抑制剂 有望用于治疗肾结石】记者3日从天津大学获悉，天津大学结晶中心教授龚俊波团队与休斯敦大学等开展国际合作，成功发现一种新型结晶抑制剂。该抑制剂可有效抑制诱发尿酸盐结石形成的晶体生长，有望为肾结石患者带来福音。据介绍，这种新型抑制剂为尿酸盐结石预防治疗提供了全新思路——患者只需把尿酸浓度控制在特定范围内，就能长效抑制尿酸盐晶体生长，不再需要其他外来治疗药物抑制肾结石的形成。（中新社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3665114.d.html</link>
-            <guid>2969110</guid>
-            <pubDate>Fri, 03 Feb 2023 08:25:48 GMT</pubDate>
+            <title><![CDATA[印度政府：印度1月份煤炭产量达到8996万吨，同比增长12.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6931831.d.html</link>
+            <guid>2969343</guid>
+            <pubDate>Fri, 03 Feb 2023 11:23:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【《美国滥施“长臂管辖”及其危害》报告发布】今天（3日）《美国滥施“长臂管辖”及其危害》报告发布，通过列举相关实例，深入揭露其对国际政治经济秩序和国际法治带来的严重危害。报告分别阐释了美国“长臂管辖”的基本情况、美国“长臂管辖”的实施与扩张以及美国“长臂管辖”的危害。报告指出，美国“长臂管辖”久已有之，其内容和措施随时代发展变化而不断变化，但其本质始终是维护美国霸权、打压外国竞争对手、干涉别国内政甚至颠覆他国政权的霸权工具。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6885991.d.html</link>
-            <guid>2969106</guid>
-            <pubDate>Fri, 03 Feb 2023 08:23:52 GMT</pubDate>
+            <title><![CDATA[【富力地产3笔境内公司债将复牌，本金分7次兑付】2月3日，广州富力地产股份有限公司发布公告称，已向上交所申请其公司债“16富力05”、“18富力08”以及“18富力10”将自2月9日复牌。公告披露了3笔债券的兑付与转让安排情况，其中“16富力05”债项余额约9.5亿元，债券期限原为7年期，目前调整为10.45年期，即到期日为2026年9月16日；“18富力08”债券期限调整为7.79年期；“18富力10”债券期限调整为7.71年期。债券本金则在2025年与2026年共分7笔兑付，2025年3月12日、6月12日、9月12日和12月兑付，2026年则在3月16日、6月16日和9月16日兑付。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6930538.d.html</link>
+            <guid>2969342</guid>
+            <pubDate>Fri, 03 Feb 2023 11:22:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【光洋股份：朱雪英拟减持不超2%】光洋股份公告，朱雪英拟减持不超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3661490.d.html</link>
-            <guid>2969105</guid>
-            <pubDate>Fri, 03 Feb 2023 08:22:28 GMT</pubDate>
+            <title><![CDATA[德国联邦汽车管理局KBA：1月份，特斯拉在德国的新注册数量增加到4241辆，去年同期为419辆。]]></title>
+            <guid>2969340</guid>
+            <pubDate>Fri, 03 Feb 2023 11:16:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日媒：日本规定高超音速飞行等技术专利不予公开】据日本《读卖新闻》2月3日报道，基于去年5月订立的《经济安全保障推进法》，日本政府制定的“专利非公开”相关基本指针草案浮出水面。从安全保障角度出发，规定不予公开的对象示例包括（5倍以上音速）高超音速飞行技术、太空和网络最新技术。今年4月内阁会议将通过这一指针。法案相关规定将在2024年5月前施行。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6882922.d.html</link>
-            <guid>2969103</guid>
-            <pubDate>Fri, 03 Feb 2023 08:20:32 GMT</pubDate>
+            <title><![CDATA[  【德国汽车供应商博世：中国市场是2023年的关键】德国汽车供应商博世(Bosch)周五表示，中国市场是2023取得成功的关键，中国市场占该公司收入的五分之一。该公司公布全年营业利润增长超过15%。首席执行官斯蒂芬·哈通表示，他预计欧洲和美国经济将因利率上升而走弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3702248.d.html</link>
+            <guid>2969339</guid>
+            <pubDate>Fri, 03 Feb 2023 11:16:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【合富中国：1月营业收入同比降26.96%】合富中国公告，因2023年1月存在元旦及春节法定假期，公司2023年1月合并营业收入为人民币8,429.4万元，较去年同期的合并营业收入减少26.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3659244.d.html</link>
-            <guid>2969101</guid>
-            <pubDate>Fri, 03 Feb 2023 08:19:36 GMT</pubDate>
+            <title><![CDATA[【银保监会：拟将人身险公司分五大类进行监管 根据分类结果调整经营业务范围】从业内获悉，日前，银保监会下发《人身保险公司分类监管办法 （征求意见稿）》，向业内征求意见。人身保险公司根据该办法分为Ⅰ类、Ⅱ类、 Ⅲ类、Ⅳ类和Ⅴ类共5个类别。其中Ⅰ类公司最近一次监管评级为1级；Ⅱ类公司最近一次监管评级为2级，Ⅲ类公司最近一次监管评级为3级，Ⅳ类公司最近一次监管评级为4级，Ⅴ类公司最近一次监管评级为5级或S级。人身保险公司分类结果每两年调整一次，监管机构原则上在监管评级确定后30日内完成分类。 （中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6923922.d.html</link>
+            <guid>2969337</guid>
+            <pubDate>Fri, 03 Feb 2023 11:15:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泰林生物：拟设立合资公司 开展细胞技术相关业务】泰林生物2月3日晚间公告，公司拟与王欢、严湘青、王艳红、郁啸、李晓签署《出资协议书》并设立合资公司，开展细胞技术相关业务。合资公司注册资本拟定为2000万元，其中公司出资1100万元，占注册资本的55%。公司董事、高级管理人员夏信群与严湘青为夫妻关系，本次交易构成关联交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6881725.d.html</link>
-            <guid>2969100</guid>
-            <pubDate>Fri, 03 Feb 2023 08:19:05 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委温施：欧洲央行周四的决定是鹰派的，市场的反应出乎委员会的意料。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6922707.d.html</link>
+            <guid>2969336</guid>
+            <pubDate>Fri, 03 Feb 2023 11:13:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【众合科技：公司目前拥有地铁室内智能巡检机器人】众合科技在互动平台表示，公司目前拥有地铁室内智能巡检机器人，该机器人结合物联网理念，通过综合多传感器技术、视觉技术、无线传输、语音识别等前沿科技，总结分析人工巡检的经验和要求，采用完全自主和远程遥控方式巡检，大幅提高作业效率、降低劳动成本。将替代原有的机房人工巡检方式，实现机房的巡检自动化，助推机房无人值守和安全管理，打造物联网时代的现代化机房。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6881073.d.html</link>
-            <guid>2969099</guid>
-            <pubDate>Fri, 03 Feb 2023 08:18:22 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委温施：英国和美国的利率在4%或以上是欧洲央行确定最终利率的参考点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6922543.d.html</link>
+            <guid>2969335</guid>
+            <pubDate>Fri, 03 Feb 2023 11:13:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部：敦促美英澳三国撤销开展核潜艇合作的决定】2月3日，外交部发言人毛宁主持例行记者会。有记者提问，澳大利亚总理阿尔巴尼斯将于3月前往美国华盛顿，或会公布澳大利亚核潜艇项目的提案。中方对此有何评论？毛宁表示，中方已经多次强调，美国、英国、澳大利亚三国决定开展并持续推进核潜艇合作，构成严重的核扩散风险，加剧军备竞赛，破坏地区和平稳定，中方对此严重关切，坚决反对。三国的相关合作，也引发越来越多的国际关切。毛宁强调，我们敦促美英澳三国倾听国际社会的呼声，切实履行核不扩散义务，撤销开展核潜艇合作的决定，以实际行动维护地区与世界的和平与安全。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3657314.d.html</link>
-            <guid>2969097</guid>
-            <pubDate>Fri, 03 Feb 2023 08:17:37 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委温施：如果核心通胀持续，3.5%的终端利率是最低的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6922224.d.html</link>
+            <guid>2969334</guid>
+            <pubDate>Fri, 03 Feb 2023 11:13:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方证券：自营参与碳排放权交易获得中国证监会无异议函】东方证券公告，自营参与碳排放权交易获得中国证监会无异议函。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3656749.d.html</link>
-            <guid>2969095</guid>
-            <pubDate>Fri, 03 Feb 2023 08:17:06 GMT</pubDate>
+            <title><![CDATA[欧洲央行管委温施：5月可能加息25或50个基点；欧洲央行不会在5月份将加息幅度从3月份的50个基点降至0。]]></title>
+            <guid>2969333</guid>
+            <pubDate>Fri, 03 Feb 2023 11:13:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金证股份：股东拟减持不超2.4%】金证股份公告，赵剑和徐岷波拟减持不超2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6879309.d.html</link>
-            <guid>2969093</guid>
-            <pubDate>Fri, 03 Feb 2023 08:16:46 GMT</pubDate>
+            <title><![CDATA[据比亚迪官方微信公众号消息，海洋网1月销售69997辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6920729.d.html</link>
+            <guid>2969332</guid>
+            <pubDate>Fri, 03 Feb 2023 11:11:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【明泰铝业：1月铝板带箔销量同比增16%】明泰铝业公告，1月铝板带箔销量为7.99万吨，同比增16%；铝型材销量为0.08万吨，同比降56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3654467.d.html</link>
-            <guid>2969091</guid>
-            <pubDate>Fri, 03 Feb 2023 08:15:33 GMT</pubDate>
+            <title><![CDATA[  【三特索道：实控人拟变更为武汉东湖新技术开发区管委会 2月6日复牌】三特索道公告，公司控股股东当代城建发拟将其持有的公司14.98%股份，以协议转让的方式转让给高科集团；当代城建发、当代科技及其一致行动人罗德胜将不可撤销地放弃行使其持有公司剩余全部股份的表决权。相关事项完成后，高科集团将成为公司的控股股东，武汉东湖新技术开发区管委会将成为公司实际控制人。公司股票自2月6日开市起复牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6920229.d.html</link>
+            <guid>2969331</guid>
+            <pubDate>Fri, 03 Feb 2023 11:11:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法国前总理菲永或将面临“挪用公款”指控】 据当地媒体报道，法国国家金融检察院已完成对前总理弗朗索瓦·菲永 (François Fillon) 的一项新调查，该调查针对其在2013年至2015年期间聘用作家马埃尔·勒努阿尔（Maël Renouard）担任国民议会助理的具体条件。这可能导致菲永因“挪用公款”而受到审判。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6877142.d.html</link>
-            <guid>2969090</guid>
-            <pubDate>Fri, 03 Feb 2023 08:15:21 GMT</pubDate>
+            <title><![CDATA[  【巴基斯坦总理：“将不得不同意”国际货币基金组织的救助条件】国际货币基金组织代表团3日在伊斯兰堡就65亿美元贷款计划举行谈判，并进行第九次审查。与此同时，巴基斯坦总理夏巴兹·谢里夫在白沙瓦举行的最高委员会会议上发言称，巴基斯坦面临严峻的经济挑战，谈判异常艰难。鉴于国际货币基金组织需要巴基斯坦采取整合措施，夏巴兹·谢里夫表示，要完成国际货币基金组织审查条件难度超乎想象，但是该国别无选择，只能执行这些条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6919937.d.html</link>
+            <guid>2969330</guid>
+            <pubDate>Fri, 03 Feb 2023 11:10:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海思科：实控人之一参与的信托计划减持146.65万股公司股份】海思科公告， 公司控股股东及实际控制人之一王俊民参与的陕国投･易泓16号证券投资集合资金信托计划减持了公司股份146.6568万股，占公司总股本的 0.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6876618.d.html</link>
-            <guid>2969089</guid>
-            <pubDate>Fri, 03 Feb 2023 08:15:08 GMT</pubDate>
+            <title><![CDATA[【机构：房地产市场预期好转，全国找房热度环比上涨、三亚涨幅第一】58同城、安居客发布2023年《1月国民安居指数报告》。报告显示，1月购房者信心指数环比上涨8.0%，经纪人信心指数环比上涨21.1%。新房市场中，重点监测的65城中有24城新房线上均价环比上涨，市场预期好转正逐步形成，全国各线级城市找房热度均有所上涨；二手房市场中，65城中有36城二手房挂牌房价环比上涨，部分城市挂牌房源量上升，迎来供应“小高峰”。三四线重点城市找房热度环比上涨17.8%，其中三亚旅游热度的攀升也带来了楼市热度的大涨。统计显示，三亚在1月找房热度涨幅达65.9%。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3694351.d.html</link>
+            <guid>2969328</guid>
+            <pubDate>Fri, 03 Feb 2023 11:07:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【抚州比亚迪实业公司增资至5亿元，增幅900%】 天眼查App显示，2月2日，抚州比亚迪实业有限公司发生工商变更，公司注册资本由5000万人民币增至5亿人民币，增幅900%。该公司成立于2021年9月，法定代表人为何志奇，经营范围包括道路机动车辆生产、汽车零部件及配件制造、新能源汽车整车销售等，由比亚迪汽车工业有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3646442.d.html</link>
-            <guid>2969084</guid>
-            <pubDate>Fri, 03 Feb 2023 08:09:58 GMT</pubDate>
+            <title><![CDATA[   德意志银行将福特汽车评级下调至卖出，目标价11美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3693471.d.html</link>
+            <guid>2969327</guid>
+            <pubDate>Fri, 03 Feb 2023 11:07:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东威科技：发行GDR并在瑞士证券交易所上市获附条件批准】东威科技公告，发行GDR并在瑞士证券交易所上市获得瑞士证券交易所监管局附条件批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3645468.d.html</link>
-            <guid>2969082</guid>
-            <pubDate>Fri, 03 Feb 2023 08:09:08 GMT</pubDate>
+            <title><![CDATA[以岭药业：拟不超30亿元购买短期理财产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3690931.d.html</link>
+            <guid>2969325</guid>
+            <pubDate>Fri, 03 Feb 2023 11:04:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山高环能投资成立生物能源销售公司 注册资本3000万】天眼查App显示，近日，天津金跃生物能源销售有限公司成立，法定代表人为吴奇峰，注册资本3000万人民币，经营范围包括成品油批发、再生资源销售、进出口代理、非食用植物油销售、销售代理、贸易经纪等。股东信息显示，该公司由山高环能集团股份有限公司、吴奇峰共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3645225.d.html</link>
-            <guid>2969081</guid>
-            <pubDate>Fri, 03 Feb 2023 08:08:55 GMT</pubDate>
+            <title><![CDATA[英国和德国10年期国债收益率差缩小至89个基点，为2022年7月以来的最小差距。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6908949.d.html</link>
+            <guid>2969323</guid>
+            <pubDate>Fri, 03 Feb 2023 10:57:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海创药业：HP501缓释片获得药物临床试验申请受理通知书】海创药业公告，HP501缓释片获得药物临床试验申请受理通知书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6866947.d.html</link>
-            <guid>2969079</guid>
-            <pubDate>Fri, 03 Feb 2023 08:07:43 GMT</pubDate>
+            <title><![CDATA[  【我国天然林保护修复工程取得重大成效】国家林草局今天发布，从1998年试点以来，我国天然林保护修复工程取得重大成效。工程通过严格森林管护、有序停伐减产、培育后备资源、科学开展修复等措施，天然林商业性采伐由停伐减产到全面停止，累计减少天然林采伐3.32亿立方米，天然林保护修复体系和制度体系全面建立。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3685546.d.html</link>
+            <guid>2969321</guid>
+            <pubDate>Fri, 03 Feb 2023 10:57:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【同仁堂：同仁牛黄清心丸被临时性纳入北京市基本医保支付范围】同仁堂2月3日晚间公告，公司的主要产品系列中的品种同仁牛黄清心丸被纳入北京市医保支付范围，同仁牛黄清心丸占公司过往销售额的比重较少，因此公司上述品种被临时纳入北京市医保基金支付范围预计不会对公司的业绩产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6866082.d.html</link>
-            <guid>2969077</guid>
-            <pubDate>Fri, 03 Feb 2023 08:07:12 GMT</pubDate>
+            <title><![CDATA[【我国首个电子元器件和集成电路国际交易中心正式运营】今天（2月3日），我国首个电子元器件和集成电路国际交易中心正式投入运营。这也是我国电子信息产业建设统一大市场、创新市场准入模式背景下的标志性举措。今年交易中心的销售规模有望能实现1000亿元，到“十四五”末，应该是有望能实现5000亿元的规模，五年之后，交易中心在全球应该是有望实现万亿元的交易规模。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3684476.d.html</link>
+            <guid>2969320</guid>
+            <pubDate>Fri, 03 Feb 2023 10:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【交通运输部：1月城市轨道交通客运量环比增长27.0%】据交通运输部消息，2023年1月，31个省（自治区、直辖市）和新疆生产建设兵团共有54个城市开通运营城市轨道交通线路291条，运营里程9609.9公里，实际开行列车296万列次，完成客运量14.7亿人次，进站量8.9亿人次。1月份，客运量环比增加3.1亿人次、增长27.0%，同比减少3.2亿人次、降低17.9%。此外，新增红河哈尼族彝族自治州首次开通运营城市轨道交通。共新增运营里程26公里，其中，新增运营线路1条（红河州滇南中心城市群现代有轨电车示范线），新增运营区段2个（重庆地铁9号线二期和重庆地铁10号线二期）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3679745.d.html</link>
+            <guid>2969316</guid>
+            <pubDate>Fri, 03 Feb 2023 10:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【国家药监局：2023年将全过程加快中药品种的审评审批】国家药监局副局长赵军宁表示，2023年将全链条加强中药质量管理，全过程加快中药品种的审评审批。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3671768.d.html</link>
+            <guid>2969313</guid>
+            <pubDate>Fri, 03 Feb 2023 10:42:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[建业新生活有限公司：为投入更多精力于其他业务，王乾已辞任本公司执行董事，史书山已获委任为本公司执行董事，自2023年2月3日起生效。]]></title>
+            <guid>2969310</guid>
+            <pubDate>Fri, 03 Feb 2023 10:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  捷克央行表示，周四央行委员会讨论的稳定利率方案将使利率在三个季度内保持稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6891346.d.html</link>
+            <guid>2969308</guid>
+            <pubDate>Fri, 03 Feb 2023 10:37:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【DIGITIMES Research：2023年Q1全球NB出货将环比下降18%】据DIGITIMES Research报告指出，2022年第四季全球NB出货（未计可拆卸式机种）环比下降16%，较2021年同期更衰退超过四成。2023年第一季预期品牌渠道库存仍无法回到正常水平下，淡季环比下降程度恐扩大，预计2023年Q1全球NB出货将环比下降18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3667964.d.html</link>
+            <guid>2969307</guid>
+            <pubDate>Fri, 03 Feb 2023 10:36:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【大发地产：1月合同销售2.51亿元 同比降75.17%】大发地产(06111.HK)在港交所发布未经审核经营数据，集团于2023年1月实现累计合同销售金额约为人民币2.51亿元，同比降75.17%；累计合同销售面积为13,033平方米；平均销售价格为每平方米约人民币19,259元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6889886.d.html</link>
+            <guid>2969306</guid>
+            <pubDate>Fri, 03 Feb 2023 10:35:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国央行首席经济学家警告不要在利率上做得太多】英国央行首席经济学家皮尔表示，政策制定者必须防范在利率问题上“做得太多的可能性”，这是30年来最快的紧缩周期可能接近尾声的最新迹象。皮尔表示，在连续第10次加息将基准利率推高4%后，央行在设定借贷成本时需要有一种“禅意式的平衡”。皮尔表示：“重要的是，正如我所说，我们采取了足够多的措施来实现我们的目标，使通胀恢复到目标范围内。但当然，防止采取太多措施的可能性也很重要。”皮尔说：“新的语言反映了这一点，强调了在我们的目标中保持禅意式平衡的必要性。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3662831.d.html</link>
+            <guid>2969305</guid>
+            <pubDate>Fri, 03 Feb 2023 10:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华鼎股份：拟定增募资不超7.5亿元】华鼎股份：拟定增募资不超7.5亿元，扣除发行费用后将全部用于补充公司流动资金和偿还银行借款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6883558.d.html</link>
+            <guid>2969303</guid>
+            <pubDate>Fri, 03 Feb 2023 10:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马来西亚政府表示，2022年债务偿还比率预计将超过收入的15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwp6881613.d.html</link>
+            <guid>2969302</guid>
+            <pubDate>Fri, 03 Feb 2023 10:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【币安通过入股GOPAX交易所重返韩国加密货币市场】Binance Holdings Ltd.收购了陷入困境的韩国加密货币交易所GOPAX多数股权，让这家最大的数字资产交易平台运营商重返两年前退出的市场。币安首席商务官凌一波表示，该公司在GOPAX中持有“有意义的”股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3657525.d.html</link>
+            <guid>2969301</guid>
+            <pubDate>Fri, 03 Feb 2023 10:24:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部等八部门：加快智能有序充电、大功率充电、自动充电、快速换电等新型充换电技术应用 加快“光储充放”一体化试点应用】工工信部等八部门组织开展公共领域车辆全面电动化先行区试点工作。重点任务包括，促进新技术创新应用。加快智能有序充电、大功率充电、自动充电、快速换电等新型充换电技术应用，加快“光储充放”一体化试点应用。探索新能源汽车参与电力现货市场的实施路径，完善储放绿色电力交易机制，加大智慧出行、智能绿色物流体系建设，促进智能网联、车网融合等新技术应用，加快新能源汽车与能源、交通等领域融合发展。]]></title>
+            <guid>2969300</guid>
+            <pubDate>Fri, 03 Feb 2023 10:24:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泰国期望2023年全年接待500万中国游客】泰国《国家报》（The Nation）报道，泰国期望2023年第一季度接待30万中国游客，全年接待人数将达500万。该报指出，在两年的寂静后，曼谷的新唐人街地区呈现复苏，大部分游客是前来泰国度过新年假期并决定延长自己假期的中国公民。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3657199.d.html</link>
+            <guid>2969299</guid>
+            <pubDate>Fri, 03 Feb 2023 10:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部等八部门：支持换电、融资租赁、“车电分离”等商业模式创新】工信部等八部门组织开展公共领域车辆全面电动化先行区试点工作。其中提出，提升车辆电动化水平。科学合理制定新能源汽车推广目标，因地制宜开展多元化场景应用，鼓励在短途运输、城建物流以及矿场等特定场景开展新能源重型货车推广应用，加快老旧车辆报废更新为新能源汽车，加快推进公共领域车辆全面电动化。支持换电、融资租赁、“车电分离”等商业模式创新。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3655938.d.html</link>
+            <guid>2969297</guid>
+            <pubDate>Fri, 03 Feb 2023 10:23:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古巴总理：古巴对快速加入欧亚经济联盟感兴趣】古巴总理曼努埃尔马雷罗周五在欧亚政府间理事会会议上表示，哈瓦那有兴趣加快其加入欧亚经济联盟的进程，有利于扩大与一体化的关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3655041.d.html</link>
+            <guid>2969296</guid>
+            <pubDate>Fri, 03 Feb 2023 10:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部等八部门：鼓励公共领域车辆全面电动化试点城市加大财政支持力度】工信部等八部门组织开展公共领域车辆全面电动化先行区试点工作，健全政策和管理制度。完善政策支撑体系，鼓励试点城市加大财政支持力度，因地制宜研究出台运营补贴、通行路权、用电优惠、低/零碳排放区等支持政策，探索建立适应新技术新模式发展的政策体系。建立健全新能源汽车和基础设施安全运行监测体系，提升安全运行水平。探索制定综合能源服务站、二手车流通等相关标准和技术规范。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyempwr3654721.d.html</link>
+            <guid>2969295</guid>
+            <pubDate>Fri, 03 Feb 2023 10:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【牧原股份：拟与元素驱动签署合作协议】牧原股份公告，子公司河南牧原合成生物技术有限公司拟设立子公司并与元素驱动（杭州）生物科技有限公司签署合作协议，通过依托元素驱动的专业生产技术，大力发展低蛋白日粮技术，推进替代资源研发生产，促进节粮降耗。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr7007387.d.html</link>
+            <guid>2969293</guid>
+            <pubDate>Fri, 03 Feb 2023 10:20:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部等八部门：推动充换电设施纳入市政设施范畴 建设一批集充换电、加油等多位一体的综合能源服务站】工信部等八部门组织开展公共领域车辆全面电动化先行区试点工作，优化中心城区公共充电网络建设布局，加强公路沿线、郊区乡镇充换电基础设施建设和城际快充网络建设。充分考虑公交、出租、物流、邮政快递等充电需求，加强停车场站等专用充换电站建设。推动充换电设施纳入市政设施范畴，推进充电运营平台互联互通，鼓励内部充电桩对外开放。鼓励利用现有场地和设施，建设一批集充换电、加油等多位一体的综合能源服务站。建立形成网络完善、规范有序、循环高效的动力电池回收利用和处理体系。]]></title>
+            <guid>2969292</guid>
+            <pubDate>Fri, 03 Feb 2023 10:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金力泰：收到中国证券监督管理委员会立案告知书】金力泰公告，因公司涉嫌信息披露违法违规，收到中国证券监督管理委员会立案告知书。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr7006895.d.html</link>
+            <guid>2969291</guid>
+            <pubDate>Fri, 03 Feb 2023 10:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商财务顾问业务执业质量评价结果出炉 中信、中金、中信建投、国君、平安等8家获评A类】中国证券业协会3日发布2022年证券公司财务顾问业务执业质量评价结果，去年从事上市公司重大资产重组财务顾问业务并出具独立财务顾问报告的39家证券公司全部参评，最终8家券商获评A类、B类23家、C类8家。这8家A类券商分别是中信证券、中金公司、中信建投证券、国泰君安证券、平安证券、国金证券、东兴证券、中德证券。（财联社）]]></title>
+            <guid>2969290</guid>
+            <pubDate>Fri, 03 Feb 2023 10:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚总理：爱沙尼亚呼吁将北约的国防支出目标提高至2％以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3783435.d.html</link>
+            <guid>2969289</guid>
+            <pubDate>Fri, 03 Feb 2023 10:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：2024年巴黎夏季奥运会法国站火炬传递将从马赛开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr7006042.d.html</link>
+            <guid>2969287</guid>
+            <pubDate>Fri, 03 Feb 2023 10:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【富满微：控股股东收到中国证券监督管理委员会立案告知书和调查通知书】富满微公告，控股股东集晶（香港）有限公司在减持富满微股票过程中，涉嫌违反证券法律法规，中国证监会决定对集晶香港立案调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr7004855.d.html</link>
+            <guid>2969284</guid>
+            <pubDate>Fri, 03 Feb 2023 10:17:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ChatGPT打破TikTok最快突破1亿月活产品记录 仅用时不到3个月达成】据瑞银集团3日的一份报告显示，在ChatGPT推出仅两个月后，它在2023年1月末的月活用户已经突破了1亿，成为史上用户增长速度最快的消费级应用程序。根据Sensor Tower的数据，TikTok达到1亿用户用了9个月，Instagram则花了2年半的时间。该报告援引分析公司Similarweb的数据表明，1月期间，ChatGPT平均每天大约有1300万独立访客，这一数据是2022年12月的两倍之多。 此外，Worldof Engineering整理的一份达到全球1亿用户所用时间排名显示，iTunes达到1亿用户用了6年半、Twitter用了5年、Meta（Facebook）用了4年半、WhatsApp用了3年半。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr7004442.d.html</link>
+            <guid>2969283</guid>
+            <pubDate>Fri, 03 Feb 2023 10:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[工信部等八部门：完善政策支撑体系，鼓励试点城市加大财政支持力度，因地制宜研究出台运营补贴、通行路权、用电优惠、低/零碳排放区等支持政策，探索建立适应新技术新模式发展的政策体系。]]></title>
+            <guid>2969280</guid>
+            <pubDate>Fri, 03 Feb 2023 10:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯石油运输公司：“友谊”石油管道运行正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6999235.d.html</link>
+            <guid>2969279</guid>
+            <pubDate>Fri, 03 Feb 2023 10:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[密尔克卫：GDR在瑞士证券交易所上市获得瑞士证券交易所监管局附条件批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3774586.d.html</link>
+            <guid>2969277</guid>
+            <pubDate>Fri, 03 Feb 2023 10:11:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯将增加外汇售以抵消能源收入下降】因能源收入暴跌，远低于预算中设定的目标，俄罗斯将把其计划到3月初出售的外汇数量增加近两倍。俄罗斯财政部周五表示，将在2月7日至3月6日期间出售1602亿卢布（合23亿美元），这一预算机制旨在使经济免受油价波动的影响。由于俄乌冲突，G7集团对俄罗斯海运石油设定了价格上限，俄罗斯出口的关键混合石油价格出现大幅折扣。据俄罗斯财政部称，到3月6日前，俄罗斯每天将出售相当于89亿卢布的外币。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3771281.d.html</link>
+            <guid>2969276</guid>
+            <pubDate>Fri, 03 Feb 2023 10:08:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所：对*ST未来、*ST泽达、*ST紫晶等风险警示股票进行重点监控】上交所：本周对*ST未来、*ST泽达、*ST紫晶等风险警示股票进行重点监控，对42起加剧市场波动、误导投资者决策、影响交易秩序的异常交易行为及时采取了暂停投资者账户交易等监管措施，对20起拉抬打压、虚假申报等证券异常交易行为采取了书面警示等监管措施，对11起上市公司重大事项等进行专项核查, 向证监会上报涉嫌违法违规案件线索1起。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3770416.d.html</link>
+            <guid>2969275</guid>
+            <pubDate>Fri, 03 Feb 2023 10:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所：稳步推进债券做市业务，扩大做市商群体】下一步，上交所将稳步推进债券做市业务，扩大做市商群体，拓宽做市券种范围，持续完善债券做市支持机制。以此为契机，进一步深入推进债券交易机制改革优化，以持续的产品创新与机制创新不断提高市场效率和流动性水平，进一步激活市场发展动力，持续完善买方市场建设，扎实推动交易所债券市场高质量发展，更好地服务实体经济。（上交所）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3770239.d.html</link>
+            <guid>2969274</guid>
+            <pubDate>Fri, 03 Feb 2023 10:08:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【柬埔寨商业部计划在中国五个城市增设商务中心】据《柬中时报》2月3日报道，柬埔寨商业部计划在中国五个城市设立商务中心，以促进柬埔寨产品对华出口。柬埔寨商业部长班苏萨透露，位于中国成都的柬埔寨商务中心于去年开业。商业部正在筹备，以在长春、哈尔滨、南京、太原和郑州设立商务中心。柬埔寨总商会副主席林兴勋爵认为，柬埔寨在中国设立商务中心有助于推广柬埔寨优质产品，有利于吸引更多中资企业来柬投资。据柬埔寨海关总局统计，去年柬埔寨和中国贸易额达116.8亿美元，其中柬埔寨对中国出口只有12.4亿美元，同比下降17.9%；从中国进口104.4亿美元，同比增长7.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3769398.d.html</link>
+            <guid>2969273</guid>
+            <pubDate>Fri, 03 Feb 2023 10:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江苏省委巡视组原组长陈逸中一审获刑十三年六个月】连云港市中级人民法院公开宣判江苏省委巡视组原组长陈逸中受贿、滥用职权案，对被告人陈逸中以受贿罪判处有期徒刑十二年六个月，并处罚金人民币三百万元，以滥用职权罪判处有期徒刑二年，决定执行有期徒刑十三年六个月，并处罚金人民币三百万元；对陈逸中受贿犯罪所得及孳息予以追缴，上缴国库。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3768955.d.html</link>
+            <guid>2969272</guid>
+            <pubDate>Fri, 03 Feb 2023 10:07:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上交所债券做市业务将正式上线】上交所已完成各项准备工作，债券做市交易业务将于2月6日正式上线。首批做市商包括安信证券、东方证券、国泰君安、国信证券、华泰证券、申万宏源、银河证券、招商证券、中信建投、中信证券、财通证券和国金证券12家证券公司。（上交所）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqt3768616.d.html</link>
+            <guid>2969271</guid>
+            <pubDate>Fri, 03 Feb 2023 10:07:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【佩斯科夫：欧洲对俄石油产品禁运将导致国际能源市场进一步失衡】据央视新闻，当地时间2月3日，俄罗斯总统新闻秘书佩斯科夫表示，克里姆林宫认为欧洲对俄罗斯石油产品的禁运是负面的，这将导致国际能源市场的进一步失衡。但俄罗斯将采取措施，以做好风险对冲来保障俄方利益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6988667.d.html</link>
+            <guid>2969270</guid>
+            <pubDate>Fri, 03 Feb 2023 10:04:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第六届进博会将于2023年11月5日至10日在上海全面线下举办】第六届进博会将于2023年11月5日至10日在上海全面线下举办，目前国家展、虹桥论坛、企业展等各板块筹备工作稳步有序推进，已有500余家企业签约参展，展览面积超过20万平方米。第六届进博会企业商业展将继续设置食品及农产品、汽车、技术装备、消费品、医疗器械及医药保健、服务贸易六大展区；坚持综合性组展、专业化办展，重点打造创新孵化专区，着力优化能源低碳及环保技术、人工智能、农作物种业等专区，积极筹划光学打印专区；深化精准招商，利用大数据实现展客商精准匹配。 (上观)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6988332.d.html</link>
+            <guid>2969269</guid>
+            <pubDate>Fri, 03 Feb 2023 10:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据福建省纪委监委消息，福州市人大常委会副主任李凡涉嫌严重违纪违法，目前正接受福建省纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-03/detail-imyemiqr6988059.d.html</link>
+            <guid>2969268</guid>
+            <pubDate>Fri, 03 Feb 2023 10:04:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
