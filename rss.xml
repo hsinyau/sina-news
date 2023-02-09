@@ -4,11 +4,148 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 09 Feb 2023 18:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 21:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[谷歌收跌4.4%，连续第二个交易日录得大幅下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse3036599.d.html</link>
+            <guid>2978430</guid>
+            <pubDate>Thu, 09 Feb 2023 21:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至发稿，道指成交量报3.29亿股（上一交易日为3.24亿股），纳指成交量报45.1亿股（上一交易日为44.53亿股），标普500指数成交量报23.02亿股（上一交易日为25.6亿股）。]]></title>
+            <guid>2978424</guid>
+            <pubDate>Thu, 09 Feb 2023 21:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保险资管业协会：2022年产品登记规模10507.21亿元，股权投资计划数量规模双增】 中国保险资产管理业协会最新数据显示，2022年，协会共登记债权投资计划、股权投资计划、保险私募基金529只，同比减少5.37%，登记规模10507.21亿元，同比减少6.78%。其中，债权投资计划485只，规模8711.78亿元，数量、规模同比分别减少8.14%、9.90%；股权投资计划23只，规模577.15亿元，数量、规模同比分别增加64.29%、8.76%；保险私募基金21只，规模1218.28亿元，数量、规模同比分别增加23.53%、13.75%。]]></title>
+            <guid>2978421</guid>
+            <pubDate>Thu, 09 Feb 2023 20:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市公司频推股权激励，券商青睐行权业务市场】 在经纪业务开户数量放缓之下，目前已经有不少券商转向看好上市公司股权激励市场，陆续以机构服务模式进行布局，主要部门以经纪业务条线居多。“现在需要稳住经纪业务基本盘。”湘财证券副总裁邱玉强表示，上市公司股权激励业务是券商提供的综合金融服务之一，有利于券商财富管理业务的拓展。据知情人士透露，目前已自主布局相关业务的券商约有二十余家，其中不乏起步较早的头部券商，也有国金证券、湘财证券等中型券商。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6254572.d.html</link>
+            <guid>2978420</guid>
+            <pubDate>Thu, 09 Feb 2023 20:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：将泰森食品(TSN.N)目标价从62美元下调至56美元，评级跑输大市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6253655.d.html</link>
+            <guid>2978419</guid>
+            <pubDate>Thu, 09 Feb 2023 20:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瞄准全面注册制机遇，中小投行积极寻求突围】为迎战全面注册制，不少中小投行已经在主板方面储备不少项目，未来将大力开发大盘优质蓝筹，推荐到主板上市。比如，民生证券投行目前在审主板项目达13家，中泰证券投行主板在审项目也有十余单，且还有不少在辅导企业。国海证券则表示，该公司在沪深主板方面的项目储备主要集中在高端制造、传统行业升级改造+消费、生物技术、互联网及数字化等领域。业内普遍认为，随着注册制在主板落地，提升大企业客户的服务能力也将成为中小投行突围主板IPO业务的落脚点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6253372.d.html</link>
+            <guid>2978418</guid>
+            <pubDate>Thu, 09 Feb 2023 20:53:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加密货币交易平台Kraken称，将终止向美国客户提供链上质押服务。该服务仍将继续向美国以外的客户提供。]]></title>
+            <guid>2978417</guid>
+            <pubDate>Thu, 09 Feb 2023 20:53:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上市公司积极出海，外贸业务活力迸发】近日调研广东、山东、河南等地的多家上市公司发现，拓展海外业务的迫切感、力争“开门红”，成为这些公司节后工作的主基调。随着多个行业迎来复苏，相关公司的海外订单正源源不断涌来，不少企业赶订单忙得不亦乐乎，也有企业筹划新的海外扩张。今年，稳外贸成为多地经济发展的关键词，各地的扶持政策也为上市公司外贸拓展提供了助力。与此同时，面对新形势下的国际竞争，上市公司更为重视修炼“内功”，提升自身综合竞争力，为长远发展打牢基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6251387.d.html</link>
+            <guid>2978416</guid>
+            <pubDate>Thu, 09 Feb 2023 20:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会：加密交易所Kraken将支付3000万美元的追缴、预判利息和民事罚款。]]></title>
+            <guid>2978412</guid>
+            <pubDate>Thu, 09 Feb 2023 20:25:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国证交会指控加密交易所Kraken的押注违反了规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6236760.d.html</link>
+            <guid>2978411</guid>
+            <pubDate>Thu, 09 Feb 2023 20:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软(MSFT.O)旗下线软件源代码托管服务平台GitHub拟裁员300人，其余员工线上办公。]]></title>
+            <guid>2978408</guid>
+            <pubDate>Thu, 09 Feb 2023 20:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北交所24家公司披露去年业绩预告，16家预喜7家净利或超亿元】截至2月9日，北交所有24家上市公司披露2022年业绩预告，其中16家公司业绩预喜。其中，包括贝特瑞、硅烷科技、吉林碳谷等在内的多家新材料公司业绩表现出色，贝特瑞以净利润23.17亿元拨得头筹。此外，截至2月9日，北交所上市公司数量达169家，总市值2391亿元，其中国家级专精特新“小巨人”有65家，省级专精特新“小巨人”15家。中国人民大学中国资本市场研究院联席院长赵锡军表示，北交所定位于服务专精特新等创新型企业融资发展，成立以来，其挂牌注册企业不断增加，融资交易功能也不断强化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2991962.d.html</link>
+            <guid>2978406</guid>
+            <pubDate>Thu, 09 Feb 2023 19:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电池级碳酸锂价格开年跌超10%，专家称无需担忧产能过剩】上海钢联数据显示，2月9日电池级碳酸锂和工业级碳酸锂均价分别报45.6万元/吨、42.55万元/吨，2023年以来分别累计下跌11.88%和12.72%。中国银行研究院研究员叶银丹认为，从供给端来看，行业下游的扩产通常较为顺利、周期较短，而上游资源开发常受地域限制、天气变化、环保要求、政策约束、储量规模、开采难度、基建情况等多种因素影响，扩产周期较长，对应的风险也更大，且考虑到产能爬坡需要时间，预计今年上半年仍将维持供需紧平衡，下半年可能供给较为宽松，并不需要担忧碳酸锂产能过剩问题。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6214637.d.html</link>
+            <guid>2978405</guid>
+            <pubDate>Thu, 09 Feb 2023 19:50:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开年A股46家公司增发落地，募资同比增长152.89%】 据Wind资讯数据梳理，截至2月9日，开年以来A股已有54家上市公司发布定增预案（含配套募资），而去年同期仅有18家上市公司发布定增预案。从行业来看，先进制造和新能源领域融资需求旺盛。此外，今年定增项目融资金额也大幅增长。Wind资讯数据显示，截至2月9日，开年以来有46家公司增发上市，同比增长24.32%，募资合计1362.48亿元，同比增长152.89%，受访专家表示，预计今年定增市场融资规模将稳步增长，维持较高水平，从结构上来看，仍以战略性新兴产业为主。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2991407.d.html</link>
+            <guid>2978404</guid>
+            <pubDate>Thu, 09 Feb 2023 19:50:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行计划向土耳其提供17.8亿美元援助款，用于灾后重建。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2978358.d.html</link>
+            <guid>2978401</guid>
+            <pubDate>Thu, 09 Feb 2023 19:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雅虎将裁员20%以上 逾1600人将受到影响】雅虎首席执行官Jim Lanzone称，Apollo旗下的雅虎计划裁员20%以上，其中包括逾一半的广告技术员工，总计超过1600人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2976761.d.html</link>
+            <guid>2978400</guid>
+            <pubDate>Thu, 09 Feb 2023 19:27:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报头版评论：无需过虑资金面从紧】 今年以来，尽管资金利率中枢上移，但仍未偏离围绕政策利率波动的准线，其结果更多是在央行保持偏宽松货币环境下市场融资需求回暖的随行就市；相反，如果一直宽货币却不见资金利率丝毫抬升，反而说明逆周期调控政策迟迟不见效。至于随着融资需求转暖，市场担心央行会很快收紧流动性，这仍是多虑。经济复苏动能离不开货币政策持续有力地保驾护航，央行对今年货币政策取向的基调是更为积极且精准支持实体经济发展。正如此前央行副行长刘国强所言，今年货币政策要坚持总量要够，结构要准，力度不能小于去年，需要的话还能加力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxsa6199280.d.html</link>
+            <guid>2978399</guid>
+            <pubDate>Thu, 09 Feb 2023 19:26:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券时报：机票价格变动 让市场来决定】近两天，一条航司“限折令”广为流传，称“一些优势航线最低票价不得低于四折”。目前，尚未有国有航司官方证实该消息，民航局相关人士也发声，称未对航司提出过相关要求。“限折令”尚待明确，但国内航线票价抬升趋势显现，如在最繁忙的京沪航线，各大航司最低价贴着四折票在卖，超低价产品已难觅踪迹。一时间市场也生出疑问，机票价格究竟谁说了算？民航市场是一个充分竞争的市场，机票价格亦充分遵循市场化机制，对航司来说，调节运力，优化定价策略更有意义。对于机票价格，要更相信市场自身的调节能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2971919.d.html</link>
+            <guid>2978396</guid>
+            <pubDate>Thu, 09 Feb 2023 19:21:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国科学家实现极化激元晶体管】纳米尺度的光电融合是未来高性能信息器件的重要发展路线。如何在纳米到原子尺度对光精准操控是其中最关键的科学问题。近期国家纳米科学中心的戴庆研究团队与合作者在纳米尺度光电互联领域研究取得了新突破。相关研究成果北京时间2月10日在国际学术期刊《科学》在线发表。在这项研究中，科研人员构筑了石墨烯和氧化钼范德华材料的异质结构，实现了一种新型的电调控光子晶体管，并且进一步展示了该晶体管用于调控正负折射转换功能。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2971645.d.html</link>
+            <guid>2978394</guid>
+            <pubDate>Thu, 09 Feb 2023 19:21:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国抵押贷款利率五周来首次上涨】 美国房地美周四在一份声明中表示，30年期固定利率贷款的平均利率为6.12％，高于之前一周的6.09%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfcxse2970058.d.html</link>
+            <guid>2978392</guid>
+            <pubDate>Thu, 09 Feb 2023 19:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地预算报告圈定重点支持领域：助企纾困、稳投资促消费、发展数字经济】近日，多地发布2022年预算执行情况和2023年预算报告。梳理发现，多地在预算报告中提出，2023年积极的财政政策要加力提效，保持必要的支出强度，并提出了2023年财政重点支持领域，包括助企纾困、稳投资促消费、发展数字经济等，强化精准施策，全力促经济稳增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctkh3072050.d.html</link>
+            <guid>2978388</guid>
+            <pubDate>Thu, 09 Feb 2023 18:28:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报评论：换把尺子测量上市公司价值】证券日报头版文章称，在上市公司年报的三大报表中，如果说资产负债表是企业的“底子”，利润表是企业的“面子”，那么，现金流量表则是企业的“日子”。企业要实实在在过好日子，就需要长期保持充足的自由现金流量，持续为股东创造更多价值，这才是丈量上市公司价值最合适的尺子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-02-10/detail-imyfctke6294673.d.html</link>
+            <guid>2978387</guid>
+            <pubDate>Thu, 09 Feb 2023 18:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：雅虎缩减广告业务，将裁员20%以上。裁员将影响雅虎广告技术部门50%以上的员工，预计超过1600人。]]></title>
+            <guid>2978386</guid>
+            <pubDate>Thu, 09 Feb 2023 18:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D.A. Davidson：将Affirm Holdings(AFRM.O)的目标价从24美元下调至20美元。]]></title>
+            <guid>2978385</guid>
+            <pubDate>Thu, 09 Feb 2023 18:17:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国交通部发言人表示，该机构正在调查伊隆·马斯克的脑机接口公司Neuralink是否存在危险病原体的潜在非法转移。]]></title>
             <guid>2978379</guid>
@@ -164,205 +301,6 @@
             <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6301061.d.html</link>
             <guid>2978332</guid>
             <pubDate>Thu, 09 Feb 2023 15:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：2023年俄罗斯经济可能略有增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3077078.d.html</link>
-            <guid>2978330</guid>
-            <pubDate>Thu, 09 Feb 2023 15:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国杜克能源公司计划在2023年底完成可再生能源业务的出售。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6299702.d.html</link>
-            <guid>2978329</guid>
-            <pubDate>Thu, 09 Feb 2023 15:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储巴尔金：美联储在抗击通胀问题上需要“坚持到底”】里士满联储主席巴尔金(Thomas Barkin)表示，至关重要的是美联储继续加息以确保让通胀率回到2%的目标水平。“鉴于需求放缓但依然强韧、劳动力市场健康、还有不幸的是俄乌战争带来额外的持续冲击，通胀依然高企应当不会让人意外，尽管通胀峰值可能已过，”巴尔金在里士满联储网站刊登的在线采访中说。 “当然，这就是我们坚持到底的理由。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6297862.d.html</link>
-            <guid>2978328</guid>
-            <pubDate>Thu, 09 Feb 2023 15:43:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海地铁11号线积水区段积水已基本排尽 运营方将连夜对设施设备进行检查测试】据上海发布，目前，11号线积水区段积水已基本排尽，接下来，运营方将对相关列车、隧道区间信号等设施设备进行检查测试，确保明日11号线正常运营。申通地铁集团发布11号线相关情况说明：经初步排查，今晚11号线区段积水系徐家汇站外工地内管道破裂，大量水流通过风井涌入轨行区影响正常运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3074759.d.html</link>
-            <guid>2978327</guid>
-            <pubDate>Thu, 09 Feb 2023 15:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【麦格理：上调百胜中国(09987.HK)目标价至345港元 评级跑输大市】麦格理发表研究报告指，百胜中国第四季同店销售录按年下跌4%，当中KFC及Pizza Hut的同店销售分别跌3%和8%，另外，由于较高的劳动生产率及成本下降，餐厅利润率上升2.9个百分点。该行表示，集团第四季业绩逊于预期，虽然公司作出成本结构优化和提升效率，惟市场对重新开放和经营杠杆的乐观情绪已经反映在股价中。该行分别下调集团2023及24年的净利润预测3.8%和4.6%，以反映去年第四季的业绩，维持其跑输大市评级，目标价则由298港元上调至345港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6296256.d.html</link>
-            <guid>2978326</guid>
-            <pubDate>Thu, 09 Feb 2023 15:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[叙利亚政府控制地区地震死亡人数升至1347人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3072316.d.html</link>
-            <guid>2978325</guid>
-            <pubDate>Thu, 09 Feb 2023 15:38:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴基斯坦与国际货币基金组织关于救助计划审查的所有事项都已解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3072251.d.html</link>
-            <guid>2978324</guid>
-            <pubDate>Thu, 09 Feb 2023 15:38:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国亿万富翁投资人Jim Ratcliffe正与高盛结盟，来为收购曼联俱乐部的行动提供资金援助。]]></title>
-            <guid>2978323</guid>
-            <pubDate>Thu, 09 Feb 2023 15:38:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将Robinhood(HOOD.O)目标价从9美元上调至11美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3070506.d.html</link>
-            <guid>2978322</guid>
-            <pubDate>Thu, 09 Feb 2023 15:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：土耳其地震死亡人数升至16546人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6289234.d.html</link>
-            <guid>2978321</guid>
-            <pubDate>Thu, 09 Feb 2023 15:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至2月3日当周EIA天然气库存录得-2170亿立方英尺，为2022年12月30日当周以来最大降幅。]]></title>
-            <guid>2978320</guid>
-            <pubDate>Thu, 09 Feb 2023 15:30:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至2月3日当周EIA天然气库存 -2170亿立方英尺，预期-1950亿立方英尺，前值-1510亿立方英尺。]]></title>
-            <guid>2978316</guid>
-            <pubDate>Thu, 09 Feb 2023 15:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将埃克森美孚(XOM.N)目标价从119美元上调至120美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6284868.d.html</link>
-            <guid>2978315</guid>
-            <pubDate>Thu, 09 Feb 2023 15:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将Uber(UBER.N)目标价从40美元上调至42美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6284774.d.html</link>
-            <guid>2978314</guid>
-            <pubDate>Thu, 09 Feb 2023 15:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其议会通过决议 在受灾10省实施3个月国家紧急状态】为加快地震灾区救援工作，土耳其议会于当地时间2月9日表决通过一项决议，在该国遭受地震灾害的10个省份实施为期3个月的国家紧急状态。此前，2月7日，土耳其总统埃尔多安宣布受灾的10个省份实施为期3个月的国家紧急状态。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3058975.d.html</link>
-            <guid>2978313</guid>
-            <pubDate>Thu, 09 Feb 2023 15:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国食品巨头家乐氏（K）：今年欧洲消费者面临的压力超过世界其他地区。但公司全球业务的瓶颈与供应短缺问题都将在年内得到改善。]]></title>
-            <guid>2978312</guid>
-            <pubDate>Thu, 09 Feb 2023 15:22:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艾伯维(ABBV.N)涨5.6%，第四季度调整后每股收益同比增长17%至3.6美元，好于市场预期的3.56美元。]]></title>
-            <guid>2978310</guid>
-            <pubDate>Thu, 09 Feb 2023 15:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【时隔7年 迪士尼宣布将制作《疯狂动物城2》】在迪士尼最新的财报会议上，迪士尼CEO鲍勃·艾格最新宣布《疯狂动物城》将拍续集。这部动画电影于2016年推出，大获成功，拿下10.255亿美元全球票房，目前还未出正式的后续电影，去年推出了衍生短剧《疯狂动物城+》。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6278556.d.html</link>
-            <guid>2978309</guid>
-            <pubDate>Thu, 09 Feb 2023 15:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：康卡斯特(CMCSA.O)发行10亿美元绿色债券为清洁能源和基础设施项目供资。]]></title>
-            <guid>2978308</guid>
-            <pubDate>Thu, 09 Feb 2023 15:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞信在发出2023年的亏损警报后，跌幅扩大至14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6274174.d.html</link>
-            <guid>2978306</guid>
-            <pubDate>Thu, 09 Feb 2023 15:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希尔顿酒店集团（HI）CEO：酒店客房预订率已在2022年四季度恢复到了2019年的水平，未来数年间公司将恢复至每年6-7%的业务增速。]]></title>
-            <guid>2978305</guid>
-            <pubDate>Thu, 09 Feb 2023 15:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：上调百胜中国(09987.HK)目标价至557港元 评级跑赢大市】瑞信发表报告指，百胜中国去年第四季收入按年下跌9%至20.88亿美元，经调整纯利则为5200万美元，撇除以市值计价投资的损益为按年增长137%。虽然收入较该行预期疲弱，但盈利表现符合预期，主要受到具韧性的毛利表现支持。该行表示，集团去年第四季业绩强韧，加上今年初至今销售复甦有上升趋势，农历新年期间的同店销售按年增长中单位数，为其未来门店扩张及经营杠杆带来毛利率改善注入信心。瑞信上调百胜中国港股目标价，由520港元升至557港元，评级维持跑赢大市，并预期集团今明两年同店销售增长13%及3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3048995.d.html</link>
-            <guid>2978304</guid>
-            <pubDate>Thu, 09 Feb 2023 15:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将Uber(UBER.N)目标价从45美元上调至55美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6271739.d.html</link>
-            <guid>2978303</guid>
-            <pubDate>Thu, 09 Feb 2023 15:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rosenblatt：将迪士尼(DIS.N)目标价从120美元上调至129美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6270828.d.html</link>
-            <guid>2978302</guid>
-            <pubDate>Thu, 09 Feb 2023 15:10:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艾伯维(ABBV.N)CEO：有能力进行更大规模的并购活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6270722.d.html</link>
-            <guid>2978301</guid>
-            <pubDate>Thu, 09 Feb 2023 15:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rosenblatt：将福克斯(FOXA.O)目标价从31美元上调至35美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpak3047773.d.html</link>
-            <guid>2978300</guid>
-            <pubDate>Thu, 09 Feb 2023 15:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉曼服饰：一直在进行主播团队建设，同时也会继续增加与直播达人合作】公司一直在进行主播团队建设，同时也会继续增加与直播达人的合作。一方面电商的发展有着平台流量增长红利和国内童装行业增长红利的影响，另一方面公司也有自己的发展战略。随着国内童装市场从高速发展走向成熟，以及市场的细分程度加大，品牌面对的顾客群体会越来越明确，单一品牌能够触及的市场份额越来越有限，多品牌、多价位、多风格的经营模式可以有效帮助公司大力开拓市场空间、减轻竞争压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6263789.d.html</link>
-            <guid>2978296</guid>
-            <pubDate>Thu, 09 Feb 2023 15:01:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家电投落地全国首单碳配额财产权信托】国家电投官微消息，2月8日，国家电投落地全国首单以碳配额为底层资产的财产权信托产品受让融资。本次融资规模1000万元，期限180天。本次财产权信托创新通过将碳配额作为底层资产，形成财产权信托，并通过转让碳配额财产权信托受益权，成功为重庆公司下属合川发电获得所需资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6263546.d.html</link>
-            <guid>2978295</guid>
-            <pubDate>Thu, 09 Feb 2023 15:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国秘书长古特雷斯：联合国需要进入叙利亚西北部，现在是时候探索所有途径，让援助和救援人员进入所有受影响地区。]]></title>
-            <guid>2978292</guid>
-            <pubDate>Thu, 09 Feb 2023 15:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trian Partners联合创始人Peltz表示，迪斯尼的代理权之争已经结束。]]></title>
-            <guid>2978291</guid>
-            <pubDate>Thu, 09 Feb 2023 14:59:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯天然气工业股份公司（Gazprom）有意收购俄罗斯电信运营商MegaFon。]]></title>
-            <guid>2978288</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【禾赛科技在纳斯达克成功上市成为“中国激光雷达第一股”】禾赛科技正式在美国纳斯达克挂牌上市，股票代码为“HSAI”，发行价为每ADS（美国存托股份）19.00美元，公开发行1000万股ADS，募资总额约为1.9亿美元。截至目前，禾赛科技累计交付超10万台激光雷达。此次禾赛科技成功上市，也是过去18个月以来，中国公司赴美上市的最大IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6256727.d.html</link>
-            <guid>2978287</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[热门中概股普遍走高，Boss直聘涨8%，爱奇艺涨7.5%，新东方涨6%，阿里巴巴、理想汽车、哔哩哔哩、小鹏汽车均涨超4%。]]></title>
-            <guid>2978286</guid>
-            <pubDate>Thu, 09 Feb 2023 14:50:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在现货市场交易中，巴西雷亚尔兑美元下跌1.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6253764.d.html</link>
-            <guid>2978285</guid>
-            <pubDate>Thu, 09 Feb 2023 14:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【初请失业金人数高于预期，美债收益率下跌】由于投资者对经济衰退的担忧和美联储的鹰派言论，美国国债延续了涨势。10年期国债收益率为3.589%，2年期国债收益率为4.434%。上周初请失业金人数略高于预期，可能会抑制收益率。美国劳工部报告称，初请失业金人数为19.6万人，高于前一周的18.3万人，亦高于普遍预期的19万人。在此之前，美联储官员周三重申，利率可能会在更长时间内保持在较高水平。下一个关键数据，美国1月份CPI将于下周二公布。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-02-09/detail-imyfcpah6251267.d.html</link>
-            <guid>2978284</guid>
-            <pubDate>Thu, 09 Feb 2023 14:43:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
