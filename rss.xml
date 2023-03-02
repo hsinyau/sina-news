@@ -4,11 +4,161 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 02 Mar 2023 18:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 21:05:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silvergate收跌58%，创该公司美国IPO以来最大单日跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4471884.d.html</link>
+            <guid>3008659</guid>
+            <pubDate>Thu, 02 Mar 2023 21:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多位议员再度提案永久使用夏令时】以佛罗里达州共和党参议员鲁比奥为首的美国国会两党议员再度提议在美国全境永久使用夏令时间，以避免每年春秋季两次调整时间带来的不便。此前，国会参议院于2022年通过了这一法案，但未能在众议院闯关成功。美国2023年夏令时间将于3月12日启用，各地时间将提前一小时，如果国会通过永久夏令时法案，这也将成为最后一次时间调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprez7689128.d.html</link>
+            <guid>3008657</guid>
+            <pubDate>Thu, 02 Mar 2023 20:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Piper Sandler：将Zoom(ZM.O)目标价从75美元上调至78美元 维持中性评级】Piper Sandler分析师James Fish将Zoom的目标价从75美元上调至78美元，并对该股维持中性评级。该分析师在一份研究报告中告诉投资者，第四季度的销售业绩略高于计划，因为Zoom继续在在线客户群中找到一些稳定性，Zoom Phone和Zoom Contact Center等关键产品领域继续看到强劲的应用。分析师表示，尽管看空者将指出，领先指标将继续减速，2024财年的收入增长仅为1%，但Zoom 2024年的利润率仍高于预期，甚至对宣布的裁员进行了调整。]]></title>
+            <guid>3008655</guid>
+            <pubDate>Thu, 02 Mar 2023 20:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12名美国参议员重新提出将夏令时永久化的法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4453857.d.html</link>
+            <guid>3008651</guid>
+            <pubDate>Thu, 02 Mar 2023 20:26:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克脑机接口安全隐患成绊脚石 马斯克脑机接口人体试验申请一年前就被拒】由马斯克投资的美国神经科技和脑机接口公司Neuralink的人体试验申请，已经因为安全问题被美国食品药品管理局（FDA）拒绝了。尽管在被FDA拒绝一年后，公司仍在努力解决FDA提出担忧的问题，但其内部员工怀疑，能否迅速解决这些问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4451615.d.html</link>
+            <guid>3008650</guid>
+            <pubDate>Thu, 02 Mar 2023 20:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对冲基金经理Dan Loeb被动持股芯片公司AMD】Dan Loeb管理的对冲基金Third Point被动持股芯片公司AMD。该消息人士称，这位对冲基金经理是在AMD股价陷入困境时押注的。在过去12个月里，AMD的股价表现弱于该行业的其他公司，这段时间费城半导体指数下跌14%，AMD的股价下跌超过30%。不过今年以来该公司股价出现反弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprfc4451068.d.html</link>
+            <guid>3008649</guid>
+            <pubDate>Thu, 02 Mar 2023 20:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国家运输安全委员会：正在检查“毒火车”脱轨车厢使用的铝防护罩】美国国家运输安全委员会当地时间3月2日表示，正在检查俄亥俄州东巴勒斯坦城“毒火车”脱轨事故中三节脱轨车厢上使用的铝防护罩。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiprez7672933.d.html</link>
+            <guid>3008648</guid>
+            <pubDate>Thu, 02 Mar 2023 20:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：预计近期内不会与俄罗斯进行更正式的高层对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4566603.d.html</link>
+            <guid>3008644</guid>
+            <pubDate>Thu, 02 Mar 2023 19:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【分析师：美国抵押贷款利率可能再次达到7%的峰值】房地美表示，美国30年期固定抵押贷款的平均利率上升至6.65%，高于上周的6.5%，为连续第四周上升。房地美首席经济学家Sam Khater表示，既然贷款利率在上升，人们的房贷负担能力受到打击，潜在买家很难采取行动，尤其是对于重复购房者来说。Realtor的高级经济学家George Ratiu表示，虽然抵押贷款利率在1月份有所下降，让许多买家的负担能力可能有所改善，但现在它又在回升，甚至可能在未来几个月再次达到7%的峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4563074.d.html</link>
+            <guid>3008643</guid>
+            <pubDate>Thu, 02 Mar 2023 19:55:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【债务上限看不到取消迹象，美国财政部削减国库券发行规模】美国财政部削减了3个月期限的国库券招标规模，计划在下周一发行570亿美元的3个月期国库券，比上一次发行同期限国库券的规模减少了30亿美元，此后还有可能进一步削减，因为拜登政府正努力保持在法定债务上限之下的借款能力。由于当前没有迹象显示国会将在短期内取消债务上限，美国财政部正在采取各种措施避免突破法定债务上限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4546437.d.html</link>
+            <guid>3008635</guid>
+            <pubDate>Thu, 02 Mar 2023 19:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报评论：货币投放要确保“好钢用在刀刃上”】央行最新发布的《2022年第四季度中国货币政策执行报告》再次强调，“稳健的货币政策要精准有力”。“精准有力”的一个重要内涵，就是坚持不搞“大水漫灌”。精准滴灌重点领域和薄弱环节，支持稳经济一揽子政策和接续措施落地见效，必须充分发挥货币政策工具特别是结构性货币政策工具的精准导向作用。从过往情况看，通过结构性货币政策工具的精准滴灌、杠杆撬动，科创、小微等诸多类型企业获得了更充足的资金支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7769276.d.html</link>
+            <guid>3008634</guid>
+            <pubDate>Thu, 02 Mar 2023 19:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗将裁员数百人 影响到其投资银行及抵押贷款业务部门】花旗集团将在全公司范围内裁员数百人，其中包括投资银行部门。该行运营和技术部门以及美国抵押贷款承销部门的员工也受到了这轮裁员的影响。此次裁员人数不到花旗24万员工总数的1%。据悉，此次例行裁员是花旗集团正常业务规划的一部分。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7762166.d.html</link>
+            <guid>3008630</guid>
+            <pubDate>Thu, 02 Mar 2023 19:17:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【布宜诺斯艾利斯谷物交易所：可能下调大豆和玉米产量预期】阿根廷布宜诺斯艾利斯谷物交易所称，预计阿根廷当前种植季大豆产量为3350万吨，与之前预期持平；预计玉米产量为4100万吨，同样与之前预期持平；不排除大豆产量预期此后有再度被下调的可能性，此外玉米产量预期也可能面临下调。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4538385.d.html</link>
+            <guid>3008629</guid>
+            <pubDate>Thu, 02 Mar 2023 19:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[蒙特利尔：将Splunk(SPLK.O)目标价从100美元上调至113美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7758010.d.html</link>
+            <guid>3008626</guid>
+            <pubDate>Thu, 02 Mar 2023 19:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳洲航空计划在未来十年间新增8500名员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7756749.d.html</link>
+            <guid>3008625</guid>
+            <pubDate>Thu, 02 Mar 2023 19:09:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团将裁员数百人，影响到其投资银行及抵押贷款业务部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7749687.d.html</link>
+            <guid>3008621</guid>
+            <pubDate>Thu, 02 Mar 2023 18:57:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维权对冲基金的经理Dan Loeb建仓持有芯片股AMD。AMD股价短线上扬大约0.80美元，至78.30美元一线，使得日内整体跌幅从1.0%收窄，并转而上涨超0.1%。]]></title>
+            <guid>3008619</guid>
+            <pubDate>Thu, 02 Mar 2023 18:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济学家：预计今年中国央行流动性将继续保持整体平稳】民生银行首席经济学家温彬表示，预计今年流动性将继续保持整体平稳。“目前经济正逐步回稳向好，但基础尚不稳固。从外部看，全球经济增速放缓导致出口需求减弱；从内部看，居民消费和房地产回升的力度还需进一步观察，需要流动性稳定和宽信用支持。同时，美联储加息还在延续，国内通胀压力仍需警惕，货币政策和流动性也不可能过于宽松。”温彬表示，预计央行将继续根据各时点的资金面和利率变化，通过逆回购、MLF、PSL投放和再贷款工具等，灵活、精准地进行精细化调控，满足短期和中长期流动性供需平衡，强化定向和结构性支持，以适宜的流动性巩固经济回稳向上态势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7742227.d.html</link>
+            <guid>3008616</guid>
+            <pubDate>Thu, 02 Mar 2023 18:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业内：预计2023年对多孩家庭或人才类住房需求的支持力度将加大】近期，安徽合肥、湖南武冈、河南漯河、江苏宿迁和扬州等多地出台的多项购房支持政策中，均提出多孩家庭或人才购房优惠政策。中指研究院市场研究总监陈文静认为，将住房政策与生育、人才政策结合是未来的重要方向。尽管2022年多地结合生育、人才等政策出台了激励措施，但政策力度相对有限，预计2023年对这类住房需求的支持力度将加大，尤其是在多孩家庭支持方面，后续相关政策（如多孩家庭增加购房套数、降低首付比例、提升公积金贷款额度等）有望在更多重点城市推广。]]></title>
+            <guid>3008614</guid>
+            <pubDate>Thu, 02 Mar 2023 18:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内首现科创板企业“摘U”，还有8家符合条件】日前，科创板上市公司上海谊众发布“首次实现盈利暨取消股票简称标识U”的公告。公告称，由于公司经审计后财务报告符合“上市时未盈利公司首次实现盈利”的情形，上海谊众A股股票于3月2日取消特别标识U。该公司也由此成为今年首家“摘U”的科创板企业。Wind数据显示，截至3月2日发稿，除上海谊众外，科创板共有37家上市公司股票简称中仍“含U”。其中，已披露业绩快报的拓荆科技、沪硅产业、艾力斯、普源精电、格灵深瞳、唯捷创芯、芯原股份、安路科技8家上市时未盈利企业，预计2022年度扣非前后净利润均为正值，符合“摘U”条件。部分公司不仅在2022年首次实现盈利，其业绩规模和业绩增幅同样表现亮眼。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7733440.d.html</link>
+            <guid>3008603</guid>
+            <pubDate>Thu, 02 Mar 2023 18:28:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：欧盟委员会主席冯德莱恩将于下周访问加拿大和美国。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxc7730910.d.html</link>
+            <guid>3008602</guid>
+            <pubDate>Thu, 02 Mar 2023 18:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Silvergate质疑自身持续经营能力后，主要合作伙伴纷纷切断与其业务往来】加密货币交易银行Silvergate在周三发布的一份报告中称，亏损可能会使运营资金不足，其正在评估自身持续经营的能力。报告发布后，该公司的投资者和商业伙伴纷纷切断与其业务往来，加密货币交易所Coinbase、加密货币银行Galaxy Digital和加密公司Paxos决定停止接受或启动通过Silvergate的支付。此外，加密货币交易平台Crypto.com、Bitstamp以及加密货币公司Gemini随后也宣布暂停使用Silvergate的存款或转账服务。Silvergate股价暴跌逾50%，创上市以来新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4506061.d.html</link>
+            <guid>3008601</guid>
+            <pubDate>Thu, 02 Mar 2023 18:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国空管机构：受罢工影响，法国各大机场在3月7-8日两天将减少20-30%的航班数量。]]></title>
+            <guid>3008600</guid>
+            <pubDate>Thu, 02 Mar 2023 18:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：03月03日02时04分在瓦努阿图群岛附近（南纬15.55度，东经166.50度）发生6.4级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3008598</guid>
+            <pubDate>Thu, 02 Mar 2023 18:17:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷政府公布全国大范围停电事故原因】阿根廷能源国务秘书处当地时间3月2日发表声明称，经初步调查，当地时间1日下午阿根廷国内大范围停电发生的主要原因，是一条途径布宜诺斯艾利斯省的500千伏输电线被农田野火烧毁，造成输电中断。同时也引致部分发电厂设备保护系统的自启动，这使得国家电网输电量瞬时减少1万兆瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyipkxf4502769.d.html</link>
+            <guid>3008596</guid>
+            <pubDate>Thu, 02 Mar 2023 18:14:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美司法部：特朗普应为国会山暴乱事件承担责任】美国司法部当地时间3月2日表示，前总统特朗普应当为2021年1月6日发生的国会山暴乱事件承担责任。司法部民事部门的律师表示：“就公众关心的问题发表演讲是总统的一项传统职能，但传统的功能是公共传播，它不包括煽动迫在眉睫的私人暴力。”（央视新闻）]]></title>
+            <guid>3008594</guid>
+            <pubDate>Thu, 02 Mar 2023 18:12:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加密货币交易平台Kraken：正在调查来自客户的报告，这些客户在连接网站和API，以及使用移动应用程序时遇到了困难。]]></title>
             <guid>3008593</guid>
@@ -120,289 +270,6 @@
             <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7807111.d.html</link>
             <guid>3008570</guid>
             <pubDate>Thu, 02 Mar 2023 17:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利：将Rivian的目标价从28美元下调至26美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7804953.d.html</link>
-            <guid>3008567</guid>
-            <pubDate>Thu, 02 Mar 2023 16:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车计划在3月13日重启F-150 Lightning纯电动皮卡的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7804871.d.html</link>
-            <guid>3008566</guid>
-            <pubDate>Thu, 02 Mar 2023 16:59:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：03月03日00时48分在台湾宜兰县海域（北纬24.52度，东经121.92度）发生4.1级地震，震源深度11千米。]]></title>
-            <guid>3008565</guid>
-            <pubDate>Thu, 02 Mar 2023 16:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：03月03日00时48分在台湾宜兰县附近（北纬24.58度，东经121.84度）发生4.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3008564</guid>
-            <pubDate>Thu, 02 Mar 2023 16:56:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沪渝蓉高铁汉江特大桥全面进入主塔施工】沪渝蓉沿江高铁节点工程钟祥汉江铁路特大桥316号主墩承台3月2日顺利封底，标志着该桥水下施工及主墩封底全部完成，进入主塔施工阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7794723.d.html</link>
-            <guid>3008560</guid>
-            <pubDate>Thu, 02 Mar 2023 16:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大自然资源公司：若天然气价格进一步下跌，可能将减少天然气钻井数量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4570808.d.html</link>
-            <guid>3008559</guid>
-            <pubDate>Thu, 02 Mar 2023 16:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【私募比特资产随意跨越5%的举牌线，实控人李勇被罚超3000万元】近日，证监会公布一则行政处罚书显示，浙江比特资产管理有限公司的实控人、原执行董事李勇控制17个证券账户，超比例持股及限制期内交易“陕西金叶”，两项违规合计被处罚3050万元。从持股及交易情况来看，李勇控制账户组持股最高达到总股本的7.42%，累计成交额超过10亿元，但长期未履行信披义务。而定期报告数据亦显示，李勇所控制账户曾数次现身于陕西金叶前十大股东名单中。（中国基金报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7788927.d.html</link>
-            <guid>3008556</guid>
-            <pubDate>Thu, 02 Mar 2023 16:35:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国民主党参议员曼钦：债务违约不是一个可行的选项，也不会发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperf7779399.d.html</link>
-            <guid>3008552</guid>
-            <pubDate>Thu, 02 Mar 2023 16:27:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase(COIN.O)跌幅扩大至7%，据悉该公司切断了与Silvergate的财务关系。]]></title>
-            <guid>3008551</guid>
-            <pubDate>Thu, 02 Mar 2023 16:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克罗格(KR.N)：投资将用于提高平均时薪，改善医疗保健计划，创造新的培训和发展机会等。]]></title>
-            <guid>3008550</guid>
-            <pubDate>Thu, 02 Mar 2023 16:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克罗格(KR.N)：将在2023年向联营公司投资超过7.7亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4544946.d.html</link>
-            <guid>3008549</guid>
-            <pubDate>Thu, 02 Mar 2023 16:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股SaaS概念股走高，Salesforce(CRM.N)涨超12%，Okta(OKTA.O)涨超9%，Twilio(TWLO.N)涨超5%。]]></title>
-            <guid>3008548</guid>
-            <pubDate>Thu, 02 Mar 2023 16:14:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[亚马逊已针对提供虚假评论内容的“水军”提起了六起诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4539870.d.html</link>
-            <guid>3008547</guid>
-            <pubDate>Thu, 02 Mar 2023 16:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业内：预计2023年对多孩家庭或人才类住房需求的支持力度将加大】梳理发现，近期，安徽合肥、湖南武冈、河南漯河、江苏宿迁和扬州等多地出台的多项购房支持政策中，均提出多孩家庭或人才购房优惠政策。中指研究院市场研究总监陈文静认为，将住房政策与生育、人才政策结合是未来的重要方向。尽管2022年多地结合生育、人才等政策出台了激励措施，但政策力度相对有限，预计2023年对这类住房需求的支持力度将加大，尤其是在多孩家庭支持方面，后续相关政策（如多孩家庭增加购房套数、降低首付比例、提升公积金贷款额度等）有望在更多重点城市推广。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4538390.d.html</link>
-            <guid>3008546</guid>
-            <pubDate>Thu, 02 Mar 2023 16:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[微软：将向更多用户提供新款开发、工具及合作伙伴服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4538145.d.html</link>
-            <guid>3008545</guid>
-            <pubDate>Thu, 02 Mar 2023 16:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北美地区长途巴士运营品牌灰狗（Greyhound）的拥有者Flix公司考虑IPO，将由Evercore投资公司负责承销。]]></title>
-            <guid>3008544</guid>
-            <pubDate>Thu, 02 Mar 2023 16:04:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【动视暴雪收购案或取得进展 据悉欧盟不会要求微软出售资产】微软(MSFT.O)准备向竞争对手提供旗下游戏特许经营权，这可能会解决欧盟对其收购动视暴雪(ATVI.O)的反垄断担忧。预计欧盟委员会不会要求微软出售资产以赢得其批准。微软总裁布拉德·史密斯上月表示，该公司已经准备好向任天堂等竞争对手提供特许经营权，旨在解决反垄断问题，但不会出售利润丰厚的《使命召唤》IP。微软一位发言人表示：“我们承诺给予索尼、Steam、英伟达和其他公司100%平等的《使命召唤》长期使用权，维护收购交易对玩家和开发者的利益，并强化市场竞争。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-03/detail-imyiperi4532822.d.html</link>
-            <guid>3008542</guid>
-            <pubDate>Thu, 02 Mar 2023 16:03:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中通快递ADR一度跌超3%，处于2月2日以来的下跌趋势中。灰熊（Grizzly Research）在做空报告中表示，该公司股价存在至少50%的下行空间。]]></title>
-            <guid>3008541</guid>
-            <pubDate>Thu, 02 Mar 2023 15:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【复星旅文回应“拟出售托马斯·库克”传闻】复星旅游文化(01992.HK)正考虑出售旗下英国老牌旅行公司托马斯·库克（Thomas Cook），与部分潜在购买者展开初步讨论。复星旅文也在研究从外部投资者引入资金、出售托马斯·库克少数股权的可能性。公司一位发言人表示：“去年以来，我们一直在对我们的投资组合公司开展结构性审查，并研究如何能够最好地支持这些企业的未来增长。如果与潜在合作伙伴合作、由此实现托马斯·库克商业雄心的做法具有战略意义，我们将认真考虑这样做。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7747952.d.html</link>
-            <guid>3008540</guid>
-            <pubDate>Thu, 02 Mar 2023 15:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国工业联合会：美国《通胀削减法案》是对跨大西洋关系的考验】德国工业联合会兼跨大西洋商业倡议主席鲁斯沃姆当地时间3月2日表示，美国《通胀削减法案》是对跨大西洋关系的考验。鲁斯沃姆指出，对于德国工业而言，联邦政府能够积极推动美方修改《通胀削减法案》中不利于欧洲以及其他国家企业的条款至关重要。他强调，双方都必须确保避免贸易冲突，补贴竞赛只会损害民众利益和良性竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperi4522893.d.html</link>
-            <guid>3008539</guid>
-            <pubDate>Thu, 02 Mar 2023 15:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将Salesforce(CRM.N)目标价从185美元上调至225美元。]]></title>
-            <guid>3008538</guid>
-            <pubDate>Thu, 02 Mar 2023 15:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞士信贷：下调和黄医药(00013.HK)目标价至37.2港元 评级跑赢大市】瑞信发表报告指，和黄医药去年下半年收入和纯利分别较该行预期高6%和4%。该行维持对其保持跑赢大市评级，将其目标价由38.13港元下调至37.2港元。该行指，和黄医药2022财年肿瘤/免疫业务综合收入达到1.64亿美元，按年增长37%，略低于该行预期，但符合之前1.6至1.9亿美元的指引。展望2023财年，管理层指引肿瘤业务综合收入为4.5至5亿美元，包括部分确认武田(Takeda)4亿美元预付款。和黄医药管理层亦指引2023财年的肿瘤药物销售将出现类似于2022财年63%的增长，高于该行预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7744075.d.html</link>
-            <guid>3008537</guid>
-            <pubDate>Thu, 02 Mar 2023 15:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊拟在马来西亚投资60亿美元建设云基础设施】亚马逊的云计算部门AWS周三宣布，计划到2037年在马来西亚投资60亿美元，在这个东南亚国家推出云计算基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7743770.d.html</link>
-            <guid>3008536</guid>
-            <pubDate>Thu, 02 Mar 2023 15:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[麦格理：将Salesforce(CRM.N)目标价从218美元上调至225美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperi4520547.d.html</link>
-            <guid>3008535</guid>
-            <pubDate>Thu, 02 Mar 2023 15:50:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将Coupang(CPNG.N)目标价从21美元下调至20美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7743030.d.html</link>
-            <guid>3008534</guid>
-            <pubDate>Thu, 02 Mar 2023 15:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：将微博(WB.O)目标价从22美元上调至23美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7743020.d.html</link>
-            <guid>3008533</guid>
-            <pubDate>Thu, 02 Mar 2023 15:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needham：将Snowflake(SNOW.N)目标价从165美元上调至180美元。]]></title>
-            <guid>3008528</guid>
-            <pubDate>Thu, 02 Mar 2023 15:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【业内：新能源公募REITs助力能源行业绿色转型】3月2日，证监会和上交所官网显示，首批新能源公募REITs获批。对此，中航基金表示，首批新能源公募REITs的落地，对清洁能源发电等重资产行业如何有效地融通资金并降低负债有积极示范效应。业内人士表示，随着中信建投国家电投新能源REIT的成功获批，预计未来公募REITs市场还会迎来更多的新能源资产，市场发展空间值得期待。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperi4517903.d.html</link>
-            <guid>3008526</guid>
-            <pubDate>Thu, 02 Mar 2023 15:45:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美银证券：下调蔚来汽车(09866.HK)目标价至93港元 评级买入】美银证券发表研究报告，重申对蔚来的买入评级，指出公司去年第四季销售额按年增长62%，整车毛利率为6.8%，较去年同期下降14.1个百分点，主要是来自于现有ES8、ES6及EC6车型相关的存货拨备、生产设施加速折旧与购买承诺损失的影响。蔚来管理层透露，预计今年将达到月度销量将超出3万辆，并预期高利润产品交付自第二度起交付，以及碳酸锂价格较可能回落至正常水平，令今年第四季毛利率可望恢复到18%至20%。因此，美银将蔚来今明两年销量预测分别下调12%及8%，相信2023至2024年净亏损仍将扩大，相应将目标价由109港元降至93港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7740163.d.html</link>
-            <guid>3008525</guid>
-            <pubDate>Thu, 02 Mar 2023 15:44:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国多位参议员就合规与风险管理问题质询了币安。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7737764.d.html</link>
-            <guid>3008522</guid>
-            <pubDate>Thu, 02 Mar 2023 15:42:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利矿业化工公司：预期全球市场对锂的需求将在今年增长25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7735195.d.html</link>
-            <guid>3008519</guid>
-            <pubDate>Thu, 02 Mar 2023 15:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数触及近两个月高位】波罗的海干散货运价指数周四涨至1月初以来最高水平，受所有船型运价指数上涨支撑。波罗的海干散货运价指数上涨46点或4.2%，至1145点，为1月5日以来最高水平。海岬型船运价指数上涨71点或7.6%，至1000点的逾六周高点。海岬型船日均获利上涨593美元，至8296美元。巴拿马型船运价指数上涨41点或2.7%，至1556点。巴拿马型船日均获利上涨372美元，至14006美元。超灵便型散货船运价指数上涨36点，至1192点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7733836.d.html</link>
-            <guid>3008518</guid>
-            <pubDate>Thu, 02 Mar 2023 15:35:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沃尔玛：将在2024年内新开28座健康中心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperi4509139.d.html</link>
-            <guid>3008517</guid>
-            <pubDate>Thu, 02 Mar 2023 15:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰阿姆斯特丹斯希普霍尔机场表示，把每年航班起降数量限制在46万架次将是必要的一步行动。]]></title>
-            <guid>3008516</guid>
-            <pubDate>Thu, 02 Mar 2023 15:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Needham：将SplunK(SPLK.O)目标价从115美元上调至120美元。]]></title>
-            <guid>3008513</guid>
-            <pubDate>Thu, 02 Mar 2023 15:27:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Salesforce(CRM.N)目标价从200美元上调至225美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperi4504343.d.html</link>
-            <guid>3008512</guid>
-            <pubDate>Thu, 02 Mar 2023 15:26:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将Snowflake(SNOW.N)目标价从195美元下调至185美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyiperf7727212.d.html</link>
-            <guid>3008511</guid>
-            <pubDate>Thu, 02 Mar 2023 15:26:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉利与虚拟现实游戏开发公司Virtual Gaming World签订了合作伙伴协议。]]></title>
-            <guid>3008510</guid>
-            <pubDate>Thu, 02 Mar 2023 15:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将蔚来汽车(NIO.N)目标价从28美元下调至25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyim4633391.d.html</link>
-            <guid>3008508</guid>
-            <pubDate>Thu, 02 Mar 2023 15:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京证监局局长贾文勤：拓宽科创基金退出渠道，加大对第三方配合财务造假行为的打击力度】全国人大代表、北京证监局局长贾文勤介绍，聚焦资本市场改革发展，今年拟提出多方面建议，包括大力发展科创基金加快实现高水平科技自立自强、发展知识产权证券化业务更好服务科技型中小微企业、依法规制证券期货领域行政滥诉行为、完善第三方配合公众公司财务造假问题防范治理机制等。]]></title>
-            <guid>3008507</guid>
-            <pubDate>Thu, 02 Mar 2023 15:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利矿业化工公司（SQM）：将继续维持在锂矿产业的战略投资，争取将氢氧化锂产能提高至10万吨水平。]]></title>
-            <guid>3008506</guid>
-            <pubDate>Thu, 02 Mar 2023 15:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易银行Silvergate称，将尽快提交10-K文件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyii7853584.d.html</link>
-            <guid>3008504</guid>
-            <pubDate>Thu, 02 Mar 2023 15:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：苏格兰副首席部长约翰·斯文尼将辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyim4630134.d.html</link>
-            <guid>3008503</guid>
-            <pubDate>Thu, 02 Mar 2023 15:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱彼迎（ABNB）：对欧盟出台的房屋短期出租新规表示欢迎。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyii7851949.d.html</link>
-            <guid>3008501</guid>
-            <pubDate>Thu, 02 Mar 2023 15:17:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局的代理局长将于3月8日出席国会参议院就航空安全问题举行的听证会。]]></title>
-            <guid>3008500</guid>
-            <pubDate>Thu, 02 Mar 2023 15:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞穗：将SplunK(SPLK.O)目标价从115美元下调至110美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyim4626252.d.html</link>
-            <guid>3008499</guid>
-            <pubDate>Thu, 02 Mar 2023 15:14:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恩捷股份：2022年营收125.909亿元，较上年增长57.73%。全年归属于上市公司股东的净利润40.004亿元，较上年增长47.20%。]]></title>
-            <guid>3008498</guid>
-            <pubDate>Thu, 02 Mar 2023 15:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳门工商联会会长：通过澳门把内地新能源汽车推广销售到葡语系国家】2023年全国两会前夕，澳区全国人大代表、澳门工商联会会长何敬麟仍奔走于广州与澳门两地。“今年全国两会期间，我的建议主要围绕讲好中国故事、新能源汽车布局等方面。”何敬麟表示，澳门要发挥窗口的作用，向海外传递中国脱贫攻坚的经验。同时，通过澳门把内地新能源汽车推广销售到葡语系国家。“广东有多家新能源汽车龙头企业，澳门应与内地车企携手，把产品销售到葡语系国家。”何敬麟认为，如通过葡萄牙到欧洲，通过巴西到南美洲，通过安哥拉到非洲。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyim4623526.d.html</link>
-            <guid>3008497</guid>
-            <pubDate>Thu, 02 Mar 2023 15:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伯恩斯坦：将Salesforce(CRM.N)目标价从119美元上调至145美元。]]></title>
-            <guid>3008496</guid>
-            <pubDate>Thu, 02 Mar 2023 15:08:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东百亿补贴频道开始少量上线测试】京东百亿补贴被曝已开始少量上线测试，已有用户可看到活动页面。据报道，用户反馈可以从该频道中看到部分商品已有百亿补贴标签，上线的商品包括手机、家电、酒水、等种类。京东APP上周宣布升级11.6.2，并在更新日志中明确提到：“京东3.8节，百亿补贴上线”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-02/detail-imyinyim4619541.d.html</link>
-            <guid>3008494</guid>
-            <pubDate>Thu, 02 Mar 2023 15:05:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
