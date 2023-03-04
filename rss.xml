@@ -4,11 +4,187 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 03 Mar 2023 21:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 00:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【外媒kei：“瓦格纳”集团创始人称，乌东重镇巴赫穆特实际已被他们包围】 综合塔斯社、路透社报道，“瓦格纳”私营军事集团创始人普里戈津当地时间3日在一段视频中称，其部队实际上已经包围了乌东重镇巴赫穆特（俄称阿尔乔莫夫斯克），并呼吁乌总统泽连斯基让该地区的老人儿童撤离。报道称，普里戈津在社交平台Telegram上发布的一段视频中表示，“‘瓦格纳’集团的部队几乎已经包围了巴赫穆特，只剩下一条路了。”（环球网）]]></title>
+            <guid>3010486</guid>
+            <pubDate>Sat, 04 Mar 2023 00:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西与海南首次实现电力互济，单日最高送电量达1200万千瓦时】 今年以来，海南用电量呈现平稳增长态势。为满足用电需求，连日来，广西通过海底电缆向海南输送电力，广西与海南省之间首次实现电力互济。据介绍，这次广西送电到海南，共持续2周，单日最高送电量达1200万千瓦时，总送电量近1.6亿千瓦时，预计3月10日完成全部电力输送，约占海南全省同期用电量的十分之一。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseuh1409641.d.html</link>
+            <guid>3010485</guid>
+            <pubDate>Sat, 04 Mar 2023 00:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家卫健委：目前已有76个国家区域医疗中心项目落地实施】 国家卫生健康委表示，截至目前，共有76个国家区域医疗中心项目落地实施，有效推动优质医疗资源向群众身边延伸，减少跨省份、跨区域就医。国家区域医疗中心由地方政府主建、输出医院主营，中央投资对每个项目支持原则上不超过5亿元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseue4625907.d.html</link>
+            <guid>3010483</guid>
+            <pubDate>Sat, 04 Mar 2023 00:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美《财富》杂志：全球超级富豪去年损失10万亿美元】房地产咨询公司莱坊在第17期年度财富报告中写道：资产净值高于3000万美元的个人，其传统混合投资组合在去年遭受了自20世纪30年代以来最严重的损失。根据该机构的计算，随着各国央行停止向经济注入流动性，转而开始遏制飙升的通货膨胀，这些超高净值人士的集体财富缩水了十分之一。从绝对值来看，高达10.1万亿美元的惊人损失大致相当于德国、英国和法国一年国内生产总值的总和。（环球时报）]]></title>
+            <guid>3010481</guid>
+            <pubDate>Sat, 04 Mar 2023 00:13:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知情人士透露，Meta调降其Quest系列VR头显的原因是相关产品销量欠佳，以及企业和个人消费者对产品的需求疲软。]]></title>
+            <guid>3010478</guid>
+            <pubDate>Sat, 04 Mar 2023 00:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【生前坐拥巨额财富，曾被称“华尔街清流”，美金融巨鳄饮弹自尽！】日前，78岁的美国传奇投资人托马斯·李饮弹自尽的消息震惊美国投资圈。作为美国私募股权投资先驱，托马斯早在二十世纪八九十年代就因系列企业收购案名声大噪，不仅坐拥几十亿美元的财富，更因其人格魅力被誉为华尔街的一股“清流”。明明人生圆满，却选择提前结束生命，没有留下任何遗言的托马斯为舆论带来了无尽的猜测。（环球时报 ）]]></title>
+            <guid>3010477</guid>
+            <pubDate>Sat, 04 Mar 2023 00:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登授权美国防部重建和扩大美国内的高超声速工业基地】根据美国国防部当地时间3月3日发布的一份声明，美国总统拜登签署了一份总统决定，将使用《国防生产法案》（DPA）第三章授权国防部重建和扩大美国国内的高超声速工业基地，并将针对吸气式发动机、先进的航空电子设备、制导系统以及高超声速系统的组成材料进行改善。根据声明，美国防部正在利用这一授权战略性地加速先进制造技术在吸气式发动机和综合定位导航授时体系（PNT）领域的转变。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseuh1390649.d.html</link>
+            <guid>3010476</guid>
+            <pubDate>Sat, 04 Mar 2023 00:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多地遭遇冬季风暴 已致3人死亡】 据美联社当地时间3月3日报道，近期美国得克萨斯州、路易斯安那州、亚拉巴马州和肯塔基州等地遭遇冬季风暴，已致3人死亡。强风还导致房屋受损和树木倒塌。据报道，此轮冬季风暴将向新英格兰地区移动，预计该地区将出现降雪、雨夹雪和降雨混合天气。马萨诸塞州和罗得岛州沿海地区可能发生洪水，新罕布什尔州和缅因州部分地区的降雪量可能将达到18英寸（约45厘米）。（央视新闻）]]></title>
+            <guid>3010475</guid>
+            <pubDate>Fri, 03 Mar 2023 23:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3月4日：全国政协十四届一次会议下午3时开幕，十四届全国人大一次会议举行新闻发布会】 全国政协十四届一次会议将于3月4日下午3时在北京人民大会堂开幕。开幕会上，与会全国政协委员将听取政协全国委员会常务委员会工作报告和政协全国委员会常务委员会关于提案工作情况的报告。中央广播电视总台将对开幕会汪洋作全国政协常委会工作报告进行现场直播；新华网将对开幕会作现场图文直播。4日12时，十四届全国人大一次会议将举行新闻发布会，由大会发言人就大会议程和人大工作相关问题回答中外记者提问。届时中央广播电视总台进行现场直播，中国网进行现场图文直播。（新华社）]]></title>
+            <guid>3010474</guid>
+            <pubDate>Fri, 03 Mar 2023 23:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称扎波罗热核电站人员遭袭，乌方无回应】 俄罗斯国家原子能公司表示，此前国际原子能机构常驻扎波罗热核电站工作人员轮换期间，乌军对核电站工作人员进行了袭击，目前暂无人员伤亡的报道。该公司表示，这样的武装挑衅不容忽视。针对这一消息，乌方目前暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseuh1382926.d.html</link>
+            <guid>3010473</guid>
+            <pubDate>Fri, 03 Mar 2023 23:53:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统拜登在白宫会见德国总理朔尔茨】当地时间3月3日，美国总统拜登在白宫会见德国总理朔尔茨，双方就对乌克兰援助问题交换了意见。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseue4603024.d.html</link>
+            <guid>3010471</guid>
+            <pubDate>Fri, 03 Mar 2023 23:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国驻美国使馆发布增加发放签证预约号量的通知】3月4日，中国驻美国大使馆微信公众号发布关于中国驻美国使馆增加发放签证预约号量的通知。 为更好满足当前形势下签证申请需求，进一步优化服务，使馆自即日起在每个工作日22:00发放预约号量的基础上，于每个工作日10:00和15:00分别增加发放下一个工作日的预约号量，并根据需要延长证件大厅对外办公时间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseuh1379513.d.html</link>
+            <guid>3010468</guid>
+            <pubDate>Fri, 03 Mar 2023 23:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【塞尔维亚外长：自俄乌冲突以来，塞方未向俄乌双方出口武器】 塞尔维亚外长达契奇表示，自俄乌冲突开始以来，塞尔维亚没有向乌克兰或俄罗斯，也没有向任何有争议的国家出口武器。达契奇强调，他对塞尔维亚出口武器的数据很清楚，因为塞尔维亚外交部是该国参与向合法机构颁发武器出口许可的主要部委。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseuh1354474.d.html</link>
+            <guid>3010462</guid>
+            <pubDate>Fri, 03 Mar 2023 23:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【SilverGate暂停SEN支付网络服务，称根据风险做决定】 加密货币银行SilverGate Bank母公司SilverGate Capital Corp.宣布，该公司暂停SilverGate Exchange Network（SEN）支付网络服务，该服务原本允许拥有其账户的众多加密数字货币公司彼此之间瞬时发送法定货币。该公司称，中断SEN是“基于风险的抉择”，这一决定立即生效。所有其他存款相关服务仍然运作正常。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiseue4571787.d.html</link>
+            <guid>3010461</guid>
+            <pubDate>Fri, 03 Mar 2023 23:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：1、做到“三个更好统筹”，努力实现今年各项目标任务——论学习贯彻党的二十届二中全会精神；2、守正创新，服务实体经济高质量发展（权威部门话开局）；3、向着新的奋斗目标，出发！（两会今日谈）；4、中国式现代化是中国共产党领导的社会主义现代化；5、新的春天·新的征程·新的出发；6、中国式现代化创造了人类文明新形态；7、推进中国式现代化需要处理好若干重大关系；8、推进中国式现代化必须进行伟大斗争。]]></title>
+            <guid>3010460</guid>
+            <pubDate>Fri, 03 Mar 2023 23:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称打击乌军目标 乌称击落俄军战机】 3月3日，俄罗斯国防部表示，俄军在多地打击乌军目标、击落乌军战机。乌克兰武装部队总参谋部表示，乌军对俄军弹药库、燃料库等目标进行了打击。此外，俄乌双方目前在顿涅茨克交通要地巴赫穆特地区的激战仍在持续。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1468146.d.html</link>
+            <guid>3010458</guid>
+            <pubDate>Fri, 03 Mar 2023 23:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：外资扩容彰显中国市场强大“磁吸力”】全球资管机构正加快布局中国市场。今年以来，外资独资公募基金数量扩容至7家；合格境外投资者资格也在不断扩容，年内又有6家机构获批。同时，多家外资机构表示看好中国市场中长期投资潜力。在国际环境风高浪急、世界经济复苏乏力的背景下，我国以稳健的经济增长、巨大的市场潜力和高水平对外开放，持续赢得外资青睐，显现出强大的“磁吸力”。信任，源自快速的经济复苏弹力。今年以来，我国多项经济数据飘红，经济向好要素不断积聚。信任，源自庞大的市场消费潜力。超120万亿元的经济总量，包括全球规模最大、成长最快的中等收入群体在内的14亿多人口的消费能力，以及不断优化的消费结构和创新条件，让中国成为名副其实的世界市场。信任，源自巨大的对外开放机遇。正如多家境外媒体所指出的，一个以开放之姿拥抱世界的中国，已成为跨国公司的“避风港湾”和业务增长的重要动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4686504.d.html</link>
+            <guid>3010456</guid>
+            <pubDate>Fri, 03 Mar 2023 23:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国加州冬季风暴肆虐 超7.5万用户断电】美国冬季风暴仍在持续。受冬季风暴影响，常年以温暖著称的美国加利福尼亚州经历了罕见的寒冷天气和降雪。截至本月1日，加州的降雪量已经超过了213厘米。厚厚的积雪给当地居民的生活带来了诸多不便，道路因积雪无法通行，超过7.5万个家庭和企业因此断电。美国国家气象局发布了针对加州北部地区的冬季风暴警告，建议当地居民非必要不要出行。气象部门预计，此次冬季风暴带来的降雪将一直持续到本月6日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1462840.d.html</link>
+            <guid>3010455</guid>
+            <pubDate>Fri, 03 Mar 2023 22:58:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄方称已对布良斯克“恐袭”事件展开调查】俄罗斯总统新闻秘书佩斯科夫3日说，俄方已在调查前一天发生的边境“恐袭”事件，并将采取措施防止武装分子从乌克兰潜入俄罗斯。同一天，俄罗斯外交部发表声明称，乌方在布良斯克州所进行的袭击是用北约武器完成的，俄方必将追究犯罪行动的责任。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1456927.d.html</link>
+            <guid>3010454</guid>
+            <pubDate>Fri, 03 Mar 2023 22:49:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国政协委员吴益强：发挥数字人民币科技优势，促进消费升级扩容】全国政协委员、建设银行天津市分行行长吴益强建议，利用金融机构数字化优势，提升产业链供应链现代化水平，向创新链价值链高端延伸，促进优质企业壮大做强；结合天津港目前在资金、仓储、物流等方面的痛点、难点和堵点，利用金融机构综合服务能力及数字人民币智能合约特点，促进港产城深度融合。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4679233.d.html</link>
+            <guid>3010453</guid>
+            <pubDate>Fri, 03 Mar 2023 22:47:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周六全球隔夜要闻汇总】①周五欧美股市普涨，纳指涨1.97%，本周累涨2.58%；标普500指数涨1.61%，本周累涨1.9%；道指涨1.17%，本周累涨1.75%。C3.ai涨超33%，较去年12月低点涨逾180%。②媒体报道称，与沙特分歧加剧，阿联酋内部正讨论是否退出欧佩克。之后，阿联酋官员表示，阿联酋没有退出欧佩克的计划。③国际原油期货结算价收涨。WTI 4月合约涨2.56%，本周累涨4.4%。布伦特5月合约涨1.29%。④COMEX 4月黄金期货结算价收涨0.77%，本周累涨2.06%，结束之前连续四周下跌的趋势。⑤美联储柯林斯表示，通胀仍然过高，需要更多次的加息来抑制通胀。⑥美联储半年度货币政策报告显示，如有必要，将调整缩表进程。⑦萨默斯喊话鲍威尔，不要关上加息50基点的大门。⑧周五美联储逆回购工具使用规模为2.186万亿美元。⑨美国电动汽车生产商Rivian发言人宣称，公司坚持5万辆的年产量目标。⑩Meta在官网发布公告称，调整旗下两款VR头戴式设备的售价。其中256GB版本的Meta Quest 2的价格将从499.99美元下调至429.99美元，而高端机型Quest Pro直接从1499.99美元降价至999.99美元。⑪大众汽车旗下Scout Motors将投资20亿美元在美国南卡罗来纳州建厂。⑫墨西哥新莱昂州州长Garcia宣布，特斯拉在墨西哥的工厂可能需要陆续分几个阶段投资100亿美元。⑬苹果公司云产品负责人Michael Abbott即将于4月份离职，这是该公司最近离职浪潮中的又一波。此前，苹果多位高管在2022年底和2023年初离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4678650.d.html</link>
+            <guid>3010452</guid>
+            <pubDate>Fri, 03 Mar 2023 22:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌高管回应员工的质疑：AI聊天机器人Bard不仅仅是搜索而已】在近日举行的全体会议上，谷歌公司的高管们回答了来自该公司员工在内部论坛Dory提出的问题，其中大多数最重要的问题与该公司先前推出的人工智能(AI)聊天机器人Bard有关。该论坛有一条问题是：“Bard和ChatGPT是大型语言模型，而不是知识模型。他们擅长生成人性化的文本，但不擅长确保文本是基于事实的。为什么我们认为首要大型应用应该是搜索，它的核心是寻找真实信息吗?”面对该充满质疑的问题，Bard的产品负责人Jack Krawczyk立即回应道：“我只是想明确一点：Bard不仅仅是搜索而已。这是我们谈论过的人工智能合作服务的一个实验。我们发现，使用这款产品的神奇之处在于，它是一个具有创造性的伙伴，可以帮助你激发想象力，探索你的好奇心等等。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1444092.d.html</link>
+            <guid>3010448</guid>
+            <pubDate>Fri, 03 Mar 2023 22:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【活检显示美总统拜登皮肤基底细胞癌组织被成功切除】当地时间3月3日，美国白宫医生表示，美总统拜登的活组织检查证实，拜登在完成胸部皮肤基底细胞癌组织切除手术后，创口部位愈合良好，所有癌组织已被成功切除，不需要进一步治疗。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1416487.d.html</link>
+            <guid>3010440</guid>
+            <pubDate>Fri, 03 Mar 2023 21:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Character.ai通过最新一轮融资获得10亿美元估值，由Andreessen Horowitz领投。]]></title>
+            <guid>3010438</guid>
+            <pubDate>Fri, 03 Mar 2023 21:39:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪：下调SilverGate Bank长期发行人评级至Ca，之前为B3评级；下调该公司存款评级至Caa1。]]></title>
+            <guid>3010437</guid>
+            <pubDate>Fri, 03 Mar 2023 21:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国民主党参议员沃伦敦促美国运输安全委员会（NTSB）禁止货运铁路公司合并。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1404443.d.html</link>
+            <guid>3010434</guid>
+            <pubDate>Fri, 03 Mar 2023 21:27:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI工具Stable Diffusion以40亿美元的估值寻求资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4619834.d.html</link>
+            <guid>3010431</guid>
+            <pubDate>Fri, 03 Mar 2023 21:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷央行调查：2023年阿根廷经济将录得零增长，2024年将增长1%；预计到年底时，通胀率水平仍将高达99.9%。]]></title>
+            <guid>3010430</guid>
+            <pubDate>Fri, 03 Mar 2023 21:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【步步高董事长王填：建议将消费类基础设施纳入公募REITs资产池】“将优质的消费类基础设施纳入公募REITs资产池，一方面将极大改善商业不动产存量空间，帮助企业降低资产负债率；另一方面，将丰富资本市场投资品种，为投资者提供具备稳定收益的投资产品，改善和优化居民的投资结构。”全国政协委员、步步高董事长王填表示。今年全国两会，王填准备的建议聚焦消费类基础设施领域的变革、百货零售业的高质量发展等问题。王填表示，消费是经济增长的核心拉动力之一。消费类基础设施作为承接居民消费行为、释放居民消费潜力的重要载体，在扩大内需、促进消费方面不可或缺。随着消费类基础设施持续完善、优质供给日益增加、居民消费不断升级，消费的市场活力有望被进一步激发。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynk1392271.d.html</link>
+            <guid>3010427</guid>
+            <pubDate>Fri, 03 Mar 2023 21:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会民主党议员：拜登总统若是批准石油开采项目，将会背弃其抗击气候变暖的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4613627.d.html</link>
+            <guid>3010425</guid>
+            <pubDate>Fri, 03 Mar 2023 21:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：确认Illumina(ILMN.O)的评级为“BBB”，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4610746.d.html</link>
+            <guid>3010422</guid>
+            <pubDate>Fri, 03 Mar 2023 21:03:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AI概念股C3.ai收涨34%，创2020年12月份以来最大单日涨幅。]]></title>
             <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirynh4609896.d.html</link>
@@ -71,223 +247,6 @@
             <title><![CDATA[【苹果云产品负责人Michael Abott将于4月份离任】苹果云产品负责人Michael Abbott即将于4月份离职，这是该公司最近离职浪潮中的又一波。此前，苹果多位高管在2022年底和2023年初离职。Abbott的出走苹果公司最关键的部门之一留下了一大空缺。作为苹果云工程副总裁，他负责iCloud.com服务、iCloud Mail以及iCloud数据加密等新功能。他还运营着苹果公司的重要平台，该平台为iCloud、关键通信服务和iphone上的紧急求救信号提供支持。]]></title>
             <guid>3010383</guid>
             <pubDate>Fri, 03 Mar 2023 19:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粮农组织首席经济学家：黑海港口农产品外运协议延期至关重要】当地时间3月3日，联合国粮农组织首席经济学家马克西莫·托雷罗在回答央视记者提问时表示，黑海港口农产品外运协议延期至关重要。 托雷罗说，协议解决了乌克兰农民收成换收入问题，解决了大量谷物堆积库存问题，也解决了市场供应问题。黑海港口农产品外运协议的重要性从谷物的供应改善看非常明显。他表示，这一协议“并不是为改善部分特定国家而设计的，这是另一个问题，不是初衷。对于既定目标，协议相当成功。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiruek4678255.d.html</link>
-            <guid>3010378</guid>
-            <pubDate>Fri, 03 Mar 2023 19:14:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rivian短线拉升，一度涨逾10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiruek4677465.d.html</link>
-            <guid>3010377</guid>
-            <pubDate>Fri, 03 Mar 2023 19:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Rivian告诉员工今年可能生产6.2万辆电动汽车。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiruek4675437.d.html</link>
-            <guid>3010375</guid>
-            <pubDate>Fri, 03 Mar 2023 19:11:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国宣布向乌克兰提供价值4亿美元的军事援助】当地时间3月3日，根据美国国务院当日发布的一份声明，美国宣布向乌克兰提供价值4亿美元的军事援助，并将为乌克兰提供更多的弹药。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyiruen1445895.d.html</link>
-            <guid>3010372</guid>
-            <pubDate>Fri, 03 Mar 2023 18:59:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车正研究若干方式，以便在美国密歇根州工厂提高燃油车和混合动力F-150皮卡。这是该公司提高几款车型产量的更大范畴计划的部分内容。]]></title>
-            <guid>3010371</guid>
-            <pubDate>Fri, 03 Mar 2023 18:48:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷2月汽车产量为46286辆；2月汽车销量为30125辆；2月汽车出口量为23960辆。]]></title>
-            <guid>3010370</guid>
-            <pubDate>Fri, 03 Mar 2023 18:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉CEO马斯克在社交媒体上表示：我以前对加密货币感兴趣，但现在我对人工智能感兴趣了。]]></title>
-            <guid>3010369</guid>
-            <pubDate>Fri, 03 Mar 2023 18:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西启动新的“家庭补助金”发放计划】巴西联邦政府当地时间3月2日发布新的“家庭补助金”发放计划，规定从2023年3月20日开始，为巴西人均收入被归类为贫困或极端贫困的家庭发放现金补助。联邦政府承诺，从2023年3月开始，每月向每个贫困家庭支付600雷亚尔（约合人民币795元），对家庭中每名6岁以下的儿童再额外支付150雷亚尔（约合人民币198元）。此外自2023年6月起，该计划还将为贫困家庭中7至18岁的成员和孕妇额外支付每人50雷亚尔（约合人民币66元）。预计将有2080万家庭从中受益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1563657.d.html</link>
-            <guid>3010368</guid>
-            <pubDate>Fri, 03 Mar 2023 18:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱彼迎缩减招聘团队规模 但不会有更大范围的裁员】美国共享住宿平台爱彼迎本周裁掉了30%的招聘人员，尽管该公司计划今年扩大员工总数。该公司发言人说，此次裁员影响了该公司6800名员工中的0.4%，并指出这并不意味着会有更大范围的裁员。爱彼迎是美国少数几家避免大规模裁员的科技公司之一，而由于利率上升和全行业放缓，许多科技公司都下调了增长预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1560217.d.html</link>
-            <guid>3010367</guid>
-            <pubDate>Fri, 03 Mar 2023 18:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将C3.ai(AI.N)目标价从11美元上调至16美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4778495.d.html</link>
-            <guid>3010364</guid>
-            <pubDate>Fri, 03 Mar 2023 18:21:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：英国通胀预期存在持续的上行风险，现在宣布战胜通胀还为时过早。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4778450.d.html</link>
-            <guid>3010363</guid>
-            <pubDate>Fri, 03 Mar 2023 18:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国联合工会：受雇于英国救护车信托机构的联合工会成员将在下周周一和周三进行罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4778440.d.html</link>
-            <guid>3010362</guid>
-            <pubDate>Fri, 03 Mar 2023 18:21:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查机构：英国公众对未来5-10年的通胀预期从1月份的3.5%升至2月份的3.8%。]]></title>
-            <guid>3010360</guid>
-            <pubDate>Fri, 03 Mar 2023 18:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[调查机构：英国公众对未来12个月的通胀预期升至5.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4774703.d.html</link>
-            <guid>3010359</guid>
-            <pubDate>Fri, 03 Mar 2023 18:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raymond James：将戴尔的目标价从50美元下调至45美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1542880.d.html</link>
-            <guid>3010355</guid>
-            <pubDate>Fri, 03 Mar 2023 17:57:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼雅加达燃料储存库大火已被扑灭】当地时间3月3日晚，印尼雅加达消防部门官员克里斯蒂安托称，燃料储存库大火已经被扑灭。消防员正在进行降温工作，以确保火势不会复燃。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4754358.d.html</link>
-            <guid>3010352</guid>
-            <pubDate>Fri, 03 Mar 2023 17:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[丰田召回了部分在2022年和2023年出厂的坦途（Tundra）车型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1528348.d.html</link>
-            <guid>3010350</guid>
-            <pubDate>Fri, 03 Mar 2023 17:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国环境保护署要求各州评估公共供水系统的网络安全】美国环境保护署（EPA）当地时间3月3日宣布了一项规定并要求各州评估公共供水系统的网络安全。据悉，此项决定是在美国总统拜登于2日发布国家网络安全战略并敦促对关键基础设施行业实施监管改善的一天后发布的，而此次宣布的新规定将赋予州级的供水设施更多责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4748576.d.html</link>
-            <guid>3010349</guid>
-            <pubDate>Fri, 03 Mar 2023 17:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗原子能组织主席同国际原子能机构总干事举行会晤】当地时间3月3日，伊朗原子能组织主席伊斯拉米同国际原子能机构总干事格罗西在伊朗首都德黑兰举行会晤。双方就伊朗核问题等事项展开磋商和讨论。4日，格罗西同伊斯拉米将在德黑兰举行联合新闻发布会，届时双方将就本次访问的成果和后续合作计划进行通报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4745342.d.html</link>
-            <guid>3010348</guid>
-            <pubDate>Fri, 03 Mar 2023 17:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥恰帕斯州发生4.5级地震】根据墨西哥国家地震监测局（SSN）的信息，当地时间3月3日9时4分8秒，墨西哥恰帕斯州的辛塔拉帕市西北方向约67公里处发生4.5级地震，震源深度约179.7公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4744592.d.html</link>
-            <guid>3010347</guid>
-            <pubDate>Fri, 03 Mar 2023 17:27:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：将联邦快递(FDX.N)目标价从179美元上调至199美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4741974.d.html</link>
-            <guid>3010345</guid>
-            <pubDate>Fri, 03 Mar 2023 17:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国前财长呼吁鲍威尔为美联储在3月加息50个基点敞开大门】美国前财长萨默斯表示，美联储政策制定者应强调，在一系列强劲的经济数据公布后，本月有可能再次加快加息步伐，美联储现在应该为3月加息50个基点敞开大门。萨默斯表示，美联储官员似乎都把3月加息50个基点的选项排除了，他对此感到失望。希望美联储政策制定者在观察下周五公布的非农就业报告和市场反应后再作出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1516186.d.html</link>
-            <guid>3010344</guid>
-            <pubDate>Fri, 03 Mar 2023 17:19:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼雅加达燃料储存库火灾遇难人数升至17人】当地时间3月3日晚，印尼雅加达北部燃料储存库火灾造成的死亡人数已升至17人。目前消防人员仍在进行灭火和降温工作，起火原因尚不清楚。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4737742.d.html</link>
-            <guid>3010343</guid>
-            <pubDate>Fri, 03 Mar 2023 17:16:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟高级官员：谈判仍在进行中，法律细节可能仍需讨论，具有法律约束力的文书需要得到（欧盟）成员国的批准。]]></title>
-            <guid>3010342</guid>
-            <pubDate>Fri, 03 Mar 2023 17:10:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟高级官员：欧美双方达成的协议将允许欧洲企业根据《通胀削减法案》获得电池矿产方面的激励。]]></title>
-            <guid>3010341</guid>
-            <pubDate>Fri, 03 Mar 2023 17:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟高级官员：在欧盟委员会主席冯德莱恩访问美国之前，欧美双方可能会及时达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4732596.d.html</link>
-            <guid>3010340</guid>
-            <pubDate>Fri, 03 Mar 2023 17:09:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟高级官员：欧盟和美国正在努力在原则上达成“与自由贸易协定地位相近”的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1509664.d.html</link>
-            <guid>3010339</guid>
-            <pubDate>Fri, 03 Mar 2023 17:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会议员就进口巴西牛肉的标准质询美国农业部。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4731887.d.html</link>
-            <guid>3010338</guid>
-            <pubDate>Fri, 03 Mar 2023 17:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郭广昌再出手，抛出大手笔的定增计划】豫园股份公告称，拟非公开发行股票募集资金不超过80亿元，募集资金投向为黄金珠宝等主营业务项目，补充流动资金及偿还银行贷款。值得一提的是，复星系旗下境内运营实体复星高科近期也频频获得大额融资支持，包括1月份，获五大行牵头的120亿元银团贷款以及完成发行10亿元超短期融资券。另一方面，郭广昌近期多次出席各种商务活动，并表示加大相关领域的投资力度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4729894.d.html</link>
-            <guid>3010337</guid>
-            <pubDate>Fri, 03 Mar 2023 17:04:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京东集团技术委员会主席曹鹏：降低社会物流成本，提高供应链技术核心竞争力】2023年全国两会召开在即，全国政协委员、京东集团技术委员会主席曹鹏表示，智能物流及仓储设施滞后、数智化能力不高、供应链数据流通不畅等，已成为影响经济高质量发展的瓶颈。他建议，加大对供应链基础设施建设和数字化改造支持，打造贯穿“产-供-销”全链路的数智化供应链。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4726585.d.html</link>
-            <guid>3010335</guid>
-            <pubDate>Fri, 03 Mar 2023 17:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国“毒火车”脱轨事故当地居民要求涉事企业帮助搬迁】美国诺福克南方铁路公司官员在2日晚间代表公司发表讲话时多次被美国俄亥俄州“毒火车”事发地东巴勒斯坦的当地居民打断并发生言语冲突。美国诺福克南方铁路公司官员在讲话中表示，该公司目前计划挖掘“毒火车”事发地区，并可能在4月底之前清除所有受污染的土壤，但购买房屋和将当地人迁出东巴勒斯坦地区尚未出现在该公司讨论中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwn4725621.d.html</link>
-            <guid>3010334</guid>
-            <pubDate>Fri, 03 Mar 2023 16:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市地方金融监督管理局局长何杰：大力发展绿色金融、融资租赁，放宽“跨境理财通”业务试点】今年的全国两会上，全国政协委员、深圳市地方金融监督管理局局长何杰将提交五份与建设粤港澳大湾区与金融市场有关的提案。在建设粤港澳大湾区方面，何杰认为，粤港澳大湾区跨境理财通的试点效果不及预期，建议丰富跨境理财通产品供给、适度降低合格投资者门槛、放宽跨境销售的限制；此外，他还建议在粤港澳大湾区先行先试，优化金融数据跨境合规体系。在金融服务实体经济方面，何杰建议，大力发展绿色票据，推动中小微企业绿色发展。在推进上市公司董事会多元化方面，何杰认为，虽然国内上市公司董事会多元化取得积极进展，但国企与民企差距较大，建议出台相关指导意见分步推进此事项。]]></title>
-            <guid>3010332</guid>
-            <pubDate>Fri, 03 Mar 2023 16:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[大众汽车旗下Scout Motor品牌将投资20亿美元在美国南卡罗来纳州建设工厂。]]></title>
-            <guid>3010331</guid>
-            <pubDate>Fri, 03 Mar 2023 16:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三菱获得菲律宾通勤铁路19亿美元订单】三菱公司周五签署了一份价值2600亿日元(合19.1亿美元)的订单，为菲律宾首都马尼拉的一个通勤铁路系统提供设备，该项目旨在缓解长期的交通拥堵和空气污染。据悉，三菱公司将为横跨约110公里的27个车站提供完整的系统，包括信号、通信设备和轨道。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1493213.d.html</link>
-            <guid>3010329</guid>
-            <pubDate>Fri, 03 Mar 2023 16:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会市场二部一级巡视员刘云峰：完善非上市公司股权激励机制，支持银行开展认股权贷款业务】全国政协委员、证监会市场二部一级巡视员刘云峰今年的全国两会提交了三份提案，他建议推动私募基金管理人登记注销与工商主体登记注销“双出清”；完善非上市公司股权激励、员工持股所得税递延纳税备案机制；完善认股权贷款业务，加强金融支持科技创新力度。]]></title>
-            <guid>3010327</guid>
-            <pubDate>Fri, 03 Mar 2023 16:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会行政处罚委一级巡视员罗卫：建议启动基金法修改，持续强化财务造假领域执法】2023年全国两会召开在即，全国政协委员、证监会行政处罚委一级巡视员罗卫准备了两份建议。一份是建议启动《证券投资基金法》修改工作，一份是建议由中级人民法院统一管辖证券期货第一审行政案件。谈及全面注册制推行对证券执法的影响时，罗卫表示，全面注册制下会持续强化欺诈发行、财务造假等重点领域执法，持续完善立体追责体系，推动形成监管合力，加强制度供给，完善相关领域规则，下一步，证监会将进一步完善违法责任认定规则、健全行政裁量基准，扎牢“零容忍”制度笼子，通过各方共同努力，推动形成崇法守信、规范透明、开放包容的良好资本市场生态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-04/detail-imyirpwq1489833.d.html</link>
-            <guid>3010326</guid>
-            <pubDate>Fri, 03 Mar 2023 16:38:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[博通(AVGO.O)涨幅扩大至5%，Q1营收同比增长16%，Q2营收指引超市场预期。]]></title>
-            <guid>3010322</guid>
-            <pubDate>Fri, 03 Mar 2023 16:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国交通部确认：2月份在俄亥俄州出轨后破损泄漏的危化品车厢由铁路车辆租赁商GATX的子公司Trinity Industries所生产。]]></title>
-            <guid>3010321</guid>
-            <pubDate>Fri, 03 Mar 2023 16:22:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
