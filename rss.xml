@@ -4,432 +4,372 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 14 Mar 2023 15:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 18:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[英国官员表示，英国财政大臣亨特考虑在能源价格下跌时限制英国能源利得税。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5078634.d.html</link>
-            <guid>3025713</guid>
-            <pubDate>Tue, 14 Mar 2023 15:03:37 GMT</pubDate>
+            <title><![CDATA[墨西哥央行经济研究负责人表示，该地区经济体的增长面临“困难的背景”，包括美国经济放缓、地缘政治因素、恶劣天气和安全问题。]]></title>
+            <guid>3025817</guid>
+            <pubDate>Tue, 14 Mar 2023 18:08:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国官员表示，（对能源价格征收的）暴利税不太可能在周三公布的的预算报告中改变。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8301281.d.html</link>
-            <guid>3025712</guid>
-            <pubDate>Tue, 14 Mar 2023 15:03:08 GMT</pubDate>
+            <title><![CDATA[英国财政大臣亨特宣布增加40亿英镑用于英格兰的儿童保育工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8283503.d.html</link>
+            <guid>3025815</guid>
+            <pubDate>Tue, 14 Mar 2023 18:00:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【立讯精密：公司与各主要客户均保持着良好、稳定合作关系】立讯精密3月14日在互动平台表示，基于契约精神，公司不对具体客户、具体产品发表评论。公司在消费电子、汽车、通信、医疗产业深度聚焦和发展，针对不同客户从多角度、多维度解析公司服务中或可能服务的商业机会，致力于在不同应用场景下多元化布局各类产品线。公司与各主要客户均保持着良好、稳定的合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5078262.d.html</link>
-            <guid>3025711</guid>
-            <pubDate>Tue, 14 Mar 2023 15:03:00 GMT</pubDate>
+            <title><![CDATA[布伦特原油日内跌幅达3.0%，报78.25美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8283021.d.html</link>
+            <guid>3025814</guid>
+            <pubDate>Tue, 14 Mar 2023 17:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[谷歌推出新计划，将把人工智能（AI）应用整合进医疗保健领域相关产品之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8300362.d.html</link>
-            <guid>3025710</guid>
-            <pubDate>Tue, 14 Mar 2023 15:02:13 GMT</pubDate>
+            <title><![CDATA[苹果（AAPL）股价快速回落，日内涨幅缩窄至不足0.1%，早盘曾一度上涨近2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8272801.d.html</link>
+            <guid>3025810</guid>
+            <pubDate>Tue, 14 Mar 2023 17:45:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[迈博药业(02181.HK)：近日，本公司核心产品之一CMAB009的上市注册申请获中国国家药品监督管理局受理，用于治疗转移性结直肠癌。]]></title>
-            <guid>3025707</guid>
-            <pubDate>Tue, 14 Mar 2023 15:00:44 GMT</pubDate>
+            <title><![CDATA[OpenAI：我们从实际应用中持续改进GPT-4，已经将之前模型的实际应用经验应用到GPT-4的安全研究和监测系统中。]]></title>
+            <guid>3025809</guid>
+            <pubDate>Tue, 14 Mar 2023 17:45:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国外交大臣Cleverly：希望北爱尔兰统一民主党（DUP）能为英国脱欧协议提供全心全意的支持。]]></title>
-            <guid>3025706</guid>
-            <pubDate>Tue, 14 Mar 2023 15:00:36 GMT</pubDate>
+            <title><![CDATA[OpenAI：在我们的内部评估中，GPT-4对禁止内容的请求做出回应的可能性比GPT-3.5低82%，而做出事实性回应的可能性比GPT-3.5高40%。]]></title>
+            <guid>3025807</guid>
+            <pubDate>Tue, 14 Mar 2023 17:43:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业农村部：要强化大豆政策支持，全力稳定东北大豆种植面积】 3月14日，中央农办主任，农业农村部党组书记、部长唐仁健主持召开部党组会议。会议强调，要抓紧抓实夏季粮油生产，督促指导各地加密冬小麦墒情苗情监测，落实好春浇春管等措施，促进苗情转化升级。要强化大豆政策支持，全力稳定东北大豆种植面积，尽可能扩大新疆棉豆轮作和西南、黄淮海地区大豆玉米带状复合种植，系统抓好大豆大面积提单产，确保面积稳定、产量提升。加力推进农业科技自立自强，抓好农业科技职能机构调整衔接，研究谋划农业科技创新的布局安排，细化用好农业科技的抓手载体。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5075839.d.html</link>
-            <guid>3025705</guid>
-            <pubDate>Tue, 14 Mar 2023 15:00:20 GMT</pubDate>
+            <title><![CDATA[【全国人民代表大会常务委员会任命名单】 （2023年3月14日第十四届全国人民代表大会常务委员会第一次会议通过）任命刘俊臣、郭振华、何新、胡晓犁、欧阳昌琼为第十四届全国人民代表大会常务委员会副秘书长。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5048869.d.html</link>
+            <guid>3025806</guid>
+            <pubDate>Tue, 14 Mar 2023 17:42:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家电网：持续完善特高压和各级电网架构 加快推动电网数字化转型】3月14日，国家电网有限公司党组召开会议，公司党组书记、董事长辛保安表示，要积极推动绿色发展能源革命。坚持“常规电源保供应、新能源调结构”的思路，推动传统能源与新能源优化组合；要大力推动电网高质量发展。抓紧推进前期工作，持续完善特高压和各级电网架构，加快推动电网数字化转型；要深入推进提质增效。强化精益管理、精准投资，深入实施对标世界一流企业价值创造行动；要持续强化改革创新。深入实施新一轮国企改革深化提升行动，打造新型电力系统原创技术策源地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8297913.d.html</link>
-            <guid>3025704</guid>
-            <pubDate>Tue, 14 Mar 2023 14:58:17 GMT</pubDate>
+            <title><![CDATA[【Cathie Wood旗舰产品ARKK获2021年4月以来最大资金流入】“木头姐”Cathie Wood管理的旗舰产品获得了廉价资金时代其受欢迎程度达到顶峰以来的最大规模资金流入。根据媒体汇编的隔夜数据，ARK创新ETF上周五吸引了3.97亿美元的资金流入。这是自2021年4月以来最大规模的资金流入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8270089.d.html</link>
+            <guid>3025804</guid>
+            <pubDate>Tue, 14 Mar 2023 17:41:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：03月14日22时40分在青海玉树州杂多县发生3.1级地震，震源深度9千米。]]></title>
-            <guid>3025702</guid>
-            <pubDate>Tue, 14 Mar 2023 14:55:07 GMT</pubDate>
+            <title><![CDATA[市场消息：叙利亚总统阿萨德抵达莫斯科，这是自地震以来他首次访问中东以外的地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8269973.d.html</link>
+            <guid>3025803</guid>
+            <pubDate>Tue, 14 Mar 2023 17:41:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【阿波罗、黑石和KKR均有意收购硅谷银行736亿美元贷款资产中的一部分】据知情人士透露，阿波罗全球管理公司、黑石和KKR & Co.均表示有意收购硅谷银行持有的贷款。阿波罗、黑石和KKR均在有意购买硅谷银行部分资产的投资者之列。这三家公司均是全球最大的另类资产管理公司。截至2022年12月31日，硅谷银行拥有736亿美元的贷款，但无法确定阿波罗和黑石有意购买的规模。其中一位知情人士表示，黑石还在考虑可能收购硅谷银行的其他资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5072940.d.html</link>
-            <guid>3025701</guid>
-            <pubDate>Tue, 14 Mar 2023 14:53:34 GMT</pubDate>
+            <title><![CDATA[评级机构标普称，欧洲银行业受硅谷银行危机外溢风险程度有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8266742.d.html</link>
+            <guid>3025802</guid>
+            <pubDate>Tue, 14 Mar 2023 17:33:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中航产融：2022年净利润同比下降62.42% 拟10派0.6元】中航产融公布年报，公司2022年实现营业收入112.46亿元，同比增长6.5%；归母净利润16.8亿元，同比下降62.42%；基本每股收益0.19元。公司拟向全体股东每10股派送现金股利0.60元（含税）。公司2022年受金融市场行情波动影响，业绩出现一定波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8295684.d.html</link>
-            <guid>3025700</guid>
-            <pubDate>Tue, 14 Mar 2023 14:53:13 GMT</pubDate>
+            <title><![CDATA[嘉信理财CEO：公司现在获得大规模资金流入，哪怕公司股价因美国区域性银行股被抛售而遭受重创。]]></title>
+            <guid>3025801</guid>
+            <pubDate>Tue, 14 Mar 2023 17:33:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：德国法院证实其支持将俄罗斯石油公司Rosneft的资产转移到外部管理之下。]]></title>
-            <guid>3025697</guid>
-            <pubDate>Tue, 14 Mar 2023 14:52:51 GMT</pubDate>
+            <title><![CDATA[【两年期德债收益率涨超20个基点，银行股急剧反弹之际，投资者对欧洲央行紧缩的预期回暖】 周二（3月14日）欧市尾盘，德国10年期国债收益率上涨16.0个基点，报2.420%，盘中交投于2.188%-2.464%区间，周一曾跌至2.167%，逼近2月3日底部2.072%。两年期德债收益率上涨20.2个基点，结束之前连续三个交易日下跌的趋势，报2.892%，盘中交投于2.429%-2.981%区间，欧股开盘前一刻曾逼近2022年12月19日底部2.413%和当年12月15日底部2.130%；五年期德债收益率涨18.8个基点，五年期德债收益率涨18.1个基点，30年期德债收益率涨13.2个基点。2/10年期德债收益率利差下跌4.194个基点，报-48.559个基点，盘中交投区间为-21.814至-53.179个基点，延续3月9日跌至-64.432个基点以来的反弹趋势。]]></title>
+            <guid>3025800</guid>
+            <pubDate>Tue, 14 Mar 2023 17:33:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国驻比利时使馆发言人就比政府部门禁用TikTok答问】3月14日，驻比利时使馆发言人就比政府部门禁用TikTok答问。问：近期，比联邦政府宣布，出于信息安全考虑，TikTok将被暂时禁止在比联邦政府拥有或支付的设备上使用，并呼吁地区、省和地方政府实施类似的禁令。中方对此有何评论？答：我们注意到比方相关声明。中国政府一贯鼓励中国企业遵守国际规则和当地法律法规，秉持互利共赢精神开展务实合作。比方采取限制性措施无理打压别国企业，这种做法有损国际社会对比营商环境的信心。希望比方尊重市场规则和公平竞争原则，停止泛化、滥用国家安全概念，为各国企业提供开放、公平、透明、非歧视的营商环境。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5070119.d.html</link>
-            <guid>3025696</guid>
-            <pubDate>Tue, 14 Mar 2023 14:50:05 GMT</pubDate>
+            <title><![CDATA[【美国总统拜登签署扩大枪支购买背景调查的行政令】美国总统拜登当地时间3月14日签署扩大枪支购买背景调查的行政令，以减少美国的大规模枪击暴力事件。根据白宫发布的命令，拜登还要求国会采取额外行动，减少枪支暴力，并敦促联邦贸易委员会发布一份公开报告，分析枪支制造商如何向未成年人销售枪支，以提高公众对非法持有枪支的警醒意识。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5041116.d.html</link>
+            <guid>3025799</guid>
+            <pubDate>Tue, 14 Mar 2023 17:29:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【大族激光：公司在硅谷银行没有存款】被投资者问及“公司在硅谷银行有存款吗？”大族激光在互动平台表示，公司在上述银行没有存款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8292769.d.html</link>
-            <guid>3025695</guid>
-            <pubDate>Tue, 14 Mar 2023 14:49:28 GMT</pubDate>
+            <title><![CDATA[俄罗斯总统普京：在理论上仍可以修复北溪天然气管道。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8263108.d.html</link>
+            <guid>3025798</guid>
+            <pubDate>Tue, 14 Mar 2023 17:26:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国地方发展、社区及住房大臣戈夫：要求11家建筑开发商立即签署建筑外墙涂层修复协议，拒绝签署此协议者将不得在英格兰地区开建新住宅。]]></title>
-            <guid>3025694</guid>
-            <pubDate>Tue, 14 Mar 2023 14:47:41 GMT</pubDate>
+            <title><![CDATA[欧洲复兴开发银行首席经济学家：硅谷银行的倒闭不是“雷曼时刻”，美国监管机构已经迅速采取行动限制蔓延范围。]]></title>
+            <guid>3025797</guid>
+            <pubDate>Tue, 14 Mar 2023 17:26:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法国电力公司（EDF）计划将2023年核能发电量预期维持在既有水平上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8290354.d.html</link>
-            <guid>3025693</guid>
-            <pubDate>Tue, 14 Mar 2023 14:44:08 GMT</pubDate>
+            <title><![CDATA[自动驾驶汽车公司Cruise创始人Vogt：共享汽车服务公司Uber(UBER.N)和Lyft(LYFT.O)的定价太高，以致只有最有钱的1%人群才能天天乘坐。]]></title>
+            <guid>3025794</guid>
+            <pubDate>Tue, 14 Mar 2023 17:21:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[穆迪：基本预测是美联储将继续收紧货币政策，这可能会加剧部分美国银行面临的挑战。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8287575.d.html</link>
-            <guid>3025691</guid>
-            <pubDate>Tue, 14 Mar 2023 14:40:52 GMT</pubDate>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：第一季度的汽车销售强于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5033900.d.html</link>
+            <guid>3025788</guid>
+            <pubDate>Tue, 14 Mar 2023 17:13:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【通达股份：2022年净利润同比增长398.96% 拟回购股份】通达股份公布年报，公司2022年实现营业收入54.99亿元，同比增长133.53%；归母净利润1.22亿元，同比增长398.96%；基本每股收益0.23元。同日公告，公司拟使用自有资金不低于609.04万元且不超过1218.08万元回购股份，用于后续实施股权激励或员工持股计划，回购价格不超过14元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8286420.d.html</link>
-            <guid>3025690</guid>
-            <pubDate>Tue, 14 Mar 2023 14:38:21 GMT</pubDate>
+            <title><![CDATA[标普：:预计第一共和银行将增加批发借款，以支撑其表内流动性，这可能会拖累盈利能力。]]></title>
+            <guid>3025787</guid>
+            <pubDate>Tue, 14 Mar 2023 17:13:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  市场消息：英国或取消马来西亚棕榈油进口关税。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8286193.d.html</link>
-            <guid>3025689</guid>
-            <pubDate>Tue, 14 Mar 2023 14:37:46 GMT</pubDate>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：正在努力提高悍马电动车的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5030205.d.html</link>
+            <guid>3025785</guid>
+            <pubDate>Tue, 14 Mar 2023 17:07:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宝馨科技：2022年净利润3035.48万元 同比增长146.15%】宝馨科技公布年报，公司2022年实现营业收入6.84亿元，同比增长7.81%；归母净利润为3035.48万元，同比增长146.15%；基本每股收益0.0487元。报告期内，公司坚定以“新能源产业综合服务商”为核心战略定位，以“新能源+智能制造”双轮驱动为发展方针，稳步开展各项经营活动，加快产业结构调整，新能源业务开拓初见成效，并且对于原有业务形成正向促进。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8284759.d.html</link>
-            <guid>3025687</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:56 GMT</pubDate>
+            <title><![CDATA[通用汽车(GM.N)CEO博拉：将在2023年上半年生产5万辆电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8253079.d.html</link>
+            <guid>3025784</guid>
+            <pubDate>Tue, 14 Mar 2023 17:07:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞典金融服务局（FSA）：瑞典大型银行对陷入困境的美国银行的敞口并不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5061661.d.html</link>
-            <guid>3025686</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:39 GMT</pubDate>
+            <title><![CDATA[【土耳其外长恰武什奥卢与联合国秘书长古特雷斯通电话】 土耳其外交部当地时间3月14日发表声明称，土外交部长恰武什奥卢当天与联合国秘书长古特雷斯通电话，双方讨论了黑海港口农产品外运协议延期以及乌克兰局势等问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8246971.d.html</link>
+            <guid>3025779</guid>
+            <pubDate>Tue, 14 Mar 2023 16:55:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  法国最大轮胎制造商米其林计划在加拿大新斯科舍省投资3亿加元建造工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5061596.d.html</link>
-            <guid>3025685</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:32 GMT</pubDate>
+            <title><![CDATA[【俄总理：俄罗斯将继续扩大与有兴趣的国家的贸易关系】俄罗斯总理米舒斯京说，俄罗斯将继续扩大与那些对合作感兴趣的国家的经贸关系。俄罗斯总理在扩大与友好国家协作的战略会议上说：“我们面临的任务是在不友好国家的限制下确保国家经济的发展。俄罗斯仍然是全球世界的一部分，因此我们将继续扩大和加强与那些对这种合作感兴趣的国家的经贸联系。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5023314.d.html</link>
+            <guid>3025777</guid>
+            <pubDate>Tue, 14 Mar 2023 16:53:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经纪商HYCM：美联储可能想方设法向市场提供加息指引】经纪商HYCM首席市场分析师Giles Coghlan表示，2月份的美国通胀数据增加了美联储下周加息25个基点的可能性，在此之后美联储将暂停加息。美联储会担心货币政策的滞后性可能开始对美国经济产生更大的影响，他们不想被指责过度紧缩。虽然现在是美联储官员的噤声期，但预计美联储将通过媒体想方设法给市场“放风”，就其下一步行动向交易员提供指引。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8284423.d.html</link>
-            <guid>3025684</guid>
-            <pubDate>Tue, 14 Mar 2023 14:34:21 GMT</pubDate>
+            <title><![CDATA[通用汽车CEO：自动驾驶出租车将成为公司巨大的业务增长点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8243916.d.html</link>
+            <guid>3025775</guid>
+            <pubDate>Tue, 14 Mar 2023 16:50:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【谷歌在Gmail等办公应用中引入AI技术：可自动生成所需内容】据报道，谷歌今日宣布，将进一步在其产品中引入人工智能（AI）技术，这一次将把它整合到Gmail电子邮件和Google Docs文档等办公应用中。当前，谷歌正在测试其AI产品，允许一部分Google Workspace用户访问。Google Workspace是谷歌的一整套办公组件，包括Gmail和Google Docs等。此外，谷歌还表示，计划在今年晚些时候将更多人工智能功能引入Google Workspace，包括在工作表中生成公式，在幻灯片中自动生成图像，以及在Google Meet中做笔记等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8284191.d.html</link>
-            <guid>3025683</guid>
-            <pubDate>Tue, 14 Mar 2023 14:33:45 GMT</pubDate>
+            <title><![CDATA[卡特彼勒(CAT.N)CEO：美国非住宅地产市场正得到改善，建筑业活动表现强劲；预计公司销售及利润状况将同比改善。]]></title>
+            <guid>3025773</guid>
+            <pubDate>Tue, 14 Mar 2023 16:49:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股早盘扩大涨幅，纳斯达克100指数上涨2%，标普500指数上涨1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5057974.d.html</link>
-            <guid>3025681</guid>
-            <pubDate>Tue, 14 Mar 2023 14:29:25 GMT</pubDate>
+            <title><![CDATA[自动驾驶汽车公司Cruise创始人Vogt：特斯拉所宣的“全自动驾驶”功能对消费者造成了误导。]]></title>
+            <guid>3025771</guid>
+            <pubDate>Tue, 14 Mar 2023 16:46:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元区国债收益率持续上涨，德国10年期国债收益率上升16个基点，报2.44%；德国2年期国债收益率上升22.5个基点，报2.92%；意大利10年期国债收益率上升7个基点，至4.28%。]]></title>
-            <guid>3025680</guid>
-            <pubDate>Tue, 14 Mar 2023 14:28:41 GMT</pubDate>
+            <title><![CDATA[市场消息：通用汽车(GM.N)全球首席营销官Deborah Wahl将于3月31日退休。]]></title>
+            <guid>3025768</guid>
+            <pubDate>Tue, 14 Mar 2023 16:40:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[今年1-2月，阿塞拜疆石油产量同比下降6.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8279391.d.html</link>
-            <guid>3025679</guid>
-            <pubDate>Tue, 14 Mar 2023 14:25:29 GMT</pubDate>
+            <title><![CDATA[波兰最大银行Pko CEO认为硅谷银行事件对波兰银行没有直接影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncp5015439.d.html</link>
+            <guid>3025767</guid>
+            <pubDate>Tue, 14 Mar 2023 16:38:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加拿大皇家银行：如果油价暴跌，欧佩克+可能减产】加拿大皇家银行分析师Helima Croft表示，尽管欧佩克在硅谷银行崩溃后一直保持沉默，但预计如果油价有崩盘的迹象，欧佩克+将减产。将于4月3日举行的欧佩克+联合部长级监督委员会（JMMC）会议确实为欧佩克调整产量政策提供了一次机会。不过最近的市场动荡只会增强欧佩克对去年减产政策的信心。此外，分析师表示，沙特和伊朗上周达成的恢复外交关系的协议可能会降低沙特关键（产油）基础设施遭到袭击的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5054323.d.html</link>
-            <guid>3025676</guid>
-            <pubDate>Tue, 14 Mar 2023 14:22:27 GMT</pubDate>
+            <title><![CDATA[德国DAX 30指数初步收涨1.90%，报15244.26点。法国股指初步收涨2.04%，意大利股指初步收涨2.51%，英国股指初步收涨1.18%。]]></title>
+            <guid>3025765</guid>
+            <pubDate>Tue, 14 Mar 2023 16:33:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【农业农村部：强化大豆政策支持 全力稳定东北大豆种植面积】农业农村部党组书记、部长唐仁健主持召开部党组会议。会议强调，要抓紧抓实夏季粮油生产，督促指导各地加密冬小麦墒情苗情监测，落实好春浇春管等措施，促进苗情转化升级。要强化大豆政策支持，全力稳定东北大豆种植面积，尽可能扩大新疆棉豆轮作和西南、黄淮海地区大豆玉米带状复合种植，系统抓好大豆大面积提单产，确保面积稳定、产量提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5052648.d.html</link>
-            <guid>3025675</guid>
-            <pubDate>Tue, 14 Mar 2023 14:20:01 GMT</pubDate>
+            <title><![CDATA[美国民主党参议员布朗：相信鲍威尔会对硅谷银行（SVB）进行适当的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwncm8230763.d.html</link>
+            <guid>3025762</guid>
+            <pubDate>Tue, 14 Mar 2023 16:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国富时100指数日内涨幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8274952.d.html</link>
-            <guid>3025674</guid>
-            <pubDate>Tue, 14 Mar 2023 14:18:28 GMT</pubDate>
+            <title><![CDATA[美国民主党参议员布朗：2018年放松银行监管是一个错误；美国需要加强对银行的资本和流动性规定。]]></title>
+            <guid>3025759</guid>
+            <pubDate>Tue, 14 Mar 2023 16:26:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欣贺股份：功能性成衣产品将于3月中旬上市】欣贺股份近日接受机构调研时表示，经福建省纤维检验中心检测报告确认，公司相关功能性面料可抵抗三大病菌：大肠杆菌、金黄色葡萄球菌、白色念球菌球菌，抗菌标准均达到AAA级。抗甲型流感病毒H3N2活性率达97.15%，水洗50次抑菌率仍大于99%。具备上述功能的口罩产品已于3月2日在相关官方旗舰店上架，相关功能性成衣产品也将于3月中旬上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8274418.d.html</link>
-            <guid>3025673</guid>
-            <pubDate>Tue, 14 Mar 2023 14:16:59 GMT</pubDate>
+            <title><![CDATA[哈萨克斯坦的Tengiz油田已经恢复原油生产。此前其开采作业一度因产品外运管道运能紧张而暂停。]]></title>
+            <guid>3025758</guid>
+            <pubDate>Tue, 14 Mar 2023 16:25:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟能源委员西姆森：欧盟将于周四概述氢银行情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5051439.d.html</link>
-            <guid>3025672</guid>
-            <pubDate>Tue, 14 Mar 2023 14:16:46 GMT</pubDate>
+            <title><![CDATA[【高能同步辐射光源直线加速器满能量出束，从此进入科研设备安装、调束并行阶段】 据新华网，从中国科学院获悉，“十三五”国家重大科技基础设施高能同步辐射光源（HEPS）直线加速器14日实现满能量出束，成功加速第一束电子束。高能同步辐射光源从此进入科研设备安装、调束并行阶段。“直线加速器于2022年9月完成系统联调和高功率老练；今年3月9日启动调束，束流全线贯通；3月14日，束流能量达到500MeV，末端电荷量达到额定2.5nC以上。”HEPS工程加速器部副主任李京祎介绍，物理设计和设备研发团队坚持技术创新，取得多项成果，为HEPS加速器的建设、调束、运行提供了可靠的技术保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvp8356510.d.html</link>
+            <guid>3025757</guid>
+            <pubDate>Tue, 14 Mar 2023 16:24:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【卡莱特：2022年净利润同比增长22.11% 拟10派6元】卡莱特公布年报，公司2022年实现营业收入6.79亿元，同比增长16.62%；归母净利润1.31亿元，同比增长22.11%；基本每股收益2.5元。公司拟向全体股东每10股派发现金红利6元（含税）。随着5G+8K等技术的普及和应用，高性能，盈利能力更强的视频处理设备销售占比显著提高，以及相关配套设备随着主营产品的销售增长而增长。同时，报告期内公司深度挖掘海外客户，加大海外市场营销网络建设，实现境外营业收入7014.67万元，同比增长45.12%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5050220.d.html</link>
-            <guid>3025671</guid>
-            <pubDate>Tue, 14 Mar 2023 14:13:56 GMT</pubDate>
+            <title><![CDATA[俄罗斯希望联合国不仅提供保证，而且采取具体措施帮助解除农产品出口的障碍；俄罗斯反对扩大粮食协议，直到俄罗斯粮食出口畅通无阻。]]></title>
+            <guid>3025756</guid>
+            <pubDate>Tue, 14 Mar 2023 16:24:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【成飞集成：2022年度净利润同比增长4.82% 拟10股派0.5元】成飞集成公布年报，2022年度净利润5841.6万元，同比增长4.82%；拟10股派0.5元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5050150.d.html</link>
-            <guid>3025670</guid>
-            <pubDate>Tue, 14 Mar 2023 14:13:43 GMT</pubDate>
+            <title><![CDATA[俄罗斯已经告知联合国，俄罗斯不反对将粮食协议延长到60天，而不是120天；尚未收到协议参与方对俄方立场的正式回应。]]></title>
+            <guid>3025755</guid>
+            <pubDate>Tue, 14 Mar 2023 16:23:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国司法部和美国证交会正在调查硅谷银行的信息披露和高管交易方面的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8271685.d.html</link>
-            <guid>3025669</guid>
-            <pubDate>Tue, 14 Mar 2023 14:11:58 GMT</pubDate>
+            <title><![CDATA[【券商系统已准备好面对全面注册制交易系统】 3月14日，沪深交易所发布公告称，将会在3月18日进行全面注册制股票发行交易相关业务的全网测试。有券商人士表示，周末举行的是第一次通关测试，根据以往科创板、创业板的经验，后面还会有全网测试以及通关测试。就是要在测试的过程中，不断发现问题，解决问题。“我们目前交易系统已经准备好了，交易系统的准备难度不大，有些是用的第三方供应商提供的，系统本来就调试的差不多了。”有北方券商人士表示。不少地方的证监局也在督促券商做好全面注册制的系统准备工作。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvr5126978.d.html</link>
+            <guid>3025754</guid>
+            <pubDate>Tue, 14 Mar 2023 16:19:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲投资银行（EIB）与意大利政府及各大银行正联手融资34亿欧元，用于升级改造该国西西里岛的铁路网。]]></title>
-            <guid>3025666</guid>
-            <pubDate>Tue, 14 Mar 2023 14:08:46 GMT</pubDate>
+            <title><![CDATA[【美国食品加工巨头泰森食品将关闭两座鸡肉加工厂 并裁员1700人】美国食品加工巨头泰森食品将关闭两座鸡肉加工厂，并裁员1700人。泰森食品在给媒体的一份声明中说：“虽然这个决定并不容易，但它反映了我们通过优化运营和利用每个工厂的全部可用产能来加强我们家禽业务的更广泛战略。”在最近一个季度，泰森食品的鸡肉业务表现不及预期，其营业收入较上年同期减少了一半。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvp8348855.d.html</link>
+            <guid>3025753</guid>
+            <pubDate>Tue, 14 Mar 2023 16:18:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【鼎龙股份：公司封装用光刻胶（PSPI）目前已开始客户送样工作】鼎龙股份在互动平台表示，公司在先进封装材料领域重点布局的产品包括：临时键合胶（TBA），封装光刻胶PSPI，底部填充剂（Underfill）等产品。公司显示用光刻胶（PSPI）已经通过主流显示客户验证，正在逐步放量。公司封装用光刻胶（PSPI），在显示用PSPI的技术平台基础上，吸收了PI合成及产业化方面的技术经验，目前已经开始客户送样工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8399596.d.html</link>
-            <guid>3025664</guid>
-            <pubDate>Tue, 14 Mar 2023 14:06:31 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯财政部否认“爱国债券”计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvr5125021.d.html</link>
+            <guid>3025752</guid>
+            <pubDate>Tue, 14 Mar 2023 16:17:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[正荣地产：境外整体债务管理的初步建议方案的暂定条款将或不包括任何本金的削减及可能包括分期摊还现有债务的本金及其任何应计且未付利息。]]></title>
-            <guid>3025663</guid>
-            <pubDate>Tue, 14 Mar 2023 14:05:58 GMT</pubDate>
+            <title><![CDATA[美国最大电影院公司AMC娱乐的股东同意增发普通股。公司股价盘中扩大跌幅，下跌6.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvr5123763.d.html</link>
+            <guid>3025750</guid>
+            <pubDate>Tue, 14 Mar 2023 16:15:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[正荣地产：重申计划于二零二三年三月底前向境外债权人提呈境外整体债务管理的初步建议方案。]]></title>
-            <guid>3025662</guid>
-            <pubDate>Tue, 14 Mar 2023 14:05:30 GMT</pubDate>
+            <title><![CDATA[市场消息：谷歌旗下YouTube正对“多视窗播放（Multiview）”功能开展初步评估，该功能将允许其YouTube TV用户在同一台设备上同时观看好几档不同的节目。]]></title>
+            <guid>3025748</guid>
+            <pubDate>Tue, 14 Mar 2023 16:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国首个全套电气化公路及矿山运输系统示范项目在中国中车落成发布】3月14日，由中国中车研发的我国首个电气化公路及矿山运输系统示范项目在山西大同落成发布。该项目由电气化公路和双源智能电动重卡两大技术平台组成，综合形成了全套电气化公路和矿山运输系统解决方案，在填补国内技术领域空白的同时，将牵引公路和矿山运输加速驶入“绿色高地”，为有效解决全球公路节能降碳运输难题提供了“中国方案”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8394466.d.html</link>
-            <guid>3025660</guid>
-            <pubDate>Tue, 14 Mar 2023 14:00:55 GMT</pubDate>
+            <title><![CDATA[埃及供应部长：埃及的战略小麦储备足够用3.3个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvp8340697.d.html</link>
+            <guid>3025747</guid>
+            <pubDate>Tue, 14 Mar 2023 16:05:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：将继续努力降低消费成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5169210.d.html</link>
-            <guid>3025657</guid>
-            <pubDate>Tue, 14 Mar 2023 13:58:40 GMT</pubDate>
+            <title><![CDATA[市场消息：YouTube首次在YouTube TV上提供“多视图”功能的早期访问。]]></title>
+            <guid>3025746</guid>
+            <pubDate>Tue, 14 Mar 2023 16:05:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟能源专员：我们将很快提议把欧盟成员国自愿削减天然气需求的措施延长到今年冬天之后。]]></title>
-            <guid>3025655</guid>
-            <pubDate>Tue, 14 Mar 2023 13:56:27 GMT</pubDate>
+            <title><![CDATA[【1000辆中国造新能源客车俏销乌兹别克斯坦】 3月14日，16辆中国制造的新能源客车在办理完海关查验手续后，由霍尔果斯公路口岸出境，这是乌兹别克斯坦政府向中国企业采购的1000辆新能源客车订单的首批交付客车。这是乌兹别克斯坦首次大批量引入新能源客车，也是今年以来中国在“一带一路”沿线国家的最大客车订单，这些客车计划在今年5月份前分批次交付。2023年是共建“一带一路”倡议提出十周年，作为中国扩大对外开放的重大举措，“一带一路”开启了中国与全球经济发展的新篇章，也为中国企业“出海”创造了新机遇，新能源汽车目前已成为中国智能制造“新名片”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvp8340498.d.html</link>
+            <guid>3025745</guid>
+            <pubDate>Tue, 14 Mar 2023 16:05:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁德时代与北汽集团签署战略合作协议】3月13日，宁德时代与北汽集团签署商务合作与先进技术赋能战略合作协议。双方计划共同开发动力电池产品，开拓新能源汽车市场。根据协议，宁德时代将深度融入到北汽集团下属自主品牌新能源汽车企业的整车开发及生产，并提供具有竞争力的动力电池产品和服务保障。双方将构建更为紧密的战略合作伙伴关系，在动力电池方面开展全面合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5166276.d.html</link>
-            <guid>3025654</guid>
-            <pubDate>Tue, 14 Mar 2023 13:55:51 GMT</pubDate>
+            <title><![CDATA[【AI初创公司Anthropic发布一款名为“Claude”聊天机器人】人工智能初创公司Anthropic发布了一款能与ChatGPT竞争的聊天机器人，企业可以将其添加到他们的产品中去。Anthropic表示，这款名为“Claude”的聊天机器人在过去几个月里已经由概念实验室( Notion Labs)、Quora和搜索引擎DuckDuckGo等科技公司进行了测试。例如，Quora的一个名为Poe的应用程序就包含了该聊天机器人，用户可以通过它提问。想要使用Claude聊天机器人的公司可以通过等待名单进行注册。Anthropic的目标是在收到用户请求后的几天内可以让用户使用。这家初创公司还推出了一个名为Claude Instant的版本，虽然功能不那么强大，但价格更便宜，速度也更快。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvr5116534.d.html</link>
+            <guid>3025744</guid>
+            <pubDate>Tue, 14 Mar 2023 16:03:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Meta宣布裁员10000人 关闭5000个职位空缺】据报道，Facebook母公司Meta今日宣布，为应对经济低迷，作为削减成本并提高工作效率计划的一部分，公司将再次裁员10000名员工。在此之前，Meta已于去年11月宣布了第一轮大规模员，约有11000多名员工受影响，约其员工总数的约13%。今日，Meta CEO马克·扎克伯格（Mark Zuckerberg）又宣布了第二轮大裁员。他说：“在接下来的几个月里，我们将宣布一些重组计划，重点是让组织架构扁平化，取消优先级较低的项目，减少招聘。”此外，扎克伯格还表示，公司还计划关闭额外5000个尚未填补的空缺职位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5164990.d.html</link>
-            <guid>3025652</guid>
-            <pubDate>Tue, 14 Mar 2023 13:54:36 GMT</pubDate>
+            <title><![CDATA[【波罗的海干散货运价指数触及近12周高点，因海岬型船运价走高】波罗的海干散货运价指数周二升至近12周高点，受各类型船舶运费上涨推动，海岬型船运价涨幅明显。波罗的海干散货运价指数上涨122点或8.3%，至1587点，为2022年12月22日以来最高水平。海岬型船运价指数上涨289点或15.9%，至2110点的逾11周高点。海岬型船日均获利上涨2401美元，至17500美元。巴拿马型船运价指数上涨63点或3.8%至1743点，为逾四个月以来高位。巴拿马型船日均获利上涨564美元，至15685美元。超灵便型散货船运价指数上涨28点，至1263点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-15/detail-imykwfvr5113596.d.html</link>
+            <guid>3025742</guid>
+            <pubDate>Tue, 14 Mar 2023 16:00:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟能源专员：我们将于周三宣布联合购买天然气的下一步措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5164427.d.html</link>
-            <guid>3025651</guid>
-            <pubDate>Tue, 14 Mar 2023 13:53:47 GMT</pubDate>
+            <title><![CDATA[【美国又发生列车脱轨事故，导致工业酒精泄漏引发火灾】 据美国媒体13日报道，美国堪萨斯州麦克弗森市12日发生列车脱轨事故。事故共造成13节车厢脱轨，其中两节装有工业酒精的车厢发生泄漏，并引发火灾。消防人员随后控制住了火势，但一些工业酒精流入附近的河流中。截至当地时间13日晚，工作人员仍在对现场进行清理。（央视财经）]]></title>
+            <guid>3025741</guid>
+            <pubDate>Tue, 14 Mar 2023 15:59:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国央行将就硅谷银行英国子公司事件向英国议会委员会作证词。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5162544.d.html</link>
-            <guid>3025650</guid>
-            <pubDate>Tue, 14 Mar 2023 13:51:33 GMT</pubDate>
+            <title><![CDATA[【百亿明星基金经理隐形重仓股曝光：“顶流”现身医药股，大消费等也被“盯上”】 据中证报，Wind数据统计显示，3月中旬以来，有27家上市公司陆续披露2022年年报。其中，兰石重装、阳光诺和、天味食品、华特达因、永新股份、海正生材、铜峰电子、爱旭股份、富春染织等多只股票的前十大流通股东中，出现公募基金的“身影”。业内人士表示，这些公司共同的特点是业绩整体表现良好，不少个股估值处于低位水平使其具备较好的投资价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5113354.d.html</link>
+            <guid>3025740</guid>
+            <pubDate>Tue, 14 Mar 2023 15:59:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【最高近510亿！4家合资理财公司披露重要数据】日前，汇华理财、贝莱德建信理财、施罗德交银理财、高盛工银理财4家合资理财公司2022年下半年理财业务报告披露完毕。从存续的产品规模来看，截至2022年末，汇华理财产品规模最高，达509.67亿元，施罗德交银理财、贝莱德建信理财产品规模分别达180.82亿元、67.40亿元，高盛工银理财产品规模为1.51亿元。（中证报）]]></title>
-            <guid>3025649</guid>
-            <pubDate>Tue, 14 Mar 2023 13:50:36 GMT</pubDate>
+            <title><![CDATA[市场消息：阿瑞斯资产管理公司（ARES）正考虑收购硅谷银行的一小部分贷款资产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5113308.d.html</link>
+            <guid>3025739</guid>
+            <pubDate>Tue, 14 Mar 2023 15:59:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中概教育股普跌，高途跌近17%，新东方跌超10%，好未来现跌超17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8384348.d.html</link>
-            <guid>3025648</guid>
-            <pubDate>Tue, 14 Mar 2023 13:50:25 GMT</pubDate>
+            <title><![CDATA[【驻比利时使馆发言人就比政府部门禁用TikTok答问】 问：近期，比联邦政府宣布，出于信息安全考虑，TikTok将被暂时禁止在比联邦政府拥有或支付的设备上使用，并呼吁地区、省和地方政府实施类似的禁令。中方对此有何评论？答：我们注意到比方相关声明。中国政府一贯鼓励中国企业遵守国际规则和当地法律法规,秉持互利共赢精神开展务实合作。比方采取限制性措施无理打压别国企业，这种做法有损国际社会对比营商环境的信心。希望比方尊重市场规则和公平竞争原则，停止泛化、滥用国家安全概念，为各国企业提供开放、公平、透明、非歧视的营商环境。（中华人民共和国驻比利时王国大使馆）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5110701.d.html</link>
+            <guid>3025738</guid>
+            <pubDate>Tue, 14 Mar 2023 15:55:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【哪吒汽车与交通银行上海分行签署100亿元银企战略合作协议】哪吒汽车官微消息，近日，合众新能源汽车股份有限公司与交通银行股份有限公司上海市分行签署100亿元银企战略合作协议。双方将围绕授信业务、结算业务、国际业务、公司业务、投行业务、个人业务、电子银行等领域进行更加深入全面的合作，以共同推动双方业务发展。此次签约代表了双方全面业务合作的深入推进，未来，双方会将进一步拓展合作空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8383498.d.html</link>
-            <guid>3025645</guid>
-            <pubDate>Tue, 14 Mar 2023 13:49:00 GMT</pubDate>
+            <title><![CDATA[【农业农村部调整海洋伏季休渔制度】 农业农村部近日印发关于调整海洋伏季休渔制度的通告，进一步完善海洋伏季休渔制度。此次调整后，北纬35度至北纬26度30分之间的黄海和东海海域桁杆拖虾、笼壶类、刺网和灯光围（敷）网4种类型渔船休渔时间将延长。据了解，与2021年发布实施的海洋伏季休渔制度相比，此次调整主要是将北纬35度至北纬26度30分之间的黄海和东海海域桁杆拖虾、笼壶类、刺网和灯光围（敷）网4种类型渔船休渔结束时间，由8月1日12时延长至9月16日12时，休渔时间为5月1日12时至9月16日12时，并允许该4种类型渔船在休渔期间申请开展专项捕捞。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5108120.d.html</link>
+            <guid>3025736</guid>
+            <pubDate>Tue, 14 Mar 2023 15:53:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑瑞郎USD/CHF日内涨超0.50%，现报0.9156。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8383438.d.html</link>
-            <guid>3025644</guid>
-            <pubDate>Tue, 14 Mar 2023 13:48:56 GMT</pubDate>
+            <title><![CDATA[瑞士信贷(CS.N)重申，2022年及以前年度的财务结果是准确和可靠的，外部审计师普华永道的无保留审计意见支持了这一点。]]></title>
+            <guid>3025735</guid>
+            <pubDate>Tue, 14 Mar 2023 15:50:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Silvergate跟随美国地区性银行股反弹，现涨超9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8383422.d.html</link>
-            <guid>3025643</guid>
-            <pubDate>Tue, 14 Mar 2023 13:48:53 GMT</pubDate>
+            <title><![CDATA[【安永-博智隆：美联储3月的利率决定可能面临分歧】安永-博智隆（EY-Parthenon）首席经济学家达科Gregory Daco表示，预计美联储下周将加息50个基点，但下周的声明可能显示美联储官员们围绕两种可能的加息路径展开了激烈辩论。一是美联储谨慎地维持联邦基金利率不变；二是美联储通过加息25个基点，以及在当前经济和金融市场背景下采取双向行动的政策方针，在应对银行业危机的同时努力抗击通胀。不过，即使美联储下周不加息，如果当前美国的银行业危机没有进一步加深，美联储在5月仍有可能继续加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5103338.d.html</link>
+            <guid>3025734</guid>
+            <pubDate>Tue, 14 Mar 2023 15:48:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳指涨超2%，明星科技股普遍走高，Salesforce、特斯拉、英伟达均涨约4%。]]></title>
-            <guid>3025642</guid>
-            <pubDate>Tue, 14 Mar 2023 13:48:37 GMT</pubDate>
+            <title><![CDATA[法国Lithium de France在B轮融资中募集0.44亿欧元资金，资金用途为地热资源取暖和锂冶炼（等）项目。除了挪威海德鲁（Norsk Hydro）入股12%之外，现有股东Arverne Group和挪威能源巨头Equinor。]]></title>
+            <guid>3025733</guid>
+            <pubDate>Tue, 14 Mar 2023 15:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【健民集团：2022年净利润同比增长33.52% 拟10派10元】健民集团公布年报，2022年实现营业收入36.41亿元，同比增长10.35%；归属于上市公司股东的净利润4.08亿元，同比增长33.52%；基本每股收益2.68元／股。拟向全体股东每10股派现金红利10元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5160223.d.html</link>
-            <guid>3025641</guid>
-            <pubDate>Tue, 14 Mar 2023 13:48:16 GMT</pubDate>
+            <title><![CDATA[荷兰国防部长：荷兰将向乌克兰派遣雷达探测无人机，并派遣船只探测和摧毁水雷。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8326013.d.html</link>
+            <guid>3025732</guid>
+            <pubDate>Tue, 14 Mar 2023 15:47:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国国债延续跌势，10年期国债收益率上升16个基点至3.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8382892.d.html</link>
-            <guid>3025640</guid>
-            <pubDate>Tue, 14 Mar 2023 13:47:45 GMT</pubDate>
+            <title><![CDATA[法国能源公司Elengy：液化天然气（LNG）终端设施发生的罢工将一直延续至3月21日。]]></title>
+            <guid>3025730</guid>
+            <pubDate>Tue, 14 Mar 2023 15:40:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新一轮“抢人大战”一触即发：香港、上海、杭州都出手了】日前，杭州出台新规，已落实就业单位的35岁以下大专生可直接落户，45岁以下硕士可“先落户后就业”。在此之前，杭州表示，拟向生育二孩的家庭一次性发放补助5000元，三孩家庭补助20000元，成为全国生育补贴最高的城市。此外，日前香港推出“高端人才通行证计划”，范围扩大到全球百强大学毕业生，内地的“清北+华五+华中科大+中山大学”等9所高校在列。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8382176.d.html</link>
-            <guid>3025638</guid>
-            <pubDate>Tue, 14 Mar 2023 13:46:17 GMT</pubDate>
+            <title><![CDATA[挪威海德鲁集团 （Norsk Hydro）收购了法国锂业（Lithium de France）公司12%的股份。]]></title>
+            <guid>3025729</guid>
+            <pubDate>Tue, 14 Mar 2023 15:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿塞拜疆总统：阿塞拜疆计划在年底前开始向匈牙利出口天然气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8381886.d.html</link>
-            <guid>3025637</guid>
-            <pubDate>Tue, 14 Mar 2023 13:45:53 GMT</pubDate>
+            <title><![CDATA[【南钢股份：沙钢集团及沙钢投资拟受让公司控股股东南京钢联60%股权】 南钢股份公告，3月14日，复星高科及其下属子公司复星产投、复星工发与沙钢集团及其下属子公司沙钢投资共同签署《股权转让协议》，转让方拟将其所持有的公司控股股东南京钢联60%股权出售予受让方。其中，沙钢集团受让复星高科持有的南京钢联30%股权，沙钢投资受让复星产投、复星工发合计持有的南京钢联30%股权。此次沙钢集团及沙钢投资受让南京钢联60%股权交易的权益变动事项尚需南京钢联的股东南京钢铁集团有限公司放弃优先受让权、公司将所持有的浙江万盛股份有限公司全部股份转让予复星高科、通过国家市场监督管理总局反垄断局关于经营者集中的审查等事项作为前置条件。如本次权益变动完成，公司控股股东仍为南京钢联，公司实控人将发生变化。]]></title>
+            <guid>3025728</guid>
+            <pubDate>Tue, 14 Mar 2023 15:36:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“老十家”长盛基金正式换帅 胡甲任董事长兼总裁】长盛基金发布公告称，由股东方国元证券党委委员、原执委会委员及董事会秘书胡甲出任长盛基金董事长并代行总经理职务，长盛基金原董事长高民和、原总经理周兵离任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5158764.d.html</link>
-            <guid>3025636</guid>
-            <pubDate>Tue, 14 Mar 2023 13:45:24 GMT</pubDate>
+            <title><![CDATA[【硅谷银行高管的股票交易正在受到美国证交会和司法部的调查】据报道，一位知情人士透露，美国证交会和司法部正在调查硅谷银行高管是否存在不当行为，包括该行高管出售股票的行为是否违反了交易规则。目前调查还处于早期阶段，由美国司法部欺诈部门、美国加州北区检察官办公室和美国证交会的检察官负责处理。该行没有人被指控存在不当行为，调查可能在无需提起诉讼的情况下结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvr5096869.d.html</link>
+            <guid>3025727</guid>
+            <pubDate>Tue, 14 Mar 2023 15:35:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑日元涨1.2%，刷新日高至134.79，涨幅创2月24日以来最大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8380209.d.html</link>
-            <guid>3025634</guid>
-            <pubDate>Tue, 14 Mar 2023 13:42:41 GMT</pubDate>
+            <title><![CDATA[美国国会参议院两党议员共同提出法案，意在将仿制药品的审批流程更加精简化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8319642.d.html</link>
+            <guid>3025726</guid>
+            <pubDate>Tue, 14 Mar 2023 15:35:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯总统普京：俄罗斯国防工业人员短缺阻碍了国家国防秩序的履行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5156133.d.html</link>
-            <guid>3025632</guid>
-            <pubDate>Tue, 14 Mar 2023 13:41:41 GMT</pubDate>
+            <title><![CDATA[消息人士称，3月14日，风暴过后，俄罗斯黑海港口新罗西斯克的石油装载工作恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8319048.d.html</link>
+            <guid>3025725</guid>
+            <pubDate>Tue, 14 Mar 2023 15:33:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构：美联储下周不会加息】斯巴达资本证券公司首席市场经济学家Peter Cardillo表示，美国最新CPI数据没有高于预期，因此我认为美联储下周不会加息，如果他们加息，也只会加息25个基点，但我认为他们会按兵不动。而他们将不得不对可能还没有结束的银行业危机做出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8378898.d.html</link>
-            <guid>3025630</guid>
-            <pubDate>Tue, 14 Mar 2023 13:41:32 GMT</pubDate>
+            <title><![CDATA[【佩斯科夫：“奥库斯”核潜艇计划引发核扩散问题，我们需要答案】 当地时间13日下午，美国总统拜登与英国首相苏纳克和澳大利亚总理阿尔巴尼斯一同在美国宣布一项向澳大利亚提供核潜艇的计划。据路透社报道，克里姆林宫发言人佩斯科夫14日表示，向澳大利亚提供核动力潜艇的计划引发了有关核扩散的问题。报道称，佩斯科夫告诉记者，“这里有很多与核不扩散议题相关的问题。在这方面，我们需要特别的透明度，我们需要这些问题的答案”。据法新社报道，俄罗斯外交部长拉夫罗夫14日就此指责西方在亚太地区煽动“长年对抗”。拉夫罗夫通过电视发表评论称，“盎格鲁-撒克逊世界通过建立像奥库斯（AUKUS）这样的框架，以及将北约的军事基础设施推进到亚洲，他们正发出长年对抗的重大信号”。（环球网）]]></title>
+            <guid>3025724</guid>
+            <pubDate>Tue, 14 Mar 2023 15:33:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟委员会：欧盟电力市场改革规定了刺激与非化石能源生产商签订长期合同的措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8378759.d.html</link>
-            <guid>3025629</guid>
-            <pubDate>Tue, 14 Mar 2023 13:41:25 GMT</pubDate>
+            <title><![CDATA[【俄国防部长：下令加倍生产高精度武器】据俄罗斯卫星通讯社报道，当地时间13日，俄罗斯国防部称，俄罗斯国防部长绍伊古指示将精确制导武器的产量翻倍。据报道，俄国防部称，当天，绍伊古在莫斯科州与俄罗斯最大军工复合体之一的战术导弹武器集团(KTRV)及相关军事部门的领导举行了工作会议。绍伊古称，该企业拥有高精度武器增产的必要条件：高素质的专家和生产能力。“因此，任务虽然艰巨，但可以完成。”绍伊古表示，对于一些新型武器，该企业不再进行试验，而是转向批量生产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8317450.d.html</link>
+            <guid>3025723</guid>
+            <pubDate>Tue, 14 Mar 2023 15:32:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加密货币交易所Coinbase：Coinbase.com出现了一些登录问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5155791.d.html</link>
-            <guid>3025628</guid>
-            <pubDate>Tue, 14 Mar 2023 13:41:21 GMT</pubDate>
+            <title><![CDATA[加密货币交易所Coinbase称，网络、移动服务及Coinbase Prime业务都已经恢复，故障已经排除。]]></title>
+            <guid>3025722</guid>
+            <pubDate>Tue, 14 Mar 2023 15:22:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[声明显示，欧盟委员会提议改革欧盟电力市场，以提高可再生能源的份额，加快放弃使用天然气。]]></title>
-            <guid>3025627</guid>
-            <pubDate>Tue, 14 Mar 2023 13:41:14 GMT</pubDate>
+            <title><![CDATA[【卡塔尔2022年国内生产总值增长4%】 当地时间3月14日，卡塔尔商业与工业大臣穆罕默德·阿勒萨尼表示，受益于天然气出口强劲增长以及2022年卡塔尔世界杯的刺激，卡塔尔2022年国内生产总值增长4%，相比2021年3%的增长率有明显提升。穆罕默德还表示，液化天然气出口的大幅增长，使得卡塔尔贸易顺差持续扩大，全年财政盈余达到890亿里亚尔（约合人民币1676亿元）。卡塔尔是全球最主要的液化天然气生产国和出口国之一，天然气和石油的出口额占其出口总额的大约80%。2021年底以来，乌克兰局势持续紧张，欧洲多国多方寻找俄罗斯天然气的替代供应方，卡塔尔天然气受到青睐，出口额保持高速增长。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykwfvp8309673.d.html</link>
+            <guid>3025719</guid>
+            <pubDate>Tue, 14 Mar 2023 15:18:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国芝加哥期权交易所（CBOE）新兴市场恐慌指数盘初上涨7.5个百分点，报30.23%。CBOE新兴市场ETF指数目前涨5个百分点，报27.74%。]]></title>
-            <guid>3025624</guid>
-            <pubDate>Tue, 14 Mar 2023 13:38:10 GMT</pubDate>
+            <title><![CDATA[俄罗斯常驻联合国代表Nebenzia：俄罗斯敦促安理会成员支持并共同提出关于北溪管道调查的决议草案。]]></title>
+            <guid>3025718</guid>
+            <pubDate>Tue, 14 Mar 2023 15:16:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：波音和沙特（航空公司）的协议将支持美国就业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8375015.d.html</link>
-            <guid>3025621</guid>
-            <pubDate>Tue, 14 Mar 2023 13:37:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber、Lyft均涨超7%，两家公司在美国加州胜诉，被认定有权将司机视为独立承包商。]]></title>
-            <guid>3025620</guid>
-            <pubDate>Tue, 14 Mar 2023 13:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙经济部长：2024年可能是欧盟财政规则的过渡年。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8374297.d.html</link>
-            <guid>3025619</guid>
-            <pubDate>Tue, 14 Mar 2023 13:36:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音股价涨近1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8374239.d.html</link>
-            <guid>3025618</guid>
-            <pubDate>Tue, 14 Mar 2023 13:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：美国CPI数据缓解了美联储持续大幅加息的压力】Cherry Lane投资公司合伙人Rick Meckler表示，美国CPI数据大体符合预期。近期有什么办法可以对抗通胀？地区性银行危机已经改变了一些市场焦点。CPI数据有助于市场缓解对美联储持续大幅加息预期的压力。这也是市场反应积极的原因。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8372563.d.html</link>
-            <guid>3025615</guid>
-            <pubDate>Tue, 14 Mar 2023 13:35:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音：沙特阿拉伯航空公司总计宣布有意购买多达121架787梦想客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8372152.d.html</link>
-            <guid>3025614</guid>
-            <pubDate>Tue, 14 Mar 2023 13:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高近20点，现报103.82，欧元兑美元EUR/USD、英镑兑美元GBP/USD短线走低约20点。]]></title>
-            <guid>3025613</guid>
-            <pubDate>Tue, 14 Mar 2023 13:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌A涨约2%，公司据悉将在Gmail和谷歌会议中增加生成式人工智能功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpr8371202.d.html</link>
-            <guid>3025612</guid>
-            <pubDate>Tue, 14 Mar 2023 13:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯总统普京：乌克兰的GDP下降了40%，而俄罗斯只下降了1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-14/detail-imykvzpt5147373.d.html</link>
-            <guid>3025611</guid>
-            <pubDate>Tue, 14 Mar 2023 13:33:12 GMT</pubDate>
+            <title><![CDATA[花旗集团：由于业务环境与背景不同，欧洲银行业不太可能遭遇到与硅谷银行类似的危机事件。]]></title>
+            <guid>3025716</guid>
+            <pubDate>Tue, 14 Mar 2023 15:14:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
