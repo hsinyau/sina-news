@@ -4,483 +4,283 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 16 Mar 2023 15:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 18:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[TD Cowen：将万国数据(GDS.O)目标价从29美元上调至30美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4486203.d.html</link>
-            <guid>3029330</guid>
-            <pubDate>Thu, 16 Mar 2023 15:06:33 GMT</pubDate>
+            <title><![CDATA[市场资讯：麦当劳特许经营商集团批评新的公司运营规则，谴责其为“破坏性道路”；特许经营代表将与麦当劳董事会成员会面。]]></title>
+            <guid>3029489</guid>
+            <pubDate>Thu, 16 Mar 2023 18:07:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：我们需要制定大量的规章制度来实施通胀削减法案中的税收抵免措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4485658.d.html</link>
-            <guid>3029329</guid>
-            <pubDate>Thu, 16 Mar 2023 15:05:33 GMT</pubDate>
+            <title><![CDATA[谷歌将YouTube TV的订阅价格提高到每月73美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4469011.d.html</link>
+            <guid>3029487</guid>
+            <pubDate>Thu, 16 Mar 2023 18:00:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：欧盟向机构发出需求建议书，以满足进一步的资金需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4485562.d.html</link>
-            <guid>3029328</guid>
-            <pubDate>Thu, 16 Mar 2023 15:05:23 GMT</pubDate>
+            <title><![CDATA[据悉瑞信在获得担保后寻求时间进行全面改革。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4466978.d.html</link>
+            <guid>3029485</guid>
+            <pubDate>Thu, 16 Mar 2023 17:55:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：更高的债务/GDP比率将增加经济的净利息成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4483179.d.html</link>
-            <guid>3029326</guid>
-            <pubDate>Thu, 16 Mar 2023 15:01:58 GMT</pubDate>
+            <title><![CDATA[据悉瑞银不愿承担与瑞信相关的风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7688778.d.html</link>
+            <guid>3029484</guid>
+            <pubDate>Thu, 16 Mar 2023 17:53:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KBW地区银行板块指数抹去跌幅，此前一度跌3.6%。]]></title>
-            <guid>3029324</guid>
-            <pubDate>Thu, 16 Mar 2023 15:01:02 GMT</pubDate>
+            <title><![CDATA[瑞士信贷(CS.N)短线下挫，涨幅一度收窄至2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7688665.d.html</link>
+            <guid>3029483</guid>
+            <pubDate>Thu, 16 Mar 2023 17:53:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国国债收益率走高】美国国债收益率走高，此前银行股在援助措施相关消息助推下反弹。美国2年期国债收益率转涨，上升8.2个基点至4.06%；3年期和5年期国债收益率一同上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4481290.d.html</link>
-            <guid>3029323</guid>
-            <pubDate>Thu, 16 Mar 2023 14:59:35 GMT</pubDate>
+            <title><![CDATA[【欧盟向北马其顿军队提供价值900万欧元援助】欧盟理事会当地时间3月16日通过一项价值900万欧元的欧洲和平基金援助措施，以援助北马其顿军队。欧盟理事会发布的公告称，该举措是欧盟加强西巴尔干地区安全措施的一部分。该批次援助将用于升级北马其顿轻步兵部队装备，包括提供后勤、医疗设备、通信和信息系统、情报和三防装备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7686954.d.html</link>
+            <guid>3029482</guid>
+            <pubDate>Thu, 16 Mar 2023 17:52:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国10年期国债收益率短线拉升大约9.0个基点，至2.21%，脱离日低2.118%。]]></title>
-            <guid>3029322</guid>
-            <pubDate>Thu, 16 Mar 2023 14:57:53 GMT</pubDate>
+            <title><![CDATA[法国阿尔斯通（Alstom）集团与纽约三大航空枢纽之一的纽瓦克自由机场签订了为期7年的合作协议，将负责该机场的日常运行与维护。合同总价约2.5亿欧元。]]></title>
+            <guid>3029480</guid>
+            <pubDate>Thu, 16 Mar 2023 17:50:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿莱恩斯西部银行股价日内短暂转涨，早先曾下跌16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7703466.d.html</link>
-            <guid>3029321</guid>
-            <pubDate>Thu, 16 Mar 2023 14:57:44 GMT</pubDate>
+            <title><![CDATA[【埃尼集团计划今年启动新一轮股份回购计划】意大利能源巨头埃尼集团(Eni)计划在2023年启动预设额度达22亿欧元的新一轮股份回购计划，且回购规模不排除有进一步扩大至最高35亿欧元的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7682590.d.html</link>
+            <guid>3029478</guid>
+            <pubDate>Thu, 16 Mar 2023 17:48:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：如果我们不采取任何措施加强社会保障，福利就会被削减。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7703312.d.html</link>
-            <guid>3029319</guid>
-            <pubDate>Thu, 16 Mar 2023 14:57:25 GMT</pubDate>
+            <title><![CDATA[布雷文-霍华德资产管理公司 (Brevan Howard)暂停了多名交易员的交易活动，此前该公司在美国债券市场剧烈波动的过程中蒙受严重损失。]]></title>
+            <guid>3029477</guid>
+            <pubDate>Thu, 16 Mar 2023 17:48:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[KBW地区银行板块指数抹去跌幅，此前一度跌3.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4480324.d.html</link>
-            <guid>3029318</guid>
-            <pubDate>Thu, 16 Mar 2023 14:57:18 GMT</pubDate>
+            <title><![CDATA[【人才流失加剧 瑞信多名亚洲股票业务高管离开】在对瑞信集团金融健康状况的担忧引发全球市场动荡之际，该行的几位亚太区股票业务高管宣布离职。据知情人士消息和媒体看到的内部备忘录，瑞信亚太区股票业务联席主管兼日本股票业务负责人Nick Silver将转投法国巴黎银行，出任一个高级职位。根据备忘录，瑞信亚太区股票销售主管Jonathan Jenkins、南亚股票业务主管兼泰国区域经理Chris Prasertsintanah也决定离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7678107.d.html</link>
+            <guid>3029476</guid>
+            <pubDate>Thu, 16 Mar 2023 17:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沙特与俄罗斯重申将维持原油减产承诺至2023年底不变】据央视新闻，当地时间3月16日，沙特能源大臣阿卜杜勒-阿齐兹·本·萨勒曼与俄罗斯副总理亚历山大·诺瓦克重申，将维持两国对“欧佩克+”框架内达成的原油减产协议不变，即在2023年年底前继续履行每天减产200万桶的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4479989.d.html</link>
-            <guid>3029317</guid>
-            <pubDate>Thu, 16 Mar 2023 14:56:35 GMT</pubDate>
+            <title><![CDATA[市场资讯：投资公司Atlas SP正在参与为西太平洋合众银行（PacWest Bancorp）注入流动性的谈判。]]></title>
+            <guid>3029474</guid>
+            <pubDate>Thu, 16 Mar 2023 17:38:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德讲话后，欧洲斯托克600银行指数涨幅扩大至1.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7702816.d.html</link>
-            <guid>3029316</guid>
-            <pubDate>Thu, 16 Mar 2023 14:56:25 GMT</pubDate>
+            <title><![CDATA[【美国许多大行商谈为第一共和银行注资】消息人士表示，美国许多大行都在讨论将数十亿美元存入第一共和银行以展示对银行业的信心，由银行牵头的行动得到了美国监管机构的支持，但具体的银行数量、注资金额和时间仍不确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7674130.d.html</link>
+            <guid>3029471</guid>
+            <pubDate>Thu, 16 Mar 2023 17:32:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纳斯达克综合指数涨幅扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4479643.d.html</link>
-            <guid>3029314</guid>
-            <pubDate>Thu, 16 Mar 2023 14:55:49 GMT</pubDate>
+            <title><![CDATA[第一共和银行（FRC）股价涨幅缩窄一度缩窄至6%。早先在下跌36%之后一度转为上涨27%。]]></title>
+            <guid>3029470</guid>
+            <pubDate>Thu, 16 Mar 2023 17:30:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【纳斯达克100指数涨幅扩大至超过1%，芯片股AMD领跑】纳斯达克100指数涨幅扩大至超过1%，成分股AMD涨超5.7%领跑，英特尔和奥多比涨超4.2%，迈威尔科技涨超3.9%，亚马逊涨约3.4%，高通涨超3.2%，谷歌A涨超3.1%，FISV、Illumina、TMUS、ENPH仍然至多跌约1.8%，再生元制药跌3.1%目前表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4478990.d.html</link>
-            <guid>3029311</guid>
-            <pubDate>Thu, 16 Mar 2023 14:54:27 GMT</pubDate>
+            <title><![CDATA[市场资讯：Stellantis(STLA.N)开始15亿欧元回购计划的第一期回购，将在6月19日之前回购至多5亿欧元的股票。]]></title>
+            <guid>3029469</guid>
+            <pubDate>Thu, 16 Mar 2023 17:29:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国政府官员：不排除银行问题将成为德日政府磋商的主题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7701669.d.html</link>
-            <guid>3029309</guid>
-            <pubDate>Thu, 16 Mar 2023 14:53:53 GMT</pubDate>
+            <title><![CDATA[【富国银行：维持迪士尼增持评级 目标价141美元】富国银行表示，迪士尼不太可能出售Hulu，尽管媒体报道和投资者不这么认为。分析师在一份研究报告中告诉投资者，是否出售Hulu仍存疑，但更重要的是该项交易仍缺乏买家。该行认为，虽然迪士尼CEO鲍勃·艾格(Bob Iger)表示所有的选择都是公开的，而且最近的报道表明他被建议出售Hulu，但 正如“探戈需要两个人”，剥离资产的选择是有限的。分析师指出，大多数投资者认为康卡斯特最有可能成为买家，其持有的Hulu股份的2024年认沽期权目前价值90亿美元；但他认为康卡斯特更有可能行使这一权利并寻求其他交易。分析师称，投资者对于剥离Hulu的期望可能会落空，维持对迪士尼的增持评级，目标价为141美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4447629.d.html</link>
+            <guid>3029468</guid>
+            <pubDate>Thu, 16 Mar 2023 17:27:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股盘中走高，三大股指悉数转涨，道指一度跌近1%。纳指现涨约0.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7700870.d.html</link>
-            <guid>3029308</guid>
-            <pubDate>Thu, 16 Mar 2023 14:52:56 GMT</pubDate>
+            <title><![CDATA[瑞信备忘录显示，关于供应链金融基金(SCFF)，我们将继续努力向基金投资者返还现金；截至3月7日，返还给SCFF投资者的总金额约为68亿美元。]]></title>
+            <guid>3029465</guid>
+            <pubDate>Thu, 16 Mar 2023 17:25:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国10年期国债收益率一度转跌，刷新日低至2.118%，欧股早盘一度涨至日高2.293%。]]></title>
-            <guid>3029306</guid>
-            <pubDate>Thu, 16 Mar 2023 14:51:48 GMT</pubDate>
+            <title><![CDATA[【欧盟发布《关键原材料法》提案 确保可持续的关键原材料供应】欧盟委员会当地时间周四正式提出了《关键原材料法案》。官网新闻稿写到，关键原材料对于包括净零工业、数字工业、航空航天和国防部门在内的一系列战略部门来说都是不可或缺的。法案的目标是确保欧盟能够获得安全的、多样化的、负担得起的和可持续的关键原材料供应。欧盟目标是到2030年至少提取其使用的10%的关键原材料，加工其使用的40%，回收其使用的15%，以及确保其任何一种战略原材料对单一第三国的依赖程度不超过65%，即原材料进口多样化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4445889.d.html</link>
+            <guid>3029464</guid>
+            <pubDate>Thu, 16 Mar 2023 17:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行预测假定2023-2025年间欧元兑美元EUR/USD汇率在1.08。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7699116.d.html</link>
-            <guid>3029304</guid>
-            <pubDate>Thu, 16 Mar 2023 14:51:08 GMT</pubDate>
+            <title><![CDATA[石油公司埃克森美孚设于美国墨西哥湾沿岸城市巴吞鲁日的流化催化裂化装置将下线维修数周时间，可能影响市场汽油供给水平。]]></title>
+            <guid>3029463</guid>
+            <pubDate>Thu, 16 Mar 2023 17:22:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：美国国税局800亿美元投资的操作计划将在未来几周内完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7698146.d.html</link>
-            <guid>3029302</guid>
-            <pubDate>Thu, 16 Mar 2023 14:49:12 GMT</pubDate>
+            <title><![CDATA[瑞信备忘录：旗下瑞信资产管理公司(CSAM)已就所有发生可保损失的供应链金融基金(SCFF)项目提出保险索赔。]]></title>
+            <guid>3029462</guid>
+            <pubDate>Thu, 16 Mar 2023 17:22:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美股半导体板块拉升，AMD涨超5%，英特尔涨超4%，迈威尔科技、高通涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7697658.d.html</link>
-            <guid>3029301</guid>
-            <pubDate>Thu, 16 Mar 2023 14:48:15 GMT</pubDate>
+            <title><![CDATA[德国总理朔尔茨：在美国、在英国，以及最近在瑞士，监管机构采取了迅速而果断的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4441074.d.html</link>
+            <guid>3029460</guid>
+            <pubDate>Thu, 16 Mar 2023 17:13:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中宝新材集团有限公司向港交所提交上市申请。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7697563.d.html</link>
-            <guid>3029300</guid>
-            <pubDate>Thu, 16 Mar 2023 14:48:00 GMT</pubDate>
+            <title><![CDATA[市场资讯：卡塔尔王室将在10天内对曼联俱乐部发起第二度收购报价。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7663762.d.html</link>
+            <guid>3029459</guid>
+            <pubDate>Thu, 16 Mar 2023 17:12:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行仍有可能继续加息，但幅度有待观察】Quintet Private Bank首席经济学家兼宏观策略师Daniele Antonucci表示，鉴于金融不稳定风险，欧洲央行在此次提前发出信号的加息之外的未来行动上面临越来越多的不确定性。目前，我们的基本假设是，不稳定性不会太多地导致利率路径出现偏离。这意味着，由于核心通胀甚至还没有见顶，额外的加息将随之而来，但这些可能的加息幅度仍有待观察，而且在市场高度波动的情况下，欧洲央行在实现加息方面有困难。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4474625.d.html</link>
-            <guid>3029299</guid>
-            <pubDate>Thu, 16 Mar 2023 14:47:56 GMT</pubDate>
+            <title><![CDATA[德国总理朔尔茨：德国储蓄是安全的，这不仅是因为德国银行体系具有较高的弹性和更严格的监管，还因为德国的经济实力。]]></title>
+            <guid>3029457</guid>
+            <pubDate>Thu, 16 Mar 2023 17:11:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阳光保险：拟参与H股“全流通”】阳光保险联交所公告，董事会已于3月16日审议批准，拟将本公司合计不低于6.00亿股，并不超过30.00亿股境内未上市股份（内资股）转换为本公司H股（本次H股「全流通」）。截至本公告日期，本公司总股本为115.015亿股，其中包括内资股约103.514亿股，占本公司总股本90%；H股11.50亿股，占本公司总股本10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7696652.d.html</link>
-            <guid>3029296</guid>
-            <pubDate>Thu, 16 Mar 2023 14:45:44 GMT</pubDate>
+            <title><![CDATA[市场资讯：美国民主党参议员沃伦要求签名银行前CEO就银行倒闭问题作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4438552.d.html</link>
+            <guid>3029456</guid>
+            <pubDate>Thu, 16 Mar 2023 17:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广汇能源：短期担忧情绪应已得到释放 公司各主营产品产销两旺】广汇能源在互动平台表示，近期受市场对国外银行危机担忧的影响，国际油、气等大宗商品价格出现了下跌，能源类股票出现了普遍下调。公司在持续关注该事项的影响深度，从目前来看，短期担忧情绪应已得到释放，目前盘面国际油气价格已基本企稳，同时刚结束的两会也明确了今年我国的GDP增速在5%左右，对应的能源需求也会增加。截至目前，公司生产经营工作一切正常，各主营产品产销两旺。公司1-2月份生产经营实现稳定增长，细分板块来看（2023年1-2月累计数），天然气板块：江苏启东外购LNG实现业务量合计82.31万吨，同比增长82.24%；自产LNG9.31万吨，同比增长12.65%；煤炭板块：实现煤炭销量502.06万吨，同比增长35.60%；煤化工板块：生产甲醇19.89万吨，同比增长4.53%；生产煤焦油11.36万吨，同比增长11.76%，生产提质煤70.19万吨，同比增长15.79%；生产二甲基二硫2098.37吨，同比增长3.41%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4473548.d.html</link>
-            <guid>3029295</guid>
-            <pubDate>Thu, 16 Mar 2023 14:45:21 GMT</pubDate>
+            <title><![CDATA[德国总理朔尔茨表示，没有看到新的金融危机的威胁，货币体系不再像金融危机前那样脆弱。]]></title>
+            <guid>3029455</guid>
+            <pubDate>Thu, 16 Mar 2023 17:08:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：美联储解决通胀问题是至关重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4472931.d.html</link>
-            <guid>3029294</guid>
-            <pubDate>Thu, 16 Mar 2023 14:43:57 GMT</pubDate>
+            <title><![CDATA[费城银行指数涨幅扩大至4%，地区银行股普遍上涨，WAL涨超23.3%，第一共和银行涨约22.0%，PACW涨约18.3%，CMA涨11.8%，ZION涨超10.1%。]]></title>
+            <guid>3029454</guid>
+            <pubDate>Thu, 16 Mar 2023 17:08:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：高通胀是最大的经济问题，是拜登政府的首要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4472892.d.html</link>
-            <guid>3029293</guid>
-            <pubDate>Thu, 16 Mar 2023 14:43:53 GMT</pubDate>
+            <title><![CDATA[KBW银行指数涨幅扩大至4%，创盘中高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4437635.d.html</link>
+            <guid>3029453</guid>
+            <pubDate>Thu, 16 Mar 2023 17:07:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【波罗的海干散货运价指数结束连续19个交易日的涨势】波罗的海干散货运价指数周四结束了连续19个交易日的涨势，受海岬型和巴拿马型船舶需求疲软拖累。波罗的海干散货运价指数下跌43点或2.7%，至1560点，为2月15日以来的最大跌幅。海岬型船运价指数下跌128点或6.1%，至1976点。海岬型船日均获利下降1066美元，至16387美元。巴拿马型船运价指数下跌22点或1.2%至1746点，结束了连续17个交易日的涨势。巴拿马型船日均获利下降196美元，至15716美元。超灵便型散货船运价指数上涨16点或1.2%，至1312点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7695769.d.html</link>
-            <guid>3029292</guid>
-            <pubDate>Thu, 16 Mar 2023 14:43:50 GMT</pubDate>
+            <title><![CDATA[西方石油公司涨超3.3%，刷新日高至58.70美元。最新监管文件显示，巴菲特旗下伯克希尔哈撒韦对西方石油增持大约790万股股票，持股比例达到23.1%，这已经是巴菲特2023年第二次加仓西方石油。]]></title>
+            <guid>3029452</guid>
+            <pubDate>Thu, 16 Mar 2023 17:04:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：社会保障改革不应该包括削减老年人的福利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4472207.d.html</link>
-            <guid>3029291</guid>
-            <pubDate>Thu, 16 Mar 2023 14:43:06 GMT</pubDate>
+            <title><![CDATA[沙特：王国的财政扩张将抵消美联储货币紧缩政策所造成的冲击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7652980.d.html</link>
+            <guid>3029442</guid>
+            <pubDate>Thu, 16 Mar 2023 16:52:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国参议院银行委员会主席Brown就有关硅谷银行和签名银行的事情致信美国财政部、美国联邦存款保险公司和美联储，呼吁加强对银行的保护。]]></title>
-            <guid>3029290</guid>
-            <pubDate>Thu, 16 Mar 2023 14:42:41 GMT</pubDate>
+            <title><![CDATA[海纳国际：将高通(QCOM.O)评级从中性上调至正面，目标价从130美元上调至140美元。]]></title>
+            <guid>3029436</guid>
+            <pubDate>Thu, 16 Mar 2023 16:45:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：拜登已准备好与国会合作，加强社会保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7693396.d.html</link>
-            <guid>3029289</guid>
-            <pubDate>Thu, 16 Mar 2023 14:41:23 GMT</pubDate>
+            <title><![CDATA[【瑞士当局提供流动性支持后，瑞信局势有所缓和，欧股今日回涨】德国DAX30指数3月16日（周四）收盘上涨240.19点，涨幅1.63%，报14975.45点；英国富时100指数3月16日（周四）收盘上涨65.75点，涨幅0.90%，报7410.20点；法国CAC40指数3月16日（周四）收盘上涨140.01点，涨幅2.03%，报7025.72点；欧洲斯托克50指数3月16日（周四）收盘上涨85.53点，涨幅2.12%，报4120.45点；西班牙IBEX35指数3月16日（周四）收盘上涨126.74点，涨幅1.45%，报8885.84点；意大利富时MIB指数3月16日（周四）收盘上涨351.16点，涨幅1.37%，报25917.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4424952.d.html</link>
+            <guid>3029435</guid>
+            <pubDate>Thu, 16 Mar 2023 16:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国联邦金融监管局：密切关注市场发展，德国金融体系依然稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4470450.d.html</link>
-            <guid>3029288</guid>
-            <pubDate>Thu, 16 Mar 2023 14:41:17 GMT</pubDate>
+            <title><![CDATA[亿万富翁Peter Thiel在硅谷银行破产前曾在该行存有5000万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7647278.d.html</link>
+            <guid>3029434</guid>
+            <pubDate>Thu, 16 Mar 2023 16:41:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国上周首次申领失业救济人数创7月以来最大降幅】美国上周申领失业救济人数创下7月以来最大降幅，很大程度上抵消了前一周的增长，原因是纽约州的申请人数大跌。美国劳工部周四公布的数据显示，在截至3月11日的一周中，首次申领失业救济人数减少2万人，至19.2万人。极度紧张的劳动力市场继续保持强势，具体表现为就业人数增长强劲，仍有数百万个职位空缺，以及失业率较低。然而，一些衡量薪资增长的指标正在放缓，并且在很大程度上仍滞后于通胀，这可能会开始影响支出。Meta等公司的裁员人数不断上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4470087.d.html</link>
-            <guid>3029287</guid>
-            <pubDate>Thu, 16 Mar 2023 14:40:41 GMT</pubDate>
+            <title><![CDATA[【李家超：科技、人才、文化、资金等几个方面都是香港的强项】香港特区行政长官李家超3月15日下午在谈到如何推进粤港澳大湾区高质量发展的时候表示，高质量发展离不开科技、人才、文化、资金等几个方面，这些都是香港的强项。他透露，目前香港正全力全速把落马洲河套地区建成深港科技创新合作区，在“一区两园”的互相辉映下，打造大湾区创新高地。他形象地说，粤港澳大湾区的不同城市具有不同优势，在协同效应下，可以组成“既跑得远、又跑得快、又跳得高”的城市群，“我们强强联手，思想统一、目标一致，效率当然就高了”。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4424062.d.html</link>
+            <guid>3029433</guid>
+            <pubDate>Thu, 16 Mar 2023 16:41:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行加息之举凸显出对欧元区银行业的信心】数据情报公司Morning Consult首席经济学家John Leer写道，尽管金融市场出现动荡，但欧洲央行仍按照原计划行事，这一事实清楚地表明，政策制定者对欧元区银行的韧性有信心。他表示，此举还表明，欧洲央行仍对高企且根深蒂固的通胀感到担忧。Leer指出，美联储下周的立场预计不会像欧洲央行那样强硬。他表示:“鉴于资本市场的全球性以及资本外逃的风险，欧洲央行可能感受到了追赶美联储的压力。”“美联储主席鲍威尔和他在委员会的同事们仍然相对不受全球压力的影响，这增加了其鸽派转向的可能性。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7692701.d.html</link>
-            <guid>3029286</guid>
-            <pubDate>Thu, 16 Mar 2023 14:40:10 GMT</pubDate>
+            <title><![CDATA[联合国发言人：俄罗斯提出将粮食协议延长60天，这不是秘书长古特雷斯能决定的，有三方要处理这个问题，古特雷斯只是作为见证人。]]></title>
+            <guid>3029432</guid>
+            <pubDate>Thu, 16 Mar 2023 16:39:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：全球税收协定提案不违反任何美国税收协定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4469589.d.html</link>
-            <guid>3029285</guid>
-            <pubDate>Thu, 16 Mar 2023 14:39:49 GMT</pubDate>
+            <title><![CDATA[阿莱恩斯西部银行（WAL）恢复交易，股价涨幅扩大至16%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4419397.d.html</link>
+            <guid>3029429</guid>
+            <pubDate>Thu, 16 Mar 2023 16:33:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德：货币政策的效果似乎传导得相当快。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4469013.d.html</link>
-            <guid>3029284</guid>
-            <pubDate>Thu, 16 Mar 2023 14:38:30 GMT</pubDate>
+            <title><![CDATA[【斯蒂费尔：将联邦快递(FDX.N)评级上调至买入 目标价上调至222美元】斯蒂费尔将联邦快递的评级从持有上调至买入，目标价从171美元上调至222美元。该分析师表示，虽然今年宏观环境存在重大风险，但围绕库存见底的新共识以及两批重大成本节约举措的早期执行迹象为该股目前的“深度折价的”估值创造了引人注目的投资机会。该分析师补充说，第三季度应该是今年最疲软的一个季度，并看到了市场和执行方面的风险，但联邦快递的成本节约措施应该有助于改善这些不利因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4417005.d.html</link>
+            <guid>3029427</guid>
+            <pubDate>Thu, 16 Mar 2023 16:32:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德：我们铭记历史，但对今天的决定充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4468984.d.html</link>
-            <guid>3029283</guid>
-            <pubDate>Thu, 16 Mar 2023 14:38:27 GMT</pubDate>
+            <title><![CDATA[阿莱恩斯西部银行(WAL.N)盘中再次停牌，停牌前涨近11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7635914.d.html</link>
+            <guid>3029418</guid>
+            <pubDate>Thu, 16 Mar 2023 16:28:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：将仔细研究硅谷银行（SVB）发生了什么。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7691865.d.html</link>
-            <guid>3029282</guid>
-            <pubDate>Thu, 16 Mar 2023 14:38:22 GMT</pubDate>
+            <title><![CDATA[【阿尔及利亚总统宣布进行政府改组】当地时间3月16日，阿尔及利亚总统特本宣布对阿尔及利亚政府进行改组。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7634765.d.html</link>
+            <guid>3029416</guid>
+            <pubDate>Thu, 16 Mar 2023 16:27:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：硅谷银行（SVB）不得不出售资产，包括已经失去市场价值的国债。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4468051.d.html</link>
-            <guid>3029281</guid>
-            <pubDate>Thu, 16 Mar 2023 14:36:31 GMT</pubDate>
+            <title><![CDATA[富国银行：将UiPath(PATH.N)目标价从18美元上调至20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayim4406678.d.html</link>
+            <guid>3029410</guid>
+            <pubDate>Thu, 16 Mar 2023 16:22:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国10年期国债收益率跌超7个基点，刷新日低至3.37%下方。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7690799.d.html</link>
-            <guid>3029280</guid>
-            <pubDate>Thu, 16 Mar 2023 14:36:12 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：硅谷银行未投保的存款比例很高，这使得它很容易受到挤兑的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7625438.d.html</link>
+            <guid>3029407</guid>
+            <pubDate>Thu, 16 Mar 2023 16:18:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【亿纬锂能：动力电池业务裁员传闻不属实】针对投资者在互动平台上提问亿纬锂能动力电池业务在裁员是否属实，亿纬锂能在互动平台表示，网上传闻不属实。公司的动力电池业务目前仍处于快速发展阶段，总人数规模随着业务增长同步在逐步扩大。随着第一阶段的产能建设完成，公司从过去的快速建设期进入到产能的稳定释放期。在产能释放期阶段，为了持续提升经营质量，公司对每GWh产能的人员配置提出效率提升要求，以达到在人员总规模不大幅增加的基础上，依然高质高效满足客户的交付需求，同时增加每GWh产能的盈利能力，进一步提升产品的成本竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4467779.d.html</link>
-            <guid>3029279</guid>
-            <pubDate>Thu, 16 Mar 2023 14:35:59 GMT</pubDate>
+            <title><![CDATA[【美国政府推动大银行参与救助第一共和银行】据知情人士透露，在第一共和国银行股价暴跌后，美国政府正试图在美国最大的几家银行的帮助下对其实施救助，包括摩根大通、花旗集团、美国银行等。细节仍在敲定中，最快可能在周四宣布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7625361.d.html</link>
+            <guid>3029406</guid>
+            <pubDate>Thu, 16 Mar 2023 16:18:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：硅谷银行（SVB）遭遇挤兑，导致出现流动性问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7690540.d.html</link>
-            <guid>3029278</guid>
-            <pubDate>Thu, 16 Mar 2023 14:35:42 GMT</pubDate>
+            <title><![CDATA[【卷出新高度：比亚迪新车发布，官网被挤崩】3月16日晚8点，比亚迪召开“汉唐双旗舰超级发布会”，发布了汉EV冠军版、唐DM-i冠军版两款车型，起步价均为20.98万元，实现了“加量不加价”。此前市场上曾有谣言称：“19.98冠军版汉，18.98冠军版唐即将屠杀。”意指比亚迪两款新车入门价将低于20万元。在比亚迪汉EV冠军版发布的同时，比亚迪还针对比亚迪汉DM-i和汉DM-p推出“限时购车礼”活动：4月30日前购车享受1万元现金补贴（以购车开票时间为准）。刚发布完新车，比亚迪的官网就“崩了”，有网友表示：“这是热度太高了吗？”（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7623784.d.html</link>
+            <guid>3029405</guid>
+            <pubDate>Thu, 16 Mar 2023 16:17:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特经济部长：预计将实现3.1%的GDP增长目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4467469.d.html</link>
-            <guid>3029277</guid>
-            <pubDate>Thu, 16 Mar 2023 14:35:27 GMT</pubDate>
+            <title><![CDATA[波音向德国汉莎航空公司交付了787梦幻客机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymayii7620936.d.html</link>
+            <guid>3029402</guid>
+            <pubDate>Thu, 16 Mar 2023 16:13:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特方面预计2023年非石油经济增长速度将与2022年相同或更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7689910.d.html</link>
-            <guid>3029276</guid>
-            <pubDate>Thu, 16 Mar 2023 14:34:38 GMT</pubDate>
+            <title><![CDATA[Benchmark：将欢聚时代(YY.O)目标价下调至49美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzm7749350.d.html</link>
+            <guid>3029400</guid>
+            <pubDate>Thu, 16 Mar 2023 16:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：拜登对于与共和党人讨论财政政策表示欢迎。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7689829.d.html</link>
-            <guid>3029275</guid>
-            <pubDate>Thu, 16 Mar 2023 14:34:26 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：银行担保是阻止危机在金融体系蔓延的举措。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzp4526402.d.html</link>
+            <guid>3029399</guid>
+            <pubDate>Thu, 16 Mar 2023 16:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：拜登愿意就削减赤字进行谈判，但不是作为提高债务上限的条件。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4466862.d.html</link>
-            <guid>3029274</guid>
-            <pubDate>Thu, 16 Mar 2023 14:34:17 GMT</pubDate>
+            <title><![CDATA[美国财长耶伦：上周四首次发现硅谷问题出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzm7749271.d.html</link>
+            <guid>3029398</guid>
+            <pubDate>Thu, 16 Mar 2023 16:09:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：沙特阿拉伯和俄罗斯重申他们对欧佩克+减产决定的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4466789.d.html</link>
-            <guid>3029273</guid>
-            <pubDate>Thu, 16 Mar 2023 14:34:08 GMT</pubDate>
+            <title><![CDATA[亚马逊子公司Twitch的CEO Emmet Shear将离任。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzp4525980.d.html</link>
+            <guid>3029397</guid>
+            <pubDate>Thu, 16 Mar 2023 16:08:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行行长拉加德：没有必要为现有的政策工具寻觅替代品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4466228.d.html</link>
-            <guid>3029272</guid>
-            <pubDate>Thu, 16 Mar 2023 14:33:18 GMT</pubDate>
+            <title><![CDATA[【江苏滨海：高标准农田建设的问题工程全部拆除重建】今年3·15晚会中曝光了江苏省滨海县高标准农田建设过程中，存在偷工减料、非国标产品使用的情况。3月16日下午，现场的问题工程已经拆除，完成了重建。混凝土底板浇筑完成，远处还有几条沟槽正在施工重建中。江苏省滨海县2022年高标准农田界牌项目区工程监理陈海锋表示：“涵洞的底板是从今天开始正式全部返工。这个80厘米直径的涵洞底板厚度要求是25厘米，我们现场已经量过了，立模的时候检查过了，达到25厘米。之前有问题的是涵管下面的一段混凝土底板，他们施工单位偷工减料。”项目施工方负责人现场破拆一节水泥管，表示在场使用的已是全部符合国标的建材。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzp4525843.d.html</link>
+            <guid>3029396</guid>
+            <pubDate>Thu, 16 Mar 2023 16:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EIA天然气库存公布后，天然气期货价格短线小幅下跌，现报2.47美元/百万英热，日内涨1.27%。]]></title>
-            <guid>3029271</guid>
-            <pubDate>Thu, 16 Mar 2023 14:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党参议员表示，应调查对硅谷银行的拍卖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7687526.d.html</link>
-            <guid>3029270</guid>
-            <pubDate>Thu, 16 Mar 2023 14:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法兴银行：美联储的宽松周期往往伴随着美元走弱】法兴银行外汇策略主管Kit Juckes称，随着美联储加息周期的结束时点越来越近，美元变得更加脆弱。美联储政策收紧导致两年期美债收益率均高于上一个周期峰值和之前的峰值。这是波动的根本原因，它使利率峰值更接近。虽然美元有时在利率见顶前就开始见顶，而有时在下降趋势开始之后，但利率的下行周期通常也会让美元走低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7687088.d.html</link>
-            <guid>3029269</guid>
-            <pubDate>Thu, 16 Mar 2023 14:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：不认为现在有必要开发其他工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7686925.d.html</link>
-            <guid>3029268</guid>
-            <pubDate>Thu, 16 Mar 2023 14:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至3月10日当周EIA天然气库存变化值录得-580亿立方英尺，为2023年1月6日当周以来最小降幅。]]></title>
-            <guid>3029267</guid>
-            <pubDate>Thu, 16 Mar 2023 14:30:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沙特能源部长和俄罗斯副总理讨论了全球石油市场和欧佩克+努力稳定和平衡市场的努力。]]></title>
-            <guid>3029265</guid>
-            <pubDate>Thu, 16 Mar 2023 14:30:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：希望能合理分担成本推动型税收的负担，这将降低第二轮效应的风险。]]></title>
-            <guid>3029263</guid>
-            <pubDate>Thu, 16 Mar 2023 14:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[在欧洲央行行长拉加德讲话之际，欧洲银行指数转跌，日内跌0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4463308.d.html</link>
-            <guid>3029262</guid>
-            <pubDate>Thu, 16 Mar 2023 14:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：若没有及时支付债务，就等于违约。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4463045.d.html</link>
-            <guid>3029261</guid>
-            <pubDate>Thu, 16 Mar 2023 14:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线走高20点，报104.62，欧元兑美元EUR/USD短线下挫近30点，报1.0575。]]></title>
-            <guid>3029260</guid>
-            <pubDate>Thu, 16 Mar 2023 14:28:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国不能挑选按时支付哪些账单，债务上限必须在参议院财政委员会听证会上被提高。]]></title>
-            <guid>3029259</guid>
-            <pubDate>Thu, 16 Mar 2023 14:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【袁家军胡衡华会见阿里巴巴集团主席兼首席执行官张勇】3月16日下午，重庆市委书记袁家军，市委副书记、市长胡衡华会见了阿里巴巴集团董事会主席兼首席执行官张勇一行。阿里巴巴集团技术委员会主席、中国工程院院士王坚，市领导陈鸣波、罗蔺、江敦涛参加。袁家军、胡衡华代表市委、市政府欢迎张勇一行来渝深化合作，向阿里巴巴长期以来对重庆发展的大力支持表示感谢。袁家军说，重庆区位优势突出、战略地位重要，城市功能完善、产业基础坚实，未来大有可为。当前，我们正全面贯彻党的二十大精神，把成渝地区双城经济圈建设作为市委“一号工程”和全市工作总抓手总牵引，大力推进西部陆海新通道建设，不断提升城市发展能级和公共服务水平，以改革创新引领产业高质量发展，带动人口集聚和区域发展，努力在新时代新征程上全面建设社会主义现代化新重庆。重庆数字经济发展基础良好，正大力推动数字重庆建设。阿里巴巴是全球知名的互联网科技领军企业，长期深耕重庆。张勇说，重庆是西部重镇，阿里巴巴在重庆布局多个重要业务板块，是企业在西部市场的重要枢纽和节点。当前，现代化新重庆建设起步良好、势头强劲，我们十分看好重庆发展前景，会继续秉持在渝发展的恒心恒志，在数字政务、智能网联汽车、消费、大健康、乡村振兴等方面拓展新的合作，推进数字经济与实体经济深度融合，更好服务成渝地区双城经济圈建设等国家战略，助力重庆高质量发展。（重庆日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4462577.d.html</link>
-            <guid>3029258</guid>
-            <pubDate>Thu, 16 Mar 2023 14:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：沙特能源大臣会见俄罗斯副总理诺瓦克。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4462425.d.html</link>
-            <guid>3029257</guid>
-            <pubDate>Thu, 16 Mar 2023 14:27:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：还没决定关于结束资产购买计划的任何事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4461718.d.html</link>
-            <guid>3029256</guid>
-            <pubDate>Thu, 16 Mar 2023 14:25:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：还没有决定是否需要使用传导保护工具（TPI），但在某个时候可能会需要用到这一工具。]]></title>
-            <guid>3029255</guid>
-            <pubDate>Thu, 16 Mar 2023 14:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：在硅谷银行倒闭后，美国银行业依然稳健。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7683724.d.html</link>
-            <guid>3029252</guid>
-            <pubDate>Thu, 16 Mar 2023 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【联合光电：公司具备生产制造光刻机镜头的技术和能力】联合光电在互动平台表示，公司是一家集光成像、光显示、光感知为核心技术的专业镜头、光电产品及系统解决方案提供商，公司的专业镜头、光电产品已广泛用于安防视频监控、新型显示、智能驾驶、人工智能等领域。公司具备生产制造光刻机镜头的技术和能力，公司的光刻机镜头技术为自主研发。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7683430.d.html</link>
-            <guid>3029251</guid>
-            <pubDate>Thu, 16 Mar 2023 14:23:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：开始看到政策效果通过信贷渠道传导。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4460368.d.html</link>
-            <guid>3029250</guid>
-            <pubDate>Thu, 16 Mar 2023 14:23:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特经济部长：预计国内通胀将正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4459539.d.html</link>
-            <guid>3029249</guid>
-            <pubDate>Thu, 16 Mar 2023 14:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：欧洲央行的决定可能为美联储提供一份蓝图】许多分析师预计，由于瑞信的问题，欧洲央行不会那么激进，但欧洲央行在今晚的利率决议上如期加息50个基点，同时表明该行已准备好提振金融业。它的决定可能为美联储提供一份蓝图。美联储也面临着对抗通胀的困境，而美国地区银行同样被认为对利率上升十分敏感，硅谷银行的倒闭就表明了这一点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4459405.d.html</link>
-            <guid>3029248</guid>
-            <pubDate>Thu, 16 Mar 2023 14:22:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特阿拉伯方面表示，正在密切监测最近硅谷银行事件的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4458613.d.html</link>
-            <guid>3029247</guid>
-            <pubDate>Thu, 16 Mar 2023 14:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：没有看到潜在通胀有很大改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4458185.d.html</link>
-            <guid>3029245</guid>
-            <pubDate>Thu, 16 Mar 2023 14:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：更高的利率有利于（提高）银行的利润率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4456886.d.html</link>
-            <guid>3029243</guid>
-            <pubDate>Thu, 16 Mar 2023 14:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：对瑞信的敞口相当有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4456588.d.html</link>
-            <guid>3029242</guid>
-            <pubDate>Thu, 16 Mar 2023 14:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：欧元流动性问题得到完美解决。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7679465.d.html</link>
-            <guid>3029241</guid>
-            <pubDate>Thu, 16 Mar 2023 14:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：银行具有高质量的流动性缓冲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4456530.d.html</link>
-            <guid>3029240</guid>
-            <pubDate>Thu, 16 Mar 2023 14:16:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：银行的流动性状况稳健。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7679167.d.html</link>
-            <guid>3029239</guid>
-            <pubDate>Thu, 16 Mar 2023 14:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行副行长金多斯：银行具有韧性，资本水平比以前更高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7678908.d.html</link>
-            <guid>3029238</guid>
-            <pubDate>Thu, 16 Mar 2023 14:15:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华金证券公募REITs管理资产超过30亿元，已成为华夏越秀等9只公募REITs的前十大流通股东】根据华金证券介绍，公司将专注于公募REITs资产投资的创新资产管理业务作为战略性业务，管理资产超过30亿元，已经成为市场上为数不多的从一级战配投资、网下询价认购到二级市场投资、大宗交易、质押式回购交易等全链条实操经验丰富的投资管理机构。华金证券相关负责人表示，根据2022年中报披露，华金证券产品已成为华安张江、中金普洛斯、红土盐田港、华夏越秀等9只公募REITs的前十大流通股东。其中，华安张江、红土盐田港、华夏越秀等三只REITs的持仓占比都超过10%，按照相关要求也披露了权益变动公告，到现在为止，也是唯一一家触发此类公告的机构投资人。（中证报）]]></title>
-            <guid>3029237</guid>
-            <pubDate>Thu, 16 Mar 2023 14:15:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡金管局：新加坡的银行已经证实，它们对瑞士信贷的风险敞口很小。新加坡银行系统仍然健康和有弹性。]]></title>
-            <guid>3029236</guid>
-            <pubDate>Thu, 16 Mar 2023 14:15:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德意志资管：预计欧洲央行还会有更多加息】德意志资管欧洲经济学家乌尔里克·卡斯滕斯表示，尽管金融市场紧张，欧洲央行兑现了承诺，再次将关键利率提高了50个基点，预计还会有更多加息。在通胀持续高企的背景下，这是一个好消息。预计利率将进一步上升。欧洲央行没有预先承诺未来的利率路径，但鉴于目前的情况，这是可以理解的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4455758.d.html</link>
-            <guid>3029235</guid>
-            <pubDate>Thu, 16 Mar 2023 14:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行行长拉加德：随时准备在必要时提供新工具。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzm7678551.d.html</link>
-            <guid>3029234</guid>
-            <pubDate>Thu, 16 Mar 2023 14:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国亚利桑那州西部一列火车脱轨】15日晚美国亚利桑那州西部一列火车脱轨。当地官员起初表示火车可能载有有害物质，后经初步调查，认为脱轨火车载有玉米糖浆，没有潜在的危险化学品泄漏，也无人受伤。据悉，目前估计有8节车厢脱轨并阻塞轨道，脱轨原因正在调查中，尚不清楚轨道何时重新开放。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4455491.d.html</link>
-            <guid>3029232</guid>
-            <pubDate>Thu, 16 Mar 2023 14:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：暂停交付数周以来，波音交付了第一架787梦想客机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-03-16/detail-imymatzp4455245.d.html</link>
-            <guid>3029231</guid>
-            <pubDate>Thu, 16 Mar 2023 14:14:09 GMT</pubDate>
+            <title><![CDATA[市场资讯：英国工会联盟建议接受英国国家医疗服务系统（NHS）的薪酬提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-03-17/detail-imymatzm7746574.d.html</link>
+            <guid>3029392</guid>
+            <pubDate>Thu, 16 Mar 2023 16:03:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
