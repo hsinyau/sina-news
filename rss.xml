@@ -4,372 +4,552 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 28 Apr 2023 09:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 12:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[中远海能：一季度净利润10.96亿元，同比增长4272.57%，本报告期外贸收入同比大幅增加。]]></title>
-            <guid>3089946</guid>
-            <pubDate>Fri, 28 Apr 2023 09:04:26 GMT</pubDate>
+            <title><![CDATA[【中国东航：一季度净亏损38.03亿元】中国东航公告，一季度净亏损38.03亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2846492.d.html</link>
+            <guid>3090223</guid>
+            <pubDate>Fri, 28 Apr 2023 12:08:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宁波港第一季度净利润9.911亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4070507.d.html</link>
-            <guid>3089943</guid>
-            <pubDate>Fri, 28 Apr 2023 09:03:49 GMT</pubDate>
+            <title><![CDATA[【天原股份：拟投资建设年产10万吨磷酸铁锂正极材料项目】天原股份公告，公司经过审慎研究，拟在宜宾市南溪区成立新公司投资建设10万吨/年磷酸铁锂正极材料项目（简称：磷酸铁锂项目或项目），项目计划总投资19.29亿元（以经有权部门备案的投资总额为准）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4094484.d.html</link>
+            <guid>3090222</guid>
+            <pubDate>Fri, 28 Apr 2023 12:08:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[同仁堂第一季度净利润5.234亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4070399.d.html</link>
-            <guid>3089942</guid>
-            <pubDate>Fri, 28 Apr 2023 09:03:45 GMT</pubDate>
+            <title><![CDATA[【江淮汽车：一季度净利1.48亿元 同比扭亏】江淮汽车4月28日晚间披露年报，2022年实现营业收入364.95亿元，同比下降9.25%；净利润亏损15.82亿元，去年同期净利2亿元。公司同时披露一季报，一季度实现营业收入107.69亿元，同比增长10.32%；净利润1.48亿元，去年同期亏损2.9亿元；基本每股收益0.07元。报告期净利同比扭亏，主要系国际出口业务持续发力，营业利润同比增加所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2846379.d.html</link>
+            <guid>3090221</guid>
+            <pubDate>Fri, 28 Apr 2023 12:07:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利3月平均每小时工资年率 2.2%，前值1.50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2821496.d.html</link>
-            <guid>3089939</guid>
-            <pubDate>Fri, 28 Apr 2023 09:02:57 GMT</pubDate>
+            <title><![CDATA[【海信视像：一季度净利同比增长107.9%】海信视像公告，一季度实现营业收入114.83亿元，同比增长12.75%；净利润6.21亿元，同比增长107.9%；基本每股收益0.48元。报告期净利增长主要系公司产品结构升级、出口规模增加等影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2843842.d.html</link>
+            <guid>3090218</guid>
+            <pubDate>Fri, 28 Apr 2023 12:03:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[意大利3月平均每小时工资月率 0.1%，前值0.10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2821307.d.html</link>
-            <guid>3089938</guid>
-            <pubDate>Fri, 28 Apr 2023 09:02:51 GMT</pubDate>
+            <title><![CDATA[【滨江集团2022年归母净利润37.41亿元 同比增长23.58%】滨江集团2023年4月28日晚间披露2022年度业绩报告。年报显示，2022年公司实现营业收入415.02亿元，同比增长9.28%；实现归母净利润37.41亿元，同比增长23.58%。销售方面，2022年公司实现销售额1539亿元，位列克而瑞行业销售排名第13位，较2021年提升9位，并连续多年荣获杭州房企销售冠军。截止2022年末，公司总资产2,761.76亿元，归属于上市公司股东的净资产235.35亿元，分别较上年同期增长30.44%和14.36%，截止2022年末公司尚未结算的预收房款为1303.16亿元，较年初增长39.32%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2843815.d.html</link>
+            <guid>3090217</guid>
+            <pubDate>Fri, 28 Apr 2023 12:03:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧元区第一季度GDP季率初值 0.1%，预期0.20%，前值0.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2821147.d.html</link>
-            <guid>3089937</guid>
-            <pubDate>Fri, 28 Apr 2023 09:02:44 GMT</pubDate>
+            <title><![CDATA[墨西哥第一季度GDP同比增长3.87%，预期3.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4089897.d.html</link>
+            <guid>3090216</guid>
+            <pubDate>Fri, 28 Apr 2023 12:01:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【复旦微电：一季度净利润同比下降19.18%】复旦微电公告，一季度净利润1.88亿元，同比下降19.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2816718.d.html</link>
-            <guid>3089935</guid>
-            <pubDate>Fri, 28 Apr 2023 08:58:31 GMT</pubDate>
+            <title><![CDATA[【公司类贷款风险分类调整不及时等 青岛农商银行被罚3087万元】4月28日消息，青岛银保监局今日公布了一张罚单，剑指青岛农村商业银行股份有限公司（以下简称“青岛农商银行”）。罚单信息显示，青岛农商银行的主要违法违规事实如下：公司类贷款风险分类调整不及时、向关系人发放担保贷款的条件优于其他借款人同类贷款的条件、流动资金贷款管理不审慎、贷后管理不审慎等。青岛银保监局依据《中华人民共和国银行业监督管理法》第四十六条、四十八条、《中华人民共和国商业银行法》第七十四条、八十九条，对青岛农商银行罚没合计三千零八十七万两千七百。（金融一线）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2841721.d.html</link>
+            <guid>3090215</guid>
+            <pubDate>Fri, 28 Apr 2023 12:01:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安琪酵母：一季度净利同比增长12.76%】安琪酵母公告，一季度净利润3.52亿元，同比增长12.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2816537.d.html</link>
-            <guid>3089934</guid>
-            <pubDate>Fri, 28 Apr 2023 08:58:17 GMT</pubDate>
+            <title><![CDATA[【4月北京二手房成交回调】经历了2月、3月成交快速上涨之后，4月份北京二手房市场成交有所回调。北京住建委官网数据统计，截至26日，北京4月二手房成交12101套，同比去年4月同期上涨1.1%，环比上月同期下降26.2%，预计全月二手房成交量在1.4万套左右，和去年同期基本持平。 (21世纪经济报道)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4089096.d.html</link>
+            <guid>3090214</guid>
+            <pubDate>Fri, 28 Apr 2023 12:00:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方明珠：拟转让深圳市兆驰股份有限公司部分股票】东方明珠公告，董事会同意公司在董事会审议通过后12个月内以集中竞价、大宗交易等方式出售兆驰股份无限售流通股不超过195,800,000股，并授权公司管理层根据股票市场实际情况择机进行处置。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4064336.d.html</link>
-            <guid>3089933</guid>
-            <pubDate>Fri, 28 Apr 2023 08:57:55 GMT</pubDate>
+            <title><![CDATA[德国4月CPI环比增长0.4%，预期0.60%，前值0.80%；4月CPI同比增长7.2%，预期7.30%，前值7.40%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2840935.d.html</link>
+            <guid>3090213</guid>
+            <pubDate>Fri, 28 Apr 2023 12:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国中车：一季度净利同比增长180.01%】中国中车公告，一季度净利润6.15亿元，同比增长180.01%，本期产品销售较上年同期有所增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4063719.d.html</link>
-            <guid>3089932</guid>
-            <pubDate>Fri, 28 Apr 2023 08:57:00 GMT</pubDate>
+            <title><![CDATA[【全国数据交易联盟发起倡议：共建数据要素多层次市场交易体系】从上海数据交易所获悉，近日，第二届福建省数据要素与产业生态大会上，为落实“数据二十条”关于构建多层次市场交易体系的相关要求，全国数据交易联盟发起《关于共建数据要素多层次市场交易体系的倡议》，推动全国各类数据交易机构在数据要素资源确权与登记、数据产品流通交易和使用、数据资产入表等环节中形成共识，促进互联互通，提升全国多层次数据要素市场的协同效应，以实现数据要素作用和价值的最大化。《倡议》由上海数据交易所携手北京、天津、重庆、广西、云南、湖北、内蒙古、江苏、山东、贵州、广东、浙江、江西、河南、安徽、福建等省市近20家数据交易机构及战略合作伙伴共同发起。 (中证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4088792.d.html</link>
+            <guid>3090211</guid>
+            <pubDate>Fri, 28 Apr 2023 11:59:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盛剑环境：签订1.29亿元设备买卖合同】盛剑环境公告，近日，公司（卖方）与中建凯德（买方）签订《设备买卖合同》，合同金额为人民币12,890.00万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4063114.d.html</link>
-            <guid>3089930</guid>
-            <pubDate>Fri, 28 Apr 2023 08:56:09 GMT</pubDate>
+            <title><![CDATA[【农业银行：一季度净利同比增1.75%】农业银行公告，一季度实现营业收入1893.6亿元，同比增长2.19%；净利润715.54亿元，同比增长1.75%；基本每股收益0.2元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2840511.d.html</link>
+            <guid>3090210</guid>
+            <pubDate>Fri, 28 Apr 2023 11:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[建设银行第一季度净利润887.4亿元人民币，同比增长0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2814803.d.html</link>
-            <guid>3089929</guid>
-            <pubDate>Fri, 28 Apr 2023 08:55:47 GMT</pubDate>
+            <title><![CDATA[欧元兑英镑EUR/GBP回落至0.88下方，日内跌0.28%。]]></title>
+            <guid>3090209</guid>
+            <pubDate>Fri, 28 Apr 2023 11:57:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国投电力：2022年净利同比增66.11% 拟10派2.75元】国投电力4月28日晚间披露年报，2022年实现营业收入504.89亿元，同比增长15.36%；净利润40.79亿元，同比增长66.11%；基本每股收益0.52元；公司拟每股派发现金红利0.275元（含税）。公司同时披露一季报，一季度实现营业收入132.56亿元，同比增长20.05%；净利润16.14亿元，同比增长55.53%；基本每股收益0.21元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4062301.d.html</link>
-            <guid>3089926</guid>
-            <pubDate>Fri, 28 Apr 2023 08:55:09 GMT</pubDate>
+            <title><![CDATA[【《医疗保障基金飞行检查管理暂行办法》5月1日起正式施行】据央视新闻，国家医疗保障局于3月13日颁布了《医疗保障基金飞行检查管理暂行办法》（简称《办法》），该《办法》将于5月1日起正式施行。《办法》规定了飞行检查的遵循原则、启动条件、组织方式、检查要求、检查程序、问题处理等内容，为进一步规范飞行检查工作提供了重要制度保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2838591.d.html</link>
+            <guid>3090208</guid>
+            <pubDate>Fri, 28 Apr 2023 11:56:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【君实生物：一季度净亏损5.43亿元】君实生物公告，一季度营业收入2.55亿元，同比下降59.47%，净亏损5.43亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2811989.d.html</link>
-            <guid>3089922</guid>
-            <pubDate>Fri, 28 Apr 2023 08:52:19 GMT</pubDate>
+            <title><![CDATA[欧元兑英镑EUR/GBP回落至0.88下方，日内跌0.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4086336.d.html</link>
+            <guid>3090207</guid>
+            <pubDate>Fri, 28 Apr 2023 11:56:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一万多吨水果乘中老铁路进入中国】记者从中国铁路昆明局集团获悉，随着2022年12月云南磨憨铁路口岸进境水果指定监管场地的投入使用，通过中老铁路发往中国的进口水果日益增多，截至今年4月28日，中老铁路运输进口山竹、榴莲等水果达1.1万吨，丰富了国内水果市场。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2810173.d.html</link>
-            <guid>3089920</guid>
-            <pubDate>Fri, 28 Apr 2023 08:50:54 GMT</pubDate>
+            <title><![CDATA[【兴业银行：一季度净利同比下降8.93%】兴业银行公告，一季度实现营业收入554.1亿元，同比下降6.72%；净利润251.15亿元，同比下降8.93%；基本每股收益1.21元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4086189.d.html</link>
+            <guid>3090206</guid>
+            <pubDate>Fri, 28 Apr 2023 11:55:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[兆日科技：公司银企通具有数字人民币相关的产品体系，是否运用主要是根据银行需求来进行，目前公司银企通对公业务平台在部分银行有该部分相关的功能模块。]]></title>
-            <guid>3089916</guid>
-            <pubDate>Fri, 28 Apr 2023 08:48:53 GMT</pubDate>
+            <title><![CDATA[【东方通信：拟减持博创科技不超过1%股份】东方通信公告，拟减持博创科技不超过1%股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4086101.d.html</link>
+            <guid>3090205</guid>
+            <pubDate>Fri, 28 Apr 2023 11:55:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华海药业：一季度净利润1.73亿元，同比增长25.59%】华海药业公告，一季度净利润1.73亿元，同比增长25.59%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2808082.d.html</link>
-            <guid>3089915</guid>
-            <pubDate>Fri, 28 Apr 2023 08:48:39 GMT</pubDate>
+            <title><![CDATA[【上海金融法院立案受理投资者诉泽达易盛等证券虚假陈述责任纠纷普通代表人诉讼案件】上海金融法院4月28日受理12名投资者共同起诉被告泽达易盛（天津）科技股份有限公司、林应、应岚、隋田力、王晓亮、姜亚莉、东兴证券股份有限公司、胡晓莉、陶晨亮、天健会计师事务所（特殊普通合伙）、北京市康达律师事务所证券虚假陈述责任纠纷一案。原告投资者认为，被告泽达易盛应对因欺诈发行等虚假陈述行为造成的投资者损失承担赔偿责任，其余十被告分别系上市公司的控股股东、董监高及证券发行时提供服务的证券服务机构，也应承担赔偿责任。原告投资者同时申请适用普通代表人诉讼程序审理本案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4085446.d.html</link>
+            <guid>3090204</guid>
+            <pubDate>Fri, 28 Apr 2023 11:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【聚杰微纤：通过间接方式给苹果供应的超细纤维面料已进入量产阶段】聚杰微纤4月28日在投资者互动平台表示，公司通过间接方式给苹果供应的超细纤维面料已进入量产阶段，但目前此类产品的销售在公司业务中占比还比较小。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4055125.d.html</link>
-            <guid>3089914</guid>
-            <pubDate>Fri, 28 Apr 2023 08:47:31 GMT</pubDate>
+            <title><![CDATA[【金地集团：2022年营收超1200亿，同比上升21.14%】4月28日晚间，金地集团披露2022年年报。2022年金地集团实现营业收入1202.1亿元，同比上升21.14%；实现归属于上市公司股东的净利润61.1亿元，房地产业务结算毛利率19.96%。土储方面，2022年新增土储约248万平方米。金地集团依托优秀的经营管理能力，不仅经营业绩跑赢大市，财务也继续维持稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2836778.d.html</link>
+            <guid>3090203</guid>
+            <pubDate>Fri, 28 Apr 2023 11:54:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ST贵人：控股股东拟增持5000万元-1亿元】ST贵人公告，控股股东泰富金谷拟5000万元-1亿元增持公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4053605.d.html</link>
-            <guid>3089912</guid>
-            <pubDate>Fri, 28 Apr 2023 08:45:36 GMT</pubDate>
+            <title><![CDATA[【南京银行：一季度净利同比增8.22%】南京银行公告，一季度实现营业收入129.53亿元，同比增长5.51%；净利润54.27亿元，同比增长8.22%；基本每股收益0.52元。同日公告，2022年实现营业收入446.06亿元，同比增长9%；净利润184.08亿元，同比增长16.09%；基本每股收益1.76元；拟每10股派发红利5.339元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4084585.d.html</link>
+            <guid>3090202</guid>
+            <pubDate>Fri, 28 Apr 2023 11:54:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【吉林敖东：一季度净利4.86亿元 同比增719.23%】吉林敖东4月28日晚间披露一季报，一季度实现营业收入7.88亿元，同比增长23.64%；净利润4.86亿元，同比增长719.23%；基本每股收益0.43元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4053380.d.html</link>
-            <guid>3089910</guid>
-            <pubDate>Fri, 28 Apr 2023 08:45:21 GMT</pubDate>
+            <title><![CDATA[【联发科第一季度税后净利同比大降近50%】联发科28日公布一季度业绩，第一季度营收956.5亿元新台币，环比增长11.6%，同比下降33%，毛利率微降0.3个百分点至48%，税后净利润同比下降49.3%至168.74亿元新台币。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2832238.d.html</link>
+            <guid>3090201</guid>
+            <pubDate>Fri, 28 Apr 2023 11:51:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工信部：制定推动工业互联网高质量发展指导意见】4月27日，工业和信息化部党组理论学习中心组举办专题辅导报告会。金壮龙强调，全系统要加强统筹协调，围绕网络是基础、平台是中枢、安全是保障、数据是核心、标识是纽带，进一步完善政策体系，制定推动工业互联网高质量发展指导意见，出台实施“5G+工业互联网”、标识“贯通”三年行动计划，一体推进各项工作。坚持重点突破，深入实施工业互联网创新发展工程，聚焦重点行业、重点企业、重点产品和技术，加大研发投入，强化场景需求对接，打造高质量工业互联网平台，加速中小企业数字化转型，增强网络和数据安全保障能力。（工信微报）]]></title>
-            <guid>3089909</guid>
-            <pubDate>Fri, 28 Apr 2023 08:44:43 GMT</pubDate>
+            <title><![CDATA[【安徽首个园区能碳数据平台正式运行】据新华社，近日，安徽省首个基于工业园区的能碳数据平台正式运行。该平台目前在合肥市长丰下塘工业园区先行先试，同时具备实时跟踪、管理和服务能力，初步实现下塘工业园区企业能流、碳流数据展示等13项功能，打破不同能源体系间的信息壁垒，建立能源数据共享机制，为政府实现能碳监管、优化资源配置、产业降碳提效、释放碳排指标提供支撑保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2832003.d.html</link>
+            <guid>3090200</guid>
+            <pubDate>Fri, 28 Apr 2023 11:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京市交管局：全市已严重拥堵，降雨区域扩大可能会加重拥堵】记者16时从市交管局指挥中心了解到，随着北部降雨开始，全市交通路网瞬间紧张起来，目前已处于严重拥堵状态。城区内，由于旅游市场已开始火热，故宫、景山、鼓楼、颐和园等景区周边交通流量非常大，各交通场站周边道路随着旅客抵达高峰，出现了间断性拥堵。交管局指挥中心表示，如果降雨区域扩大，此后几个小时内的路网拥堵状况可能会加重，市民下班途中，需做好心理准备，或者错峰出行。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4052003.d.html</link>
-            <guid>3089907</guid>
-            <pubDate>Fri, 28 Apr 2023 08:43:17 GMT</pubDate>
+            <title><![CDATA[【金龙鱼：一季度净利润8.54亿元，同比增长645.99%】金龙鱼：一季度净利润8.54亿元，同比增长645.99%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2831721.d.html</link>
+            <guid>3090199</guid>
+            <pubDate>Fri, 28 Apr 2023 11:51:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞信东南亚金融机构部门负责人据悉将加入德意志银行】知情人士透露，瑞信东南亚金融机构部门（FIG）负责人Nick Thursby将加入德意志银行。知情人士表示，Nick Thursby将在未来几个月内上任，负责东南亚金融机构的并购和首次公开募股。根据他的领英资料显示，Thursby在瑞信工作八年多，直到2018年，然后转任汇丰控股，2022年再次加入该银行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4050514.d.html</link>
-            <guid>3089906</guid>
-            <pubDate>Fri, 28 Apr 2023 08:42:03 GMT</pubDate>
+            <title><![CDATA[【4月28日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议； 2.习近平就安哥拉遭受暴雨灾害向安哥拉总统致慰问电； 3.【学习贯彻习近平新时代中国特色社会主义思想主题教育】学用结合 推动主题教育深入有序推进； 4.一季度物流需求加快恢复 实现平稳开局； 5.深中通道建设加速 促进湾区融合发展； 6.国新办举行“技能成才 技能报国”中外记者见面会； 7.首届兰花奖国际评委热议“全球文明倡议”； 8.各地精心准备迎接“五一”假期； 9.“五一”假期总台荧屏精彩纷呈； 10.国内联播快讯： （1）一季度全国新增减税降费及退税缓费3679.8亿元； （2）2023年夏粮收购政策发布； （3）中央财政下达小麦“一喷三防”补助资金16亿元； （4）银保监会要求加力提升小微企业金融服务质量； （5）“万场宣讲进青年”示范宣讲会启动； （6）三部门印发《深入推进IPv6规模部署和应用2023年工作安排》； （7）智慧口岸试点建设启动； （8）我国非化石能源发电装机容量占比首次超过50%； （9）长江流域全覆盖水监控系统建设项目今天开工； （10）江西南昌首条中亚班列开通； （11）总台首届版权生态合作大会在上海举行； （12）第十三届中国卫星导航年会今天在京闭幕； 11.中共代表团访问欧洲多国举办中共二十大精神专题宣介会； 12.苏丹冲突双方同意延长停火72小时； 13.俄防长：美国在他国的生物军事活动仍在继续 构成严重危险； 14.俄称打击乌预备部队部署点 乌称击退俄进攻 俄方：美国用提供更多武器回应和平呼声； 15.国际联播快讯： （1）联合国安理会就叙利亚局势举行公开会； （2）美国一季度经济增长显著低于预期； （3）加拿大罢工持续 英铁路工人将罢工； （4）美国威斯康星州载有危险品的列车脱轨。]]></title>
+            <guid>3090198</guid>
+            <pubDate>Fri, 28 Apr 2023 11:49:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海机场：一季度净亏损9934.6万元】上海机场公告，一季度净亏损9934.6万元，上年同期净亏损5.04亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4047107.d.html</link>
-            <guid>3089903</guid>
-            <pubDate>Fri, 28 Apr 2023 08:38:23 GMT</pubDate>
+            <title><![CDATA[【腾龙股份：收到项目定点通知函】腾龙股份公告，近日收到国内某新能源主机厂（限于保密协议，无法披露其名称）的定点通知函，公司成为其新项目的热管理系统管路总成供应商。根据客户规划，该项目预计于2023年底开始量产，生命周期总金额约为人民币2.69亿元，生命周期约为3-4年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4076482.d.html</link>
+            <guid>3090197</guid>
+            <pubDate>Fri, 28 Apr 2023 11:48:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【奥雅股份：美国洛杉矶公司成立AIGC实验室】奥雅股份在互动平台表示，今年计划推出“LAEngine”是针对创意设计领域的高效、精准和个性化的内容生成工具。LAEngine产品通过AI大模型的训练，拥有智能快速地搜索资料、生成灵感并进行设计方案的推演与生成等多项能力。同时，美国洛杉矶公司成立了AIGC实验室，目标在于培养一批超级创作者，共建多元社区，共同推动设计行业的革新。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4046855.d.html</link>
-            <guid>3089902</guid>
-            <pubDate>Fri, 28 Apr 2023 08:38:00 GMT</pubDate>
+            <title><![CDATA[【法国4月通胀率上升至5.9%】据央视新闻，当地时间4月28日，法国国家统计局（INSEE）发布了对4月份通货膨胀率的估算数据。数据显示，法国4月通胀率同比上涨至5.9%。相比3月份的5.7%，通胀率再次出现了上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4076406.d.html</link>
+            <guid>3090196</guid>
+            <pubDate>Fri, 28 Apr 2023 11:48:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙商银行：副行长刘龙辞职】浙商银行公告，刘龙因个人职业规划安排，辞去公司副行长、董事会秘书和公司秘书职务，该等辞任自辞职报告送达公司董事会时生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2798662.d.html</link>
-            <guid>3089901</guid>
-            <pubDate>Fri, 28 Apr 2023 08:37:47 GMT</pubDate>
+            <title><![CDATA[【松下宣布将加强空调AI和云技术研发】据界面新闻援引共同社消息，松下公司4月28日宣布，将加强空调设备相关的人工智能（AI）、云技术等研发。关于利用接入互联网的空调设备数据的服务，将加以扩充。在大阪梅田新设研发基地，到2025年增加100名研发人才。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4076031.d.html</link>
+            <guid>3090195</guid>
+            <pubDate>Fri, 28 Apr 2023 11:47:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[农业银行2023年第一季度净利润715.5亿元人民币，同比增长1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4045847.d.html</link>
-            <guid>3089899</guid>
-            <pubDate>Fri, 28 Apr 2023 08:36:34 GMT</pubDate>
+            <title><![CDATA[【民生银行：一季度净利润约为142亿元 同比增3.7%】民生银行(01988.HK)在港交所发布公告，2023年一季度，集团实现归属于本行股东的净利润142.32亿元，同比增加5.08亿元，增幅3.70%；实现营业收入367.73亿元，同比增加1.39亿元，增幅0.38%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2827808.d.html</link>
+            <guid>3090194</guid>
+            <pubDate>Fri, 28 Apr 2023 11:47:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天顺风能：一季度净利润1.97亿元 同比增长506.88%】天顺风能公告，一季度营业收入13.63亿元，同比增长87.17%，净利润1.97亿元，同比增长506.88%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4045194.d.html</link>
-            <guid>3089898</guid>
-            <pubDate>Fri, 28 Apr 2023 08:35:49 GMT</pubDate>
+            <title><![CDATA[【去年广东职工提取住房公积金2534.1亿元】4月28日，广东省住房和城乡建设厅、广东省财政厅和中国人民银行广州分行联合印发《广东省住房公积金2022年年度报告》（以下简称报告）显示，去年广东共支持1026.51万名职工提取住房公积金2534.1亿元，人均提取金额为2.47万元。提取金额中，购房、租房、还贷等住房消费类提取达2161.39亿元，占比85.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4074241.d.html</link>
+            <guid>3090193</guid>
+            <pubDate>Fri, 28 Apr 2023 11:44:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【王登峰被公诉】据最高人民检察院 ：教育部体育卫生与艺术教育司原司长王登峰（正厅级）涉嫌贪污罪、受贿罪一案，由山东省监察委员会调查终结，经最高人民检察院指定，由山东省德州市人民检察院审查起诉。日前，德州市人民检察院依法向德州市中级人民法院提起公诉。 检察机关在审查起诉阶段，依法告知了被告人王登峰享有的诉讼权利，并依法讯问了被告人，听取了辩护人的意见。德州市人民检察院起诉指控：被告人王登峰利用职务便利，采取侵吞、骗取等手段，非法占有公共财物，数额特别巨大；利用职务便利，为他人在项目承揽、赛事承办等方面谋取利益，非法收受他人财物，数额特别巨大，依法应当以贪污罪、受贿罪追究其刑事责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2797024.d.html</link>
-            <guid>3089897</guid>
-            <pubDate>Fri, 28 Apr 2023 08:35:36 GMT</pubDate>
+            <title><![CDATA[【中信银行：一季度净利191.44亿元 同比增长10.34%】中信银行披露一季报，一季度实现营业收入513.63亿元，同比下降4.94%；净利润191.44亿元，同比增长10.34%；基本每股收益0.39元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4073968.d.html</link>
+            <guid>3090192</guid>
+            <pubDate>Fri, 28 Apr 2023 11:44:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港：年满11岁访港旅客明起均可使用电子通行证过关】香港特区政府入境事务处4月28日公布，将于4月29日起调整电子往来港澳通行证（电子通行证）持有人使用自助出入境检查系统（e-道）服务的合资格年龄为11岁或以上。据了解，目前持电子通行证并年满16岁或以上的合资格访港旅客可使用e-道服务。入境处表示，使用e-道服务旅客的合资格年龄调整后，将能进一步提升管制站的通关效率，让更多的访港旅客使用便捷的e-道服务。（大湾区之声）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2797002.d.html</link>
-            <guid>3089896</guid>
-            <pubDate>Fri, 28 Apr 2023 08:35:35 GMT</pubDate>
+            <title><![CDATA[【绝味食品：一季度净利润同比增长54.37%】绝味食品公告，一季度净利润1.37亿元，同比增长54.37%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4073919.d.html</link>
+            <guid>3090191</guid>
+            <pubDate>Fri, 28 Apr 2023 11:44:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新凤鸣：一季度净利同比降33.47%】新凤鸣4月28日晚间披露一季报，一季度实现营业收入125.09亿元，同比增长17.99%；净利润1.89亿元，同比下降33.47%；基本每股收益0.13元。报告期内，受原油价格波动影响，与此同时受经济下行以及周期影响，产品价差缩小。公司同时公告，拟终止实施年产15万吨表面活性剂及10万吨纺丝油剂项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2796625.d.html</link>
-            <guid>3089895</guid>
-            <pubDate>Fri, 28 Apr 2023 08:35:12 GMT</pubDate>
+            <title><![CDATA[【江西快线发布公告：因公司原因，江西快线所有航班暂时停止运营】江西快线发布公告，因公司原因，江西快线所有航班暂时停止运营。恢复日期待定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2825594.d.html</link>
+            <guid>3090190</guid>
+            <pubDate>Fri, 28 Apr 2023 11:43:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【交通银行：一季度净利润同比增长5.63%】交通银行公告，一季度净利润246.33亿元，同比增长5.63%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2796155.d.html</link>
-            <guid>3089894</guid>
-            <pubDate>Fri, 28 Apr 2023 08:34:36 GMT</pubDate>
+            <title><![CDATA[【西法德三国官员会面 批准未来空战系统合作协议】据央视新闻，当地时间4月28日，西班牙国防大臣罗夫莱斯、法国国防部长勒科尔尼、德国国防部长皮斯托留斯在西班牙首都马德里会面，并批准了未来空战系统的相关合作协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2824153.d.html</link>
+            <guid>3090189</guid>
+            <pubDate>Fri, 28 Apr 2023 11:42:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本九州电力公司计划筹资15亿美元促进绿色转型】日本九州电力公司4月28日表示，将发行2000亿日元（15亿美元）的优先股，以在高燃料价格影响其盈利能力之际为其绿色转型提供资金。受俄乌冲突影响，日本公用事业公司受到高燃料成本的打击。但日本政府为了控制通货膨胀，推迟了部分公司提出提高能源价格的要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4043848.d.html</link>
-            <guid>3089893</guid>
-            <pubDate>Fri, 28 Apr 2023 08:34:09 GMT</pubDate>
+            <title><![CDATA[埃克森美孚CEO Woods：美国白宫在石油问题上发出的信息好坏参半；欧洲将为不投资石油付出代价。]]></title>
+            <guid>3090188</guid>
+            <pubDate>Fri, 28 Apr 2023 11:41:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【博敏电子：一季度净利润同比下降48.28%】博敏电子公告，一季度净利润2099.1万元，同比下降48.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4043680.d.html</link>
-            <guid>3089892</guid>
-            <pubDate>Fri, 28 Apr 2023 08:33:58 GMT</pubDate>
+            <title><![CDATA[【深城交：股东高瓴道远拟减持不超3%】深城交公告，股东高瓴道远拟减持不超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2822967.d.html</link>
+            <guid>3090187</guid>
+            <pubDate>Fri, 28 Apr 2023 11:41:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[凌云光：公司与智谱华章合作，将ChatGLM大模型应用在数字人内容制作中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2795212.d.html</link>
-            <guid>3089890</guid>
-            <pubDate>Fri, 28 Apr 2023 08:33:26 GMT</pubDate>
+            <title><![CDATA[【古井贡酒：一季度净利润同比增长42.87%】古井贡酒公告，一季度净利润15.7亿元，同比增长42.87%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4069602.d.html</link>
+            <guid>3090186</guid>
+            <pubDate>Fri, 28 Apr 2023 11:39:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外汇局：中国3月国际收支货物和服务贸易进出口规模39353亿元 同比增长2%】国家外汇管理局公布2023年3月我国国际收支货物和服务贸易数据，2023年3月，我国国际收支货物和服务贸易进出口规模39353亿元，同比增长2%。其中，货物贸易出口18534亿元，进口15093亿元，顺差3441亿元；服务贸易出口2264亿元，进口3461亿元，逆差1197亿元。服务贸易主要项目为：运输服务进出口规模1535亿元，旅行服务进出口规模1282亿元，其他商业服务进出口规模965亿元，电信、计算机和信息服务进出口规模664亿元。按美元计值，2023年3月，我国国际收支货物和服务贸易出口3015亿美元，进口2690亿美元，顺差325亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2794997.d.html</link>
-            <guid>3089889</guid>
-            <pubDate>Fri, 28 Apr 2023 08:33:12 GMT</pubDate>
+            <title><![CDATA[【博通股份：拟购买驭腾能环55%股份】博通股份公告，拟通过发行股份及支付现金的方式，购买陕西驭腾新工业技术开发集团有限公司、陕西博睿永信企业管理合伙企业（有限合伙）、陕西聚力永诚企业管理合伙企业（有限合伙）、陈力群、王国庆持有的驭腾能环55%的股份，标的公司的预估价格为预计不超过5.4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4069312.d.html</link>
+            <guid>3090184</guid>
+            <pubDate>Fri, 28 Apr 2023 11:39:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国铁建：一季度净利同比增长5.1%】中国铁建公告，一季度净利润59.07亿元，同比增长5.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4040604.d.html</link>
-            <guid>3089886</guid>
-            <pubDate>Fri, 28 Apr 2023 08:31:28 GMT</pubDate>
+            <title><![CDATA[【广州市一季度GDP为6963.92亿元 同比增长1.8%】4月28日，广州市统计局发布2023年一季度广州经济运行情况。根据广东省地区生产总值统一核算结果，2023年一季度，广州市地区生产总值为6963.92亿元，同比增长1.8%。其中，第一产业增加值为50.42亿元，同比增长3.0%；第二产业增加值为1654.16亿元，同比下降4.0%；第三产业增加值为5259.34亿元，同比增长3.7%。（上证快讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4068291.d.html</link>
+            <guid>3090183</guid>
+            <pubDate>Fri, 28 Apr 2023 11:37:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小熊电器：一季度净利同比增58.27%】小熊电器公告，一季度净利润1.65亿元，同比增58.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4040199.d.html</link>
-            <guid>3089885</guid>
-            <pubDate>Fri, 28 Apr 2023 08:31:10 GMT</pubDate>
+            <title><![CDATA[【长沙住房公积金商转公无需结清商贷后再转】长沙住房公积金管理中心4月28日正式发布了《关于进一步优化商转公贷款业务的通知》，新增顺位抵押方式办理商业银行住房贷款转住房公积金贷款，即商转公贷款，职工无需自筹全部资金结清原商业银行住房贷款后再转住房公积金贷款。自2023年5月15日施行，有效期5年。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4068152.d.html</link>
+            <guid>3090182</guid>
+            <pubDate>Fri, 28 Apr 2023 11:37:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【莱绅通灵：克复荣光拟减持不超过1%】莱绅通灵公告，克复荣光拟减持不超过1%公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4039478.d.html</link>
-            <guid>3089883</guid>
-            <pubDate>Fri, 28 Apr 2023 08:30:28 GMT</pubDate>
+            <title><![CDATA[【派斯林：公司拟回购不超2%股份】派斯林公告，公司计划自本公告之日起15个交易日至2023年9月23日前，通过集中竞价交易方式、按市场价格减持不超过9,300,657股已回购股份，总计不超过公司总股本的2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2818942.d.html</link>
+            <guid>3090181</guid>
+            <pubDate>Fri, 28 Apr 2023 11:35:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国国贸：一季度净利同比增19.42%】中国国贸4月28日晚间披露一季报，一季度实现营业收入9.58亿元，同比增长6.12%；净利润3.2亿元，同比增长19.42%；基本每股收益0.32元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2790862.d.html</link>
-            <guid>3089882</guid>
-            <pubDate>Fri, 28 Apr 2023 08:29:31 GMT</pubDate>
+            <title><![CDATA[【兰州银行：2022年净同比增10.71% 拟10派1.2元】兰州银行披露年报，2022年实现营业收入74.50亿元，同比下降4.92%；净利润17.34亿元，同比增长10.71%；基本每股收益0.26元；公司拟每10股派发现金红利1.2元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4066243.d.html</link>
+            <guid>3090180</guid>
+            <pubDate>Fri, 28 Apr 2023 11:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【方直科技：股东黄晓峰拟减持不超1%】方直科技公告，股东黄晓峰拟减持不超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2790762.d.html</link>
-            <guid>3089881</guid>
-            <pubDate>Fri, 28 Apr 2023 08:29:20 GMT</pubDate>
+            <title><![CDATA[【梅花生物：拟以8亿元-10亿元回购公司股份】梅花生物公告，拟以8亿元-10亿元回购公司股份，回购价格不超过12元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4066092.d.html</link>
+            <guid>3090179</guid>
+            <pubDate>Fri, 28 Apr 2023 11:34:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华泰证券：一季度净利同比增46.49%】华泰证券4月28日晚间披露一季报，一季度实现营业收入89.93亿元，同比增长24.14%；净利润32.45亿元，同比增长46.49%；基本每股收益0.35元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2790244.d.html</link>
-            <guid>3089878</guid>
-            <pubDate>Fri, 28 Apr 2023 08:28:23 GMT</pubDate>
+            <title><![CDATA[乐思集团有限公司向港交所递交招股书，华升资本为独家保荐人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4066004.d.html</link>
+            <guid>3090178</guid>
+            <pubDate>Fri, 28 Apr 2023 11:34:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国重汽：一季度净利同比增长80.53%】中国重汽公告，一季度净利润2.24亿元，同比增长80.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2790190.d.html</link>
-            <guid>3089877</guid>
-            <pubDate>Fri, 28 Apr 2023 08:28:14 GMT</pubDate>
+            <title><![CDATA[【盛新锂能：一季度净利同比下降56.67%】盛新锂能公告，一季度净利润4.64亿元，同比下降56.67%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2817645.d.html</link>
+            <guid>3090177</guid>
+            <pubDate>Fri, 28 Apr 2023 11:33:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加加食品：一季度净利1288.23万元 同比增1239.54%】加加食品4月28日晚间披露一季报，一季度实现营业收入4.35亿元，同比下降15.61%；净利润1288.23万元，同比增长1239.54%；基本每股收益0.01元。业绩增长主要系产品品种结构调整，高毛利产品销量增加以及一线业务人员优化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2789932.d.html</link>
-            <guid>3089874</guid>
-            <pubDate>Fri, 28 Apr 2023 08:27:43 GMT</pubDate>
+            <title><![CDATA[印度10年期国债收益率4月份下降20个基点，是自2020年3月以来最大的月度降幅。]]></title>
+            <guid>3090176</guid>
+            <pubDate>Fri, 28 Apr 2023 11:33:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【交大昂立：公司股票将于2023年5月4日起停牌】交大昂立公告，因无法在法定期限内（2023年4月30日）披露经审计的2022年年度报告及2023年第一季度报告，公司股票将于2023年5月4日起停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4037859.d.html</link>
-            <guid>3089873</guid>
-            <pubDate>Fri, 28 Apr 2023 08:27:29 GMT</pubDate>
+            <title><![CDATA[【俄罗斯计划每月削减3.77亿美元的炼油补贴】俄罗斯财长西卢安诺夫称，俄罗斯财政部计划从2023年7月起将对炼油商的补贴减半。从预算中支付给炼油厂的费用每月将减少300亿卢布(3.77亿美元)。节省下来的资金将减少俄罗斯的预算缺口。这些补贴被称为“阻尼机制”，于2019年推出，旨在防止燃料过度出口，并确保有足够的库存来满足国内需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2817247.d.html</link>
+            <guid>3090175</guid>
+            <pubDate>Fri, 28 Apr 2023 11:33:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国中铁：一季度净利润同比增长3.84%】中国中铁公告，一季度净利润78.78亿元，同比增长3.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2788728.d.html</link>
-            <guid>3089870</guid>
-            <pubDate>Fri, 28 Apr 2023 08:25:45 GMT</pubDate>
+            <title><![CDATA[【晶科科技：拟以1亿元-2亿元回购股份】晶科科技公告，拟以1亿元-2亿元回购股份，回购价格不超过人民币7.32元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4062857.d.html</link>
+            <guid>3090174</guid>
+            <pubDate>Fri, 28 Apr 2023 11:31:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普集会上露面警告：拜登连任将使美国陷入“混乱”】据法新社报道，美国前总统特朗普当地时间27日誓言要在2024年的总统大选中“击垮”现任总统拜登。他还在竞选集会活动中警告称，如果自己不重返白宫，美国将陷入“混乱”。“我们正身处一场灾难中。有你们在2024年11月5日的投票，我们将击垮拜登和白宫……我们将完成我们未完成的事业。”特朗普称。（环球网）]]></title>
-            <guid>3089869</guid>
-            <pubDate>Fri, 28 Apr 2023 08:25:32 GMT</pubDate>
+            <title><![CDATA[【京东方A：一季度净利润2.47亿元，同比下降94.36%】京东方A公告，一季度净利润2.47亿元，同比下降94.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4062719.d.html</link>
+            <guid>3090173</guid>
+            <pubDate>Fri, 28 Apr 2023 11:30:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安路科技：国家集成电路产业投资基金股份有限公司拟减持不超2%】安路科技公告，股东国家集成电路产业投资基金股份有限公司拟通过集中竞价方式减持其所持有的公司股份数量合计不超过8,002,000股，拟减持股份数量占公司总股本的比例合计不超过2.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2787272.d.html</link>
-            <guid>3089867</guid>
-            <pubDate>Fri, 28 Apr 2023 08:23:33 GMT</pubDate>
+            <title><![CDATA[【中信股份：一季度净利润为191.44亿元 同比增10.34%】中信股份(00267.HK)在港交所发布公告，2023年一季度营业收入为512.52亿元，同比降5.01%；归属于股东的净利润为191.44亿元，同比增10.34%；基本每股收益为0.39元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4062505.d.html</link>
+            <guid>3090172</guid>
+            <pubDate>Fri, 28 Apr 2023 11:30:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国泰君安：一季度净利润同比增长20.73%】国泰君安公告，一季度净利润30.4亿元，同比增长20.73%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4034180.d.html</link>
-            <guid>3089864</guid>
-            <pubDate>Fri, 28 Apr 2023 08:22:30 GMT</pubDate>
+            <title><![CDATA[LME锡期货主要合约价差出现自2021年以来最大的现货溢价。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4061410.d.html</link>
+            <guid>3090171</guid>
+            <pubDate>Fri, 28 Apr 2023 11:28:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【姚记科技：一季度净利1.98亿元 同比增116.02%】姚记科技4月28日晚间披露一季报，一季度实现营业收入11.88亿元，同比增长17.64%；净利润1.98亿元，同比增长116.02%；基本每股收益0.49元。公司扑克板块业务经营稳定，且受益于单价上升，利润较上年同期增长；公司移动游戏板块业务前期投放效果显现，本期实现收入和利润的双增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2782833.d.html</link>
-            <guid>3089861</guid>
-            <pubDate>Fri, 28 Apr 2023 08:19:50 GMT</pubDate>
+            <title><![CDATA[【鲁阳节能：拟投建年产12万吨陶瓷纤维毯项目二期暨年产8万吨陶瓷纤维毯项目】鲁阳节能公告，子公司内蒙古鲁阳拟投资建设年产12万吨陶瓷纤维毯项目二期暨年产8万吨陶瓷纤维毯项目，项目投资预计1.15亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4060719.d.html</link>
+            <guid>3090170</guid>
+            <pubDate>Fri, 28 Apr 2023 11:27:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新天绿能：一季度净利同比下降10.41%】新天绿能公告，一季度净利润8.17亿元，同比下降10.41%，受天然气管输费价格下调以及民用户价格倒挂等因素影响，天然气单方毛利降低，且由于天气回暖导致天然气售气量同比降低所致。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4030802.d.html</link>
-            <guid>3089860</guid>
-            <pubDate>Fri, 28 Apr 2023 08:19:41 GMT</pubDate>
+            <title><![CDATA[【北方华创：一季度净利同比增长186.58%】北方华创公告，一季度净利润5.9亿元，同比增长186.58%，销售订单、生产规模较上年同期增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4059657.d.html</link>
+            <guid>3090169</guid>
+            <pubDate>Fri, 28 Apr 2023 11:25:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家邮政局赴广东调研快递出海情况】国家邮政局官微消息，4月25日至28日，国家邮政局党组成员、副局长陈凯率调研组赴广东广州、深圳等地专题调研快递出海情况，推动加快建设高水平国际寄递物流体系，促进行业高质量发展。陈凯强调，要奋力谱写加快交通强国建设邮政新篇章，将高水平市场建设和高标准制度规范有机结合。要持续推进监管和服务创新，为全国提供新的经验借鉴。广东局表示，下一步将按照国家局党组部署，更好统筹发展和安全，全面深化改革开放，大力提振市场信心，把实施扩大内需战略同深化供给侧结构性改革有机结合，突出稳增长、强监管、优服务、保畅通。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2782339.d.html</link>
-            <guid>3089859</guid>
-            <pubDate>Fri, 28 Apr 2023 08:19:09 GMT</pubDate>
+            <title><![CDATA[纽约社区银行：存款下降的部分原因是加密货币公司Circle的提款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2810854.d.html</link>
+            <guid>3090168</guid>
+            <pubDate>Fri, 28 Apr 2023 11:24:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【报告：中国农民工超2.95亿人，高学历占比不断提高】中国国家统计局4月28日发布的《2022年农民工监测调查报告》显示，2022年中国农民工总量29562万人，比上年增加311万人，增长1.1%。半数以上农民工在第三产业就业。在全部农民工中，未上过学的占0.7%，小学文化程度占13.4%，初中文化程度占55.2%，高中文化程度占17.0%，大专及以上占13.7%。大专及以上文化程度农民工所占比重比上年提高1.1个百分点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4030207.d.html</link>
-            <guid>3089858</guid>
-            <pubDate>Fri, 28 Apr 2023 08:18:47 GMT</pubDate>
+            <title><![CDATA[【中国生物制药发布2022年ESG报告：研发投入44.5亿创新高】中国生物制药28日发布2022年ESG报告，其中显示，公司去年制定医药可及性拓展策略，研发投入44.5亿元创历史新高。同时积极推动罕见病药物研发、发展中国家医疗水平提升支持等专项工作，截至本报告期末，集团重点产品累计治疗逾1.5亿患者。未来三年，在自主研发创新的同时，集团计划投入超过10亿美金，通过BD合作，在全球范围内寻找具有前瞻性的治疗方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4057211.d.html</link>
+            <guid>3090167</guid>
+            <pubDate>Fri, 28 Apr 2023 11:22:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上港集团：一季度净利润35.5亿元 同比下降35.37%】上港集团公告，一季度净利润35.5亿元，同比下降35.37%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrft4029943.d.html</link>
-            <guid>3089857</guid>
-            <pubDate>Fri, 28 Apr 2023 08:18:21 GMT</pubDate>
+            <title><![CDATA[津巴布韦央行将于5月8日起发行黄金支持的数字代币。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4056341.d.html</link>
+            <guid>3090166</guid>
+            <pubDate>Fri, 28 Apr 2023 11:22:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天舟文化：控股股东拟减持不超过2.96%】天舟文化公告，控股股东天鸿投资拟减持不超过2.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2781363.d.html</link>
-            <guid>3089855</guid>
-            <pubDate>Fri, 28 Apr 2023 08:17:21 GMT</pubDate>
+            <title><![CDATA[【美团：向香港联交所申请增设人民币柜台】美团-W(09868.HK)发布公告，公司当日向香港联交所提交有关增设人民币柜台的申请，以支持联交所引入港币－人民币双柜台模式计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2807550.d.html</link>
+            <guid>3090165</guid>
+            <pubDate>Fri, 28 Apr 2023 11:21:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国美通讯：5月5日起实施其他风险警示】国美通讯公告，公司股票将于2023年5月4日停牌1天，5月5日起实施其他风险警示，实施其他风险警示后公司股票价格的日涨跌幅限制为5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2781185.d.html</link>
-            <guid>3089854</guid>
-            <pubDate>Fri, 28 Apr 2023 08:17:03 GMT</pubDate>
+            <title><![CDATA[【香港3月港元货币供应量M2同比上升0.9%，M1同比下跌20.5%】香港金融管理局4月28日发布数据。认可机构的存款总额在2023年3月份上升0.9%。其中港元存款及外币存款在3月份分别上升1.2%及0.5%。2023年第一季度，存款总额及港元存款分别上升0.5%及2.6%。香港人民币存款在3月份下跌2.4%，于3月底为7,941亿元人民币。跨境贸易结算的人民币汇款总额于3月份为9,496亿元人民币，而2月份为7,477 亿元人民币。存款变动受多项因素影响，包括利率走势、市场集资活动等，因此适宜观察较长期趋势，毋须过度解读个别月份的波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4054391.d.html</link>
+            <guid>3090164</guid>
+            <pubDate>Fri, 28 Apr 2023 11:20:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北方稀土：一季度净利润9.22亿元，同比下降40.83%】北方稀土公告，一季度净利润9.22亿元，同比下降40.83%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2779726.d.html</link>
-            <guid>3089851</guid>
-            <pubDate>Fri, 28 Apr 2023 08:15:16 GMT</pubDate>
+            <title><![CDATA[【国信证券：一季度净利17.68亿元 同比增长130.42%】国信证券披露一季报，一季度实现营业收入41.63亿元，同比增长39.91%；净利润17.68亿元，同比增长130.42%；基本每股收益0.15元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4053143.d.html</link>
+            <guid>3090163</guid>
+            <pubDate>Fri, 28 Apr 2023 11:19:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多弗轻型直升机完成全状态首次飞行】据中国民航报，4月28日，拥有自主知识产权的多弗航空轻型直升机在浙江湖州圆满完成全状态首次飞行。当天，机组成员驾驶操纵直升机，在空中悬停、平稳飞行15分钟后降落，直升机状态良好，各系统运行稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxrfr2779517.d.html</link>
-            <guid>3089850</guid>
-            <pubDate>Fri, 28 Apr 2023 08:15:04 GMT</pubDate>
+            <title><![CDATA[【美克家居：一季度净利亏损4902.78万元】美克家居披露2023年一季报，报告期，公司实现营业收入11.17亿元，同比增长11.22%；净利润亏损4902.78万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2804714.d.html</link>
+            <guid>3090162</guid>
+            <pubDate>Fri, 28 Apr 2023 11:18:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【动力新科：一季度净亏损4.79亿元】动力新科公告，一季度净亏损4.79亿元，归属于母公司所有者的净利润较上年同期变动的主要原因是受公司整车销量下降和本期计提信用减值损失的影响，归属于母公司所有者的净利润减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxkxt2907468.d.html</link>
-            <guid>3089848</guid>
-            <pubDate>Fri, 28 Apr 2023 08:12:08 GMT</pubDate>
+            <title><![CDATA[【证监会：截至目前科技创新公司债券共支持近190家企业融资超过2100亿元】证监会发布《推动科技创新公司债券高质量发展工作方案》。截至目前，科技创新公司债券共支持近190家企业融资超过2100亿元，主要投向集成电路、人工智能、高端制造等前沿领域，积极助力科技成果加速向现实生产力转化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4052024.d.html</link>
+            <guid>3090161</guid>
+            <pubDate>Fri, 28 Apr 2023 11:17:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亿晶光电：一季度净利1.27亿元 同比扭亏】亿晶光电4月28日晚间披露一季报，一季度实现营业收入21.17亿元，同比增长55.54%；净利润1.27亿元，去年同期亏损1164.09万元；基本每股收益0.11元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxkxt2907039.d.html</link>
-            <guid>3089847</guid>
-            <pubDate>Fri, 28 Apr 2023 08:11:48 GMT</pubDate>
+            <title><![CDATA[【中国证监会和香港证监会举行第十四次两地执法合作工作会议】中国证监会和香港证监会近日以线下形式召开第十四次两地执法合作工作会议，双方执法部门负责人出席会议。下一步，两地监管机构将进一步完善跨境执法协作机制，强化打击跨境证券违法犯罪合力，为两地市场平稳有序运行提供强有力保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2802708.d.html</link>
+            <guid>3090160</guid>
+            <pubDate>Fri, 28 Apr 2023 11:15:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南昌农村商业银行原副行长杨思明涉嫌严重违纪违法，主动投案】南昌农村商业银行原党委委员、副行长杨思明涉嫌严重违纪违法，主动投案，目前正接受江西省纪委省监委驻省农村信用社联合社纪检监察组纪律审查和江西省赣州市会昌县监委监察调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxkxt2905931.d.html</link>
-            <guid>3089846</guid>
-            <pubDate>Fri, 28 Apr 2023 08:10:54 GMT</pubDate>
+            <title><![CDATA[英国工会：英国全国4000多名国家医疗服务系统（NHS）工作人员继续罢工。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4049602.d.html</link>
+            <guid>3090159</guid>
+            <pubDate>Fri, 28 Apr 2023 11:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科泰电源：大股东及一致行动人等拟合计减持不超3.5%股份】科泰电源公告，股东科泰控股及其一致行动人姚瑛计划减持不超过640万股公司股份（占公司总股本的2%）；股东新疆荣旭泰及其一致行动人董事蔡行荣计划减持不超过480万股公司股份（占公司总股本的1.5%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4048144.d.html</link>
+            <guid>3090156</guid>
+            <pubDate>Fri, 28 Apr 2023 11:12:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ST红太阳：全资孙公司和中农立华签订战略合作框架协议】ST红太阳公告，公司下属全资孙公司华洲药业于近日与中国主营农药流通和植保服务领域的“国家队”企业中农立华生物科技股份有限公司(简称“中农立华”)签署《战略合作框架协议》。华洲药业承诺2023年供应97%氯虫苯甲酰胺原药不少于1000吨。中农立华实际采购数量超出20%计划量，则华洲药业须尽量满足其实际需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2798403.d.html</link>
+            <guid>3090155</guid>
+            <pubDate>Fri, 28 Apr 2023 11:10:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国央行的预测显示，到2033年，根据市场利率路径，财政部将累计净转移1000亿英镑给英国央行，以弥补量化宽松的损失。]]></title>
+            <guid>3090154</guid>
+            <pubDate>Fri, 28 Apr 2023 11:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国稀土：一季度净利降88.42%至1946.58万元】中国稀土公告，一季度营业收入14.81亿元，同比增长22.60%；归属于上市公司股东的净利润1946.58万元，同比下降88.42%；归属于上市公司股东的扣除非经常性损益的净利润1911.48万元，同比下降88.62%；基本每股收益0.0198元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2797379.d.html</link>
+            <guid>3090153</guid>
+            <pubDate>Fri, 28 Apr 2023 11:08:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯卢布涨幅扩大，俄罗斯卢布兑美元现涨2.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4045150.d.html</link>
+            <guid>3090152</guid>
+            <pubDate>Fri, 28 Apr 2023 11:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【第14届国际基建论坛将于6月1日至2日在澳门举办】第14届国际基建论坛将于6月1日至2日在澳门举办，同期将举办由商务部主办的第九届中国-拉美和加勒比国家基础设施合作论坛。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4044937.d.html</link>
+            <guid>3090151</guid>
+            <pubDate>Fri, 28 Apr 2023 11:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：加大科技创新支持力度，推进智慧安全监管】交通运输部官微消息，4月28日，交通运输部召开2023年部安委会第二次全体会议暨交通运输安全生产视频会议，部长、部安委会主任李小鹏强调，要加强科技兴安，加大科技创新支持力度，推进智慧安全监管，夯实本质安全水平。要狠抓工作落实，加强督促检查，及时开展调度通报、警示约谈，确保安全生产工作取得实效。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4044857.d.html</link>
+            <guid>3090150</guid>
+            <pubDate>Fri, 28 Apr 2023 11:08:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京预计“五一”假期期间接待游客885万人次】据上证报，北京市文化和旅游局一级巡视员周卫民4月28日在北京市人民政府召开的“五一”假期旅游安全服务保障新闻发布会上介绍，今年“五一”假期，首都预计接待游客885万人次，同比增长1.9倍，较2019年同期增长3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4043375.d.html</link>
+            <guid>3090149</guid>
+            <pubDate>Fri, 28 Apr 2023 11:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：英国联合工会全国医疗服务成员投票否决了英国政府的薪资提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4043280.d.html</link>
+            <guid>3090148</guid>
+            <pubDate>Fri, 28 Apr 2023 11:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中电联：预计今年二季度电力消费增速将明显回升】中电联发布《2023年一季度全国电力供需形势分析预测报告》。报告提到，宏观经济及气候等均是影响电力消费需求增长的重要方面。2023年国务院《政府工作报告》提出国内生产总值增长预期目标是5%左右，2023年宏观经济运行总体回升将促进电力消费需求增长。受上年同期低基数等因素影响，预计今年二季度电力消费增速将明显回升，拉动上半年全社会用电量同比增长6%左右。正常气候情况下，预计2023年全年全社会用电量9.15万亿千瓦时，比2022年增长6%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4042410.d.html</link>
+            <guid>3090147</guid>
+            <pubDate>Fri, 28 Apr 2023 11:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约社区银行公司一季度总存款为84.80亿美元，市场预计为88.95亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4040474.d.html</link>
+            <guid>3090146</guid>
+            <pubDate>Fri, 28 Apr 2023 11:02:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家电影局：五一期间严防盗录盗播，严禁虚报瞒报销售收入】国家电影局发布关于做好2023年“五一”期间电影院安全生产等工作的通知，通知指出，严禁制造虚假交易、虚报瞒报销售收入；加强巡场管理，严防盗录盗播；严格遵守并自觉维护市场秩序，不得利用不正当竞争手段扰乱市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2792346.d.html</link>
+            <guid>3090145</guid>
+            <pubDate>Fri, 28 Apr 2023 11:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约社区银行的总资产为1238亿美元，而去年12月31日为901亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4040077.d.html</link>
+            <guid>3090144</guid>
+            <pubDate>Fri, 28 Apr 2023 11:02:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年黄河中下游发生严重汛情的可能性大】记者从水利部黄河水利委员会了解到，受北方主雨带和“三重拉尼娜”事件持续减弱等影响，今年黄河中下游发生严重汛情的可能性大。据黄河流域气象中心预测分析，近年来，受全球气候变化影响，黄河流域极端天气事件呈现多发频发趋势，防汛形势不容乐观。同时，黄河“水少沙多、水沙关系不协调”和“地上悬河”的特殊水情、沙情、河情没有改变，黄河流域大洪水威胁依然存在，防洪保安形势复杂严峻。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2791941.d.html</link>
+            <guid>3090143</guid>
+            <pubDate>Fri, 28 Apr 2023 11:02:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[路透调查：预计2023年美国原油平均价格为82.23美元/桶（较3月调查的80.88美元/桶上涨）。]]></title>
+            <guid>3090141</guid>
+            <pubDate>Fri, 28 Apr 2023 11:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科泰电源：股东拟合计减持不超3.5%】科泰电源公告，控股股东科泰控股及其一致行动人姚瑛女士、5%以上股东新疆荣旭泰及其一致行动人董事蔡行荣拟合计减持不超3.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4037596.d.html</link>
+            <guid>3090140</guid>
+            <pubDate>Fri, 28 Apr 2023 11:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【提高备货量，叮咚买菜预计未来一周预制菜销量将增长45%】据新京报，4月28日，记者从叮咚买菜获悉，随着“五一”临近，近一周，叮咚买菜平台上关于烧烤食材、小龙虾相关的商品搜索量相比前一周增加了35%和50%，另外水果、休闲百货等品类的销量也在节日前有着不同程度的增长。叮咚方面透露，未来一周，其平台上预制菜相关品类整体销量较平时预计会出现45%的增长；水果生鲜和休闲百货等商品增长预计会在35%、20%左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4036795.d.html</link>
+            <guid>3090139</guid>
+            <pubDate>Fri, 28 Apr 2023 10:58:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地金融管理部门出台措施支持消费 扩大内需】据央视新闻，近日，多地金融管理部门出台措施支持消费，扩大内需。江苏银保监局印发《中国银保监会江苏监管局关于银行业保险业大力支持恢复和扩大消费的通知》，提出14条具体措施督促银行保险机构把支持恢复和扩大消费摆在优先位置。浙江银保监局提出，各银行保险机构要主动配合财政政策和社会政策，合理增加消费信贷，重点满足住房改善、新能源汽车、绿色家电等大宗商品消费金融需求。福建银保监局出台《关于金融促消费工作十条措施》，要求各家银行在省内合格城市积极落实新发放首套住房个人住房贷款利率动态调整政策，鼓励银行机构合理下调个人住房贷款利率，降低居民购房融资成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2786741.d.html</link>
+            <guid>3090138</guid>
+            <pubDate>Fri, 28 Apr 2023 10:54:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：4月26日一周内，货币基金的资金流入为523亿美元，债券的资金流入为74亿美元，黄金流入为2亿美元，股票流入2300万美元。]]></title>
+            <guid>3090137</guid>
+            <pubDate>Fri, 28 Apr 2023 10:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：中概股资金流入61亿美元，是自2022年1月以来最大的一次，科技股流入12亿美元，是自2022年11月以来最大的一次。]]></title>
+            <guid>3090136</guid>
+            <pubDate>Fri, 28 Apr 2023 10:54:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经开区中小学入学政策：今年起交易或取得的二手房全部多校划片】据北京日报，4月28日，北京经济技术开发区发布《关于2023年义务教育阶段入学工作的意见》。《意见》明确的入学原则包括：2023年1月1日起在经开区范围内交易或取得的二手房全部实行多校划片入学。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4033952.d.html</link>
+            <guid>3090134</guid>
+            <pubDate>Fri, 28 Apr 2023 10:53:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：美国国债迎来了连续第11周的资金流入（37亿美元），这是自2022年8月以来的最长连续流入纪录。]]></title>
+            <guid>3090133</guid>
+            <pubDate>Fri, 28 Apr 2023 10:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[京东物流：德邦物流一季度营业收入74.17亿元，同比增长5.66%；净利润7263.9万元，同比增长191.26%。]]></title>
+            <guid>3090132</guid>
+            <pubDate>Fri, 28 Apr 2023 10:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【神州数码：一季度净利增11.63%至2.09亿元】神州数码公布2023年第一季度报告，报告期营业收入271.17亿元，同比下降5.18%；归属于上市公司股东的净利润2.09亿元，同比增长11.63%；归属于上市公司股东的扣除非经常性损益的净利润2.38亿元，同比增长29.12%；基本每股收益0.3193元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4031691.d.html</link>
+            <guid>3090131</guid>
+            <pubDate>Fri, 28 Apr 2023 10:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深天马Ａ：一季度净亏损6.62亿元】深天马Ａ公告，一季度净亏损6.62亿元，上年同期净利润7900万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4031602.d.html</link>
+            <guid>3090130</guid>
+            <pubDate>Fri, 28 Apr 2023 10:51:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京沪高铁：一季度净利同比增912.6%】京沪高铁公告，一季度实现营业收入89.39亿元，同比增长57.39%；净利润22.26亿元，同比增长912.6%；基本每股收益0.05元。同日公告，2022年实现营业收入193.36亿元，同比下降34.02%；净利润亏损5.76亿元，去年同期净利48.16亿元；拟每10股派发红利0.114元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2782896.d.html</link>
+            <guid>3090129</guid>
+            <pubDate>Fri, 28 Apr 2023 10:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【游族网络：一季度净利润同比降46.4%】游族网络公告，一季度净利润4284.9万元，同比降46.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4030273.d.html</link>
+            <guid>3090128</guid>
+            <pubDate>Fri, 28 Apr 2023 10:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国电力：一季度总售电量约为2271万兆瓦时 同比降15.79%】中国电力(02380.HK)在港交所发布公告，2023年一季度合并总售电量为22,706,070兆瓦时，较去年同期减少15.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4029861.d.html</link>
+            <guid>3090127</guid>
+            <pubDate>Fri, 28 Apr 2023 10:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“华尔街最神秘的投行”LAZARD将裁员约10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2781706.d.html</link>
+            <guid>3090126</guid>
+            <pubDate>Fri, 28 Apr 2023 10:48:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投资银行拉扎德公司（LAZARD）裁员10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpp2781310.d.html</link>
+            <guid>3090124</guid>
+            <pubDate>Fri, 28 Apr 2023 10:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝通科技：目前存在处于筹划阶段且尚未正式披露的向特定对象发行股票事项】宝通科技发布异动公告，公司近期向中介机构征询了意见和建议，目前存在处于筹划阶段且尚未正式披露的向特定对象发行股票事项，该事项主要与公司工业互联网业务板块相关，再融资事项的发行方案、发行金额以及项目实施细节等事项尚在商议筹划中，为保证公平信息披露，维护投资者利益，避免造成公司股价异常波动，公司将根据事项进展情况，及时履行信息披露义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-04-28/detail-imyrxvpr4029152.d.html</link>
+            <guid>3090123</guid>
+            <pubDate>Fri, 28 Apr 2023 10:47:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
