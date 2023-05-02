@@ -4,13 +4,98 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 02 May 2023 18:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 21:03:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[俄罗斯铁路表示，一列火车和20节货车在俄罗斯布良斯克地区脱轨。事故发生后，线路交通暂停，没有人员伤亡报告。]]></title>
+            <title><![CDATA[AMD财报发布后，股价盘后跌4.6%，拖累英伟达一同下跌1.1%，而其竞争对手英特尔股价则在盘后涨0.8%。]]></title>
+            <guid>3093839</guid>
+            <pubDate>Tue, 02 May 2023 21:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟委员会对乌克兰的部分农产品进口采取特别措施】欧盟委员会对与乌克兰接壤的五个欧盟成员国从乌克兰进口的有限产品采取了“特殊和临时预防措施”。这些措施只涉及原产于乌克兰的四种农产品——小麦、玉米、油菜籽和葵花籽。目标是缓解这些产品在保加利亚、匈牙利、波兰、罗马尼亚和斯洛伐克的滞留情况。措施将于5月2日生效，有效期至2023年6月5日。在此期间，原产于乌克兰的这四种农产品可以继续在除上述五个成员国以外的所有欧洲联盟成员国自由流通，也可继续在这五个成员国流通或过境，或通过共同海关过境程序前往欧盟以外的国家或地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtci4157592.d.html</link>
+            <guid>3093836</guid>
+            <pubDate>Tue, 02 May 2023 20:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车CFO：随时车市销量在今年恢复正常，公司在定价上将面临压力。尽管经济环境充满变数，公司对业务前景的展望仍保持稳定。]]></title>
+            <guid>3093835</guid>
+            <pubDate>Tue, 02 May 2023 20:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：摩根士丹利正在与美国司法部和美国证交会商谈解决关于大宗交易的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7533512.d.html</link>
+            <guid>3093834</guid>
+            <pubDate>Tue, 02 May 2023 20:40:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至4月28日当周API原油库存减少393.9万桶，预期减少100万桶，前值减少608.3万桶。]]></title>
+            <guid>3093832</guid>
+            <pubDate>Tue, 02 May 2023 20:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一男子在向英国白金汉宫空地投掷爆炸物后被捕】当地时间5月2日晚，一名男子在向英国白金汉宫空地投掷爆炸物后被捕。英国警方表示，爆炸物疑为枪支弹夹，已在警方控制下爆炸。现场没有枪支开火的报告，目前也没有人员伤亡报告，该男子已因涉嫌携带武器被捕。目前，警方仍在现场进行调查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtci4151201.d.html</link>
+            <guid>3093830</guid>
+            <pubDate>Tue, 02 May 2023 20:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（5月2日）纽约尾盘，谷物分类指数跌1.20%，报42.9587点。CBOT玉米期货跌0.98%，报5.78-3/4美元/蒲式耳。CBOT小麦期货跌1.29%，报6.10-1/4美元/蒲式耳。CBOT大豆期货跌跌1.28%，报14.09-1/4美元/蒲式耳。]]></title>
+            <guid>3093819</guid>
+            <pubDate>Tue, 02 May 2023 19:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列南部遭火箭弹袭击 至少12名平民受伤】据以色列国防军当地时间5月2日统计，当天有至少33枚火箭弹和迫击炮弹从加沙地带射向以色列南部，其中两枚火箭弹击中了南部城镇斯代罗特，一枚火箭弹击中了基苏菲姆，共造成至少12名平民受伤。巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）宣称对火箭弹袭击负责。另据巴勒斯坦媒体报道，当晚，以军坦克炮击了加沙地带，造成5名巴勒斯坦人受伤。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmtcc7495991.d.html</link>
+            <guid>3093818</guid>
+            <pubDate>Tue, 02 May 2023 19:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议员民主党领袖Schumer：在无附加条件提高债务上限之后，就可以进一步讨论财政支出问题。债务上限提高幅度要确保至少未来两年不再出现相同问题。]]></title>
+            <guid>3093816</guid>
+            <pubDate>Tue, 02 May 2023 19:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受美债务上限问题及加息忧虑拖累，油价暴跌5%】由于对经济的担忧，油价周二下跌约5%，至五周低点。石油经纪商PVM的Tamas Varga表示，各国央行为抑制居高不下的消费者和生产者价格而采取的行动均给未来的前景蒙上了一层相当大的阴影。当前投资者正从仍在抗击通胀的央行的加息预期中寻找市场方向。而进一步加息可能会减缓经济增长，削弱能源需求。而在供应方面，市场对欧佩克4月石油产量下降的消息反应平平，OANDA高级市场分析师Craig Erlam表示，欧佩克+减产后的涨幅现在已经被抹去，这表明交易员现在相信经济前景已经恶化到了一定程度，减产不会造成人们所担心的（供应）赤字。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvf7618668.d.html</link>
+            <guid>3093813</guid>
+            <pubDate>Tue, 02 May 2023 18:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹卫生部：该国冲突已导致550人死亡】当地时间5月2日晚，苏丹卫生部表示，苏丹冲突已导致550人死亡，4926人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4233894.d.html</link>
+            <guid>3093810</guid>
+            <pubDate>Tue, 02 May 2023 18:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【彼得斯贝格气候对话会议在德国举行】彼得斯贝格气候对话会议当地时间5月2日在德国举行，来自40多个国家的代表将在两天的会议期间就应对气候变化的融资和全球路线进行广泛的对话。彼得斯贝格气候对话会议旨在为11月30日至12月10日在迪拜举行的COP28联合国气候变化大会做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4233732.d.html</link>
+            <guid>3093809</guid>
+            <pubDate>Tue, 02 May 2023 18:37:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚外交部谴责以色列针对阿勒颇国际机场的空袭】叙利亚外交部当地时间5月2日发表声明，强烈谴责以色列针对叙利亚的敌对行为。声明表示，当地时间1日晚，以色列针对叙利亚阿勒颇国际机场及阿勒颇市周边地区的空袭是以色列针对叙利亚民用设施实施敌对政策的一部分，包括针对叙利亚大马士革、阿勒颇机场、拉塔基亚商业港口以及部分科学文化中心等。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4233468.d.html</link>
+            <guid>3093808</guid>
+            <pubDate>Tue, 02 May 2023 18:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[投资银行Lazard负责金融咨询业务的CEO Orszag：美联储的紧缩政策步伐过快。呼吁长久性地提高债务上限。当前仍不宜改变存款保险机制覆盖范围。如能在监管方面达成更多共识，则大有1裨益。]]></title>
+            <guid>3093806</guid>
+            <pubDate>Tue, 02 May 2023 18:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国两家地区性银行债券暴跌】周二美国高收益债二级市场上，地区性银行阿莱恩斯西部（Western Alliance Bancorp）的债券跌幅居前。Trace数据显示，截至美东时间下午1:20，该行6亿美元2031年到期票面利率3%的次级债券每一美元面值下跌8.3美分，至67.8美分。西太平洋合众银行（PacWest Bancorp）的2031年到期票息3.25%债券每一美元面值下跌约1.6美分至69美分该行股价盘中一度下挫42％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvf7604501.d.html</link>
+            <guid>3093803</guid>
+            <pubDate>Tue, 02 May 2023 18:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯布良斯克州再次发生货运列车脱轨事件】 俄罗斯布良斯克州2日晚再次发生货运列车脱轨事件，暂无人员伤亡报告。俄罗斯铁路公司当天在社交媒体发布消息说，当地时间19时47分，因无关人员非法干扰铁路运输，一台机车和20节车厢在布良斯克州一铁路路段脱轨。初步信息显示，没有人员伤亡。事发路段已经封闭，消防人员和救援人员正在现场抢修。布良斯克州州长博戈马兹在社交媒体证实这一消息。他说，事发原因是一个不明爆炸装置在斯涅热季火车站附近发生爆炸。此前一天，布良斯克州一段铁轨曾发生爆炸，导致一列货运列车的一台机车和7节车厢脱轨，没有人员伤亡。博戈马兹当时说，列车脱轨由一个不明爆炸装置爆炸引发。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4220230.d.html</link>
             <guid>3093802</guid>
             <pubDate>Tue, 02 May 2023 18:00:45 GMT</pubDate>
         </item>
@@ -166,85 +251,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4255828.d.html</link>
             <guid>3093739</guid>
             <pubDate>Tue, 02 May 2023 14:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期国债收益率一度下跌21个基点至3.93%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7634337.d.html</link>
-            <guid>3093737</guid>
-            <pubDate>Tue, 02 May 2023 14:53:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5月2日欧盘美盘重要新闻汇总】
-国内新闻：
-1. Model 3和Model Y中美市场涨价：中国涨价2000元，美国涨价250美元。
-2. 气象局2日启动暴雨四级应急响应，2日至6日我国中东部地区将出现大范围强降雨和强对流天气。
-3. 据灯塔专业版实时数据，截至5月2日20时10分，2023年五一档新片总票房（含预售）突破13亿。
-4. 香港特区行政长官李家超：香港第一季度经济录得2.7%正增长，扭转上季度负增长4.1%的局面。相信第二季度经济会比第一季度好，今年经济会较去年好。
-国际新闻：
-1. IMF：中国和印度将推动2023年亚太地区经济增长率达到4.6%，超过2022年的3.8%。亚太范围内，中国对全球经济增长的贡献排名第一。
-2. 南苏丹外交部：苏丹军队首领和苏丹快速支援部队（RSF）领导人原则上同意从5月4日至5月11日停火7天。
-3. 美联储利率掉期显示，市场对美联储利率峰值的押注出现更大幅度的下跌。
-4. 乌克兰议会通过延长战时状态和总动员令的法案。
-5. 欧佩克4月石油日产量较3月减少19万桶至2862万桶。
-6. 沙特阿美：正在与中石化和道达尔就价值100亿美元的沙特天然气交易进行谈判。
-7. 根据以色列军方消息，巴勒斯坦加沙地带武装组织向以色列境内发射了22枚火箭弹。
-8. 澳洲联储意外加息25个基点，并声明可能需要进一步收紧货币政策以稳定通胀预期。
-9. 韩国金融服务委员会：韩国将改进差价合约交易系统，以应对最近股市抛售。
-10. 欧洲央行：银行业第一季度信贷标准收紧程度超过预期。
-11. 纽约证交所将启动第一共和银行退市程序。
-12. 自4月21日以来，英国央行5％的利率峰值首次被完全定价。]]></title>
-            <guid>3093734</guid>
-            <pubDate>Tue, 02 May 2023 14:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰议会通过终止乌叙贸易等合作法案】乌克兰媒体5月2日报道称，乌克兰最高拉达（议会）在2日的会议上通过了终止乌克兰和叙利亚之间贸易、经济和技术合作以及商业航运协定的法案。乌克兰于2016年关闭了乌驻大马士革大使馆。去年6月底，乌克兰与叙利亚断交。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7631405.d.html</link>
-            <guid>3093733</guid>
-            <pubDate>Tue, 02 May 2023 14:49:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：南太平洋萨摩亚群岛发生6.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4250069.d.html</link>
-            <guid>3093728</guid>
-            <pubDate>Tue, 02 May 2023 14:42:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国数据公布后，欧元区国债收益率保持波动】德国国债收益率下跌，逆转了此前涨势，10年期国债收益率下跌4个基点至2.28％、2年期国债收益率下跌4个基点至2.69％；意大利10年期国债收益率上涨1个基点至4.19％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4248599.d.html</link>
-            <guid>3093724</guid>
-            <pubDate>Tue, 02 May 2023 14:40:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默未给出可能就无附加支出削减的债务上限法案进行投票的时间表。]]></title>
-            <guid>3093718</guid>
-            <pubDate>Tue, 02 May 2023 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：民主党在债务上限问题上的立场“保持不变”，即需要通过一项两党共同提高政府债务上限的法案。]]></title>
-            <guid>3093716</guid>
-            <pubDate>Tue, 02 May 2023 14:31:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【肯尼亚东北部发生炸弹袭击事件 6名军警受伤】肯尼亚警方当地时间5月2日证实，1日晚间，该国东北部曼德拉郡发生一起简易炸弹袭击事件，造成6名肯尼亚军警受伤。曼德拉郡毗邻索马里，近年来经常遭到索马里“青年党”越境袭击。索马里“青年党”是与“基地”组织有关联的极端组织。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmafr4374353.d.html</link>
-            <guid>3093714</guid>
-            <pubDate>Tue, 02 May 2023 14:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国弗洛伊德案最后一名涉案前警员被判有罪】据美国有线电视新闻网（CNN）当地时间5月2日报道，美国明尼苏达州法官彼得·卡希尔（Peter Cahill）1日提交的法庭文件显示，2020年5月警察暴力执法导致非洲裔男子乔治·弗洛伊德身亡事件中，涉事前警员陶·邵（Tou Thao）被判定犯有协助和教唆二级过失杀人罪。（央视新闻）]]></title>
-            <guid>3093712</guid>
-            <pubDate>Tue, 02 May 2023 14:26:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国职位空缺数量降至近两年来的最低水平】美国3月JOLTs职位空缺数量的增幅连续第三个月下降，降至近两年低点。数据显示，美国劳动力需求正在逐渐放缓，这将最终使就业市场更加平衡，并缓解工资上涨的压力。虽然一些企业（尤其是科技和金融领域的企业）都纷纷裁员，但劳动力市场整体上仍保持弹性，一直是美国与衰退作斗争的中坚力量。JOLTs报告显示，离职率（衡量自愿离职者占总就业人数的比例）小幅降至2.5%，与两年来的最低水平持平。这相当于约390万美国人离职，反映出住宿和食品服务行业的工人人数有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmafm7751719.d.html</link>
-            <guid>3093708</guid>
-            <pubDate>Tue, 02 May 2023 14:23:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国劳工统计局：3月，新聘人数和离职总人数变化不大，分别为610万和590万。在离职人数中，辞职人数（390万人）变化不大，而裁员和解雇人数（180万人）有所增加。]]></title>
-            <guid>3093703</guid>
-            <pubDate>Tue, 02 May 2023 14:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
