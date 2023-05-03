@@ -4,11 +4,329 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 02 May 2023 21:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 00:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[消费电子巨头戴森将在新加坡设立电池工厂，为新产品制造下一代电池。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7386420.d.html</link>
+            <guid>3093904</guid>
+            <pubDate>Wed, 03 May 2023 00:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【成都国际车展8月25日开幕】据成都国际汽车展览会消息，第二十六届成都国际汽车展览会将于2023年8月25日-9月3日，在中国西部国际博览城举行。目前成都国际汽车展览会，招商工作已全面启动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7385755.d.html</link>
+            <guid>3093903</guid>
+            <pubDate>Wed, 03 May 2023 00:25:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：韩国GDP增速可能略低于2月份的预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7384428.d.html</link>
+            <guid>3093902</guid>
+            <pubDate>Wed, 03 May 2023 00:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：不太担心韩国的债务违约风险。目前房地产市场的调整是可控的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc4003604.d.html</link>
+            <guid>3093901</guid>
+            <pubDate>Wed, 03 May 2023 00:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度陕西汽车产量同比增长20.2% 新能源汽车产量同比增长62.5%】从陕西省汽车工业协会获悉，今年一季度，陕西汽车产量达30.74万辆，同比增长20.2%，增幅高出全国26个百分点；产值同比增长28.8%。全省一季度新能源汽车产量达22.51万辆，同比增长62.5%，增幅高于全国40个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7382220.d.html</link>
+            <guid>3093900</guid>
+            <pubDate>Wed, 03 May 2023 00:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥东南部发生4.2级地震】据墨西哥国家地震监测局（SSN）的信息，当地时间5月2日凌晨4时，在墨西哥东南部的恰帕斯州（Chiapas）的弗隆特拉科玛拉帕市（Frontera Comalapa）以西方向约41公里处发生4.2级地震，震源深度约153.6公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失的报告。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc4002908.d.html</link>
+            <guid>3093898</guid>
+            <pubDate>Wed, 03 May 2023 00:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：需要关注房地产行业和经济增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc4002639.d.html</link>
+            <guid>3093897</guid>
+            <pubDate>Wed, 03 May 2023 00:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：由于业务结构不同，美国银行业压力对韩国影响很小。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7381114.d.html</link>
+            <guid>3093896</guid>
+            <pubDate>Wed, 03 May 2023 00:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：对韩元的日常波动不感到担忧。预计韩元汇率受美国利率政策影响的压力将比以前更小。未来韩元的压力可能会缓解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc4001590.d.html</link>
+            <guid>3093895</guid>
+            <pubDate>Wed, 03 May 2023 00:12:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长：不认为发达国家会在金融不稳定的情况下继续快速加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc4001233.d.html</link>
+            <guid>3093893</guid>
+            <pubDate>Wed, 03 May 2023 00:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[韩国央行行长称，现在谈论政策转向还为时过早；鉴于核心通胀率仍然较高，现在需要观望。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7378391.d.html</link>
+            <guid>3093892</guid>
+            <pubDate>Wed, 03 May 2023 00:10:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南隆阳5.2级地震已造成3人轻伤】据中国地震台网正式测定，2023年5月2日23时27分在云南保山市隆阳区瓦窑镇（北纬25.35度，东经99.28度）发生5.2级地震，震源深度10千米。央视新闻援引救援前线消息，据不完全统计，云南隆阳5.2级地震已造成3人轻伤。核灾排查和各项救灾安置工作还在紧张开展中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc3998097.d.html</link>
+            <guid>3093891</guid>
+            <pubDate>Wed, 03 May 2023 00:05:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：巩固房地产市场企稳回升势头】一季度，房地产市场各方信心加快恢复，出现积极变化，交易活跃性上升，多项指标与去年四季度相比出现边际好转。这表明，稳经济大盘，稳定房地产政策逐渐显效。因此，应进一步保持房地产调控政策的稳定性和延续性，并因城施策继续优化相关举措。历经一年多总体下行趋势后，今年一季度，房地产市场迎来可喜的企稳回升势头。也应该看到，前期积压的购房需求较为集中释放后，最近一些城市成交量出现小幅回落。市场小幅波动属正常现象，同时也表明，房地产市场持续企稳的根基尚不牢固。因此，要以更有效举措巩固房地产市场企稳回升势头。]]></title>
+            <guid>3093890</guid>
+            <pubDate>Wed, 03 May 2023 00:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：金融支持科技企业更精准】科技部火炬中心近日召开的企业创新积分制工作推进会透露了一组数据：2022年，前两批59家试点高新区依据量化积分，共为积分企业提供财政资金支持达307.4亿元，促进积分企业获得创业投资达1294.9亿元；20多家银行与各试点高新区对接合作，开发上线了区域性“积分贷”专项金融产品，2022年已为积分企业提供无抵押、低利率授信贷款1178.6亿元。这些真金白银的流向表明，企业创新积分制成功引导了金融资源向科技创新领域精准配置，是适应高质量发展要求的政策创新。瞄准现实痛点，是企业创新积分制改革获得成功的关键。企业创新积分制是科技部火炬中心于2020年探索建立的数据驱动的新型政策工具，通过量化评价企业科技创新能力，引导各类创新资源向优质企业集聚。]]></title>
+            <guid>3093889</guid>
+            <pubDate>Wed, 03 May 2023 00:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【谷歌微软等CEO将前往白宫参会，讨论关键AI问题】谷歌、微软、OpenAI和Anthropic的首席执行官将于当地时间周四与美国副总统卡玛拉·哈里斯（Kamala Harris）和高级政府官员会面，讨论关键的人工智能问题。据悉，邀请函指出，拜登总统“希望像你们这类公司在向公众提供产品之前，必须确保产品的安全性。”（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7374949.d.html</link>
+            <guid>3093888</guid>
+            <pubDate>Wed, 03 May 2023 00:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国家安全顾问沙利文与阿布扎比王储通话，谈及气候问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7372878.d.html</link>
+            <guid>3093886</guid>
+            <pubDate>Tue, 02 May 2023 23:54:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫考虑对加密矿企征收惩罚性税】据CoinDesk报道，美国白宫经济顾问委员会(CEA)周二在公告中表示，美国总统拜登正考虑对加密货币挖矿业务征收惩罚性税，因为“它们对社会造成了危害”。政府提出对矿企征收相当于其能源成本30%的税，这是一种不同寻常的针对特定行业的处罚，可能会威胁到此类企业的利润。CEA表示，目前加密矿企无需支付他们造成的全部成本，包括当地环境污染、更高的能源价格以及温室气体排放增加对气候的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysncsx7371048.d.html</link>
+            <guid>3093885</guid>
+            <pubDate>Tue, 02 May 2023 23:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统洛佩斯：太平洋有限公司将在索诺拉州建造天然气管道和液化厂，投资高达140亿美元。]]></title>
+            <guid>3093883</guid>
+            <pubDate>Tue, 02 May 2023 23:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥副财长：由于汇款和宏观经济因素的支持，预计墨西哥比索将保持强势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysnctc3987539.d.html</link>
+            <guid>3093882</guid>
+            <pubDate>Tue, 02 May 2023 23:46:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、研发、分析、应用，智能建造工程师推动建筑业转型升级——工地上来了新工友（经济新方位·新职业新活力）；
+2、我国开钻亚洲最深油气井 设计井深9472米；
+3、科技赋能“中国建造”；
+4、一季度长江干线港口货物吞吐量增长6.2%；
+5、粤港澳大湾区消费季暨第三届直播电商节启动；
+6、缅甸领导人敏昂莱会见秦刚；
+7、外交部发言人就秦刚访问缅甸并赴印度出席上合组织外长会答记者问；
+8、外交部发言人就乌兹别克斯坦新宪法全民公投答记者问；
+9、推动露营旅游休闲实现健康有序发展（视线）。]]></title>
+            <guid>3093881</guid>
+            <pubDate>Tue, 02 May 2023 23:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[每日科技要闻速递：
+人工智能：
+1. 三星电子禁止员工使用ChatGPT等生成式AI 拟推出内部工具。
+2. 美媒：马斯克旗下大模型公司X.AI目前仍在组建团队。
+3. Alphabet、OpenAI和微软的CEO们周四将参加白宫关于人工智能的会议。
+4. 微软计划推出在专用云服务器上运行的ChatGPT版本， 价格是常规版本的十倍。
+5. 法拉第未来宣布推出FF的生成式人工智能产品堆栈，该产品将被集成FF 91中。
+其他科技要闻：
+1. AMD：预计2023年个人电脑市场约为2.6亿台，同比下降10%。
+2. Model 3和Model Y中美市场涨价：中国涨价2000元，美国涨价250美元。
+3. 鸿海回应退出Lordstown投资传闻：仍愿意继续与其协商。
+4. 法拉第未来确认收到纳斯达克额外180天的宽限期，以满足纳斯达克最低买入价要求。
+5. 日媒：三星电子和LG显示斥资数十亿美元扩中型OLED面板产能 瞄准iPad与MacBooks订单。
+6. AMD第一季度营收54亿美元，市场预估为53.1亿美元，预计Q2营收介于50亿至56亿美元之间。]]></title>
+            <guid>3093879</guid>
+            <pubDate>Tue, 02 May 2023 23:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥总统：将向美国政府提出“外交抗议”】墨西哥总统洛佩斯当地时间5月2日在每日晨间例行新闻发布会上表示，拜登政府向墨西哥的一些组织和机构提供经济上的资助，而这些组织和机构是公开反对墨西哥政府的。洛佩斯表示，他将向美国政府提出“外交抗议”，因为美国政府从境外资助这些反墨政府组织和机构的行为侵犯了墨西哥主权，这是一种“干涉主义行为”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4108657.d.html</link>
+            <guid>3093878</guid>
+            <pubDate>Tue, 02 May 2023 23:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院银行委员会：将于5月16日举行听证会，审查硅谷银行和签名银行的破产案。将于5月18日举行银行业和信用合作社行业状况听证会，美联储理事巴尔将出席听证会。5月18日听证会的证人包括联邦存款保险公司主席、美国货币监理办公室代理监理长、纽约州金融服务部门主管。]]></title>
+            <guid>3093877</guid>
+            <pubDate>Tue, 02 May 2023 23:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【兴登堡做空“华尔街狼王”伊坎，后者身价一夜蒸发29亿美元】继前印度首富之后，做空机构兴登堡又搞了个大目标，将矛头对准“华尔街狼王”卡尔·伊坎，导致其伊坎企业(Icahn Enterprises)的股价周二收盘暴跌19.95%，创有史以来最大单日跌幅，市值蒸发40多亿美元。伊坎的个人净资产蒸发了29亿美元。兴登堡指责伊坎企业高估其所持资产，并依靠“类似庞氏骗局”的结构来支付股息，还与投行杰富瑞(Jefferies)勾结，后者在其股票研究中假设，即使在最坏的情况下，伊坎的股息也将永久支付。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4105888.d.html</link>
+            <guid>3093876</guid>
+            <pubDate>Tue, 02 May 2023 23:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【铁路遭破坏 俄布良斯克州又一货运列车脱轨】当地时间5月2日俄罗斯铁路公司发布消息表示，因铁路遭到破坏，一辆货运列车在布良斯克州发生事故，造成包括火车头在内的近20节车厢脱轨，所幸没有造成人员伤亡，事故现场也没有发生火灾。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4105374.d.html</link>
+            <guid>3093875</guid>
+            <pubDate>Tue, 02 May 2023 23:22:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行业委员会将于4日就近期银行破产事件举行听证会】根据美国参议院银行、住房和城市事务委员会（又称参议院银行业委员会）网页发布的信息，银行业委员会将于5月4日就“近期银行破产事件追究高管责任”的话题举行听证会。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4104541.d.html</link>
+            <guid>3093874</guid>
+            <pubDate>Tue, 02 May 2023 23:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【冯德莱恩：欧盟委员会将提出支持扩大欧洲弹药生产的法案】当地时间5月2日，欧盟委员会主席冯德莱恩发表声明称，欧盟委员会将于3日提出一项支持扩大欧洲弹药生产的法案。该法案将支持增加和加快欧洲弹药的制造，并将更精简的监管与更快捷的许可程序结合起来。此举是为了加快和扩大弹药生产，以支持乌克兰。该提案将包括欧盟提供的5亿欧元资金，以及欧盟成员国共同资助的5亿欧元资金，总计约10亿欧元。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxkz7482507.d.html</link>
+            <guid>3093873</guid>
+            <pubDate>Tue, 02 May 2023 23:20:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴勒斯坦媒体：以军空袭加沙地带造成至少1人受伤】当地时间5月3日凌晨，巴勒斯坦媒体报道称，在以色列空袭加沙地带加沙城附近巴勒斯坦伊斯兰抵抗运动（哈马斯）的一处地点后，至少有一人受重伤。哈马斯卫生部尚未证实这些报道。2日深夜，以色列国防军出动战机开始对加沙地带进行空袭，以回应当天巴勒斯坦武装组织从加沙地带向以色列南部发射的37枚火箭弹。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4102206.d.html</link>
+            <guid>3093872</guid>
+            <pubDate>Tue, 02 May 2023 23:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国前总理称其与时任总统萨科齐的谈话曾遭美国监听】当地时间5月2日，据法国媒体报道，法国前总理菲永当天在法国国民议会出席听证会并接受了议员的质询。据悉，菲永曾在两家俄罗斯巨头公司担任高管。2022年俄乌冲突爆发后，他迫于压力离开其供职的公司。据悉，该听证会主要围绕他曾经在俄罗斯公司的就职情况展开。（央视）]]></title>
+            <guid>3093871</guid>
+            <pubDate>Tue, 02 May 2023 23:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其能源部：土方与俄罗斯天然气工业股份公司讨论了在天然气价格大幅上涨后推迟部分付款的问题，并达成协议。]]></title>
+            <guid>3093870</guid>
+            <pubDate>Tue, 02 May 2023 23:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新西兰两年期互换合约上涨8个基点至5.15%，此前新西兰一季度失业率数据表现意外好于市场预期。]]></title>
+            <guid>3093866</guid>
+            <pubDate>Tue, 02 May 2023 23:03:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登将提名前美国众议院议员肖恩·马洛尼担任经合组织特使。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4091245.d.html</link>
+            <guid>3093865</guid>
+            <pubDate>Tue, 02 May 2023 23:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄乌冲突最新24小时局势跟踪】
+冲突情况：
+1. 外媒：俄罗斯军事专家认为，面对即将到来的5月9日胜利日，乌克兰正在为攻击俄罗斯领土酝酿广泛的打击计划。
+2. 克里米亚辛菲罗波尔附近的俄罗斯军事基地发生爆炸。
+3. 俄罗斯国防部长绍伊古表示，4月份，乌军折损有生力量超过1.5万人。绍伊古表示，俄军摧毁乌军飞机8架、无人机277架、坦克、装甲车辆430台、多管火箭炮18门、身管火炮以及迫击炮225门。
+4. 俄罗斯国防部：俄军在库皮扬斯克、红利曼、顿涅茨克、扎波罗热和赫尔松等多个方向发动攻势，打击了乌军人员和装备。
+5. 俄罗斯国防部：俄防空部队击落2架米格-29战机，1架苏-25战机，和多架乌军无人机，并拦截了多枚火箭弹。
+6. 乌克兰武装部队总参谋部：在过去24小时内，乌克兰武装部队在巴赫穆特等方向击退俄军多次攻击。
+7. 乌克兰武装部队总参谋部：乌克兰空军、导弹部队和炮兵部队对俄军人力和装备集中区等目标实施了多次打击，并击落了俄军无人侦察机。
+援助情况：
+1. 据乌克兰真理报，欧盟将讨论把炮弹产量提高到每年100万枚的计划，以满足乌克兰的需要和补充欧盟的储备。
+2. 丹麦国防部：丹麦将向乌克兰捐赠17亿丹麦克朗用于军事目的。
+3. 据美联社：美国将向乌克兰提供3亿美元的军事援助，包括Hydra-70（九头蛇-70）航空火箭弹，以及用于海马斯、迫击炮、榴弹炮和卡尔·古斯塔夫反坦克炮的弹药。
+粮食情况：
+1. 乌克兰消息人士：周三将举行涉及所有方面的黑海谷物出口协议谈判。
+2. 据塔斯社：俄罗斯外交部称未收到有关“粮食协议会议”的消息。
+3. 克里姆林宫：延长黑海粮食协议的窗口正在缩小，将继续进行有关粮食协议的谈判，将继续进行有关粮食协议的谈判。
+4. 欧盟委员会对乌克兰的小麦、玉米、油菜籽和葵花籽进口采取特别措施，以缓解这些产品在波兰等五国的滞留情况。
+其他情况：
+1. 乌克兰议会通过延长战时状态和总动员令的法案。
+2. 据乌克兰真理报：乌克兰总统泽连斯基表示，乌克兰及其合作伙伴将很快批准一项针对俄罗斯的大规模制裁方案。
+3. 乌媒：在俄罗斯布良斯克地区，两天内出现第二列货运列车因铁轨爆炸而脱轨的事件。
+4. 据Politico：乌克兰方面对其春季反攻的细节守口如瓶，近期的美国“泄密门”事件是基辅不愿分享信息的原因之一。]]></title>
+            <guid>3093864</guid>
+            <pubDate>Tue, 02 May 2023 23:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：韩国浦项钢铁公司将投资1.2万亿韩元新建电极及电池用锂工厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxkz7467193.d.html</link>
+            <guid>3093863</guid>
+            <pubDate>Tue, 02 May 2023 22:57:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦敦金融中心地位岌岌可危，英国欲简化规则吸引公司上市】根据英国金融监管机构周二公布的详细计划，英国股市的规则可能大幅简化，以吸引大公司到伦敦上市。近年来，英国作为全球金融中心的吸引力受到了质疑，越来越多的公司寻求在纽约等竞争对手处上市，而且英国在很大程度上与欧盟割裂。英国金融行为监管局（FCA）提议用单一类别取代英国现有的高级上市（Premium listing）和标准上市（Standard listing），作为简化规则的措施之一。FCA表示，单一股票类别将消除阻碍新公司上市的资格要求，对双重股权结构更为宽松，并取消对收购等交易的强制性股东投票。FCA表示，其目标是在今年年底前让改革取得实质性进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4088423.d.html</link>
+            <guid>3093862</guid>
+            <pubDate>Tue, 02 May 2023 22:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外交部召见波兰驻俄大使馆临时代办】 当地时间5月2日，波兰外交部发言人亚希纳证实，俄罗斯外交部当天召见波驻俄大使馆临时代办，抗议波兰政府接管俄驻波大使馆学校所在建筑。4月29日上午，波兰华沙警方强行进入隶属于俄罗斯驻波兰大使馆的一所学校，封锁该建筑，并要求学校所有工作人员在当天晚间前离开校园。随后，波兰外交部称，华沙市政府依据法院判决接管了该学校。俄罗斯外交部指责波方此举是敌对行动，违反了《维也纳外交关系公约》，俄方将作出严厉回应。（央视新闻）]]></title>
+            <guid>3093860</guid>
+            <pubDate>Tue, 02 May 2023 22:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱彼迎CEO：公司将于周三（5月3日）日内发布有史以来最大幅度的业务升级改版。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxkz7458086.d.html</link>
+            <guid>3093859</guid>
+            <pubDate>Tue, 02 May 2023 22:37:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列南部遭火箭弹袭击，至少12名平民受伤】当地时间5月2日，据以色列国防军统计，当天有至少33枚火箭弹和迫击炮弹从加沙地带射向以色列南部，其中两枚火箭弹击中了南部城镇斯代罗特，一枚火箭弹击中了基苏菲姆，共造成至少12名平民受伤。中国驻以色列大使馆确认其中一名伤者为中国务工人员，目前伤者恢复良好，情况稳定。巴勒斯坦伊斯兰抵抗运动（哈马斯）和巴勒斯坦伊斯兰圣战组织（杰哈德）宣称对火箭弹袭击负责。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxkz7454455.d.html</link>
+            <guid>3093858</guid>
+            <pubDate>Tue, 02 May 2023 22:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【周三隔夜全球要闻】
+1、美国国会多位议员敦促美联储主席鲍威尔暂停加息。
+2、美国参议院银行委员会将于5月4日就最近银行破产事件举行听证会。
+3、摩根士丹利正与美国司法部及证券交易委员会商谈，以和解其在大宗交易领域所遭受的调查。
+4、美国知名做空机构兴登堡研究公司发布报告称，亿万富翁卡尔·伊坎的公司估值被严重高估。伊坎企业股价收跌近20%，回落至三年来的最低水平。
+5、微软计划推出在专用云服务器上运行的ChatGPT版本，价格是常规版本的十倍。
+6、纽约证交所将启动第一共和银行退市程序。
+7、美国众议院议长凯文·麦卡锡接受了总统拜登的邀请，定于5月9日与拜登会面，讨论债务上限问题的解决方案。
+8、摩根士丹利将第三季布伦特预估下调12.50美元至77.50美元，分析师在报告中说“下半年供应吃紧的前景已减弱” 。
+9、知情人士透露，因沙特寻求开发全球最大的未开发气田之一，中国石化、法国能源巨头道达尔等公司在商谈投资沙特的该天然气田Jafurah开发项目，沙特阿美寻求为这些项目筹资约100亿美元。
+10、据世界气象组织发布消息，厄尔尼诺现象在今年晚些时候出现的可能性正在增加。这将对全球许多地区的天气和气候模式产生与拉尼娜现象相反的影响，并可能加剧全球气温升高。
+11、据苏丹当地媒体当地时间5月2日报道，南苏丹外交部表示，苏丹武装部队和快速支援部队“原则上同意”自当地时间5月4日起停火，为期7天。
+12、AMD第一季度营收54亿美元，预估53.1亿美元；第一季度调整后每股收益0.60美元，预估0.57美元。
+13、美股三大指数集体收跌，道指跌1.08%，纳指跌1.08%，标普500指数跌1.16%，地区性银行股、石油股跌幅居前，热门中概股普跌，纳斯达克中国金龙指数收跌3.6%。
+14、WTI 6月原油期货收跌5.29%，报71.66美元/桶；布伦特7月原油期货收跌5.03%，报75.32美元/桶。COMEX 6月黄金期货收涨1.56%，报2023.3美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxkz7452959.d.html</link>
+            <guid>3093857</guid>
+            <pubDate>Tue, 02 May 2023 22:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台5月3日06时继续发布暴雨蓝色预警】中央气象台5月3日6时继续发布暴雨蓝色预警。预计，5月3日08时至4日08时，河南中东部、山东西部和南部、安徽中北部、江苏中北部、湖北南部和中东部、重庆北部等地部分地区有大到暴雨，其中，河南东南部、湖北东北部安徽西南部等地局地有大暴雨(100~120毫米)。上述部分地区伴有短时强降水(最大小时降雨量20~40毫米，局地可超过50毫米)，局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4066843.d.html</link>
+            <guid>3093851</guid>
+            <pubDate>Tue, 02 May 2023 22:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克CFO：公司将继续在业务领域面临不确定性。不确定性包括顾客消费习惯的改变。预计公司利润率会在财年三季度及四季度出现好转。]]></title>
+            <guid>3093850</guid>
+            <pubDate>Tue, 02 May 2023 21:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受云南隆阳5.2级地震影响中断的杭瑞高速已恢复通行】从云南省保山市交通警察支队获悉，杭瑞高速公路老营至沧江路段临时交通管制于5月3日03时40分解除，大理至保山方向道路恢复正常通行；保山至大理方向小车、客运车辆恢复通行，货车因K2690老鹰岩1号大桥路面受损，不具备通行条件。请保山往大理方向的货车从老营收费站驶出高速，服从现场民警指挥，绕行老路至沧江收费站或杉阳收费站驶入高速。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmxmf4054836.d.html</link>
+            <guid>3093849</guid>
+            <pubDate>Tue, 02 May 2023 21:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车CFO：公司今年将减支20亿美元，略不及此前计划中的25亿美元。大宗商品原料价格的上涨是公司减支行动未能达标的主因。]]></title>
+            <guid>3093846</guid>
+            <pubDate>Tue, 02 May 2023 21:39:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会民主党议员Boyle：对提高债务上限直至9月30日的提议持开放态度。国会需要在银行业监管规则上增加更多透明度。]]></title>
+            <guid>3093844</guid>
+            <pubDate>Tue, 02 May 2023 21:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克CEO：公司门店运营状况仍可进一步改善。可以通过流程简化改革来使门店运营更加便利。通过采购流程的优化，可以减少不必要的库存。公司将致力提高利润率，并投资长期业务。]]></title>
+            <guid>3093843</guid>
+            <pubDate>Tue, 02 May 2023 21:31:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMD：料第一季度个人电脑业务触底，料下半年和第二季度个人电脑芯片销售将出现增长。预计2023年个人电脑市场规模约为2.6亿台，下降10%。商用服务器销售出现明显下滑。一季度云计算服务器销售有所增长。二季度服务器设备需求状况仍将喜忧参半。AMD的出货量仍显著低于PC市场的终端需求。认为一季度已是PC业务的谷底。PC芯片需求在二季度和下半年都将继续增长。]]></title>
+            <guid>3093842</guid>
+            <pubDate>Tue, 02 May 2023 21:14:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AMD财报发布后，股价盘后跌4.6%，拖累英伟达一同下跌1.1%，而其竞争对手英特尔股价则在盘后涨0.8%。]]></title>
             <guid>3093839</guid>
@@ -86,171 +404,6 @@
             <title><![CDATA[投资银行Lazard负责金融咨询业务的CEO Orszag：美联储的紧缩政策步伐过快。呼吁长久性地提高债务上限。当前仍不宜改变存款保险机制覆盖范围。如能在监管方面达成更多共识，则大有1裨益。]]></title>
             <guid>3093806</guid>
             <pubDate>Tue, 02 May 2023 18:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国两家地区性银行债券暴跌】周二美国高收益债二级市场上，地区性银行阿莱恩斯西部（Western Alliance Bancorp）的债券跌幅居前。Trace数据显示，截至美东时间下午1:20，该行6亿美元2031年到期票面利率3%的次级债券每一美元面值下跌8.3美分，至67.8美分。西太平洋合众银行（PacWest Bancorp）的2031年到期票息3.25%债券每一美元面值下跌约1.6美分至69美分该行股价盘中一度下挫42％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvf7604501.d.html</link>
-            <guid>3093803</guid>
-            <pubDate>Tue, 02 May 2023 18:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯布良斯克州再次发生货运列车脱轨事件】 俄罗斯布良斯克州2日晚再次发生货运列车脱轨事件，暂无人员伤亡报告。俄罗斯铁路公司当天在社交媒体发布消息说，当地时间19时47分，因无关人员非法干扰铁路运输，一台机车和20节车厢在布良斯克州一铁路路段脱轨。初步信息显示，没有人员伤亡。事发路段已经封闭，消防人员和救援人员正在现场抢修。布良斯克州州长博戈马兹在社交媒体证实这一消息。他说，事发原因是一个不明爆炸装置在斯涅热季火车站附近发生爆炸。此前一天，布良斯克州一段铁轨曾发生爆炸，导致一列货运列车的一台机车和7节车厢脱轨，没有人员伤亡。博戈马兹当时说，列车脱轨由一个不明爆炸装置爆炸引发。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4220230.d.html</link>
-            <guid>3093802</guid>
-            <pubDate>Tue, 02 May 2023 18:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯巴鲁4月份在美国市场汽车销量同比增长11.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4219038.d.html</link>
-            <guid>3093800</guid>
-            <pubDate>Tue, 02 May 2023 17:55:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国前财长Mnuchin：当前是到了修复存款保险机制的时候了。如果存款保险机制得不到修复，地区银行的处境将岌岌可危。]]></title>
-            <guid>3093799</guid>
-            <pubDate>Tue, 02 May 2023 17:38:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储周二固定利率逆回购使用规模为2.267万亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4208059.d.html</link>
-            <guid>3093796</guid>
-            <pubDate>Tue, 02 May 2023 17:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【非盟、伊加特和联合国三方代表召开苏丹危机扩大机制会议】非盟、东非政府间发展组织（伊加特）和联合国三方代表当地时间5月2日在位于埃塞俄比亚首都亚的斯亚贝巴的非盟总部召开苏丹危机扩大机制会议，旨在确定苏丹危机中的优先解决事项，加强国际社会的团结和凝聚力，巩固停火，并为苏丹回归民主、包容的文职政府奠定基础。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvm4206571.d.html</link>
-            <guid>3093795</guid>
-            <pubDate>Tue, 02 May 2023 17:26:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LME期铜收跌82美元，报8514美元/吨；LME期铝收涨10美元，报2366美元/吨；LME期锌收跌38美元，报2610美元/吨；LME期铅收涨24美元，报2172美元/吨；LME期镍收涨746美元，报24965美元/吨；LME期锡收涨403美元，报26491美元/吨。]]></title>
-            <guid>3093794</guid>
-            <pubDate>Tue, 02 May 2023 17:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫新闻发言人Jean-Pierre：避免美国债务违约的唯一出路就是无条件提高债务上限。]]></title>
-            <guid>3093793</guid>
-            <pubDate>Tue, 02 May 2023 17:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议长麦卡锡接受拜登债务上限问题会议的邀请】据报道，美国众议院议长凯文·麦卡锡接受了总统拜登的邀请，定于5月9日与拜登会面，讨论债务上限问题的解决方案。据消息人士表示，拜登1日致电包括麦卡锡在内的四位国会议员，邀请他们于9日在白宫讨论如何避免美国债务违约。据悉，拜登是在财政部长耶伦警告政府可能最早将于6月1日突破债务上限的几小时后向麦卡锡发出了会议邀请。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmnvf7576487.d.html</link>
-            <guid>3093788</guid>
-            <pubDate>Tue, 02 May 2023 17:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万达生物制药(VNDA.Q)：对联邦政府“无偿获取和滥用”公司的商业秘密和机密信息而提起诉讼。]]></title>
-            <guid>3093783</guid>
-            <pubDate>Tue, 02 May 2023 16:50:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[古根海姆固定收益资产业务首席投资官Walsh：在市场风险上升的环境下，将把业务向高质量信贷资产转移。]]></title>
-            <guid>3093782</guid>
-            <pubDate>Tue, 02 May 2023 16:33:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（5月2日）欧市尾盘，德国10年期国债收益率跌5.5个基点，报2.258%，盘中交投于2.249%-2.417%区间。两年期德债收益率跌6.7个基点，报2.624%，盘中交投于2.615%-2.812%区间；30年期德债收益率跌3.6个基点，报2.380%。2/10年期德债收益率利差涨1.266个基点，报-37.081个基点。]]></title>
-            <guid>3093781</guid>
-            <pubDate>Tue, 02 May 2023 16:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民调：48%受访美国人对联邦最高法院持负面看法】据美国《国会山报》当地时间5月2日报道，民意调查机构Navigator的一份最新民调显示，有48%参与民调的美国人对联邦最高法院持负面看法，44%的人对其持积极态度。报道称，因为美国联邦最高法院推翻“罗诉韦德案”事件的影响，对该法院持负面看法的人数比例一直在上升。最新的民调显示，59%的参调者认为，联邦最高法院推翻“罗诉韦德案”对美国来说是一个糟糕的决定。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpi7680481.d.html</link>
-            <guid>3093778</guid>
-            <pubDate>Tue, 02 May 2023 16:17:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：在美国证交会（SEC）推进加强对私人基金行业监管的计划之际，SEC主席Gary Gensler再次抨击对冲基金和私人股本公司向投资者收取的费用。]]></title>
-            <guid>3093776</guid>
-            <pubDate>Tue, 02 May 2023 16:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其东部发现新油田 可日产10万桶】土耳其总统埃尔多安当地时间5月2日宣布，土耳其在该国东部舍尔纳克省（Sirnak）附近发现新油田，通过在该地区钻探100口油井，其生产能力可达到日产10万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4297233.d.html</link>
-            <guid>3093772</guid>
-            <pubDate>Tue, 02 May 2023 16:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：3M以7000万美元的价格将部分资产出售给法国制药和医学护肤品集团皮尔法伯。]]></title>
-            <guid>3093771</guid>
-            <pubDate>Tue, 02 May 2023 16:09:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根士丹利将第三季度布伦特原油预测下调12.50美元至77.50美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-03/detail-imysmhpp4296648.d.html</link>
-            <guid>3093770</guid>
-            <pubDate>Tue, 02 May 2023 16:08:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【富国银行：美国劳动力市场继续降温】富国银行的分析师表示，美国3月JOLTs职位空缺数据提供了进一步证据，表明劳动力市场的供需正在更好地实现平衡。辞职率小幅下降，裁员和解雇率小幅上升，这些趋势与劳动力市场继续逐渐降温相一致。从绝对意义上讲，美国劳动力市场仍然紧张，空缺和离职人数仍高于大流行前的水平，非自愿离职回到2018-2019年的普遍水平。预计未来几个月劳动力需求将继续下降。本周五公布的非农就业报告将显示就业增长速度再次放缓，且预计美国劳动力市场在今年晚些时候和明年还会更疲软。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7667229.d.html</link>
-            <guid>3093765</guid>
-            <pubDate>Tue, 02 May 2023 15:55:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数因船舶需求下降而下跌】波罗的海干散货运价指数因船舶需求下降而承压。波罗的海干散货运价指数下跌24点至1552点，为两周以来最大跌幅。海岬型船运价指数下跌33点或1.4%，至2268点。海岬型船日均获利减少271美元，至18809美元。巴拿马型船运价指数下跌23点或1.5%，至1563点，为3月28日以来最低水平。巴拿马型船日均获利减少208美元，至14066美元。超灵便型散货船运价指数下跌21点，至1144点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7656477.d.html</link>
-            <guid>3093760</guid>
-            <pubDate>Tue, 02 May 2023 15:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西国家石油公司将航空燃油批发价格下调11.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4277273.d.html</link>
-            <guid>3093757</guid>
-            <pubDate>Tue, 02 May 2023 15:40:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国10年期国债收益率达3.433％，为4月26日以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4275550.d.html</link>
-            <guid>3093755</guid>
-            <pubDate>Tue, 02 May 2023 15:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：新能源汽车制造商Mullen从汽车经销商Randy Marion处得到了1000辆汽车的订单。]]></title>
-            <guid>3093753</guid>
-            <pubDate>Tue, 02 May 2023 15:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[杜邦(DD.N)绩后跌超9%，最低触及62.8美元，创近六个月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4273227.d.html</link>
-            <guid>3093752</guid>
-            <pubDate>Tue, 02 May 2023 15:31:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[本田汽车4月在美国汽车销量同比增长24.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7645463.d.html</link>
-            <guid>3093749</guid>
-            <pubDate>Tue, 02 May 2023 15:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[马拉松石油：燃油供给状况仍然紧张，全球对成品油产品的需求正在增长。在2023年全年炼油业务的利润率水平因此将继续得到支撑。公司仍看好即将开始的美国夏季驾车出行高峰带来的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7641434.d.html</link>
-            <guid>3093746</guid>
-            <pubDate>Tue, 02 May 2023 15:09:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界气象组织：今年出现厄尔尼诺现象的可能性正在增加】据世界气象组织5月2日发布的消息，厄尔尼诺现象在今年晚些时候出现的可能性正在增加。世界气象组织表示，持续了三年的拉尼娜现象现已结束，热带太平洋目前处于ENSO中性状态（既不是厄尔尼诺现象也不是拉尼娜现象）。根据世界气象组织专家最新研究，今年5月至7月期间，ENSO从中性过渡到厄尔尼诺现象的可能性为60%，6月至8月增加至约70%，在7月至9月增加至80%。世界气象组织秘书长塔拉斯表示，厄尔尼诺现象的发展很可能导致全球变暖出现新的高峰，并增加打破温度纪录的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4262333.d.html</link>
-            <guid>3093744</guid>
-            <pubDate>Tue, 02 May 2023 15:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：丹麦央行上个月没有对汇市进行干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4260013.d.html</link>
-            <guid>3093743</guid>
-            <pubDate>Tue, 02 May 2023 15:03:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【看图 | 美国地区银行阴云密布 优先股遭主要买家减持】美国地区银行优先股的一个主要买家正在削减敞口，原因是担心这些银行没法迅速从当前的压力中恢复过来。数据显示，自硅谷银行倒闭以来，市值低于100亿美元的银行的优先股平均下跌逾五分之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpi7634702.d.html</link>
-            <guid>3093740</guid>
-            <pubDate>Tue, 02 May 2023 14:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰至5月2日全球乳制品贸易价格指数 2.5%，前值3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-02/detail-imysmhpp4255828.d.html</link>
-            <guid>3093739</guid>
-            <pubDate>Tue, 02 May 2023 14:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
