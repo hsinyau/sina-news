@@ -4,11 +4,346 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 05 May 2023 15:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 18:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【叙利亚霍姆斯省一天然气井开始生产活动】据叙利亚通讯社消息，当地时间5日，叙利亚石油与矿产资源部部长菲拉斯·卡杜尔宣布，位于叙利亚霍姆斯省东北部地区的提亚斯3号天然气井开始生产，每日可产出30万立方米天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhf2756356.d.html</link>
+            <guid>3097294</guid>
+            <pubDate>Fri, 05 May 2023 18:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI首席执行官：公司早已不使用客户数据来训练模型】当地时间周五（5月5日），美国人工智能公司OpenAI首席执行官山姆·阿尔特曼（Sam Altman）表示，公司已经“有一段时间”没有使用付费客户的数据来训练人工智能（AI）大语言模型了。阿尔特曼在专访中说道，“用户们显然希望我们不要使用他们的数据进行训练，所以我们已经改变了我们的计划，未来我们也不会这样做了。”网络记录也显示，今年3月1日，OpenAI悄然更新了其服务条款：“不会使用通过其API提交的任何数据来“服务改进”，包括AI模型训练，除非客户或组织选择加入。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhf2756288.d.html</link>
+            <guid>3097293</guid>
+            <pubDate>Fri, 05 May 2023 18:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本青森县东部近海地区发生5.5级地震】据日本广播协会（NHK）报道，当地时间6日2时47分左右，日本青森县东部近海地区发生5.5级地震，最大震感为4，震源深度70公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhf2753841.d.html</link>
+            <guid>3097292</guid>
+            <pubDate>Fri, 05 May 2023 18:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：债务上限问题是国会“必须通过”的投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhk3240108.d.html</link>
+            <guid>3097290</guid>
+            <pubDate>Fri, 05 May 2023 17:53:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：利率已经达到足够限制性的水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhk3240014.d.html</link>
+            <guid>3097289</guid>
+            <pubDate>Fri, 05 May 2023 17:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta从英国科技独角兽挖来AI芯片团队】Meta从英国人工智能芯片公司Graphcore挖来了一个团队，该团队此前在挪威奥斯陆工作，直到去年年底还在Graphcore开发AI网络技术。据悉，该团队共有10人，他们在Graphcore工作到去年12或今年1月，随后在今年2月或3月加入Meta。在回应媒体置评要求时，Meta发言人Jon Carvill证实，该公司确实招聘了上述团队。Carvill表示：“最近，我们在奥斯陆迎接了一些高度专业化的工程师加入Meta的基础设施团队。他们带来了超级计算机系统设计和开发方面的深厚专业知识，以支持Meta数据中心大规模的AI和机器学习。”]]></title>
+            <guid>3097288</guid>
+            <pubDate>Fri, 05 May 2023 17:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑海粮食外运协议各方将召开高层级会议】联合国秘书长副发言人法尔汉·哈克当地时间5月5日表示，当天，土耳其政府召集举行了技术性会议，为下周将在伊斯坦布尔举行的“黑海粮食外运协议”各方的高层级人员会议进行准备。哈克表示，目前高层级的会议具体细节正在确定中。他没有透露谁将会出席这一会议，但期待与各方“有建设性而坦率”的对话。哈克同时强调，目前5月18日是俄罗斯提出的协议执行审议日期，并非所有协议签署方都同意。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhk3238016.d.html</link>
+            <guid>3097287</guid>
+            <pubDate>Fri, 05 May 2023 17:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：我不认为单因货币政策会使美国陷入衰退，需要某种冲击（才会出现衰退情景）。]]></title>
+            <guid>3097286</guid>
+            <pubDate>Fri, 05 May 2023 17:48:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：委员会认为当前的货币政策已经足够收紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhf2750146.d.html</link>
+            <guid>3097285</guid>
+            <pubDate>Fri, 05 May 2023 17:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：华尔街似乎在大量押注衰退的情景。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysukhk3237672.d.html</link>
+            <guid>3097284</guid>
+            <pubDate>Fri, 05 May 2023 17:48:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所：截至5月2日当周，汽油投机性净空头头寸增加31857手合约，至32542手。]]></title>
+            <guid>3097282</guid>
+            <pubDate>Fri, 05 May 2023 17:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：预计我们可以通过让劳动力市场回归“正常”而不是通过高失业率来降低通胀。]]></title>
+            <guid>3097281</guid>
+            <pubDate>Fri, 05 May 2023 17:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：强劲的劳动力市场可能意味着持续的消费，这增强了对（经济）持续增长的信心。]]></title>
+            <guid>3097280</guid>
+            <pubDate>Fri, 05 May 2023 17:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大安大略省发生火车脱轨事故】当地时间5月5日中午，加拿大安大略省金斯顿发生火车脱轨事故。据悉，脱轨火车不是客运列车，共有14节车厢，5节脱轨，其中一节在水中。从来自现场的照片显示，脱轨事故发生在一座桥梁上，该桥的一部分已经坍塌，目前事故路段双向关闭。警方表示，火车脱轨原因还在调查中，目前尚不清楚是否有有害物质泄露。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2872527.d.html</link>
+            <guid>3097277</guid>
+            <pubDate>Fri, 05 May 2023 17:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：由于利率上升和银行业动荡导致交易活动低迷，美国中型市场发行在2023年第一季度放缓。]]></title>
+            <guid>3097276</guid>
+            <pubDate>Fri, 05 May 2023 17:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内跌幅达1.00%，现报1.3403。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3356218.d.html</link>
+            <guid>3097274</guid>
+            <pubDate>Fri, 05 May 2023 17:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“A+G”上市公司达18家，GDR成A股公司海外融资优选】5月4日晚，芯原股份发布公告称，公司发行GDR（全球存托凭证）并在瑞交所上市获瑞交所监管局附条件批准。自2022年2月11日互联互通存托凭证业务新规落地以来，近15个月已诞生14家“A+G”上市公司，再加上新规前已成功实现GDR上市的华泰证券等4家上市公司，我国“A+G”上市公司已达18家。此外，还有39家公司正在推进GDR上市事宜。从进展来看，东威科技、先导智能进展最快，GDR项目获得中瑞两地监管部门批复；21家GDR项目获得一地监管部门批复；其余公司的GDR项目也在有序推进中。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3355982.d.html</link>
+            <guid>3097273</guid>
+            <pubDate>Fri, 05 May 2023 17:23:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德淡化了银行的压力，表示“这是可以控制的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3352444.d.html</link>
+            <guid>3097272</guid>
+            <pubDate>Fri, 05 May 2023 17:20:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：感觉是地区性银行会做得“很好”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3352407.d.html</link>
+            <guid>3097271</guid>
+            <pubDate>Fri, 05 May 2023 17:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫经济顾问Ramamurti：整体银行体系韧性较强，没有存款挤兑风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2864806.d.html</link>
+            <guid>3097269</guid>
+            <pubDate>Fri, 05 May 2023 17:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美国的金融中介并非以银行为中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3352232.d.html</link>
+            <guid>3097268</guid>
+            <pubDate>Fri, 05 May 2023 17:19:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美国经济崩溃的传言被严重夸大了。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3350893.d.html</link>
+            <guid>3097267</guid>
+            <pubDate>Fri, 05 May 2023 17:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：劳动力市场非常紧张，需要时间来冷却。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2863313.d.html</link>
+            <guid>3097266</guid>
+            <pubDate>Fri, 05 May 2023 17:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：基本情况是经济增长缓慢，通货膨胀下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3350299.d.html</link>
+            <guid>3097263</guid>
+            <pubDate>Fri, 05 May 2023 17:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：美联储在一年内做了很多事情，但是仍存在很多通货膨胀问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2862729.d.html</link>
+            <guid>3097262</guid>
+            <pubDate>Fri, 05 May 2023 17:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德：此举将使美联储的利率超过5%，但经济中存在大量通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3350245.d.html</link>
+            <guid>3097261</guid>
+            <pubDate>Fri, 05 May 2023 17:14:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财长耶伦压缩赴日G-7行程 因债务上限摊牌时刻临近】由于围绕美国债务上限问题的摊牌时刻临近，美国财政部长耶伦压缩其即将到来的赴日行程。她即将赴日本参加全球经济大国财长和央行行长会议。美国财政部一位高级官员周五在记者电话会议上表示，耶伦的行程被压缩，以确保她能够继续参与在华盛顿为解决这个问题而进行的努力。下周七国集团在日本新泻举行会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3350011.d.html</link>
+            <guid>3097259</guid>
+            <pubDate>Fri, 05 May 2023 17:14:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月5日当周天然气钻井总数 157口，前值161口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3343301.d.html</link>
+            <guid>3097253</guid>
+            <pubDate>Fri, 05 May 2023 17:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月5日当周总钻井总数 748口，前值755口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2855684.d.html</link>
+            <guid>3097252</guid>
+            <pubDate>Fri, 05 May 2023 17:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储理事丽莎·库克在演讲中没有对经济和政策发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2855260.d.html</link>
+            <guid>3097251</guid>
+            <pubDate>Fri, 05 May 2023 17:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储布拉德、丽莎·库克将于十分钟后发表讲话；美国至5月5日当周石油钻井总数将于十分钟后公布。]]></title>
+            <guid>3097248</guid>
+            <pubDate>Fri, 05 May 2023 16:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国王查尔斯三世加冕仪式将于5月6日举行】英国国王查尔斯三世加冕仪式将于5月6日在英国首都伦敦威斯敏斯特大教堂举行。这将是英国王室70年来首次举办加冕仪式，上一次是已故女王伊丽莎白二世1953年的加冕仪式。为庆祝英国国王查尔斯三世加冕，加冕仪式之后的周一（5月8日）将为英国节假日。为保障加冕仪式安全进行，伦敦警方部署超2.9万名人员以加强安保。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyn3336870.d.html</link>
+            <guid>3097246</guid>
+            <pubDate>Fri, 05 May 2023 16:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国与肯尼亚围绕气候和绿色能源问题加强合作伙伴关系。德国总理朔尔茨宣称，支持在非洲提高化肥产能。]]></title>
+            <guid>3097245</guid>
+            <pubDate>Fri, 05 May 2023 16:44:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国发言人称，乌克兰、俄罗斯、土耳其和联合国周五未能就授权新船只用于黑海粮食出口达成协议；乌克兰、俄罗斯、土耳其和联合国会继续对之前授权的船只进行日常检查工作。]]></title>
+            <guid>3097243</guid>
+            <pubDate>Fri, 05 May 2023 16:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小摩上调美国三家银行股评级 其中包括WAL】摩根大通分析师Steven Alexopoulos将阿莱恩斯西部银行（WAL）、齐昂银行（ZION）和联信银行（CMA）的评级上调至超配，对整个板块的看法由悲观转向中性。“市场情绪非常负面，板块重估在望，”这位分析师写道，对该板块看法为中性。“鉴于情绪已经这样悲观，我们认为不需要太多时间就会看到地区性银行股出现有利的重大中期重估。”鉴于三支股票已大幅下跌，这位分析师表示，每支股票的交易价格“均远低于其基本面价值”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2847776.d.html</link>
+            <guid>3097241</guid>
+            <pubDate>Fri, 05 May 2023 16:42:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登主持内阁会议：5月5日发布的非农就业报告带来一些好消息。还需付出更多努力，但通胀在正确的趋势上发展。国会山共和党威胁要让美国爆发债务违约，从而破坏经济所取得的进展。]]></title>
+            <guid>3097240</guid>
+            <pubDate>Fri, 05 May 2023 16:41:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港特区政府欢迎国际货币基金组织肯定香港经济增长和金融稳定】国际货币基金组织代表团5日发表初步总结，赞扬香港特区政府在推动经济增长和维持金融稳定上所做的工作，认为香港金融体系稳健，即使在充满挑战的全球宏观金融环境下，仍继续充分发挥国际金融中心角色。香港特区政府官员对此表示欢迎。香港特区政府财政司司长陈茂波表示，欢迎代表团对香港作出十分积极正面的评估，他们再次肯定香港对金融业有高水平的规管，在不断变化的全球环境下维持金融体系稳健，香港作为国际金融中心的重要地位坚稳。香港金融管理局总裁余伟文表示，如代表团所指出，联系汇率制度是维持香港货币与金融稳定的基石，而这个机制的公信力继续由其本身的透明度、充足的外汇储备、审慎的财政政策框架、稳健的金融规管和监管，以及经济的灵活性所支持。]]></title>
+            <guid>3097239</guid>
+            <pubDate>Fri, 05 May 2023 16:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维权投资者们宣称，巴菲特与盖茨过从甚密，这样的关系可能会伤害到伯克希尔哈撒韦的投资者们。他们试图在5月6日伯克希尔哈撒韦股东大会上投票罢免巴菲特的董事会主席职务，但成功的可能性微乎其微。]]></title>
+            <guid>3097237</guid>
+            <pubDate>Fri, 05 May 2023 16:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：总统拜登启动了一项40亿美元的计划，以减少美国港口和重型车辆的排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-06/detail-imysucyi2829427.d.html</link>
+            <guid>3097235</guid>
+            <pubDate>Fri, 05 May 2023 16:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：有参与相关活动的人士称，伯克希尔哈撒韦公司CEO沃伦·巴菲特的政治倾向可能会损害伯克希尔的投资者，争取撤消他董事会主席职务的事项将在周六进行表决。]]></title>
+            <guid>3097234</guid>
+            <pubDate>Fri, 05 May 2023 16:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本石川县地震已致1人死亡】据日本石川县警方5日消息，截至当地时间21时（北京时间20时），该县能登地区当天发生的地震已导致1人死亡、22人受伤，死者系一名65岁男子。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyi2823458.d.html</link>
+            <guid>3097233</guid>
+            <pubDate>Fri, 05 May 2023 15:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下一轮裁员会有谁？可能老板得听AI机器人发话】ChatGPT已可以写出一份通用的裁员备忘录，微软计划将365 Copilot应用到Excel，可能有助于客户的财务规划。一家名为Pigment SAS的法国初创公司正在测试一种应该被首席财务官们喜爱的生成式人工智能（AI）工具。这款名为Pigment AI的产品基于OpenAI软件。它将聊天机器人放在用于制定财务计划的电子表格和仪表板中。该软件旨在梳理公司数据，并回答诸如“如果我们提前三个月推出新产品该怎么办？”“未来一年该如何使收入增加一倍？”之类的问题。Pigment联席首席执行官Romain Niccoli表示，虽然AI可以通知一家公司做出裁员决定，最终做决策的还是人。 “AI只是确保你了解后果，它不会为你做决定。”如果有一天你被解雇了，很可能不会知道这背后还有AI的推波助澜。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyn3308588.d.html</link>
+            <guid>3097232</guid>
+            <pubDate>Fri, 05 May 2023 15:55:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国兴业银行宣布，任命Anne-Sophie Chauveau-Galas为该行首席人力资源官，5月24日起生效。]]></title>
+            <guid>3097231</guid>
+            <pubDate>Fri, 05 May 2023 15:54:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【瑞银百人特别工作组“空降”瑞信 正式启动兼并程序】瑞银集团的银行家已“空降”瑞信集团，将开始梳理前竞争对手的账簿，启动被认为有史以来最为复杂的整合程序。据知情人士透露，瑞银派出了一个由大约100人组成的所谓“清洁队”，来评估瑞信的客户名单和人才库，以及哪些业务线应当归入了结的行列。瑞银的目标是最快本月完成交易，瑞信此前警告称，当前的瘫痪状态已经导致员工流失率飙升，增强了紧迫性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyn3304547.d.html</link>
+            <guid>3097230</guid>
+            <pubDate>Fri, 05 May 2023 15:52:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“印度支付宝”Paytm第四财季净亏损16.8亿卢比，分析师预期亏损36.9亿卢比。第四财季营收233亿卢比，分析师预期232.6亿卢比。第四财季总体成本263亿卢比，同比增长11%。]]></title>
+            <guid>3097228</guid>
+            <pubDate>Fri, 05 May 2023 15:49:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中钢协：到2035年中国电炉钢比例将达到30%以上】以“发展电炉炼钢·创造绿色未来”为主题的全国电炉短流程炼钢推进大会5日在四川省泸州市举行。当天的推进大会上，中国钢铁工业协会副会长表示，2022年中国电炉钢产量占粗钢总产量比重为9.7%，远低于30%的世界平均水平。在碳达峰碳中和过程中，发展短流程炼钢是实现绿色低碳发展的必然趋势。他判断，到2035年中国电炉钢比例将达到30%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyn3297454.d.html</link>
+            <guid>3097224</guid>
+            <pubDate>Fri, 05 May 2023 15:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹主权委员会主席特使：武装部队“接受停战提议”】据苏丹当地媒体报道，当地时间5月5日傍晚，此前曾赴沙特参与多方会谈的苏丹主权委员会主席特使阿里表示，苏丹武装部队将派代表团赴吉达出席相关会谈，讨论苏丹停火的持续时间和人道主义安全通道等事项。阿里指出，苏丹武装部队“接受停战提议，但不与快速支援部队进行直接对话”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyi2809293.d.html</link>
+            <guid>3097222</guid>
+            <pubDate>Fri, 05 May 2023 15:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士银行股欧盘收盘上涨，瑞士信贷收涨5%，瑞银收涨4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyi2808527.d.html</link>
+            <guid>3097220</guid>
+            <pubDate>Fri, 05 May 2023 15:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中概在线教育板块普涨，好未来(TAL.N)涨11.5%，有道(DAO.N)涨7%，高途(GOTU.N)涨2.5%。]]></title>
+            <guid>3097218</guid>
+            <pubDate>Fri, 05 May 2023 15:35:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收涨1.03%，报465.06点，本周累计下跌约0.35%。欧元区STOXX 50指数初步收涨1.18%，报4337.65点，本周累跌约0.40%。富时泛欧绩优300指数初步收涨0.99%，报1839.75点。]]></title>
+            <guid>3097216</guid>
+            <pubDate>Fri, 05 May 2023 15:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利将苹果股票目标价从180美元上调至185美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyn3291934.d.html</link>
+            <guid>3097215</guid>
+            <pubDate>Fri, 05 May 2023 15:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星展银行：新加坡金管局将3月31日CET1资本充足率降至14.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysucyn3290821.d.html</link>
+            <guid>3097214</guid>
+            <pubDate>Fri, 05 May 2023 15:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星展银行：3月29日事件后，银行召集特别委员会，聘请独立外部专家全面审查技术弹性。]]></title>
+            <guid>3097213</guid>
+            <pubDate>Fri, 05 May 2023 15:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星展银行：新加坡金管局的行动将对3月31日CET1资本充足率产生0.3%的额外影响。]]></title>
+            <guid>3097212</guid>
+            <pubDate>Fri, 05 May 2023 15:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西太平洋合众银行停牌，此前涨幅扩大至74%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2927423.d.html</link>
+            <guid>3097208</guid>
+            <pubDate>Fri, 05 May 2023 15:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国平安：尊重汇丰股东投票后的选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3414358.d.html</link>
+            <guid>3097207</guid>
+            <pubDate>Fri, 05 May 2023 15:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ChatGPT的投资组合“完胜”英国主流基金】根据finder.com实验的最新结果，由人工智能聊天机器人ChatGPT在挑选股票标的方面明显要比一些投资基金表现好得多。八周前，这家个人财务比较网站依据ChatGPT推荐的38支高质量企业股票创建了一个股票投资组合。另外，实验还追踪了英国在线投资平台Interactive Investor上最受欢迎的10支基金。结果显示，ChatGPT的投资组合在近五周内上涨了4.93%，与之相比，10支基金的平均亏损为0.8%。不仅如此，ChatGPT的投资组合仅在39个交易日中的前5日落后，之后的34个交易日均表现优于10支基金的平均水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2924843.d.html</link>
+            <guid>3097204</guid>
+            <pubDate>Fri, 05 May 2023 15:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国麦当劳特许经营商因雇佣童工被罚约147万元】美国劳工部日前宣布，美国3家麦当劳特许经营商非法雇佣了300多名童工，被处以合计超20万美元的民事罚款。美国劳工部的一项调查发现，这3家麦当劳特许经营商在肯塔基、印第安纳、马里兰和俄亥俄等州经营62处麦当劳餐厅，共计雇佣了305名童工，从事法律不允许该年龄段工人进行的操作，年龄最小的只有10岁。美国劳工部称，这3家麦当劳特许经营商被处以共约21.3万美元，约合147万元人民币的民事罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3409568.d.html</link>
+            <guid>3097203</guid>
+            <pubDate>Fri, 05 May 2023 15:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：“世界汽车大会”与商务部无关 商务部从未主管、指导或参与“世界汽车大会”】近日，据“商务微新闻”发布消息，接到地方商务主管部门反映，有机构以商务部为“主管部委”的名义，将于2023年6月在澳门举办“世界汽车大会”，并收取展位费用。在此郑重声明：“世界汽车大会”与商务部无关，商务部从未主管、指导或参与“世界汽车大会”，商务部领导也无出席“世界汽车大会”的安排。请各地商务主管部门和广大企业提高警惕，谨防上当受骗。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3408556.d.html</link>
+            <guid>3097202</guid>
+            <pubDate>Fri, 05 May 2023 15:07:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美股油气板块涨幅居前，墨菲石油(MUR.N)涨4.6%，马拉松石油(MRO.N)涨4.2%，西方石油(OXY.N)涨3.2%，康菲石油(COP.N)涨2.8%，雪佛龙(CVX.N)涨2.5%。]]></title>
             <guid>3097201</guid>
@@ -36,369 +371,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2914487.d.html</link>
             <guid>3097195</guid>
             <pubDate>Fri, 05 May 2023 14:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花样年控股：占公司现有债务工具76.44%的持有人已加入重组支持协议】花样年控股联交所公告，于本公告日期（5月5日），占本公司现有债务工具76.44%的持有人已加入重组支持协议。诚如重组支持协议所载，同意费须于重组生效日期支付，前提是参与债权人（其中包括）：a.持有或已获得符合重组支持协议相关规定的合格参与债务；b.在各计划会议上（无论亲身或委派代表）就其于记录日期持有的合格参与债务的全部总额投票赞成计划；及c.并未行使其终止重组支持协议的权利，且并未在任何重大方面违反重组支持协议的任何相关条款及条件。本公司深切感激来自境外债权人的广大支持，并将就建议重组的进展适时另行刊发公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3401626.d.html</link>
-            <guid>3097194</guid>
-            <pubDate>Fri, 05 May 2023 14:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡金管局（MAS）对星展银行实施进一步的资本要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3400944.d.html</link>
-            <guid>3097192</guid>
-            <pubDate>Fri, 05 May 2023 14:55:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【花样年控股：占本公司现有债务工具76.44%的持有人已加入重组支持协议】花样年控股公告，公司欣然宣布，占本公司现有债务工具76.44%的持有人已加入重组支持协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3400619.d.html</link>
-            <guid>3097191</guid>
-            <pubDate>Fri, 05 May 2023 14:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【比亚迪与厄瓜多尔经销商Andor达成战略合作】据比亚迪汽车消息，5月3日，比亚迪在厄瓜多尔首都基多举行品牌发布，携汉EV、元PLUS EV和海豚三款车型亮相厄瓜多尔，并宣布与厄瓜多尔汽车经销商集团Andor达成战略合作，共同推动厄瓜多尔乘用车市场的发展。]]></title>
-            <guid>3097190</guid>
-            <pubDate>Fri, 05 May 2023 14:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【孟加拉国可能签署购买10架空客飞机的协议】据孟加拉国《达卡论坛报》（Dhaka Tribune）援引一位政府高级消息人士的话报道，孟加拉国总理谢赫•哈西娜计划在访问英国期间批准一项购买10架空中客车飞机的协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3394281.d.html</link>
-            <guid>3097185</guid>
-            <pubDate>Fri, 05 May 2023 14:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安奈儿：将继续关闭低效亏损店铺】安奈儿近日在机构调研中表示，公司还将继续关闭低效亏损店铺，拓展人流量大的优质购物中心店和社区店。对于管理半径过长、盈利能力较弱的直营地区，公司会和当地优势较为明显的联营商合作，利用联营商在当地的渠道优势和管理优势经营安奈儿品牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3391861.d.html</link>
-            <guid>3097183</guid>
-            <pubDate>Fri, 05 May 2023 14:40:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[电动汽车生产商Fisker交付首台全电Fisker Ocean SUV。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2903456.d.html</link>
-            <guid>3097182</guid>
-            <pubDate>Fri, 05 May 2023 14:39:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波兰农业部长表示将就乌农产品相关事宜向欧盟申请更多援助】当地时间5月5日，波兰农业与农村发展部长泰卢斯表示，波兰、保加利亚、罗马尼亚、斯洛伐克和匈牙利五个受到乌克兰农产品进口影响的国家将向欧盟委员会申请增加对农民的财政支持。欧盟此前曾宣布，将向5国农民提供价值1亿欧元的补贴。5日，上述五国农业部门代表就乌克兰农产品进口问题召开视频会议。泰卢斯在会后表示，将向欧盟申请，延长对乌克兰农产品采取的临时政策。该政策限制乌克兰小麦、玉米、油菜籽和葵花籽在五国的自由交易，但允许乌农产品继续借道这些国家外运，其有效期至6月5日。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2903169.d.html</link>
-            <guid>3097181</guid>
-            <pubDate>Fri, 05 May 2023 14:38:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄总统普京召开联邦安全会议常务委员会 讨论庆祝胜利日相关问题】俄罗斯总统普京当地时间5日召开联邦安全会议常务委员会，讨论了庆祝胜利日的相关问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2901180.d.html</link>
-            <guid>3097180</guid>
-            <pubDate>Fri, 05 May 2023 14:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯总统将于5月8日与吉尔吉斯斯坦总统举行会谈】据央视新闻，当地时间5日，克里姆林宫发布消息称，俄罗斯总统普京将于5月8日在莫斯科与吉尔吉斯斯坦总统扎帕罗夫举行会谈。两国元首计划讨论贸易、经济和人文领域互利合作的现状和前景，以及进一步加强俄罗斯-吉尔吉斯斯坦战略伙伴和联盟关系的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3387105.d.html</link>
-            <guid>3097179</guid>
-            <pubDate>Fri, 05 May 2023 14:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数三周来首度录得周线跌幅】波罗的海干散货运价指数周五小幅上涨，受海岬型船需求增加推动，但三周来首度录得周线跌幅。波罗的海干散货运价指数周五上涨13点至1558点，本周累计下降1.1%。海岬型船运价指数上涨59点或2.5%，报2384点，本周累计上涨3.6%，为连续第三周上涨。海岬型船日均获利上涨485美元，至19768美元。巴拿马型船运价指数下跌13点或0.9%，至1501点，本周累计下跌5.4%，为连续第四周下跌。巴拿马型船日均获利减少118美元，至13512美元。超灵便型散货船运价指数下跌9点，至1096点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3384493.d.html</link>
-            <guid>3097177</guid>
-            <pubDate>Fri, 05 May 2023 14:28:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中概指数涨超1%，成分股小鹏汽车涨幅不到3%】纳斯达克金龙指数涨超1.1%，刷新日高，成分股好未来涨11.2%领跑，陆控涨5.3%，小鹏汽车、蔚来汽车、万国数据、达达至多涨3.0%，金山云、百度、世纪互联至多涨2.1%，B站、阿里巴巴、携程、京东至多涨1.0%，理想汽车则跌1.1%，美华国际跌6.8%表现最差。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2895518.d.html</link>
-            <guid>3097176</guid>
-            <pubDate>Fri, 05 May 2023 14:25:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【地质灾害气象风险预警：福建江西湖北湖南重庆等部分地区风险较高】自然资源部与中国气象局5月5日18时联合发布地质灾害气象风险预警：预计，5月5日20时至5月6日20时，福建西北部、江西东部、湖北西部、湖南东北部和西部、重庆东北部等地的部分地区发生地质灾害的气象风险较高（黄色预警）。请当地居民注意防范强降水引发的地质灾害，尤其是地质灾害隐患点附近区域。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2892284.d.html</link>
-            <guid>3097175</guid>
-            <pubDate>Fri, 05 May 2023 14:20:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问Boushey：白宫认为银行的局势已得到控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3378786.d.html</link>
-            <guid>3097173</guid>
-            <pubDate>Fri, 05 May 2023 14:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰首都基辅和乌克兰其他大部分地区都拉响了防空警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3378688.d.html</link>
-            <guid>3097172</guid>
-            <pubDate>Fri, 05 May 2023 14:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部部署2023年扩大农业农村有效投资工作】据农业农村部网站消息，5月5日，农业农村部在浙江省金华市召开2023年全国扩大农业农村有效投资工作会议，部党组成员、副部长邓小刚出席会议并讲话。会议指出，2022年各级农业农村部门克服困难挑战，千方百计扩大农业农村有效投资，支农投入规模持续扩大，财政资金投资结构不断优化，投融资机制创新加快推进，重大政策项目谋划成效明显，为夺取全年粮食丰收、守住不发生规模性返贫底线、继续保持农业农村发展良好势头提供了有力支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2890454.d.html</link>
-            <guid>3097171</guid>
-            <pubDate>Fri, 05 May 2023 14:16:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中石化牵头成立氢能产业链建设专家咨询委员会】从中国石化新闻办获悉，在当天举行的氢能应用现代产业高质量发展推进会暨专家咨询委员会成立大会上，中国石化牵头成立氢能产业链建设专家咨询委员会（简称氢能专咨委），按照“主体支撑、融通带动”原则，着力推动国内氢能应用现代产业链高质量发展。]]></title>
-            <guid>3097170</guid>
-            <pubDate>Fri, 05 May 2023 14:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒爆料：多次被中方拒接电话后，美正寻求美中防长在新加坡会面】美国方面再次寻求与中方进行军事沟通接触。据美国彭博社、新加坡《海峡时报》5日报道，知情人士透露，五角大楼正寻求美中两国防长于今年6月在新加坡的香格里拉对话会上举行会谈。报道称，这一尝试发生在拜登政府试图与中方重启军事接触、但被后者多次拒接电话之际。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3375611.d.html</link>
-            <guid>3097169</guid>
-            <pubDate>Fri, 05 May 2023 14:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹卫生部：该国冲突爆发以来各地卫生机构已有551人死亡】据央视新闻，当地时间5月5日下午，苏丹卫生部发表声明称，自苏丹武装冲突爆发以来在该国各地的注册卫生机构中已有551人死亡，另有超过5000人受伤，死伤者包括平民及武装人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3375379.d.html</link>
-            <guid>3097168</guid>
-            <pubDate>Fri, 05 May 2023 14:11:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：马克龙拟7月初访德，两国在对华态度等关键政策领域存在分歧】据美国政治新闻网4日报道，法德关系紧张之际，法国总统马克龙计划7月初访问德国。目前法德两国在金融、能源以及对华态度等关键政策领域存在分歧。（环球网）]]></title>
-            <guid>3097164</guid>
-            <pubDate>Fri, 05 May 2023 14:08:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦外长对印度方面表示，巴基斯坦愿意接触并解决印度可能有的任何关切，但印度也必须解决巴基斯坦的关切。]]></title>
-            <guid>3097163</guid>
-            <pubDate>Fri, 05 May 2023 14:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股盘初，主要行业ETF普涨，区域银行业ETF涨近5%，银行业ETF涨超4%，能源业ETF涨超3%。]]></title>
-            <guid>3097160</guid>
-            <pubDate>Fri, 05 May 2023 14:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫经济顾问Boushey：仍看到劳动力市场强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2885186.d.html</link>
-            <guid>3097159</guid>
-            <pubDate>Fri, 05 May 2023 14:06:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[文件显示，美国、英国等国家将要求联合国人权理事会就苏丹问题召开紧急会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2884827.d.html</link>
-            <guid>3097157</guid>
-            <pubDate>Fri, 05 May 2023 14:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10余分钟，上海南京路千万消费券全部售罄】5月5日上午10点，以“乐购南步，月悦狂欢”为主题的上海南京路步行街千万电子消费券正式开抢。10余分钟后，4万张消费券全部售罄。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3365950.d.html</link>
-            <guid>3097154</guid>
-            <pubDate>Fri, 05 May 2023 13:57:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【齐鲁银行：将继续加强负债成本管控，适时下调存款利率】据中新经纬，5月5日，在齐鲁银行2022年度暨2023年第一季度业绩说明会上，该行党委副书记、副董事长、行长张华回答中新经纬记者提问时表示，2023年，随着国内经济运行企稳回升，该行将主动调整资产结构，强化贷款风险定价水平，继续加强负债成本管控，适时下调存款利率，提高低成本存款占比，预计年内息差保持平稳。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3365622.d.html</link>
-            <guid>3097153</guid>
-            <pubDate>Fri, 05 May 2023 13:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中石化牵头成立氢能产业链建设专家咨询委员会】从中国石化新闻办获悉，在当天举行的氢能应用现代产业高质量发展推进会暨专家咨询委员会成立大会上，中国石化牵头成立氢能产业链建设专家咨询委员会（简称氢能专咨委），按照“主体支撑、融通带动”原则，着力推动国内氢能应用现代产业链高质量发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2875863.d.html</link>
-            <guid>3097152</guid>
-            <pubDate>Fri, 05 May 2023 13:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【氢能应用现代产业链高质量发展推进会在京召开】会议围绕打造原创技术策源地、核心链环建设、完善产业链协同机制、把握前沿发展趋势、防范产业链重大风险等方面，集聚全产业链智慧力量，推动我国氢能应用现代产业链高质量发展。国务院国资委副主任赵世堂对氢能应用现代产业链建设成果给予了充分肯定，并对专家咨询委员会的成立表示祝贺。赵世堂表示，下一步，国务院国资委将指导推动中央企业加大氢能等战略性新兴产业布局力度，加快氢能产业技术创新体系构建，加强氢能基础设施建设、加大重点领域的应用示范，培育多元氢能应用生态，通过创新驱动、基础支撑、示范引领、需求牵引，支撑构建完整的氢能供应链和产业体系，助力碳达峰碳中和目标实现。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3362948.d.html</link>
-            <guid>3097151</guid>
-            <pubDate>Fri, 05 May 2023 13:54:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美债收益率持续攀升，5年期国债收益率达到当日高点3.43％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3361040.d.html</link>
-            <guid>3097149</guid>
-            <pubDate>Fri, 05 May 2023 13:52:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州州检察长：新法案将“强制对加密公司进行独立和公开的审计”；将要求加密公司向遭受欺诈的客户退款，就像银行现在所做的那样；将阻止创建加密资产的人同时拥有加密平台；将阻止加密公司借入或借出投资者的资产。]]></title>
-            <guid>3097148</guid>
-            <pubDate>Fri, 05 May 2023 13:51:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深交所依法依规对3家未按期披露定期报告上市公司启动纪律处分程序】截至2023年4月30日，摩登大道时尚集团股份有限公司、苏州天沃科技股份有限公司、深圳大通实业股份有限公司等3家深市公司披露无法在法定期限内披露2022年年度报告、2023年第一季度报告的公告。深交所第一时间启动对前述公司及相关责任人的纪律处分程序。3家公司中，*ST大通触及终止上市情形，深交所已启动相应终止上市程序。ST摩登、天沃科技则自5月4日开市起停牌，停牌两个月内仍未披露年报的将被实施*ST，此后两个月内再未披露的，相关股票将被终止上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3355954.d.html</link>
-            <guid>3097146</guid>
-            <pubDate>Fri, 05 May 2023 13:47:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西太平洋合众银行盘初触发熔断，此前快速拉升涨至44%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2861540.d.html</link>
-            <guid>3097142</guid>
-            <pubDate>Fri, 05 May 2023 13:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利计划拨款1亿欧元用于抗旱】据央视新闻，当地时间5日，意大利基础设施与交通部发布公报称，将拨款超过1亿欧元资金用于采取紧急抗旱措施。据悉，这笔资金将在伦巴第、拉齐奥等5个大区用于修建翻新各类水利工程，提高水资源利用效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2861300.d.html</link>
-            <guid>3097140</guid>
-            <pubDate>Fri, 05 May 2023 13:36:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coinbase涨超13%，Q1营收超预期，净亏损大幅收窄至7900万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2861172.d.html</link>
-            <guid>3097139</guid>
-            <pubDate>Fri, 05 May 2023 13:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港特区政府欢迎国际货币基金组织肯定香港经济增长和金融稳定】据新华社，国际货币基金组织代表团5日发表初步总结，赞扬香港特区政府在推动经济增长和维持金融稳定上所做的工作，认为香港金融体系稳健，即使在充满挑战的全球宏观金融环境下，仍继续充分发挥国际金融中心角色。香港特区政府官员对此表示欢迎。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2861058.d.html</link>
-            <guid>3097138</guid>
-            <pubDate>Fri, 05 May 2023 13:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西班牙工会和雇主协会达成增加工人薪水初步协议】据西班牙媒体当地时间5月5日报道，西班牙工会和雇主协会已经达成一项初步协议。该协议规定，工人群体的最低薪水将有所增加，2023年薪水增加幅度为4%，2024年为3%，最近数月以来，西班牙工会和雇主协会始终在进行对话，寻求达成新的工资标准协议。2025年为3%。]]></title>
-            <guid>3097137</guid>
-            <pubDate>Fri, 05 May 2023 13:34:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KBW地区性银行指数涨4.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2860066.d.html</link>
-            <guid>3097136</guid>
-            <pubDate>Fri, 05 May 2023 13:34:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星辉娱乐：公司游戏业务已制定了AI技术的应用计划并有进度地推进实施】星辉娱乐在互动平台表示，公司处于人工智能的应用端，通过第三方软件推进实施AI技术的应用。目前，公司游戏业务已制定了AI技术的应用计划并有进度地推进实施。AI应用是建立在大数据、训练、学习调整、自然化等一系列过程，公司已就部分游戏制作模块建立了数据基础，在AI绘图、场景建模、智能NPC等方面实现了部分AI技术的应用。公司对AI技术的应用处于行业的普遍水平。]]></title>
-            <guid>3097135</guid>
-            <pubDate>Fri, 05 May 2023 13:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本首相岸田文雄：将根据地震的破坏程度，决定是否访问韩国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2859746.d.html</link>
-            <guid>3097133</guid>
-            <pubDate>Fri, 05 May 2023 13:33:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大北农：控股及参股公司生猪销售数量当月合计为49.64万头】大北农公告，控股及参股公司生猪销售数量当月合计为49.64万头，1-4月累计为193.41万头；销售收入当月合计为7.92亿元，1-4月累计为30.86亿元；公司控股及参股公司商品肥猪当月均价为14.10元/公斤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2858218.d.html</link>
-            <guid>3097132</guid>
-            <pubDate>Fri, 05 May 2023 13:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国CAC40指数日内涨幅达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2857993.d.html</link>
-            <guid>3097131</guid>
-            <pubDate>Fri, 05 May 2023 13:31:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里妈妈发布“618”商家经营扶持举措 将投入超3亿红包补贴】据上证报，5月4日，阿里巴巴集团旗下互联网广告交易平台阿里妈妈举办了“618新经营发布会”。记者获悉，为了帮助商家把握“四大增量红利”，阿里妈妈将投入超3亿元红包补贴、百亿流量扶持、四大商家激励计划，并将整合淘内淘外的全局资源，实现全域一体化经营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3345064.d.html</link>
-            <guid>3097129</guid>
-            <pubDate>Fri, 05 May 2023 13:31:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盛路通信：公司积极布局6G技术的研发工作，相关毫米波技术已申请专利】盛路通信在互动平台表示，公司按照“天基组网、地网跨代、天地互联”的思路，以地面网络为基础、空间网络为延伸，积极布局6G技术的研发工作，相关毫米波技术已申请专利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2856812.d.html</link>
-            <guid>3097127</guid>
-            <pubDate>Fri, 05 May 2023 13:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雅化集团：公司自有矿今年将会有部分开采出来】雅化集团在互动平台表示，公司自有矿今年将会有部分开采出来，届时将对公司原料成本起到一定缓解作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3342923.d.html</link>
-            <guid>3097125</guid>
-            <pubDate>Fri, 05 May 2023 13:28:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【油气装备订单排到年底】今年以来，油气行业延续复苏势头，石油公司资本支出稳步上升，由此带动油服设备需求持续增长。在四川遂宁一家油气勘探采掘装备制造企业的生产车间，产线负责人告诉记者，今年以来十分忙碌，一直在满负荷生产，特别是一些油井增产类产品，一直处于供不应求的状态。产线火热，新签合同订单也实现了较大幅度增长。记者在四川成都的一家油气装备企业了解到，他们的订单已经排到了年底。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3336379.d.html</link>
-            <guid>3097113</guid>
-            <pubDate>Fri, 05 May 2023 13:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【江西降雨再度加强 部分地区发生洪涝灾害】随着冷空气南下和强对流天气影响，江西降雨再度加强。5月5日下午4点09分，江西省气象台发布暴雨橙色预警。受强降雨影响，宜春的铜鼓县、樟树市发生洪涝灾害，新余市渝水区良山镇出现集镇内涝。险情发生后，各地各部门协调配合，积极应对处置，排除险情。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3336168.d.html</link>
-            <guid>3097112</guid>
-            <pubDate>Fri, 05 May 2023 13:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【港交所CEO欧冠升：“互换通”是全球首个衍生产品市场的联通机制】港交所表示，欢迎央行、香港证监会、香港金融管理局启动香港与内地利率互换市场互联互通合作。港交所CEO欧冠升认为，“互换通”是互联互通机制的又一创新，也是全球首个衍生产品市场的联通机制，将进一步深化香港与内地金融市场的合作，促进两地金融市场健康发展，提升香港作为国际金融中心的地位。港交所将与内地伙伴和市场各方通力合作，确保“互换通”的顺利推出。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2848194.d.html</link>
-            <guid>3097111</guid>
-            <pubDate>Fri, 05 May 2023 13:17:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【总营收同比2019年增长121% 五一假期上海影视乐园人气创近年之最】今年五一假期，上海影视乐园的营业额创下近年之最。五一假期期间，上海影视乐园共接待游客近5万人次，超过2023年春节元宵假期游客总和20%，总营收同比2019年增长121%，同比2021年增长141%，日销售额创下历史最高。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2848037.d.html</link>
-            <guid>3097108</guid>
-            <pubDate>Fri, 05 May 2023 13:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本本州西岸近海发生5.7级地震，震源深度10千米】中国地震台网正式测定：05月05日20时58分在日本本州西岸近海（北纬37.35度，东经137.35度）发生5.7级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3335466.d.html</link>
-            <guid>3097107</guid>
-            <pubDate>Fri, 05 May 2023 13:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晶合集成蔡国智：55nm制程良率已实现稳升】据科创板日报，晶合集成今日正式登陆科创板。记者今年一季度从产业人士处获悉，该公司正在风险量产的55nm制程高压器件已向集创北方等数位核心客户出货，不过实际良率并不稳定。公司董事长蔡国智向记者回应称：“我们之前在55nm节点是急了一些，现在55nm制程良率已实现稳升。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3335386.d.html</link>
-            <guid>3097106</guid>
-            <pubDate>Fri, 05 May 2023 13:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内跌幅达0.50%，现报1.3471。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2844693.d.html</link>
-            <guid>3097102</guid>
-            <pubDate>Fri, 05 May 2023 13:12:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世纪华通：深圳数据中心项目服务于华为云 已经开始交付】世纪华通接受机构调研时表示，数据中心业务方面，深圳数据中心项目服务于华为云，已经开始交付；上海数据中心项目的机柜亦在积极交付中。Chatgpt等人工智能技术的变革加快了IDC业务的发展，我们也关注到服务于AI的机柜需求激增。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsm2844524.d.html</link>
-            <guid>3097100</guid>
-            <pubDate>Fri, 05 May 2023 13:12:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巨人网络：公司将全力拥抱AI技术 积极对接合作伙伴】巨人网络接受机构调研时表示，公司对存量产品的目标清晰，着眼于用AI技术创新和升级存量游戏、提升用户体验。公司结合擅长的品类和游戏在新方向上进行探索，公司使用AI工具，实现并满足用户体验。公司擅长的品类本质上在于了解该类用户的喜好，可以更好地结合AI，创新产品。公司会聚焦游戏及相关应用，加大投入，不会盲目进入自己不擅长的领域。公司将全力拥抱AI技术，积极对接合作伙伴。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imystxsq3330065.d.html</link>
-            <guid>3097098</guid>
-            <pubDate>Fri, 05 May 2023 13:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京长合作取得积极成效，已有总投资超5亿元的2个项目落地】据新京报，5月5日，记者从北京市召开的京长（北京市和山西省长治市）对口合作工作部署会获悉，京长双方推动重点领域合作取得了积极成效，其中，北京市农业科技企业与荷兰知名设施农业企业拟在潞州区联合落地2个现代设施农业项目，总投资超5.5亿元。据悉，革命老区重点城市对口合作工作启动以来，京长双方围绕新时代首都发展和革命老区长治市高质量发展需求持续发力，推动重点领域合作取得了积极成效。]]></title>
-            <guid>3097097</guid>
-            <pubDate>Fri, 05 May 2023 13:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京长合作取得积极成效，已有总投资超5亿元的2个项目落地】5月5日，记者从北京市召开的京长（北京市和山西省长治市）对口合作工作部署会获悉，京长双方推动重点领域合作取得了积极成效，其中，北京市农业科技企业与荷兰知名设施农业企业拟在潞州区联合落地2个现代设施农业项目，总投资超5.5亿元。据悉，革命老区重点城市对口合作工作启动以来，京长双方围绕新时代首都发展和革命老区长治市高质量发展需求持续发力，推动重点领域合作取得了积极成效。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttks3459701.d.html</link>
-            <guid>3097093</guid>
-            <pubDate>Fri, 05 May 2023 13:08:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国国债大跌 此前美国4月非农就业人数和时薪数据均强于预期】美国国债大跌至日内低点，收益率曲线前端和腹部领跌，此前公布的美国4月份就业人数和平均时薪数据均高于预期。前月就业数据下修。美国2年期国债收益率一度大涨13个基点，之后涨幅收窄；由于前端在数据公布后领跌，2s10s利差日内跌约3个基点。美国10年期国债收益率升至3.43%左右，日内涨约5个基点。与美联储会期挂钩的OIS反映的6月会议加息溢价约2个基点，而数据公布前为降息2个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttkp2968893.d.html</link>
-            <guid>3097086</guid>
-            <pubDate>Fri, 05 May 2023 13:06:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国银行策略师Hartnett：美联储加息暂停不是买入股票的理由】美联储可能在暗示其愿意暂停加息，但美国银行策略师Michael Hartnett称，通胀高企和市场担忧经济衰退背景下，由于资金外流加速，目前还不是买入股票的时候。去年准确料中美股下跌的Hartnett表示，“新的结构性牛市需要美联储大规模放松政策”，而大宽松又需要“大衰退”。这位策略师在日期为5月4日的报告中写道，价格压力具有粘性，劳动力市场具有韧性，让美联储难以转向降息，“在最后一次加息时卖出”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttks3456185.d.html</link>
-            <guid>3097084</guid>
-            <pubDate>Fri, 05 May 2023 13:05:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【片仔癀：主导产品片仔癀锭剂国内市场零售价格将从590元/粒上调到760元/粒】片仔癀公告，公司主导产品片仔癀锭剂国内市场零售价格将从590元/粒上调到760元/粒，供应价格相应上调约170元/粒；海外市场供应价格相应上调约35美元/粒。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttks3455964.d.html</link>
-            <guid>3097083</guid>
-            <pubDate>Fri, 05 May 2023 13:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非电力公司Eskom：周末的限电措施将被降级为3-4级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttkp2967679.d.html</link>
-            <guid>3097075</guid>
-            <pubDate>Fri, 05 May 2023 13:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：谷歌与特拉维夫大学扩大人工智能研究合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttks3455075.d.html</link>
-            <guid>3097074</guid>
-            <pubDate>Fri, 05 May 2023 13:04:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行策略师Hartnett：美联储加息暂停不是买入股票的理由。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttkp2967269.d.html</link>
-            <guid>3097073</guid>
-            <pubDate>Fri, 05 May 2023 13:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日本气象厅报道，日本能登附近发生地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-05/detail-imysttks3450035.d.html</link>
-            <guid>3097069</guid>
-            <pubDate>Fri, 05 May 2023 13:00:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
