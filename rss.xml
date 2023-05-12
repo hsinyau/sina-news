@@ -4,499 +4,457 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 12 May 2023 12:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 15:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【立昂技术：拟以3000万元-5000万元回购股份】立昂技术公告，拟以3000万元-5000万元回购股份，回购价格不超过16元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0004878.d.html</link>
-            <guid>3106880</guid>
-            <pubDate>Fri, 12 May 2023 12:08:05 GMT</pubDate>
+            <title><![CDATA[美国得克萨斯州检察长宣布，与谷歌就广告问题发生的争端诉讼已经得到和解。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8850112.d.html</link>
+            <guid>3107011</guid>
+            <pubDate>Fri, 12 May 2023 15:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度反垄断机构要求谷歌提供与有关用户、应用程序开发者数据相关的政策细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3282307.d.html</link>
-            <guid>3106879</guid>
-            <pubDate>Fri, 12 May 2023 12:07:27 GMT</pubDate>
+            <title><![CDATA[美国白宫宣布了总统拜登的美联储理事提名人选。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3212540.d.html</link>
+            <guid>3107009</guid>
+            <pubDate>Fri, 12 May 2023 15:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【越南电动汽车制造商Vinfast拟通过SPAC方式在美国上市 交易规模230亿美元创纪录】越南首富创立的电动汽车制造商VinFast将通过与空白支票公司Black Spade Acquisition Co.的合并上市，这将是在美国上市的越南公司中，规模最大的一笔交易。这家由越南首富创立的公司正在向全球扩张。根据母公司Vingroup JSC周五的声明，该交易将使VinFast的股权价值达到约230亿美元。包括债务在内，这家电动车制造商的估值将达到270亿美元左右。]]></title>
-            <guid>3106878</guid>
-            <pubDate>Fri, 12 May 2023 12:06:42 GMT</pubDate>
+            <title><![CDATA[纽约证券交易所正在调查一起交易误操作事件，在美东时间上午9点30分至10点09分之间有交易在证券代码“TOP”之下被错误执行。]]></title>
+            <guid>3107007</guid>
+            <pubDate>Fri, 12 May 2023 14:59:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度反垄断机构表示，在收到与新支付系统有关的投诉后，需要对谷歌的行为进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8912990.d.html</link>
-            <guid>3106877</guid>
-            <pubDate>Fri, 12 May 2023 12:06:13 GMT</pubDate>
+            <title><![CDATA[惠誉：目前英国、美国和欧元区的通胀率之间的差距很大，但这种差距很快将会缩小。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8847196.d.html</link>
+            <guid>3107006</guid>
+            <pubDate>Fri, 12 May 2023 14:57:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西4月份消费者价格指数环比上涨0.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3281459.d.html</link>
-            <guid>3106876</guid>
-            <pubDate>Fri, 12 May 2023 12:05:28 GMT</pubDate>
+            <title><![CDATA[【伊拉克预计OPEC+不会进一步减产】伊拉克石油部长Hayyan Abdul Ghani表示，伊拉克预计OPEC+在6月会议上不会进一步减产。Abdul Ghani还表示，伊拉克也无法进一步削减石油产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3210117.d.html</link>
+            <guid>3107005</guid>
+            <pubDate>Fri, 12 May 2023 14:51:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克预计道达尔将在今年下半年启动270亿美元的能源项目】伊拉克石油部副部长Basim Mohammed周五表示，在与一家国有石油公司敲定附属合同后，伊拉克预计道达尔能源公司将于2023年下半年开始运营一个拖延已久的石油、天然气和可再生能源项目，该项目总投资为270亿美元。他说：“道达尔能源公司和巴士拉石油公司目前正在敲定一些合同程序和启动合同所需的文件。与道达尔的会议仍在继续，以避免任何延误，合同将在今年下半年启动，开始运营。”该协议于2021年签署，由道达尔能源公司在伊拉克南部建设四个石油、天然气和可再生能源项目，初始投资为100亿美元，为期25年，但由于伊拉克政界人士就条款存在争议，该协议被推迟执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3281415.d.html</link>
-            <guid>3106875</guid>
-            <pubDate>Fri, 12 May 2023 12:05:21 GMT</pubDate>
+            <title><![CDATA[【美债违约风险或致股市债市剧烈波动 摩根大通为潜在美债违约风险做准备】据央视财经，关于美国债务上限及可能的债务违约问题，已经成为全球资本市场及多国政府官员、企业家和学者的关注议题。市场将美国政府耗尽现金和非常规措施的时间节点称之为X日期，目前关于这一日期还没有一个定论。根据美国智库两党政策研究中心的最新预测，X日期可能会在6月初至8月初到来。目前随着越来越接近潜在的X日期，摩根大通的CEO杰米戴蒙就表示，越接近违约，市场会越恐慌，可能会看到股市和债市出现剧烈的波动。而摩根大通一直在为潜在的美债违约风险做一些准备，其内部目前是每周开一次会议，之后会议频率可能提高到一天三次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8844352.d.html</link>
+            <guid>3107004</guid>
+            <pubDate>Fri, 12 May 2023 14:49:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上海黄金交易所黄金T+D 5月12日（周五）晚盘盘初下跌0.39%报449.4元/克；上海黄金交易所白银T+D 5月12日（周五）晚盘盘初下跌1.6%报5408.0元/千克。]]></title>
-            <guid>3106874</guid>
-            <pubDate>Fri, 12 May 2023 12:04:14 GMT</pubDate>
+            <title><![CDATA[【多家券商集体清仓转让中证报价股权，或为统一要求】据券中社，近日，包括东北证券、太平洋证券、首创证券以及西南证券（去年公告转让）等在内的券商均表示，拟转让所持的全部中证报价股权。有券商明确表示，受让对象将在沪深交易所、中国结算等5家单位中产生。券中社记者采访获悉，此举或为统一要求，不过具体目的还不清楚。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9935468.d.html</link>
+            <guid>3107003</guid>
+            <pubDate>Fri, 12 May 2023 14:47:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【克宫回应“干预土耳其选举”：俄罗斯不干预任何选举】据俄罗斯卫星通讯社，俄罗斯总统新闻秘书佩斯科夫表示，莫斯科拒绝土耳其总统候选人科勒驰达奥卢关于俄方干预土选举的指责。科勒驰达奥卢此前在社交媒体推特上呼吁俄罗斯不要干涉土耳其选举。佩斯科夫称，俄方果断拒绝类似声明，不存在任何干预的问题，俄方坚持不干涉别国内政和选举过程。佩斯科夫强调，俄罗斯“非常重视与土耳其共和国的双边关系”，因为土耳其在一系列地区和全球问题上采取了非常负责任且独立自主的立场。俄方对相关立场表示支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8912609.d.html</link>
-            <guid>3106873</guid>
-            <pubDate>Fri, 12 May 2023 12:04:06 GMT</pubDate>
+            <title><![CDATA[【片仔癀控股股东九龙江集团：党委副书记、总经理何惠川临时负责全面工作】漳州市九龙江集团有限公司发布公告称，2023年5月10日，公司接到纪检监察部门通知，公司党委书记、董事长、法定代表人潘杰因涉嫌严重违纪违法，正接受漳州市纪委监委纪律审查和监察调查。九龙江集团称，目前，漳州市委决定由公司党委副书记、总经理何惠川临时负责全面工作。后续，公司将严格按照相关规定，及时履行信息披露义务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3208490.d.html</link>
+            <guid>3107002</guid>
+            <pubDate>Fri, 12 May 2023 14:46:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度4月份CPI同比增长4.70%，市场预期为4.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0003881.d.html</link>
-            <guid>3106872</guid>
-            <pubDate>Fri, 12 May 2023 12:03:43 GMT</pubDate>
+            <title><![CDATA[【热带气旋“摩卡”已加强为特强气旋风暴】根据缅甸气象与水文局5月12日晚间发布的最新消息，热带气旋“摩卡”已加强成为特强气旋风暴，正向缅甸西部沿海逼近。消息称，“摩卡”在移动到孟加拉湾中东部海域时将形成极强气旋风暴，预计于5月14日中午在缅甸西北部若开邦皎漂、实兑海岸与孟加拉国东南部沿海地带登陆，届时最大风速将达到每小时161至177千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9934947.d.html</link>
+            <guid>3107001</guid>
+            <pubDate>Fri, 12 May 2023 14:45:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【注册制下新三板首单授权发行适用简易程序项目已出函】据贝壳财经，2023年全面注册制改革中，针对中小企业单次融资规模小、需求频繁且急迫的实际特点，新三板推出授权发行适用简易审核程序的相关制度。5月12日，记者从全国股转公司获悉，截至2023年5月11日，已有15家挂牌公司披露（拟）授权发行公告；其中2家已披露定向发行说明书，1家的授权发行项目已审核通过，即新三板注册制首单授权发行适用简易程序项目已出函。值得关注的是，自该挂牌企业披露定向发行说明书至其取得同意定向发行的函，仅用时4天；全国股转公司在受理当日即下发了同意定向发行的函。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0003095.d.html</link>
-            <guid>3106871</guid>
-            <pubDate>Fri, 12 May 2023 12:02:46 GMT</pubDate>
+            <title><![CDATA[加拿大央行高级贷款主管调查显示，第一季度抵押贷款发放条件收紧，收紧程度为2020年来之最。]]></title>
+            <guid>3107000</guid>
+            <pubDate>Fri, 12 May 2023 14:43:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【布基纳法索延长8个大区紧急状态至10月底】5月12日，布基纳法索过渡立法议会举行会议，审议并通过了延长布基纳法索紧急状态期限的法案，布全国8个大区22个省的紧急状态将延长6个月至10月底。紧急状态是一种例外状态，赋予当局特殊权力，可以采取可能限制公共自由的安全措施。3月24日，布基纳法索宣布八个大区进入紧急状态，为期30天。该法令自3月30日起施行，现已失效，出于对法律的尊重和维持紧急状态的需要，过渡立法议会对这项法令进行了延期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3280264.d.html</link>
-            <guid>3106870</guid>
-            <pubDate>Fri, 12 May 2023 12:01:58 GMT</pubDate>
+            <title><![CDATA[【泸州老窖：未来将加快高地市场建设】据每日经济新闻，泸州老窖在线上召开了2022年度业绩说明会，公司在业绩说明会上表示，国窖1573今年保持良性增长。对于今年的经营策略，泸州老窖表示，未来将加快高地市场、核心省会城市市场建设和低度化全国布局，做大做强基地市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9934397.d.html</link>
+            <guid>3106999</guid>
+            <pubDate>Fri, 12 May 2023 14:43:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST园城：尚有重大事项需进一步核实 继续停牌】*ST园城公告，公司因尚有重大事项需进一步核实，无法于5月15日复牌，将继续停牌。]]></title>
-            <guid>3106869</guid>
-            <pubDate>Fri, 12 May 2023 12:01:43 GMT</pubDate>
+            <title><![CDATA[【欧盟提议正式停止向德国和波兰输送俄罗斯管道石油】据彭博，欧盟提议德国和波兰正式停止从“友谊”管道进口俄罗斯石油。(界面新闻)]]></title>
+            <guid>3106998</guid>
+            <pubDate>Fri, 12 May 2023 14:42:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【自然资源部：深化规划用地“多审合一、多证合一”改革】自然资源部印发《关于深化规划用地“多审合一、多证合一”改革的通知》。通知要求，加快推进总体规划审批。各地要贯彻落实深化“多规合一”改革和《全国国土空间规划纲要（2021-2035年）》要求，加快推进地方各级国土空间总体规划编制审批。下级规划要服从上级规划，总体规划要统筹和综合平衡各相关专项规划的空间需求。及时开展详细规划编制或修编，对有成片开发要求及全域土地综合整治试点、集体经营性建设用地入市试点需求的地区，应优先完成详细规划编制工作。依据规划实施农用地转用和土地征收。报批城镇用地农用地转用和土地征收应符合国土空间总体规划、详细规划和土地使用标准等要求，并按照《国土空间调查、规划、用途管制用地用海分类指南》明确土地规划用途和建设项目用地类型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3278785.d.html</link>
-            <guid>3106867</guid>
-            <pubDate>Fri, 12 May 2023 11:58:36 GMT</pubDate>
+            <title><![CDATA[【巴拿马西部发生森林火灾 火势持续蔓延】巴拿马环境部于当地时间5月12日发布公告称，该国西部奇里基省塞罗蓬塔市10日发生森林火灾，至今仍未被完全扑灭。目前火势已蔓延至拉阿米斯塔德国际公园，至少5公顷的公园面积受影响，60多名消防员正在努力控制火势。消防部门表示，引发火灾的原因正在调查中，而由于发生火灾的地区地形崎岖，近期气候多风少雨，扑救森林火灾任务极为艰巨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9933597.d.html</link>
+            <guid>3106997</guid>
+            <pubDate>Fri, 12 May 2023 14:42:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家能源局召开电力领域综合监管 电力系统调节性电源建设运营综合监管动员部署会议】据国家能源部，5月12日，国家能源局在京召开动员部署会议，组织开展电力领域、电力系统调节性电源建设运营两项综合监管工作。会议强调，要准确把握综合监管的关键和重点。坚持问题导向，以点带面、突出重点，着力实现对电力行业服务经济发展和社会民生的一次“全面体检”。坚持实践导向，着力摸清电力系统调节性电源底数和发展过程中的问题，进一步释放各类电源的调节潜力。坚持目标导向，着力运用好综合监管成果推动解决实际问题，促进能源政策落地和体制机制建设，切实推动电力行业高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3278078.d.html</link>
-            <guid>3106865</guid>
-            <pubDate>Fri, 12 May 2023 11:56:27 GMT</pubDate>
+            <title><![CDATA[【贵州茅台党委书记、董事长丁雄军一行拜访中国上市公司协会】据上证报，记者从中国上市公司协会获悉，5月9日，贵州茅台党委书记、董事长丁雄军拜访中国上市公司协会。丁雄军表示，贵州茅台的发展，离不开科技的力量与文化的传承，并始终与国家发展、人民幸福紧紧绑在一起。他将茅台的优势总结为“四大核心势能”：独一无二的原产地保护、不可复制的微生物菌落群、传承千年的独特酿造工艺以及长期贮存的优质基酒资源。他强调，要把高质量发展作为主题主线和首要任务，全方位增强“品牌、品质、生态、创新、文创”五大发展动能。同时，作为中上协副会长单位，贵州茅台将积极发挥好会员能动性，全力配合协会开展相关工作，也欢迎协会组织会员单位到公司交流学习。]]></title>
+            <guid>3106996</guid>
+            <pubDate>Fri, 12 May 2023 14:39:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【平安银行：将暂停销售智能通知存款产品 利率最少下调15个基点】据贝壳财经，平安银行发布公告称，将于2023年5月14日起对智能存款-通知存款产品进行调整。平安银行称自5月14日起，暂停销售“智能通知存款”产品。在利率方面，平安银行自5月15日起，将5万以上1天通知存款利率下调至0.8%，7天通知存款利率下调至1.35%，下调幅度为15到20个基点。同时5万以下通知存款的利率按活期利率执行，提前支取亦将按活期存款执行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8907399.d.html</link>
-            <guid>3106864</guid>
-            <pubDate>Fri, 12 May 2023 11:52:19 GMT</pubDate>
+            <title><![CDATA[【流媒体巨头奈飞计划今年削减3亿美元的支出】据知情人士透露，流媒体巨头Netflix计划2023年削减3亿美元支出，以继续在竞争激烈的市场中提高盈利能力。知情人士说，该公司正在寻求削减成本，部分原因是该公司在美国和其他地区广泛打击密码共享的计划被从第一季度推迟到第二季度。这一变化有望带来新的收入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3206074.d.html</link>
+            <guid>3106995</guid>
+            <pubDate>Fri, 12 May 2023 14:39:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【库迪咖啡首席策略官李颖波：现金流充足 核心团队50%来自瑞幸咖啡团队】今日库迪咖啡首席策略官李颖在接受记者采访时表示，整体运行的是5年财务计划，包括前期品牌搭建投入等，现阶段资金非常充足。截至4月，营业满一个月的门店中，84%现金流为正。同时，李颖波透露，核心团队有约50%来自钱治亚瑞幸咖啡创业团队。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6499156.d.html</link>
-            <guid>3106862</guid>
-            <pubDate>Fri, 12 May 2023 11:51:23 GMT</pubDate>
+            <title><![CDATA[美国10年期国债收益率涨至日内高点3.444%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8841239.d.html</link>
+            <guid>3106994</guid>
+            <pubDate>Fri, 12 May 2023 14:38:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万科A：已发行20亿元第二期中期票据】万科A公告，根据公司资金计划安排和中国银行间债券市场情况，5月10日-5月11日，公司发行了2023年度第二期中期票据，发行金额为20亿元，募集资金已于5月12日到账。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6498831.d.html</link>
-            <guid>3106861</guid>
-            <pubDate>Fri, 12 May 2023 11:50:46 GMT</pubDate>
+            <title><![CDATA[消息人士称，NBC环球公司广告主管Linda Yaccarino可能最早于今天被任命为推特首席执行官。]]></title>
+            <guid>3106993</guid>
+            <pubDate>Fri, 12 May 2023 14:37:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞银CEO安思杰：瑞信资金外流情况已回稳，合并计划正有序进行】瑞银与瑞信正在推进合并，瑞银首席执行官安思杰（Sergio Ermotti）表示，瑞信资金外流的情况已回复稳定，相信撤资的情况不会持续。安思杰称，希望瑞士监管当局会调查瑞信陷入困境的原因，相信有足够长的时间让大家可知悉过去所发生的一切，至于该行目标于3个月内与瑞信完成合并的计划，正在有序进行。对于瑞银决定将瑞信去年上任的首席执行官Ulrich Koerner纳入管理层，安思杰回应称，肯定的是瑞信的问题存在已久，相信源自于6、7年前，而非过去6个月或6个星期才出现的问题。(界面新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3275720.d.html</link>
-            <guid>3106860</guid>
-            <pubDate>Fri, 12 May 2023 11:50:09 GMT</pubDate>
+            <title><![CDATA[特斯拉(TSLA.O)转跌，此前一度涨超3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3204912.d.html</link>
+            <guid>3106992</guid>
+            <pubDate>Fri, 12 May 2023 14:35:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中基协召开公募REITs业务座谈会 倡导公平竞争促进行业健康发展】中国证券投资基金业协会近日组织召开公募REITs业务座谈会，12家基金管理人及资产支持专项计划管理人参加会议。会议围绕公募REITs市场低价竞争问题、健全管理人和财务顾问项目报价内控制度、倡导公募REITs市场公平竞争等主题交流、讨论。会议指出，近期个别公募REITs项目原始权益人在招标中简单把低价作为选聘管理人和财务顾问的最重要条件，以“价低者得”或“报价低者分高”来选定管理人和财务顾问；甚至个别公募REITs管理人和财务顾问在投标过程中以低于成本的价格获取项目，收入难以覆盖成本。公募REITs业务参与主体低价竞争、破坏市场秩序的行为对公募REITs发行以及存续期管理工作质量带来负面影响，不利于市场健康发展。与会机构一致呼吁，强化行业自律，规范公募REITs项目现有报价水平，遏制低价竞争趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9995693.d.html</link>
-            <guid>3106859</guid>
-            <pubDate>Fri, 12 May 2023 11:48:58 GMT</pubDate>
+            <title><![CDATA[【长信科技：拟9.66亿元收购长信新显剩余股权】长信科技公告，公司拟通过发行股份及支付现金方式，购买铁路基金、芜湖信臻合计持有的芜湖长信新型显示器件有限公司（简称“长信新显”）43.86%股权。交易完成后，公司将直接和间接控制长信新显100%股权。此次交易价格为9.66亿元，拟募集配套资金不超6.97亿元。长信新显主要从事新型触控显示模组器件、超薄液晶显示面板、超薄玻璃盖板（UTG）等业务。此次交易通过收购长信新显剩余股权，整合优质资产，进一步提升公司盈利水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6427524.d.html</link>
+            <guid>3106991</guid>
+            <pubDate>Fri, 12 May 2023 14:35:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行首席经济学家皮尔：有信心通胀将下降至2%目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3273419.d.html</link>
-            <guid>3106858</guid>
-            <pubDate>Fri, 12 May 2023 11:43:50 GMT</pubDate>
+            <title><![CDATA[【秦刚会见挪威议会外交与国防事务委员会议员】当地时间2023年5月12日，国务委员兼外长秦刚在奥斯陆集体会见挪威议会外交与国防事务委员会议员。秦刚说，中挪各领域合作都取得了丰硕成果，说明合作符合双方的共同利益，也是两国各界人士的共同意愿。秦刚应询就乌克兰危机、人权、中美关系等问题介绍了中方立场。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3204639.d.html</link>
+            <guid>3106990</guid>
+            <pubDate>Fri, 12 May 2023 14:35:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世界黄金协会：全球央行3月黄金储备与上月持平】世界黄金协会5月12日发布消息称，根据国际货币基金组织（IMF）数据，截至2023年3月底，全球官方黄金储备共计35682.2吨。其中，欧元区（包括欧洲央行）共计10773.2吨，占其外汇总储备的55.7%。这也意味着，3月，全球央行黄金储备较上月基本保持不变。世界黄金协会称，可用数据显示，全球央行购金量几乎完全与售金量相抵，全球黄金储备净增0.2吨。从增持方来看，数据显示，中国央行3月购金18吨，为连续第五个月增储黄金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9992131.d.html</link>
-            <guid>3106857</guid>
-            <pubDate>Fri, 12 May 2023 11:43:11 GMT</pubDate>
+            <title><![CDATA[【日本上市企业财年净利润总计增长7.4%】据共同社5月12日报道，日本已公布2022财年（2022年4月至2023年3月）财报的上市企业净利润总计较上一财年增长7.4%，达到29.0303万亿日元（约合人民币1.5万亿元）。得益于资源价格走高和日元贬值的商社等非制造业引领整体上升势头。另一方面，以原材料涨价导致负担增加的汽车为首的制造业出现利润下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8839428.d.html</link>
+            <guid>3106989</guid>
+            <pubDate>Fri, 12 May 2023 14:32:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【埃及对苏丹冲突双方签署《吉达声明》表示欢迎】5月12日，埃及外交部发表声明，对苏丹冲突双方在沙特签署《吉达声明》表示欢迎，称这是保护苏丹平民的重要一步。埃及希望双方遵守签署的承诺，期待《吉达声明》能进一步推动双方实现全面和永久停火并重启对话，以使苏丹摆脱困境，恢复民众享受和平与安定的权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3272417.d.html</link>
-            <guid>3106856</guid>
-            <pubDate>Fri, 12 May 2023 11:40:54 GMT</pubDate>
+            <title><![CDATA[【德国财政部长林德纳：需采取“理智”行动化解美国债务问题僵局】德国财政部长林德纳呼吁美国政界化解有关其债务上限问题的僵局。“我们期待美国，希望他们在公共财政方面做出理智的决定——这也关系到对全球经济的影响，”林德纳在日本新泻举行的七国集团会议结束后向记者表示。“我所说的’理智’是指：一个负责任的、合乎道德规范的决定，不仅是政党政治考虑的结果或短期动机的结果，而且还认识到了这种决定的后果，”他说。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3203473.d.html</link>
+            <guid>3106986</guid>
+            <pubDate>Fri, 12 May 2023 14:31:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Lesi Group Limited向港交所提交上市申请书】据港交所文件：Lesi Group Limited（乐思集团）向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8899060.d.html</link>
-            <guid>3106855</guid>
-            <pubDate>Fri, 12 May 2023 11:40:21 GMT</pubDate>
+            <title><![CDATA[俄罗斯国防部：一架俄罗斯军用直升机在克里米亚进行飞行训练时坠毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8838130.d.html</link>
+            <guid>3106985</guid>
+            <pubDate>Fri, 12 May 2023 14:29:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大皇家银行：将沙特阿美公司目标价格从33沙特里亚尔提高到34沙特里亚尔。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3272102.d.html</link>
-            <guid>3106854</guid>
-            <pubDate>Fri, 12 May 2023 11:40:15 GMT</pubDate>
+            <title><![CDATA[印度证券交易委员会：制定针对微型、小型和中型房地产投资信托基金的监管框架。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3200367.d.html</link>
+            <guid>3106982</guid>
+            <pubDate>Fri, 12 May 2023 14:21:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【因赛集团：橙盟投资拟减持不超过1%】因赛集团公告，橙盟投资拟减持不超过1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8898448.d.html</link>
-            <guid>3106852</guid>
-            <pubDate>Fri, 12 May 2023 11:37:45 GMT</pubDate>
+            <title><![CDATA[伊拉克计划在年底前将Majnoon油田的产能提高16万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6420529.d.html</link>
+            <guid>3106980</guid>
+            <pubDate>Fri, 12 May 2023 14:14:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈尔斯：拟以4000万元-8000万元回购股份】哈尔斯公告，拟以4000万元-8000万元回购股份，回购价格不超过10.6元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3271118.d.html</link>
-            <guid>3106851</guid>
-            <pubDate>Fri, 12 May 2023 11:37:36 GMT</pubDate>
+            <title><![CDATA[【唐德影视：公司目前已立项虚拟人天吾、AI换脸、AIGC+IP业务】唐德影视在投资者关系活动记录表中称，公司目前已立项了虚拟人天吾、AI换脸、AIGC+IP业务。虚拟人业务处于启动阶段，计划与虚拟主播等新媒体或 IP运营结合；AI换脸正在与第三方推进技术研发与内容效果结合的尝试；AIGC+IP目前处于初步尝试阶段，计划使用AIGC技术孵化影视和新媒体IP内容，以上为公司不断探索新的业务领域和创新方向，以期不断提升公司优质内容的商业价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3197164.d.html</link>
+            <guid>3106979</guid>
+            <pubDate>Fri, 12 May 2023 14:12:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百纳千成：华录资本拟减持不超过3%】百纳千成公告，华录资本拟减持不超过3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8898328.d.html</link>
-            <guid>3106850</guid>
-            <pubDate>Fri, 12 May 2023 11:37:15 GMT</pubDate>
+            <title><![CDATA[【NBC环球广告主管亚卡里诺辞职 或于6周后出任Twitter CEO】据报道，两位知情人士今日称，埃隆·马斯克（Elon Musk）已选定NBC环球（NBC Universal）负责全球广告和合作关系的董事长琳达·亚卡里诺（Linda Yaccarino）担任Twitter的新任CEO。与此同时，NBC环球今晚刚刚宣布，亚卡里诺已经离职。亚卡里诺于2011年加入NBC环球，离职后，其职位由NBC环球广告销售和客户关系总裁马克·马歇尔（Mark Marshall）继任。另外，马斯克今日早些时候已经在Twitter上宣布，他已经为Twitter找到了新任CEO，预计于六周后上任。虽然马斯克当时并未直接提及亚卡里诺的名字，但已经表明，新任CEO是一位女性。随后，可靠消息证实，这位新任CEO就是亚卡里诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9924179.d.html</link>
+            <guid>3106977</guid>
+            <pubDate>Fri, 12 May 2023 14:10:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ST龙净：涉嫌信披违规 遭证监会立案调查】ST龙净公告，公司收到中国证监会下发的《立案告知书》，公司因涉嫌信息披露违法违规，中国证监会决定对公司进行立案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8897869.d.html</link>
-            <guid>3106849</guid>
-            <pubDate>Fri, 12 May 2023 11:35:26 GMT</pubDate>
+            <title><![CDATA[【今年首只央企ETF结募 华泰柏瑞央企红利ETF认购超20亿】今年第一只新发央企ETF结募。华泰柏瑞公告称，截至5月12日，央企红利ETF累计有效认购总额超过20亿，并触发比例配售。近年来中字头主题基金引发投资者追捧，华泰柏瑞红利低波ETF自 2022年以来规模增长翻了11倍，突破了10亿元。此外，5月15日（下一周），还有广发、汇添富、招商三只央企股东回报ETF接棒发行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3195952.d.html</link>
+            <guid>3106976</guid>
+            <pubDate>Fri, 12 May 2023 14:09:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国难民署：约20万人逃离苏丹】联合国难民署发言人周五表示，自上月苏丹爆发暴力冲突以来，约有20万人从苏丹逃往邻国，其中包括许多抵达乍得的营养不良儿童。联合国难民署发言人萨拉多在日内瓦举行的新闻发布会上说，约有6万人已通过沙漠抵达乍得，其中近3万人是在过去几天抵达的。她说，近90%的新难民是妇女和儿童，五分之一的儿童营养不良。“联合国难民事务高级专员办事处呼吁立即为参与应对行动的所有各方提供财政支持，以避免人道主义灾难，防止因资源紧张而出现紧张局势，并以有尊严的方式强制支持那些人。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9989225.d.html</link>
-            <guid>3106848</guid>
-            <pubDate>Fri, 12 May 2023 11:34:41 GMT</pubDate>
+            <title><![CDATA[【中国恒大公告新增被执行信息 许家印恐成老赖】中国恒大于公告称，其收到广东省广州市中级人民法院就深圳国际仲裁院2022年12月21日的仲裁裁决所发出的执行通知书，中国恒大、中国恒大附属公司广州凯隆置业有限公司，以及中国恒大控股股东、执行董事许家印是该执行通知的被执行人。据多名市场和法律人士称，通过仲裁和执行寻求解决是市场化、法治化解决恒大集团债务问题的必由之路。此次仲裁和执行通知意味着恒大集团与曾经的战略投资者之间就回购义务的纠纷露出了冰山一角。接下来，如果不能妥善解决被执行问题，许家印个人很可能从而“登上”失信被执行人名单，被限制高消费，成为“老赖”。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9923400.d.html</link>
+            <guid>3106971</guid>
+            <pubDate>Fri, 12 May 2023 14:05:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国芯科技：麒越基金拟减持不超过4.63%，嘉信佳禾拟减持不超过1.36%】国芯科技公告，麒越基金拟减持不超过4.63%，嘉信佳禾拟减持不超过1.36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9989152.d.html</link>
-            <guid>3106847</guid>
-            <pubDate>Fri, 12 May 2023 11:34:25 GMT</pubDate>
+            <title><![CDATA[密歇根大学未来5-10年通胀预期从3%升至3.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9923249.d.html</link>
+            <guid>3106970</guid>
+            <pubDate>Fri, 12 May 2023 14:04:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港交所将于5月15日举行互换通上线仪式】港交所将于5月15日（星期一）在北京及香港两地、在线线下同步举行互换通上线仪式。据悉，互换通初期先行开通北向交易，允许香港及其他国家和地区的境外投资者通过两地基础设施互联互通参与内地银行间金融衍生品市场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6491644.d.html</link>
-            <guid>3106846</guid>
-            <pubDate>Fri, 12 May 2023 11:31:31 GMT</pubDate>
+            <title><![CDATA[密歇根州长期通胀预期创2011年以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6415964.d.html</link>
+            <guid>3106969</guid>
+            <pubDate>Fri, 12 May 2023 14:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度外汇储备截至5月5日增加72亿美元至5960亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9987205.d.html</link>
-            <guid>3106845</guid>
-            <pubDate>Fri, 12 May 2023 11:31:21 GMT</pubDate>
+            <title><![CDATA[美国5月一年期通胀率预期 4.5%，预期4.40%，前值4.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6415442.d.html</link>
+            <guid>3106968</guid>
+            <pubDate>Fri, 12 May 2023 14:00:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澳新银行：预计金价将涨至2100 美元/盎司】从技术上讲，现货黄金正在2020 美元/盎司附近盘整。如果金价突破近期高点，澳新银行策略师预计金价将涨向2100 美元/盎司，看涨趋势保持不变。技术图显示出持续的看涨势头，上行通道预示金价在1900 美元/盎司至2100 美元/盎司之间有较大波动。价格面临2062 美元/盎司的关键阻力位。突破这一水平可能引发新的技术性买盘，价格可能会到达2100 美元/盎司。“在下行方面，如果在加息方面出现任何令人失望的情况，可能会将金价拉回1900 美元/盎司的趋势线支撑位。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6490824.d.html</link>
-            <guid>3106844</guid>
-            <pubDate>Fri, 12 May 2023 11:29:40 GMT</pubDate>
+            <title><![CDATA[美国5月密歇根大学消费者信心指数初值 57.7，预期63，前值63.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9921340.d.html</link>
+            <guid>3106967</guid>
+            <pubDate>Fri, 12 May 2023 14:00:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国自主研发的全球风暴潮、海啸监测预警系统正式上线运行】记者从国家海洋环境预报中心获悉，预报中心自主研发的全球风暴潮、海啸监测预警系统经过历时两年的试运行，今天正式投入业务化运行。这拓展了我国风暴潮、海啸预警服务领域，可进一步为我驻外使领馆工作人员、涉外企业及国际合作组织等提供专业的风暴潮、海啸预警服务。相关产品即日起可通过中国海洋预报网查询访问。全球风暴潮、海啸监测预警系统具备三方面特点：一是自主化，主要技术均是自主研发；二是低碳化，均支持GPU并行加速技术，相对传统超级计算机计算方式，完成同等规模计算耗电节省90%，真正实现高效低碳；三是智能化和高集成度，可实现自动运行、一键发布。 (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3267918.d.html</link>
-            <guid>3106843</guid>
-            <pubDate>Fri, 12 May 2023 11:29:16 GMT</pubDate>
+            <title><![CDATA[美国商品期货交易委员会(CFTC)：命令汇丰银行美国分行支付4500万美元罚款，原因是在与债券发行相关的掉期交易中存在操纵性和欺骗性交易，欺骗行为，以及监管和移动设备记录失败。]]></title>
+            <guid>3106966</guid>
+            <pubDate>Fri, 12 May 2023 13:59:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【平安银行、东营银行发布通知：将暂停智能通知存款业务】5月12日，平安银行、东营银行等银行机构陆续发布通知，告知客户将暂停销售“智能通知存款”类产品。
-
-平安银行下午公告称，自5月14日起，暂停销售“智能通知存款”产品。届时，“智能通知存款”产品在平安银行线上（口袋APP）渠道及线下（网点柜面系统、远程柜面银行（FB）系统）渠道均不再支持新增签约；如客户在暂停销售前已购买“智能通知存款”产品，存量业务仍可继续在平安银行各渠道办理产品支取、查询、解约等业务。
-
-东营银行傍晚也公告称，为贯彻落实人民银行深化利率市场化改革各项举措，按照人民银行健全市场化利率形成和传导机制有关导向要求，自2023年5月15日起，暂停智能通知存款业务办理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8894726.d.html</link>
-            <guid>3106842</guid>
-            <pubDate>Fri, 12 May 2023 11:25:47 GMT</pubDate>
+            <title><![CDATA[【经合组织地区2023年3月失业率为4.8%】当地时间5月12日，经济合作与发展组织（OECD）发布报告称，经合组织地区的失业率在2023年3月为4.8%。其中，15个国家2023年3月月度失业率水平与上月持平，14个国家失业率水平有所下降，5个国家有所上升，8个国家的失业率处于或接近最低水平。累计失业人数小幅下降至3310万，接近2022年7月统计到的最低值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6414932.d.html</link>
+            <guid>3106964</guid>
+            <pubDate>Fri, 12 May 2023 13:59:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【保险资管协会将根据监管评级结果、产品分类情况对债权投资计划分类登记】中国保险资产管理协会近日向各保险资产管理公司下发了《关于建立债权投资计划分类登记工作机制》的通知，协会将根据保险资产管理公司监管评级结果，结合产品分类情况，对债权投资计划实行分类登记管理，登记方式分为常规登记、便捷登记和快速登记。此外，根据融资主体信用等级和产品信用增级安排不同形成三类产品，最近年度监管评级不同结果的保险资管公司对不同的产品适用不同的登记方式。对监管评级结果较好的保险资管公司，在符合法律法规及风险可控的前提下，鼓励其在相关领域进行新型投资实践。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3266315.d.html</link>
-            <guid>3106841</guid>
-            <pubDate>Fri, 12 May 2023 11:24:45 GMT</pubDate>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）：汇丰银行因广泛使用未经批准的沟通方式，未能妥善保存记录和执行监管而受罚。]]></title>
+            <guid>3106963</guid>
+            <pubDate>Fri, 12 May 2023 13:58:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沃尔沃：中止收购江铃重汽交易】沃尔沃公告，不再进行此前宣布的涉及收购江铃汽车旗下的江铃重汽的交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3265197.d.html</link>
-            <guid>3106840</guid>
-            <pubDate>Fri, 12 May 2023 11:21:31 GMT</pubDate>
+            <title><![CDATA[市场消息：美国商品期货交易委员会（CFTC）命令汇丰银行支付3000万美元罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6414476.d.html</link>
+            <guid>3106961</guid>
+            <pubDate>Fri, 12 May 2023 13:57:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿塞拜疆国家石油公司（SOCAR）：土耳其的STAR炼油厂将在2024年进行45-60天的关闭维护。]]></title>
-            <guid>3106839</guid>
-            <pubDate>Fri, 12 May 2023 11:20:07 GMT</pubDate>
+            <title><![CDATA[花旗：预计2023年布伦特原油价格平均约为82美元/桶，较之前的预测值84美元/桶有所下降。]]></title>
+            <guid>3106960</guid>
+            <pubDate>Fri, 12 May 2023 13:55:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟委员会批准丹麦出口和投资基金计划】据央视新闻，当地时间5月12日，欧盟委员会批准丹麦设立“丹麦出口和投资基金”的计划，该计划是根据欧盟“国家援助临时危机框架”获批的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3264079.d.html</link>
-            <guid>3106838</guid>
-            <pubDate>Fri, 12 May 2023 11:19:02 GMT</pubDate>
+            <title><![CDATA[花旗：预计布伦特原油价格将在年底前跌破80美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8829212.d.html</link>
+            <guid>3106959</guid>
+            <pubDate>Fri, 12 May 2023 13:55:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【精工科技：拟定增募资不超19.5亿元 用于碳纤维装备等项目】精工科技(002006)5月12日晚间公告，公司拟向特定对象发行股票募资不超19.5亿元，将用于碳纤维及复材装备智能制造建设项目、高性能碳纤维装备研发中心建设项目及补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfs9983391.d.html</link>
-            <guid>3106837</guid>
-            <pubDate>Fri, 12 May 2023 11:18:53 GMT</pubDate>
+            <title><![CDATA[【花样年境外债重组计划遭二股东TCL实业反对，回应称希望持续沟通】据澎湃新闻，市场有消息传出，花样年的境外债务重组进展不顺，遭到了第二大股东TCL实业的反对。对此，花样年方面表示，“公司在谈判整个重组方案的时候，一直都有跟不同的利益相关方沟通，包括我们第二大股东TCL实业。时至今日，尽管公司及债权人小组多次尝试接触TCL实业的第一大小股东TCL及TCL控股子公司钟港，但TCL均未同意上述方案，其顾虑或要求并不明确。较高的RSA（境外重组支持协议）加入率表明，绝大多数离岸债权人认为重组计划是公司恢复正常运营过程并为所有利益相关者实现价值最大化的可行途径。同时，我们也要看到，在整个重组方案里，第一大股东曾小姐做了巨大贡献，包括她有自己的股东贷款的债转股部分，另外她也会提出新的资金投入到我们重组计划里，这些都是不可忽略的。所以，我们希望持续跟TCL有建设性的沟通，希望可以得到各利益相关者利益最大化的优化方案。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6413528.d.html</link>
+            <guid>3106958</guid>
+            <pubDate>Fri, 12 May 2023 13:53:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海航控股：拟向AvolonAerospace以经营性租赁的方式租入10架A320系列飞机】海航控股公告，拟向AvolonAerospace以经营性租赁的方式租入10架A320系列飞机，交易金额预计不超过1.75亿美元或等值人民币；拟与旅云四号签署《EARLYTERMINATIONAGREEMENT》，提前终止2架闲置A350飞机的租约，公司将支付不超过3,900万美元或者等值人民币的相关退租费用。]]></title>
-            <guid>3106834</guid>
-            <pubDate>Fri, 12 May 2023 11:14:59 GMT</pubDate>
+            <title><![CDATA[【迈瑞医疗：拟与晨壹基金管理公司共同投资有限合伙企业】迈瑞医疗公告，拟与晨壹基金管理（北京）有限公司（含其全资子公司）共同投资有限合伙企业，其中公司拟作为有限合伙人以自有资金认缴出资额12亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9914767.d.html</link>
+            <guid>3106957</guid>
+            <pubDate>Fri, 12 May 2023 13:48:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家能源局：加快推进川气东送二线工程和重点储气库的建设 确保按期投产】国家能源局组织召开川渝“气大庆”及川气东送二线、地下储气库建设工作推进会暨全国页岩气勘探开发技术交流会，会议要求，大力推动在川渝地区建设“中国气大庆”。各方面要提高政治站位，坚定立足国内保障国家能源安全的信心和决心，从产、供、储、销四个方向全面发力。要加强分析研判，充分认识建设川渝“气大庆”具有的发展基础、丰富资源、基础设施等有利条件。要坚持“常非并举”，加强“规划落实、页岩气带动、科技创新、生态环保、协同保障”五方面工作；推动国家有关规划、实施方案及重点产能建设项目的落实落地；锚定奋斗目标、加强技术管理创新，奋力实现页岩气产业的二次跨越发展，确保实现川渝“气大庆”建设目标。同时，要加快推进川气东送二线工程和重点储气库的建设，确保按期投产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3393535.d.html</link>
-            <guid>3106833</guid>
-            <pubDate>Fri, 12 May 2023 11:14:37 GMT</pubDate>
+            <title><![CDATA[【中共中央批准：李云泽同志不再担任中共四川省委常委、委员职务】川观新闻记者从省委组织部获悉，近日，中共中央批准：李云泽同志不再担任中共四川省委常委、委员职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3188139.d.html</link>
+            <guid>3106956</guid>
+            <pubDate>Fri, 12 May 2023 13:46:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：津巴布韦央行发行了价值140亿津元的黄金支持数字货币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3393182.d.html</link>
-            <guid>3106831</guid>
-            <pubDate>Fri, 12 May 2023 11:13:32 GMT</pubDate>
+            <title><![CDATA[【欧盟边境管理局：今年试图进入欧洲边境的难民人数可能会创下纪录】欧盟边境管理局(Frontex)周五表示，欧盟今年寻求通过非常规过境点抵达欧盟边境的人数可能再创新高，更多移民是由于贫困和气候变化迁移，而非军事冲突。Frontex报告称，去年约有33万非法移民通过所有途径抵达欧洲，这是自2016年以来的最高水平，非法移民数量的增加引发了包括丹麦、荷兰和奥地利在内的欧盟国家更严厉的反移民言论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvps6409944.d.html</link>
+            <guid>3106955</guid>
+            <pubDate>Fri, 12 May 2023 13:43:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[塔塔汽车：捷豹路虎预计芯片供应将逐步改善。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxv0112895.d.html</link>
-            <guid>3106830</guid>
-            <pubDate>Fri, 12 May 2023 11:13:25 GMT</pubDate>
+            <title><![CDATA[【丰田汽车：人为错误致日本215万用户的车辆数据已被公开十年 面临数据泄露风险】丰田汽车公司周五表示，由于人为错误，日本215万用户的车辆数据已被公开了十年，报道称，这几乎涵盖自2012年以来注册其主要云服务平台的全部客户群。这起事件也影响了其豪华品牌雷克萨斯的客户。丰田公司发言人说，这个问题从2013年11月开始，一直持续到4月中旬，源于人为错误，导致一个云系统被设置为公共的而不是私人的。该公司说，数据可能包括车辆位置和车辆设备的识别号码等细节，但没有关于恶意使用的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3186528.d.html</link>
+            <guid>3106954</guid>
+            <pubDate>Fri, 12 May 2023 13:42:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【网传“榴莲变贵”？广州市市场监管局辟谣：假的】据南方Plus，广州市市场监管局发布情况通报。通报提到，对于有媒体报道“网友吐槽辛巴带货致榴莲变贵”，网传“市监局回应辛巴带货致榴莲价格上涨”，经核查，相关内容为不实消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6615732.d.html</link>
-            <guid>3106829</guid>
-            <pubDate>Fri, 12 May 2023 11:12:56 GMT</pubDate>
+            <title><![CDATA[【网传鲁阳节能部分生产线停产？公司：消息不属实】据中证网，网传鲁阳节能部分生产线停产？公司：消息不属实。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpq9910368.d.html</link>
+            <guid>3106953</guid>
+            <pubDate>Fri, 12 May 2023 13:41:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华盛昌：华聚企业、华航机械拟减持不超过6%】华盛昌公告，华聚企业、华航机械拟减持不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6615540.d.html</link>
-            <guid>3106828</guid>
-            <pubDate>Fri, 12 May 2023 11:12:29 GMT</pubDate>
+            <title><![CDATA[【债权投资计划将建立分类登记工作机制】据上证报，记者从相关渠道获悉，近日，中国保险资产管理业协会下发《关于建立债权投资计划分类登记工作机制的通知》，建立债权投资计划分类登记工作机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpu3185522.d.html</link>
+            <guid>3106952</guid>
+            <pubDate>Fri, 12 May 2023 13:39:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华夏旗下基金参与南岭民爆A股定增】华夏基金公告称，旗下基金参与了南岭民爆非公开发行A股股票的认购。其中，华夏磐益一年定开混合基金认购161.85万股，总成本为1850万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9019815.d.html</link>
-            <guid>3106827</guid>
-            <pubDate>Fri, 12 May 2023 11:11:36 GMT</pubDate>
+            <title><![CDATA[【中电联刘永东：预计今年电化学储能电站将爆发式增长】据中新网，在中国新闻社与能源基金会联合举办的2023年第一期国是论坛之“能源中国”上，中国电力企业联合会副秘书长刘永东表示，新型储能将成为电力系统调节的重要力量，预计2023年电化学储能电站新增装机将爆发式增长。刘永东说，根据中国电力企业联合会发布的数据，预计2023年我国风电、光伏将新增装机容量160GW(吉瓦)左右，按2022年新能源配储增长率保持不变预估，2023年将新增新能源配储5.62GW。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpvpk8816869.d.html</link>
+            <guid>3106949</guid>
+            <pubDate>Fri, 12 May 2023 13:33:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【精工科技：拟定增募资不超过19.5亿元】精工科技公告，拟定增募资不超过19.5亿元，用于碳纤维及复材装备智能制造建设项目、高性能碳纤维装备研发中心建设项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9019774.d.html</link>
-            <guid>3106826</guid>
-            <pubDate>Fri, 12 May 2023 11:11:23 GMT</pubDate>
+            <title><![CDATA[热门中概股多数走低，小鹏汽车(XPEV.N)跌超6%，哔哩哔哩(BILI.O)跌超3%，京东(JD.O)、蔚来汽车(NIO.N)跌超2%。]]></title>
+            <guid>3106948</guid>
+            <pubDate>Fri, 12 May 2023 13:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海：加快提升产业能级和核心竞争力 加快培育龙头企业和高增长企业】上海市委常委会今天（5月12日）举行会议，会议指出，要抓牢实体经济这个根本，坚定推动经济转型升级，加快提升产业能级和核心竞争力，筑牢现代化建设的坚实物质技术基础。聚焦国家战略任务，发挥好改革开放、龙头带动、科技和人才的优势，不断激发高质量发展的活力动力。要增强系统观念，对事关上海长远和根本的重大布局、重大政策、重点措施开展前瞻研究，加强战略谋划，推动协同落实。加快建设以实体经济为支撑的现代化产业体系，巩固和扩大工业基本盘，打好关键核心技术攻坚战，推进产业智能化、绿色化、融合化，加快培育龙头企业和高增长企业。着力推动人口高质量发展，持续强化城市现代化建设的人才支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxv0111117.d.html</link>
-            <guid>3106825</guid>
-            <pubDate>Fri, 12 May 2023 11:10:38 GMT</pubDate>
+            <title><![CDATA[法拉第未来(FFIE.O)涨超5%，重申目标5月底开始FF 91第一阶段的交付，在2025年达到经营性现金流收支平衡。]]></title>
+            <guid>3106947</guid>
+            <pubDate>Fri, 12 May 2023 13:32:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工银瑞信国证半导体芯片ETF新增流动性服务商】工银瑞信基金公告称，为促进工银瑞信国证半导体芯片ETF的市场流动性和平稳运行，当日起新增东海证券为该基金的流动性服务商。该基金成立于2022年12月，截至今年一季度末规模为1.82亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9019424.d.html</link>
-            <guid>3106824</guid>
-            <pubDate>Fri, 12 May 2023 11:09:56 GMT</pubDate>
+            <title><![CDATA[叮咚买菜(DDL.N)跌超10%，Q1营收49.975亿元，同比下滑8.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6536416.d.html</link>
+            <guid>3106946</guid>
+            <pubDate>Fri, 12 May 2023 13:32:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【风华高科：广东恒聚达拟减持公司不超0.6%股份】风华高科公告，公司特定股东广东恒聚达企业管理合伙企业（有限合伙）计划以集中竞价交易方式，减持公司股份不超过691万股，即不超过公司目前总股本的0.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxv0110857.d.html</link>
-            <guid>3106823</guid>
-            <pubDate>Fri, 12 May 2023 11:09:33 GMT</pubDate>
+            <title><![CDATA[【道指开盘涨0.2%，标普500涨0.3%，纳指涨0.2%】新闻集团涨7.0%，Q3业绩超预期，计划用其内容训练AI。特斯拉涨2.3%，在美国再次提高电动汽车价格。伊坎企业涨5.6%，公司批准回购27%流通股。PacWest涨2.4%，维持20亿美元的季度存款指引不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8945579.d.html</link>
+            <guid>3106945</guid>
+            <pubDate>Fri, 12 May 2023 13:30:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海：巩固和扩大工业基本盘，推进产业智能化、绿色化、融合化】上海市委常委会今天（5月12日）举行会议。会议指出，要聚焦国家战略任务，发挥好改革开放、龙头带动、科技和人才的优势，不断激发高质量发展的活力动力。要增强系统观念，对事关上海长远和根本的重大布局、重大政策、重点措施开展前瞻研究，加强战略谋划，推动协同落实。加快建设以实体经济为支撑的现代化产业体系，巩固和扩大工业基本盘，打好关键核心技术攻坚战，推进产业智能化、绿色化、融合化，加快培育龙头企业和高增长企业。着力推动人口高质量发展，持续强化城市现代化建设的人才支撑。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6614354.d.html</link>
-            <guid>3106822</guid>
-            <pubDate>Fri, 12 May 2023 11:09:22 GMT</pubDate>
+            <title><![CDATA[惠誉：土耳其的银行在2022年第四季度仍然受到高压经营环境的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8944752.d.html</link>
+            <guid>3106944</guid>
+            <pubDate>Fri, 12 May 2023 13:26:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盛航股份：拟5.04亿元购置三艘内贸化学品船舶以及三艘外贸化学品船舶100%的所有权】盛航股份公告，拟向关联方丰海海运购置船名为“丰海23”轮、“丰海26”轮、“丰海27”轮三艘内贸化学品船舶以及船名为“丰海13”轮、“丰海15”轮、“丰海33”轮三艘外贸化学品船舶100%的所有权，购置总价款合计为5.04亿元。]]></title>
-            <guid>3106821</guid>
-            <pubDate>Fri, 12 May 2023 11:07:07 GMT</pubDate>
+            <title><![CDATA[【西门子交通获得约3亿欧元的机车订单】西门子交通（Siemens Mobility）与TX Logistik签署合同，交付Vectron MS 40型机车，总订单额约为3亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3311604.d.html</link>
+            <guid>3106943</guid>
+            <pubDate>Fri, 12 May 2023 13:26:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京与俄罗斯联邦安全会议常务委员举行线上会议】俄罗斯总统普京通过视频方式与联邦安全会议常务委员举行会议。会议的主题是讨论俄罗斯在若干国际组织中参与的工作。俄罗斯外交部长拉夫罗夫进行了发言。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6612805.d.html</link>
-            <guid>3106820</guid>
-            <pubDate>Fri, 12 May 2023 11:05:54 GMT</pubDate>
+            <title><![CDATA[【上海核心区域写字楼出租率增长明显】零售商业热度恢复的同时，上海写字楼及商业园区也显现出复苏迹象，核心区域写字楼出租率增长明显，垂询、带看量也显著增加。在上海西虹桥的一个商业园区，负责人介绍，由于紧邻国家会展中心，随着今年上海会展经济复苏，会展相关企业已占到10%，目前园区整体招商率达到80%以上。分析人士表示，一季度上海写字楼租赁市场较前两个季度回暖明显，其中甲级写字楼表现较好。租金方面，在写字楼供应量增加的背景下，租金较为坚挺，跌幅明显收窄。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6531378.d.html</link>
+            <guid>3106942</guid>
+            <pubDate>Fri, 12 May 2023 13:18:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃尔沃卡车停止收购江铃汽车的流程。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6611432.d.html</link>
-            <guid>3106818</guid>
-            <pubDate>Fri, 12 May 2023 11:02:50 GMT</pubDate>
+            <title><![CDATA[【国际原子能机构：2022年针对伊朗核设施的检查次数锐减10%】国际原子能机构数据显示，在伊朗退出与世界大国们达成的核协议后，其取消多数原协议要求的监督活动，因此2022年针对伊朗的核设施检查次数减少了10%。国际原子能机构总干事拉格罗西在本周外交官之间传阅的一份机密文件中写道，核查人员“受到了伊朗的严重阻碍”。特朗普政府五年前撕毁了一项旨在阻止伊朗制造核弹的国际协议后，伊朗开始逐步限制国际原子能机构的准入。该废除协议限制了伊朗的核活动，并允许扩大监督范围，以换取解除制裁，而重启该协议的谈判仍处于僵局。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfu6531030.d.html</link>
+            <guid>3106941</guid>
+            <pubDate>Fri, 12 May 2023 13:16:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧比特：签署河北卫星产业基地项目合作框架协议】欧比特公告，公司与遵化市政府签署《河北卫星产业基地项目合作框架协议》，建设集卫星研发、卫星制造、卫星数据接收、数据处理、数据应用于一体的河北省首个全流程卫星产业基地；计划自协议生效后的5年内发射100颗近轨卫星，服务河北市场，培养年产值28亿的大数据产业，创造就业岗位1.2万个。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3388587.d.html</link>
-            <guid>3106817</guid>
-            <pubDate>Fri, 12 May 2023 11:02:43 GMT</pubDate>
+            <title><![CDATA[NBC环球公司：推特新CEO Linda Yaccarino将在本公司担任临时职位。]]></title>
+            <guid>3106939</guid>
+            <pubDate>Fri, 12 May 2023 13:14:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰总统泽连斯基召开最高统帅部会议】据乌克兰国家通讯社12日报道，乌总统泽连斯基当天召开了最高统帅部会议，会议听取了乌克兰武装部队陆军司令瑟尔斯基有关前线局势的报告。泽连斯基在其官方社交账户上宣布了这一消息。会议确定了乌武装部队的优先需求，并听取了新组建的战斗旅人员及装备情况汇报等。会议同时审议了乌克兰目前弹药和导弹供应的长期合同。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3388441.d.html</link>
-            <guid>3106816</guid>
-            <pubDate>Fri, 12 May 2023 11:02:22 GMT</pubDate>
+            <title><![CDATA[比利时政府声明：将使用收到的9200万欧元冻结俄罗斯资产的税收来支持乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3305899.d.html</link>
+            <guid>3106938</guid>
+            <pubDate>Fri, 12 May 2023 13:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒指公司公布季检结果，将京东健康、携程纳入恒指ESG增强指数，成份股数目将由64只增加至68只。]]></title>
-            <guid>3106815</guid>
-            <pubDate>Fri, 12 May 2023 11:02:02 GMT</pubDate>
+            <title><![CDATA[NBC环球公司宣布广告主管Linda Yaccarino离职。据说她正在谈判成为下任Twitter首席执行官。]]></title>
+            <guid>3106934</guid>
+            <pubDate>Fri, 12 May 2023 13:05:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：日本三菱日联银行计划于5月26日定价发行AT1债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6610707.d.html</link>
-            <guid>3106814</guid>
-            <pubDate>Fri, 12 May 2023 11:01:07 GMT</pubDate>
+            <title><![CDATA[【多晶硅价格下跌会否影响建设计划？合盛硅业董事长罗立国：成本低，仍有利润】据每日经济新闻，近期多晶硅价格下降较为明显，甚至有硅料跌破15万元/吨。对于40万吨建成后未来市场销售情况，罗立国表示：“（前年）多晶硅价格一下子卖到30万元/吨，这个太可怕了。即使1吨赚1万元，40万吨也是40亿元，所以我说它能干。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfn8933292.d.html</link>
+            <guid>3106933</guid>
+            <pubDate>Fri, 12 May 2023 13:05:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首个《云原生应用引擎技术发展白皮书》发布】5月12日，在由神州数码主办、北京经开区国家信创园、中关村云计算产业联盟协办的2023通明湖论坛-云原生分论坛上，神州数码联合多家主体发布《云原生应用引擎技术发展白皮书》。中国信通院云大所云计算部主任马飞认为，云原生产业规模和前景巨大，但很多技术领域仍然处于窗口期，融合与挑战共存，我国有必要集云原生研究合力，建立满足信息技术创新需要的技术架构体系，并布局产业生态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6609675.d.html</link>
-            <guid>3106813</guid>
-            <pubDate>Fri, 12 May 2023 10:58:52 GMT</pubDate>
+            <title><![CDATA[【四川天府银行调整通知、协定存款利率 均较基准利率上浮20个基点】据上证报，四川天府银行发布的《关于调整部分人民币存款产品执行利率的告知书》显示，该行将于5月15日0时起调整人民币通知存款及协定存款产品执行利率，调整后执行利率如下：1天期、7天期通知存款以及协定存款利率分别为1.00% 、1.55%、1.35%，均较基准利率上浮20个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3303342.d.html</link>
+            <guid>3106932</guid>
+            <pubDate>Fri, 12 May 2023 13:04:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天齐锂业：拟30亿元投建年产3万吨电池级单水氢氧化锂项目】天齐锂业公告，拟于江苏省苏州市张家港保税区建设年产3万吨电池级单水氢氧化锂项目，计划总投资约30亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6609445.d.html</link>
-            <guid>3106812</guid>
-            <pubDate>Fri, 12 May 2023 10:58:11 GMT</pubDate>
+            <title><![CDATA[俄罗斯央行：俄罗斯3月份对外贸易顺差为123.45亿美元。]]></title>
+            <guid>3106931</guid>
+            <pubDate>Fri, 12 May 2023 13:03:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【学习速卖通和Temu TikTok也推出了“全托管”模式】TikTok将启动类似于速卖通、Temu“全托管店铺”的新模式，即由商家（供货商）给平台供货，而平台负责店铺流量和运营。 （36氪）]]></title>
-            <guid>3106811</guid>
-            <pubDate>Fri, 12 May 2023 10:57:14 GMT</pubDate>
+            <title><![CDATA[俄罗斯央行：俄罗斯3月份对外贸易顺差为123.45亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0022384.d.html</link>
+            <guid>3106930</guid>
+            <pubDate>Fri, 12 May 2023 13:03:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：越南电动汽车制造商Vinfast将通过230亿美元的特殊收购目的(SPAC)并购在美国上市。]]></title>
-            <guid>3106810</guid>
-            <pubDate>Fri, 12 May 2023 10:56:42 GMT</pubDate>
+            <title><![CDATA[【供应短缺抵消需求担忧，油价回稳】今日油价企稳，本周收盘料持平，分析师预计，今年下半年将出现供应短缺，欧佩克+报告称，预计7-12月对欧佩克+的原油需求将比先前预估高出9万桶/日。PVM石油市场分析师Stephen Brennock表示：“假设欧佩克履行最新的减产协议，石油市场正朝着供应短缺的方向发展。”德国商业银行分析师表示，出现的大规模供应缺口证实了我们对今年油价将上涨的预期。OANDA高级市场Craig Erlam表示，交易员正在等待观察哪个事件将主导未来的走势，是另一家银行破产？还是欧佩克+的减产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3302973.d.html</link>
+            <guid>3106929</guid>
+            <pubDate>Fri, 12 May 2023 13:02:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【立方数科：与应急管理部信息研究院、腾讯云计算签署战略合作框架协议】立方数科公告，与应急管理部信息研究院、腾讯云计算（北京）有限责任公司签署了《战略合作框架协议》，面向矿山领域就全国范围内的“管服融合”数字化展开战略合作，提升矿山安全监管监察效能，助力煤炭企业智能化转型，提高防范化解矿山重大安全风险能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6607260.d.html</link>
-            <guid>3106807</guid>
-            <pubDate>Fri, 12 May 2023 10:51:43 GMT</pubDate>
+            <title><![CDATA[【国家防总办公室派出应急管理部、水利部联合工作组督导病险水库安全度汛工作】5月11日，国家防总办公室派出应急管理部、水利部联合工作组分赴山东、湖南、云南、江西、湖北、四川6省督导病险水库安全度汛工作。应急管理部、水利部各牵头负责3个工作组，重点就病险水库责任落实、隐患整改、雨水情测报系统不完善、管护机制不健全、带病运行等开展督导。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3302880.d.html</link>
+            <guid>3106928</guid>
+            <pubDate>Fri, 12 May 2023 13:02:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【极兔与顺丰达成交易 以11.83亿元收购丰网100%股权】记者从J&T极兔速递获悉，其已与顺丰控股下属控股子公司深圳市丰网控股有限公司签署《股权转让协议》。极兔速递下属子公司深圳极兔供应链有限公司拟以人民币11.83亿元的价格收购丰网控股全资子公司深圳丰网信息技术有限公司100%股权。（财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9012520.d.html</link>
-            <guid>3106806</guid>
-            <pubDate>Fri, 12 May 2023 10:49:07 GMT</pubDate>
+            <title><![CDATA[【万里马：控股股东拟协议转让5%公司股份】万里马公告，公司控股股东林大耀、林大洲、林大权通过协议转让的方式，将公司股份2029万股（占公司总股本5%）转让给深圳市启恒私募证券基金管理有限公司（代表“启恒点金私募证券投资基金”）。转让价格4.84元/股，总价9820.36万元。此次转让不会导致公司控股股东、实控人发生变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0021865.d.html</link>
+            <guid>3106927</guid>
+            <pubDate>Fri, 12 May 2023 13:02:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【博菲电气：拟发行可转债募资不超过3.9亿元 用于年产7万吨新能源复合材料制品建设项目】博菲电气公告，拟发行可转债募资不超过3.9亿元，用于年产70,000吨新能源复合材料制品建设项目。]]></title>
-            <guid>3106805</guid>
-            <pubDate>Fri, 12 May 2023 10:47:57 GMT</pubDate>
+            <title><![CDATA[【水利部：完善南水北调工程风险防范长效机制 加快数字孪生南水北调建设】水利部党组书记、部长李国英主持召开水利部推进南水北调后续工程高质量发展工作领导小组全体会议，总结工作进展情况，研究部署下一步重点任务。会议强调，要按照“系统完备、安全可靠，集约高效、绿色智能，循环通畅、调控有序”的总体要求，加快构建国家水网主骨架和大动脉。要完善南水北调工程风险防范长效机制，持续提升东、中线一期工程效益。要加快数字孪生南水北调建设，提升南水北调工程调配运管的数字化、网络化、智能化能力和水平。要坚持把节水作为受水区的根本出路，长期深入做好节水工作，支持发展节水产业。要深化南水北调工程建设、运营、水价、投融资等体制机制改革，促进南水北调后续工程高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0020862.d.html</link>
+            <guid>3106925</guid>
+            <pubDate>Fri, 12 May 2023 13:00:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中央企业7名管理人员接受纪律审查和监察调查】中林集团原党委书记、董事长宋权礼，中煤地质总局原党委书记、副局长赵平，中国华能陕西发电有限公司原党委副书记、总经理李庆义等7人被查。（中央纪委国家监委网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6605060.d.html</link>
-            <guid>3106804</guid>
-            <pubDate>Fri, 12 May 2023 10:46:00 GMT</pubDate>
+            <title><![CDATA[【羊了个羊回应被通报】据中新财经，针对羊了个羊被通报一事，游戏《羊了个羊》开发公司12日发布声明回应称，接到整改通知后，经自查，此次事件系第三方平台广告组件出现问题所导致。声明称，“目前，我们正在积极配合监管单位的核查工作并敦促第三方平台尽快落实合规整改措施，切实做好保障用户权益工作。”此前，工信部通报了一批侵害用户权益的APP（SDK），共56款。其中包括去年大热的游戏《羊了个羊》，所涉问题为“欺骗误导强迫用户”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0020328.d.html</link>
+            <guid>3106924</guid>
+            <pubDate>Fri, 12 May 2023 12:57:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【赣锋锂业：拟25亿元投建新能源锂电池生产研发项目】赣锋锂业公告，赣锋锂电拟投资25亿元人民币，在襄阳市投资建设新能源锂电池生产研发项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9010864.d.html</link>
-            <guid>3106803</guid>
-            <pubDate>Fri, 12 May 2023 10:42:28 GMT</pubDate>
+            <title><![CDATA[【中国医药：拟发行全球存托凭证（GDR）】中国医药公告，为拓展公司的国际融资渠道、满足公司海内外业务发展需求，进一步加强公司国际化品牌和企业形象，推进国际化战略，根据相关监管规定，公司拟发行全球存托凭证(GDR)，并申请在瑞士证券交易所挂牌上市，GDR以公司新增发行的人民币普通股A股作为基础证券。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0019714.d.html</link>
+            <guid>3106922</guid>
+            <pubDate>Fri, 12 May 2023 12:54:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贝达药业：EYP-1901玻璃体内植入剂药品临床试验申请获受理】贝达药业5月12日晚间公告，近日，公司收到国家药监局签发的受理通知书，公司与EyePoint（NASDAQ:EYPT）共同申报的EYP-1901玻璃体内植入剂药品临床试验申请已获得国家药监局受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6603405.d.html</link>
-            <guid>3106802</guid>
-            <pubDate>Fri, 12 May 2023 10:41:53 GMT</pubDate>
+            <title><![CDATA[【万里马：控股股东拟减持不超过1%】万里马公告，控股股东拟减持不超过1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0019587.d.html</link>
+            <guid>3106921</guid>
+            <pubDate>Fri, 12 May 2023 12:54:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【益客食品：与邳州市人民政府签订合作框架协议】益客食品公告，与邳州市人民政府签订了《合作框架协议》，在预制菜加工项目、宠物食品加工项目、肉鸡种苗孵化项目、饲料加工项目、熟食加工项目及肉鸡产业发展中心项目开展深入的战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3379628.d.html</link>
-            <guid>3106800</guid>
-            <pubDate>Fri, 12 May 2023 10:39:39 GMT</pubDate>
+            <title><![CDATA[【日本现黄金热 民众纷纷高位抛售黄金】据央视财经，不到两个月之内，日本国内金价上涨接近一成，这也带动了黄金交易出现热潮。10日，日本最大的黄金零售商田中贵金属公布的黄金零售价格为每克9794日元，约合人民币505元，再次创下历史新高。在金价不断攀升的情况下，也有部分日本民众选择趁高位时抛售黄金。在东京市区的一家金店，记者了解到，近期前来出售黄金首饰的客人明显增加，其中不少人出售的金饰购置于二三十年前，有的甚至传承了两三代人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3298817.d.html</link>
+            <guid>3106920</guid>
+            <pubDate>Fri, 12 May 2023 12:51:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【威帝股份：拟出控股子公司售丽威汽控55%股权】威帝股份公告，公司拟将持有的浙江丽威汽车控制系统有限公司55%股权转让给丽水南投，转让价2588.88万元。丽威汽控主营业务为叉车及工程车配套叉车门架、叉车车桥和叉车仪表等叉车核心零部件，具有较好发展前景，但短期内仍需要较大的资金投入，且1-2年内仍可能会产生一定亏损，若在公司体内孵化培育，短期内会给公司带来一定的不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9009974.d.html</link>
-            <guid>3106799</guid>
-            <pubDate>Fri, 12 May 2023 10:39:26 GMT</pubDate>
+            <title><![CDATA[【极兔回应收购顺丰下属公司：巩固在电商快递领域的优势】据第一财经，极兔11.83亿收购顺丰下属公司。极兔方面表示，极兔始终聚焦电商快递领域，不断优化电商快递服务体验。本次收购丰网将有助于巩固极兔在电商快递领域的优势，提升极兔综合服务能力。今年年初曾传出极兔计划IPO的消息，对此极兔并未回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3298400.d.html</link>
+            <guid>3106919</guid>
+            <pubDate>Fri, 12 May 2023 12:50:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州浪奇：筹划与控股股东进行重大资产置换】广州浪奇公告，公司正在筹划与控股股东轻工集团进行重大资产置换。轻工集团拟以持有的新仕诚不低于51%股份与公司持有的南沙浪奇100%股权、韶关浪奇100%股权、辽宁浪奇100%股权、日化所60%股权等值部分进行资产置换，置换差额以现金方式补足（如有）。新仕诚主营文化创意产业园区开发和运营业务。交易后，新仕诚成为公司控股子公司，公司将不再经营日化业务，主要业务将转变为食品及文化创意产业园区开发和运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3377473.d.html</link>
-            <guid>3106796</guid>
-            <pubDate>Fri, 12 May 2023 10:35:04 GMT</pubDate>
+            <title><![CDATA[【朗玛信息：将在数博会举办期间召开国家健康医疗大数据西部中心人工智能建设成果——“朗玛·39AI全科医生”发布会】朗玛信息公告，将在数博会举办期间召开国家健康医疗大数据西部中心人工智能建设成果——“朗玛·39AI全科医生”发布会。]]></title>
+            <guid>3106918</guid>
+            <pubDate>Fri, 12 May 2023 12:47:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生指数公司：将碧桂园从恒生中国企业指数中剔除，纳入中国神华能源股份有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxv0100420.d.html</link>
-            <guid>3106795</guid>
-            <pubDate>Fri, 12 May 2023 10:34:26 GMT</pubDate>
+            <title><![CDATA[【中科创达：与亚马逊云科技在大语言模型应用领域展开合作】中科创达在互动平台表示，公司与亚马逊云科技在大语言模型应用领域展开合作。双方将依托各自领域的技术与资源优势，以数据为基础，运用大数据和人工智能等新技术，探索面向汽车、物联网等不同行业的大模型技术研发与应用落地。更多合作信息将于5月18日举办的中科创达年度技术大会上进行发布。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3297307.d.html</link>
+            <guid>3106917</guid>
+            <pubDate>Fri, 12 May 2023 12:47:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国银行全球研究现预计英国央行将在6月份进行最后一次25个基点的加息，将终端利率预测从之前的4.5%提高至4.75%。]]></title>
-            <guid>3106791</guid>
-            <pubDate>Fri, 12 May 2023 10:32:37 GMT</pubDate>
+            <title><![CDATA[叮咚买菜美股盘前一度跌超9%，公司第一季度营收50亿元，同比下滑8.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprft0016364.d.html</link>
+            <guid>3106916</guid>
+            <pubDate>Fri, 12 May 2023 12:45:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【锐明技术：公司股东拟合计减持不超过6%】锐明技术公告，公司股东拟合计减持不超过6%，]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3376150.d.html</link>
-            <guid>3106790</guid>
-            <pubDate>Fri, 12 May 2023 10:31:58 GMT</pubDate>
+            <title><![CDATA[【叮咚买菜第一季度营收50亿元 同比下滑8.2%】 叮咚买菜：第一季度总营收为49.975亿元（约合7.277亿美元），与2022年同期的54.437亿元相比下滑8.2%。净亏损5240万元（约合760万美元），而2022年同期净亏损4.774亿元。不按美国通用会计准则（Non-GAAP），净利润为610万元（约合90万美元），而2022年同期净亏损4.222亿元。]]></title>
+            <guid>3106915</guid>
+            <pubDate>Fri, 12 May 2023 12:45:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒指公司公布季检结果，将京东健康、携程纳入恒生指数。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxw6598701.d.html</link>
-            <guid>3106788</guid>
-            <pubDate>Fri, 12 May 2023 10:31:22 GMT</pubDate>
+            <title><![CDATA[【国家发改委：当前我国的通胀率较低，政府负债水平合理，外汇储备超过3万亿美元】国家发改委主任郑栅洁发文称，近期，一些国际组织和机构也纷纷调高了对中国经济增长的预期，认为中国经济加速回升将为身处困境的全球经济复苏提供更大动力。当前我国的通胀率较低，政府负债水平合理，外汇储备超过3万亿美元，有能力有条件加大宏观调控力度、有效应对各类风险挑战，有基础有条件、有信心有能力保持经济平稳健康可持续发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3296587.d.html</link>
+            <guid>3106913</guid>
+            <pubDate>Fri, 12 May 2023 12:45:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【太辰光：神州通提前终止减持计划 已减持2.85%股份】太辰光(300570)5月12日晚间公告，截至目前，股东深圳市神州通投资集团有限公司（简称“神州通”）减持计划已累计减持635.34万股，占总股本比例2.85%，尚余53.66万股未实施完毕。神州通决定提前终止上述减持计划，剩余未减持股份在此次减持计划期间内不再减持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9006604.d.html</link>
-            <guid>3106786</guid>
-            <pubDate>Fri, 12 May 2023 10:29:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赣能股份：与陕煤集团签订项目投资合作框架协议】赣能股份公告，江投集团与陕煤集团签订了《项目投资合作框架协议》，共同推进上高一期2×1000MW清洁煤电项目的投资、建设及运营管理等工作；共同推进上高二期2×1000MW清洁煤电项目的核准、投资、建设及运营管理等工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3374865.d.html</link>
-            <guid>3106785</guid>
-            <pubDate>Fri, 12 May 2023 10:29:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长扬松：自从我们开始出售资产以来，克朗表现开始好转。现在问题在于通胀，我们不想讨论何时降息。]]></title>
-            <guid>3106783</guid>
-            <pubDate>Fri, 12 May 2023 10:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海经信委：全力争取新能源汽车外资股比限制取消 组织商业银行开展融资对接】上海市经信委智能制造推进处副处长陈可乐表示，全力争取新能源汽车外资股比限制取消，积极争取国家相关部委支持加快生产企业及产品准入审批，为新车尽快上市销售创造有利条件。围绕项目融资需求，组织商业银行开展融资对接；围绕工厂设备供应需求，组织配套相应产品设备，推动四大工艺国产设备比例超80%；支持先进工艺先行先试，投入使用一体化压铸等高新技术，大幅提高生产效率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9006207.d.html</link>
-            <guid>3106782</guid>
-            <pubDate>Fri, 12 May 2023 10:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【城发环境：喀什市生活垃圾焚烧发电项目转入运营期】城发环境公告，近日，公司收到下属项目公司报告，喀什市生活垃圾焚烧发电项目通过“72+24”小时试运，正式转入运营期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxy3373286.d.html</link>
-            <guid>3106781</guid>
-            <pubDate>Fri, 12 May 2023 10:24:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【易会满：坚持严的主基调不动摇，以强有力监督打造廉洁的注册制】据证监会网站，中国证监会成功举办系统会管干部学习贯彻党的二十大精神专题轮训班。证监会党委书记、主席易会满指出，要以开展集中轮训为契机，坚持以上率下，推动全系统在深学、细悟、笃行党的创新理论上下功夫，不断提高政治判断力、政治领悟力、政治执行力，在全系统形成学习贯彻新的热潮。要对标新任务新要求，切实增强专业本领，坚决纠治形式主义、官僚主义，大力弘扬“马上就办、真抓实干”的优良作风，持续巩固干事创业的良好氛围。坚持严的主基调不动摇，以强有力监督打造廉洁的注册制，一体推进不敢腐、不能腐、不想腐，全面加强腐败源头治理，不断强化系统全面从严治党严的氛围。]]></title>
-            <guid>3106780</guid>
-            <pubDate>Fri, 12 May 2023 10:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：美国加州普拉特维尔以东3公里发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytpkxq9003845.d.html</link>
-            <guid>3106779</guid>
-            <pubDate>Fri, 12 May 2023 10:21:26 GMT</pubDate>
+            <title><![CDATA[【国家发改委主任郑栅洁：坚持”房住不炒“ 加强地方政府债务管理】国家发改委主任郑栅洁发文称，坚持房子是用来住的、不是用来炒的定位，促进房地产市场平稳健康发展，支持刚性和改善性住房需求。深化财政金融体制改革，加强地方政府债务管理，统筹做好中小银行、保险和信托机构改革化险工作，加快构建防范化解风险长效机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-12/detail-imytprfw3296147.d.html</link>
+            <guid>3106912</guid>
+            <pubDate>Fri, 12 May 2023 12:43:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
