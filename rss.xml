@@ -4,11 +4,255 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 16 May 2023 18:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 21:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【前4个月A股五大险企保费收入同比增长5% 多重利好强化保险股配置价值】截至5月16日，A股五大上市险企今年前4个月保费收入披露完毕，五大上市险企共取得保费收入约1.23万亿元，同比增长约5%，较一季度同比增速继续提升。分析人士认为，保险业负债端拐点得到验证，而在“中国特色估值体系”概念催化下，未来保险股仍有较高配置价值。西部证券非银金融首席分析师罗钻辉表示，展望全年，保险板块估值有望持续提振。一方面，寿险改革成效显现，过程指标、结果指标双向优化，负债端出现行业性的拐点；头部财险公司承保表现亮眼，控费用、优结构、化风险成效有望持续显现。另一方面，大金融板块在中国特色估值体系建设中的角色定位进一步明确；横向对比来看，保险板块作为金融板块内享有“中国特色估值体系+基本面改善”双重催化的细分领域，预计估值提振表现有望占优。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9556681.d.html</link>
+            <guid>3111351</guid>
+            <pubDate>Tue, 16 May 2023 21:02:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商积极补充流动资金 今年以来发债规模同比增长36.1%】数据显示，截至5月16日，今年以来券商累计发债（公司债和短期融资券）294只，总规模达到5395.2亿元，分别较去年同期增长44.83%和36.1%。其中，发行证券公司债177只，发行规模为3559.5亿元，同比增长31.92%；发行证券公司短期融资券117只，发行规模为1835.7亿元，同比增长45%。IPG中国区首席经济学家柏文喜表示，“对于券商来说，目前经纪业务难以支撑业绩增长，而竞争激烈的投行业务在快速向头部券商集中。因此，券商也开始积极布局重资本业务。” (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvk5928785.d.html</link>
+            <guid>3111347</guid>
+            <pubDate>Tue, 16 May 2023 20:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗分析师克拉克：加拿大CPI仍高企， 为此将继续力排众议继续呼吁加拿大央行进一步加息。]]></title>
+            <guid>3111346</guid>
+            <pubDate>Tue, 16 May 2023 20:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院领袖麦卡锡表示，对于本周末达成债务上限协议并不乐观；在这次谈判中没有解决任何问题。]]></title>
+            <guid>3111325</guid>
+            <pubDate>Tue, 16 May 2023 20:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收跌0.57%，连续两个交易日收跌，报31.9万点，在该国央行周一加息600个基点之后连续两天脱离历史新高。]]></title>
+            <guid>3111324</guid>
+            <pubDate>Tue, 16 May 2023 20:44:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月12日当周API原油库存增加369万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvk5923593.d.html</link>
+            <guid>3111313</guid>
+            <pubDate>Tue, 16 May 2023 20:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登指示工作人员继续就未解决的问题进行日常会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9551899.d.html</link>
+            <guid>3111305</guid>
+            <pubDate>Tue, 16 May 2023 20:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉CEO马斯克表示，将对钴的供应进行第三方审计。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9551235.d.html</link>
+            <guid>3111302</guid>
+            <pubDate>Tue, 16 May 2023 20:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国大类资产ETF多数收跌】 恐慌指数做多涨3.04%，做多美元指数、纳指100ETF和免AMT税市政债ETF各微涨不到0.3%。而美国房地产ETF跌2.5%，大豆基金、罗素2000指数ETF、黄金ETF-SPDR各跌逾1%，而标普500价值指数ETF、美国布伦特油价基金、新兴市场ETF、农产品基金，美国高收益债ETF、标普500 ETF、巴克莱美国可转债ETF以及美国投资级公司债ETF则各下跌超过0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvq6328198.d.html</link>
+            <guid>3111300</guid>
+            <pubDate>Tue, 16 May 2023 20:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉股东投票支持执行高管薪酬计划。特斯拉股东将每年投票决定高管的薪酬。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvk5921074.d.html</link>
+            <guid>3111295</guid>
+            <pubDate>Tue, 16 May 2023 20:24:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌拉圭央行维持利率在11.25%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9550199.d.html</link>
+            <guid>3111293</guid>
+            <pubDate>Tue, 16 May 2023 20:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉股东选举原CTO JB Straubel为董事会成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvk5920518.d.html</link>
+            <guid>3111287</guid>
+            <pubDate>Tue, 16 May 2023 20:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[迪士尼广告业务主管：带有广告的“迪士尼+”媒体业务已经出现了“健康”的增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9549646.d.html</link>
+            <guid>3111286</guid>
+            <pubDate>Tue, 16 May 2023 20:21:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[共享办公巨头WeWork董事长兼首席执行官Sandeep Mathrani将离职；公司仍预计二季度收入为8.4亿美元至8.65亿美元，市场预期为8.67亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvq6326571.d.html</link>
+            <guid>3111285</guid>
+            <pubDate>Tue, 16 May 2023 20:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽约社区银行：联邦存款保险公司（FDIC）将公开出售公司的3900万股股票。纽约社区银行（NYCB）股价盘后一度下跌8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvk5919320.d.html</link>
+            <guid>3111278</guid>
+            <pubDate>Tue, 16 May 2023 20:17:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国会参议院民主党领袖舒默：债务上限谈判气氛良好 富有成果】美国国会参议院民主党领袖舒默表示，有关债务上限的会谈气氛良好，富有成果；众议院议长麦卡锡已同意采取两党联合措施；希望能够达成协议，因为时间已经不多了；双方都同意债务违约是一种可怕的选项。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvm3456229.d.html</link>
+            <guid>3111273</guid>
+            <pubDate>Tue, 16 May 2023 20:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃塞俄比亚索马里州发生洪灾 已致45人死亡】联合国人道主义事务协调厅15日发布报告称，截至5月12日，埃塞俄比亚索马里州发生的洪灾累计导致45人死亡，超过35000户家庭流离失所，超过23000只牲畜死亡，超过99000公顷的农田被摧毁。报告称，洪水还增加了健康风险，包括霍乱和麻疹的传播。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvm3456220.d.html</link>
+            <guid>3111272</guid>
+            <pubDate>Tue, 16 May 2023 20:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国大会：指定11月26日为世界可持续交通运输日】 据新华社，联合国大会5月16日通过决议，指定每年11月26日为世界可持续交通运输日。决议邀请所有联合国会员国、联合国系统各组织、国际和区域组织以及民间社会等纪念世界可持续交通运输日，通过开展教育和举办活动提高公众对可持续交通运输问题的认识、促进环境友好型交通运输、发展社会包容性交通运输基础设施等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytznvn9547257.d.html</link>
+            <guid>3111260</guid>
+            <pubDate>Tue, 16 May 2023 20:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道琼斯指数5月16日（周二）收盘下跌336.26点，跌幅1.01%，报33012.34点；
+标普500指数5月16日（周二）收盘下跌25.98点，跌幅0.63%，报4110.30点；
+纳斯达克综合指数5月16日（周二）收盘下跌22.16点，跌幅0.18%，报12343.05点。]]></title>
+            <guid>3111257</guid>
+            <pubDate>Tue, 16 May 2023 20:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拜登的亚洲之行因债务上限谈判而缩短，美股跌幅扩大】 据报道，美国总统拜登将缩短亚洲行程，他已经决定本周日（5月21日）就启程返回美国，目前，白宫与国会山仍在谈判债务上限问题5月份稍早，美国财长耶伦前往日本参加七国集团（G7）财长与央行行长会议的行程已经因为美国债务问题而被缩短。周二（5月16日）美股临近收盘时，标普500指数跌超0.6%，道指下跌超过330点跌幅扩大至1.0%，纳指转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6452771.d.html</link>
+            <guid>3111253</guid>
+            <pubDate>Tue, 16 May 2023 19:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【30年期美债收益率创美国银行业暴雷以来新高，3个月/30年期收益率利差重新跌向历史最低位】周二（5月16日）纽约尾盘，美国10年期基准国债收益率上涨3.76个基点，报3.5395%，盘中交投于3.4551%-3.5716%区间，逼近5月1日顶部3.6064%。20年期美债收益率涨2.88个基点，报3.9561%，一度涨至3.9897%，逼近4.0%整数位心理关口和3月10日顶部4.0636%；30年期美债收益率涨1.91个基点，报3.8610%，美股盘初一度涨至3.9004%，为3月9日以来首次涨穿3.9%关口。两年期美债收益率涨6.53个基点，报4.0757%。三个月期国库券/10年期美债收益率利差涨0.208个基点，报-163.975个基点，欧股盘初一度跌至-188.696个基点，逼近5月4日所创历史新低-199.584个基点。三年期美债收益率涨5.85个基点，报3.7306%；五年期美债收益率涨4.84个基点，报3.5170%；七年期美债收益率涨4.59个基点，报3.5253%。]]></title>
+            <guid>3111251</guid>
+            <pubDate>Tue, 16 May 2023 19:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界银行最新报告指出黎巴嫩经济仍处于下滑状态】据央视新闻，当地时间5月16日，世界银行发表最新一期的《2023年春季黎巴嫩经济监测报告》，指出“黎巴嫩经济仍处于急剧下滑状态，远远谈不上复苏”。报告称，2022年，黎巴嫩实际国民生产总值同比下降约2.6%，经济规模连续五年收缩。黎巴嫩在2022年末的国民生产总值仅为2018年末的39.9%。世界银行预测黎巴嫩经济将在2023年继续萎缩0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpp3581093.d.html</link>
+            <guid>3111250</guid>
+            <pubDate>Tue, 16 May 2023 19:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥大豆油期货创2021年以来新低】周二（5月16日）纽约尾盘，谷物分类指数跌1.96%，报43.8767点。CBOT玉米期货跌1.81%，报5.81-3/4美元/蒲式耳。CBOT小麦期货跌2.26%，报6.47-1/2美元/蒲式耳。CBOT大豆期货跌2.55%，报13.64-1/2美元/蒲式耳，一度下跌2.70%创2023年迄今最大盘中跌幅；豆粕期货跌0.84%；豆油期货跌4.87%，一度跌至47.02，创2021年年初以来盘中新低。ICE原糖期货跌0.72%，ICE白糖期货跌0.14%。ICE阿拉比卡咖啡期货涨1.81%，咖啡“C”期货跌1.61%。ICE棉花期货涨1.06%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6449424.d.html</link>
+            <guid>3111222</guid>
+            <pubDate>Tue, 16 May 2023 19:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔前任埃米尔Sheikh对英超曼联俱乐部提出新的收购报价。曼联股价在纽约尾盘跳涨，一度上涨3.7%。]]></title>
+            <guid>3111218</guid>
+            <pubDate>Tue, 16 May 2023 19:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储洛根：循序渐进地调整政策可能会带来帮助】美联储洛根表示，各国央行应该审查全球金融危机后的压力测试情况；需要抵消银行业压力状况对货币政策的影响；政策措施需要被用来消除稳定性风险；循序渐进地调整政策可能会带来帮助；加息速度和维持峰值利率的时间长度会影响稳定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6448318.d.html</link>
+            <guid>3111211</guid>
+            <pubDate>Tue, 16 May 2023 19:26:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国产医疗器械创新提速，多家公司携最新成果亮相CMEF】 5月14日至5月17日，第87届中国国际医疗器械博览会（简称“CMEF”）在上海国家会展中心举办，此次展览面积达32万平方米。在展览现场，多位行业人士表示，CMEF可被看作全球医疗器械产业风向标。近年来，受益于国家政策的大力扶持，医疗器械国产替代进程正在加速推进。此次展会以“创新科技，智领未来”为主题，吸引全球近5000家企业参展，汇聚来自20多个国家和地区的创新产品。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpn6031522.d.html</link>
+            <guid>3111202</guid>
+            <pubDate>Tue, 16 May 2023 19:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【社会用电量将呈现持续上升态势直至8月份，专家支招】 随着夏季到来，不论是生活用电，还是生产用电均将出现较大幅度增长，结合过往数据，4月份过后，社会用电量将呈现持续上升态势直至8月份。对此，北京师范大学政府管理研究院副院长、产业经济研究中心主任宋向清建议，首先，供电企业需要提前准备，充分释放电力产能，做好电力电能储备。其次，大力发展新能源，风能、太阳能、水电、核电等多管齐下，逐渐增加新能源比重。同时，加快传统能源转型升级，并将传统能源作为弥补能源缺口的有效途径，以确保各行各业顺利生产。最后，进一步完善能源供应机制，尤其是能源价格形成机制，要全行业分时段制定用电价格，普及电力供应阶梯价格机制，确保节约用电，按需用电。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9670341.d.html</link>
+            <guid>3111201</guid>
+            <pubDate>Tue, 16 May 2023 19:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国加州电力系统独立运营商ISO：预计今年夏天停电的风险较低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6446626.d.html</link>
+            <guid>3111196</guid>
+            <pubDate>Tue, 16 May 2023 19:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内A股定增募资额同比增近九成，专家：国企融资规模亦较高】据证券日报，今年以来，在股权融资规模整体下降背景下，定增市场“一骑绝尘”。据同花顺iFinD数据统计，截至5月16日，今年以来，共有129家上市公司的定增股份上市，合计募集资金3355.36亿元（含配套募资），同比增长89.7%。从行业来看，国防军工、银行、公用事业和交通运输行业定增募资金额位居前列，分别为518.89亿元、470亿元、364.71亿元和306.50亿元。受访专家表示，今年以来，国内经济持续复苏，企业融资需求提升，投资者参与积极性较高，定增募资出现大幅增长。其中，国企是稳定经济的重要力量，资产体量较大，融资规模亦较高。]]></title>
+            <guid>3111183</guid>
+            <pubDate>Tue, 16 May 2023 19:13:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[评级机构惠誉将西方石油公司评级上调至投资级，前景展望为稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6445374.d.html</link>
+            <guid>3111179</guid>
+            <pubDate>Tue, 16 May 2023 19:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【证券日报头版评论：严打非法证券活动需多管齐下】 证券日报文章称，提升投资者的防非识非意识非常重要，但更重要的是对这种非法证券活动要严厉打击、精准打击，铲除其滋生的土壤，打造资本市场清朗、健康的市场生态。根据中国证券业协会网站数据统计，今年以来，已有近50余家券商发布了86条警惕假冒公司及员工进行非法证券活动的公告。由此，打击非法证券活动的任务仍十分艰巨，未来仍需要从以下三个方面发力。首先，各方要加强协作配合，进一步完善防范和打击非法证券活动的长效机制，形成打击非法证券活动的执法合力。其次，加强对投资者的风险教育，提高投资者防骗识骗能力。第三，投资者也要加强自我保护意识，不要轻信任何个人或团体提供的网络平台，特别是如果对方自称“股神”“专家”时要高度警惕。谨记天下没有免费的午餐。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9667365.d.html</link>
+            <guid>3111171</guid>
+            <pubDate>Tue, 16 May 2023 19:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IMF预计巴西今年GDP增速将放缓至1.2%】国际货币基金组织（IMF）预计巴西2023年全年GDP增速将放缓至1.2%。2024年为1.4%，中期趋势水平为2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9667226.d.html</link>
+            <guid>3111168</guid>
+            <pubDate>Tue, 16 May 2023 19:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【踩中AI风口，全球顶级家族办公室新进微软、谷歌A，重仓英伟达和微软】13F报告显示，全球顶级家族办公室Duquesne Family Office LLC.一季度建仓做多微软、谷歌母公司Alphabet（即谷歌A）、亚马逊、台积电ADR、新闻集团、生物科技公司Illumina、迈威尔科技、巴里克黄金等19家公司。清仓迪尔农机、西方石油公司、AT&T、Datadog、淡水河谷ADR等28只股票。增持英伟达、Teck资源、AMD等七只股票。减持雪佛龙、礼来制药、Meta Platforms、Palantir等10只股票。重仓股包括韩国电商Coupang、英伟达、微软、礼来制药、Lamb Western Holdings Inc.。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6444274.d.html</link>
+            <guid>3111164</guid>
+            <pubDate>Tue, 16 May 2023 19:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【年内A股定增募资额同比增近九成，专家：国企融资规模亦较高】 今年以来，在股权融资规模整体下降背景下，定增市场“一骑绝尘”。据同花顺iFinD数据统计，截至5月16日，今年以来，共有129家上市公司的定增股份上市，合计募集资金3355.36亿元（含配套募资），同比增长89.7%。从行业来看，国防军工、银行、公用事业和交通运输行业定增募资金额位居前列，分别为518.89亿元、470亿元、364.71亿元和306.50亿元。受访专家表示，今年以来，国内经济持续复苏，企业融资需求提升，投资者参与积极性较高，定增募资出现大幅增长。其中，国企是稳定经济的重要力量，资产体量较大，融资规模亦较高。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6444234.d.html</link>
+            <guid>3111163</guid>
+            <pubDate>Tue, 16 May 2023 19:02:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国兴业银行要求根据英国法律发行的公司债债权人增加“自救条款”，以防暴雷时让纳税人背锅】 法国兴业银行向大约22亿美元公司债券（六种到期时间，发行货币为美元、澳元、以及日元）的持有人提出要求，希望他们针对债券所依据的英国法律提出“自救条款”，这表明法兴银行正努力在后脱欧时期更加靠拢欧盟的监管。这样的自救条款意味着，一旦法国兴业银行暴雷/倒闭，这批法兴银行公司债的债权人（甚至根据英国法律发行的证券）将被取消，进而避免发生纳税人自救。前述“自救条款”——即对自救的合同认可，出台于欧元区债务危机（大约2008-2012年）之后。]]></title>
+            <guid>3111155</guid>
+            <pubDate>Tue, 16 May 2023 18:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原油期货结算价小幅收跌】国际原油期货结算价小幅收跌。WTI 6月原油期货收跌0.25美元，跌幅0.35%，报70.86美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpp3553595.d.html</link>
+            <guid>3111153</guid>
+            <pubDate>Tue, 16 May 2023 18:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI 6月原油期货收跌0.25美元，跌幅0.35%，报70.86美元/桶。NYMEX 6月天然气期货收涨0.04%，报2.3760美元/百万英热单位。]]></title>
+            <guid>3111152</guid>
+            <pubDate>Tue, 16 May 2023 18:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据相关条款，黑石牵头的财团出售的伦敦证交所集团股票增加至3300万股，价值约33亿美元。]]></title>
+            <guid>3111148</guid>
+            <pubDate>Tue, 16 May 2023 18:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛CEO等140多位美国商界领袖敦促政府与国会火速解决债务僵局】 包括高盛集团董事长兼首席执行官David Solomon在内的140多位美国企业高管敦促总统拜登及国会领袖迅速采取行动，避免该国债务发生“潜在的灾难性”违约。高管们在致拜登和众议院议长麦卡锡等国会领导人的公开信中警告称，经济面临的压力已然浮现在近期的银行倒闭潮中。如果美国发生违约，事态将会严重得多，那将严重削弱其在世界金融体系中的地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9658614.d.html</link>
+            <guid>3111147</guid>
+            <pubDate>Tue, 16 May 2023 18:22:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国专家警告：德国经济可能会陷入轻度衰退】根据德国曼海姆欧洲经济研究中心当地时间16日发布的5月经济预测报告，一项反映德国未来6个月经济形势的评估指数下降了14.8点，从4月的4.1点降至-10.7点。这是该指数环比连续第三个月下降，也是自2022年12月以来首次处于负值区域。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpn6011941.d.html</link>
+            <guid>3111146</guid>
+            <pubDate>Tue, 16 May 2023 18:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西财长Haddad：正寻求以大比数票数通过财政法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9656250.d.html</link>
+            <guid>3111144</guid>
+            <pubDate>Tue, 16 May 2023 18:09:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国环境署呼吁世界各国积极治理塑料污染】联合国环境规划署于5月16日发布了最新报告《关掉水龙头：世界如何终结塑料污染并创造循环经济》。该报告探讨了应对塑料经济影响所需的经济和商业模式。报告指出，如果各国和公司能够充分利用现有技术，进行深入的政策和市场转变，到2040年，全球塑料污染有望减少80%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhps6433432.d.html</link>
+            <guid>3111143</guid>
+            <pubDate>Tue, 16 May 2023 18:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[辉瑞将分8部分出售总计310亿美元的债券以募资收购Seagen。]]></title>
             <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzhpq9654792.d.html</link>
@@ -105,272 +349,6 @@
             <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafq6116401.d.html</link>
             <guid>3111122</guid>
             <pubDate>Tue, 16 May 2023 17:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度最高法院将于周三审理阿达尼集团调查案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafu6545759.d.html</link>
-            <guid>3111118</guid>
-            <pubDate>Tue, 16 May 2023 16:43:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西现货市场交易中，巴西雷亚尔兑美元下跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafr3648012.d.html</link>
-            <guid>3111117</guid>
-            <pubDate>Tue, 16 May 2023 16:43:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[前硅谷银行CEO贝克尔：自己此前年薪约为1000万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafq6108445.d.html</link>
-            <guid>3111116</guid>
-            <pubDate>Tue, 16 May 2023 16:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（5月16日）欧市尾盘，德国10年期国债收益率涨4.4个基点，报2.353%。两年期德债收益率涨5.7个基点，报2.657%；30年期德债收益率涨3.9个基点。2/10年期德债收益率利差跌0.953个基点，报-30.934个基点。]]></title>
-            <guid>3111115</guid>
-            <pubDate>Tue, 16 May 2023 16:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯国家杜马通过废止《欧洲常规武装力量条约》法案】 俄罗斯国家杜马（议会下院）16日一致通过废止《欧洲常规武装力量条约》法案。俄国家杜马网站当天发布消息说，俄国家杜马代表在全体会议上一致通过有关俄罗斯联邦废止《欧洲常规武装力量条约》的法案，该法案由俄总统普京10日向国家杜马提交审议。俄国家杜马主席沃洛金在社交媒体上发文说，美国和北约痴迷于建立单极世界，将北约向东推进，破坏了全球安全体系。北约是“披着羊皮的狼”，一味侵犯和进攻，摧毁了南斯拉夫联盟，祸乱了阿富汗、利比亚、伊拉克和叙利亚。俄国家杜马国际事务委员会主席斯卢茨基表示，退出并废止《欧洲常规武装力量条约》完全符合保障俄罗斯安全的国家利益。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafs9765402.d.html</link>
-            <guid>3111114</guid>
-            <pubDate>Tue, 16 May 2023 16:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司（FDIC）主席Gruenberg对摩根大通收购第一共和银行的交易予以辩护，称这是成本最低的处置方案。]]></title>
-            <guid>3111112</guid>
-            <pubDate>Tue, 16 May 2023 16:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事巴尔：在利率风险方面，与债务上限相关的风险有所增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafu6541924.d.html</link>
-            <guid>3111111</guid>
-            <pubDate>Tue, 16 May 2023 16:26:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界气象组织：风暴“穆查”预计将影响220万人】世界气象组织16日发布报告称，风暴“穆查”至今已在缅甸不同地点登陆3次。数据显示，有180万人生活在风速达每小时120公里的风暴路径中，估计有220万人受到“穆查”带来的强风和暴雨的影响。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafu6541186.d.html</link>
-            <guid>3111109</guid>
-            <pubDate>Tue, 16 May 2023 16:22:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【拜登否决了恢复东南亚四国太阳能电池板关税的法案】美国总统拜登否决了恢复东南亚四国太阳能电池板关税的法案。去年6月，拜登免除了对柬埔寨、马来西亚、泰国和越南的太阳能电池板征收的关税。今年4月，美国众议院一个委员会投票赞成恢复对这四个国家的太阳能电池板征收关税，扭转拜登的豁免关税政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafu6540093.d.html</link>
-            <guid>3111106</guid>
-            <pubDate>Tue, 16 May 2023 16:18:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哥伦比亚财长：哥伦比亚长期GDP增速接近4%】哥伦比亚财政部长表示，哥伦比亚的长期失业率持续超过10％；哥伦比亚长期GDP增速接近4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafr3639610.d.html</link>
-            <guid>3111105</guid>
-            <pubDate>Tue, 16 May 2023 16:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宝马北美分公司与加州公用事业公司太平洋天然气与电力公司（PG&E）达成协议，专注于智能充电测试。]]></title>
-            <guid>3111104</guid>
-            <pubDate>Tue, 16 May 2023 16:12:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储负责监管事务的副主席巴尔：预计将于2023年夏季提交资本规则提案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafu6536629.d.html</link>
-            <guid>3111103</guid>
-            <pubDate>Tue, 16 May 2023 16:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚特兰大GDPNow小幅下调美国Q2 GDP至2.6%】亚特兰大GDPNow模型对美国2023年第二季度实际GDP增长率(经季节性调整的年率)的最新预期为2.6%，低于5月8日的2.7%。美国劳工统计局、美国人口普查局、美国财政部财政服务局和美联储近期数据公布后，亚特兰大联储GDPNow模型将美国第二季度实际个人消费支出增长和第二季度实际政府支出增速分别从此前的1.8%和2.3%下调到1.6%和2.1%，但被第二季度实际私人国内投资总额增长预期从4.2%上升到4.6%部分抵消。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafq6098178.d.html</link>
-            <guid>3111102</guid>
-            <pubDate>Tue, 16 May 2023 16:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球信用衍生品决定委员会的专家组结束有关瑞信AT1债券的会议，未作出裁决。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-17/detail-imytzafs9759196.d.html</link>
-            <guid>3111101</guid>
-            <pubDate>Tue, 16 May 2023 16:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟天然气期货一度跌穿32欧元】周二（5月16日）欧市尾盘，ICE英国天然气期货涨0.07%，报74.500便士/千卡。TTF基准荷兰天然气期货跌1.39%，报32.000欧元/兆瓦时，欧市盘初曾跌至31.700欧元。ICE欧盟碳排放交易许可（期货价格）涨2.62%，报87.43欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafq6095042.d.html</link>
-            <guid>3111096</guid>
-            <pubDate>Tue, 16 May 2023 15:59:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国众议院通过有关俄罗斯铀进口禁令的法案】周二，美国众议院一个小组委员会投票通过了一项立法，该立法将限制从俄罗斯进口铀到美国。该法案将在颁布90天后禁止进口俄罗斯浓缩铀。自俄乌冲突以来，美国对俄罗斯浓缩铀的依赖再次受到关注，美国国会议员和其他人士呼吁禁止进口，拜登政府也在考虑对进口该反应堆燃料实施制裁。白宫已经就限制俄罗斯铀进口的影响咨询了核工业企业，但在他们试图获得数十亿美元以建立生产国内浓缩铀所需的核燃料供应链的过程中，基本上被国会拒绝了。能源部长上周在能源和商业小组委员会作证时表示，政府计划再次向国会申请约21亿美元，以支持美国国内的铀工业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafs9756863.d.html</link>
-            <guid>3111095</guid>
-            <pubDate>Tue, 16 May 2023 15:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【郑州市委书记安伟会见同北京同仁堂集团董事长王贵平】据北京日报，5月16日，省委常委、市委书记安伟会见中国北京同仁堂（集团）有限责任公司党委书记、董事长王贵平一行，就进一步深化合作进行交流，达成广泛共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafq6094592.d.html</link>
-            <guid>3111092</guid>
-            <pubDate>Tue, 16 May 2023 15:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市政府召开常务会议，研究促进经济稳定增长、强化安全生产责任落实等事项】据北京日报，5月16日下午，北京市政府召开常务会议，研究促进经济稳定增长、强化安全生产责任落实等事项。市委副书记、市长殷勇主持会议。会议强调，要持续恢复和扩大消费，抓住夏季消费需求特点，加快文体娱乐、商务服务等业态发展，充分挖掘消费潜力，释放消费活力。加力推动金融业高质量发展，强化金融服务功能，用好用足政策工具，更大力度服务支持实体经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafu6533720.d.html</link>
-            <guid>3111091</guid>
-            <pubDate>Tue, 16 May 2023 15:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国软件巨头SAP将回购至多50亿欧元股票 将于今年下半年开始执行】德国软件巨头SAP将回购至多50亿欧元股票，将于2023年下半年开始执行；预计2025年总体营收将超过375亿欧元；预计2025年云营收将超过215亿欧元；预计2025年非IFRS运营利润大约115亿欧元，同期非IFRS云总体利润大约163亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafu6533418.d.html</link>
-            <guid>3111089</guid>
-            <pubDate>Tue, 16 May 2023 15:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【知名投资人El-Erian：美联储的利率和经济预测不切实际】 美联储官员3月发布的预测中值显示，决策者预计利率到年底将上升至5.1%，通胀率延续下行。但Gramercy Funds Management的董事长埃里安（Mohamed El-Erian）对此却只是半信半疑。埃里安表示：“对于美联储这种预测，我的评价就跟我过去几年对几乎每一个预测的评价一样：愿望美好，但不切实际”。他补充说，在全球经济疲软之际，美国消费状况好于预期，这使得很难确定利率与通胀的合适水平。美联储将在6月的政策会议上更新点阵图，但埃里安表示，美联储总是让市场“晕头转向”，因为决策者光依赖数据是“不够的”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafr3629627.d.html</link>
-            <guid>3111088</guid>
-            <pubDate>Tue, 16 May 2023 15:52:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌0.09%】欧洲主要股指集体收跌，德国DAX30指数跌0.09%，英国富时100指数跌0.34%，法国CAC40指数跌0.16%，欧洲斯托克50指数跌0.04%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafs9756037.d.html</link>
-            <guid>3111087</guid>
-            <pubDate>Tue, 16 May 2023 15:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泛欧交易所一季度营收3.723亿欧元，持平预期。一季度EBITDA 2.185亿欧元，预期2.147亿欧元。]]></title>
-            <guid>3111086</guid>
-            <pubDate>Tue, 16 May 2023 15:51:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖407亿美元52周国债（一年期票据），得标利率4.645%，投标倍数2.49（前次为2.97）。]]></title>
-            <guid>3111085</guid>
-            <pubDate>Tue, 16 May 2023 15:51:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX30指数5月16日（周二）收盘下跌14.99点，跌幅0.09%，报15902.25点；
-英国富时100指数5月16日（周二）收盘下跌26.82点，跌幅0.34%，报7750.88点；
-法国CAC40指数5月16日（周二）收盘下跌12.20点，跌幅0.16%，报7406.01点；
-欧洲斯托克50指数5月16日（周二）收盘下跌1.56点，跌幅0.04%，报4314.85点；
-西班牙IBEX35指数5月16日（周二）收盘下跌8.01点，跌幅0.09%，报9193.49点；
-意大利富时MIB指数5月16日（周二）收盘下跌34.46点，跌幅0.13%，报27211.00点。]]></title>
-            <guid>3111084</guid>
-            <pubDate>Tue, 16 May 2023 15:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利比亚总理巴沙加被停职并将移交司法调查】据央视新闻，当地时间5月16日，利比亚国民代表大会在其班加西总部举行闭门会议。会议以巴沙加政府未能履职为由，以多数票通过逮捕巴沙加并将其移交司法调查的决定，同时任命财政部长哈马德暂行总理职责。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafu6529679.d.html</link>
-            <guid>3111078</guid>
-            <pubDate>Tue, 16 May 2023 15:35:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖154天期国库券，得标利率5.075%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytzafr3620145.d.html</link>
-            <guid>3111076</guid>
-            <pubDate>Tue, 16 May 2023 15:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国DAX 30指数初步收跌0.12%，报15897.37点。法国股指初步收跌0.19%，意大利股指初步收跌0.14%，英国股指初步收跌0.40%。]]></title>
-            <guid>3111074</guid>
-            <pubDate>Tue, 16 May 2023 15:31:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲STOXX 600指数初步收跌0.44%，报464.62点。欧元区STOXX 50指数初步收跌0.02%，报4315.31点。富时泛欧绩优300指数初步收跌0.43%，报1838.75点。]]></title>
-            <guid>3111073</guid>
-            <pubDate>Tue, 16 May 2023 15:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储负责监管事务的副主席巴尔：美国的社区银行业务坚实，充满韧性。美联储正在仔细关注商业地产风险状况。]]></title>
-            <guid>3111072</guid>
-            <pubDate>Tue, 16 May 2023 15:26:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司官员Gruenberg：最近银行破产的核心问题在于监管机构未能强制要求银行解决短板问题。]]></title>
-            <guid>3111071</guid>
-            <pubDate>Tue, 16 May 2023 15:24:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[周二（5月16日），沙特证交所全股指数收跌0.22%，报11206.02点。土耳其伊斯坦布尔证交所全国100指数收涨1.97%，报4589.71点。伊斯坦布尔证交所银行指数收涨0.04%，报4189.20点。]]></title>
-            <guid>3111070</guid>
-            <pubDate>Tue, 16 May 2023 15:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其长期美元主权债券下跌2.5美分，因选举后的抛售加剧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxw6655455.d.html</link>
-            <guid>3111069</guid>
-            <pubDate>Tue, 16 May 2023 15:20:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丰田和斯巴鲁将扩大EV合作】丰田汽车和斯巴鲁将就纯电动汽车（EV）开发扩大合作。继2022年发售共同开发的首款EV之后，两家公司最快2025年将在日本推出新款运动型多功能车（SUV）。此外还考虑就在北美等地销售的其他EV展开合作。据相关人士称，最快2025年发售的新车型是以2022年推出的丰田品牌“bZ4X”和斯巴鲁品牌的“SOLTERRA”为基础进行开发。计划使其单次充电的行驶距离比据称559公里的bE4X更长，并扩大后备箱以提高使用便利度。考虑在斯巴鲁的矢岛工厂（群马县太田市）生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxs6204648.d.html</link>
-            <guid>3111066</guid>
-            <pubDate>Tue, 16 May 2023 15:12:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦存款保险公司官员Gruenberg：利率风险管理现在可能是银行监管者的“头等大事”。]]></title>
-            <guid>3111064</guid>
-            <pubDate>Tue, 16 May 2023 15:10:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：纳斯达克和摩根士丹利的CEO致信美国总统拜登，警告可能面临的违约风险。CEO们警告称，如果美国违约，将会出现“毁灭性的局面”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxw6651876.d.html</link>
-            <guid>3111061</guid>
-            <pubDate>Tue, 16 May 2023 15:07:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ServiceNow与微软构建合作伙伴关系，推出人工智能（AI）工具。ServiceNOW的客户将可以获得/接触到来自OpenAI的技术。]]></title>
-            <guid>3111058</guid>
-            <pubDate>Tue, 16 May 2023 15:03:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国司法部指控前苹果工程师窃取汽车技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxt3737303.d.html</link>
-            <guid>3111054</guid>
-            <pubDate>Tue, 16 May 2023 15:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南非电力短缺限制铂金供应量 全球铂金或出现严重短缺】据证券时报，世界铂金投资协会最新的一份研究报告指出，今年全球铂金可能会出现严重短缺。尽管从宏观角度看，2023年面临着利率环境不确定、银行业动荡、通胀等不利因素，但是世界铂金投资协会的最新报告指出，今年铂金市场可能会出现严重短缺，缺口可能会达到98.3万盎司，与该机构3月份的预测相比，上调了77%。铂金的供应主要有两个来源，一个是矿产，另一个是回收。其中，矿产供应主要集中在南非，占到了全球铂金供应的大约70%，但是今年南非的电力短缺严重限制了铂金的开采和提炼。今年一季度，南非的铂金产量同比下降了14%。同时，全球铂金的回收量也持续低迷，同比下降了12%。而需求端方面，铂金的需求主要来自四个领域：汽车、工业、首饰和投资。其中，汽车和工业领域的需求看到了强劲增长。世界铂金投资协会指出，2023年有望成为工业领域铂金需求创纪录的一年，同比或增长17%，主要是玻璃和医疗行业的铂金使用量会增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxu9872152.d.html</link>
-            <guid>3111051</guid>
-            <pubDate>Tue, 16 May 2023 14:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[硅谷银行前CEO：当我出售股票时并不知道公司陷入困境。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxu9871871.d.html</link>
-            <guid>3111050</guid>
-            <pubDate>Tue, 16 May 2023 14:56:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰最高法院院长因法官投不信任票而被罢免。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxu9871740.d.html</link>
-            <guid>3111048</guid>
-            <pubDate>Tue, 16 May 2023 14:55:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【耶伦在拜登和麦卡锡见面前夕发出警告：“时间不多了”】美国总统拜登周二与国会领袖就债务僵局举行会晤前，他的财政部长耶伦警告说，避免因举债上限无法提高而引发经济灾难的“时间不多了”。众议院议长麦卡锡周一晚也称：“我们可用来处理这个问题的时间也就这么多天了。”在两周内白宫的第二次会晤前，双方除了对大限的倒计时外几乎没有达成其它共识的迹象。虽然助手们已经进行了几天的谈判，但共和党人仍减持要求全面削减开支，而民主党则铁了心捍卫护总统的立法成就。“我们已经看到了接近边缘的影响：投资者更不愿意持有6月初到期的政府债了，” 耶伦周二在一个银行业会议上说，“僵局增加了美国纳税人的债务负担。”“国会不采取行动的每一天，我们都在经历经济成本上升，而这可能拖慢美国经济，” 耶伦说。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxt3736046.d.html</link>
-            <guid>3111046</guid>
-            <pubDate>Tue, 16 May 2023 14:55:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟举行财长会 未就第11轮对俄制裁达成一致】当地时间16日，欧盟经济和财政事务理事会举行会议，来自欧盟27个成员国的经济和财政部长在比利时首都布鲁塞尔就对俄罗斯制裁、银行危机管理等焦点问题展开讨论。在当天的会议上，欧盟各国并未就第11轮对俄制裁达成一致意见。当天的会议上，各国决定加强行政合作，防范数字资产被用作避税和税务欺诈。欧盟财长还就银行危机管理和存款保险框架提案展开讨论。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxu9871460.d.html</link>
-            <guid>3111045</guid>
-            <pubDate>Tue, 16 May 2023 14:54:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【对天然气价格上涨导致业绩下滑的风险提示不充分等，中自科技及实控人等遭上交所监管警示】5月16日，上交所对中自科技及时任董事长暨实际控制人陈启章，时任董事兼总经理李云，时任副总经理、董事会秘书兼财务总监龚文旭予以监管警示。公司2021年报披露的“销售费用——在用车售后服务费”中有产品安装费用167.99万元，系根据公司与第三方签订的委托安装协议,由第三方负责公司提供产品的售后安装服务而发生的费用，属于合同履约成本。上述费用应计入营业成本，但公司将其计入销售费用，相关信息披露不准确。综上，公司对天然气价格上涨导致业绩下滑的风险提示不充分，部分产品安装费披露不准确，违反了相关规定。]]></title>
-            <guid>3111044</guid>
-            <pubDate>Tue, 16 May 2023 14:54:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通：公司股东批准了所有的业务提案。所有董事会成员至少有91%的支除率。针对高管薪资的咨询解决方案获得了89%的支除率。]]></title>
-            <guid>3111043</guid>
-            <pubDate>Tue, 16 May 2023 14:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI CEO：我最担心的是科技会带来重大的伤害。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxs6196969.d.html</link>
-            <guid>3111042</guid>
-            <pubDate>Tue, 16 May 2023 14:51:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【裁员超1300人？福特中国：打造更精简灵活团队 确保业务可持续】近日，有消息称福特中国开始裁员，涉及人数超1300人，按照N+3来赔偿。5月16日，福特中国方面就此表示，“我们正将资源投入到具有优势的核心业务，通过一系列标志性品牌和产品，同时利用在华合作伙伴的综合能力，为中国乃至全球消费者带来更多、更好的产品，为利益攸关方创造更多的价值。” (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-16/detail-imytyvxs6196935.d.html</link>
-            <guid>3111041</guid>
-            <pubDate>Tue, 16 May 2023 14:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
