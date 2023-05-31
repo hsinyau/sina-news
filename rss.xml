@@ -4,11 +4,199 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 31 May 2023 18:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 21:03:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[离岸人民币（CNH）兑美元北京时间04:59报7.1192元，较周二纽约尾盘跌281点，盘中整体交投于7.0873-7.1341元区间。]]></title>
+            <guid>3129112</guid>
+            <pubDate>Wed, 31 May 2023 21:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹民航局宣布延长领空关闭时间至6月15日】据央视新闻，当地时间5月31日，苏丹民航局发布通告称，将苏丹全境领空的关闭时间延长至6月15日，但人道主义援助和外国公民撤离不受限制。苏丹武装部队与快速支援部队自4月15日起在喀土穆等地发生持续冲突，喀土穆国际机场的廊桥、大厅等在冲突中遭到破坏，苏丹民航局随后宣布关闭苏丹领空。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9867531.d.html</link>
+            <guid>3129111</guid>
+            <pubDate>Wed, 31 May 2023 21:01:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lucid集团：本公司增发股票。本公司预计将获得大约30亿美元融资，投资方包括沙特主权财富基金PIF。]]></title>
+            <guid>3129110</guid>
+            <pubDate>Wed, 31 May 2023 21:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌1.28%，报1644.79点，5月份累跌9.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9866601.d.html</link>
+            <guid>3129109</guid>
+            <pubDate>Wed, 31 May 2023 20:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：瑞士信贷特殊目的收购公司(SPAC)负责人据称将加入桑坦德银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3087420.d.html</link>
+            <guid>3129107</guid>
+            <pubDate>Wed, 31 May 2023 20:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收跌0.39%，报34.2点，5月份累计上涨14.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9863791.d.html</link>
+            <guid>3129105</guid>
+            <pubDate>Wed, 31 May 2023 20:38:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至5月26日当周API原油库存增加520.2万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnu9863106.d.html</link>
+            <guid>3129104</guid>
+            <pubDate>Wed, 31 May 2023 20:35:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院通过措施，在晚间就债务上限法案投票前进行一小时的辩论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmns0526835.d.html</link>
+            <guid>3129102</guid>
+            <pubDate>Wed, 31 May 2023 20:32:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：据悉Lucid Group公司正在筹集约30亿美元的资金，其中包括来自沙特阿拉伯的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnp9449809.d.html</link>
+            <guid>3129100</guid>
+            <pubDate>Wed, 31 May 2023 20:24:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[维多利亚的秘密一季度调整后EPS为0.28美元，分析师预期0.56美元。一季度净销售14.1亿美元，分析师预期14.3亿美元。维多利亚的秘密（VSCO）美股盘后下跌6.37%。]]></title>
+            <guid>3129098</guid>
+            <pubDate>Wed, 31 May 2023 20:16:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【CrowdStrike 一季度营收6.926 亿美元分析师预期6.769 亿美元】网络安全公司CrowdStrike一季度营收6.926亿美元，分析师预期6.769亿美元。预计全年营收30.0亿-30.4亿美元，公司原本预计29.6亿-30.1亿美元。预计二季度营收7.172亿-7.274亿美元，分析师预计7.191亿美元。CrowdStrike（CRWD）美股盘后跌超11.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnp9447357.d.html</link>
+            <guid>3129096</guid>
+            <pubDate>Wed, 31 May 2023 20:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺德斯特龙（Nordstrom）一季度净销售30.6亿美元，分析师预期30.5亿美元。一季度总体营收31.8亿美元，分析师预期31.2亿美元。维持全年营收预期在下滑4%-6%不变。诺德斯特龙（JWN）美股盘后涨2.68%。]]></title>
+            <guid>3129094</guid>
+            <pubDate>Wed, 31 May 2023 20:08:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Salesforce一季度营收82.5亿美元 分析师预期81.8亿美元】Salesforce一季度营收82.5亿美元，分析师预期81.8亿美元；仍然预测全年营收345亿美元至347亿美元；预计第二季度营收85.1亿美元至85.3亿美元；预计全年调整后每股收益7.41美元至7.43美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3081417.d.html</link>
+            <guid>3129093</guid>
+            <pubDate>Wed, 31 May 2023 20:07:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：福特汽车在美国本土及各海外领地召回14.5222万辆汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3081058.d.html</link>
+            <guid>3129092</guid>
+            <pubDate>Wed, 31 May 2023 20:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[身份云软件供应商Okta一季度营收5.18亿美元，分析师预期5.105亿美元。预计全年营收21.8亿-21.9亿美元，公司原本预计21.6亿-21.7亿美元。预计二季度营收5.33亿-5.35亿美元，分析师预期5.281亿美元。Okta（OKTA）美股盘后下跌12.09%。]]></title>
+            <guid>3129091</guid>
+            <pubDate>Wed, 31 May 2023 20:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  道琼斯指数5月31日（周三）收盘下跌131.88点，跌幅0.40%，报32910.90点；
+标普500指数5月31日（周三）收盘下跌22.77点，跌幅0.54%，报4182.75点；
+纳斯达克综合指数5月31日（周三）收盘下跌82.14点，跌幅0.63%，报12935.29点。]]></title>
+            <guid>3129089</guid>
+            <pubDate>Wed, 31 May 2023 20:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Advance Auto Parts（AAP）收跌35%，创该公司美国IPO以来最大单日跌幅，刷新2013年2月份以来收盘新低。]]></title>
+            <guid>3129088</guid>
+            <pubDate>Wed, 31 May 2023 20:03:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纽约玉米累涨超1%，小麦累跌超6%，大豆累跌超8%】周三（5月31日）纽约尾盘，谷物分类指数涨0.28%，报42.1647点，5月份累计下跌3.50%。CBOT玉米期货跌0.17%，报5.93美元/蒲式耳，美股开盘后曾跌至日低5.77-1/2美元，5月份累涨1.37%。CBOT小麦期货涨0.59%，报5.93-1/4美元/蒲式耳，5月份累跌6.27%。CBOT大豆期货涨0.29%，报12.99-1/2美元/蒲式耳，5月份累跌8.44%；豆粕期货涨0.10%，5月份累跌9.07%；豆油期货涨0.17%，5月份累跌10.48%。ICE原糖期货跌1.14%，5月份累跌7.22%；ICE白糖期货跌1.66%，5月份累跌约1.63%。ICE阿拉比卡咖啡期货涨0.85%，5月份累跌5.93%；咖啡“C”期货涨0.68%，5月份累跌3.95%。ICE棉花期货跌0.48%，5月份累涨3.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3078287.d.html</link>
+            <guid>3129082</guid>
+            <pubDate>Wed, 31 May 2023 19:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【傅聪大使会见欧洲议会外事委员会主席麦克阿里斯特】中国驻欧盟使团官微消息，2023年5月31日，中国驻欧盟使团团长傅聪大使会见欧洲议会外事委员会主席麦克阿里斯特，就中欧关系以及双方共同关心的问题深入交换了意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3076098.d.html</link>
+            <guid>3129078</guid>
+            <pubDate>Wed, 31 May 2023 19:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【促基建、稳增长 政策性金融工具加量呼声渐起】政策性开发性金融工具被视为带动重大项目建设、扩大有效投资的“关键一招”，自去年6月实施以来，已推动了一大批重大项目开工建设。针对眼下基建投资增速有所放缓这一现象，近期业内呼吁新出台一批政策性开发性金融工具，为稳基建稳投资保驾护航，以促进经济稳增长目标实现。两批共计7399亿元金融工具落地、2700多个项目全部开工建设……自去年6月政策性开发性金融工具设立以来，已为一大批重大基建项目进行了资本金补充，助力各地稳投资、拼经济。“去年基础设施基金投放的项目，提款进度基本和预期相符合，今年陆续在为项目提供配套贷款，项目总体上不缺资金。”一名政策性银行分行人士称。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtmnt3076045.d.html</link>
+            <guid>3129077</guid>
+            <pubDate>Wed, 31 May 2023 19:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝莱德集团全球固定收益业务首席投资官Rick Rieder：认为美国失业率处于低位的状态将维持一段时间。觉得当前美国经济状况良好。美联储可能会在2024年降息。]]></title>
+            <guid>3129076</guid>
+            <pubDate>Wed, 31 May 2023 19:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利股价延续跌势，日内跌2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9981785.d.html</link>
+            <guid>3129075</guid>
+            <pubDate>Wed, 31 May 2023 19:16:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【线上车险平台SunCar一度飙涨77%，该公司完成并购、实施私募配售、获得华兴资本加持】 汽车保险和售后服务在线平台SunCar Technology Group Inc. ADR（SDA）一度上涨将近76.86%，报34.47美元。周三（5月31日），媒体报道称，该公司完成与Goldenbridge Acquisition Limited.的合并交易。华兴资本在一份13D报告中称，持有该公司股权。另外一个激动人心的进展就是，该公司25日曾宣布2200万美元私募配售。]]></title>
+            <guid>3129072</guid>
+            <pubDate>Wed, 31 May 2023 19:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通资管：美国债券回报率有望接近“两位数”】 摩根大通资产管理的固定收益主管Bob Michele表示，美国国债收益率已经从2021年底的水平大幅回升，现在正是赚利息的好时候，预计未来一年彭博美元债指数将实现接近两位数的回报率”。鉴于“收益率上升”，他认为5年期美国国债有投资机会。其补充说，美国投资级公司债市场的收益率再次吸引了海外投资者。Michele同时却仍然预计，美国年底前将出现经济衰退，美联储9月开始降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfev3203431.d.html</link>
+            <guid>3129071</guid>
+            <pubDate>Wed, 31 May 2023 19:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两位美联储官员暗示6月暂不加息，拉低市场加息幅度预期】 在被提名继任美联储副主席的美联储理事Jefferson周三（5月31日）暗示美联储在下个月的会议上倾向于维持利率不变，之后费城联储主席哈克也表示美联储应该在6月份会议上跳过一次加息侯，互换合约反映的6月美联储会议加息幅度从周二收盘时的16个基点下跌至约10个基点，表明美联储仅有40%的概率会加息25个基点，对7月会议加息的预期为20个基点，低于之前的27个基点。在美联储两位官员讲话前后，6月OIS利率从约5.26%跌至盘中低点5.17%，使加息幅度的预期下降约9个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9979291.d.html</link>
+            <guid>3129069</guid>
+            <pubDate>Wed, 31 May 2023 18:59:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯外交部：德国关闭俄驻德4个领事馆的决定破坏两国关系】据央视新闻，当地时间5月31日，俄罗斯外交部就德国方面决定关闭俄驻德四个领事馆发表声明。俄罗斯外交部表示，德国方面的决定是不友好的，该决定进一步破坏了两国关系，德国方面应当为两国关系恶化负责任。俄罗斯外交部同时表示，俄罗斯方面会采取行动回应德国这种挑衅措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9978508.d.html</link>
+            <guid>3129068</guid>
+            <pubDate>Wed, 31 May 2023 18:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国将向乌克兰提供新一批军事援助】据央视新闻，当地时间5月31日，美国白宫国家安全委员会发言人约翰·柯比表示，美国将向乌克兰提供新一批军事援助物资，包括防空系统、“海马斯”火箭炮系统和反装甲系统所需的弹药。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfev3201181.d.html</link>
+            <guid>3129067</guid>
+            <pubDate>Wed, 31 May 2023 18:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议院民主党领袖舒默：希望批准债务上限协议的进程能越快越好。无法承担债务上限协议被修改，从而被发回众议院重新表决的代价。]]></title>
+            <guid>3129065</guid>
+            <pubDate>Wed, 31 May 2023 18:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥央行：美国经济衰退的风险有所增加，可能会对增长造成负面影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9976453.d.html</link>
+            <guid>3129064</guid>
+            <pubDate>Wed, 31 May 2023 18:44:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原油期货结算价跌约2% 5月累跌约10%】国际原油期货结算价跌约2%。WTI 7月原油期货收跌1.37美元，跌幅1.97%，报68.09美元/桶，主力连续合约5月份跌幅10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfew9976428.d.html</link>
+            <guid>3129063</guid>
+            <pubDate>Wed, 31 May 2023 18:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默表示，希望债务上限法案将于（当地时间）周三晚些时候提交参议院；参议院将会迅速通过债务上限法案。]]></title>
+            <guid>3129062</guid>
+            <pubDate>Wed, 31 May 2023 18:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【水网建设拉动龙头企业PCCP订单大增】据上证报，记者从多家管业龙头了解到，随着我国持续加大水利建设投资力度，作为上游管网管材的行业景气度明显提升，相关公司今年以来相继斩获大额订单，企业业绩可期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfer9537120.d.html</link>
+            <guid>3129056</guid>
+            <pubDate>Wed, 31 May 2023 18:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊将支付580万美元，以了结因其Ring门铃涉嫌侵犯用户隐私而遭到的来自美国联邦贸易委员会（FTC）的起诉。]]></title>
+            <guid>3129052</guid>
+            <pubDate>Wed, 31 May 2023 18:08:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国众议院两党领导人相信债务上限议案能够表决通过】美国共和党和民主党领导人均表示，在温和派的支持下，相信债务上限协议周三能够在众议院获得表决通过。众议院多数党党鞭Tom Emmer周三早些时候表示，他确信赞成票数足以让议案在众议院获得通过，并交送参议院投票。参议院的保守派人士可能要求对议案进行持续几天的辩论，但参议院的共和党二号人物John Thune周三表示，参议院有望到周五晚间通过法案，比最后大限日提前几天。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvtfev3191505.d.html</link>
@@ -142,205 +330,6 @@ LME期锡收跌107美元，报25454美元/吨。]]></title>
             <title><![CDATA[加密货币交易所Coincheck与美国特殊目的收购公司的并购交易最后期限被延后一年。]]></title>
             <guid>3129013</guid>
             <pubDate>Wed, 31 May 2023 16:25:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万兴科技加速AIGC布局，旗下墨刀上线AI功能】 近日，万兴科技旗下墨刀及其海外版Mockitt全球首发墨刀AI/Mockitt AI，上线AI生成原型页面、AI生成原型组件、AI文字智能填充、AI对话等功能。 全新墨刀AI为创作者提供更高效的解决方案，进一步减少创作者手动绘制原型的工作量，并保证组件的质量和一致性，助力产品设计进入智能化新时代。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsyww0700237.d.html</link>
-            <guid>3129011</guid>
-            <pubDate>Wed, 31 May 2023 16:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部称，俄罗斯4月GDP同比增长3.3％，上月修正后同比下降0.7％；1至4月GDP同比下降0.6%。]]></title>
-            <guid>3129009</guid>
-            <pubDate>Wed, 31 May 2023 16:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安哥拉原油出口量将在7月增至124万桶/日】 最新披露的计划表显示，非洲产油国安哥拉的原油出口量将在2023年7月攀升至124万桶/日，为 2020 年 10 月以来的最高水平。计划表显示，该国在7月将分40批次，总计出口3840万桶原油。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywz0077691.d.html</link>
-            <guid>3129008</guid>
-            <pubDate>Wed, 31 May 2023 16:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国得州3月份原油产量增长1.8%，至539.8万桶/日，为2020年3月以来的最高水平。]]></title>
-            <guid>3129007</guid>
-            <pubDate>Wed, 31 May 2023 16:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：多伦多道明银行旗下的投行Cowen关闭了其此前专注于加密货币的数字业务部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywx3298582.d.html</link>
-            <guid>3129006</guid>
-            <pubDate>Wed, 31 May 2023 16:05:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和欧洲大陆天然气期货5月份累跌超30%，欧盟碳税同期累跌超6%】周三（5月31日）欧市尾盘，ICE英国天然气期货涨6.89%，报61.560便士/千卡，5月份累计下跌大约30.20%。TTF基准荷兰天然气期货涨2.51%，报25.500欧元/兆瓦时，盘中交投于24.250-27.950欧元区间，5月份累跌约32.89%。ICE欧盟碳排放交易许可（期货价格）涨0.23%，报79.00欧元/吨，5月份累跌约6.28%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvsywz0075441.d.html</link>
-            <guid>3129005</guid>
-            <pubDate>Wed, 31 May 2023 16:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯4月零售销售同比增长7.4%，预期增长6.5%。3月实际薪资同比增长2.7%。4月失业率3.3%，预期3.5%。开年截至5月29日当周CPI上升2.27%。]]></title>
-            <guid>3129004</guid>
-            <pubDate>Wed, 31 May 2023 16:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚：仅有持股比重11%的股东投票支持“范围三”减排方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3296094.d.html</link>
-            <guid>3129001</guid>
-            <pubDate>Wed, 31 May 2023 15:56:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南钢股份：南钢集团请求法院确认对南京钢联60%股权享有优先购买权】 南钢股份上交所公告，南钢集团于5月22日向江苏省高级人民法院提交《有独立请求权第三人民事起诉状》，申请作为有独立请求权第三人加入 (2023)苏民初1号案件，并请求法院：确认南钢集团对于南京钢联60%股权（简称“标的股权”）享有优先购买权；确认复星方面（简称“转让方”）与南钢集团签订的《股权转让协议》合法有效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3295997.d.html</link>
-            <guid>3128999</guid>
-            <pubDate>Wed, 31 May 2023 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油公司雪佛龙：持股比例90%的股东都投票反对设立“范围三”碳减排目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0072238.d.html</link>
-            <guid>3128997</guid>
-            <pubDate>Wed, 31 May 2023 15:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌1.55%】欧洲主要股指集体收跌，德国DAX30指数跌1.55%，英国富时100指数跌1.07%，法国CAC40指数跌1.54%，欧洲斯托克50指数跌1.74%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3294440.d.html</link>
-            <guid>3128995</guid>
-            <pubDate>Wed, 31 May 2023 15:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  德国DAX30指数5月31日（周三）收盘下跌247.06点，跌幅1.55%，报15661.85点；
-英国富时100指数5月31日（周三）收盘下跌80.39点，跌幅1.07%，报7441.68点；
-法国CAC40指数5月31日（周三）收盘下跌111.05点，跌幅1.54%，报7098.70点；
-欧洲斯托克50指数5月31日（周三）收盘下跌74.63点，跌幅1.74%，报4216.95点；
-西班牙IBEX35指数5月31日（周三）收盘下跌116.43点，跌幅1.27%，报9051.07点；
-意大利富时MIB指数5月31日（周三）收盘下跌535.76点，跌幅2.02%，报26040.00点。]]></title>
-            <guid>3128994</guid>
-            <pubDate>Wed, 31 May 2023 15:41:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：瑞士信贷的多位银行家因瑞银集团在收购交易中取消了其业务奖金而发起诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsyww0679164.d.html</link>
-            <guid>3128992</guid>
-            <pubDate>Wed, 31 May 2023 15:40:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：丰田汽车在美国投资生产电动新能源汽车，并将新建电池工厂。预计将于2025年开始在肯塔基州组装纯电SUV汽车。其在北卡罗来纳州新建的电池工厂将投资21亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0069502.d.html</link>
-            <guid>3128991</guid>
-            <pubDate>Wed, 31 May 2023 15:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行行长乔丹：对存款流出的速度和规模感到担忧，这个问题需要得到关注。我们必须尽快将通胀率降至2%以下。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3292090.d.html</link>
-            <guid>3128990</guid>
-            <pubDate>Wed, 31 May 2023 15:33:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典商业地产公司北欧Samhalls建设公司集团（SBBB.SS）初步收跌27.71%，报3.48瑞典克朗，5月份累计下跌大约71.44%。]]></title>
-            <guid>3128989</guid>
-            <pubDate>Wed, 31 May 2023 15:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国创半导体将以2.04亿元台币把旗下的IC、SiC元件业务转让给鸿海】 鸿海与国巨表示，双方合资的国创半导体将以2.04亿元台币把旗下的集成电路(IC)和碳化硅元件/模组产品业务转让给鸿海新设立的IC设计子公司。鸿海将专注于车用IC，而国巨则专注于开发MOSFET产品。国巨和鸿海将分别把对国创半导体的持股比例调整至55%和45%。国巨董事长陈泰铭被任命为国创半导体与富鼎先进的董事长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0067453.d.html</link>
-            <guid>3128982</guid>
-            <pubDate>Wed, 31 May 2023 15:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行行长乔丹：加息对银行系统有利。加息不会损害瑞士的金融稳定性。瑞信事件不是加息引起的，而是市场参与者对该银行缺乏信任。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0067029.d.html</link>
-            <guid>3128981</guid>
-            <pubDate>Wed, 31 May 2023 15:25:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【概伦电子：即将推出更多型号和能力的半导体器件特性测试系统，该块业务仍具有较大市场潜力】 概伦电子近日接受机构调研时表示，高端半导体测试仪器是概伦电子以数据驱动EDA流程打造创新的DTCO解决方案的关键节点，半导体器件特性测试系统采集的数据是器件建模及验证EDA工具所需的数据来源，两者具有极强的协同效应。通过半导体器件特性测试系统与EDA工具的联动，能够打造以数据为驱动的EDA解决方案，紧密结合并形成业务链条，帮助晶圆厂客户有针对性的优化工艺平台的器件设计和制造工艺。同时，公司即将推出更多型号和能力的测试系统，支撑集成电路的先进工艺研发和大规模量产制造的测试需求，在此基础上，公司认为该块业务仍具有较大市场潜力。（界面）]]></title>
-            <guid>3128979</guid>
-            <pubDate>Wed, 31 May 2023 15:22:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院少数党领袖杰弗瑞斯：我将支持债务上限法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0065891.d.html</link>
-            <guid>3128977</guid>
-            <pubDate>Wed, 31 May 2023 15:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油巨头埃克森美孚：对于企业界而言，用“范围三标准”来衡量其碳排量是存在缺陷的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3288107.d.html</link>
-            <guid>3128976</guid>
-            <pubDate>Wed, 31 May 2023 15:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云从科技：目前基础部分的算力需求能够被基本满足】 云从科技近日在机构调研中表示，公司将结合客户实际需求，采用多种形式解决算力问题，包括但不限于自建、共建、合作、购买以及租用等方式。目前基础部分的算力需求能够被基本满足。（证券时报）]]></title>
-            <guid>3128975</guid>
-            <pubDate>Wed, 31 May 2023 15:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲央行行长德金多斯警告：金融市场很容易受到大幅抛售的影响】欧洲央行副行长金多斯表示，如果全球经济受到任何进一步冲击，金融市场都可能面临一场抛售潮。金多斯说：“市场有可能出现调整，原因是估值很高，而且如果你看看风险溢价，就会发现它们被压缩了，因此，万一我们在宏观经济前景方面有坏消息，可能会导致市场出现调整。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywx3287466.d.html</link>
-            <guid>3128973</guid>
-            <pubDate>Wed, 31 May 2023 15:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构（IAEA）：伊朗高浓缩铀储备在本季度增长了30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsywz0061039.d.html</link>
-            <guid>3128967</guid>
-            <pubDate>Wed, 31 May 2023 15:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国政府援助叙利亚225套简易板房完成交接】当地时间5月31日，中国政府援助叙利亚的225套简易板房交接仪式在叙首都大马士革举行，中国驻叙利亚大使史宏微、叙利亚地方管理与环境部部长马赫鲁夫等出席。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3412791.d.html</link>
-            <guid>3128962</guid>
-            <pubDate>Wed, 31 May 2023 14:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[投资银行Lazard候任CEO：资产管理业务仍有上行潜力，公司已做好应对任何交易市场环境的准备。美国的财政问题对于经济而言是“蛀食根基的白蚁”。]]></title>
-            <guid>3128961</guid>
-            <pubDate>Wed, 31 May 2023 14:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【极氪两个副总裁业务对调】从多方独立信源获悉，近期，极氪进行了一次组织调整，原本负责 “用户增长” 业务的副总裁赵昱辉和负责 “用户发展” 的副总裁林金文的业务互换，赵昱辉将负责用户发展，林金文负责用户增长。调整现已进入稳定期。据知情人士介绍，极氪的用户发展业务侧重品牌，“要耐心种树”，用户增长业务侧重销售，“要收获果子”。一位接近极氪的人士表示，极氪现行组织架构已经两年没有大的变动，这次调整 “是对业务的新一轮鞭策。” 也有知情人士将这次的变动视为一次 “内部轮岗”。（晚点latepost）]]></title>
-            <guid>3128960</guid>
-            <pubDate>Wed, 31 May 2023 14:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原小鹏互联网中心副总经理刘凡凡加入蔚来】从多方独立信源处获悉，原小鹏汽车互联网中心副总经理刘凡凡已加入蔚来，担任导航与位置服务部门的负责人，向蔚来汽车数字座舱与软件开发副总裁张磊汇报。刘凡凡同时还是蔚来 NT3.0 平台车型智能座舱交付的负责人。（晚点latepost）]]></title>
-            <guid>3128959</guid>
-            <pubDate>Wed, 31 May 2023 14:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰将可史上首次完全以国家安全为由限制外国投资或并购】根据荷兰周三宣布的立法，如果某项交易引发了国家安全担忧，荷兰将首次能够阻止外国公司收购在关键领域运营的荷兰公司。这份名为《投资、兼并与收购安全测试法案》的立法将于周四生效，该法案将允许荷兰政府完全以国家安全为由来限制投资规模或阻止交易。根据国防部网站上的声明显示，该立法旨在保护“知识密集型公司免受不必要的知识转移"。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0188256.d.html</link>
-            <guid>3128958</guid>
-            <pubDate>Wed, 31 May 2023 14:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑巴西雷亚尔USD/BRL涨至5.10，为3月以来最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0187491.d.html</link>
-            <guid>3128957</guid>
-            <pubDate>Wed, 31 May 2023 14:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【能链智电ADS完成增发，投资方包括郑志刚、中誉集团等】据上证报，5月31日，中国充电服务第一股能链智电公告显示，完成350万股美国存托股票（ADS）增发交易，投资人包括郑志刚及港股老牌上市公司中誉集团等。此次投资为郑志刚少有的以个人名义对企业进行的直接投资，说明其对新能源赛道和能链智电的青睐。之前郑志刚曾投资蔚来、小鹏等造车新势力，也曾投资美团等互联网企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqz3409291.d.html</link>
-            <guid>3128956</guid>
-            <pubDate>Wed, 31 May 2023 14:41:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  美国参议院少数党领袖麦康奈尔表示，债务上限协议取得了进展；为支持债务上限协议而感到自豪。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqv9708638.d.html</link>
-            <guid>3128954</guid>
-            <pubDate>Wed, 31 May 2023 14:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【挪威国家石油公司：对管道进行了安全检查 一切正常】能源巨头挪威国家石油公司（Equinor）的一位高管表示，在北溪管道爆炸后，对挪威海上天然气管道的安全检查没有发现任何“可疑之处”，一切正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsurc0185619.d.html</link>
-            <guid>3128953</guid>
-            <pubDate>Wed, 31 May 2023 14:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世茂集团：2022年营收368.804亿元人民币，2021年726.428亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-05-31/detail-imyvsuqv9708457.d.html</link>
-            <guid>3128952</guid>
-            <pubDate>Wed, 31 May 2023 14:36:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
