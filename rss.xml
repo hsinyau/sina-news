@@ -4,11 +4,247 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 01 Jun 2023 18:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 21:03:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)：仍然预计全年销售额将下降约15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvuts8843874.d.html</link>
+            <guid>3130556</guid>
+            <pubDate>Thu, 01 Jun 2023 21:00:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大养老金CPP Investments寻求出售价值30亿美元的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvuts8843862.d.html</link>
+            <guid>3130555</guid>
+            <pubDate>Thu, 01 Jun 2023 21:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)：预计第二季度基础设施销售将继续下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvuts8843813.d.html</link>
+            <guid>3130554</guid>
+            <pubDate>Thu, 01 Jun 2023 21:00:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露柠檬：预计2023年将在美国以外市场新开30-35家门店。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvutr2066288.d.html</link>
+            <guid>3130553</guid>
+            <pubDate>Thu, 01 Jun 2023 20:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[产业数据公司Wards Intelligence：美国5月份轻型车销量为140万辆。]]></title>
+            <guid>3130552</guid>
+            <pubDate>Thu, 01 Jun 2023 20:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)预计第二季度营收为202亿美元至212亿美元，市场预期为211亿美元。]]></title>
+            <guid>3130551</guid>
+            <pubDate>Thu, 01 Jun 2023 20:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部称，财长耶伦向即将上任的世界银行行长彭安杰重申，有必要动员更多私人资本，与姊妹开发银行更密切地合作。]]></title>
+            <guid>3130547</guid>
+            <pubDate>Thu, 01 Jun 2023 20:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：墨西哥湾东北部附近的飓风系统将于周五晚上开始减弱，并于周六减弱为残余低气压。]]></title>
+            <guid>3130546</guid>
+            <pubDate>Thu, 01 Jun 2023 20:48:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI“iPhone时刻”已至 产业链公司抢跑】一个聊天工具，可能引发一场产业革命。今年初，ChatGPT3.5横空出世，全球人工智能领域热潮涌动，连英伟达创始人兼首席执行官黄仁勋也不禁感叹：AI的“iPhone时刻”到了。“两年内国内会出现类ChatGPT，应用更有创意”“智能化时代将开启服务器芯片的大发展，未来3年将是新一轮洗牌期”“AI奇点到来，从交换机到高端AI服务器，再到云计算和数据中心都将进入新增长周期”——近日，由广发证券与上海证券报联合主办的“对话掌门人”精品上市公司交流会上，来自芯原股份、工业富联、杰华特、胜宏科技等科技公司的掌门人畅谈AI“iPhone时刻”机遇。大模型热潮下，产业链上多家上市公司凭借“硬实力”奔跑在铸牢AI产业底座的路上，为后续的大模型及应用落地打下坚实基础。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvutr2063927.d.html</link>
+            <guid>3130544</guid>
+            <pubDate>Thu, 01 Jun 2023 20:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部称，财长耶伦向即将上任的世界银行行长Ajay Banga提出继续执行20国集团的资本充足率建议，以“最大限度地利用银行的资产负债表”。]]></title>
+            <guid>3130543</guid>
+            <pubDate>Thu, 01 Jun 2023 20:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特对苏丹冲突双方违反停火协议表示关切】当地时间6月1日，沙特外交部发表声明称，苏丹武装部队和快速反应部队严重违反停火协议，这给苏丹民众造成巨大伤害，阻碍人道主义救援和苏丹重要基础服务恢复。沙特外交部发表的声明称，希望苏丹冲突双方以实际行动遵守还在有效期内的停火协议，恢复中断的谈判并以协商的形式化解冲突，支持帮助苏丹民众的人道主义援助工作。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvutm8652471.d.html</link>
+            <guid>3130540</guid>
+            <pubDate>Thu, 01 Jun 2023 20:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数量增、规模减 公募FOF发行面临新挑战】5月以来，基金发行步入冰点，公募FOF发行也陷入“数量增、规模减”的境地。截至5月底，半年不到，今年以来新发公募FOF数量达61只，从数量占比来看，与去年全年的140只似乎相差不大，但整体规模却在不断流失。从一季报公开数据来看，公募FOF的总规模为1894亿元，相较去年四季度末下降了25亿元；而今年以来新发的FOF中有近半数采取了发起式的做法，显示产品发行难度在不断增加。在业内人士看来，平淡的业绩、模糊的定位和与投资者风险偏好的错位，是公募FOF受投资人冷落的关键原因。如何在业绩包括自身定位上寻找到差异化的竞争优势，改变并提振这类产品，已经成为值得行业深思的问题。 (上证报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8969045.d.html</link>
+            <guid>3130538</guid>
+            <pubDate>Thu, 01 Jun 2023 20:26:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云计算公司Pagerduty（PD）美股盘后下跌17%，该公司下调全年销售预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmt2191073.d.html</link>
+            <guid>3130537</guid>
+            <pubDate>Thu, 01 Jun 2023 20:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通(AVGO.O)2023财年Q2 EPS：前值$5.93，预期$8.212，公布$8.15。]]></title>
+            <guid>3130536</guid>
+            <pubDate>Thu, 01 Jun 2023 20:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博通(AVGO.O)2023财年Q2 营收（亿美元）：前值81.03，预期89.15，公布87.33。]]></title>
+            <guid>3130535</guid>
+            <pubDate>Thu, 01 Jun 2023 20:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【硅片龙头降价你追我赶 下游亦难独善其身】时隔三周，硅片龙头TCL中环于6月1日再度下调硅片报价，不同尺寸的硅片价格相对于5月11日的报价下调16%~24%。就在本周一，另一家硅片龙头隆基绿能也更新了硅片报价。InfoLink提出，悲观预计在现有背景下，硅料库存将在6月环比继续增加。同时，个别硅料企业迫于库存压力，急于出货的心态增强，价格方面的让步幅度较大。在上游价格大幅走低的情况下，下游电池、组件也难以独善其身。其中，182、210电池本周跌价幅度分别达到3.3%与2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8967922.d.html</link>
+            <guid>3130534</guid>
+            <pubDate>Thu, 01 Jun 2023 20:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客5月同店销售下滑0.3%，分析师预期增长0.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmt2190027.d.html</link>
+            <guid>3130533</guid>
+            <pubDate>Thu, 01 Jun 2023 20:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[云端运算安全公司Zscaler第三财季营收4.188亿美元，分析师预期4.171亿美元。维持全年营收指引在15.9亿美元左右。预计第四财季营收4.29亿-4.31亿美元，分析师预期4.266亿美元。Zscaler（ZS）美股盘后一度下跌4.13%。]]></title>
+            <guid>3130532</guid>
+            <pubDate>Thu, 01 Jun 2023 20:16:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露柠檬一季度净营收20.0亿美元，分析师预期19.3亿美元。露露柠檬（LULU）美股盘后涨5.59%。]]></title>
+            <guid>3130528</guid>
+            <pubDate>Thu, 01 Jun 2023 20:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C3.ai收跌13.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8964745.d.html</link>
+            <guid>3130527</guid>
+            <pubDate>Thu, 01 Jun 2023 20:02:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纳指收涨超1%，中概股集体走强】美股收盘，道指初步收涨约150点或0.47%、纳指收涨1.28%、标普500指数涨0.99%。中概股走强，纳斯达克中国金龙指数收涨4.0%，其中电商股表现最佳，阿里巴巴、拼多多和京东收于4%-6%之间。苹果、特斯拉收涨超1%，法拉第未来收跌超11%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8964721.d.html</link>
+            <guid>3130526</guid>
+            <pubDate>Thu, 01 Jun 2023 20:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对冲基金Coatue的净值在5月份增长6%，其所持有的英伟达与特斯拉股票出现上涨。]]></title>
+            <guid>3130520</guid>
+            <pubDate>Thu, 01 Jun 2023 19:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：全球信贷紧缩使美国中型企业面临风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8957596.d.html</link>
+            <guid>3130514</guid>
+            <pubDate>Thu, 01 Jun 2023 19:20:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在戴尔科技财报发布后，惠普（HPQ）股价上涨1.7%，惠普企业（HPE）股价上涨3%，分别触及日内高点。]]></title>
+            <guid>3130512</guid>
+            <pubDate>Thu, 01 Jun 2023 19:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务院：将停止向俄罗斯提供美国洲际弹道导弹和潜射弹道导弹发射的遥测数据，美国采取这些措施是对俄罗斯“持续违反”新削减战略武器条约的回应。]]></title>
+            <guid>3130511</guid>
+            <pubDate>Thu, 01 Jun 2023 19:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宾夕法尼亚大学沃顿商学院教授Jeremy Siegel：当前美联储利率水平已过高，令就业市场良好状态难以维持，人工智能（AI）概念股票尚未出现泡沫。]]></title>
+            <guid>3130510</guid>
+            <pubDate>Thu, 01 Jun 2023 19:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔科技财年一季度净营收209亿美元，预期261亿美元。财年一季度季调后每股收益1.31美元，预期0.85美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8954269.d.html</link>
+            <guid>3130508</guid>
+            <pubDate>Thu, 01 Jun 2023 19:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：美国银行在今年五月份只招了600到700人，较2022年的人数有所下降；随着员工流失率的下降，本行的招聘也在减少。]]></title>
+            <guid>3130506</guid>
+            <pubDate>Thu, 01 Jun 2023 18:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：第二季度投行业务的费用可能会在10亿美元左右的低水平范围内。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmt2175339.d.html</link>
+            <guid>3130505</guid>
+            <pubDate>Thu, 01 Jun 2023 18:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特阿美公司本周与若干土耳其承包商进行了接触，讨论沙特潜在的500亿美元建筑项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8952604.d.html</link>
+            <guid>3130504</guid>
+            <pubDate>Thu, 01 Jun 2023 18:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利总统博里奇：政府将于7月再次推动被否决的税收改革法案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmr9821474.d.html</link>
+            <guid>3130503</guid>
+            <pubDate>Thu, 01 Jun 2023 18:52:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟监管机构表示，欧盟将在6月底对推特的内容审核进行压力测试。欧盟方面的团队将在推特总部进行自愿性压力测试，以评估推特的处理方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8952479.d.html</link>
+            <guid>3130502</guid>
+            <pubDate>Thu, 01 Jun 2023 18:52:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前5个月交易所债市融资超2万亿元 优质主体发行份额将进一步提升】今年以来，在流动性合理充裕背景下，交易所债市发行持续回暖。数据显示，今年前5个月，交易所债券市场发行规模2.34万亿元（含公司债、ABS），同比增长20.5%。受访专家表示，今年以来，交易所债市发行规模提升，除了市场流动性合理充裕，还有投资者对债市配置需求提升以及经济弱复苏等因素影响。预计全年发行将保持温和增长态势，优质主体发行份额将进一步提升。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8950223.d.html</link>
+            <guid>3130500</guid>
+            <pubDate>Thu, 01 Jun 2023 18:43:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：本季度贷款增长将保持平稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8950203.d.html</link>
+            <guid>3130499</guid>
+            <pubDate>Thu, 01 Jun 2023 18:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：随着美联储的行动，资金正在流向货币市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmt2172240.d.html</link>
+            <guid>3130497</guid>
+            <pubDate>Thu, 01 Jun 2023 18:39:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：美国银行的存款情况将与其他大行差不多。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8949516.d.html</link>
+            <guid>3130496</guid>
+            <pubDate>Thu, 01 Jun 2023 18:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党参议员迈克·布劳恩：将投票反对债务上限协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8949299.d.html</link>
+            <guid>3130495</guid>
+            <pubDate>Thu, 01 Jun 2023 18:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：餐饮支出同比增长从17%降至3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmr9816282.d.html</link>
+            <guid>3130494</guid>
+            <pubDate>Thu, 01 Jun 2023 18:35:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行CEO：美国消费者支出正在放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmu8948747.d.html</link>
+            <guid>3130493</guid>
+            <pubDate>Thu, 01 Jun 2023 18:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[亚马逊的北美运营主管离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvqmp8738692.d.html</link>
+            <guid>3130490</guid>
+            <pubDate>Thu, 01 Jun 2023 18:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：苹果(AAPL.O)计划在上海、伦敦、迈阿密等地开设新店，其将推动零售业务深入中国和印度。]]></title>
+            <guid>3130488</guid>
+            <pubDate>Thu, 01 Jun 2023 18:23:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 6月黄金期货收涨0.72%，报1978.00美元/盎司。COMEX 8月黄金期货收涨0.67%，报1995.50美元/盎司。]]></title>
+            <guid>3130483</guid>
+            <pubDate>Thu, 01 Jun 2023 18:08:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[阿根廷布宜诺斯艾利斯谷物交易所：阿根廷大豆产量预期2100万吨，与之前预期持平；阿根廷玉米产量预期3600万吨，与之前预期持平；当前大豆采收完成度86.9%，玉米采收完成度28.6%，小麦种植完成度6.3%。]]></title>
             <guid>3130482</guid>
@@ -136,276 +372,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2290564.d.html</link>
             <guid>3130457</guid>
             <pubDate>Thu, 01 Jun 2023 17:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：除非数据出现意外情况，我的倾向是跳过加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2290342.d.html</link>
-            <guid>3130456</guid>
-            <pubDate>Thu, 01 Jun 2023 17:23:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：让我们跳过一次加息，再看看情况如何发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcr8853576.d.html</link>
-            <guid>3130455</guid>
-            <pubDate>Thu, 01 Jun 2023 17:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：我认为我们至少应该跳过6月份的加息，在6月跳过加息是审慎的政策选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2290007.d.html</link>
-            <guid>3130454</guid>
-            <pubDate>Thu, 01 Jun 2023 17:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：短期来看，我们似乎已经解决了债务上限危机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9067132.d.html</link>
-            <guid>3130453</guid>
-            <pubDate>Thu, 01 Jun 2023 17:22:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：低薪劳动力承受着高通胀的主要冲击，该群体也将承受失业率升高的主要冲击。]]></title>
-            <guid>3130452</guid>
-            <pubDate>Thu, 01 Jun 2023 17:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：倾向于把目光投向整体通胀数据之外。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9067059.d.html</link>
-            <guid>3130451</guid>
-            <pubDate>Thu, 01 Jun 2023 17:22:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股英伟达盘中涨超5%】 美股英伟达盘中上涨5.05%，现报397.431美元，当前市值为9816.55亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkct9924523.d.html</link>
-            <guid>3130450</guid>
-            <pubDate>Thu, 01 Jun 2023 17:20:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：黑天鹅事件也对通胀上行风险有影响；除非有黑天鹅事件发生，否则我们预计通胀将在未来几年“逐步下降”到2%。]]></title>
-            <guid>3130449</guid>
-            <pubDate>Thu, 01 Jun 2023 17:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：工资数据的修正显示出降温趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9066231.d.html</link>
-            <guid>3130448</guid>
-            <pubDate>Thu, 01 Jun 2023 17:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【150家期货公司4月份实现净利近6亿元，同比增超两成】中国期货业协会最新数据显示，4月份150家期货公司合计实现净利近6亿元，同比增幅为22.44%，但环比则大幅下降45.75%；同时，150家期货公司前4个月合计净利润近30亿元，较去年同期也有所下降。多位业内人士表示，4月份全市场成交量环比下滑，期货公司整体经营情况也有不同程度下降，例如净资本、营业收入和手续费收入等，环比均有不同程度的走低，这直接导致期货公司整体净利润环比下滑，但从同比来看，仍实现较好增长，反映了行业整体发展仍处良好态势中。同时，基于对今年客户权益和成交量的扩容预期，期货公司全年经营情况仍较乐观。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2288816.d.html</link>
-            <guid>3130446</guid>
-            <pubDate>Thu, 01 Jun 2023 17:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西财长Haddad：预计今年的经济增长将达到2%，GDP增速符合财政部的预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9065153.d.html</link>
-            <guid>3130444</guid>
-            <pubDate>Thu, 01 Jun 2023 17:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：法国和德国敦促科索沃和塞尔维亚领导人尽快在受动乱影响的地区组织新的选举。]]></title>
-            <guid>3130443</guid>
-            <pubDate>Thu, 01 Jun 2023 17:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：乌克兰目前现在还不能成为北约成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcr8841322.d.html</link>
-            <guid>3130442</guid>
-            <pubDate>Thu, 01 Jun 2023 17:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：正与德国密切合作，为乌克兰提供安全保障，下周二将前往德国。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcr8840244.d.html</link>
-            <guid>3130441</guid>
-            <pubDate>Thu, 01 Jun 2023 17:02:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：看到美联储加息正在起作用的可喜迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkct9914625.d.html</link>
-            <guid>3130439</guid>
-            <pubDate>Thu, 01 Jun 2023 17:02:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：预计2023年GDP增长率低于1%，失业率将上升至4.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2285796.d.html</link>
-            <guid>3130436</guid>
-            <pubDate>Thu, 01 Jun 2023 17:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：预计今年通胀率将降至约3.5％，明年降至2.5％，并在2025年达到美联储的2％目标。]]></title>
-            <guid>3130435</guid>
-            <pubDate>Thu, 01 Jun 2023 17:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：美联储接近能够维持利率不变的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2285629.d.html</link>
-            <guid>3130434</guid>
-            <pubDate>Thu, 01 Jun 2023 17:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储哈克：密切关注数据，以评估是否需要进一步的政策收紧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2285567.d.html</link>
-            <guid>3130433</guid>
-            <pubDate>Thu, 01 Jun 2023 17:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：目前与俄罗斯总统普京进行对话不在议程之中。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9062399.d.html</link>
-            <guid>3130431</guid>
-            <pubDate>Thu, 01 Jun 2023 16:58:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：不排除与俄罗斯总统普京进行对话。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2284932.d.html</link>
-            <guid>3130430</guid>
-            <pubDate>Thu, 01 Jun 2023 16:57:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：与德国总理朔尔茨进行了通话，与科索沃和塞尔维亚领导人讨论了科索沃局势；与朔尔茨和当地领导人达成共识，未来几周将针对科索沃局势作出明确决定。]]></title>
-            <guid>3130428</guid>
-            <pubDate>Thu, 01 Jun 2023 16:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：瑞典将会尽快加入北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2284349.d.html</link>
-            <guid>3130427</guid>
-            <pubDate>Thu, 01 Jun 2023 16:54:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：美国将不会动摇对乌克兰的支持，将始终维护民主国家的权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2283918.d.html</link>
-            <guid>3130425</guid>
-            <pubDate>Thu, 01 Jun 2023 16:51:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登：气候变化和人工智能方面的挑战是我们面临的重要问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2283226.d.html</link>
-            <guid>3130423</guid>
-            <pubDate>Thu, 01 Jun 2023 16:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车与丰田汽车确认跟墨西哥官员举行了会谈，当前暂无在该国投资的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2283184.d.html</link>
-            <guid>3130422</guid>
-            <pubDate>Thu, 01 Jun 2023 16:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【百亿私募亏逾18%！量化CTA策略“行业性翻车”】今年3月以来，全球及国内商品期货市场走出一轮明显的趋势性行情。在此背景下，国内量化CTA策略始于2022年6月的行情性业绩低潮，却“低迷依旧”。第三方机构数据显示，截至5月26日，多家30亿元以上规模的主流量化私募CTA策略产品，今年以来均“续亏”10%左右，更有某百亿私募旗下代表产品5个月已亏超18%。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9059373.d.html</link>
-            <guid>3130420</guid>
-            <pubDate>Thu, 01 Jun 2023 16:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：荷兰计划购买数十辆豹1型坦克供乌克兰使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9058622.d.html</link>
-            <guid>3130418</guid>
-            <pubDate>Thu, 01 Jun 2023 16:36:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【买车容易修车难！新能源汽修人才缺口率或达80%】近几年，新能源汽车产业驶入发展快车道，购置一台新能源车成为近几年的新潮流。不少消费者表示，买车容易修车难，有时甚至需要辗转多地才能找到汽车故障点。工信部发布的《制造业人才发展规划指南》指出，到2025年，节能与新能源汽车的人才总量预计达到120万人，但人才缺口预计可达103万人。其中，新能源汽车维修领域将面临80%的人才空白。在此背景下，很多院校也专门开设新能源汽修专业，为行业输送更多的对口人才。专家认为，在电动化、网联化、智能化的大趋势下，新能源汽车的人才培养需要更多地与行业接轨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcv2279191.d.html</link>
-            <guid>3130415</guid>
-            <pubDate>Thu, 01 Jun 2023 16:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：对黑海谷物倡议的实施进展持续放缓感到担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9055317.d.html</link>
-            <guid>3130414</guid>
-            <pubDate>Thu, 01 Jun 2023 16:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【基金卖不动了？业内人士：低点或为转机】5月以来，持有期混合型基金募集失败、募集延长、踩线成立等情况频频发生。在基金发行遇冷的当下，由于流动性较差，持有期基金似乎更加“难过”。与此同时，广发基金、天弘基金、华泰柏瑞基金、泉果基金等公募机构顶住压力，部分持有期混合型基金的新发规模守住15亿元“阵地”。业内人士提示，一般市场处于低迷时，新基金不好发，但此时入市或许更容易获得长期超额收益。并且，持有期基金可以避免投资者受行情影响，还方便基金经理贯彻实施既定投资策略，因此当下或为布局持有期基金的时点。（中证报）]]></title>
-            <guid>3130413</guid>
-            <pubDate>Thu, 01 Jun 2023 16:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典商业地产公司北欧Samhalls建设公司集团（SBBB.SS）收跌0.98%，报3.441瑞典克朗，延续5月31日跌27.71%、5月份累跌69.94%的表现，该公司创始人兼CEO Ilija Batljan本周已经前往英国伦敦金融城，希望找到投资人，以便拯救自己130亿美元规模的“房产帝国”。]]></title>
-            <guid>3130411</guid>
-            <pubDate>Thu, 01 Jun 2023 16:12:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：06月02日00时00分在新疆阿克苏地区柯坪县发生3.6级地震，震源深度13千米。]]></title>
-            <guid>3130410</guid>
-            <pubDate>Thu, 01 Jun 2023 16:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中储粮3000多台粮机装备驰援河南夏收】中储粮紧急出动3000多台粮机装备驰援河南应对严重“烂场雨”天气，做好夏粮收购，帮助粮农减损。]]></title>
-            <guid>3130409</guid>
-            <pubDate>Thu, 01 Jun 2023 16:06:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方多地高温导致用电负荷持续走高】随着南方多地气温不断攀升，区域用电负荷持续走高。6月1日据南方电网消息，5月31日，南方电网最高电力负荷达2.22亿千瓦，接近历史最高水平。数据显示，5月30日，广州电网用电负荷今年以来首次突破2000万千瓦，达2115.1万千瓦，同比增长超20%。广州供电局相关负责人表示，当下工业用电高峰和制冷设备用电需求激增，共同导致电网负荷不断攀升。南方电网公司市场营销部经理王一表示，这次在广东、广西用电高峰期，通过市场竞价机制，使得云南、贵州的水火电机组提供了近400万千瓦的备用电力，有力支援了广东、广西的电力供应。]]></title>
-            <guid>3130406</guid>
-            <pubDate>Thu, 01 Jun 2023 16:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩军队在黎以临时边界提高戒备】当地时间6月1日，黎巴嫩国家通讯社报道称，黎军当天在黎巴嫩和以色列临时边界地带提高戒备，部署军用车辆和设备，以应对以色列巡逻队试图强拆黎军帐篷的行为。黎军称帐篷位于黎巴嫩领土内，而负责维持黎以临时边界安全的联合国驻黎巴嫩临时部队（联黎部队）转述以色列巡逻队的说法称，帐篷在以色列境内。据悉，对峙地点位于萨巴阿农场附近，以军部署了数十辆装甲车和坦克。联黎部队正在努力遏制紧张局势升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-02/detail-imyvvkcw9050377.d.html</link>
-            <guid>3130405</guid>
-            <pubDate>Thu, 01 Jun 2023 16:03:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今日重点关注的财经数据与事件：2023年6月2日 周五① 01:00 美联储哈克就经济前景发表讲话② 14:45 法国4月工业产出月率③ 20:30 美国5月失业率④ 20:30 美国5月季调后非农就业人口⑤ 次日01:00 美国至6月2日当周石油钻井总数。]]></title>
-            <guid>3130401</guid>
-            <pubDate>Thu, 01 Jun 2023 16:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京市金融监管局：同意拉卡拉小贷不再从事小额贷款业务】5月31日，北京市地方金融监督管理局发布《关于同意北京拉卡拉小额贷款有限责任公司不再从事小额贷款业务的批复》。企查查显示，北京拉卡拉小额贷款有限责任公司成立于2015年6月16日，注缴与实缴均为2亿元，注册地位于北京市海淀区。北京利达廉美科贸有限公司全资控股拉卡拉小贷。从经营范围看，拉卡拉小贷仅在北京市区域范围内发放贷款。而通过企查查股权穿透看，拉卡拉集团董事长孙陶然系拉卡拉小贷的最终受益所有人，最终受益股份比例为33%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvvkcw9048876.d.html</link>
-            <guid>3130399</guid>
-            <pubDate>Thu, 01 Jun 2023 15:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商品货币纽元/美元日内涨幅达1.0%，报0.6075。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvvcvx2402221.d.html</link>
-            <guid>3130398</guid>
-            <pubDate>Thu, 01 Jun 2023 15:56:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【95亿！48家房企争抢北京4宗地，2宗未开拍已封顶】6月1日，北京有4宗宅地进行现场竞价。据了解，本次共吸引48个主体单位参与竞拍，4宗地总成交金额为95.2亿元，平均溢价率10.1%。其中，顺义2宗宅地未开拍已封顶。据中原地产研究院统计，北京历史上，超过20家以上房企参与竞买土地的情况只有4次，其中3次出现在2023年；超过10家以上房企参与竞买土地的情况有74次，6月1日就有3次。部分开发企业表示，今年以来，北京转变为“多频少量”的供地方式，使得企业在资金安排上更加从容，同时推出多宗优质地块，为市场主体建设高品质项目创造条件。北京市规划和自然资源局表示，6月北京市土地市场将陆续成交20宗商品住宅项目。部分开发企业表示，今年以来，北京转变为“多频少量”的供地方式，使得企业在资金安排上更加从容，同时推出多宗优质地块，为市场主体建设高品质项目创造条件。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvvcvx2401505.d.html</link>
-            <guid>3130397</guid>
-            <pubDate>Thu, 01 Jun 2023 15:52:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truist Securities：将爱彼迎(ABNB.O)目标价从130美元下调至116美元。]]></title>
-            <guid>3130393</guid>
-            <pubDate>Thu, 01 Jun 2023 15:44:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rosenblatt：将CrowdStrike(CRWD.O)目标价从170美元上调至175美元。]]></title>
-            <guid>3130392</guid>
-            <pubDate>Thu, 01 Jun 2023 15:43:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[富国银行：将CrowdStrike(CRWD.O)目标价从165美元上调至175美元。]]></title>
-            <guid>3130391</guid>
-            <pubDate>Thu, 01 Jun 2023 15:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韦德布什：将C3.ai(AI.N)评级从中性上调至跑赢大市，目标价从24美元上调至50美元。]]></title>
-            <guid>3130390</guid>
-            <pubDate>Thu, 01 Jun 2023 15:43:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞杰金融：将Salesforce(CRM.N)目标价从240美元上调至260美元。]]></title>
-            <guid>3130388</guid>
-            <pubDate>Thu, 01 Jun 2023 15:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Northland Capital：将Salesforce(CRM.N)目标价上调至210美元。]]></title>
-            <guid>3130387</guid>
-            <pubDate>Thu, 01 Jun 2023 15:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[奥本海默：将Salesforce(CRM.N)目标价从225美元上调至235美元。]]></title>
-            <guid>3130386</guid>
-            <pubDate>Thu, 01 Jun 2023 15:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基：北约是乌克兰最好的安全保障。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-01/detail-imyvvcvy9177102.d.html</link>
-            <guid>3130385</guid>
-            <pubDate>Thu, 01 Jun 2023 15:42:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
