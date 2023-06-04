@@ -4,11 +4,37 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 04 Jun 2023 18:06:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 21:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：06月05日04时39分在青海海西州茫崖市发生3.8级地震，震源深度10千米。]]></title>
+            <guid>3132747</guid>
+            <pubDate>Sun, 04 Jun 2023 20:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员：华盛顿响起“音爆声”是因为军机响应领空违规事件所致。目标飞机有违规行为，当时处于自动驾驶模式下，并且不响应工作人员的呼叫。军机并未导致民用飞机坠毁。]]></title>
+            <guid>3132734</guid>
+            <pubDate>Sun, 04 Jun 2023 20:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹冲突双方继续在喀土穆和达尔富尔等地激烈交火】当地时间6月4日，苏丹武装部队与快速支援部队在首都喀土穆及其周边地区的武装冲突仍在持续，喀土穆市南部、东部以及附近的北喀土穆市北部地区冲突尤为激烈，双方均动用了重炮等重型武器。快速支援部队当天表示，击落一架苏丹武装部队的米格战机。（央视新闻）]]></title>
+            <guid>3132715</guid>
+            <pubDate>Sun, 04 Jun 2023 20:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【千亿解禁周来袭：有定增浮盈60亿，也有机构被套40%】A股市场将迎来千亿解禁。数据显示，本周（6月5日~9日），共计77只个股迎来限售股解禁（剔除将上市的新股），合计解禁数量为113.68亿股，按照最新收盘价计算，解禁市值合计达1090亿元。统计显示，这77只个股主要集中于工业制造、信息技术、材料、生物医药等大类行业，细分来看，包括光伏、锂电材料、储能、半导体等TMT、新能源赛道的多只热门股，比如天合光能、科达制造、高测股份、天岳先进、南网储能等。进入6月，市场做多的氛围逐渐增强，沪指3200点被多次测试后仍能站稳。但随着市场将迎来全年最大的解禁高峰，全月解禁规模高达6833.7亿元，有10只个股解禁规模超过百亿元，解禁洪量将对大盘走势形成怎样的影响，是投资者聚焦的重点。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywemwq5684469.d.html</link>
+            <guid>3132695</guid>
+            <pubDate>Sun, 04 Jun 2023 20:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋能源部长：俄罗斯的产量数据存在一些差异。我们不希望政治因素影响我们对俄罗斯石油产量的看法。]]></title>
+            <guid>3132638</guid>
+            <pubDate>Sun, 04 Jun 2023 18:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[沙特能源部声明：7月份沙特石油产量将减少至900万桶/日。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-05/detail-imywefqu3568786.d.html</link>
@@ -429,41 +455,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywcqta3769881.d.html</link>
             <guid>3132545</guid>
             <pubDate>Sun, 04 Jun 2023 10:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国盛证券：预计近一两个月可能出台稳信心、扩内需、稳地产、促消费等一系列组合拳】国盛证券首席经济学家熊园博士发文指出，总体看，近半月政策主要聚焦“新能源汽车”和“人工智能”两大产业，包括6.2国常会延续和优化新能源汽车购置税减免、各地继续发放新能源购车补贴、多部委会见特斯拉马斯克、北上深多地密集发布支持人工智能政策等。其他可关注，国家金融监督管理总局明确金融监管6大思路，教育部允许适当引进科学类非学科培训及合规的第三方机构入校，6.2国常会明确将针对全国统一大市场分批次加快出台政策等。倾向于认为，当前经济仍属弱现实，后续对政策可乐观些，预计近一两个月可能出台稳信心、稳增长、扩内需、稳地产、促消费、中央加杠杆等一系列组合拳，可能的有：支持民企的法律制度、地产差异化放松（北上广深等）、支持汽车（新能源等）、降准降息、政策性金融、重大项目建设等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywcqsy6106919.d.html</link>
-            <guid>3132542</guid>
-            <pubDate>Sun, 04 Jun 2023 09:57:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【索尼CEO称云游戏仍面临重大阻碍】据英国《金融时报》报道，索尼集团首席执行官吉田宪一郎在接受采访时表示，该公司仍在关注云游戏市场的发展，并有可能在未来某个时候为此部署人工智能。吉田指出，在较安静时段保持服务器运行的潜在滞后和成本效率低下等问题是这一流媒体模式发展的主要障碍。他告诉该报，大多数用户仍在使用游戏主机或PC端，而非流媒体游戏。吉田还指出，索尼未来可能将其人工智能代理Sophy用于云游戏，而且其已经在利用不太活跃的游戏时段来帮助训练人工智能如何在赛车游戏《Gran Turismo》中击败人类。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckme3894689.d.html</link>
-            <guid>3132541</guid>
-            <pubDate>Sun, 04 Jun 2023 09:53:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗计划同沙特等海湾国家组建海军联盟】据伊朗媒体3日报道，伊朗海军司令沙赫拉姆·伊拉尼2日表示，伊朗计划与沙特等海湾国家组建海军联盟，以保障区域和平稳定。(CCTV国际时讯)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckky9459987.d.html</link>
-            <guid>3132540</guid>
-            <pubDate>Sun, 04 Jun 2023 09:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中际旭创：向海外重点客户持续交付与GPU相配套的800G产品】中际旭创在互动平台表示，公司何时向客户的产品交付属于商业秘密，不便披露。今年以来，公司已向海外重点客户持续交付与GPU相配套的800G产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckky9458645.d.html</link>
-            <guid>3132539</guid>
-            <pubDate>Sun, 04 Jun 2023 09:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[能源情报集团记者阿蒙娜•巴克尔：欧佩克+将于今天作出对各成员国基线石油产量的调整。]]></title>
-            <guid>3132537</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因谈判仍在继续 欧佩克+会议推迟召开】欧佩克+各成员国的部长们在正式会议召开之前举行了预备会议，今日他们仍在进行相关的讨论，试图消除剩余的分歧。与会代表表示，阿联酋主张改变衡量其减产幅度的方式。但这将以牺牲非洲国家的利益为代价，部分非洲小产油国被要求放弃一些未使用的配额，这对他们来说是政治上难以接受的选择。此外，与会代表们表示，阿联酋和安哥拉正在就基线产量的修订问题举行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-04/detail-imywckme3886787.d.html</link>
-            <guid>3132536</guid>
-            <pubDate>Sun, 04 Jun 2023 09:45:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
