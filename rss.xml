@@ -4,11 +4,417 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 23 Jun 2023 12:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 15:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[荷兰政府声明：荷兰将在2024年将对可再生氢生产的补贴增加10亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykc2887563.d.html</link>
+            <guid>3152722</guid>
+            <pubDate>Fri, 23 Jun 2023 14:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：黑石集团近几个月与西门子能源进行了谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6666893.d.html</link>
+            <guid>3152721</guid>
+            <pubDate>Fri, 23 Jun 2023 14:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元上涨0.4%，刷新2022年11月份以来高位至143.72。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6666325.d.html</link>
+            <guid>3152719</guid>
+            <pubDate>Fri, 23 Jun 2023 14:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯副总理诺瓦克：与巴林王储萨勒曼·阿勒哈利法讨论了与欧佩克+合作的议题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9889135.d.html</link>
+            <guid>3152718</guid>
+            <pubDate>Fri, 23 Jun 2023 14:55:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)日内再次转跌，现跌0.71%，此前一度涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9887581.d.html</link>
+            <guid>3152717</guid>
+            <pubDate>Fri, 23 Jun 2023 14:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【农业农村部：狠抓细节扎实推进风险隐患排查整治 坚决防范遏制农业领域重特大事故发生】农业农村部办公厅发布关于进一步抓好当前农业安全生产工作的紧急通知，其中提到，狠抓细节扎实推进风险隐患排查整治。坚持安全生产“三个必须”，按照全国重大事故隐患专项排查整治2023行动工作部署，进一步压实各方责任，坚决防范遏制农业领域重特大事故发生。要落实远洋渔业安全风险隐患排查整治工作部署，加强伏休渔船管理和渔港消防等安全检查，特别要抓好载员10人以上渔船和远洋渔船“过筛子”工作“回头看”。要对照《农机安全生产重大事故隐患判定标准（试行）》，指导和帮助农机生产经营主体规范管理、消除隐患；正在开展农机作业的地区，要加强现场秩序维护和机具、人员转移转场安全管理与服务，防止事故发生。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6662884.d.html</link>
+            <guid>3152715</guid>
+            <pubDate>Fri, 23 Jun 2023 14:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯副总理诺瓦克访问巴林。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9883650.d.html</link>
+            <guid>3152714</guid>
+            <pubDate>Fri, 23 Jun 2023 14:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其银行业协会主席：与央行行长的会议是建设性的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6660715.d.html</link>
+            <guid>3152713</guid>
+            <pubDate>Fri, 23 Jun 2023 14:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部：美国对试图影响美国地方选举的俄罗斯情报官员实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9881768.d.html</link>
+            <guid>3152711</guid>
+            <pubDate>Fri, 23 Jun 2023 14:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度放宽了民用无人机的出口规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykc2880234.d.html</link>
+            <guid>3152710</guid>
+            <pubDate>Fri, 23 Jun 2023 14:27:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰国防部长：我期待乌克兰能够收到明确的信号和成为北约成员的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6656437.d.html</link>
+            <guid>3152708</guid>
+            <pubDate>Fri, 23 Jun 2023 14:22:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)短线拉升，日内涨幅已扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6656021.d.html</link>
+            <guid>3152707</guid>
+            <pubDate>Fri, 23 Jun 2023 14:21:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【23日晚到26日仍有强降雨 南宁启动暴雨Ⅲ级应急响应】6月21日20时至23日8时，受高空槽和低涡切变线共同影响，广西南宁市大部出现大雨到暴雨，局部大暴雨。6月23日17时，南宁市气象灾害应急指挥部将南宁市气象灾害（暴雨）Ⅳ级应急响应提升为气象灾害（暴雨）Ⅲ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9878477.d.html</link>
+            <guid>3152706</guid>
+            <pubDate>Fri, 23 Jun 2023 14:20:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：基辅反攻未带来突破】据《纽约时报》撰文报道，乌克兰反攻的开始并没有带来任何快速的突破，基辅的进展很缓慢。]]></title>
+            <guid>3152705</guid>
+            <pubDate>Fri, 23 Jun 2023 14:19:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)升至盘中高点，消息称其在最高法院赢得了与美国证交会的官司。]]></title>
+            <guid>3152704</guid>
+            <pubDate>Fri, 23 Jun 2023 14:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Coinbase在最高法院获胜，此前美国证券交易委员会在纽约联邦法院起诉加密交易所Coinbase。]]></title>
+            <guid>3152703</guid>
+            <pubDate>Fri, 23 Jun 2023 14:16:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德商银行：欧元区服务业疲弱 预示欧洲央行紧缩政策即将结束】德商银行高级经济学家Christoph Weil表示，欧元区服务业PMI意外大幅下降，不利于经济在未来几个月复苏，而许多人都预计经济将在未来几个月复苏。他表示，这表明欧洲央行迄今为止的加息正日益减缓经济增长，经济将在今年下半年收缩。这些数据可能也让欧洲央行的政策制定者感到恐慌，因为欧洲央行官员预计欧元区经济将在下半年显著增长，这使得央行在发出7月加息信号后进一步加息的可能性降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6654082.d.html</link>
+            <guid>3152702</guid>
+            <pubDate>Fri, 23 Jun 2023 14:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国宣布成立全球联盟，共同应对芬太尼危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6653221.d.html</link>
+            <guid>3152699</guid>
+            <pubDate>Fri, 23 Jun 2023 14:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热成这样绝不止40？北京最高地表温度达71.8℃】中国气象频道气象分析师信欣介绍，昨天北京南郊观象台最高气温41.1℃，破6月纪录，在观测史上并列第二；而南郊观象台午后的最高地表温度达到了71.8℃，也是观测史上第二位。而今天午后，华北一带的地表气温也普遍超过了60℃，截至15时，北京南郊观象台地表最高温度达到了61.8℃。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6652363.d.html</link>
+            <guid>3152697</guid>
+            <pubDate>Fri, 23 Jun 2023 14:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员将对英国央行利率达到6.25%的预期从明年2月份调整至今年年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9874846.d.html</link>
+            <guid>3152696</guid>
+            <pubDate>Fri, 23 Jun 2023 14:08:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【航行警告 北部湾海域军事训练】北海海事局发布航行警告，6月24日12时至6月27日12时，北部湾部分海域进行军事训练，禁止船舶驶入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykk8991375.d.html</link>
+            <guid>3152695</guid>
+            <pubDate>Fri, 23 Jun 2023 14:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本田因后视摄像头问题在美国召回120万辆汽车】美国国家公路交通安全管理局（NHTSA）周五表示，由于后视摄像头图像的潜在问题，本田汽车正在美国召回120万辆汽车。文件显示，召回范围包括部分2018-2023年的奥德赛、2019-2022年的Pilot和2019-2023年的Passport汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9874368.d.html</link>
+            <guid>3152694</guid>
+            <pubDate>Fri, 23 Jun 2023 14:06:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国最高法院允许总统拜登调整驱逐出境优先事项，驳回了共和党对该政策的挑战。]]></title>
+            <guid>3152693</guid>
+            <pubDate>Fri, 23 Jun 2023 14:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美银策略师：英国简直是欧洲的“滞胀病夫”】美银策略师目前将英国描述为“欧洲的滞胀病夫”，并列举了该国不受投资者青睐的原因。除了通胀、高物价和经济萎缩的组合外，策略师们还提到了劳工罢工、一个“摇摇欲坠”的全民医疗服务体系、6%的抵押贷款利率以及自2000 年以来倒挂幅度最大的英国收益率曲线。由于高通胀推动英国央行继续加息，并通过更大额度的抵押贷款支付对消费者施加压力，导致英国股票指数成为2023年主要欧洲和发达市场衡量标准中表现最差的指数。投资者现在正在定价，英国政策制定者将会将利率上调至6.25％以上，这是20多年来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9874030.d.html</link>
+            <guid>3152692</guid>
+            <pubDate>Fri, 23 Jun 2023 14:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰财政部：2023年财务业绩较好，2023年5月预算收入较2022年5月增长45%。]]></title>
+            <guid>3152691</guid>
+            <pubDate>Fri, 23 Jun 2023 14:00:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国“里根”号航母将停靠越南港口 越方称“正常友好交流”】美国核动力航母“里根”号将在越南中部港口城市岘港停靠。该航母将于25日下午抵达越南，并在岘港停留至6月30日。这是自1975年越南战争结束美国从越南撤军以来美国航母对越南的第三次访问。越南外交部发言人范秋姮称，这是为了地区和世界和平、稳定、合作和发展而进行的“正常友好交流”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6649683.d.html</link>
+            <guid>3152690</guid>
+            <pubDate>Fri, 23 Jun 2023 13:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构评美国6月PMI数据：服务业需求显示出弹性】标普全球市场情报首席商业经济学家Chris Williamson表示，服务业的情况比制造业要好一些，需求正显示出弹性，暂停加息似乎有助于提振企业对未来一年的乐观情绪。问题仍然是，面对制造业下滑和之前加息的滞后影响，服务业增长的弹性如何。劳动力市场吃紧仍然令人担忧，工资上涨压力仍然是服务业成本上升的主要驱动因素。然而，令人鼓舞的是，商品和服务的整体销售价格通胀率降至2020年底以来的最低水平，这表明美联储正在赢得对抗通胀的斗争。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9872072.d.html</link>
+            <guid>3152689</guid>
+            <pubDate>Fri, 23 Jun 2023 13:58:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构评美国6月PMI数据：增长仍然依赖于服务业支出 工厂面临缺货】标普全球市场情报首席商业经济学家Chris Williamson表示，6月份美国商业活动的总体扩张速度保持强劲。然而，增长仍然依赖于服务业支出，制造业在经历了三个月的增长后又开始下滑。尽管供应状况的改善在前几个月帮助提振了制造业生产，但新订单日益严重的下滑意味着工厂正面临缺货。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6648736.d.html</link>
+            <guid>3152688</guid>
+            <pubDate>Fri, 23 Jun 2023 13:56:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小鹏汽车(XPEV.N)盘初跌幅扩大至8%，此前小鹏计划明年在香港推出一款右舵车型，并希望与特斯拉等汽车品牌抗衡。]]></title>
+            <guid>3152686</guid>
+            <pubDate>Fri, 23 Jun 2023 13:50:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国PMI数据公布后，2年期国债收益率下跌8.5个基点，至4.715%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9870064.d.html</link>
+            <guid>3152685</guid>
+            <pubDate>Fri, 23 Jun 2023 13:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【江西暴雨已致18.08万人受灾 直接经济损失2.17亿元】据江西省应急管理厅，6月20日11时至23日16时，此次降雨灾害过程已造成南昌市、萍乡市、九江市、新余市、鹰潭市、赣州市、吉安市、抚州市、上饶市、宜春市10个设区市54个县（市、区、含功能区）18.08万人受灾，紧急避险转移2751人，紧急转移安置2498人，需紧急生活救助346人，农作物受灾面积18.59千公顷（27.885万亩）、绝收面积676公顷（1.014万亩），严重损坏房屋13户23间，一般损坏房屋23户44间，直接经济损失2.17亿元，灾情还在进一步统计核查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9870048.d.html</link>
+            <guid>3152684</guid>
+            <pubDate>Fri, 23 Jun 2023 13:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国PMI数据公布后，美国国债收益率持续下跌，10年期国债收益率下跌8.90个基点，至3.710%。]]></title>
+            <guid>3152683</guid>
+            <pubDate>Fri, 23 Jun 2023 13:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国PMI数据公布后，美股三大股指跌幅扩大，纳指跌1.3%，标普500指数跌0.9%，道指跌0.64%。]]></title>
+            <guid>3152682</guid>
+            <pubDate>Fri, 23 Jun 2023 13:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国6月Markit制造业PMI初值 46.3，预期48.5，前值48.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9868595.d.html</link>
+            <guid>3152681</guid>
+            <pubDate>Fri, 23 Jun 2023 13:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国6月Markit服务业PMI初值 54.1，预期54，前值54.9。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykk8986776.d.html</link>
+            <guid>3152680</guid>
+            <pubDate>Fri, 23 Jun 2023 13:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加速洗牌，吉林九台农村商业银行注销基金销售牌照】 据中证报，近期，吉林证监局官网公告显示，吉林九台农村商业银行股份有限公司（简称“吉林九台农村商业银行”）向证监会提交了注销公募基金销售业务许可证的申请，证监会决定注销其公募基金销售资格。近年来，基金代销行业洗牌节奏逐步加速。去年，丹东银行股份有限公司、辽阳银行股份有限公司等多家银行机构均注销了基金销售牌照。 在业内人士看来，作为基金代销的重要渠道，银行代销基金更要“苦练内功”。光大银行金融市场部宏观研究员周茂华表示，部分银行要严格落实落细基金代销业务监管要求，加快补齐内控制度短板，配备专业、综合素质高的销售人员，健全风控体系，落实好投资者适当性管理要求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykk8986631.d.html</link>
+            <guid>3152679</guid>
+            <pubDate>Fri, 23 Jun 2023 13:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国银行董事长葛海蛟会见法国欧安诺集团首席执行官菲利普·克诺赫】据中国银行消息，6月22日，中国银行董事长葛海蛟在巴黎会见法国欧安诺集团首席执行官菲利普·克诺赫 (Philippe Knoche)。葛海蛟感谢欧安诺集团长期以来对中国银行的信任与支持，介绍了中国银行经营发展情况。他表示，中国银行与欧安诺集团互为重要合作伙伴，在绿色金融、存量银团贷款、资金交易等领域取得了丰硕合作成果。中国银行将继续发挥全球化特色优势，在项目融资、国际结算、能源发展等领域进一步拓展双方合作，共同助力中法合作行稳致远。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9868242.d.html</link>
+            <guid>3152678</guid>
+            <pubDate>Fri, 23 Jun 2023 13:44:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【建发国际集团：附属公司成立合营企业，以收购莆田一土地使用权，预计投资2.2亿元】建发国际集团6月23日在港交所公告，公司全资附属公司莆田兆玺于5月18日成功竞得拍卖位于中国莆田市城厢区霞林分区坂头西单元控规范围内，东至坂头路，南至胜利路的该土地（土地编号：莆田市PS拍-2022-04号）的土地使用权，总代价为人民币2.85亿元。于本公告日期，莆田兆玺已向莆田市自然资源局支付6000万元作为该土地的保证金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6645148.d.html</link>
+            <guid>3152677</guid>
+            <pubDate>Fri, 23 Jun 2023 13:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宁夏银川市开展安全生产大排查大整治专项行动】记者从宁夏银川市政府获悉，银川市兴庆区富洋烧烤店燃气爆炸事故发生后，为有效排查和消除事故隐患，全面加强安全生产工作，银川市立即成立了7个督查检查组和1个监督执纪组，从22日起在全市开展拉网式、起底式安全生产大排查大整治行动。7个督查检查组分别针对危化矿山安全、燃气安全、消防安全、工业安全、交通安全、建筑施工安全及重点场所安全展开排查整治。按照属地负责和行业主管原则，采取抽查暗访、互检互查、督查检查的方式，重点检查城镇燃气、矿山、危险化学品、道路交通、建筑施工、长输油气管道、消防、特种设备、民爆器材等重点行业领域；餐饮场所、高层建筑、城市综合体、商场、客运站、娱乐场所、福利院、养老院等人员密集场所；城中村、棚户区、群租房、老旧小区、员工集体宿舍等人员聚居场所，最大限度把风险隐患消灭在萌芽状态。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9867545.d.html</link>
+            <guid>3152676</guid>
+            <pubDate>Fri, 23 Jun 2023 13:42:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球钻石价格较峰值下跌18% 分析人士称还将进一步“跳水”】根据最新公布的全球毛坯钻石价格指数，今年迄今，钻石价格已下跌了6.5%，较2022年2月的历史高点更是下跌了18%。一年前，1克拉天然钻石的价格是6700美元，目前的售价是5300美元。分析人士称，钻石的价格还将进一步“跳水”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhykh6644080.d.html</link>
+            <guid>3152675</guid>
+            <pubDate>Fri, 23 Jun 2023 13:40:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宝武澳大利亚西坡项目开业：设计年产2500万吨铁矿石 后年投产】全球最大钢企中国宝武和全球铁矿石巨头力拓（Rio Tinto）就西澳大利亚皮尔巴拉地区的西坡铁矿项目成立合资企业。据最新透露，该项目建设目前正紧锣密鼓进行中，设计年产能为2500万吨铁矿石，包括建造一台初级破碎设备和一条18公里长的输送系统，将其连接到帕拉伯杜现有加工厂，预计将于2025年建成投产。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhyke9866778.d.html</link>
+            <guid>3152674</guid>
+            <pubDate>Fri, 23 Jun 2023 13:39:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：我们对潜在的额外紧缩保持警惕，这是减缓加息步伐的又一个充分理由。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9994826.d.html</link>
+            <guid>3152672</guid>
+            <pubDate>Fri, 23 Jun 2023 13:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：但再加息两次只是一种预测，我们还不确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6771398.d.html</link>
+            <guid>3152671</guid>
+            <pubDate>Fri, 23 Jun 2023 13:27:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储戴利：今年再加息两次是“非常合理”的预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9994215.d.html</link>
+            <guid>3152670</guid>
+            <pubDate>Fri, 23 Jun 2023 13:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线走低0.5美元，现分别报67.7美元/桶和72.57美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6768719.d.html</link>
+            <guid>3152668</guid>
+            <pubDate>Fri, 23 Jun 2023 13:17:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国广核集团发布关于他人涉嫌假冒我集团名义行骗的严正声明】中国广核集团发布严正声明，近期，中国广核集团接到群众反映，一款名为“广核集团”的APP程序，疑似假冒我集团名义和标识，推出投资交易平台和“新能源投资”等虚假投资理财项目。经核实，我集团及所属单位从未推出该等投资平台和发布该等理财项目。对此，我集团已向公安机关报案并向有关行政机关举报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9991109.d.html</link>
+            <guid>3152666</guid>
+            <pubDate>Fri, 23 Jun 2023 13:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：俄罗斯不会公布运往白俄罗斯的核弹数量信息】俄罗斯外交部副部长里亚布科夫表示，俄罗斯不打算公布运往白俄罗斯的核弹数量信息。几十年来，美国在一些欧洲国家的领土上部署了战术核武器，但他们从未给出确切的数字。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6768145.d.html</link>
+            <guid>3152665</guid>
+            <pubDate>Fri, 23 Jun 2023 13:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内下跌3.00%，现报2.529美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuaf2994344.d.html</link>
+            <guid>3152664</guid>
+            <pubDate>Fri, 23 Jun 2023 13:12:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据CNN：美联储理事库克、微软CEO纳德拉和谷歌CEO皮查伊将会见美国总统拜登和印度总理莫迪。]]></title>
+            <guid>3152661</guid>
+            <pubDate>Fri, 23 Jun 2023 13:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国几家最大银行同意给予抵押贷款人12个月宽限期】英国财政大臣亨特与汇丰银行、巴克莱银行、英国国民西敏寺银行集团和劳埃德银行等几家英国最大银行举行了会议，一致同意如果人们未能按时偿还抵押贷款，应给予12个月的宽限期，之后才会收回房产，以减轻数百万房主因抵押贷款利率迅速上升而承受的负担。会议还讨论了其他宽限安排，其中许多安排已经到位，其中包括“合同变更”，允许银行将抵押贷款期限延长至退休年龄之后，并从还款转为永久只付利息的交易。银行也已经承诺，为陷入困境、拖欠款项或担心被收回的抵押贷款持有人提供量身定制的支持。亨特强调，做出改变后可以在六个月内恢复到原来的方案，而不会受到惩罚，也不会对信用评分产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6763150.d.html</link>
+            <guid>3152659</guid>
+            <pubDate>Fri, 23 Jun 2023 12:58:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债延续涨势，5年期国债收益率下跌10个基点，此前美联储博斯蒂克表示支持今年不再加息。]]></title>
+            <guid>3152658</guid>
+            <pubDate>Fri, 23 Jun 2023 12:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货黄金短线走高4美元，现报1926.9美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9984795.d.html</link>
+            <guid>3152657</guid>
+            <pubDate>Fri, 23 Jun 2023 12:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿斯利康1类新药CDK9抑制剂在中国获批临床】据中国国家药监局药品审评中心(CDE)官网显示，阿斯利康申报的1类新药AZD4573获得临床试验默示许可，拟开发用于治疗复发/难治性外周T细胞淋巴瘤(r/r PTCL)。公开资料显示，AZD4573是一种CDK9抑制剂，目前正在海外开展治疗血液肿瘤的2期研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuaf2989935.d.html</link>
+            <guid>3152656</guid>
+            <pubDate>Fri, 23 Jun 2023 12:53:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国10年期国债收益率下跌15个基点，势将创下3月份以来的最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6760768.d.html</link>
+            <guid>3152655</guid>
+            <pubDate>Fri, 23 Jun 2023 12:50:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：可能在2024年底或2025年才能达到PCE通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6760004.d.html</link>
+            <guid>3152653</guid>
+            <pubDate>Fri, 23 Jun 2023 12:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：我支持今年不再加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6759831.d.html</link>
+            <guid>3152652</guid>
+            <pubDate>Fri, 23 Jun 2023 12:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：通胀已经显著放缓，但很难恢复至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6758753.d.html</link>
+            <guid>3152651</guid>
+            <pubDate>Fri, 23 Jun 2023 12:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计金融标准将在夏季收紧，而更严格的金融标准将导致经济放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6758324.d.html</link>
+            <guid>3152650</guid>
+            <pubDate>Fri, 23 Jun 2023 12:42:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李强就全球发展融资缺口提出三点倡议】当地时间6月23日上午，国务院总理李强在巴黎出席新全球融资契约峰会闭幕式并发表讲话。李强指出，面对全球发展融资缺口，中方呼吁国际社会精诚合作、携手行动，共同破解发展中国家特别是脆弱国家的难题。李强就此提出三点倡议：第一，坚定推进全球金融治理改革，为发展中国家创造稳定的融资环境。第二，坚定构建全球发展伙伴关系，为发展中国家提供更多发展资源。第三，坚定推进经济全球化和自由贸易，为发展中国家注入新的增长动力。中方愿与国际社会一道，促进贸易和投资自由化便利化，旗帜鲜明反对贸易保护主义和各种形式的“脱钩断链”。（新华社）]]></title>
+            <guid>3152648</guid>
+            <pubDate>Fri, 23 Jun 2023 12:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李强出席新全球融资契约峰会并发表讲话】当地时间6月23日上午，国务院总理李强在巴黎出席新全球融资契约峰会闭幕式并发表讲话。法国总统马克龙主持会议，60多位国家元首、政府首脑和主要国际组织负责人出席。李强强调，在充满纷争和不确定性的世界，中欧双方应当求同存异，聚同化异，推动更富创造性的合作，以中欧关系的稳定性应对国际形势的不确定性，共同推动人类可持续发展。（新华社）]]></title>
+            <guid>3152647</guid>
+            <pubDate>Fri, 23 Jun 2023 12:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：预计失业率将从历史低位上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6754629.d.html</link>
+            <guid>3152645</guid>
+            <pubDate>Fri, 23 Jun 2023 12:30:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：信贷风险可能会出现，房地产领域可能构成风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6754434.d.html</link>
+            <guid>3152644</guid>
+            <pubDate>Fri, 23 Jun 2023 12:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：银行业实际上仍相当强大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuan9099887.d.html</link>
+            <guid>3152643</guid>
+            <pubDate>Fri, 23 Jun 2023 12:28:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部：已大幅增加欧洲机构和欧盟成员国禁止入境俄罗斯人员名单】据环球网，当地时间23日，俄罗斯外交部表示，欧盟国家通过的针对俄罗斯的第十一轮制裁是非法的，作为回应，俄罗斯已大幅增加欧洲机构和欧盟成员国禁止入境俄罗斯人员的名单。俄外交部强调，西方国家任何不友好的举动都将会得到俄罗斯及时回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9976309.d.html</link>
+            <guid>3152642</guid>
+            <pubDate>Fri, 23 Jun 2023 12:26:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：美联储试图在解决通胀问题时尽量减少市场紊乱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9975796.d.html</link>
+            <guid>3152640</guid>
+            <pubDate>Fri, 23 Jun 2023 12:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：在使命与最终目标发生冲突之前，美联储还有“一些空间”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9974959.d.html</link>
+            <guid>3152639</guid>
+            <pubDate>Fri, 23 Jun 2023 12:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克表示，通胀率仍然过高，降低通胀是首要任务。美联储正努力将经济恢复到供需平衡状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6751273.d.html</link>
+            <guid>3152637</guid>
+            <pubDate>Fri, 23 Jun 2023 12:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月23日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.【新思想引领新征程】藏粮于地藏粮于技 夯实粮食安全根基； 2.李强会见法国总统； 3.李强出席法国总理举行的欢迎仪式； 4.李强同法国总理举行会谈； 5.李强出席中法工商界晚餐会并致辞； 6.游园赏景品民俗 多姿多彩过端午； 7.端午文创走俏 传统文化创新表达； 8.端午假期交通部门加强多种出行方式联动； 9.外资企业看好中国 持续增资扩产； 10.南方强降雨持续 北方有超40℃高温天气； 11.国内联播快讯： （1）各地高考成绩今起陆续公布； （2）复兴号动车组首次在青藏铁路上线试运行； （3）我国最长深水油气管道铺设完工； 12.全球多地过端午 多国民众感受中华文化魅力； 13.中方代表在联合国人权理事会敦促日本就核污染水问题正视国际社会关切； 14.俄称打击乌方外国武器仓库 乌称与俄军在巴赫穆特等地交战； 15.英国央行加息50个基点 英媒称持续加息加剧混乱； 16.国际联播快讯： （1）印尼雅万高铁联调联试时速达到350公里； （2）日本核心CPI连续21个月同比上升； （3）美国深海潜水器发生内爆 5人死亡； （4）加拿大林火过火面积达到6.5万平方公里； （5）阿联酋总统会见伊朗外长 强调维护稳定； 17.大美中国。]]></title>
+            <guid>3152636</guid>
+            <pubDate>Fri, 23 Jun 2023 12:19:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国财政大臣亨特：银行已经同意，在没有房主同意的情况下，将在（贷款未偿还）至少12个月之后才会进行收回房产。]]></title>
+            <guid>3152635</guid>
+            <pubDate>Fri, 23 Jun 2023 12:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：目前未看到经济中出现风险因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6749964.d.html</link>
+            <guid>3152634</guid>
+            <pubDate>Fri, 23 Jun 2023 12:15:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[英国财政大臣亨特：借款人将在贷款期限和贷款类型上获得更多灵活性。]]></title>
             <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9971127.d.html</link>
@@ -60,466 +466,6 @@
             <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuan9092697.d.html</link>
             <guid>3152622</guid>
             <pubDate>Fri, 23 Jun 2023 11:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【耶伦：美元广泛使用理由充分 依然占据主导地位】美国财长耶伦表示，她听到了卢拉总统以及许多其他国家对于美元在贸易中的主导地位以及希望摆脱美元依赖的关切。此前巴西总统卢拉表示，将在9月的金砖国家会议上讨论使用非美元货币进行国际贸易的问题。耶伦称，美元在全球贸易中被广泛使用有很多原因，包括美国的深度流动开放的资本市场、法治以及长期和深度的金融工具，这些因素使得使用美元既安全又便利。尽管当下储备资产多样化，但美元无疑占据了主导地位，大多数国家依然选择持有美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuan9092660.d.html</link>
-            <guid>3152621</guid>
-            <pubDate>Fri, 23 Jun 2023 11:56:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南启动重大气象灾害（高温）Ⅳ级应急响应】河南多地出现37℃的高温天气，局地最高气温超过40℃。河南省气象防灾减灾暨人工影响天气指挥部启动重大气象灾害（高温）Ⅳ级应急响应，并印发通知要求各地各单位采取有效措施，做好高温天气防范应对工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6743769.d.html</link>
-            <guid>3152620</guid>
-            <pubDate>Fri, 23 Jun 2023 11:53:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美元在贸易中被广泛使用的理由非常充分。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9965828.d.html</link>
-            <guid>3152618</guid>
-            <pubDate>Fri, 23 Jun 2023 11:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：海运税是一个非常有建设性的建议，因为我们需要筹集大量额外的资源来应对气候变化、减贫和其他挑战。]]></title>
-            <guid>3152617</guid>
-            <pubDate>Fri, 23 Jun 2023 11:48:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：我们非常关注气候变化和减贫。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9964211.d.html</link>
-            <guid>3152615</guid>
-            <pubDate>Fri, 23 Jun 2023 11:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：支持对海运业征收国际税，因为这是一个尚未征税的领域，且没有理由不对其征税。]]></title>
-            <guid>3152614</guid>
-            <pubDate>Fri, 23 Jun 2023 11:43:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财长耶伦：美国将审视有关海运税的提案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9963228.d.html</link>
-            <guid>3152613</guid>
-            <pubDate>Fri, 23 Jun 2023 11:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行：国债收益率表明金融状况仍然友好，印度2023年度外汇储备增加了310亿美元。]]></title>
-            <guid>3152612</guid>
-            <pubDate>Fri, 23 Jun 2023 11:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度央行：厄尔尼诺现象本身不会导致经济恶化】公告显示，通胀放缓个人消费支出，我们设定的通胀目标框架也对增长提出了一些针对性措施。同时印度央行预计2023年第一季度的GDP增长为7.9%，最后，央行称，他们的研究结果表明，与普遍观点相反，单独的厄尔尼诺现象可能不会导致宏观经济稳定性的恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9962379.d.html</link>
-            <guid>3152611</guid>
-            <pubDate>Fri, 23 Jun 2023 11:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：这个峰会的目标是构建国际社会的团结，共同应对两个重大挑战：对抗不平等和保护地球。]]></title>
-            <guid>3152610</guid>
-            <pubDate>Fri, 23 Jun 2023 11:39:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：目标是通过共同的讨论，形成“巴黎共识”，以便为全球公民提供指导。计划在未来两年内建立一个持久的监督结构，并在两年后举行峰会来报告成果。]]></title>
-            <guid>3152608</guid>
-            <pubDate>Fri, 23 Jun 2023 11:37:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：一些具体的目标和未来的重要事项将推动对全球金融治理体系进行更深入和必要的改革。]]></title>
-            <guid>3152607</guid>
-            <pubDate>Fri, 23 Jun 2023 11:36:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：关于世界银行和国际货币基金组织之间的协调是一个重要的步骤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9961512.d.html</link>
-            <guid>3152606</guid>
-            <pubDate>Fri, 23 Jun 2023 11:36:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度央行：4月购买了77亿美元 卢比正成为最稳定货币】印度央行发布公告，数据显示印度央行4月份在现货外汇市场上净购买77亿美元，央行称信贷增长正在转向更持久的资金来源，印度卢比正在成为新兴市场同行中最稳定的货币。发布公告后，印度10年期国债收益率跌2个基点，至7.0726%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9961012.d.html</link>
-            <guid>3152605</guid>
-            <pubDate>Fri, 23 Jun 2023 11:35:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉士伯确认：从俄罗斯撤资并出售在俄业务】据报道，世界第三大啤酒制造商丹麦嘉士伯集团今日表示，已签署协议出售在俄罗斯的业务。2022年3月，嘉士伯集团与西方许多大企业一道宣布撤离俄罗斯市场。如今，嘉士伯集团已经停止了在俄罗斯的投资，并停止了嘉士伯主品牌啤酒在俄罗斯的生产、销售和广告。2022年8月，嘉士伯集团宣布，退出俄罗斯市场的决定导致该公司在2022年上半年亏损6.3亿美元，不过该公司在其他地区的销售额有所增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6737357.d.html</link>
-            <guid>3152604</guid>
-            <pubDate>Fri, 23 Jun 2023 11:32:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【高温仍将持续 北京市教委：可根据实际情况减课或停课】北京市教委发布《关于做好应对高温天气有关工作的通知》，25日开学后，要合理调整学生室外活动时间，可根据实际情况采取减课或停课措施。在高温天气时，学校不安排学生参加大型室外活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9959861.d.html</link>
-            <guid>3152603</guid>
-            <pubDate>Fri, 23 Jun 2023 11:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：嘉士伯签署协议出售在俄罗斯的业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6736793.d.html</link>
-            <guid>3152602</guid>
-            <pubDate>Fri, 23 Jun 2023 11:30:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【IMF：减轻债务仍是重点 已开发出一种“财务工具”】IMF总裁格奥尔基耶娃指出，虽然全球经济在许多冲击下表现出了弹性，但减轻受到冲击的国家的债务负担是首要任务，我们需要加快债务重组的步伐，使之更为高效、公平和及时，为债务国在谈判期间提供喘息的空间。她还指出，过去几年，IMF在其所有工作中都已经融入了对气候问题的考虑，因为气候问题对于宏观经济至关重要，IMF将气候问题融入到财政政策、货币政策和数据分析中，并已经开发出一种财务工具。格奥尔基耶娃特别强调，IMF一直在大力推动碳定价的行动，因为她们的分析显示，没有碳定价，就不可能实现气候变化问题的转变。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuak6734424.d.html</link>
-            <guid>3152600</guid>
-            <pubDate>Fri, 23 Jun 2023 11:22:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[知乎：6月22日斥资55.59万美元购回25.8万股公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuaf2969299.d.html</link>
-            <guid>3152599</guid>
-            <pubDate>Fri, 23 Jun 2023 11:22:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【前英国央行鸽派成员：峰值利率仍有可能达到6%】前英国央行政策制定者、任职时最鸽派的成员舒塞尔·瓦德哈尼表示，6%的峰值利率“仍有可能”达到。但他补充称，利率将升至多高，以及英国央行是否需要触发经济衰退以抑制物价上涨，取决于哪一种理论在解释英国粘性通胀时更有说服力。“如果你相信延迟假说，即通胀无论如何都可能下降，那么衰退将是完全没有必要的。但如果你相信通胀特征已经嵌入到通胀过程中，就需要非常努力地改变通胀过程，降低通胀预期。这往往是一个非常痛苦的经历，然后很可能出现经济衰退。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhuah9956700.d.html</link>
-            <guid>3152598</guid>
-            <pubDate>Fri, 23 Jun 2023 11:20:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：亿万富翁投资者罗恩·巴伦表示，预计特斯拉股票在2025年将达到每股500美元。]]></title>
-            <guid>3152597</guid>
-            <pubDate>Fri, 23 Jun 2023 11:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国得州多地遭遇龙卷风 已致4死9伤】美国得克萨斯州西北部小镇马特多和东南部的几个县近日遭遇龙卷风等强对流天气袭击，目前已造成4人死亡，9人受伤。当地时间22日，搜救工作仍在继续，清理工作也已展开。龙卷风造成多座住宅、商店、谷仓和大片农田受损，多辆大卡车在龙卷风中倾覆，交通设施和供电系统遭到破坏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6862748.d.html</link>
-            <guid>3152596</guid>
-            <pubDate>Fri, 23 Jun 2023 11:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委De Cos：不谋求西班牙经济部长一职。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6862612.d.html</link>
-            <guid>3152595</guid>
-            <pubDate>Fri, 23 Jun 2023 11:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【世茂集团：预期内部监控检讨将于2023年7月完成】世茂集团在港交所发布独立调查主要调查结果，集团已聘请内部监控顾问对公司的内部监控措施进行检讨。预期内部监控检讨将于2023年7月完成。公司将另行刊发关于内部监控检讨结果的公告。继续暂停买卖应公司的要求，公司的股份已由2022年4月1日上午九时正起于联交所暂停买卖。公司股份将继续暂停买卖，直至另行通知。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0083739.d.html</link>
-            <guid>3152593</guid>
-            <pubDate>Fri, 23 Jun 2023 11:07:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团：于6月23日耗资约2298.14万港元回购250万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6860821.d.html</link>
-            <guid>3152592</guid>
-            <pubDate>Fri, 23 Jun 2023 11:07:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[长实收购英国房托Civitas Social Housing要约已获股东同意。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6857869.d.html</link>
-            <guid>3152591</guid>
-            <pubDate>Fri, 23 Jun 2023 10:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港毛里求斯税务協定生效】香港特别行政区政府宣布，香港与毛里求斯去年11月签订的全面性避免双重课税协定今日生效，并对明年4月1日起任何课税年度的香港税项有效。政府表示，协定可确保两地居民无须为同一收入两度课税，让从事跨境商业活动人士更清楚确定其税务负担，有助促进双边贸易和投资活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6857412.d.html</link>
-            <guid>3152589</guid>
-            <pubDate>Fri, 23 Jun 2023 10:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易员押注英国央行将加息至6.25% 为1998年以来最高水平】交易员押注英国央行将把利率提高至20多年来的最高水平。本周，面对高于预期的通胀，官员们加快了加息步伐。目前货币市场已完全定价终端利率将在明年二月达到6.25%，上一次利率处于这一水平是在1998年。经过一年半的加息，英国的通胀率仍远高于英国央行2%的目标，这为其采取更激进的行动提供了理由。周三公布的数据显示，英国5月CPI年率保持在8.7%，连续第四个月强于预期，促使市场迅速重新定价利率前景。大约一个月前，交易员押注利率将在5%以下见顶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0079959.d.html</link>
-            <guid>3152588</guid>
-            <pubDate>Fri, 23 Jun 2023 10:54:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【小摩：预计下半年价格战将持续 整车制造商盈利能力及股价表现或将承压】小摩发布研究报告称，由于短期内市场竞争仍然激烈，该行认为下半年价格战将持续，仍然会对整车制造商的盈利能力及股价表现构成压力。刺激措施将加快从传统内燃机转移至新能源汽车的趋势，相信混合动力汽车将在未来几年保持稳健增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6853438.d.html</link>
-            <guid>3152586</guid>
-            <pubDate>Fri, 23 Jun 2023 10:42:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【甘肃三地发布雷雨大风黄色预警 部分地区发布暴雨红色预警】甘肃临夏回族自治州气象台、兰州市气象台、张掖市气象台接连于今日（23日）17时00分、17时11分、17时14分发布雷雨大风黄色预警信号。预计到今天夜间，临夏回族自治州临夏市、永靖、东乡、积石山、临夏县、广河、和政、康乐部分地方可能受雷雨大风影响，平均风力可达6级以上，或阵风8级以上并伴有雷电。兰州市城关、七里河、西固、安宁、红古及兰州新区将受雷雨大风影响，平均风力可达5级以上，阵风6—7级，并伴有阵雨或雷阵雨。张掖市甘州（城区及所有乡镇）、山丹、民乐、肃南将受雷雨大风影响，平均风力5—6级，阵风7—8级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6853133.d.html</link>
-            <guid>3152585</guid>
-            <pubDate>Fri, 23 Jun 2023 10:41:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【工信部：前五个月电信业务总量同比增17.2%】工信微报发布数据，1—5月份，信息通信行业整体运行平稳。电信业务收入和业务总量稳步增长，新兴业务持续发挥拉动作用；网络基础设施建设不断推进，5G、千兆光网、物联网等网络连接用户规模持续扩大，移动互联网接入流量较快增长。电信业务收入稳步增长，电信业务总量保持两位数增幅。1—5月份，电信业务收入累计完成7125亿元，同比增长6.8%，按照上年不变价计算的电信业务总量同比增长17.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6852987.d.html</link>
-            <guid>3152584</guid>
-            <pubDate>Fri, 23 Jun 2023 10:41:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟的一位高级科技监管官员说，他看到了Twitter遵守欧洲新的数字内容法的“强烈意愿”，并说该平台正致力于遵守法律要求。]]></title>
-            <guid>3152583</guid>
-            <pubDate>Fri, 23 Jun 2023 10:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：通胀风险更加平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6850758.d.html</link>
-            <guid>3152582</guid>
-            <pubDate>Fri, 23 Jun 2023 10:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[泡泡玛特：公司6月23日斥资204.66万港元购回12万股公司股份，每股回购价格为16.94港元-17.18港元。]]></title>
-            <guid>3152581</guid>
-            <pubDate>Fri, 23 Jun 2023 10:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国110亿欧元的国防订单获议会批准】据知情人士透露，德国议员将于下月初批准政府购买60架波音公司的“契努克”型直升机和三艘海上监视船的计划，总价值超过110亿欧元（合119亿美元）。德国总理朔尔茨领导的执政联盟已要求批准斥资69亿欧元购买60架CH—47F直升机，另外还有7.5亿欧元用于基础设施和维护。由于成本超支，政府还要求将分配给三艘船的资金从最初的21亿欧元增加到约34.5亿欧元。议会下院预算委员会将在7月5日批准这项支出计划。这些大手笔的采购是执政联盟扩大和现代化武装力量努力的一部分。此次采购将从去年设立的1000亿欧元特别基金中获得资金，该基金旨在在常规年度国防预算之上增加军事开支。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0073519.d.html</link>
-            <guid>3152580</guid>
-            <pubDate>Fri, 23 Jun 2023 10:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：核心通胀比预期更顽固。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0072648.d.html</link>
-            <guid>3152579</guid>
-            <pubDate>Fri, 23 Jun 2023 10:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委埃尔南德斯德科斯：我们仍有进一步的工作要做，我们将在7月再次提高利率，之后还无法确定我们将采取什么行动。]]></title>
-            <guid>3152578</guid>
-            <pubDate>Fri, 23 Jun 2023 10:28:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【马克龙最新表态：如果普京来电话 我会接的】据塔斯社报道，法国总统马克龙23日在受访时表示，如果俄罗斯总统普京也有同样意愿，他准备与对方沟通。报道提到，马克龙还表示，“恢复对话只有在重回国际法框架的条件下才有可能，这是保持和平状态的唯一途径。”  （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0072050.d.html</link>
-            <guid>3152577</guid>
-            <pubDate>Fri, 23 Jun 2023 10:28:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【水利部和中国气象局联合发布橙色山洪灾害气象预警】“中国水利”微信公众号消息，水利部和中国气象局6月23日18时联合发布橙色山洪灾害气象预警：预计，6月23日20时至6月24日20时，浙江西部、江西东北部、湖南南部、广东西北部、广西东部等地部分地区发生山洪灾害可能性较大（黄色预警），其中，广东西北部、广西东部局地发生山洪灾害可能性大（橙色预警），预警区域涉及的县（市、区）见下表。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6848582.d.html</link>
-            <guid>3152576</guid>
-            <pubDate>Fri, 23 Jun 2023 10:26:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股：于6月23日回购119万股，每股作价333.2-340.6港元，共耗资约4亿港元。]]></title>
-            <guid>3152575</guid>
-            <pubDate>Fri, 23 Jun 2023 10:26:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国议员将批准价值110亿欧元的直升机和船只订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0070792.d.html</link>
-            <guid>3152574</guid>
-            <pubDate>Fri, 23 Jun 2023 10:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：可以在发展中国家和新兴市场国家开展工作，以提升原材料的价值，并通过创建价值链来创造就业和增加内部生产。]]></title>
-            <guid>3152573</guid>
-            <pubDate>Fri, 23 Jun 2023 10:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：要高度关注汇率风险，要求在多个工作组中对此进行讨论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6847178.d.html</link>
-            <guid>3152572</guid>
-            <pubDate>Fri, 23 Jun 2023 10:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：提议将气候脆弱性因素纳入世界银行和IMF的可持续性评估，这是为了允许更多的投资应用在气候变化方面。]]></title>
-            <guid>3152571</guid>
-            <pubDate>Fri, 23 Jun 2023 10:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[声明显示：加密货币公司Crypto.com在西班牙获得虚拟资产服务提供商注册。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6845449.d.html</link>
-            <guid>3152569</guid>
-            <pubDate>Fri, 23 Jun 2023 10:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港“中小企融资担保计划”延长还息不还本安排】香港按证保险有限公司受政府委托，宣布“中小企融资担保计划”下还息不还本安排的申请期再度延长三个月，至2023年9月底完结，还息不还本期上限维持在42 个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0068264.d.html</link>
-            <guid>3152568</guid>
-            <pubDate>Fri, 23 Jun 2023 10:14:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国在野党代表考察福岛核电站 反对核污染水排海】据福岛电视台23日消息，韩国在野党正义党的议员团和日本社民党的议员当天考察了福岛第一核电站，就日本政府和东京电力公司计划今年夏季左右将福岛第一核电站核污染水排放入海交换了意见。韩国正义党议员代表对排海计划表示反对。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6845347.d.html</link>
-            <guid>3152567</guid>
-            <pubDate>Fri, 23 Jun 2023 10:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其财政部长Simsek：整个进程将逐步进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6844273.d.html</link>
-            <guid>3152566</guid>
-            <pubDate>Fri, 23 Jun 2023 10:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其财政部长Simsek：经济政策旨在实现价格稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6844149.d.html</link>
-            <guid>3152565</guid>
-            <pubDate>Fri, 23 Jun 2023 10:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国越南商定建立稀土类等关键矿物供应链合作体系】韩越两国决定以韩国总统尹锡悦对越南进行国事访问为契机，争取到2030年将双边贸易额扩至1500亿美元。两国还商定打造稀土类等关键矿物供应链合作体系，并正式开展碳减排量跨境交易合作，进一步拓展经济合作范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0066932.d.html</link>
-            <guid>3152564</guid>
-            <pubDate>Fri, 23 Jun 2023 10:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【蒙牛乳业：斥资约1205万港元回购40.4万股】蒙牛乳业在港交所发布公告，当日斥资1205.14万港元回购股份40.4万股，每股回购价格为29.65港元至30港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6843897.d.html</link>
-            <guid>3152563</guid>
-            <pubDate>Fri, 23 Jun 2023 10:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰国际：欧元区PMI数据预示第二季度GDP将再度萎缩】荷兰国际银行经济学家Bert Colijn表示，欧元区6月份PMI大幅下滑，表明经济在第二季度接近尾声时走弱，可能意味着欧元区又一个季度GDP将出现负增长。制造业活动继续恶化，同时调查还显示，服务业活动重新恢复增长的势头已接近尾声。Colijn表示，最近的PMI数据进一步证明，冬季衰退后的反弹将令人失望。他补充称，疲弱的经济形势加上通胀持续改善，对欧洲央行来说似乎是鸽派的，不过政策制定者目前似乎倾向于加大收紧力度，而不是放松。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpui3084027.d.html</link>
-            <guid>3152562</guid>
-            <pubDate>Fri, 23 Jun 2023 10:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：科技行业出现了10周来最大资金外流(20亿美元)。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpui3083388.d.html</link>
-            <guid>3152561</guid>
-            <pubDate>Fri, 23 Jun 2023 10:06:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[星巴克工会表示，有超过150家门店的工人将举行罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6842596.d.html</link>
-            <guid>3152560</guid>
-            <pubDate>Fri, 23 Jun 2023 10:06:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[受到股票资金外流、债券资金流入放缓和股票市场广度恶化的影响，美国银行牛熊指标从3.6下降至3.4。]]></title>
-            <guid>3152559</guid>
-            <pubDate>Fri, 23 Jun 2023 10:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台6月23日18时继续发布暴雨黄色预警】中央气象台6月23日18时继续发布暴雨黄色预警：预计，6月23日20时至24日20时，云南东南部和西北部、广西大部、广东中西部、湖南南部、江西中南部和东北部、福建西北部、浙江西部和北部、上海、江苏东南部、安徽东南部等地有大到暴雨，其中，广西东部、广东西北部、江西东北部、浙江西南部和东北部、上海、江苏东南部等地的局部地区有大暴雨（100～200毫米）；上述部分地区伴有短时强降水（最大小时降雨量40～60毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0065370.d.html</link>
-            <guid>3152558</guid>
-            <pubDate>Fri, 23 Jun 2023 10:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中央气象台6月23日18时继续发布高温橙色预警】中央气象台6月23日18时继续发布高温橙色预警：预计6月24日白天，华北、黄淮等地将持续出现35℃以上的高温天气，其中，北京、天津、河北、山东中北部、河南北部等地最高气温有37~39℃，北京、天津、河北中部、山东北部等地的部分地区可达40℃左右；此外，新疆吐鲁番和南疆盆地、内蒙古西部和东部等地也有35~38℃的高温天气，局地最高气温可达40℃左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6842235.d.html</link>
-            <guid>3152557</guid>
-            <pubDate>Fri, 23 Jun 2023 10:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：英国股市连续第24周出现资金流出，今年只有1周出现资金流入，过去18个月只有7周出现资金流入。]]></title>
-            <guid>3152556</guid>
-            <pubDate>Fri, 23 Jun 2023 10:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行：根据EPFR数据，截至周三，债券市场流入54亿美元，黄金市场流出10亿美元，股票市场流出50亿美元，现金流出139亿美元。]]></title>
-            <guid>3152555</guid>
-            <pubDate>Fri, 23 Jun 2023 10:04:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【端午假期第二天长三角铁路预计发送旅客260万人次】据央视新闻，6月23日是端午小长假第二天，长三角铁路客流持续保持高位运行，当日预计发送旅客260万人次。铁路部门在启用高峰线的基础上，加大对重点时段和热门方向的运力投放，计划增开去往南昌、武汉、郑州、黄山、安庆、连云港等方向54趟旅客列车，对214趟动车组列车组织重联运行。由于今年端午小长假紧邻高考和长三角一市三省中考后，学生群体出游意愿明显增加，假期客流整体呈现学生流、旅游流、探亲流叠加的态势。沪宁、宁杭、沪杭、杭黄、宁安、合福、合杭、连镇、徐连等多条高铁沿线城市客流增加明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpui3081699.d.html</link>
-            <guid>3152552</guid>
-            <pubDate>Fri, 23 Jun 2023 09:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰统计局：乌克兰5月份M3货币供应量环比增长1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0062870.d.html</link>
-            <guid>3152551</guid>
-            <pubDate>Fri, 23 Jun 2023 09:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰统计局：乌克兰5月份M3货币供应量同比增长25.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6839966.d.html</link>
-            <guid>3152550</guid>
-            <pubDate>Fri, 23 Jun 2023 09:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：将在9月的金砖国家会议上讨论使用非美元货币进行国际贸易的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0062807.d.html</link>
-            <guid>3152549</guid>
-            <pubDate>Fri, 23 Jun 2023 09:56:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉：欧盟关于南共市场贸易协定的信函对巴西构成威胁，使达成协议变得不可能。]]></title>
-            <guid>3152548</guid>
-            <pubDate>Fri, 23 Jun 2023 09:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑土耳其里拉USD/TRY再次升至25.4，接近昨晚创下的25.59的历史最高点。]]></title>
-            <guid>3152547</guid>
-            <pubDate>Fri, 23 Jun 2023 09:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本通报全球首例因感染Oz病毒死亡病例】日本厚生劳动省当天发布消息称，经过研究判明，一名去年夏天在茨城县去世的老年女性，死因是感染了Oz病毒（OzVirus），这是全球首次报告人类感染Oz病毒后出现症状并死亡的病例。据悉，Oz病毒通过蜱虫传播，最早于2018年在日本被发现。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6835961.d.html</link>
-            <guid>3152546</guid>
-            <pubDate>Fri, 23 Jun 2023 09:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[菲律宾财政部长：新任央行行长雷蒙纳能够处理紧缩货币政策解除所带来的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0058767.d.html</link>
-            <guid>3152545</guid>
-            <pubDate>Fri, 23 Jun 2023 09:43:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【香港证监会与警方对证券欺诈及非法卖空活动采取联合行动后检控四人】继此前香港证监会与警方对证券交易的欺诈活动及非法卖空活动采取联合行动后，有四名嫌疑人今天在香港东区裁判法院应讯，被控以欺诈罪及非法卖空的交替控罪。目前该案件押后至2023年8月18日，将会移交区域法院审理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpui3077006.d.html</link>
-            <guid>3152544</guid>
-            <pubDate>Fri, 23 Jun 2023 09:37:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【石药集团：斥资约2010万港元回购300万股】石药集团公布，当日计划受托人根据计划的条款及条件在市场上购买300万股公司股份，并为获选参与者的利益以信托方式持有该等股份，所购买股份的总代价为2010万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0055796.d.html</link>
-            <guid>3152543</guid>
-            <pubDate>Fri, 23 Jun 2023 09:34:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国生物制药：斥资约1332万港元回购400万股】中国生物制药发布公告，当日斥资约1332万港元回购400万股，回购价为每股3.33港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6832239.d.html</link>
-            <guid>3152542</guid>
-            <pubDate>Fri, 23 Jun 2023 09:31:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：该模型建议了一套宏观经济政策，如果一起实施，可以实现资源的最佳配置，不同的宏观经济政策似乎不太可能相互替代，所有政策必须同时相互配合以发挥作用。]]></title>
-            <guid>3152541</guid>
-            <pubDate>Fri, 23 Jun 2023 09:29:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河南南阳：中心城区买首套新房契税补贴50% 多子女家庭再补最多2万元】据澎湃新闻，从河南省南阳市人民政府官网获悉，近期南阳市在支持中心城区刚需和改善性购房方面出台一系列利好政策。按照政策，南阳市实施多子女家庭购房补贴，符合国家生育政策的多孩且孩子为未成年人的家庭（不限户籍），凡2023年5月1日至12月31日期间（以购房合同网签时间为准），在市中心城区购买首套新建商品住房，以货币形式给予一次性1万至2万元的购房补贴。享受多子女家庭购房补贴可以同时享受其他购房补贴。同时，实施购房契税补贴，凡2023年5月1日至12月31日期间（以购房合同网签时间为准），在南阳市中心城区购买首套新建商品住房的购房人（不限户籍），网签且足额交纳契税后，按照先全额交纳契税后申请契税补贴的原则，可享受契税总额50%的补贴，补贴以货币形式一次性发放。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0054321.d.html</link>
-            <guid>3152540</guid>
-            <pubDate>Fri, 23 Jun 2023 09:29:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：我们研究了一个具有“大规模”异质性的基准DSGE模型（动态随机一般均衡模型）。]]></title>
-            <guid>3152539</guid>
-            <pubDate>Fri, 23 Jun 2023 09:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储布拉德：货币政策要有能力调整经济每个时期的物价水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6831236.d.html</link>
-            <guid>3152538</guid>
-            <pubDate>Fri, 23 Jun 2023 09:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际电信联盟无线电部门通过6G框架和总体目标建议书】据中国信通院，2023年6月12日-22日，国际电信联盟无线电通信部门5D工作组（ITU-R WP5D）第44次会议在瑞士日内瓦召开。国际电联如期完成了《IMT面向2030及未来发展的框架和总体目标建议书》。该建议书作为6G纲领性的文件，汇聚了全球6G愿景共识，描绘了6G目标与趋势，提出了6G的典型场景及能力指标体系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpun6831124.d.html</link>
-            <guid>3152537</guid>
-            <pubDate>Fri, 23 Jun 2023 09:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛力斯SERES5完成欧洲首批交付】赛力斯SERES5于21日完成欧洲首批用户交付，这被公司视为新能源汽车出海的一次里程碑事件。赛力斯方面为车主交付钥匙并授予终身质保，赛力斯挪威形象大使、知名越野拉力车手安德烈亚斯作为SERES5在挪威的第一位车主现身。赛力斯表示，将不断深化新能源汽车海外发展战略布局，拓展全球市场，未来将持续导入更多新产品。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0052751.d.html</link>
-            <guid>3152536</guid>
-            <pubDate>Fri, 23 Jun 2023 09:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金融服务公司Ebury：英镑对加息的反应表明市场对英国央行缺乏信心】金融服务公司Ebury表示，在英国央行周四超出预期的加息后，英镑未能守住最初的涨幅，这表明市场对英国央行完成价格稳定使命的能力缺乏信心。Ebury策略师Matthew Ryan表示，政策制定者近乎一致的态度标志着英国央行再次“尴尬地承认”他们仍然“严重低估了通胀超调的程度，以及为稳定通胀预期所需的紧缩程度”。越来越多的人认为，英国央行仍落后于当前经济形势，需要采取积极行动来纠正这种局面。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0052641.d.html</link>
-            <guid>3152535</guid>
-            <pubDate>Fri, 23 Jun 2023 09:23:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣铃木俊一：不会对外汇水平发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpuq9188770.d.html</link>
-            <guid>3152533</guid>
-            <pubDate>Fri, 23 Jun 2023 09:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣铃木俊一：货币汇率应由市场根据基本面决定，我们密切关注外汇波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpum0051537.d.html</link>
-            <guid>3152532</guid>
-            <pubDate>Fri, 23 Jun 2023 09:20:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣铃木俊一：剧烈的外汇波动不可接受。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-06-23/detail-imyyhpui3072408.d.html</link>
-            <guid>3152531</guid>
-            <pubDate>Fri, 23 Jun 2023 09:19:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
