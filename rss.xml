@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 02 Jul 2023 18:06:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 21:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【代糖股大涨背后 阿斯巴甜陷入争议】碳酸饮料配料表中最常见的阿斯巴甜，近期卷入了“可能致癌”风波。阿斯巴甜是常见的人工合成甜味剂之一。市面上主打“无糖”的食品饮料，有不少使用了阿斯巴甜，包括无糖汽水、口香糖等。不过需要注意的是，中国作为世界最大的甜味剂生产国，阿斯巴甜的产量在逐年下滑。与此同时，天然甜味剂在代糖产品的应用占比在快速增加。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziuzc5509888.d.html</link>
+            <guid>3161479</guid>
+            <pubDate>Sun, 02 Jul 2023 18:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【人人都为AIGC狂，似2000年互联网泡沫重演？】硅谷投资人和纽交所交易员如何看待本轮AI繁荣与2000年科技繁荣的异同？2023年上半年，ChatGPT成为席卷全球的现象级应用，各路资金争相涌入AIGC（人工智能生成内容）：概念股的涨势迅猛，初创项目遍地开花，相关话题持续霸屏……以上种种，无一不让投资者联想起美国史上最大的金融泡沫之一——千禧年的那场互联网泡沫危机。“如果要说时隔20年的两次繁荣有何共同点，那就是无论资金还是人才都在涌入相关领域，场面热火朝天。”六禾创投合伙人陈璧葵在接受采访时表示。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5630855.d.html</link>
+            <guid>3161478</guid>
+            <pubDate>Sun, 02 Jul 2023 18:07:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【民调显示：超半数美国人赞成禁止基于种族因素进行大学招生】当地时间7月2日，根据美国广播公司/益普索民意调查结果显示，大多数美国人赞成最高法院禁止基于种族因素进行大学招生的裁决。民调显示，超过半数的美国人（52%）支持这一裁决，32%的人不赞同，另外16%的人表示不知道。有75%共和党籍受访者和58%独立人士支持这一裁决，而仅有26%少数民主党籍受访者表示赞成。民调还发现，不同的种族群体在该问题上存在深刻分歧。大多数白人（60%）和亚裔受访者（58%）赞成最高法院禁止基于种族因素进行大学招生，而仅有25%的非裔美国人支持该裁决。西班牙裔受访者的意见存在分歧，40%表示支持，40%表示不支持。（北京日报）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-03/detail-imyziqtf5625550.d.html</link>
@@ -469,30 +481,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvp5925460.d.html</link>
             <guid>3161381</guid>
             <pubDate>Sun, 02 Jul 2023 10:39:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海发布暴雨蓝色+大风蓝色预警，防汛防台四级响应同步启动】上海中心气象台2023年07月02日18时11分发布暴雨蓝色预警信号：受强雷暴云团影响，预计未来6小时内全市累积降水量将达50毫米以上，请注意防范强降雨可能引发的城市积涝，并做好低洼、易受淹地区排水防涝工作。18时15分发布大风蓝色预警信号：受强雷暴云团影响，预计未来6小时内本市将出现7-9级雷雨大风，局部地区伴有冰雹，请注意防范大风对高空作业、交通出行、设施农业等的不利影响。目前，申城暴雨蓝色+大风蓝色+雷电黄色三预警高挂。据@上海防汛 ，全市防汛防台IV级（四级）响应同步启动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2702032.d.html</link>
-            <guid>3161379</guid>
-            <pubDate>Sun, 02 Jul 2023 10:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【重提“逆周期调节”、删去“结构性工具有进有退”，央行这场例会释放重磅信号】6月30日，央行召开货币政策委员会第二季度例会，对当前国内外经济形势做出判断：国内经济运行整体回升向好，市场需求稳步恢复，生产供给持续增加，但内生动力还不强，需求驱动仍不足。并明确了下一季度的工作重点。重提“加大逆周期调节力度”、删去结构性货币政策工具“有进有退”……央行最新例会内容释放了几大政策信号。在需求驱动不足的背景下，二季度货币政策委员会例会重提“加大逆周期调节力度”，稳增长工具箱打开。（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2701917.d.html</link>
-            <guid>3161378</guid>
-            <pubDate>Sun, 02 Jul 2023 10:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗马尼亚驱逐俄外交官】据“今日俄罗斯”，7月2日，罗马尼亚政府宣布驱逐40名俄罗斯外交官和俄罗斯驻罗马尼亚大使馆工作人员。俄罗斯外交部对此回应称，莫斯科将对布加勒斯特方面的行为作出适当回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvr2701617.d.html</link>
-            <guid>3161377</guid>
-            <pubDate>Sun, 02 Jul 2023 10:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泸州老窖：对中长期仍然看好，将实施积极的进攻性策略】泸州老窖近日接受机构调研时表示，经济需要有逐步启动恢复的过程，但对于优秀的企业来说恰好是历史性的机遇，公司对中长期仍然看好，将实施积极的进攻性策略。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-02/detail-imyzhxvm7170045.d.html</link>
-            <guid>3161375</guid>
-            <pubDate>Sun, 02 Jul 2023 10:20:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
