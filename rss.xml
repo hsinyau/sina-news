@@ -4,21 +4,307 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 05 Jul 2023 15:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 18:08:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[评美联储会议纪要：鲍威尔似乎成功地让所有官员在6月份支持暂停（加息），但显然，对他来说，保持这种一致将是一个挑战。]]></title>
+            <guid>3165514</guid>
+            <pubDate>Wed, 05 Jul 2023 18:08:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[分析师评美联储会议纪要：美联储工作人员仍然预测经济衰退，这与鲍威尔表示没有看到衰退相反。美国财长耶伦最近表示，经济衰退的可能性已经降低。]]></title>
+            <guid>3165513</guid>
+            <pubDate>Wed, 05 Jul 2023 18:07:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[在美联储会议纪要发布后，美元指数自日高回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsnea9408217.d.html</link>
+            <guid>3165512</guid>
+            <pubDate>Wed, 05 Jul 2023 18:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：一些与会者表示他们支持或可能支持将目标利率上调25个基点，所有与会者一致认为保持紧缩立场是适当的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncx3173680.d.html</link>
+            <guid>3165510</guid>
+            <pubDate>Wed, 05 Jul 2023 18:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：少数与会者指出，随着财政部增加短期国债发行，可能会对货币市场利率产生上行压力，这可能导致逆回购操作的使用减少。]]></title>
+            <guid>3165508</guid>
+            <pubDate>Wed, 05 Jul 2023 18:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储会议纪要：官员们看到了经济增长的下行风险。失业率上升的风险上升。官员表示近几个季度国内生产总值(GDP)表现强劲，但在2023年剩余时间内将会受到抑制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncz2630494.d.html</link>
+            <guid>3165507</guid>
+            <pubDate>Wed, 05 Jul 2023 18:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率涨超8.0个基点，在美联储6月会议纪要发布前刷新日高至3.9395%。]]></title>
+            <guid>3165504</guid>
+            <pubDate>Wed, 05 Jul 2023 17:59:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【6月份中国大宗商品指数102.8% 供需双侧联动上扬】中国物流与采购联合会7月5日发布数据显示，6月份中国大宗商品指数为102.8%，较上月上升2.1个百分点，已连续两个月上升。各分项指数中，供应指数连续两个月上升，销售指数止跌反弹，库存指数有所回落。中国物流信息中心综合信息处处长、中物联农业产业供应链分会秘书长李大为表示，从指数的变化情况来看，6月份指数继续上升，且供需双侧联动上扬，特别是需求端回升力度强于供应端，令市场库存压力有所缓解，显示随着国内经济运行保持恢复发展态势，叠加稳增长政策预期增强，大宗商品市场需求恢复，市场人气有所积聚，采购、生产等经营活动积极，6月份国内大宗商品市场呈现“供需双旺、稳中向好”的特征。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncx3173431.d.html</link>
+            <guid>3165503</guid>
+            <pubDate>Wed, 05 Jul 2023 17:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国含硫原油溢价创三年新高，得益于沙特自愿延长石油减产时间、美国更新关于购买石油用于回填战略石油储备（SPR）的招标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsnea9406114.d.html</link>
+            <guid>3165502</guid>
+            <pubDate>Wed, 05 Jul 2023 17:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【基民懵圈：益民服务领先混合近11日净值变化为0】 据中国基金报，“一季度末股票仓位还超9成，近11个交易日净值不动了，发生了什么？”投资者在基金吧里纷纷留言。上述被热议的是益民服务领先混合，记者注意到，近13个交易日中，有11个交易日的净值变动为0，其中连续9个交易日没有任何变动。更蹊跷的是，基金经理在一季度大幅加仓，表示看好且判断市场处于底部，却在二季度大幅减仓，从9成仓位骤降至0。投资者直呼看不懂。业内人士表示，从该基金成立以来的净值波动情况来看，此前还从未出现连续这么多个交易日净值波动为0，显然这只权益基金已经没有股票仓位。沪上一位基金业内人士表示，因为灵活配置型基金已经不会再有新的审批，所以这类壳资源相对比较值钱。很多基金公司会留着这种壳资源日后跟银行来做一些定制策略产品。不过机构定制债基比较多，权益基金并不多见。另一位业内人士表示，也有一种可能要发生基金经理变更，在变更的过程当中，不想让净值波动。也会有这种情况。但也比较少见。此外，对于投资者质疑的该基金产品是否有清盘风险一说，上述业内人士均认为，规模0.6亿元，目前按照监管窗口指导，不太会逼着基金公司去清盘，而且也没必要把0.6亿的一个产品去停掉。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncz2626535.d.html</link>
+            <guid>3165488</guid>
+            <pubDate>Wed, 05 Jul 2023 17:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：人工智能区块链公司Web3Go获币安实验室400 万美元种子轮投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncx3171458.d.html</link>
+            <guid>3165486</guid>
+            <pubDate>Wed, 05 Jul 2023 17:27:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（7月5日），美联储隔夜逆回购协议（RRP）使用规模为1.868万亿美元，上个交易日报1.910万亿美元。]]></title>
+            <guid>3165481</guid>
+            <pubDate>Wed, 05 Jul 2023 17:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利国家铜业公司估计最近的降雨导致产量损失约7000吨】智利国家铜业公司（CODELCO）估计由于最近的降雨导致产量损失约7000吨；预计到2023年底，铜产量将位于135-142万吨区间的下沿；铜生产将于明年开始恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsnee9286070.d.html</link>
+            <guid>3165479</guid>
+            <pubDate>Wed, 05 Jul 2023 17:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债收益率扩大涨幅，10年期国债收益率上涨8个基点至3.93%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncx3170092.d.html</link>
+            <guid>3165478</guid>
+            <pubDate>Wed, 05 Jul 2023 17:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国新泽西近海风电场将获得拜登的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsnee9285922.d.html</link>
+            <guid>3165477</guid>
+            <pubDate>Wed, 05 Jul 2023 17:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.12%，沪铜收涨0.07%，沪铝收跌0.17%，沪锌收跌1.29%，沪铅收涨0.26%，沪镍收涨3.92%，沪锡收涨2.18%。氧化铝夜盘收跌0.04%。不锈钢夜盘收涨0.71%。]]></title>
+            <guid>3165476</guid>
+            <pubDate>Wed, 05 Jul 2023 17:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原子能机构：未在扎波罗热核电站发现地雷或爆炸物痕迹】国际原子能机构5日发表声明说，在扎波罗热核电站，目前并未发现任何地雷或其他爆炸物的痕迹。声明说，近期，国际原子能机构的专家检查了核电站的部分区域，包括大型冷却池周边，迄今为止没有观察到任何可见的地雷或爆炸物痕迹。声明同时提出，希望能够得到更多权限，包括前往3号和4号反应堆机组的屋顶以及进入涡轮机大厅和冷却系统所在地进行检查。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsnea9395087.d.html</link>
+            <guid>3165475</guid>
+            <pubDate>Wed, 05 Jul 2023 17:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹中达尔富尔州所有医院均已停止运转】苏丹达尔富尔地区卫生和社会福利部长哈姆丁当地时间7月5日表示，由于安全局势持续紧张，中达尔富尔州除首府扎林盖市东部一个小型社区卫生中心尚在运转之外，包括全部医院在内的该州所有卫生机构均已停止服务，很多医护人员已逃离该州。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncz2617511.d.html</link>
+            <guid>3165474</guid>
+            <pubDate>Wed, 05 Jul 2023 16:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LME期镍大涨逾3%】
+LME期铜收跌40美元，报8319美元/吨。
+LME期铝收跌25美元，报2142美元/吨。
+LME期锌收跌54美元，报2358美元/吨。
+LME期铅收跌27美元，报2066美元/吨。
+LME期镍收涨699美元，涨幅3.41%，报21207美元/吨。
+LME期锡收涨313美元，报27320美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsncz2617433.d.html</link>
+            <guid>3165472</guid>
+            <pubDate>Wed, 05 Jul 2023 16:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特部长表示，科威特并未要求欧佩克+增加配额。科威特石油产能将在2024年底达到每日320万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwc2745564.d.html</link>
+            <guid>3165470</guid>
+            <pubDate>Wed, 05 Jul 2023 16:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【奥迪将于本月在墨西哥推出电动汽车生产计划】据报道，三位知情人士称，大众旗下的奥迪计划于7月18日宣布在墨西哥生产电动汽车的计划。预计来自德国的高层管理人员将出席，这可能涉及重大投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwe9522653.d.html</link>
+            <guid>3165469</guid>
+            <pubDate>Wed, 05 Jul 2023 16:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰6月份的失业率为5.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwe9521056.d.html</link>
+            <guid>3165468</guid>
+            <pubDate>Wed, 05 Jul 2023 16:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国生物技术公司Adocia获得投资者提供1000万欧元的承诺，将于7月6日在巴黎欧洲交易所恢复交易。]]></title>
+            <guid>3165466</guid>
+            <pubDate>Wed, 05 Jul 2023 16:34:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华友钴业津巴布韦分公司自4月以来出口了30000吨锂。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwe9519161.d.html</link>
+            <guid>3165464</guid>
+            <pubDate>Wed, 05 Jul 2023 16:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大电信和媒体公司可即可（Cogeco）撤出了其对Meta Platforms的广告业务投资。]]></title>
+            <guid>3165463</guid>
+            <pubDate>Wed, 05 Jul 2023 16:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众汽车北美公司销售量在二季度同比上升1.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwc2740670.d.html</link>
+            <guid>3165462</guid>
+            <pubDate>Wed, 05 Jul 2023 16:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大政府停止在Facebook与Instagram平台投放广告，因其与相关平台运营者Meta Platforms公司面对该国新版新闻法规仍存有争议。]]></title>
+            <guid>3165461</guid>
+            <pubDate>Wed, 05 Jul 2023 16:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期英债收益率涨约8个基点，投资者关注英国央行加息至峰值6.5%的预期】 
+周三（7月5日）欧市尾盘，英国10年期国债收益率上涨7.9个基点，报4.494%。两年期英债收益率涨5.8个基点，报5.377%；30年期英债收益率涨6.5个基点。
+2/10年期英债收益率利差涨2.349个基点，报-88.920个基点，脱离欧股盘初跌至的日低-92.796个基点，整体上徘徊于7月3日跌至的-96.988个基点——逼近-100个基点关口和2000年6月13日-104.250个基点的水平。
+德国10年期国债收益率涨2.3个基点，报2.476%，盘中交投于2.404%-2.485%区间。
+两年期德债收益率涨1.4个基点，报3.235%，盘中交投于3.184%-3.247%区间；30年期德债收益率涨4.2个基点，报2.489%。
+2/10年期德债收益率利差涨0.797个基点，报-76.299个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwc2737891.d.html</link>
+            <guid>3165460</guid>
+            <pubDate>Wed, 05 Jul 2023 16:13:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国新能源电池公司Forsee Power与斯柯达汽车公司签署合约，将为电力火车提供装备服务。]]></title>
+            <guid>3165459</guid>
+            <pubDate>Wed, 05 Jul 2023 16:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大6月份汽车销量同比增长12.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwc2737357.d.html</link>
+            <guid>3165458</guid>
+            <pubDate>Wed, 05 Jul 2023 16:10:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯经济今年一季度同比收缩1.8%。7月3日当周消费物价指数环比上涨0.13%。开年截至7月3日当周消费物价指数上涨2.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-06/detail-imyzsfwc2733844.d.html</link>
+            <guid>3165456</guid>
+            <pubDate>Wed, 05 Jul 2023 16:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【在田作物受旱面积1065万亩，河北启动干旱防御Ⅳ级应急响应】 据央视，根据河北省水利厅的消息，受降水偏少、气温偏高影响，河北省部分地区出现不同程度旱情。目前，河北省在田作物受旱面积1065万亩，已启动干旱防御Ⅳ级应急响应。为保障农业灌溉用水，河北争取南水北调中线生态补水，各地搞好现有水利设施的维护、检修工作，提高各类设施的完好率，根据旱情、水源条件和水利设施供水能力，合理调配水源，扩大灌溉面积，抗旱浇地1764万亩，最大程度减轻灾害损失。截至6月29日，河北全省大中型水库总蓄水量29.25亿立方米，比常年同期多蓄水10.85亿立方米。近期河北又争取引黄水量1.44亿立方米，进一步增加抗旱水源，为抗旱灌溉提供了重要的水源支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2733061.d.html</link>
+            <guid>3165453</guid>
+            <pubDate>Wed, 05 Jul 2023 15:57:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因污染河流 英国泰晤士水务公司被罚330万英镑】据英国天空新闻网报道，由于排水系统在2017年对伦敦盖特威克机场附近河流造成污染，英国泰晤士水务公司在7月4日被法院判处罚款330万英镑（约合人民币3028万元）。泰晤士水务公司也承认，犯了重大错误。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2732173.d.html</link>
+            <guid>3165450</guid>
+            <pubDate>Wed, 05 Jul 2023 15:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（7月5日）欧市尾盘，ICE英国天然气期货跌3.49%，报83.750便士/千卡。
+TTF基准荷兰天然气期货跌3.97%，报33.900欧元/兆瓦时。
+ICE欧盟碳排放交易许可（期货价格）跌0.37%，报86.00欧元/吨。]]></title>
+            <guid>3165449</guid>
+            <pubDate>Wed, 05 Jul 2023 15:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌0.66%】欧洲主要股指集体收跌，德国DAX30指数跌0.66%，英国富时100指数跌0.96%，法国CAC40指数跌0.8%，欧洲斯托克50指数跌0.91%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwe9508538.d.html</link>
+            <guid>3165448</guid>
+            <pubDate>Wed, 05 Jul 2023 15:44:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  德国DAX30指数7月5日（周三）收盘下跌105.72点，跌幅0.66%，报15933.45点；
+英国富时100指数7月5日（周三）收盘下跌72.24点，跌幅0.96%，报7447.48点；
+法国CAC40指数7月5日（周三）收盘下跌59.12点，跌幅0.80%，报7310.81点；
+欧洲斯托克50指数7月5日（周三）收盘下跌40.14点，跌幅0.91%，报4350.85点；
+西班牙IBEX35指数7月5日（周三）收盘下跌104.09点，跌幅1.09%，报9484.31点；
+意大利富时MIB指数7月5日（周三）收盘下跌165.88点，跌幅0.58%，报28221.00点。]]></title>
+            <guid>3165447</guid>
+            <pubDate>Wed, 05 Jul 2023 15:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【柏睿数据：携行业大模型解决方案亮相2023全球数字经济大会】 7月5日，从柏睿数据获悉，柏睿数据携行业大模型解决方案亮相2023全球数字经济大会人工智能展区，主要包括LLMOps平台（大模型开发运维平台）、Rapids VectorDB（向量数据库）等产品体系。据柏睿数据介绍，行业大模型可助力工业、金融等领域企业高效、简单地构建和应用完美适配业务场景的AI大模型，以及基于领域大模型构建未来应用。截至目前，已有80余个大模型公开发布，其中北京约占一半。大模型产品及服务正不断向各行各业拓展，未来或将成为企业标配。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwe9508305.d.html</link>
+            <guid>3165446</guid>
+            <pubDate>Wed, 05 Jul 2023 15:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行首席银行监管官员的候选者名单进一步缩小，Buch与Delgado两人成为最后的竞逐者。]]></title>
+            <guid>3165445</guid>
+            <pubDate>Wed, 05 Jul 2023 15:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国海油首个陆地集中式光伏发电项目并网发电】 7月5日从中国海油获悉，中国海油首个陆地集中式光伏发电项目——甘南合作市“牧光互补”40兆瓦集中式光伏发电项目成功并网发电，正式从草原深处向甘南电网输送清洁电力。该项目位于甘肃省甘南州合作市的高原山地村落，占地面积约93万平方米，海拔高度超3000米，总装机容量为40兆瓦，配套建有6兆瓦/12兆瓦时储能设施，与同等规模的火电项目相比，年发电量近6000万度，每年可节约标准煤超2万吨。（中证报）]]></title>
+            <guid>3165444</guid>
+            <pubDate>Wed, 05 Jul 2023 15:41:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法兴银行：欧/美较低的隐含波动率似忽略了欧元区经济面临的风险】法兴银行外汇衍生品策略师Olivier Korber在一份报告中称，鉴于欧元区经济不稳，欧元/美元隐含波动率水平较低看起来是（市场）自满的表现。欧元/美元的隐含波动率已下降到实际波动率的水平，似乎反映了市场的自满情绪，因欧元区最近面临一系列负面的经济意外，并进入了技术性衰退。随着利率急剧上升的影响，隐含波动率现在可能会上升。这位策略师表示，机械地收紧货币政策是以牺牲未来增长为代价的。据Refinitiv的数据，欧元/美元3个月期隐含波动率约为6.425%，低于年初时的8.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2730461.d.html</link>
+            <guid>3165443</guid>
+            <pubDate>Wed, 05 Jul 2023 15:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四个月期国债，得标利率5.250%（前次为5.225%），投标倍数3.31（前次为3.44）。]]></title>
+            <guid>3165442</guid>
+            <pubDate>Wed, 05 Jul 2023 15:32:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车：第二季度在美汽车销量691,978辆，增长19%，其中包括15,652辆电动车；第二季度美国汽车库存与第一季度持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2729176.d.html</link>
+            <guid>3165441</guid>
+            <pubDate>Wed, 05 Jul 2023 15:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收跌0.72%，报15924.62点。
+法国股指初步收跌0.89%，意大利股指初步收跌0.61%，英国股指初步收跌1.06%。]]></title>
+            <guid>3165440</guid>
+            <pubDate>Wed, 05 Jul 2023 15:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.80%，报457.62点。
+欧元区STOXX 50指数初步收跌0.97%，报4348.25点。
+富时泛欧绩优300指数初步收跌0.76%，报1815.12点。]]></title>
+            <guid>3165439</guid>
+            <pubDate>Wed, 05 Jul 2023 15:31:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰基辅舍甫琴科区法院发生爆炸】据乌克兰国家通讯社报道，当地时间7月5日，乌克兰基辅舍甫琴科区法院发生爆炸，据初步统计，有人受伤。乌克兰内务部目前已派调查人员，特种部队、排爆技术人员正在现场工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2728650.d.html</link>
+            <guid>3165438</guid>
+            <pubDate>Wed, 05 Jul 2023 15:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理朔尔茨接受联邦议会例行问询，称：将削减2024年政府预算】 7月5日，德国总理朔尔茨接受了联邦议会暑期休会前的例行问询。朔尔茨重点回应了2024年德国联邦政府预算问题。2024年该预算将从2023年4763亿欧元的基础上削减至4457亿欧元。每年德国议会暑期休会前，作为政府首脑的德国总理都会对内政外交等热点问题接受议员问询。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2727429.d.html</link>
+            <guid>3165436</guid>
+            <pubDate>Wed, 05 Jul 2023 15:23:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：对联合包裹服务公司（UPS）能与其工会成员达成协议感到乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2726591.d.html</link>
+            <guid>3165434</guid>
+            <pubDate>Wed, 05 Jul 2023 15:19:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【科威特石油部长：将遵守欧佩克的决定】科威特石油部长表示将遵守欧佩克的决定，希望在2024年底之前达到每日320万桶的产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwe9501785.d.html</link>
+            <guid>3165432</guid>
+            <pubDate>Wed, 05 Jul 2023 15:07:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[欧洲汽车企业Stellantis推出STLA平台，将生产电动汽车、跨界车以及运动型多用途汽车（SUV）。]]></title>
             <guid>3165431</guid>
             <pubDate>Wed, 05 Jul 2023 15:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：科威特寻求增加其在OPEC+中的产能配额。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzsfwc2723732.d.html</link>
-            <guid>3165429</guid>
-            <pubDate>Wed, 05 Jul 2023 15:03:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[美国10年期国债收益率上升至3.888%，超过6月30日的高点。]]></title>
@@ -90,358 +376,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9625268.d.html</link>
             <guid>3165410</guid>
             <pubDate>Wed, 05 Jul 2023 14:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西方面称，将在今天进行讨论税制改革，明天进行投票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2846777.d.html</link>
-            <guid>3165408</guid>
-            <pubDate>Wed, 05 Jul 2023 14:30:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华民股份：控股子公司签订2.5亿元单晶硅片销售合同】华民股份公告，公司控股子公司鸿新新能源于近日与棒杰新能源签署了《单晶硅片年度销售合同》，合同约定自2023年6月26日起至2024年6月20日止，棒杰新能源及其关联方计划向鸿新新能源采购单晶硅片8700万片，预计合同总金额约为2.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2846555.d.html</link>
-            <guid>3165407</guid>
-            <pubDate>Wed, 05 Jul 2023 14:29:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及石油部长表示，预计今年国内液化天然气收入将下降50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9623568.d.html</link>
-            <guid>3165406</guid>
-            <pubDate>Wed, 05 Jul 2023 14:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国道明尼能源弗吉尼亚公司从7月1日起降低用户费率，降幅约为每月14美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2846347.d.html</link>
-            <guid>3165404</guid>
-            <pubDate>Wed, 05 Jul 2023 14:28:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【圣龙股份：公司和小鹏汽车有油泵项目的交流】圣龙股份7月5日在互动平台回答投资者提问时表示，公司和小鹏汽车有油泵项目的交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9623347.d.html</link>
-            <guid>3165403</guid>
-            <pubDate>Wed, 05 Jul 2023 14:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[莫德纳（MRNA）一度涨超5.9%，刷新6月16日以来盘中高位至128.98美元。据澎湃报道，莫德纳在华签署投资谅解备忘录，mRNA药物只面向中国患者。]]></title>
-            <guid>3165401</guid>
-            <pubDate>Wed, 05 Jul 2023 14:22:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称正采取一切措施应对针对扎波罗热核电站的威胁】据央视新闻，俄罗斯总统新闻秘书佩斯科夫5日表示，乌克兰在扎波罗热核电站进行破坏行为的威胁巨大，其后果可能是灾难性的。佩斯科夫强调，俄罗斯正在采取一切措施来应对针对扎波罗热核电站的威胁。此前一天，俄乌双方分别指责对方计划破坏扎波罗热核电站。另据俄乌双方公布的消息，4日凌晨，扎波罗热核电站与750千伏主外部输电线路断开连接，后已转用备用输电线路。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2843698.d.html</link>
-            <guid>3165398</guid>
-            <pubDate>Wed, 05 Jul 2023 14:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对冲基金Legacy表示已在巴西股市建立了多头头寸，该基金认为巴西的宽松周期有超过400个基点的空间。]]></title>
-            <guid>3165397</guid>
-            <pubDate>Wed, 05 Jul 2023 14:18:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚奈拉兑美元汇率在远期市场创下新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqc3415077.d.html</link>
-            <guid>3165396</guid>
-            <pubDate>Wed, 05 Jul 2023 14:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣克莱弗利：乌克兰军队与英国及其他友邦和盟友一起接受了训练，并使用北约标准装备、战术。]]></title>
-            <guid>3165395</guid>
-            <pubDate>Wed, 05 Jul 2023 14:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国防大臣华莱士：北约已经明确表态，乌克兰的未来在于北约。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2843222.d.html</link>
-            <guid>3165394</guid>
-            <pubDate>Wed, 05 Jul 2023 14:16:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张家港行现1.16亿元折价大宗交易，折价率10.05%】张家港行7月5日大宗交易成交3000万股，成交额1.16亿元，占当日总成交额的69.82%，成交价3.85元，较市场收盘价4.28元折价10.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2842884.d.html</link>
-            <guid>3165391</guid>
-            <pubDate>Wed, 05 Jul 2023 14:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：昨天下午，剩下的唯一一条外部750千伏电力线路重新连接到扎波罗热核电站。]]></title>
-            <guid>3165390</guid>
-            <pubDate>Wed, 05 Jul 2023 14:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：我们专家的独立客观报告将有助于澄清目前的情况，这在这样的时刻至关重要。]]></title>
-            <guid>3165389</guid>
-            <pubDate>Wed, 05 Jul 2023 14:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国防大臣华莱士：与波兰长期的防务合作，包括签署的国防协议，展示了双方合作的决心；防务协议是长期的，持续20年，表明双方愿意分享技术和知识。]]></title>
-            <guid>3165388</guid>
-            <pubDate>Wed, 05 Jul 2023 14:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【德国总理朔尔茨接受联邦议会例行问询 称将削减2024年政府预算】德国总理朔尔茨接受了联邦议会暑期休会前的例行问询。朔尔茨重点回应了2024年德国联邦政府预算问题。2024年该预算将从2023年4763亿欧元的基础上削减至4457亿欧元。每年德国议会暑期休会前，作为政府首脑的德国总理都会对内政外交等热点问题接受议员问询。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9618116.d.html</link>
-            <guid>3165387</guid>
-            <pubDate>Wed, 05 Jul 2023 14:09:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：特别是，能够进入3号和4号反应堆机组的屋顶以及涡轮机厅的部分区域和核电站的冷却系统的一些部分是必不可少的。]]></title>
-            <guid>3165386</guid>
-            <pubDate>Wed, 05 Jul 2023 14:08:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【分析师评美国5月工厂订单月率】5月美国国防订单似乎特别疲软，这是一个时机问题，而不是经济疲软的迹象。不过，值得注意的是，之前的非国防资本货物空运报告被向下修正。总的来说，我们知道由于牛鞭效应，制造业疲软，所以这些数字并不令人非常失望。在库存方面，看起来它将在第二季度再次成为拖累。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9617971.d.html</link>
-            <guid>3165385</guid>
-            <pubDate>Wed, 05 Jul 2023 14:08:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：IAEA专家已要求获得进一步的访问权限，以确认该地点不存在地雷或爆炸物。]]></title>
-            <guid>3165384</guid>
-            <pubDate>Wed, 05 Jul 2023 14:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福达合金：重组能否达成一致尚有不确定性】福达合金发布股票交易异常波动公告，公司近期正和交易对方开曼铝业（三门峡）有限公司控股股东进行磋商，本次重组能否达成一致尚有不确定性，存在风险，公司将尽快公布进展情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2840698.d.html</link>
-            <guid>3165383</guid>
-            <pubDate>Wed, 05 Jul 2023 14:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国中水务：拟参与认购数字文化产业基金份额】国中水务公告，公司拟出资1000万元参与认购由佑柏私募作为普通合伙人发起的无锡滨湖沄柏数字文化产业投资合伙企业（有限合伙）（简称“数字文化产业基金”）基金份额。数字文化产业基金目标认缴出资总额为5亿元，主要拟投资于文化类、科技类、创新创意类、消费类、教育类企业及其他相关行业，寻找具有孵化潜力、高成长能力的优质项目，追求投资估值合理并具有增长驱动力的优质企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2840466.d.html</link>
-            <guid>3165382</guid>
-            <pubDate>Wed, 05 Jul 2023 14:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构：迄今为止，在扎波罗热核电站没有发现任何可见的地雷或爆炸物迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9617536.d.html</link>
-            <guid>3165381</guid>
-            <pubDate>Wed, 05 Jul 2023 14:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧股跌幅扩大，英国富时100指数、法国CAC40指数日内跌幅均达1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9617504.d.html</link>
-            <guid>3165380</guid>
-            <pubDate>Wed, 05 Jul 2023 14:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登政府宣布地区清洁氢能中心计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9616698.d.html</link>
-            <guid>3165379</guid>
-            <pubDate>Wed, 05 Jul 2023 14:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债收益率在工厂订单数据公布后微涨，10年期国债收益率上涨1.20个基点至3.870%。]]></title>
-            <guid>3165376</guid>
-            <pubDate>Wed, 05 Jul 2023 14:02:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月扣除国防的工厂订单月率 0.8%，前值-0.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2838156.d.html</link>
-            <guid>3165375</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月耐用品订单月率修正值 1.8%，预期1.70%，前值1.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2838129.d.html</link>
-            <guid>3165374</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月扣除运输的工厂订单月率 -0.5%，前值-0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9615236.d.html</link>
-            <guid>3165373</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国5月工厂订单月率 0.3%，预期0.80%，前值0.40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9615195.d.html</link>
-            <guid>3165372</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉将于7月20日发布2023年第二季度财报】特斯拉宣布，将于美国东部时间7月19日美国股市收盘后（北京时间7月20日）发布2023年第二季度财报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9615174.d.html</link>
-            <guid>3165371</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CBOT小麦日内大涨4.00%，现报667.00美分/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9615172.d.html</link>
-            <guid>3165370</guid>
-            <pubDate>Wed, 05 Jul 2023 14:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏宿迁：提高租房提取住房公积金额度，最高每月可提1600元】据江苏省宿迁市人民政府网站，7月4日，宿迁市发布《关于调整住房公积金有关政策的通知》。通知提到，提高租房提取住房公积金最高额度。提取住房公积金支付自住住房房租的，单身的缴存人，每月最高提取金额为1300元；已婚的缴存人，夫妻双方合计每月最高提取金额为1600元。房租支出低于最高额度的，按实际租金支付。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9614323.d.html</link>
-            <guid>3165369</guid>
-            <pubDate>Wed, 05 Jul 2023 13:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融创中国：2023年上半年，本集团累计实现合同销售金额约人民币521.4亿元，累计合同销售面积约383.7万平方米，合同销售均价约人民币13,590元/平方米。2023年上半年，归属于本公司的权益合同销售金额约人民币298.9亿元。]]></title>
-            <guid>3165368</guid>
-            <pubDate>Wed, 05 Jul 2023 13:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[融创中国：2023年6月，本集团实现合同销售金额约人民币70.2亿元，合同销售面积约46.5万平方米，合同销售均价约人民币15,100元/平方米。]]></title>
-            <guid>3165367</guid>
-            <pubDate>Wed, 05 Jul 2023 13:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【茂硕电源：国家限制镓出口对公司业绩无重大影响】茂硕电源在互动平台表示，目前公司的PD65W及150W属于应用氮化镓技术的电源产品，占总销售额比例较少，主要为出口；国家限制镓出口对公司业绩无重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2836008.d.html</link>
-            <guid>3165366</guid>
-            <pubDate>Wed, 05 Jul 2023 13:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小鹏汽车直线拉升，现涨超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9612684.d.html</link>
-            <guid>3165365</guid>
-            <pubDate>Wed, 05 Jul 2023 13:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字世界收购集团涨超10%至三个月高点，此前与特朗普有关的特殊目的收购公司(SPAC)与美国证交会达成合并协议。]]></title>
-            <guid>3165364</guid>
-            <pubDate>Wed, 05 Jul 2023 13:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方精工：公司董事长妹妹买卖公司股票交易均系其自主决策】南方精工回复深圳证券交易所，公司董事长妹妹在2023年6月29日之后存在如下买卖公司股票行为：于2023年7月3日买入14,600股公司股票，并于2023年7月4日卖出14,600股公司股票，2023年7月4日又买入10,000股公司股票，截止目前仍持有10,000股公司股票，其目前年龄较大，退休在家，上述交易均系其自主决策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2835231.d.html</link>
-            <guid>3165363</guid>
-            <pubDate>Wed, 05 Jul 2023 13:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳指转涨，成分股中，特斯拉涨超0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9611938.d.html</link>
-            <guid>3165362</guid>
-            <pubDate>Wed, 05 Jul 2023 13:49:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广电运通刷掌支付产品亮相2023年全球数字经济大会精品主题展】广电运通官微消息，公司旗下运通智能和腾讯公司共同打造的“刷掌支付”解决方案在2023全球数字经济大会精品主题展亮相。今年5月，运通智能“刷掌”乘车服务已在北京轨道交通大兴机场线正式上线，助力北京轨道交通大兴机场线成为全球首条刷掌支付技术应用的示范线。在此期间，运通智能申请了多项专利并参与了相关标准的制定，总体上实现了行业标准、专利技术、核心产品和应用场景的全覆盖。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2833446.d.html</link>
-            <guid>3165361</guid>
-            <pubDate>Wed, 05 Jul 2023 13:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股半导体板块普遍走弱，高通跌近2%，微芯科技跌1.7%，安森美半导体跌超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2833324.d.html</link>
-            <guid>3165360</guid>
-            <pubDate>Wed, 05 Jul 2023 13:44:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中哈合作委员会经贸合作分委会第十二次会议在京举行】7月5日，商务部副部长兼国际贸易谈判副代表凌激与哈萨克斯坦贸易和一体化部副部长托列巴耶夫在京共同主持召开中国—哈萨克斯坦合作委员会经贸合作分委会第十二次会议，就中哈经贸务实合作有关问题交换意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2832674.d.html</link>
-            <guid>3165359</guid>
-            <pubDate>Wed, 05 Jul 2023 13:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【欧佩克国际研讨会聚焦实现能源转型】第八届石油输出国组织（欧佩克）国际研讨会5日在奥地利首都维也纳开幕，探讨实现可持续和包容性的能源转型。欧佩克秘书长海赛姆·盖斯在开幕式上说，能源转型的可持续性在于平衡当代人和后代的需求，处理好发展与环境保护的关系；能源转型的包容性在于听取各方声音，认识到实现能源转型、应对气候变化存在多种途径。欧佩克轮值主席、赤道几内亚矿产与石化部长安东尼奥·奥布罗·翁多表示，本次研讨会将讨论全球石油行业面临的主要挑战和机遇，为欧佩克与石油消费国提供对话合作的平台。沙特能源大臣阿卜杜勒-阿齐兹·本·萨勒曼在研讨会上说，欧佩克将持续致力于维护全球石油市场稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqc3409621.d.html</link>
-            <guid>3165358</guid>
-            <pubDate>Wed, 05 Jul 2023 13:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[金现代在互动平台表示：公司研制的基于脑电波安全状态感知智能穿戴设备项目目前处于暂停状态。]]></title>
-            <guid>3165357</guid>
-            <pubDate>Wed, 05 Jul 2023 13:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【恒帅股份：谐波磁场电机相关研发项目预计今年进行产业化落地】恒帅股份接受机构调研时表示，由于谐波磁场电机的特殊磁路设计，其制造精度和装配复杂度要求更高，具有更高的制造壁垒。谐波磁场电机对基础磁性材料要求较高，相关材料的研发也持续进行中，总体进展都较为顺利。相关研发项目预计于今年进行产业化落地，逐步搭建小批量磁性材料中试线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9609459.d.html</link>
-            <guid>3165356</guid>
-            <pubDate>Wed, 05 Jul 2023 13:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【中国生物制药：F-star与武田合作开发新一代多特异性抗体免疫疗法】中国生物制药公告，旗下位于英国剑桥的全资子公司F-star与日本武田达成一项战略合作并订立许可协议，为癌症患者开发新一代多特异性抗体免疫疗法。F-star将获得一笔预付款和合作期间的研究经费，并有权获得最高达10亿美元的潜在开发和商业化里程碑付款，另加许可生产的任何商业产品的潜在年度净销售额的专利使用费。这是中国生物制药国际化创新模式的又一成果。]]></title>
-            <guid>3165355</guid>
-            <pubDate>Wed, 05 Jul 2023 13:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix涨1.6%，此前高盛将其评级从卖出调升至中性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2831845.d.html</link>
-            <guid>3165354</guid>
-            <pubDate>Wed, 05 Jul 2023 13:38:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【三祥新材：已组建研发团队在锆基固态电池电解质等开展研究和技术攻关】三祥新材在互动平台表示，公司已积极关注并持续跟进（氧）氯化物及氧化物固态电池的研究进展，已组建研发团队在锆基固态电池电解质及原材料领域开展研究和技术攻关，并已向部分客户、科研团队送样。三祥新材在氧氯化锆、氯化锆等锆材料领域具有较大的规模优势、技术优势、产业链协同优势，将积极做好产业链布局和升级。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqk9524673.d.html</link>
-            <guid>3165351</guid>
-            <pubDate>Wed, 05 Jul 2023 13:35:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST凯撒：未来能否进入正式重整程序尚存在重大不确定性】*ST凯撒发布股票交易异常波动公告，2023年7月5日凯撒旅业收盘价为4.51元，较6月21日收盘价3.20元相比已上涨40.94%，短期涨幅较大，目前公司面临上述风险的基本面未发生重大变化，且未来能否进入正式重整程序尚存在重大不确定性，敬请投资者理性投资，充分关注二级市场有关风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2830851.d.html</link>
-            <guid>3165350</guid>
-            <pubDate>Wed, 05 Jul 2023 13:35:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wolfspeed上涨20%，创2022年8月18日以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9607280.d.html</link>
-            <guid>3165347</guid>
-            <pubDate>Wed, 05 Jul 2023 13:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国生物制药：F-star与武田合作开发新一代多特异性抗体免疫疗法】中国生物制药（01177.HK）5日晚公告，旗下位于英国剑桥的全资子公司F-star与日本武田达成一项战略合作并订立许可协议，为癌症患者开发新一代多特异性抗体免疫疗法。F-star将获得一笔预付款和合作期间的研究经费，并有权获得最高达10亿美元的潜在开发和商业化里程碑付款，另加许可生产的任何商业产品的潜在年度净销售额的专利使用费。这是中国生物制药国际化创新模式的又一成果。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9606190.d.html</link>
-            <guid>3165345</guid>
-            <pubDate>Wed, 05 Jul 2023 13:28:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【TrendForce：到2026年全球GaN功率元件市场规模将达13.3亿美金】据TrendForce集邦咨询报告显示，全球GaN功率元件市场规模将从2022年的1.8亿美金成长到2026年的13.3亿美金，复合增长率高达65%。ChatGPT已掀起AI云端服务器建置浪潮，GaN将助力数据中心降低运营成本，并提高服务器运行效率。与此同时，汽车市场亦不容忽视，预计至2025年左右，GaN将小批量地渗透到低功率OBC和DC-DC中，到2030年，OEM或考虑将该技术移入到牵引逆变器。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2828936.d.html</link>
-            <guid>3165344</guid>
-            <pubDate>Wed, 05 Jul 2023 13:27:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【辽宁阜新查处一起致7死7伤煤矿事故瞒报案】7月4日，阜新市委、市政府发现阜新弘霖煤矿发生安全生产事故的相关线索后，高度重视，立即成立调查组，组织煤管、应急、公安等部门及属地海州区进驻煤矿开展核实调查。经初步核定，该煤矿于6月27日发生事故，造成7人死亡、7人轻伤，受伤人员正在医院治疗且伤情稳定。事故发生后，矿方蓄意瞒报。目前，阜新市已经成立调查处置领导小组，下设调查工作组、侦查工作组、社会稳定工作组等，全面开展相关工作。公安机关已对此事立案，并对相关责任人采取强制措施，各项侦查调查工作正在深入开展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2827541.d.html</link>
-            <guid>3165340</guid>
-            <pubDate>Wed, 05 Jul 2023 13:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【纳芯微：公司隔离类芯片产品已经在工业机器人和服务机器人客户批量发货】纳芯微接受机构调研时表示，公司磁电流传感器产品可用于机器人的电机电流检测，磁角度和磁开关传感器产品也在积极拓展机器人应用；公司隔离类芯片产品已经在工业机器人和服务机器人客户批量发货。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9603806.d.html</link>
-            <guid>3165338</guid>
-            <pubDate>Wed, 05 Jul 2023 13:20:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油站上72美元/桶，日内涨0.95%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2826283.d.html</link>
-            <guid>3165337</guid>
-            <pubDate>Wed, 05 Jul 2023 13:18:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中银协：截至2022年末消费金融公司服务客户人数突破3亿人次】近日，中国银行业协会发布《中国消费金融公司发展报告（2023）》，截至2022年末，消费金融公司服务客户人数突破3亿人次，达到3.38亿人次，同比增长18.4%；资产规模及贷款余额双双突破8000亿元，分别达到8844亿元和8349亿元，同比增长均为17.5%，高于经济和消费增速，为恢复和扩大消费需求作出了积极贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2826060.d.html</link>
-            <guid>3165336</guid>
-            <pubDate>Wed, 05 Jul 2023 13:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小鹏汽车总裁：预计下半年交付量将大幅增长】小鹏汽车总裁：预计由于G6的推出，下半年交付量将大幅增长；预计第三季度销量为15,000辆，第四季度销量将超过20,000辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2826041.d.html</link>
-            <guid>3165335</guid>
-            <pubDate>Wed, 05 Jul 2023 13:17:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里巴巴张勇：AI大模型越多人使用将产生生态效应与集群效应】在浙江省今日召开的全省平台经济高质量发展大会上，阿里巴巴集团董事会主席兼CEO、阿里云智能集团董事长兼CEO张勇表示，去年以来，人工智能大模型加速走向成熟，牵引各行各业从数字化迈向智能化。从行业趋势看，大模型的训练和运转需要高性能芯片和高质量算力作支撑，大模型都长在云计算平台上；从行业生态看，平台企业研发通用大模型，其他科技公司在此基础上开发专属大模型、推动技术的产品化，激发了整个数字经济的创新活力，以生态之力服务千行百业所需，产生“越多人用越智能，越多人用越便宜”的生态效应与集群效应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2825416.d.html</link>
-            <guid>3165333</guid>
-            <pubDate>Wed, 05 Jul 2023 13:15:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线上扬逾0.3美元，日内涨超1.00%，现报23.21美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqf2825274.d.html</link>
-            <guid>3165332</guid>
-            <pubDate>Wed, 05 Jul 2023 13:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银轮股份：拟在西安设立全资子公司 生产新能源汽车空调箱和冷却模块产品】银轮股份7月5日晚间公告，为了满足吉利等周边客户的属地化供货需求，公司拟投资6000万元，在陕西西安设立全资子公司，主要生产新能源汽车空调箱和冷却模块产品。计划2023年10月开始运营投产，根据目前市场情况预测，预计2024年销售收入2.81亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9602253.d.html</link>
-            <guid>3165330</guid>
-            <pubDate>Wed, 05 Jul 2023 13:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盘古智能中签号出炉 共3.36万个】盘古智能披露网上中签结果，中签号码共33577个，每个中签号码能认购500股盘古智能A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-05/detail-imyzrzqh9601762.d.html</link>
-            <guid>3165328</guid>
-            <pubDate>Wed, 05 Jul 2023 13:11:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
