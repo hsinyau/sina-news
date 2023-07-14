@@ -4,512 +4,529 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 14 Jul 2023 12:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 15:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  【海南昌江核电3号机组首台蒸汽发生器装船启运】东方电气承制的海南昌江核电3号机组首台蒸汽发生器7月13日顺利完成全部验收工作，在广州起吊装船，启程发往海南昌江核电基地。首台蒸汽发生器的顺利交付，对海南昌江核电基地建设过程中具有重大里程碑意义。海南昌江核电3号机组采用具有完全自主知识产权的三代压水堆核电华龙一号技术。海南昌江核电二期工程位于海南省昌江黎族自治县海尾镇，规划建设两台120万千瓦核电机组，计划于2026年底全部投运。昌江核电二期工程建成后，每年可向海南省输送清洁电量180亿千瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir3111865.d.html</link>
-            <guid>3176780</guid>
-            <pubDate>Fri, 14 Jul 2023 12:11:38 GMT</pubDate>
+            <title><![CDATA[【比亚迪乘用车产品首次进入文莱市场】据比亚迪官博，近日，比亚迪联同合作伙伴Maju Motors在文莱首都斯里巴加湾市举办比亚迪文莱品牌发布会暨BYD ATTO 3新车发布会，这标志着比亚迪乘用车产品首次进入文莱市场，海外业务布局持续加速。]]></title>
+            <guid>3177002</guid>
+            <pubDate>Fri, 14 Jul 2023 15:06:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【由于经济放缓和裁员，花旗Q2净利下降超三成】花旗集团(C.N)第二季度利润下降36%，受企业支出放缓、交易匮乏和一轮代价高昂的裁员影响。这家总部位于纽约的银行上季度净利润为29亿美元，低于去年同期的45亿美元。受人们对美国经济衰退的担忧日益加剧影响，该季度营收下降1%，至194亿美元。花旗面向企业的大型现金管理和支付处理部门的收入仅增长15%，不到去年同期32%的一半。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8177969.d.html</link>
-            <guid>3176779</guid>
-            <pubDate>Fri, 14 Jul 2023 12:11:14 GMT</pubDate>
+            <title><![CDATA[【华林证券：预计净利润比上年同期下降60%-68%】华林证券发布2023年半年度业绩预告，归属于上市公司股东的净利润盈利9,179万元–11,474万元，比上年同期下降60%-68%。2023年上半年，资本市场分化，导致公司自营业务收入同比减少；投资银行业务部分承销保荐项目已完成过会等待发行，暂未确认收入，同时公司信息技术投入较去年同期增加，综合导致归属于上市公司股东的净利润预计同比下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxi4741850.d.html</link>
+            <guid>3177001</guid>
+            <pubDate>Fri, 14 Jul 2023 15:06:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)：预计信用卡业务的净信贷损失将继续正常化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8567644.d.html</link>
-            <guid>3176778</guid>
-            <pubDate>Fri, 14 Jul 2023 12:10:53 GMT</pubDate>
+            <title><![CDATA[天奇股份发预亏，预计上半年净亏损3.4亿元-3.5亿元，由盈转亏。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxm8332988.d.html</link>
+            <guid>3177000</guid>
+            <pubDate>Fri, 14 Jul 2023 15:05:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通(JPM.N) CFO：拖欠款项在正常化而非恶化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8177815.d.html</link>
-            <guid>3176777</guid>
-            <pubDate>Fri, 14 Jul 2023 12:10:43 GMT</pubDate>
+            <title><![CDATA[【茅台集团上半年营收同比增20.8%至769亿元】茅台官方微信今日宣布，2023年上半年，茅台集团实现营业收入约769亿元，利润总额约520亿元，分别同比增长约20.8%和19.8%。这意味着茅台集团上半年业绩增速略高于旗下上市公司贵州茅台。昨日，贵州茅台披露，今年上半年，预计实现营业总收入约706亿元，同比增长约18.8%；预计实现归母净利润约356亿元，同比增长约19.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxf7964245.d.html</link>
+            <guid>3176999</guid>
+            <pubDate>Fri, 14 Jul 2023 15:04:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)：预计本财年（扣除项目后）收入为780亿美元至790亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8177397.d.html</link>
-            <guid>3176776</guid>
-            <pubDate>Fri, 14 Jul 2023 12:09:26 GMT</pubDate>
+            <title><![CDATA[【贝莱德：人工智能也许可以帮助改善通胀】贝莱德(BLK.N)CEO芬克表示，从发达国家的人口老龄化到向低碳经济转型，各种因素都可能随着时间的推移推高通胀，但人工智能的普及可能有助于降低物价。周五他在与分析师的电话会议上指出，今年的股市上涨是由“几家科技公司推动的，希望人工智能能够得到广泛采用”。芬克补充称，人工智能可以提高生产率，改变各个行业的利润率，“这可能是一种能够降低通胀的技术。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxi4741343.d.html</link>
+            <guid>3176998</guid>
+            <pubDate>Fri, 14 Jul 2023 15:04:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩正会见英国渣打集团主席】7月14日，国家副主席韩正在北京会见英国渣打集团主席韦浩思。韩正表示，中英两国贸易互补性强，经贸合作前景广阔。中国坚定不移走改革开放的道路，致力于打造市场化、法治化、国际化营商环境，支持包括英国企业在内的各国企业在华实现更好发展。中国中央政府完全支持香港长期保持独特地位和优势，全力支持香港特区政府推进国际金融中心建设，保持香港长期繁荣稳定。欢迎渣打集团等国际金融机构积极参与粤港澳大湾区建设，为巩固香港国际金融中心地位作出新的贡献。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8177324.d.html</link>
-            <guid>3176775</guid>
-            <pubDate>Fri, 14 Jul 2023 12:09:14 GMT</pubDate>
+            <title><![CDATA[【埃里安：关于美国软着陆的叙事正在积聚动能，不要逆其道而行】Gramercy Funds Management的董事长埃里安：人们对美国经济下行程度足以避免发生衰退的看法非常强烈，以至于其他人无法抗拒。本周，美国CPI和PPI数据、以及银行业业绩报告都在讲述关于可能软着陆的故事。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxf7962870.d.html</link>
+            <guid>3176993</guid>
+            <pubDate>Fri, 14 Jul 2023 14:59:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[深圳机场：预计2023年度前半年亏损4600.00万元-6500.00万元，同比增长89.52%—92.59%，去年同期亏损6.21亿元。]]></title>
-            <guid>3176774</guid>
-            <pubDate>Fri, 14 Jul 2023 12:08:55 GMT</pubDate>
+            <title><![CDATA[【香港特区政府强烈谴责美国国会干涉香港事务】香港特别行政区政府今日（7月14日）强烈谴责美国参议院外交委员会通过所谓“香港经济贸易办事处认证法案”，鼓吹取消香港特区驻美国经济贸易办事处（经贸办）的特权豁免待遇甚至关闭办事处，粗暴干预香港事务。特区政府再次严正促请美方遵从国际关系的基本准则，立即停止干涉香港事务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxf7962316.d.html</link>
+            <guid>3176991</guid>
+            <pubDate>Fri, 14 Jul 2023 14:56:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【海南椰岛：预计上半年净利亏损6300万元】海南椰岛发布业绩预告，预计上半年净利亏损6300万元，上年同期净利润1113.28万元。上半年酒类特别是白酒消费出现明显的结构性分化，市场动销减缓，导致市场回款及返单率偏低，以致上半年度收入未达预期，毛利无法涵盖经营费用及损失，导致经营亏损。同日公告，公司总经理马贺拟自2023年7月17日起6个月内，以1000万元-2000万元增持公司股份，此次增持不设定价格区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8177010.d.html</link>
-            <guid>3176773</guid>
-            <pubDate>Fri, 14 Jul 2023 12:08:28 GMT</pubDate>
+            <title><![CDATA[【海欣食品：净利润比上年同期下降92.79%-95.19%】海欣食品发布2023年半年度业绩预告，归属于上市公司股东的净利润为100万元至150万元，比上年同期下降92.79%-95.19%。报告期内，公司按照既定的发展战略，加大海欣锁鲜装营销推广投入，巩固高端品牌形象，在中高端产品线上持续发力；加强电商渠道的建设，渠道开拓过程中相关推广费用；以及维护和管理商超渠道加大了促销政策，给公司短期利润带来一定压力。此外，公司子公司根据相关规定，重新核定实际农产品耗用率，将农产品损耗率法改成成本法，自查补缴部分税款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxm2875769.d.html</link>
+            <guid>3176990</guid>
+            <pubDate>Fri, 14 Jul 2023 14:55:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国国航：2023年半年度将亏损32亿到39亿元人民币】中国国航发布盈利预警，本公司2023年半年度将出现亏损，预计归属于上市公司股东的净亏损约为人民币32亿元到人民币39亿元，归属于上市公司股东扣除非经常性损益后的净亏损约为人民币44亿元到人民币54亿元。本期业绩预亏的主要原因2023年上半年，受国际航线恢复情况低于预期，以及人民币兑美元汇率波动等因素影响，本公司整体仍处于亏损状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4953899.d.html</link>
-            <guid>3176772</guid>
-            <pubDate>Fri, 14 Jul 2023 12:08:02 GMT</pubDate>
+            <title><![CDATA[  美国国家飓风中心（NHC）称，飓风Calvin已快速加强为强飓风。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxm2875588.d.html</link>
+            <guid>3176989</guid>
+            <pubDate>Fri, 14 Jul 2023 14:53:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)：造成这些的原因是卢布贬值。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8176147.d.html</link>
-            <guid>3176771</guid>
-            <pubDate>Fri, 14 Jul 2023 12:06:29 GMT</pubDate>
+            <title><![CDATA[【普邦股份：净利润比上年同期增长47.87%-64.16%】普邦股份发布2023年半年度业绩预告，归属于上市公司股东的净利润亏损2,200万元至3,200万元，比上年同期增长47.87%-64.16%。业绩变动原因主要为三点，第一报告期内，因受宏观经济环境、行业环境的压力影响公司在内部管理上提质增效，导致销售费用、管理费用和研发支出等期间费用同比减少。第二公司融资款项减少相应借款利息费用减少，同时提高了闲置资金的利用率，相应存款利息收入增加。第三参股的境外公司业绩亏损同比减少，相应公司确认的投资损失减少。上述原因共同影响导致公司业绩亏损同比减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxi4738926.d.html</link>
+            <guid>3176988</guid>
+            <pubDate>Fri, 14 Jul 2023 14:53:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【昆仑万维：与蜜莱坞科技就蜜莱坞科技向公司购买AI技术服务事项达成协议】昆仑万维公告，蜜莱坞科技拟向公司购买的技术服务项目包括AGI Sky-Chat SaaS API服务及AIGC SkyPaint API服务，服务内容包括AI文本生成能力，AI图像生成能力，服务目的为支持蜜莱坞科技在定制大模型方向的技术落地，期限一年，总金额不超过人民币1500万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4953202.d.html</link>
-            <guid>3176770</guid>
-            <pubDate>Fri, 14 Jul 2023 12:06:12 GMT</pubDate>
+            <title><![CDATA[【瑞银：下周的通胀数据可能无法缓解英国央行的担忧】英国瑞银研究部经济学家Anna Titareva表示，定于下周三公布的英国6月CPI报告可能无法缓解英国央行的担忧，尤其是在本周英国强劲的工资增长报告公布之后。Titareva指出，受食品、能源和核心通胀下跌的影响，6月份的年度总体通胀率预计将从之前的8.7%降至8.1%。她表示，尽管如此，强于预期的薪资增长数据可能会使英国央行在8月3日的会议上继续面临加息50个基点的压力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxi4738807.d.html</link>
+            <guid>3176987</guid>
+            <pubDate>Fri, 14 Jul 2023 14:52:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)：在俄罗斯实体的净投资减少至11亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4953003.d.html</link>
-            <guid>3176769</guid>
-            <pubDate>Fri, 14 Jul 2023 12:05:44 GMT</pubDate>
+            <title><![CDATA[标普500指数转跌，道指涨幅收窄至不足70点，纳指微涨不足0.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxf7961206.d.html</link>
+            <guid>3176986</guid>
+            <pubDate>Fri, 14 Jul 2023 14:50:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团(C.N)：俄罗斯风险敞口较上一季度增加5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8175837.d.html</link>
-            <guid>3176768</guid>
-            <pubDate>Fri, 14 Jul 2023 12:05:39 GMT</pubDate>
+            <title><![CDATA[【西陇科学：净利润比上年同期下降78.76%–85.84%】西陇科学发布2023年半年度业绩预告，归属于上市公司股东的净利润1000万元–1500万元，比上年同期下降78.76%–85.84%。2023年1-6月归属于上市公司股东的净利润较上年同期下降，主要原因是投资收益同比上年减少，2022年度公司出售子公司山东艾克韦生物技术有限公司60%的股权产生的投资收益较大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasrxi4738012.d.html</link>
+            <guid>3176985</guid>
+            <pubDate>Fri, 14 Jul 2023 14:48:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯：美国、日本和韩国将“坚定地”共同维护安全愿景。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4952681.d.html</link>
-            <guid>3176766</guid>
-            <pubDate>Fri, 14 Jul 2023 12:04:27 GMT</pubDate>
+            <title><![CDATA[【双塔食品：净利润比上年同期下降536.01%-490.58%】双塔食品发布2023年半年度业绩预告，归属于上市公司股东的净利润亏损7000万元-6500万元，比上年同期下降536.01%-490.58%。报告期内，公司产品销售结构发生变化，豌豆淀粉销售增加所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4868440.d.html</link>
+            <guid>3176983</guid>
+            <pubDate>Fri, 14 Jul 2023 14:46:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【獐子岛预计上半年净利超400万元】7月14日，獐子岛披露2023年半年度业绩预告，预计实现净利润400万元—600万元，同比增长127.14%—140.71%；实现扣非净利润400万元—600万元，同比增长147.96%—171.94%，实现扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4952617.d.html</link>
-            <guid>3176765</guid>
-            <pubDate>Fri, 14 Jul 2023 12:04:09 GMT</pubDate>
+            <title><![CDATA[【专家呼吁关注和消减林火导致的碳排放】据新华网，加拿大目前正经历严重野火季，其影响范围和森林火灾导致的碳排放增加引发各方关切。随着近年来全球多国森林火灾频发，专家呼吁各国政府采取有效措施和策略，减少林火的发生，消减野火带来的碳排放。中国科学院沈阳应用生态研究所研究员刘志华表示，林火已成为不容忽视的碳排放源，全球应建立更科学、全面的碳排放监测和核算系统，兼顾人类活动和自然因素产生的碳排放；同时各国间加强合作，共同减少林火。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4867987.d.html</link>
+            <guid>3176982</guid>
+            <pubDate>Fri, 14 Jul 2023 14:45:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团2023年Q2 EPS1.33美元，上年同期2.19美元，市场预期1.303美元。]]></title>
-            <guid>3176764</guid>
-            <pubDate>Fri, 14 Jul 2023 12:03:38 GMT</pubDate>
+            <title><![CDATA[中国电影：上半年预计实现归母净利润2.8亿元-3.8亿元，去年同期为0.20亿元；扣非后归母净利润2.6亿元-3.6亿元，去年同期为亏损0.49亿元。]]></title>
+            <guid>3176981</guid>
+            <pubDate>Fri, 14 Jul 2023 14:44:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团：第二季度FICC销售和交易收入44.5亿美元，市场预期为35.1亿美元。]]></title>
-            <guid>3176763</guid>
-            <pubDate>Fri, 14 Jul 2023 12:03:30 GMT</pubDate>
+            <title><![CDATA[【业绩预告与实际业绩差异较大且及时修正，保利联合收深交所监管函】
+7月14日，深交所向保利联合下发监管函，公司2023年1月20日披露《2022年度业绩预》显示，预计2022年归属于上市公司股东的净利润为亏损115,475万元至145,581万元。2023年4月28日，公司披露《2022年年度报告》显示，2022年经审计净利润为亏损78,620万元。公司业绩预告披露的净利润与年报披露的经审计净利润相比存在较大差异，且未及时修正。公司的上述行为违反了相关规定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4867768.d.html</link>
+            <guid>3176980</guid>
+            <pubDate>Fri, 14 Jul 2023 14:44:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【足协原副主席王登峰贪污受贿超5000万】山东省德州市中级人民法院一审公开开庭审理了教育部体育卫生与艺术教育司原司长王登峰贪污、受贿案。德州市人民检察院指控：一、贪污罪。2016年6月至2022年8月，被告人王登峰利用担任教育部体育卫生与艺术教育司司长等职务便利，单独或伙同他人，采取侵吞、骗取等手段，非法占有公共财物共计4670.13万余元，其中180.49万余元未遂。二、受贿罪。2006年1月至2022年春节前，被告人王登峰利用担任教育部体育卫生与艺术教育司司长等职务便利，为他人在项目承揽、赛事承办等方面谋取利益，单独或伙同他人收受相关单位或个人给予的财物，共计折合966.469万元。庭审中，检察机关出示了相关证据，被告人王登峰及其辩护人进行了质证，控辩双方在法庭的主持下充分发表了意见。王登峰进行了最后陈述并当庭表示认罪、悔罪，请求从轻处罚。庭审最后，法庭宣布休庭，择期宣判。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8175266.d.html</link>
-            <guid>3176762</guid>
-            <pubDate>Fri, 14 Jul 2023 12:03:20 GMT</pubDate>
+            <title><![CDATA[【美联储古尔斯比：通胀仍处于高位，但前景乐观】美国芝加哥联储主席古尔斯比表示，最近的CPI数据显示，通胀有望得到缓解，尽管目前仍高于政策制定者2%的目标。“至少本周我们得到的通胀数据显示，通胀正以相当快的速度下降，这是有希望的，”古尔斯比周五在接受采访时表示，“通胀仍然比我们想要的要高，但正在取得进展。”同时，他还重申了上周的言论，即政策制定者正走在一条“黄金之路”上，能“在不引发衰退的情况下”遏制通胀。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8090507.d.html</link>
+            <guid>3176979</guid>
+            <pubDate>Fri, 14 Jul 2023 14:43:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德国商业银行：周三的通胀数据可能只是美元进一步走软的前兆】德商银行外汇分析师Antje Praefcke表示，周三公布的通胀数据可能只是美元进一步走软的前兆。如果下一个通胀数据出人意料地下跌，而经济数据也越来越清楚地表明，过去的加息对美国经济产生了抑制作用，那么市场可能会越来越相信关键利率不会长期保持在高位，而美联储在年底前降息的可能性越来越大。这将导致美元进一步走软。除了重要的通胀数据，现在还需要关注重要性较弱的二线数据，如今天的美国进口价格和美国密歇根大学消费者信心指数，这只是为了不错过美元下一轮下跌的触发点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8175184.d.html</link>
-            <guid>3176761</guid>
-            <pubDate>Fri, 14 Jul 2023 12:03:07 GMT</pubDate>
+            <title><![CDATA[美国商品期货交易委员会（CFTC）称其吹哨人办公室主管Ehrman将于周五（7月14日）日内离职。]]></title>
+            <guid>3176978</guid>
+            <pubDate>Fri, 14 Jul 2023 14:43:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[财报公布后，花旗集团盘前涨超2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4952255.d.html</link>
-            <guid>3176760</guid>
-            <pubDate>Fri, 14 Jul 2023 12:02:50 GMT</pubDate>
+            <title><![CDATA[【比亚迪乘用车产品首次进入文莱市场】据比亚迪官博，近日，比亚迪联同合作伙伴Maju Motors在文莱首都斯里巴加湾市举办比亚迪文莱品牌发布会暨BYD ATTO 3新车发布会，这标志着比亚迪乘用车产品首次进入文莱市场，海外业务布局持续加速。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4867315.d.html</link>
+            <guid>3176977</guid>
+            <pubDate>Fri, 14 Jul 2023 14:42:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[花旗集团 CEO：我们继续在执行战略上取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8566211.d.html</link>
-            <guid>3176759</guid>
-            <pubDate>Fri, 14 Jul 2023 12:02:42 GMT</pubDate>
+            <title><![CDATA[【深圳能源：龙岗能源生态园屋面光伏建筑一体化工程并网成功】深圳能源消息，近日深能环保龙岗能源生态园屋面光伏建筑一体化工程正式并网成功。项目共安装光伏组件11000块，总装机容量3.30MWp，年上网电量约360万千瓦时。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp8460841.d.html</link>
+            <guid>3176976</guid>
+            <pubDate>Fri, 14 Jul 2023 14:42:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【数据港：上半年净利同比预增60%-80%】数据港公告，预计上半年净利润6656万元到7488万元，同比增加60%到80%。公司主营业务为数据中心服务器托管服务。随着终端客户的业务需求逐步提升，公司已投入运营的数据中心机柜逐步上电，推动经营业绩同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4952176.d.html</link>
-            <guid>3176758</guid>
-            <pubDate>Fri, 14 Jul 2023 12:02:27 GMT</pubDate>
+            <title><![CDATA[【塞浦路斯超30万只猫染病死亡】据央视财经，塞浦路斯是世界上最早驯化家猫的地区之一，因而有着“猫岛”称号。近几个月，一种猫冠状病毒在塞浦路斯迅速蔓延。截至目前，已导致超过30万只猫死亡，约占塞浦路斯全岛猫数量的三分之一。据了解，该种猫冠状病毒发病率和死亡率极高，症状包括发烧、腹部肿胀、虚弱等，这种病毒不会传染给人类，但在猫中具有高度传染性。有专家表示，如果病毒不断变异，猫的数量将会大幅减少，病毒可能已经扩散到周边国家的猫群之中。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4867068.d.html</link>
+            <guid>3176975</guid>
+            <pubDate>Fri, 14 Jul 2023 14:41:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【日月股份：上半年净利同比预增154%-183%】日月股份发布业绩预告，预计上半年净利润为2.6亿元到2.9亿元，比上年同期增长154%到183%。报告期内，公司销售数量增加；焦改电和砂铁比技改项目持续推进，能源成本和造型成本得到了持续改善；精加工产能提升，自行加工产品增加，精加工环节利润逐步实现内移。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir3110171.d.html</link>
-            <guid>3176757</guid>
-            <pubDate>Fri, 14 Jul 2023 12:02:18 GMT</pubDate>
+            <title><![CDATA[【康力电梯：净利润比上年同期增长60.00%-90.00%】康力电梯发布2023年半年度业绩预告，归属于上市公司股东的净利润盈利20,105.90万元–23,875.76万元，比上年同期增长60.00%-90.00%。业绩较上年同期同比上升的主要原因：公司积极开拓国内、国际各类客户需求，争取重要项目、高端项目，参与一带一路建设，统筹生产经营工作，营业收入保持基本稳定；期间受益主要原材料成本同比回落，综合毛利率较上年同期回升；且积极开展降本增效工作，精细化管理，经营利润增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8089836.d.html</link>
+            <guid>3176974</guid>
+            <pubDate>Fri, 14 Jul 2023 14:41:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【药品流通监管年中工作会议召开】国家药品监督管理局消息，7月13-14日，国家药监局在哈尔滨市召开全国药品流通监管年中工作会议。会议要求，药品监管部门要提高政治站位，更好统筹发展和安全，严控药品经营企业许可准入；要切实履行属地监管责任，完善协同监管机制；要推动落实药品经营企业主体责任，严防严控风险隐患；要全面提升监管执法能力水平，突出重点产品和环节，严查严管，形成有效震慑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8174789.d.html</link>
-            <guid>3176754</guid>
-            <pubDate>Fri, 14 Jul 2023 12:01:36 GMT</pubDate>
+            <title><![CDATA[市场消息：辉瑞与Seagan因双方的并购交易收到了来自美国联邦贸易委员会(FTC)的第二份问询函。]]></title>
+            <guid>3176973</guid>
+            <pubDate>Fri, 14 Jul 2023 14:40:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江苏2023年基本养老金调整方案出台 预计1051万名退休人员将受益】江苏省人社厅7月14日发布消息，日前，江苏省2023年退休人员基本养老金调整方案正式出台，预计江苏全省将有1051万名退休人员受益。调整办法的框架仍由固定额、与缴费年限挂钩和与本人基本养老金挂钩三部分组成，与去年保持一致。今年，固定额部分每人每月增加26元，该部分体现基本养老金调整的公平性。与本人缴费年限挂钩部分体现长缴多得。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8565948.d.html</link>
-            <guid>3176753</guid>
-            <pubDate>Fri, 14 Jul 2023 12:01:21 GMT</pubDate>
+            <title><![CDATA[【拜登政府宣布取消390亿美元学生贷款债务】拜登政府当地时间7月14日宣布，将在未来几周内取消80.4万名学生总额达390亿美元的贷款债务。据报道，针对联邦学生贷款的借款人，有几种不同类型的以收入为导向的还款计划，这些计划根据借款人的收入和家庭规模规划还款。政府会衡量借款人还贷能力而给予贷款减免措施。长期以来，政府的系统无法准确追踪借款人获得减免的进展。在实施修复措施后，美国政府可以更准确地计算现有收入驱动型还款计划下，符合条件的每月还款额，使得更多借款人免除债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8089059.d.html</link>
+            <guid>3176970</guid>
+            <pubDate>Fri, 14 Jul 2023 14:37:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[民和股份：上半年归属于上市公司股东的净利润亏损3,500万元—4,500万元，比上年同期上涨84.87%—88.23%。]]></title>
-            <guid>3176752</guid>
-            <pubDate>Fri, 14 Jul 2023 11:59:40 GMT</pubDate>
+            <title><![CDATA[【獐子岛：预计上半年归母净利润400万-600万元扭亏为盈】獐子岛披露2023年半年度业绩预告，上半年其预计实现净利润400万元-600万元，同比增长127.14%-140.71%；实现扣非净利润400万元-600万元，同比增长147.96%-171.94%，实现扭亏为盈。报告期内，公司紧紧围绕大连市海洋经济规划布局，深耕国家级海洋牧场建设，夯实优质海洋食品产业链条，提升市场认知和消费能级，打造产品质量标准和追溯体系高地，持续优化终端结构、产品结构、资产结构，主要产品毛利实现增长；持续推行瘦身减负、降本增效举措，管理费用和财务费用同比下降；证券诉讼时效期已届满，赔偿金额同比下降；牡蛎苗种业务因合作模式调整及市场行情影响，收入、收益同比下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8088829.d.html</link>
+            <guid>3176969</guid>
+            <pubDate>Fri, 14 Jul 2023 14:36:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中基协发布《证券期货经营机构私募资产管理计划备案办法》】据中基协公告，为了规范证券期货经营机构私募资产管理业务，保护投资者及相关当事人合法权益，促进行业健康发展，中国证券投资基金业协会将《证券期货经营机构私募资产管理计划备案管理办法（试行）》修订为《证券期货经营机构私募资产管理计划备案办法》，经协会理事会审议通过，现予发布，自发布之日起施行，2019年6月发布的《证券期货经营机构私募资产管理计划备案管理办法（试行）》同时废止。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8565531.d.html</link>
-            <guid>3176751</guid>
-            <pubDate>Fri, 14 Jul 2023 11:58:33 GMT</pubDate>
+            <title><![CDATA[【海南椰岛：预计上半年归母净利润为亏损6300万元】海南椰岛发布业绩预告，预计2023年半年度归属上市公司股东的净利润为-6300万元；预计2023年半年度归属上市公司股东的扣除非经常性损益后的净利润为-6600万元。受经济环境影响，上半年酒类特别是白酒消费出现明显的结构性分化，流通端、供给侧出现不同程度的内卷，市场动销减缓，导致市场回款及返单率偏低，以致上半年度收入未达预期，毛利无法涵盖经营费用及损失，导致经营亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp3003920.d.html</link>
+            <guid>3176968</guid>
+            <pubDate>Fri, 14 Jul 2023 14:36:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴基斯坦财政部：已完成成立巴基斯坦主权财富基金的草案法律。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4950999.d.html</link>
-            <guid>3176750</guid>
-            <pubDate>Fri, 14 Jul 2023 11:58:16 GMT</pubDate>
+            <title><![CDATA[美元兑加元USD/CAD日内涨幅扩大至0.50%，现报1.3178。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4865510.d.html</link>
+            <guid>3176966</guid>
+            <pubDate>Fri, 14 Jul 2023 14:34:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州文旅局：与迪士尼合作有IP授权等很多种，目前没有项目要落户】日前，广州文旅局针对网友提出的“广州应积极争取迪士尼乐园落子”回应引发热议。广州文旅局解释称：“寻求合作机会有很多种，比如IP授权之类的。目前没有项目要落户在广州。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8173830.d.html</link>
-            <guid>3176749</guid>
-            <pubDate>Fri, 14 Jul 2023 11:58:09 GMT</pubDate>
+            <title><![CDATA[【加息打压房市，加拿大房地产行业组织下调销售预期】加拿大房地产协会（CREA）下调了房屋销售预估，因库存紧张，且加拿大央行近期的加息令楼市承压。该组织目前估计，2023年的房屋销售额将较上年同期下降6.8%。周五公布的数据显示，6月份加拿大房屋销售开始承压，成屋销售月率录得1.5%，低于4月和5月的增幅。当前购房者正在与更加紧缩的经济形势作斗争。加拿大央行在本周的会议上连续第二次加息，并为未来进一步加息留下了可能性。CREA表示，最近的房屋交易反弹已经失去动力，并受到央行恢复加息的打击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4865440.d.html</link>
+            <guid>3176965</guid>
+            <pubDate>Fri, 14 Jul 2023 14:34:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[白俄罗斯国防部：瓦格纳集团的战士对白俄罗斯领土防御部队进行指导。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4950807.d.html</link>
-            <guid>3176748</guid>
-            <pubDate>Fri, 14 Jul 2023 11:57:30 GMT</pubDate>
+            <title><![CDATA[【王毅出席第13届东亚峰会外长会】当地时间7月14日，中央外办主任王毅在雅加达出席第13届东亚峰会外长会。王毅表示，东亚峰会是亚太地区具有广泛代表性和重要影响力的合作机制。面对当前国际和地区形势深刻变化，东亚峰会应维护好本地区得来不易的和平稳定局面。中方愿提出三点主张：一是切实支持东盟中心地位，筑牢和平根基。二是携手打造地区增长中心，促进共同发展。三是坚持真正的多边主义，加强良性互动。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8088203.d.html</link>
+            <guid>3176964</guid>
+            <pubDate>Fri, 14 Jul 2023 14:34:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【预告：国新办将举行上半年商务工作及运行情况发布会】国务院新闻办公室定于2023年7月19日（星期三）下午3时举行新闻发布会，请商务部副部长郭婷婷介绍2023年上半年商务工作及运行情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir3109307.d.html</link>
-            <guid>3176747</guid>
-            <pubDate>Fri, 14 Jul 2023 11:56:28 GMT</pubDate>
+            <title><![CDATA[【永茂泰：预计上半年净利润同比减少92.61%-95.00%】永茂泰发布公告，预计公司2023年上半年归母净利润为250万元-370万元，同比减少92.61%-95.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8087932.d.html</link>
+            <guid>3176963</guid>
+            <pubDate>Fri, 14 Jul 2023 14:33:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【克里姆林宫：需要重新审查瓦格纳集团的法律地位】克里姆林宫周五表示，需要“考虑”私人瓦格纳雇佣军组织的地位。日前，俄罗斯总统普京表示，该组织没有法律依据。据报道，普京周四称上月发动短暂武装叛乱的瓦格纳在法律意义上“不存在”，因为俄罗斯没有与私营军事公司有关的法律。对此，克里姆林宫发言人佩斯科夫表示，瓦格纳等集团的情况“相当复杂”，需要进行研究。当被问及是否可能就私营军事公司的地位制定新的立法时，他表示：“这个问题至少会在考虑之中。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8172408.d.html</link>
-            <guid>3176744</guid>
-            <pubDate>Fri, 14 Jul 2023 11:53:22 GMT</pubDate>
+            <title><![CDATA[【台积电今年全年发债规模至少达1200亿新台币】据台湾《经济日报》报道，台积电近年大手笔发债，今年四度标债结果今日出炉。债券承销商透露，台积电本次发债，分成5年、7年与10年三种年期，总发债金额为新台币159亿元（新台币，下同）。其中，5年与7年期利率符合市场预期，10年期则因增发金额较大，利率略为偏高。据悉，台积电今年上半年发出600亿元公司债后，再度通过600亿元的发债额度，今年全年发债规模至少达1200亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4864730.d.html</link>
+            <guid>3176962</guid>
+            <pubDate>Fri, 14 Jul 2023 14:31:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英飞拓：预计上半年净亏损9,500万元–12,000万元，同比减亏7.48%-26.75%。]]></title>
-            <guid>3176741</guid>
-            <pubDate>Fri, 14 Jul 2023 11:49:29 GMT</pubDate>
+            <title><![CDATA[布伦特原油失守80美元/桶，日内跌幅1.77%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4864693.d.html</link>
+            <guid>3176961</guid>
+            <pubDate>Fri, 14 Jul 2023 14:31:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【德国总理朔尔茨召开夏季新闻发布会 承诺提高国防预算】德国联邦总理朔尔茨召开夏季新闻发布会，就重要政策问题回答记者提问。在军费预算方面，朔尔茨承诺，德国联邦政府将在2027年之前投入170亿欧元用于军备，至少占德国国内生产总值的2%。朔尔茨表示，内阁政府已就相关法律草案达成一致，确保实现能源转型的目标，到2030年，德国80%的电力将来自绿色能源。对于近期争议颇大的供暖法案，朔尔茨再次予以支持。他表示，该供暖法案的出台将推动德国进步，是实现能源转型的一个很好的解决方案。但他同时也承认，将该法案与各地的地方性法规相结合非常重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4948020.d.html</link>
-            <guid>3176740</guid>
-            <pubDate>Fri, 14 Jul 2023 11:48:02 GMT</pubDate>
+            <title><![CDATA[【丽人丽妆：预计上半年净亏损2300万元至2750万元】丽人丽妆发布公告，公司预计2023年上半年归母净利润亏损2300万元至2750万元，上年同期归母净利润为610.80万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4864615.d.html</link>
+            <guid>3176960</guid>
+            <pubDate>Fri, 14 Jul 2023 14:31:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[豫园股份：预计上半年豫园股份净利润为21.8亿元至22.5亿元，同比增长189%至198%。]]></title>
-            <guid>3176739</guid>
-            <pubDate>Fri, 14 Jul 2023 11:47:14 GMT</pubDate>
+            <title><![CDATA[【威尔泰：预计上半年净亏损600万元–900万元】威尔泰发布公告，预计上半年归母净利润亏损600万元-900万元，上年同期亏损794.64万元。关于业绩变动原因，公司称，今年上半年，公司所处行业变化趋势复杂，公司下游客户需求低迷。受此影响，公司整体销售情况不佳，预计业绩亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8087413.d.html</link>
+            <guid>3176959</guid>
+            <pubDate>Fri, 14 Jul 2023 14:30:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【毕马威将耗资数十亿美元在未来5年内使用微软云和AI服务】7月14日，据毕马威官微消息，毕马威与微软近日宣布大幅扩展双方全球合作关系。毕马威宣布将耗资数十亿美元在未来5年内使用微软云和AI服务。毕马威预计这一合作将为毕马威带来120亿美元的潜在收入增长机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4947268.d.html</link>
-            <guid>3176737</guid>
-            <pubDate>Fri, 14 Jul 2023 11:45:49 GMT</pubDate>
+            <title><![CDATA[【俄罗斯圣彼得堡将收取“度假费” 成年游客每晚需缴纳100卢布】近日，俄罗斯圣彼得堡市市长签署有关向游客试行收取“度假费”的法令。这项法令规定，2024年4月1日至2024年12月31日期间，将试行由酒店等住宿机构向游客收取“度假费”，每名成年游客每晚需缴纳100卢布（约合8元人民币）的“度假费”。征收的费用将被用于基础设施建设、维修等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8087320.d.html</link>
+            <guid>3176957</guid>
+            <pubDate>Fri, 14 Jul 2023 14:30:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[冰川网络：预计上半年净利润1.54亿元至1.87亿元，同比下降37.72%至48.67%。]]></title>
-            <guid>3176736</guid>
-            <pubDate>Fri, 14 Jul 2023 11:45:06 GMT</pubDate>
+            <title><![CDATA[【报告：2022年全球新增130万人感染艾滋病病毒】近日，联合国艾滋病规划署发布了《2023全球艾滋病防治进展报告–终结艾滋病之路》。报告显示，全球目前有3900万艾滋病病毒感染者，其中2980万正在接受抗逆转录病毒治疗，2022年有130万艾滋病病毒新发感染，63万人死于艾滋病相关疾病。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4864122.d.html</link>
+            <guid>3176956</guid>
+            <pubDate>Fri, 14 Jul 2023 14:29:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【京运通：半年度净利预减70.00%到90.00% 硅片产品销售单价出现下滑】京运通预计公司2023年半年度实现归属于母公司所有者的净利润3,883.42万元到11,650.26万元，同比减少70.00%到90.00%。2023年上半年，公司主营业务收入保持良好增长，但第二季度受行业变化、市场波动等因素影响，公司新材料业务的硅片产品销售单价出现下滑，对公司新材料业务的净利润产生较大负面影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4946509.d.html</link>
-            <guid>3176735</guid>
-            <pubDate>Fri, 14 Jul 2023 11:44:11 GMT</pubDate>
+            <title><![CDATA[【秦安股份：上半年扣非后净利润预增185.15%至232.68%】秦安股份发布业绩预告，预计2023年上半年实现归属于上市公司股东的净利润为1.2亿元至1.4亿元，与上年同期相比，预计增加4324.85万元至6324.85万元，同比增长56.35%至82.41%。预计扣非后净利润为1.2亿元至1.4亿元，与上年同期相比，预计增加7791.72万元至9791.72万元，同比增长185.15%至232.68%。公告显示，净利润及扣除非经常性损益净利润增加主要系公司积极调整客户及产品结构，同时加强内部管理，降本增效所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4864090.d.html</link>
+            <guid>3176955</guid>
+            <pubDate>Fri, 14 Jul 2023 14:28:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[上交所上市委：上海汽车空调配件股份有限公司首发7月21日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8169257.d.html</link>
-            <guid>3176734</guid>
-            <pubDate>Fri, 14 Jul 2023 11:43:56 GMT</pubDate>
+            <title><![CDATA[【佩斯科夫：俄罗斯尚未就延长粮食协议发表任何声明】据国际文传电讯社报道，克里姆林宫发言人佩斯科夫表示，俄罗斯尚未就延长黑海粮食协议发表任何声明。早些时候，土耳其总统埃尔多安称，他与俄罗斯总统普京一致认为，该协议应该延长。一些媒体将埃尔多安的言论解读为，两国已经达成了延长协议的决定，该协议将于下周一到期。俄罗斯方面表示，只有在其自身的执行条件得到满足的情况下，它才会同意延长该协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4863846.d.html</link>
+            <guid>3176954</guid>
+            <pubDate>Fri, 14 Jul 2023 14:27:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本冲绳县多个美军基地周边地点有机氟化物检测含量超标】今年2月，日本冲绳县对当地5个美军基地周边地区进行了水质调查。据报道，冲绳县于14日发布的调查结果显示，在共计44个调查地点中，有30个地点的有机氟化物含量超过每升50纳克的日本国家暂定安全标准。其中美军嘉手纳基地附近一处水源的有机氟化物含量达每升1800纳克，是暂定安全标准的36倍。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168988.d.html</link>
-            <guid>3176733</guid>
-            <pubDate>Fri, 14 Jul 2023 11:43:16 GMT</pubDate>
+            <title><![CDATA[【海鸥住工：净利润比上年同期下降86.17%-81.21%】海鸥住工发布2023年半年度业绩预告，归属于上市公司股东的净利润盈利600万元-815万元，比上年同期下降86.17%-81.21%。2023年上半年，公司在5、6月份业绩有所回升，虽扭亏为盈，但比去年同期业绩仍为下降。一方面，由于全球主要经济体处加息周期、通胀高企、增长乏力而带来的外需减弱，造成外销下降较大；同时国内房地产市场仍处于复苏起步阶段，内销基本持平，其中智能家居、整体橱柜业务有所增长。另一方面，由于去年同期欧美家居产品前期一次性拉动的原因，造成同比营收基数较高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4863553.d.html</link>
+            <guid>3176953</guid>
+            <pubDate>Fri, 14 Jul 2023 14:26:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上交所上市委：锦江航运、小方制药首发获通过】上交所上市委公告，上海锦江航运（集团）股份有限公司、上海小方制药股份有限公司首发获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168870.d.html</link>
-            <guid>3176732</guid>
-            <pubDate>Fri, 14 Jul 2023 11:42:49 GMT</pubDate>
+            <title><![CDATA[【理工光科与福建高速技咨签署战略合作协议】据证券时报，7月12日，武汉理工大学与福建高速集团、武汉理工光科与福建高速技咨分别签署战略合作协议。双方将基于光纤传感网络技术在交通基础设施建设与管养领域开展应用与创新合作，共同推动光纤传感网络技术在交通基础设施领域的创新发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp3002410.d.html</link>
+            <guid>3176952</guid>
+            <pubDate>Fri, 14 Jul 2023 14:25:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【罗牛山：上半年预亏1.08亿元-1.18亿元 畜牧板块业务亏损】罗牛山公布2023年半年度业绩预告，报告期归属于上市公司股东的净利润亏损1.08亿元-1.18亿元。本期业绩亏损的主要原因是公司生猪销量同比增长近60%，再叠加生猪市场销售价格下降的影响，畜牧板块业务亏损。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8562981.d.html</link>
-            <guid>3176731</guid>
-            <pubDate>Fri, 14 Jul 2023 11:42:32 GMT</pubDate>
+            <title><![CDATA[【东瑞股份：净利润比上年同期下降：390.75%-492.28%】东瑞股份发布2023年半年度业绩预告，归属于上市公司股东的净利润亏损29,000万元-35,000万元，比上年同期下降390.75%-492.28%。2023年上半年出现较大亏损的主要原因：一是猪价持续处于低位运行；二是公司个别场存在蓝耳、伪狂犬等疾病主动淘汰落后产能从而补充更换优化种猪体系，提前和加速出栏造成损失；三是公司新建场承担的固定折旧摊销等费用较大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4862863.d.html</link>
+            <guid>3176951</guid>
+            <pubDate>Fri, 14 Jul 2023 14:24:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瀚蓝环境：2023年上半年净利同比预增25%左右 能源业务实现盈利】瀚蓝环境披露2023年半年度业绩预告，预计2023年半年度实现归属于上市公司股东的净利润与上年同期相比将增加1.40亿元左右，同比增加25%左右；预计归属于上市公司股东的扣除非经常性损益的净利润将增加1.20亿元左右，同比增加22%左右。2022年上半年，公司天然气业务受国际能源价格持续上涨因素影响，天然气综合采购成本不断攀升，导致能源业务出现亏损。2023年上半年，公司天然气业务进销价差有所改善，能源业务实现盈利。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168768.d.html</link>
-            <guid>3176730</guid>
-            <pubDate>Fri, 14 Jul 2023 11:42:15 GMT</pubDate>
+            <title><![CDATA[乌克兰1-5月贸易逆差为89.8亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4862806.d.html</link>
+            <guid>3176950</guid>
+            <pubDate>Fri, 14 Jul 2023 14:24:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富国银行 CFO：消费者支出“在很大程度上推动了”存款下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4945807.d.html</link>
-            <guid>3176729</guid>
-            <pubDate>Fri, 14 Jul 2023 11:42:01 GMT</pubDate>
+            <title><![CDATA[美油、布油跌超1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4862770.d.html</link>
+            <guid>3176949</guid>
+            <pubDate>Fri, 14 Jul 2023 14:23:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[深交所上市委：合肥雪祺电气股份有限公司首发获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168624.d.html</link>
-            <guid>3176728</guid>
-            <pubDate>Fri, 14 Jul 2023 11:41:51 GMT</pubDate>
+            <title><![CDATA[【大众中国上半年销量为145.19万辆 新能源车销量同比增近5%】今年上半年大众汽车集团在中国内地及香港市场共计交付新车145.19万辆，同比减少1.2%；大众汽车集团在中国市场的新能源车型交付量为8.97万辆，同比增长4.8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8085145.d.html</link>
+            <guid>3176948</guid>
+            <pubDate>Fri, 14 Jul 2023 14:22:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富国银行 CFO：除办公室外的商业房地产表现相当不错。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8562814.d.html</link>
-            <guid>3176727</guid>
-            <pubDate>Fri, 14 Jul 2023 11:41:38 GMT</pubDate>
+            <title><![CDATA[【一汽丰田上半年销量为373195辆 同比增长6%】今年上半年一汽丰田终端销量为373195辆，同比增长6%；其中，电动化车型销量为114376辆，占比为31%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8084905.d.html</link>
+            <guid>3176947</guid>
+            <pubDate>Fri, 14 Jul 2023 14:20:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[深交所上市委：成都万创科技股份有限公司首发7月21日上会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168464.d.html</link>
-            <guid>3176726</guid>
-            <pubDate>Fri, 14 Jul 2023 11:41:28 GMT</pubDate>
+            <title><![CDATA[【吉林省西北和东北已出现大到暴雨 水旱灾害防御维持Ⅳ级应急响应】据央视新闻，7月14日5时至17时，吉林省西北部和东北部出现大到暴雨，部分乡镇出现大暴雨，东南部小到中雨，其他地区中到大雨。记者从吉林省水利厅获悉，目前维持水旱灾害防御Ⅳ级应急响应，目前水利厅已指导洮南市群昌水库适时加大泄流，提前腾出库容，并已有工作组在洮南指导防汛工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8084867.d.html</link>
+            <guid>3176946</guid>
+            <pubDate>Fri, 14 Jul 2023 14:20:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海石油化工股份盈警：预期上半年归母净亏9.00亿元-11.00亿元】上海石油化工股份公告，按照中国企业会计准则，集团预计2023年上半年归属于母公司股东的净亏损约为人民币9.00亿元到人民币11.00亿元。按照中国企业会计准则，集团预计2023年上半年归属于母公司股东的扣除非经常性损益的净亏损约为人民币8.87亿元到人民币10.84亿元。受市场需求影响，2023年上半年，公司主要化工产品价格平均跌幅高于原油成本跌幅，产品毛利减少；公司投资收益下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8168010.d.html</link>
-            <guid>3176724</guid>
-            <pubDate>Fri, 14 Jul 2023 11:39:59 GMT</pubDate>
+            <title><![CDATA[【重庆钢铁股份盈警：预期半年度净亏损4.35亿元左右】重庆钢铁股份(01053.HK)公告，公司预计2023年半年度归属于上市公司股东的净亏损为人民币4.35亿元左右，与上年同期相比，净利润将减少约人民币9.5亿元，同比减少约184.23%；2023年上半年，钢铁行业下游需求恢复不及预期，其中房地产是主要拖累项，叠加原料供应缓解，产业链形成负反馈，钢材价格大幅下跌，但成本端仍保持高位，公司经营环境承受巨大压力，盈利空间受到挤压，上半年经营业绩同比大幅降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4861143.d.html</link>
+            <guid>3176945</guid>
+            <pubDate>Fri, 14 Jul 2023 14:17:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[富国银行 CFO：商业房地产周期仍处于“非常早期”阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4945073.d.html</link>
-            <guid>3176723</guid>
-            <pubDate>Fri, 14 Jul 2023 11:39:32 GMT</pubDate>
+            <title><![CDATA[【华为：企业开发及实施大模型应用过程面临四大挑战】据中新网，14日在深圳举行的“大模型时代华为AI存储新品发布会”上，华为公司副总裁、数据存储产品线总裁周跃峰表示，企业在开发及实施大模型应用过程中，面临四大挑战。首先，数据准备时间长，数据来源分散，归集慢，预处理百TB数据需10天左右；其次，多模态大模型以海量文本、图片为训练集，当前海量小文件的加载速度不足100MB/s，训练集加载效率低；第三，大模型参数频繁调优，训练平台不稳定，平均约2天出现一次训练中断，需要Checkpoint机制恢复训练，故障恢复耗时超过一天；最后，大模型实施门槛高，系统搭建繁杂，资源调度难，GPU资源利用率通常不到40%。]]></title>
+            <guid>3176944</guid>
+            <pubDate>Fri, 14 Jul 2023 14:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科大讯飞：讯飞星火大模型将按原计划在8月15日升级 代码和多模态交互能力将得到突破】科大讯飞在投资者互动平台回复称，讯飞星火大模型将按原计划在8月15日如期升级，届时大模型版本将突破代码能力并升级多模态交互能力。科大讯飞表示，公司于5月6日发布了星火认知大模型，6月9日，讯飞星火认知大模型V1.5正式发布，能力上实现三大升级。在8月15号突破代码能力并升级多模态交互能力后，科大讯飞计划于10月24日对大模型进行第三次迭代。]]></title>
-            <guid>3176722</guid>
-            <pubDate>Fri, 14 Jul 2023 11:39:11 GMT</pubDate>
+            <title><![CDATA[【ST阳光城：净利润亏损比上年同期减少：57.9%-41.1%】ST阳光城发布半年期业绩预报，预计归属于上市公司股东的净利润亏损150,000万元–210,000万元，亏损比上年同期减少57.9%-41.1%。业绩变动原因主要系项目开发周期延长，费用化的借款利息增加所致。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4860495.d.html</link>
+            <guid>3176943</guid>
+            <pubDate>Fri, 14 Jul 2023 14:15:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国高科与百度签署战略合作协议 携手赋能AI+职业教育】据中国高科集团官微，7月14日，中国高科集团股份有限公司与北京百度网讯科技有限公司在北京签署战略合作协议。双方将在“生成式大模型、公有云服务、产教融合”等领域共同探讨和实践对应的商业模式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4944484.d.html</link>
-            <guid>3176721</guid>
-            <pubDate>Fri, 14 Jul 2023 11:37:36 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：联合国的黑海粮食协议帮助乌克兰将其谷物和小麦等产品重新运出乌克兰，并积极将其提供给发展中国家。]]></title>
+            <guid>3176942</guid>
+            <pubDate>Fri, 14 Jul 2023 14:14:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海南首支重点园区参投的QFLP基金落地崖州湾：主要投向科技与消费】三亚崖州湾创业投资有限公司宣布近日参与投资海南麟阁创业投资有限公司管理的麟阁一期基金。据悉，三亚崖州湾创业投资有限公司于今年5月正式通过与麟阁创投开展基金合作的决议，并在6月完成协议签署，合作基金总规模超过6亿元。这是海南首支由重点园区参与投资的QFLP（合格境外有限合伙人）基金。本支基金主要投向科技与消费两大领域，在科技领域重点关注新能源、硬科技等新兴产业的投资机会，坚持投早、投小，并将推动合适的企业在崖州湾科技城进行投资和产线建设。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8167279.d.html</link>
-            <guid>3176720</guid>
-            <pubDate>Fri, 14 Jul 2023 11:37:24 GMT</pubDate>
+            <title><![CDATA[【纳思达：净利润比上年同期下降57.78%-71.86%】纳思达发布半年度业绩预告，2023年半年度公司预计归属上市公司股东的净利润为30,000万元至45,000万元，比上年同期下降57.78%-71.86%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8082711.d.html</link>
+            <guid>3176941</guid>
+            <pubDate>Fri, 14 Jul 2023 14:13:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印度成功发射“月船3号”探测器】印度当地时间14日下午发射“月船3号”月球探测器，这是印度发射的第三个月球探测器。此前，印度“月船3号”探测任务几经推迟，该任务尝试将着陆器和月球车送往月球南极。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8166946.d.html</link>
-            <guid>3176719</guid>
-            <pubDate>Fri, 14 Jul 2023 11:35:57 GMT</pubDate>
+            <title><![CDATA[【安博通：公司将携手百度安全共建网络安全AIInside创新合作模式】安博通7月14日在互动平台回答投资者提问时表示，公司已在官方公众号上正式发布与百度安全的合作，将携手共建网络安全AIInside创新合作模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8082582.d.html</link>
+            <guid>3176940</guid>
+            <pubDate>Fri, 14 Jul 2023 14:12:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【恒逸石化：预计上半年净利润6000万至8000万元】恒逸石化公告，预计上半年实现净利润6000万元至8000万元，比上年同期下降95.59%-96.69%。报告期内，公司炼化及聚酯板块下游终端消费需求环比缓慢恢复，聚酯行业开工率持续提升，成品油、化工品、聚酯纤维、聚酯瓶片等产品供需格局环比持续向好，行业景气度逐渐提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4944022.d.html</link>
-            <guid>3176718</guid>
-            <pubDate>Fri, 14 Jul 2023 11:35:40 GMT</pubDate>
+            <title><![CDATA[英国上诉法院表示，微软-动视收购案的听证会将于7月17日举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4859297.d.html</link>
+            <guid>3176939</guid>
+            <pubDate>Fri, 14 Jul 2023 14:11:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰总统泽连斯基召开最高统帅部会议】据央视新闻，当地时间7月14日，乌克兰总统泽连斯基召开最高统帅部会议，听取了各方关于前线局势、国防等问题的汇报。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4943924.d.html</link>
-            <guid>3176717</guid>
-            <pubDate>Fri, 14 Jul 2023 11:35:27 GMT</pubDate>
+            <title><![CDATA[据国际文传电讯社：克里姆林宫表示，俄罗斯并没有就黑海谷物协议延期发表声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8081647.d.html</link>
+            <guid>3176938</guid>
+            <pubDate>Fri, 14 Jul 2023 14:09:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[招商置地：上半年，合同销售总额约为199.4亿元（同比减少约3.5%），而合同销售总面积约为101万平方米（同比增加约26%）。截至上半年平均售价约为每平方米19,714元。]]></title>
-            <guid>3176716</guid>
-            <pubDate>Fri, 14 Jul 2023 11:34:34 GMT</pubDate>
+            <title><![CDATA[游族网络发布2023年半年度业绩预告，报告期内，预计归属于上市公司股东的净利润为亏损6000万元–3000万元，扣除非经常性损益后的净利润为亏损13000万元-6500万元。]]></title>
+            <guid>3176937</guid>
+            <pubDate>Fri, 14 Jul 2023 14:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[金麒麟：金凤公司拟减持股份不超过1.79%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8165599.d.html</link>
-            <guid>3176714</guid>
-            <pubDate>Fri, 14 Jul 2023 11:32:08 GMT</pubDate>
+            <title><![CDATA[【太钢不锈：净利润比上年同期下降：123.36%-128.33%】太钢不锈发布2023年半年度业绩预告，归属于上市公司股东的净利润亏损47000万元–57000万元，比上年同期下降123.36%-128.33%。业绩变动原因为2023年上半年，国内外经济形势复杂严峻，国内下游行业弱势运行，钢材需求萎缩态势明显，钢铁行业进入周期下行阶段。受供强需弱影响，钢铁产品价格跌幅大于原料价格跌幅，部分不锈钢原料价格上涨，购销两端价差大幅缩小，挤压钢材盈利水平大幅下降，导致公司2023年上半年出现亏损。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4858730.d.html</link>
+            <guid>3176936</guid>
+            <pubDate>Fri, 14 Jul 2023 14:09:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【传艺科技：上半年净利同比预降50%-60%】传艺科技7月14日晚间发布业绩预告，预计上半年净利3410.28万元-4262.85万元，同比下降50%-60%。报告期内，整体消费电子市场需求下滑，公司消费电子零组件板块营收有所下降；钠离子电池项目投入较大，导致公司整体利润有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4942689.d.html</link>
-            <guid>3176713</guid>
-            <pubDate>Fri, 14 Jul 2023 11:31:55 GMT</pubDate>
+            <title><![CDATA[密歇根大学消费者调查主任Joanne Hsu：未来一年的通胀预期变化不大，从6月份的3.3%小幅上升至7月份的3.4%。与6月份相比，长期通胀预期几乎没有变化，为3.1%，在过去24个月中有23个月保持在2.9-3.1%的窄幅区间内。]]></title>
+            <guid>3176935</guid>
+            <pubDate>Fri, 14 Jul 2023 14:07:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[唐人神：预计上半年净亏损6亿元-6.7亿元，上年同期净亏损1.4亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8165450.d.html</link>
-            <guid>3176712</guid>
-            <pubDate>Fri, 14 Jul 2023 11:31:40 GMT</pubDate>
+            <title><![CDATA[安哥拉央行将基准利率维持在17.00%不变。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8080910.d.html</link>
+            <guid>3176934</guid>
+            <pubDate>Fri, 14 Jul 2023 14:07:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国银行：美元可能不会以目前的速度持续下跌】美国银行外汇策略师Claudio Piron和Athanasios Vamvakidis在一份报告中表示，美元近期跌势“合理”，但除非美国经济实现软着陆，否则当前的疲势看来不可持续。他们认为，美国经济软着陆的可能性不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4942026.d.html</link>
-            <guid>3176711</guid>
-            <pubDate>Fri, 14 Jul 2023 11:29:51 GMT</pubDate>
+            <title><![CDATA[美元兑瑞郎USD/CHF日内涨超0.50%，现报0.8632。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8080663.d.html</link>
+            <guid>3176933</guid>
+            <pubDate>Fri, 14 Jul 2023 14:06:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华宝股份：长沙县公安局分别解除对实际控制人朱林瑶女士、董事林嘉宇先生的取保候审】华宝股份公告，2023年7月14日，公司接到通知，长沙县公安局分别解除对实际控制人朱林瑶女士、董事林嘉宇先生的取保候审。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8164804.d.html</link>
-            <guid>3176710</guid>
-            <pubDate>Fri, 14 Jul 2023 11:29:32 GMT</pubDate>
+            <title><![CDATA[美国2年期和10年期国债收益率倒挂幅度加深至91个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp2999415.d.html</link>
+            <guid>3176932</guid>
+            <pubDate>Fri, 14 Jul 2023 14:05:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏宁易购零售云半年新开店862家 二季度销售同比增长54.2%】苏宁易购2023年半年度业绩预告显示，苏宁易购零售云业务上半年新开862家店面，截至6月30日苏宁易购零售云加盟店总数达到10286家，零售云渠道商品销售总规模同比增长42.5%，其中二季度同比增长54.2%。在一二级市场，公司推进店面体验升级，实现多个“苏宁易家”店面模型的落地及推广，上半年家电3C家居生活专业店可比门店销售收入同比增长14.9%，其中二季度同比增长18.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4941651.d.html</link>
-            <guid>3176709</guid>
-            <pubDate>Fri, 14 Jul 2023 11:28:06 GMT</pubDate>
+            <title><![CDATA[美元指数DXY短线走高逾20点，重回100关口上方。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4857588.d.html</link>
+            <guid>3176931</guid>
+            <pubDate>Fri, 14 Jul 2023 14:05:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【克宫称考虑给予私营军事集团“瓦格纳”合法地位】据法新社消息称，克里姆林宫7月14日表示，俄罗斯可能会给予私营军事集团“瓦格纳”合法地位。法新社说，这将自6月底“瓦格纳事件”发生后，俄方态度上的一次大转变。 (环球网)]]></title>
-            <guid>3176708</guid>
-            <pubDate>Fri, 14 Jul 2023 11:26:56 GMT</pubDate>
+            <title><![CDATA[数据公布后，美国两年期国债收益率涨至4.723%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8080261.d.html</link>
+            <guid>3176929</guid>
+            <pubDate>Fri, 14 Jul 2023 14:05:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州拟对公交车票价进行调整，或将取消一元票价】广州市发展和改革委员会发布关于召开《广州市公交基础票价优化方案》听证会暨征集听证会参加人和征求公众意见的公告。据介绍，广州拟取消一元票价，并对公交日班车线路基础票价进行调整，快车、夜班车基础票价以及BRT线路票价不变。（南方Plus）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4941078.d.html</link>
-            <guid>3176707</guid>
-            <pubDate>Fri, 14 Jul 2023 11:26:10 GMT</pubDate>
+            <title><![CDATA[【受益于通胀放缓等因素，美国7月消费者信心持续改善】密歇根大学消费者调查主任Joanne Hsu表示，消费者信心指数连续第二个月上升，比6月份飙升13%，达到自2021年9月以来的最高水平。该指数的所有组成部分都大幅改善，其中长期商业状况激增19%，短期商业状况增长16%。总体而言，除低收入消费者外，所有人口群体的信心都有所上升。市场信心的急剧上升主要归因于通胀持续放缓以及劳动力市场的稳定。如图所示，目前的情绪指数约为2022年6月以来的历史低点50和2020年2月大流行前的101中间水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8080226.d.html</link>
+            <guid>3176928</guid>
+            <pubDate>Fri, 14 Jul 2023 14:04:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【拓维信息收深交所关注函：要求说明深圳大鹏地产项目的真实权属】拓维信息收深交所关注函，要求核实说明根据已披露信息，海云天科技对外担保涉及的担保资产为深圳大鹏地产项目权属登记在海云天科技名下，但实际归属游忠惠、刘彦等人，不属于上市公司。请说明深圳大鹏地产项目的真实权属，以此形成的担保事项对海云天科技产生的影响，上述担保事项是否实质上构成违规对外担保。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4940696.d.html</link>
-            <guid>3176706</guid>
-            <pubDate>Fri, 14 Jul 2023 11:25:00 GMT</pubDate>
+            <title><![CDATA[【四部门：开展2023年医疗保障基金飞行检查工作】近日，国家医保局联合财政部、国家卫生健康委、国家中医药局印发了《2023年医疗保障基金飞行检查工作方案》。《方案》明确了今年飞行检查的两项目标：一方面通过彻查医保领域各类违法违规行为，持续保持基金监管高压态势，进一步压实定点医药机构合理、规范使用医保基金的主体责任；另一方面通过飞行检查后续整改，不断优化医疗、医保现行政策，强化经办机构审核检查责任，提升定点医药机构全国统一医保信息业务编码应用的准确性和规范性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8079899.d.html</link>
+            <guid>3176927</guid>
+            <pubDate>Fri, 14 Jul 2023 14:03:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【潘森宏观：欧元区第二季度经济不太可能从贸易中获得提振】潘森宏观经济高级经济学家Melanie Debono表示，商品贸易不太可能提振欧元区第二季度的GDP。Debono指出，欧盟5月份的贸易逆差大幅收窄至3亿欧元，但名义逆差仍比第一季度大，除非6月份出口表现强劲，否则第二季度将保持这种情况。她表示：“由于商品进口下降、出口小幅上升，第一季度商品实际净出口提振了实际GDP增长。但我们相信，商品实际净出口的好转已经消退。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8560025.d.html</link>
-            <guid>3176705</guid>
-            <pubDate>Fri, 14 Jul 2023 11:24:31 GMT</pubDate>
+            <title><![CDATA[美国7月密歇根大学消费者信心指数为2021年9月以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4856882.d.html</link>
+            <guid>3176925</guid>
+            <pubDate>Fri, 14 Jul 2023 14:03:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏州固锝：上半年净利同比预降42.16%-61.44%】苏州固锝7月14日晚间发布业绩预告，预计上半年利润5433.93万元-8150.9万元，同比下降42.16%-61.44%。报告期内，公司光伏银浆业务平稳增长，营业收入和净利润均同比上升；半导体行业周期下行，国内外客户需求减少，导致半导体业务业绩下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8559988.d.html</link>
-            <guid>3176704</guid>
-            <pubDate>Fri, 14 Jul 2023 11:24:15 GMT</pubDate>
+            <title><![CDATA[美国10年期国债收益率在数据公布后涨至3.805％。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8079670.d.html</link>
+            <guid>3176924</guid>
+            <pubDate>Fri, 14 Jul 2023 14:03:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[兄弟科技：全资子公司碘海醇原料药取得日本登录证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8162568.d.html</link>
-            <guid>3176703</guid>
-            <pubDate>Fri, 14 Jul 2023 11:22:08 GMT</pubDate>
+            <title><![CDATA[恒大汽车(00708.HK)：本公司将于2023年7月26日（星期三）举行董事会会议，藉以批准（其中包括）本公司及其附属公司截至2021年12月31日止年度、截至2022年12月31日止年度及截至2022年6月30日止六个月的半年度的财务业绩公告并以供刊发之用。]]></title>
+            <guid>3176923</guid>
+            <pubDate>Fri, 14 Jul 2023 14:02:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华侨城A：预计上半年亏损12亿元-17亿元】华侨城A 7月14日晚间发布业绩预告，预计上半年净利润亏损12亿元-17亿元，上年同期净利润1.05亿元。受房地产市场环境及公司项目结转结构变化等因素影响，公司结转项目毛利率同比有所下降；为加快销售去化，公司对部分房地产项目采取灵活的销售策略，预计带来部分价值折损。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4939648.d.html</link>
-            <guid>3176702</guid>
-            <pubDate>Fri, 14 Jul 2023 11:21:56 GMT</pubDate>
+            <title><![CDATA[【鹏辉能源：签订钠离子储能电站示范项目合作协议，钠离子电芯进入大规模商用阶段】据中证报，7月14日上午，鹏辉能源与青岛北岸控股集团签订5MW/10MWh钠离子储能电站示范项目合作协议，此项目位于青岛北岸控股大数据中心，首次实现了钠离子电芯在北方储能电站的大规模应用，标志着鹏辉能源钠离子电芯正式导入市场，进入规模化商业应用阶段，对于钠电产业化具有标志性意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8079437.d.html</link>
+            <guid>3176922</guid>
+            <pubDate>Fri, 14 Jul 2023 14:02:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【巴斯夫与长三角物理研究中心成立联合研究中心 将重点关注固态电池和钠离子电池】巴斯夫官微消息，7月14日，巴斯夫与长三角物理研究中心在江苏省溧阳市成立联合研究中心。根据协议，双方将围绕电池和电池包的材料和解决方案展开合作，重点关注固态电池和钠离子电池。据了解，长三角物理研究中心由中国科学院物理研究所与江苏省溧阳市人民政府于2018年联合创建。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8162284.d.html</link>
-            <guid>3176701</guid>
-            <pubDate>Fri, 14 Jul 2023 11:21:06 GMT</pubDate>
+            <title><![CDATA[美国7月密歇根大学预期指数初值 69.4，预期61.8，前值61.5。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4856271.d.html</link>
+            <guid>3176921</guid>
+            <pubDate>Fri, 14 Jul 2023 14:00:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通CEO戴蒙：俄乌冲突以及核心通胀问题是经济面临的“突出风险”之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4939110.d.html</link>
-            <guid>3176700</guid>
-            <pubDate>Fri, 14 Jul 2023 11:20:06 GMT</pubDate>
+            <title><![CDATA[美国7月密歇根大学消费者信心指数初值 72.6，预期65.5，前值64.4。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4856201.d.html</link>
+            <guid>3176920</guid>
+            <pubDate>Fri, 14 Jul 2023 14:00:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中环环保：拟收购济源市中辰环境科技有限公司70%股权】中环环保公告，拟以自有资金向公司持股5%以上法人股东安徽中辰投资控股有限公司、安徽壹资本绿色创业投资基金合伙企业（有限合伙）收购济源市中辰环境科技有限公司70%的股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8161388.d.html</link>
-            <guid>3176699</guid>
-            <pubDate>Fri, 14 Jul 2023 11:18:20 GMT</pubDate>
+            <title><![CDATA[美国7月一年期通胀率预期 3.4%，预期3.10%，前值3.30%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8079048.d.html</link>
+            <guid>3176919</guid>
+            <pubDate>Fri, 14 Jul 2023 14:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【利率上升提振贷款业务，摩根大通Q2利润大增】摩根大通第二季度财报显示利润大涨，因利率上升带来的贷款业务大幅增长，帮助抵消了投行和交易业务放缓的影响。摩根大通周五表示，第二季度净利润同比增长67%，至144.7亿美元，每股收益4.75美元，均高于分析师预期。该行二季度利润增长的很大一部分是由更高的净利息收入推动的，净利息收入是银行为存款支付的利息与从贷款和其他资产中赚取的利息之间的差额。二季度摩根大通净利息收入同比增长44%，至219亿美元，超过分析师近210亿美元的预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8161045.d.html</link>
-            <guid>3176698</guid>
-            <pubDate>Fri, 14 Jul 2023 11:17:04 GMT</pubDate>
+            <title><![CDATA[【华天科技：净利润比上年同期下降90.27%－86.38%】华天科技发布2023年半年度业绩预告，归属于上市公司股东的净利润盈利5,000万元－7,000万元，比上年同期下降90.27%－86.38%。业绩变动主要原因，本报告期终端市场产品需求下降，集成电路行业景气度下滑，公司订单不饱满，产能利用率不足，致使归属于上市公司股东的净利润较上年同期有较大幅度下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4855933.d.html</link>
+            <guid>3176918</guid>
+            <pubDate>Fri, 14 Jul 2023 13:59:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中兵红箭：上半年净利润预降82.90 % - 86.46 %】中兵红箭公告，公司预计2023年半年度实现归属于上市公司股东的净利润9500万元-12000万，同比下降93.92%—91.49%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8160703.d.html</link>
-            <guid>3176697</guid>
-            <pubDate>Fri, 14 Jul 2023 11:15:56 GMT</pubDate>
+            <title><![CDATA[【乐通股份：拟通过自有及自筹资金在安吉经开区与其他合作方共同投资设立控股子公司】乐通股份公告，公司与浙江安吉经济开发区管理委员会于2023年7月14号签署了《产业投资合作框架协议》，乐通股份拟通过自有及自筹资金在安吉经开区与其他合作方共同投资设立控股子公司，建设高效异质结电池和组件智能制造项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4855829.d.html</link>
+            <guid>3176917</guid>
+            <pubDate>Fri, 14 Jul 2023 13:58:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【预告：国新办举行“促进家居消费 着力扩大内需”国务院政策例行吹风会】国务院新闻办公室将于2023年7月18日（星期二）下午3时举行国务院政策例行吹风会，请商务部副部长盛秋平和工业和信息化部、住房和城乡建设部、国家市场监督管理总局有关负责人介绍“促进家居消费 着力扩大内需”有关情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4937790.d.html</link>
-            <guid>3176696</guid>
-            <pubDate>Fri, 14 Jul 2023 11:15:43 GMT</pubDate>
+            <title><![CDATA[【调查报告预测：2030年国内碳价将较目前翻番】7月14日发布的《2022年中国碳价调查报告》预测，到2030年，全国碳市场的碳价预计会上涨至130元/吨，较目前翻番。参与调查的受访者预期，到2025年，全国碳市场碳价将升至87元/吨，2030年或将达到130元/吨。截至7月14日，全国碳市场碳排放配额（CEA）收盘价为60元/吨，与前一日持平。全国碳市场于2021年7月16日上线启动，目前累计成交量约2.4亿吨，累计成交额约110亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp8454315.d.html</link>
+            <guid>3176916</guid>
+            <pubDate>Fri, 14 Jul 2023 13:58:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  华侨城A：预计上半年净亏损12亿元-17亿元，上年同期净利润1.05亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4937733.d.html</link>
-            <guid>3176695</guid>
-            <pubDate>Fri, 14 Jul 2023 11:15:30 GMT</pubDate>
+            <title><![CDATA[【国家医保局等部门联合印发《2023年医疗保障基金飞行检查工作方案》】近日，国家医保局联合财政部、国家卫生健康委、国家中医药局印发了《2023年医疗保障基金飞行检查工作方案》。《方案》明确了今年飞行检查的两项目标：一方面通过彻查医保领域各类违法违规行为，持续保持基金监管高压态势，进一步压实定点医药机构合理、规范使用医保基金的主体责任；另一方面通过飞行检查后续整改，不断优化医疗、医保现行政策，强化经办机构审核检查责任，提升定点医药机构全国统一医保信息业务编码应用的准确性和规范性。为强化飞行检查对医保基金管理的推动作用，今年还将定点医疗机构是否规范使用全国统一的医保信息业务编码纳入检查内容。针对定点零售药店，主要检查是否存在违规刷卡、伪造信息、串换收费、为非定点机构结算医保费用等行为。针对医保经办机构，主要检查对定点医药机构和参保人申报的费用日常审核、支付以及核查情况，DRG/DIP付费方式下年度预算额度确定情况，智能审核系统使用情况等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4855766.d.html</link>
+            <guid>3176915</guid>
+            <pubDate>Fri, 14 Jul 2023 13:58:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  国轩高科：预计上半年净利润1.5亿元-2亿元，同比增加132.27%-209.69%。]]></title>
-            <guid>3176694</guid>
-            <pubDate>Fri, 14 Jul 2023 11:12:21 GMT</pubDate>
+            <title><![CDATA[贝莱德(BLK.N) CEO：加密货币是一种国际资产，它将超越任何一种货币及货币估值。]]></title>
+            <guid>3176914</guid>
+            <pubDate>Fri, 14 Jul 2023 13:58:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[有数据显示，俄罗斯从西方港口出口的石油7月份已经比5月份减少了50万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4936528.d.html</link>
-            <guid>3176693</guid>
-            <pubDate>Fri, 14 Jul 2023 11:12:07 GMT</pubDate>
+            <title><![CDATA[【汇川技术：上半年净利同比预增0%-10%】汇川技术发布业绩预告，预计上半年净利润19.75亿元-21.72亿元，同比增长0%-10%。报告期内，新能源汽车业务和工业机器人业务同比增长较快，通用自动化业务和智慧电梯业务同比稳健增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8078521.d.html</link>
+            <guid>3176913</guid>
+            <pubDate>Fri, 14 Jul 2023 13:57:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  华夏幸福：预计上半年净亏损10亿元-15亿元，扣非后净亏损52.5亿元-57.5亿元。]]></title>
-            <guid>3176692</guid>
-            <pubDate>Fri, 14 Jul 2023 11:11:33 GMT</pubDate>
+            <title><![CDATA[【俄罗斯总统普京召开联邦安全会议常务委员会议】俄罗斯总统普京召开联邦安全会议常务委员会议，讨论对关键设施的防御等问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4855278.d.html</link>
+            <guid>3176912</guid>
+            <pubDate>Fri, 14 Jul 2023 13:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三位知情人士称，俄罗斯能源当局指示企业在8月削减石油出口。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8157907.d.html</link>
-            <guid>3176688</guid>
-            <pubDate>Fri, 14 Jul 2023 11:07:53 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：必须扩大和延长黑海谷物协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4855250.d.html</link>
+            <guid>3176911</guid>
+            <pubDate>Fri, 14 Jul 2023 13:56:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【金科股份发布2023年半年业绩预告 结算规模保持稳定】7月14日晚，金科股份发布2023年半年度业绩预告。报告显示，2023年半年度公司扣除非经常性损益后的净利润为-5.5亿至11亿。净利润亏损主要原因系：虽报告期内公司房地产开发项目结算规模及结算毛利率整体保持稳定，但受房地产市场持续低迷等影响，公司在售房地产项目的销售规模及销售毛利率仍有下滑趋势；同时，报告期内公司新增投资不足，存量房地产开发项目逐步竣工导致符合利息资本化的项目及对应的金额减少，相关有息负债利息费用化增加。报告显示，公司坚定抓实保交楼、保稳定、保资产、促转型升级的“三保一促”工作，聚焦经营降本增效，强抓财务收支平衡，切实履行企业主体责任，提升公司持续经营能力，化解流动性风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir3101045.d.html</link>
-            <guid>3176687</guid>
-            <pubDate>Fri, 14 Jul 2023 11:07:39 GMT</pubDate>
+            <title><![CDATA[南非兰特兑美元下跌1.09％，至18.1175。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8077028.d.html</link>
+            <guid>3176910</guid>
+            <pubDate>Fri, 14 Jul 2023 13:52:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【华是科技：公司暂未涉及共封装光学(CPO)产品研发】华是科技发布股票交易异常波动的公告，公司关注到近期有部分投资者、金融终端将公司股票归入“共封装光学(CPO)”概念板块，经核查，公司暂未涉及共封装光学(CPO)产品研发，请投资者审慎决策，谨防炒作风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfip4934808.d.html</link>
-            <guid>3176685</guid>
-            <pubDate>Fri, 14 Jul 2023 11:07:11 GMT</pubDate>
+            <title><![CDATA[据相关声明，欧盟将对叙利亚的人道主义豁免再延长6个月。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrp8453181.d.html</link>
+            <guid>3176908</guid>
+            <pubDate>Fri, 14 Jul 2023 13:50:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2连板华是科技：公司暂未涉及共封装光学产品研发，异动期间大股东杭州中是出售26.9万股股票。]]></title>
-            <guid>3176684</guid>
-            <pubDate>Fri, 14 Jul 2023 11:06:42 GMT</pubDate>
+            <title><![CDATA[据塔斯社：俄罗斯政府提议从9月1日起将乌拉尔原油折扣降至20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4853193.d.html</link>
+            <guid>3176907</guid>
+            <pubDate>Fri, 14 Jul 2023 13:48:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【众信旅游上半年预亏3100万元-3600万元】众信旅游集团股份有限公司发布2023年半年度业绩预告，报告期内，众信旅游预计实现归属于上市公司股东的净亏损3100万元-3600万元。其中，众信旅游第二季度预计实现归属于上市公司股东的净利润150万元-650万元，同比增长106.28%-115.06%。]]></title>
-            <guid>3176683</guid>
-            <pubDate>Fri, 14 Jul 2023 11:05:47 GMT</pubDate>
+            <title><![CDATA[【顺鑫农业上半年转亏二季度营收下滑】顺鑫农业发布公告，预计上半年归属上市公司股东净利润为-5500万元至-1.1亿元，相比去年同期盈利近4000万元的业绩大幅下滑。这将是顺鑫农业上市多年来首次出现上半年亏损。去年，顺鑫农业已出现上市以来首次全年亏损。顺鑫农业解释，上半年国内房地产市场持续低迷，公司房地产项目销售及回款缓慢，影响公司整体业绩，出售商务中心及寰宇中心两栋楼宇资产产生的税费也对报告期净利润产生较大影响；同时国内生猪平均价格持续低位运行，公司生猪养殖与屠宰业务两端承压，公司猪肉产业亏损较大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8075319.d.html</link>
+            <guid>3176906</guid>
+            <pubDate>Fri, 14 Jul 2023 13:45:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  中科江南：股东众志软科、融商力源和科鼎好友拟减持不超过6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfim8156666.d.html</link>
-            <guid>3176682</guid>
-            <pubDate>Fri, 14 Jul 2023 11:04:39 GMT</pubDate>
+            <title><![CDATA[在几家大行发布财报后，标普500银行指数上涨1.4％，达到4个多月来的高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4852331.d.html</link>
+            <guid>3176905</guid>
+            <pubDate>Fri, 14 Jul 2023 13:45:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【腾讯任宇昕：电竞正进化为一项具备全球影响力的新兴体育运动】2023全球电竞运动领袖峰会暨腾讯电竞年度发布会在广东深圳举办。腾讯公司首席运营官任宇昕从电竞和传统体育的融合、电竞产业外延等角度再次肯定了电竞在当下正进化为一项具备全球影响力的新兴体育运动。任宇昕表示，电竞如今在国内市场始终保持着非常良好的发展趋势。据数据显示，全球电竞观众在5年时间里从3.35亿增长到5.32亿，涨幅达到约60%。（贝壳财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasfir8556450.d.html</link>
-            <guid>3176681</guid>
-            <pubDate>Fri, 14 Jul 2023 11:04:30 GMT</pubDate>
+            <title><![CDATA[【国家能源局：全面加快建设全国统一电力市场体系 研究制定电力市场“1+N”基础规则制度】国家能源局召开2023年电力调度交易与市场秩序厂网联席会议，会议指出，近期部分地区用电负荷陆续创下新高，2023年迎峰度夏期间电力保供形势依然严峻、责任十分重大。会议强调，下一步，国家能源局将全面加快建设全国统一电力市场体系，研究制定电力市场“1+N”基础规则制度，深化辅助服务市场机制；加强电力调度交易与市场秩序监管，规范调度运行、交易组织、电费结算、信息披露等，纠正地方不当干预行为。各有关电力企业和市场运营机构要积极配合国家能源局组织开展的电力领域综合监管、电力系统调节性电源建设运营综合监管等工作，认真整改、举一反三，切实维护健康良好的电力市场秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8073915.d.html</link>
+            <guid>3176903</guid>
+            <pubDate>Fri, 14 Jul 2023 13:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：“存款贝塔”将会上升，这是必然的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmrm4850397.d.html</link>
+            <guid>3176902</guid>
+            <pubDate>Fri, 14 Jul 2023 13:37:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信达证券发布关于“杭州热电”交易风险的提示】信达证券发布关于“杭州热电”交易风险的提示。公司股票价格短期涨幅较大，换手率较高，市盈率显著高于同行业水平，目前公司股价与公司基本面严重偏离。上海证券交易所已通知将对上述证券上的异常交易行为进行从严认定，并视情况从重采取列为重点监控账户、暂停投资者账户交易、限制投资者账户交易等自律管理措施。请投资者理性投资，审慎交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-14/detail-imzasmri8072593.d.html</link>
+            <guid>3176901</guid>
+            <pubDate>Fri, 14 Jul 2023 13:35:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
