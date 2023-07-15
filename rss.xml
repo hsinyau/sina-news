@@ -4,11 +4,39 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 15 Jul 2023 18:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 21:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【抗议结束后利比亚沙拉拉油田恢复生产】在本周早些时候关闭该设施的抗议者离开后，利比亚的沙拉拉油田正在逐步恢复生产。据悉，未来24小时内该油田产能可能会完全恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzavmtx6595164.d.html</link>
+            <guid>3177492</guid>
+            <pubDate>Sat, 15 Jul 2023 20:59:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【峰值利率接近，是时候购买长期债券了】买入长期债券的投资者有历史经验的支持，调查发现对利率风险的需求处于历史最高水平。几十年来，在美联储最后一次加息后，10年或更长时间到期的国债表现一直优于短期债券。 平均而言，在联邦基金利率达到峰值后的六个月内，它们的回报率为10%。当然，只有事后才知道加息是否是最后一次。 但投资者已经接受这样的观点：预计7月26日联邦基金利率目标区间将上调25个基点，这将为2022年3月开始的史诗系列画上句号。美国银行和摩根大通研究发现，消化价格走势的投资者增加了长期债券的敞口。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzavfmz6718953.d.html</link>
+            <guid>3177491</guid>
+            <pubDate>Sat, 15 Jul 2023 20:14:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：07月16日03时42分在新疆巴音郭楞州若羌县（北纬38.31度，东经89.34度）发生3.7级地震，震源深度10千米。]]></title>
+            <guid>3177490</guid>
+            <pubDate>Sat, 15 Jul 2023 19:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰公用事业公司收到国家关于煤炭资产分拆的提议】波兰国有公用事业公司收到了政府购买其碳排放资产的报价，这是加速该国向清洁能源转型计划的关键部分。拟议的交易将导致期待已久的燃煤电厂和矿山移交给名为NABE的政府机构。 这将有助于公用事业公司获得重新将发电重点转向可再生能源所需的融资。 波兰70%以上的电力来自煤炭，面临着实现欧盟净零排放目标的压力。作为要约的一部分，政府提议向波兰最大电力生产商PGE SA支付8.49亿兹罗提（合 2.14 亿美元）购买其资产，包括该国最大的Belchatow发电厂，以换取该公司54亿兹罗提的煤炭偿还工厂八年来的债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzavfnf6933534.d.html</link>
+            <guid>3177489</guid>
+            <pubDate>Sat, 15 Jul 2023 19:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地博物馆暑期延长开放时间】随着暑假来临，国内多家热门博物馆出现了一票难求、人山人海等情况。国家文物局7月14日发文要求重点场馆、热门场馆应根据实际情况，通过适当延长开放时间等方式，更大程度满足公众参观需求。梳理发现，近期国内已有多家博物馆宣布调整了开放时间，有的博物馆调整后每个开放日比此前多出一个小时。与此同时，还有多个博物馆宣布在每周的指定日期开放夜场参观，有博物馆将开放时间延长至21时。]]></title>
+            <guid>3177488</guid>
+            <pubDate>Sat, 15 Jul 2023 18:17:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【苏丹首都圈地区一医院遭遇袭击 至少4人死亡】当地时间7月15日，苏丹卫生部表示，苏丹首都圈地区恩图曼市的一家医院当天遭到无人机空袭，造成至少4名平民死亡，另有4人受伤。]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzauzec6824079.d.html</link>
@@ -495,35 +523,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhp3910119.d.html</link>
             <guid>3177392</guid>
             <pubDate>Sat, 15 Jul 2023 10:23:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰国家边防局称将密切监视白俄罗斯境内瓦格纳集团人员动向】据乌克兰媒体15日报道，乌克兰国家边防局发言人安德烈·德姆琴科当天证实，瓦格纳集团的一些人员抵达了白俄罗斯。他表示乌边防部队将密切监视其在白俄罗斯的行动。德姆琴科表示，截至目前的情报显示，瓦格纳集团的一些人员正从俄罗斯转移到白俄罗斯境内。乌克兰方面会继续关注事态发展，进一步获得这些人员在白俄罗斯的人数、具体驻扎地点以及将执行何种任务等信息。（央视新闻）]]></title>
-            <guid>3177391</guid>
-            <pubDate>Sat, 15 Jul 2023 10:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度比哈尔邦雷电暴雨造成至少22人死亡】据全印广播电台报道，当地时间14日，印度比哈尔邦遭遇雷电暴雨天气，至少22人因雷击死亡。气象部门预测，未来几天比哈尔邦东部地区将有强降雨。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhp3908638.d.html</link>
-            <guid>3177390</guid>
-            <pubDate>Sat, 15 Jul 2023 10:16:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珠江防总启动防汛防台风Ⅳ级应急响应】7月15日上午，南海热带低压已加强为今年第4号台风，预计台风中心将以每小时10～15公里的速度向西偏北方向移动，强度逐渐增强，并于17日夜间到18日早晨在海南岛东部到广东西部一带沿海登陆（台风级或强台风级，风速35～42米每秒）。受其影响，7月17-20日，流域南部地区将出现一次强降雨过程，累积降雨量有50～100毫米，其中左江、珠江三角洲、粤西沿海、海南等地部分地区有100～250毫米；左江、右江及西江中下游干流将出现明显涨水过程，暴雨区内发生中小河流超警洪水、山洪灾害和城市内涝风险较大。（珠江水利）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhm7131296.d.html</link>
-            <guid>3177389</guid>
-            <pubDate>Sat, 15 Jul 2023 10:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度总理抵达阿联酋开启正式访问】据阿联酋《国民报》报道，当地时间7月15日，印度总理莫迪抵达阿联酋阿布扎比，开启对阿联酋的正式访问。莫迪将与阿联酋总统穆罕默德就双边关系进行广泛的会谈。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhm7131127.d.html</link>
-            <guid>3177388</guid>
-            <pubDate>Sat, 15 Jul 2023 10:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖南省政府办公厅回应不雅信息事件：不清楚此事】7月15日，一张“湖南省直单位资产系统技术支持群”微信聊天截图中，一名为“省政府办公厅”人员连续发布三条不雅信息引发广泛关注。7月15日，湖南省政府办公厅工作人员告诉记者，他们不清楚网传事情。（奔流新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-15/detail-imzaukhp3908066.d.html</link>
-            <guid>3177387</guid>
-            <pubDate>Sat, 15 Jul 2023 10:13:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
