@@ -4,11 +4,28 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 16 Jul 2023 15:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 18:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【伊拉克总理访问叙利亚 两国强调在阿拉伯地区新形势下深化合作】当地时间16日，伊拉克总理苏达尼到访叙利亚大马士革，同叙利亚总统巴沙尔·阿萨德就增进两国关系、加强经贸、交通、工业等领域合作、加强政治协商、共同打击恐怖主义等举行会谈。双方强调，叙利亚同伊拉克在各种局势下的相互支持和团结体现了两国历史性、兄弟般的关系，双方将继续深化两国关系。会谈后，双方召开联合记者会。巴沙尔·阿萨德表示，目前阿拉伯地区出现积极趋势，两国应抓住机遇进一步增进阿拉伯国家关系。苏达尼此次访问是两国建立机制性关系、实现双边合作重大飞跃的契机。特别在经贸领域，将帮助叙利亚打破西方制裁的封锁。苏达尼表示，伊拉克一贯支持叙利亚主权和领土完整。呼吁西方国家解除对叙单边制裁，并强调这种制裁加剧了叙利亚人民的苦难，伊拉克将积极帮助叙利亚恢复经济，并将同叙利亚就打击恐怖主义及应对水资源短缺等问题展开合作。（央视新闻）]]></title>
+            <guid>3177980</guid>
+            <pubDate>Sun, 16 Jul 2023 16:44:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫：美军不会在乌与俄军作战】白宫国家安全顾问杰克·沙利文称，美军不会在乌克兰与俄军作战，这一立场对美国来说仍然是基本且永久性的。沙利文补充称，美国不希望乌克兰冲突“以第三次世界大战结束”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzaxecc5748080.d.html</link>
+            <guid>3177977</guid>
+            <pubDate>Sun, 16 Jul 2023 15:34:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保加利亚总统：乌克兰希望冲突继续 但由整个欧盟买单】保加利亚总统鲁门·拉德夫在与记者的沟通中表示，乌克兰当局不顾对该地区其他国家造成的后果，希望战争继续下去。拉德夫表示，欧洲领导人 "疯狂地试图让我们相信，通过提供军事援助，他们反而加强了我们的安全"。然而他指出，冲突在恶化，伤亡越来越多。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzaxecf2523809.d.html</link>
+            <guid>3177976</guid>
+            <pubDate>Sun, 16 Jul 2023 15:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【巴拿马开展联合缉毒行动 一周内缴获2.3吨毒品】巴拿马警方当地时间15日发布公报称，过去一周国家警察、航空、港口等管理部门开展联合缉毒行动，根据情报发动48小时突击行动，在全国多地查获3起跨国毒品走私案，共缴获可卡因等毒品2.3吨。初步调查显示，查获毒品大部分来自厄瓜多尔、哥伦比亚等地，一部分藏匿在海运集装箱中，试图经巴拿马运往欧洲。巴拿马警方称，今年以来政府加大毒品打击力度，迄今共开展66次联合缉毒行动，并逮捕百余名涉毒犯罪嫌疑人。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzaxecf2520402.d.html</link>
@@ -43,12 +60,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzaxecc5741081.d.html</link>
             <guid>3177969</guid>
             <pubDate>Sun, 16 Jul 2023 14:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴拿马开展联合缉毒行动，一周内缴获2.3吨毒品】巴拿马警方当地时间15日发布公报称，过去一周国家警察、航空、港口等管理部门开展联合缉毒行动，根据情报发动48小时突击行动，在全国多地查获3起跨国毒品走私案，共缴获可卡因等毒品2.3吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzaxeci5882327.d.html</link>
-            <guid>3177968</guid>
-            <pubDate>Sun, 16 Jul 2023 14:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[据俄罗斯卫星通讯社：美国白宫表示，美军不会在乌与俄军作战，这仍是基本和永久立场。]]></title>
@@ -526,36 +537,6 @@
             <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfm6078585.d.html</link>
             <guid>3177792</guid>
             <pubDate>Sun, 16 Jul 2023 10:01:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京：向乌克兰提供集束弹药并使用是犯罪】 在“俄罗斯-1”频道当地时间7月16日播出的节目中，俄罗斯总统普京表示，向乌克兰提供集束弹药并使用应该被认为是一种犯罪。当记者问及俄罗斯专家是否会对俘获的美制“布雷德利”步兵战车进行研究，普京表示，俄方俘获的西方设备将是俄罗斯专家研究的主题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfm6078148.d.html</link>
-            <guid>3177790</guid>
-            <pubDate>Sun, 16 Jul 2023 09:58:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【余波任中国大唐董事、党组副书记】7月16日上午，中国大唐集团有限公司召开领导班子扩大会议，通报了中央关于余波任中国大唐集团有限公司董事、党组副书记的决定。上述任职按有关法律规定办理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfm6076872.d.html</link>
-            <guid>3177789</guid>
-            <pubDate>Sun, 16 Jul 2023 09:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界气象组织：高温天气或将持续至8月份】据央视新闻，据埃菲社当地时间14日报道，联合国世界气象组织当天表示，6月打破月平均气温最高纪录、7月上半月打破两项日平均气温最高纪录的酷热天气将再持续两周，并可能一直持续到8月份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfm6076381.d.html</link>
-            <guid>3177788</guid>
-            <pubDate>Sun, 16 Jul 2023 09:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩国持续暴雨造成死亡人数升至37人】据央视新闻，当地时间16日下午，据韩国中央灾难安全对策本部公布的最新数据，持续暴雨已经在韩国各地造成37人死亡、9人失踪。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfr6238068.d.html</link>
-            <guid>3177787</guid>
-            <pubDate>Sun, 16 Jul 2023 09:48:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏州启动防汛Ⅳ级应急响应】经综合研判，结合《苏州市防汛抗旱应急预案》有关规定，苏州市防汛抗旱指挥部决定：7月16日17时20分起，启动我市防汛Ⅳ级应急响应，请各地各部门按照预案要求，全力做好各项工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-16/detail-imzawpfp2853438.d.html</link>
-            <guid>3177786</guid>
-            <pubDate>Sun, 16 Jul 2023 09:48:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
