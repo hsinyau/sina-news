@@ -4,311 +4,429 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 26 Jul 2023 21:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 00:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【产业资本陆续减持券商股 国信证券股东减持有进展】据国信证券公告，该公司收到股东一汽股权投资(天津)有限公司出具的《减持计划实施进展告知函》。该股东减持时间已过半，在4月25日至7月24日期间，以9.86元/股的减持均价，减持国信证券4679.8万股，减持比例为0.49%。减持后，该股东持股比例降至2.18%。据悉，一汽投资此次减持的股份来源为国信证券首次公开发行前股份。除了一汽投资外，还有其他产业资本在近期陆续减持券商股或券商概念股。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizk3480610.d.html</link>
-            <guid>3189325</guid>
-            <pubDate>Wed, 26 Jul 2023 20:59:47 GMT</pubDate>
+            <title><![CDATA[【亚马逊：旗下AI平台Bedrock已有数千名客户在试用】亚马逊旗下云服务Amazon Web Services（AWS）在美东时间26日（周三）表示，其4月发布的AI平台Bedrock已有数千名客户在试用，包括瑞安航空、全球最大对冲基金桥水基金等。亚马逊还在Bedrock中添加了AI公司Cohere的两个大语言模型，以及Stability AI和Anthropic的最新语言模型。此外，亚马逊目前提供类ChatGPT聊天机器人Agents for Bedrock的预览版。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6617253.d.html</link>
+            <guid>3189465</guid>
+            <pubDate>Thu, 27 Jul 2023 00:30:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：亚马逊生鲜部门将裁掉数百名门店员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizc7872273.d.html</link>
-            <guid>3189323</guid>
-            <pubDate>Wed, 26 Jul 2023 20:59:01 GMT</pubDate>
+            <title><![CDATA[【中国卫星导航定位协会刘大可：高精地图的应用对促进智能汽车创新发展具有重要意义】 据中国卫星导航定位协会7月27日消息，7月24日，中国卫星导航定位协会与中国汽车工程学会在北京联合召开《高精地图功能定位与产业推进》闭门研讨会。研讨会围绕“高精地图功能定位与发展趋势”和“高精地图发展技术路线”两个议题展开。中国卫星导航定位协会副会长、秘书长刘大可在致辞中表示，高精地图的应用对于实现汽车自动驾驶、智能驾驶的商业化应用，促进智能汽车创新发展具有重要意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3394122.d.html</link>
+            <guid>3189464</guid>
+            <pubDate>Thu, 27 Jul 2023 00:29:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法兴银行：预计欧洲央行7月和9月都将加息25bp】法兴银行表示，预计欧洲央行将继续采取强硬态度，在7月再加息25个基点。然而，现在就为9月的进一步加息提供坚定的指导可能还为时过早，尤其是在更多的数据即将公布（包括欧元区第二季度GDP、7月和8月PMI以及通胀数据）和新的经济预测即将出炉的时候。尽管如此，由于欧洲央行目前坚定地关注劳动力市场，鹰派倾向的缓和空间仍然有限。通胀仍存在上行风险，预计欧洲央行将在9月最后一次加息25个基点，之后焦点将在年底转移到资产负债表上。除了通胀之外，明年欧洲央行希望更快缩表的另一个原因是量化宽松造成的损失迅速增加。通胀维持在过高水平的时间越长，政治后果只会越严重，未来几年出现的损失也会越多。要想在明年年底之前结束对紧急抗疫购债计划（PEPP）的全部再投资，一个选择是直接出售资产购买计划的债券，但预计这两种情况下的损失都会很大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizh6703294.d.html</link>
-            <guid>3189322</guid>
-            <pubDate>Wed, 26 Jul 2023 20:58:32 GMT</pubDate>
+            <title><![CDATA[三星电子称，存储产品库存似乎已在5月份达到峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3394021.d.html</link>
+            <guid>3189463</guid>
+            <pubDate>Thu, 27 Jul 2023 00:29:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英伟达H100 GPU已对亚马逊云服务用户开放】英伟达官网公告显示，亚马逊云正式推出了由英伟达H100 Tensor Core GPU驱动的新的Amazon Elastic Compute Cloud（EC2）P5实例。该服务允许用户通过浏览器轻松扩展生成式AI、高性能计算（HPC）和其他应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizc2416275.d.html</link>
-            <guid>3189321</guid>
-            <pubDate>Wed, 26 Jul 2023 20:58:10 GMT</pubDate>
+            <title><![CDATA[【台风“杜苏芮”致菲律宾5人死亡 32万人受灾】菲律宾国家减灾委发言人波萨达斯7月27日在接受当地媒体采访时称，台风“杜苏芮”目前已经造成该国5人死亡，32万人受灾。波萨达斯称，死亡人数的上升是因为本格特省发生山体滑坡造成4人死亡，但具体情况还有待进一步验证。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6615400.d.html</link>
+            <guid>3189461</guid>
+            <pubDate>Thu, 27 Jul 2023 00:23:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥石油公司CEO：在墨西哥Ek Balam地区发生的漏油事故是因为管道在作业过程中发生腐蚀所致。发生泄漏的管道裂口长度经测量为7厘米。漏油事故在7月3日被察觉。]]></title>
-            <guid>3189319</guid>
-            <pubDate>Wed, 26 Jul 2023 20:43:59 GMT</pubDate>
+            <title><![CDATA[【北向资金持股总量减少1.24亿股，瀚叶股份持股量环比增幅最大】 截至7月26日，根据香港交易所公布的陆股通持股记录，陆股通共持有3132只个股，合计持股量1303.28亿股，相比上一个交易日，持股总量减少1.24亿股。增仓幅度来看，持股量环比增幅在50%以上的共有36只，环比增幅最大的是瀚叶股份，陆股通最新持有192.99万股，持股量环比增幅达275.78%，昨日该股平盘报收，全天换手率为0.41%，主力资金净流出34.51万元；其次是同兴达、真兰仪表，陆股通最新持股量分别为182.31万股、101.52万股，环比增幅为176.81%、175.27%，位居增仓榜第二、第三位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3392474.d.html</link>
+            <guid>3189460</guid>
+            <pubDate>Thu, 27 Jul 2023 00:23:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【我国成功发射遥感三十六号卫星】北京时间2023年7月27日4时02分，我国在西昌卫星发射中心使用长征二号丁运载火箭，采取一箭三星方式，成功将遥感三十六号卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。此次任务是长征系列运载火箭第480次飞行。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizh6701031.d.html</link>
-            <guid>3189318</guid>
-            <pubDate>Wed, 26 Jul 2023 20:40:50 GMT</pubDate>
+            <title><![CDATA[【亚马逊发布AI医疗工具：可总结就诊情况 已在美东提供预览版】亚马逊旗下云服务Amazon Web Services（AWS）美东时间26日周三公布了一批应用AI技术的新品，其中医疗工具HealthScribe可以帮助总结医生就诊的情况，目前已在美国东部地区提供预览版。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6615159.d.html</link>
+            <guid>3189459</guid>
+            <pubDate>Thu, 27 Jul 2023 00:22:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三大赛道复苏 44家央企控股A股公司半年报预增】据上证报，近期，上市公司密集发布上半年“成绩单”，国资央企“中考”成绩如何，备受市场瞩目。据记者整理，截至目前，A股共44家央企控股上市公司预计上半年净利润实现同比增长，14家公司预计实现扭亏为盈，12家公司预计亏损幅度同比收窄，切实发挥了国民经济“压舱石”“顶梁柱”作用。从行业角度看，随着2023年上半年国内经济持续复苏，包括民用航空、航运、铁路运输在内的交通运输行业实现触底反弹，多家业内公司业绩报喜。此外，包括火力发电、汽车制造等行业的公司逐渐成为业绩增长的主力军。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizc7870970.d.html</link>
-            <guid>3189316</guid>
-            <pubDate>Wed, 26 Jul 2023 20:37:52 GMT</pubDate>
+            <title><![CDATA[【陆股通持股总量减少1.24亿股，闽东电力持股量环比降幅最大】 截至7月26日，根据香港交易所公布的陆股通持股记录，陆股通共持有3132只个股，合计持股量1303.28亿股，相比上一个交易日，持股总量减少1.24亿股。陆股通减持个股中，持股量环比降幅在50%以上的共有54只，环比降幅最大的是闽东电力，陆股通最新持有4.07万股，持股量环比降幅达94.03%，昨日该股下跌0.87%，全天换手率为2.15%，主力资金净流出247.43万元；其次是西安饮食、好利科技，陆股通最新持股量分别为54.94万股、9.04万股，环比降幅为86.24%、83.72%，位居减仓榜第二、第三位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz7762737.d.html</link>
+            <guid>3189458</guid>
+            <pubDate>Thu, 27 Jul 2023 00:22:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【业绩预告“不靠谱” 7月近50家公司收监管函】据不完全统计，截至7月26日，本月已有47家公司因业绩预告披露存在问题收到交易所的监管函件，其中大部分是向2022年度业绩预告“不靠谱”公司发出的，有2家公司是因2023年半年报业绩预告相关问题被交易所问询。此外，已有11家公司及相关负责人被监管部门给予行政处罚。河北经贸大学会计学院副教授邸丛枝表示，全面注册制以信息披露为核心，上市公司必须真实、准确、完整、及时、公平地披露信息，监管部门对信息披露的监管力度也较往年加大。部分公司可能还没有转变思路，存有侥幸心理，对业绩预告的披露不够严谨。同时，业绩预告没有经过审计，一些公司出于配合市值管理、股东减持等动机，过于乐观地对业绩进行了估计。（上海证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizk3477531.d.html</link>
-            <guid>3189314</guid>
-            <pubDate>Wed, 26 Jul 2023 20:37:18 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、日调度发电量、用电负荷创历史新高 全力以赴保障电力安全稳定供应（权威发布）；
+2、京津冀协同发展助推医疗深度合作——优化资源配置 共享发展成果（高质量发展调研行）；
+3、南水北调中线工程累计向京津冀豫调水575亿立方米；
+4、《中共中央国务院关于促进民营经济发展壮大的意见》单行本出版；
+5、6月全国共查处违反中央八项规定精神问题10111起；
+6、持续挖潜，消费恢复态势好（人民时评）——从半年报里读懂中国信心④；
+7、工程规模和技术水平达到世界领先 桥梁建设步伐加快（大数据观察）；
+8、市场监管总局聚焦“缺斤短两”问题 部署整治电子计价秤市场秩序；
+9、开幕倒计时一百天 第六届进博会筹备进展顺利；
+10、解放思想 深化改革 推动东北全面振兴发展（专题深思）；
+11、今年将投资14亿元改造升级4500公里农村公路 宁夏打造便捷高效农村公路网络（经济聚焦）;
+12、规上增加值连续三个月增长 轻工业运行平稳动能足;
+13、湖南湘江新区活跃创新创业元素 多元赋能，培育科创沃土;
+14、文化和旅游部印发通知 最大限度满足游客参观游览需求;
+15、我科学家阐明水稻杂种不育分子机理;
+16、2013年以来 甘肃完成植树造林4442.2万亩;
+17、深化电力标准衔接 助力琴澳融合发展 《横琴粤澳深度合作区供用电规则》正式发布;
+18、强加核污染风险足见自私和傲慢（钟声）——日方强推核污染水排海极端不负责任②;
+19、国际货币基金组织——世界经济增长预期上调 仍存下行风险;
+20、构建规范有序的网络环境（金台锐评）。]]></title>
+            <guid>3189457</guid>
+            <pubDate>Thu, 27 Jul 2023 00:22:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加仓中国资产 海外资管巨头集体出手】据上证报，多家海外资管巨头近期披露的持仓数据显示，今年6月，部分中国股票获得大手笔加仓，其中包括腾讯控股、百度、京东、拼多多等多家互联网龙头，以及贵州茅台、招商银行、宁德时代等行业龙头。多家外资巨头认为，中国股票已迎来较好的配置时点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizh6700359.d.html</link>
-            <guid>3189313</guid>
-            <pubDate>Wed, 26 Jul 2023 20:36:58 GMT</pubDate>
+            <title><![CDATA[  【台风杜苏芮强度仍在增强】中央气象台继续发布台风红色预警！预计今年第5号台风“杜苏芮”将以每小时10-15公里的速度向西北方向移动，将于28日早晨到上午登陆，最大可能在福建晋江到闽粤交界沿海登陆（强台风级或超强台风级，45-52米/秒，14-16级）。注意安全！   （人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6614549.d.html</link>
+            <guid>3189455</guid>
+            <pubDate>Thu, 27 Jul 2023 00:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【各地“半年报”陆续公布 6个经济大省再“挑大梁”】据上证报，国家统计局7月中旬发布2023年上半年全国经济数据后，各省份近期陆续公布了当地数据。记者梳理发现，经济大省继续发挥“顶梁柱”作用，各地产业转型效果渐显，新能源相关行业贡献度提升。各地还针对经济形势召开会议，部署扩内需、稳外资等政策，全力冲刺今年经济“下半场”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizk3477447.d.html</link>
-            <guid>3189312</guid>
-            <pubDate>Wed, 26 Jul 2023 20:36:47 GMT</pubDate>
+            <title><![CDATA[【微软将允许美国用户在Microsoft Store使用Venmo支付】 微软将允许美国用户在Microsoft Store使用Venmo支付。Venmo的所有者PayPal和微软周三表示，在美国Microsoft Store购物的用户将可以使用Venmo支付。Venmo目前是微软游戏主机Xbox上Microsoft Store的一种支付方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6614318.d.html</link>
+            <guid>3189454</guid>
+            <pubDate>Thu, 27 Jul 2023 00:20:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[纽交所ARCA钢铁指数收跌0.72%，报2083.55点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizh6700269.d.html</link>
-            <guid>3189310</guid>
-            <pubDate>Wed, 26 Jul 2023 20:36:22 GMT</pubDate>
+            <title><![CDATA[【2只科创板股获北向资金减持超亿元】 环比上一交易日变动看，有125股获沪股通增持，仕佳光子最新持股量为556.80万股，环比增加156.31万股，增持量居前的还有铁建重工、中微公司、中复神鹰等，分别增持120.93万股、99.18万股、81.14万股，沪股通减持的有133只，减持量居前的有天合光能、晶科能源、道通科技等，减持量分别为330.98万股、148.97万股、126.15万股。环比变动幅度统计，增持幅度居前的有百奥泰、热景生物、诺泰生物，环比分别增持89.12%、82.72%、79.54%，减持幅度居前的有中无人机、云从科技、巨一科技等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6613932.d.html</link>
+            <guid>3189452</guid>
+            <pubDate>Thu, 27 Jul 2023 00:18:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿根廷MERVAL指数收跌0.07%，报47.1万点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaizc7870832.d.html</link>
-            <guid>3189309</guid>
-            <pubDate>Wed, 26 Jul 2023 20:36:11 GMT</pubDate>
+            <title><![CDATA[【165家公司获机构调研】 近5个交易日（7月20日至7月26日）两市约165家公司被机构调研，调研机构类型显示，证券公司共对148家公司进行调研，即89.7%的上市公司调研活动有证券公司参与；基金公司调研121家，位列其后；阳光私募机构调研69家，排名第三。机构调研榜单中，共有42家公司获20家以上机构扎堆调研。信德新材最受关注，参与调研的机构达到188家；斯莱克被139家机构调研，榜单中排名第二；英杰电气、元琛科技等分别被113家、109家机构调研。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3390986.d.html</link>
+            <guid>3189451</guid>
+            <pubDate>Thu, 27 Jul 2023 00:18:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【年内北向资金净流入已超2000亿元 外资机构看好中国资产】北向资金被很多投资者称之为A股市场上的资金“风向标”。据Wind数据统计，截至7月26日收盘，今年以来北向资金累计净买入已达2008.39亿元，远超去年同期的534.54亿元，同比增长276%。其中，7月25日北向资金全天净买入189.83亿元，创出年内新高。作为外资机构参与中国A股市场的重要渠道，7月份以来北向资金大幅加仓，意味着外资机构对中国经济长期向好基本面的总判断没有改变。 (证券日报)]]></title>
-            <guid>3189304</guid>
-            <pubDate>Wed, 26 Jul 2023 20:28:34 GMT</pubDate>
+            <title><![CDATA[【福建泉州启动防台风Ⅰ级应急响应 全市停工（业）、停产、停课、休市】据“泉州发布”微信公众号消息，根据气象、海洋部门预报，今年第5号台风“杜苏芮”最大可能于7月28日凌晨到上午在福建省南部沿海登陆，泉州市将遭受台风的正面袭击。今天上午8时，市防指启动防台风Ⅰ级应急响应，经市防汛抗旱指挥部研究决定：从7月27日18时起至7月29日12时，全市实行“三停一休”，即停工(业)、停产、停课、休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3390657.d.html</link>
+            <guid>3189450</guid>
+            <pubDate>Thu, 27 Jul 2023 00:16:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国证交会文件显示，摩根士丹利(MS.N)于7月24日以每股平均价格95.1905美元出售了125,000股公司普通股份。]]></title>
-            <guid>3189298</guid>
-            <pubDate>Wed, 26 Jul 2023 20:17:06 GMT</pubDate>
+            <title><![CDATA[【美国芯片制造商迈凌科技宣布终止收购慧荣科技】美国芯片制造商迈凌科技（MaxLinear）表示，它终止了收购NAND供应商慧荣科技的尝试，从而结束了一笔价值38亿美元的现金加股票交易。这一消息是在交易获得监管机构批准不久后发出的，7月26日，中国国家市场监管总局发布公告称，附加限制性条件批准美国迈凌公司收购慧荣科技公司股权。]]></title>
+            <guid>3189449</guid>
+            <pubDate>Thu, 27 Jul 2023 00:16:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股公司今年以来推出400单股权激励计划 逾八成已实施】截至7月26日，今年以来，已有359家A股上市公司发布了400单股权激励计划（以预案公告日统计，剔除未通过与停止实施状态）。其中，有336单已实施，占比84%。行业分布来看，电子、计算机、机械设备和电力设备行业的股权激励计划单数位居前四位，分别为66单、49单、45单和42单。分析人士认为，股权激励考核指标设置多样化可以更好激发人才创新活力，提高企业科技成果转化和产业化水平，推动创新链、产业链以及人才链深度融合。 (证券日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3604048.d.html</link>
-            <guid>3189296</guid>
-            <pubDate>Wed, 26 Jul 2023 20:12:37 GMT</pubDate>
+            <title><![CDATA[【台风“杜苏芮”的风雨影响已经开始】 中央气象台表示，台风“杜苏芮”的风雨影响已经开始，过去一天，受台风“杜苏芮”影响，台湾东部和南部、福建东北部、浙江东部等地出现暴雨，台湾岛东部和南部、浙江宁波和温州、福建宁德等局地大暴雨（100～238毫米），台湾岛东部部分地区250～500毫米，台湾屏东局地超过800毫米；福建东部沿海、浙江东部沿海、台湾岛沿海等地出现8～9级阵风，局地10～11级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6613391.d.html</link>
+            <guid>3189448</guid>
+            <pubDate>Thu, 27 Jul 2023 00:16:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Ebay 财年二季度净收入25亿欧元】Ebay财年二季度净收入25亿欧元，与市场预期持平。二季度调整后常规业务每股收益1.03美元，市场预期1.00美元。二季度总销售额182亿美元，市场预期180.4亿美元。公司预计三季度净收入24.6至25.2亿美元，市场预期24.6亿美元。预计三季度每股收益0.67-0.72美元，市场预期0.69美元。预计三季度调整后常规业务每股收益0.96-1.01美元，市场预期1.02美元。公司董事会宣布支付每股0.25美元股息。公司30%的用户在二季度试用了人工智能功能。用户对人工智能生成的商品介绍的接受度在90%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3603981.d.html</link>
-            <guid>3189295</guid>
-            <pubDate>Wed, 26 Jul 2023 20:12:16 GMT</pubDate>
+            <title><![CDATA[【七大汽车制造商拟在美联合投资至少10亿美元，建设数万个充电桩】消息人士称，包括通用汽车、宝马、本田、梅赛德斯-奔驰、Stellantis、现代汽车及其起亚子公司在内的汽车制造商，计划共同投资至少10亿美元成立一家合资公司，在美国建造数万个电动汽车充电桩，以缓解充电桩短缺问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3390104.d.html</link>
+            <guid>3189445</guid>
+            <pubDate>Thu, 27 Jul 2023 00:14:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Alphabet旗下的Waymo减缓了自动驾驶卡车的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6826739.d.html</link>
-            <guid>3189294</guid>
-            <pubDate>Wed, 26 Jul 2023 20:11:27 GMT</pubDate>
+            <title><![CDATA[【Waymo减缓了自动驾驶卡车的研发进度】谷歌母公司Alphabet旗下的自动驾驶部门Waymo正在放缓其子公司Via正在进行的自动驾驶卡车的开发。该公司在一份声明中表示：“随着我们决定专注于叫车服务，我们将推迟我们在卡车运输方面的商业和运营努力，以及该业务部门的大部分技术开发。我们将继续与战略合作伙伴戴姆勒卡车北美公司合作，推进自动驾驶卡车平台的技术开发。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6611858.d.html</link>
+            <guid>3189442</guid>
+            <pubDate>Thu, 27 Jul 2023 00:11:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥烤肉Chipotle二季度营收25亿美元，预期25.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactf7999827.d.html</link>
-            <guid>3189293</guid>
-            <pubDate>Wed, 26 Jul 2023 20:11:07 GMT</pubDate>
+            <title><![CDATA[欧舒丹在港交所公告，董事会并无接获控股股东或任何其他人士所提出，将公司私有化或重组集团及在其他证券交易所上市的要约或建议 。]]></title>
+            <guid>3189441</guid>
+            <pubDate>Thu, 27 Jul 2023 00:10:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[IMAX二季度营收9,800万美元，市场预期8,660万美元；二季度调整后每股收益0.26美元，市场预期0.16美元。]]></title>
-            <guid>3189292</guid>
-            <pubDate>Wed, 26 Jul 2023 20:09:41 GMT</pubDate>
+            <title><![CDATA[【推特CEO拜访好莱坞：吸引明星网红入驻】据报道，就在埃隆·马斯克几天前突然宣布将推特品牌调整为X后，该公司CEO Linda Yaccarino本周前往好莱坞，试图吸引经济公司和艺人入驻该平台。知情人士表示，亚卡里诺在旧金山会见了创新艺人经纪公司（Creative Artists Agency）和UTA联合精英经纪公司（United Talent Agency）的经纪人，向他们介绍了她对X的设想，希望将烹饪、音乐、体育领域的明星和网红吸引到该平台上。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6611262.d.html</link>
+            <guid>3189440</guid>
+            <pubDate>Thu, 27 Jul 2023 00:10:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软(MSFT.O)收跌3.7%，为自一月以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactf7999279.d.html</link>
-            <guid>3189290</guid>
-            <pubDate>Wed, 26 Jul 2023 20:04:10 GMT</pubDate>
+            <title><![CDATA[【郑州高新区稳定发展基金揭牌，涉及一二级联动棚改项目】据“郑州高新发布”微信公众号消息，7月26日，郑州高新区稳定发展基金揭牌仪式暨阶段性成果展示大会举行。郑州高新区稳定发展基金，是高新区积极响应中央及省市对房地产企业的政策要求，以政府平台公司高新投控为主体，联合省属国企单位河南资产、中豫建投及产业方，通过整合各方优势资源共同设立的房地产稳定发展基金。稳定发展基金有效解决了一二级联动棚改项目拿地难、复工难的问题，丰富了郑州市问题楼盘化解的路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3388022.d.html</link>
+            <guid>3189439</guid>
+            <pubDate>Thu, 27 Jul 2023 00:09:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[生物科技公司Illumina预计二季度营收大约3300万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3602035.d.html</link>
-            <guid>3189288</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:41 GMT</pubDate>
+            <title><![CDATA[俄罗斯能源部长尼古拉·舒利吉诺夫表示，预计俄罗斯天然气产量将在2023年下降至6570亿立方米。]]></title>
+            <guid>3189436</guid>
+            <pubDate>Thu, 27 Jul 2023 00:06:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音收涨8.7%，创2021年11月份以来收盘新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6824817.d.html</link>
-            <guid>3189287</guid>
-            <pubDate>Wed, 26 Jul 2023 20:02:22 GMT</pubDate>
+            <title><![CDATA[【高盛合伙人兼杠杆金融交易主管Tom Malafronte据悉将离职】据知情人士透露，高盛集团顶尖杠杆金融交易员和合伙人Tom Malafronte计划在今年年底离开该银行。据行业记录，他于2013年自瑞信集团加入高盛，2019年晋升为美国杠杆金融交易主管。2016年交易火爆下，他带进约3亿美元的交易收入，使他成为当年华尔街主要银行中最成功的交易员之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6609612.d.html</link>
+            <guid>3189435</guid>
+            <pubDate>Thu, 27 Jul 2023 00:05:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国亿万富翁Joe Lewis对其在美国被指控的内线交易罪名表示拒绝认罪】英国亿万富翁Joe Lewis周三（7月26日）对其在美国被指控的内线交易罪名表示拒绝认罪。此前，美国检方认定现年86岁的Lewis因对通过向朋友、私人飞行员和前女友传递有关他投资的公司的消息，而触犯了美国方面有关禁止内线交易的法律。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6824281.d.html</link>
-            <guid>3189283</guid>
-            <pubDate>Wed, 26 Jul 2023 19:59:16 GMT</pubDate>
+            <title><![CDATA[【中央气象台7月27日6时继续发布台风红色预警】 中央气象台7月27日6时继续发布台风红色预警：今年第5号台风“杜苏芮”（DOKSURI）（强台风级）的中心今日早晨5点钟位于我国台湾省鹅銮鼻南偏西方大约220公里的海面上，就是北纬20.1度、东经120.0度，中心附近最大风力有15级（50米/秒），中心最低气压940百帕，七级风圈半径300-450公里，十级风圈半径120-160公里，十二级风圈半径90-100公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3386387.d.html</link>
+            <guid>3189434</guid>
+            <pubDate>Thu, 27 Jul 2023 00:05:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：特斯拉因自动驾驶安全性和市场营销而遭到美国加州公诉人的调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3601140.d.html</link>
-            <guid>3189282</guid>
-            <pubDate>Wed, 26 Jul 2023 19:57:18 GMT</pubDate>
+            <title><![CDATA[【朝鲜最高领导人金正恩会见俄罗斯国防部长绍伊古】 央视新闻援引朝中社报道，当地时间7月26日，朝鲜劳动党总书记、国务委员长金正恩会见俄罗斯国防部长谢尔盖·绍伊古。]]></title>
+            <guid>3189433</guid>
+            <pubDate>Thu, 27 Jul 2023 00:04:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“新债王”冈拉克：预计美联储将在2024年首次降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6823198.d.html</link>
-            <guid>3189280</guid>
-            <pubDate>Wed, 26 Jul 2023 19:51:46 GMT</pubDate>
+            <title><![CDATA[三星：韩元疲软对运营产生了积极影响。客户内存库存调整将在下半年逐渐减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6609118.d.html</link>
+            <guid>3189432</guid>
+            <pubDate>Thu, 27 Jul 2023 00:04:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【芝加哥小麦期货周三跌超5.3%，玉米期货跌超2.9%，大豆期货则涨约1.5%】周三（7月26日）纽约尾盘，谷物分类指数跌2.65%，报48.3302点。CBOT玉米期货跌2.92%，报5.48-3/4美元/蒲式耳。CBOT小麦期货跌5.33%，报7.19-3/4美元/蒲式耳。CBOT大豆期货涨1.47%，报14.71-3/4美元/蒲式耳，豆粕期货涨1.65%，豆油期货跌2.07%。ICE原糖期货跌1.30%，ICE白糖期货跌1.01%。ICE阿拉比卡咖啡期货涨1.11%。ICE棉花期货涨0.92%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6822657.d.html</link>
-            <guid>3189279</guid>
-            <pubDate>Wed, 26 Jul 2023 19:48:12 GMT</pubDate>
+            <title><![CDATA[【三星电子Q2净利润超出市场预期】三星电子第二季度综合净利润1.55万亿韩元，市场预期为9250.1亿韩元；销售额为60.01万亿韩元，市场预期为62.05万亿韩元；综合运营利润为6685亿韩元，市场预期为9100亿韩元；芯片运营亏损4360亿韩元，市场预期亏损2600亿韩元；显示器运营利润为8400亿韩元，市场预期为9151.2亿韩元；移动/网络运营利润为3.04万亿韩元，预计为2.71万亿韩元；消费电子运营利润为7400亿韩元，市场预期为4304.8亿韩元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3386105.d.html</link>
+            <guid>3189431</guid>
+            <pubDate>Thu, 27 Jul 2023 00:04:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[智利计划为其铜冶炼项目举行国际路演；智利矿业部长表示，智利的6个铜冶炼厂都需要被替换。]]></title>
-            <guid>3189278</guid>
-            <pubDate>Wed, 26 Jul 2023 19:45:54 GMT</pubDate>
+            <title><![CDATA[【旺季不旺淡季更淡致亏损面扩大 水泥三季度需求未见起色】今年二季度，水泥传统旺季遭遇价格回落。三季度南方全面进入淡季，而北方市场虽正值传统旺季，需求也未见起色。7月26日上午，记者来到位于北京房山区的某水泥厂。在与保安人员的交流中得知：“目前车流量正常，冬天会少一点”。据该厂相关工作人员介绍，厂里共有两条生产线，正常情况下两条线都会运行，但目前一条已经停产。卓创资讯水泥市场分析师王琦对记者表示：“今年整体需求弱是水泥行情的基本面。房地产复苏缓慢，且复苏进程还远未传导至施工端，这从上半年新开工施工面积数据仍同比下降可以看出，预计年内难有好转。”（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz7759411.d.html</link>
+            <guid>3189429</guid>
+            <pubDate>Thu, 27 Jul 2023 00:02:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“新债王”冈拉克：美联储利率已经达到峰值，美元已经开始走弱。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3599206.d.html</link>
-            <guid>3189276</guid>
-            <pubDate>Wed, 26 Jul 2023 19:44:20 GMT</pubDate>
+            <title><![CDATA[【重振芭比的美泰总裁兼COO将辞职接任Gap CEO】玩具生产商美泰公司的总裁兼首席运营官Richard Dickson将接任Gap的下一任首席执行官，从而结束后者长达一年的寻找新领导人的过程。在许多人还在庆祝美泰凭借《芭比》电影取得的票房成功时，该公司周三早间向员工传达了Dickson离职的消息。据两家公司称，Dickson将于8月3日从美泰卸任，并于8月22日开始在Gap担任新职。证券文件显示，他去年在美泰拿到的薪水是560万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6607467.d.html</link>
+            <guid>3189425</guid>
+            <pubDate>Wed, 26 Jul 2023 23:58:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“新债王”冈拉克：不认为美联储需要再次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3597233.d.html</link>
-            <guid>3189274</guid>
-            <pubDate>Wed, 26 Jul 2023 19:32:57 GMT</pubDate>
+            <title><![CDATA[韩国央行：韩国通胀率恢复到2%还有很长的路要走。如有需要，将进一步收紧政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3384500.d.html</link>
+            <guid>3189424</guid>
+            <pubDate>Wed, 26 Jul 2023 23:58:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鲍威尔：可以边降息边缩表】鲍威尔重申，利率是“积极的”政策工具，而非缩减债券投资组合，即所谓的量化紧缩(QT)，然后他假设，“想象一下，世界上一切都很好，现在是时候把利率从限制性水平降至更正常的水平了。资产负债表的正常化将是减少QT（而非结束）。”因此，在这种情况下，有可能在美联储仍在以某种速度收缩资产负债表的情况下降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3596894.d.html</link>
-            <guid>3189272</guid>
-            <pubDate>Wed, 26 Jul 2023 19:31:58 GMT</pubDate>
+            <title><![CDATA[LG Energy二季度销售8.77万亿韩元，分析师预期8.64万亿韩元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3384061.d.html</link>
+            <guid>3189419</guid>
+            <pubDate>Wed, 26 Jul 2023 23:56:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鲍威尔相信够在不大幅损害经济的情况下降低通胀】美联储主席鲍威尔表示，他认为美联储今年不会降息。虽然注意到一些FOMC成员已经将明年的降息纳入了他们的经济预测，但鲍威尔表示:“这是我们必须做出的判断，即我们对通胀实际降至2%目标的信心有多大。”鲍威尔仍然相信，美联储能够在不造成经济急剧下滑的情况下降低通胀，尽管他对记者说，“这离得到确定性还有很长的路要走。”他还表示，美联储工作人员不再像以前那样预期经济会出现衰退。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3595509.d.html</link>
-            <guid>3189268</guid>
-            <pubDate>Wed, 26 Jul 2023 19:23:23 GMT</pubDate>
+            <title><![CDATA[三星二季度销售5.84万亿韩元，同比增长23%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3383996.d.html</link>
+            <guid>3189418</guid>
+            <pubDate>Wed, 26 Jul 2023 23:56:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：俄罗斯退出黑海粮食协议预计不会对美国食品通胀产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6817750.d.html</link>
-            <guid>3189265</guid>
-            <pubDate>Wed, 26 Jul 2023 19:20:27 GMT</pubDate>
+            <title><![CDATA[【空客称普惠的召回不影响正在交付的发动机，相关问题不影响飞机安全】空中客车一直在努力快速提升最畅销的A320系列飞机的产量，因为该公司正试图交付积压库存现已到2030年代初的飞机。这些飞机中有许多采用了普惠公司（Pratt & Whitney）的某款发动机，该发动机制造商本周早些时候表示，将需要召回和检查这些发动机。普惠公司称，在发现可能导致开裂的金属故障后，需要对1200台齿轮涡扇发动机进行检查。普惠公司和空中客车都表示，这个问题不会影响飞机的安全。空中客车表示，普惠公司的召回并不影响目前正在交付的发动机。该公司将于周三晚些时候公布财报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6606689.d.html</link>
+            <guid>3189416</guid>
+            <pubDate>Wed, 26 Jul 2023 23:55:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：恢复房地产市场的平衡还有很长的路走，现有住房供应非常紧张。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactf7996002.d.html</link>
-            <guid>3189264</guid>
-            <pubDate>Wed, 26 Jul 2023 19:19:23 GMT</pubDate>
+            <title><![CDATA[欧洲央行当地时间周四将公布利率决定，市场普遍预计它也将升息25个基点。预测9月最后一次加息并在明年3月开始降息的经济学家略占多数。]]></title>
+            <guid>3189415</guid>
+            <pubDate>Wed, 26 Jul 2023 23:55:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国通信服务商AT&T将其“精英”移动服务包月套餐价格上调2.50美元。这是该公司两年来的第二次涨价行动。]]></title>
-            <guid>3189259</guid>
-            <pubDate>Wed, 26 Jul 2023 19:13:30 GMT</pubDate>
+            <title><![CDATA[市场消息，俄罗斯9月将大幅增加石油出口装运量，结束6-8月出口大幅削减的情况，因炼厂处于检修高峰期，将释放出更多原油销往国外。路透根据炼油数据计算的结果也显示了这一点。]]></title>
+            <guid>3189413</guid>
+            <pubDate>Wed, 26 Jul 2023 23:53:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：FOMC能做的最好事情就是恢复价格稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3593876.d.html</link>
-            <guid>3189258</guid>
-            <pubDate>Wed, 26 Jul 2023 19:13:13 GMT</pubDate>
+            <title><![CDATA[日本至7月21日当周买进外国债券 -9738亿日元，前值-774亿日元。日本至7月21日当周外资买进日股 1010亿日元，前值2386亿日元。日本至7月21日当周外资买进日债 -12042亿日元，前值-4114亿日元。日本至7月21日当周买进外国股票 -4453亿日元，前值-6732亿日元。]]></title>
+            <guid>3189410</guid>
+            <pubDate>Wed, 26 Jul 2023 23:51:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：希望工资增长与2%通胀率相一致，劳动力市场条件需要进一步放松。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6816539.d.html</link>
-            <guid>3189257</guid>
-            <pubDate>Wed, 26 Jul 2023 19:11:54 GMT</pubDate>
+            <title><![CDATA[【郑州高新区稳定发展基金揭牌 涉及一二级联动棚改项目】 据大河财立方，7月26日，郑州高新区稳定发展基金揭牌仪式暨阶段性成果展示大会在郑州召开。郑州高新区稳定发展基金是以政府平台公司郑州高新投资控股集团有限公司为主体，联合省属国企单位河南资产、河南中豫建设投资集团及产业方，通过整合各方优势资源共同设立的房地产稳定发展基金。该稳定发展基金有效解决了一二级联动棚改项目拿地难、复工难的问题，丰富了郑州市问题楼盘化解的路径。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6605429.d.html</link>
+            <guid>3189408</guid>
+            <pubDate>Wed, 26 Jul 2023 23:50:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我们看到了强劲的消费，当前的支出和GDP数据显示出强劲的增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactf2539540.d.html</link>
-            <guid>3189256</guid>
-            <pubDate>Wed, 26 Jul 2023 19:11:06 GMT</pubDate>
+            <title><![CDATA[【国家防总针对西南地区强降雨启动防汛四级应急响应】据应急管理部网站消息，气象部门预测，7月26日夜间至28日，我国西南地区将出现强降雨天气，其中，贵州西部、重庆西部、四川盆地北部等地的部分地区有大暴雨，上述地区伴有短时强降水（最大小时降雨量30～60毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。国家防总副总指挥、应急管理部部长王祥喜对西南地区强降雨过程防范应对工作提出明确要求。应急管理部副部长、水利部副部长王道席7月26日主持召开防汛防台风专题视频会商会，调度重庆、四川、贵州、云南等重点省份，部署强降雨防范应对工作。国家防总于7月26日20时起针对重庆、四川、贵州、云南启动防汛四级应急响应。]]></title>
+            <guid>3189405</guid>
+            <pubDate>Wed, 26 Jul 2023 23:49:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：银行业已经稳定下来，正在谨慎监测银行业的情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3593308.d.html</link>
-            <guid>3189255</guid>
-            <pubDate>Wed, 26 Jul 2023 19:09:36 GMT</pubDate>
+            <title><![CDATA[【火电企业上半年业绩扎堆预喜 第三季度有望进一步改善】Choice数据显示，截至7月26日，19家火电上市公司发布了上半年业绩预告，其中预增9家、扭亏5家、略增1家、减亏4家。华能国际发布了半年度报告，上半年实现归母净利润63.08亿元，同比增长309.67%。煤炭价格下行和发电量增长推动火电上市公司业绩大幅预喜。业内人士表示，第三季度煤电利用小时数为全年高位。考虑到电厂煤炭库存及煤价走势，第三季度火电企业燃料成本将继续降低，业绩有望进一步改善。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz2301713.d.html</link>
+            <guid>3189404</guid>
+            <pubDate>Wed, 26 Jul 2023 23:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元指数DXY短线回升近20点，报101.05。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3593177.d.html</link>
-            <guid>3189254</guid>
-            <pubDate>Wed, 26 Jul 2023 19:08:44 GMT</pubDate>
+            <title><![CDATA[【国际评级机构惠誉上调巴西主权信用评级】 据央视新闻，当地时间7月26日，在国际评级机构惠誉将巴西的主权信用评级上调至BB级后，巴西货币雷亚尔上涨。本交易日收盘时，巴西雷亚尔上涨0.46%，对美元汇率跌至4.728。惠誉在一份报告中指出，上调巴西主权信用评级的原因是卢拉领导的新一届政府在国会推进税务和财政框架改革取得进展，而且宏观经济和财政表现均好于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6604966.d.html</link>
+            <guid>3189401</guid>
+            <pubDate>Wed, 26 Jul 2023 23:46:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：不使用“乐观”这个词，但存在实现软着陆的路径。我们看到的经济疲软并非因为失业率上升，而是因为职位空缺和离职减少。]]></title>
-            <guid>3189250</guid>
-            <pubDate>Wed, 26 Jul 2023 19:06:47 GMT</pubDate>
+            <title><![CDATA[【富士康子公司据悉正在印度商谈投资至多2亿美元新建电子零部件工厂】两名知情人士表示，富士康子公司正与印度泰米尔纳德邦进行谈判，拟投资至多2亿美元新建一家电子元件工厂。富士康的目标是在2024年之前完成工厂建设，但最终决定尚未做出。消息人士没有详细说明该计划，也没有透露拟议工厂生产的零部件是否会用于iPhone。泰米尔纳德邦工业部发言人拒绝置评。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6604826.d.html</link>
+            <guid>3189400</guid>
+            <pubDate>Wed, 26 Jul 2023 23:46:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：我的基本情景是可以在失业率没有大幅增加的情况下实现2%的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3592661.d.html</link>
-            <guid>3189248</guid>
-            <pubDate>Wed, 26 Jul 2023 19:05:28 GMT</pubDate>
+            <title><![CDATA[【国光电器：申请向特定对象发行股票获得深圳证券交易所上市审核中心审核通过】 国光电器公告，申请向特定对象发行股票获得深圳证券交易所上市审核中心审核通过。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6604628.d.html</link>
+            <guid>3189398</guid>
+            <pubDate>Wed, 26 Jul 2023 23:45:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：降息与否将取决于我们对通胀回落至目标的信心程度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactf2539033.d.html</link>
-            <guid>3189246</guid>
-            <pubDate>Wed, 26 Jul 2023 19:03:48 GMT</pubDate>
+            <title><![CDATA[【增量政策密集出台 加快落地显效稳经济】 为巩固经济回升向好势头，有关方面近期积极部署，在扩投资、促消费、稳预期方面动作频频。专家表示，增量举措接连出台，行动快、动作密、出拳准，紧扣扩大内需、提振信心、防范风险等重要任务。随着系列政策落地显效和更多储备政策研究出台，将释放出新一轮稳增长的强大合力。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6603798.d.html</link>
+            <guid>3189396</guid>
+            <pubDate>Wed, 26 Jul 2023 23:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国两年期国债收益率跌4.6个基点，刷新日低至4.8225%，脱离美联储宣布加息25个基点之后、美联储主席鲍威尔开始讲话之前涨至的日高4.9243%。]]></title>
-            <guid>3189242</guid>
-            <pubDate>Wed, 26 Jul 2023 19:00:35 GMT</pubDate>
+            <title><![CDATA[【经济日报：迎峰度夏需求侧须多下功夫】 文章称，未来，应从多方面挖掘需求侧响应潜力。随着各地峰谷电价差的拉大，以及放电、容量、投资等补贴政策的出台，新型储能电站将成为需求侧响应的重要依托。虚拟电厂技术可将大量、多元、分散的灵活性电力资源化零为整，通过数字化手段形成一个非实体电厂进行统一管理和调度，共同参与系统调节，也是提升电网系统灵活性的高性价比之选。此外，借助车网互动技术，电动汽车也可以作为一种灵活性用电负荷参与用户侧与电网间的能量双向互动。应通过政策支持和商业模式创新，引导电动汽车有序充放电，促进车网双向互动规模化应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6603688.d.html</link>
+            <guid>3189395</guid>
+            <pubDate>Wed, 26 Jul 2023 23:42:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑瑞郎USD/CHF失守0.86，日内跌幅0.45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6814302.d.html</link>
-            <guid>3189241</guid>
-            <pubDate>Wed, 26 Jul 2023 18:58:39 GMT</pubDate>
+            <title><![CDATA[【需求推升油价 下半年或更上层楼】近期，供需面改善因素持续推高油价，国际原油价格一度创下三个月来新高，上海原油期货也强势突破600元/桶关口，再度将原油拉进高光时刻。展望后市，多家国际投行表示，看好下半年油价表现，并认为年底前国际油价有望稳定运行在80美元/桶上方。（中国证券报）]]></title>
+            <guid>3189394</guid>
+            <pubDate>Wed, 26 Jul 2023 23:42:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：较高的利率已经拖慢了房地产市场的增长速度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3591401.d.html</link>
-            <guid>3189240</guid>
-            <pubDate>Wed, 26 Jul 2023 18:58:31 GMT</pubDate>
+            <title><![CDATA[【汽车之家：董事刘铮及鲁俊辞任，丁珂珂和卢凡获委任为董事】汽车之家7月27日在港交所公告，于2023年7月27日（北京时间），公司宣布刘铮及鲁俊因个人其他原因已辞任公司的董事，并立即生效。公司宣布丁珂珂已获委任为公司董事会董事及薪酬委员会成员以及卢凡已获委任为董事会董事，并立即生效。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3380466.d.html</link>
+            <guid>3189393</guid>
+            <pubDate>Wed, 26 Jul 2023 23:41:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【富士康的一家子公司正在与印度泰米尔纳德邦进行谈判 建设一座新的电子元件工厂】据知情人士透露，富士康的一家子公司正在与印度泰米尔纳德邦进行谈判，拟投资至多2亿美元，在印度南部建设一座新的电子元件工厂。据悉，富士康的目标是在2024年之前完成工厂建设，之后预计会有更多的投资。目前尚不清该正在谈判的工厂的零部件是否会用于iphone或其他公司的产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6814057.d.html</link>
-            <guid>3189239</guid>
-            <pubDate>Wed, 26 Jul 2023 18:57:21 GMT</pubDate>
+            <title><![CDATA[【华为云：已在深圳落地12个赋能云创新中心】7月26日消息，华为云数字产业高质量发展大会在深圳举行。华为云全球生态部总裁康宁在大会上表示，目前华为云深圳赋能云已赋能超过2400家深圳企业数字化转型，并在深圳先后落地了12个赋能云的创新中心。未来，华为云还将持续加大研发和人才投入。]]></title>
+            <guid>3189391</guid>
+            <pubDate>Wed, 26 Jul 2023 23:40:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：整体情况显示信贷条件正在收紧，通胀比预期更有韧性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3591095.d.html</link>
-            <guid>3189238</guid>
-            <pubDate>Wed, 26 Jul 2023 18:57:00 GMT</pubDate>
+            <title><![CDATA[一图看懂美联储7月例会决议：如期加息，态度偏鸽。（国金宏观）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz7756292.d.html</link>
+            <guid>3189390</guid>
+            <pubDate>Wed, 26 Jul 2023 23:39:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：关于政策滞后效应存在长期争议，对于滞后期的维持时间存在很多不确定性，实际联邦基金利率已经处于有意义的正区间。]]></title>
-            <guid>3189237</guid>
-            <pubDate>Wed, 26 Jul 2023 18:55:21 GMT</pubDate>
+            <title><![CDATA[【尼日尔扣押总统的军人宣布总统巴祖姆已被解职】尼日尔扣押总统的军人当地时间7月26日深夜在国家电视台发表声明称尼日尔总统巴祖姆已被解职，下令全国范围从晚7时至次日5时执行宵禁，关闭边界直至另行通知。当天，有消息称尼日尔总统巴祖姆的官邸被总统府卫队成员封锁，但具体原因不明。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz2300325.d.html</link>
+            <guid>3189389</guid>
+            <pubDate>Wed, 26 Jul 2023 23:39:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：实现一定程度的通胀下降而不引发失业激增是一种理想的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactk6812903.d.html</link>
-            <guid>3189233</guid>
-            <pubDate>Wed, 26 Jul 2023 18:49:26 GMT</pubDate>
+            <title><![CDATA[【龙建路桥：公司与拜泉县人民政府签署战略合作框架协议】龙建路桥消息，7月25日，公司与拜泉县人民政府战略合作签约仪式成功举行。未来，双方将在基础设施建设领域开展全方位战略合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3378681.d.html</link>
+            <guid>3189386</guid>
+            <pubDate>Wed, 26 Jul 2023 23:36:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国债收益率跌幅扩大，美国2年期国债收益率最低跌至4.847%，美国10年期国债收益率最低报3.857%。]]></title>
-            <guid>3189232</guid>
-            <pubDate>Wed, 26 Jul 2023 18:49:14 GMT</pubDate>
+            <title><![CDATA[【中油工程：CPECC研发制造的国内首套120方超低温储罐通过测试验收】中油工程消息，7月20日，中油工程成员企业工程建设公司（CPECC）研发制造的120立方米多层绝热超低温储罐通过专家测试验收，较目前国内现有的10立方米储罐提升了12倍储存能力，标志着CPECC在大容量超低温储罐设计以及建造技术领域达到国内领先水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3378637.d.html</link>
+            <guid>3189385</guid>
+            <pubDate>Wed, 26 Jul 2023 23:35:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储主席鲍威尔：总体通胀率下降这么多是一件好事，问题在于如何权衡做得太多或太少的风险。]]></title>
-            <guid>3189229</guid>
-            <pubDate>Wed, 26 Jul 2023 18:47:09 GMT</pubDate>
+            <title><![CDATA[【美国银行中型企业客户预计美国经济将实现软着陆，但多数企业主担心通胀问题仍存】 据报道，继数月来有关美国经济即将陷入衰退的严厉警告后，美国银行的中型企业客户正展现出对未来增长的乐观看法，这推动对软着陆的希望升温。在美国银行5月份调查的中型企业中，约75%预计收入将增长，71%计划招聘员工。根据逾300位企业主的调查，几乎所有人都计划在未来12个月内获得融资。该公司商业银行业务总裁Raul Anaya表示，“我们所服务的公司持续感到乐观。”美国银行与近25,000家年收入在500万美元至5,000万美元的中型企业合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3377560.d.html</link>
+            <guid>3189382</guid>
+            <pubDate>Wed, 26 Jul 2023 23:33:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美元指数下跌 非美货币普涨】美元指数跌破101，最低至100.91，短线跌幅逾30点。非美货币对普涨，欧元兑美元短线上扬45点，报1.1101，英镑兑美元短线上扬50点，报1.2959，美元兑日元短线下挫60点，报140.09。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeactn3589406.d.html</link>
-            <guid>3189227</guid>
-            <pubDate>Wed, 26 Jul 2023 18:45:04 GMT</pubDate>
+            <title><![CDATA[【每日科技要闻速递】
+新能源汽车要闻：
+1. 腾势汽车：目前累计用户已突破10万。
+2. 七大汽车制造商宣布将联合打造北美充电网络。
+3. 特斯拉正在接受加州总检察长关于自动驾驶安全、虚假宣传的调查。
+4. 理想汽车：“被理想远程锁车”“强制在官方服务网点维修”无任何事实依据。
+5. 大众7亿美元入股小鹏汽车，后者美股大涨26%。双方合作首款车型基于G9打造。
+6. 据AITO汽车消息，问界M5系列标准版官方正式售价公布，问界M5后驱标准版24.98万元、问界M5四驱标准版26.98万元。
+人工智能：
+1. 英伟达H100 GPU已对亚马逊云服务用户开放。
+2. 美国证交会计划提出监管券商有关AI利益冲突的规定。
+3. Meta Q2营收与Q3营收指引均超预期，盘后大涨。元宇宙部门陷入“黑洞”，累计亏损达213亿美元；Meta将向云提供商收取大语言模型转售费用
+4. 据The Information：OpenAI为了对抗微软和Meta合作开发的开源模型Llama2，目前内部正在开发代号为“G3PO”的新开源模型。
+其他科技要闻：
+1. 据悉波音计划在2024年底前清除所有未交付的737飞机库存。
+2. 外媒：亚马逊生鲜（Amazon Fresh）正在裁减数百个实体店的工作岗位。
+3. 据知情人士透露，台积电计划投资近90亿新台币建立的芯片封装工厂计划于2027年年中左右开始批量生产。]]></title>
+            <guid>3189381</guid>
+            <pubDate>Wed, 26 Jul 2023 23:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【iPhone 15 Pro系列或最高涨价200美元】英国巴克莱银行分析师蒂姆・朗（Tim Long）基于和多家苹果供应商的交流信息，表示iPhone 15 Pro系列起售价将上调100-200美元不等。Long在研报中预估iPhone 15 Pro的价格将比iPhone 14 Pro高出100美元，iPhone 15 Pro Max将比iPhone 14 Pro Max贵100至200美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6599184.d.html</link>
+            <guid>3189380</guid>
+            <pubDate>Wed, 26 Jul 2023 23:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【23家上市券商发超200亿“红包”，个别亏损公司亦慷慨分红】7月27日消息，近日，多家券商披露了2022年年度权益分派实施情况。数据显示，截至发稿时，有21家券商表示已实施2022年年度权益分配，合计金额179.96亿元。海通证券、方正证券亦即将发放现金红利，合计约有28.42亿元。不过，由于受到去年业绩下滑影响，今年券商分红规模大多“缩水”，有13家同比减少逾30%。据此计算，这23家上市券商分红规模将超200亿元。也有券商即使亏损仍然“慷慨”分红。随着今年上半年陆续有券商公告业绩预增，同时资本市场改革有望持续深化，多名券商分析师表示看好券商板块，认为估值反弹空间较大。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6599110.d.html</link>
+            <guid>3189379</guid>
+            <pubDate>Wed, 26 Jul 2023 23:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克外交部：伊合组织将于本月底召开部长级紧急会议】据央视新闻，当地时间7月26日，伊拉克外交部发言人艾哈迈德·萨哈夫表示，在伊拉克连续两次递交申请后，伊斯兰合作组织将于7月31日召开部长级紧急会议，就在瑞典和丹麦发生焚烧宗教典籍事件展开讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3375789.d.html</link>
+            <guid>3189378</guid>
+            <pubDate>Wed, 26 Jul 2023 23:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小红书：最新版本App已解决部分网友反馈的闪退问题】7月27日，@小红书客服 发文称，小红书App最新版本已解决部分网友反馈的闪退问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6598346.d.html</link>
+            <guid>3189377</guid>
+            <pubDate>Wed, 26 Jul 2023 23:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩媒焦虑韩国重要稀有金属储备：锂储备只够用5.8天】 “资源战之下，韩国会是输家吗？”25日，韩国《东亚日报》以此为题，刊文盘点该国的稀有金属储备。该媒体称，2022年年底以来，韩国政府为应对供应危机，一直在想方设法完善稀有金属供应链，保障相关储备。然而事与愿违，其试图“保供”的包括锂、钴、镓等在内的重要稀有金属储备情况均不乐观。 (环球网)]]></title>
+            <guid>3189376</guid>
+            <pubDate>Wed, 26 Jul 2023 23:23:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【监管新规饱受争议，华尔街六巨头逾千亿美元超额资本金料接近告罄】华尔街前几大银行正在为新监管规定做准备，一旦实施，过去十年积累的1180亿美元超额资本预计可能几乎全部用完，今后几年的股票回购活动也可能受到影响。美联储和联邦存款保险公司（FDIC）将于周四在两次单独的公开会议上对新规进行投票表决，这也是在对美国银行业推行最终版《巴塞尔协议III》前遇到的第一个障碍。会议召开前，美联储、FDIC及货币监理署(OCC)计划发布数百页文件来详述改革细节。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3374502.d.html</link>
+            <guid>3189374</guid>
+            <pubDate>Wed, 26 Jul 2023 23:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【家电公司上半年业绩分化，白电订单拿到手软】7月27日消息，近期，家电上市公司密集发布2023年上半年业绩预告，超过七成公司净利润同比增长。数据显示，申万一级家用电器行业中有37家上市公司已披露业绩预告，其中23家公司业绩同比增长，3家扭亏为盈，部分企业亏损。白色家电公司业绩增幅显著，而亏损的多是黑色家电和小家电企业。自今年3月以来，中国家电市场迎来修复期。业内人士指出，家电行业作为消费四大金刚之一，相关行业政策频出，国家支持力度较大，看好家电需求复苏动能。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz7753282.d.html</link>
+            <guid>3189373</guid>
+            <pubDate>Wed, 26 Jul 2023 23:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【驻英国使馆发言人就英台“强化贸易伙伴关系”答记者问】 7月26日，据中国驻英国大使馆网站，驻英国使馆发言人就英台“强化贸易伙伴关系”答记者问。
+记者：英国政府发布消息称，英方将于今年底与台湾共同主持召开第26次“英台经贸对话会议”，并适时启动商谈英台“强化贸易伙伴关系”，请问中国驻英使馆有何评论？
+使馆发言人：中方一贯坚决反对建交国与中国台湾地区进行任何形式的官方往来。英方有关做法违反一个中国原则，违背英方自己作出的仅同台湾保持非官方关系的承诺，向“台独”分裂势力发出严重错误信号，粗暴干涉中国内政，中方对此表示强烈不满和坚决反对，并已向英方提出严正交涉。
+台湾是中国领土不可分割的一部分，台湾问题纯属中国内政。一个中国原则是中英建立和发展外交关系的政治基础和重要前提，是一条不可逾越的红线。我们敦促英方停止以强化贸易关系为名提升英台实质关系，停止任何违背一个中国原则的行径。任何损害中国利益的行为都必将遭到中方有力回击。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqhz7753145.d.html</link>
+            <guid>3189371</guid>
+            <pubDate>Wed, 26 Jul 2023 23:18:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【暑运市场需求火热航空公司加大运力】7月26日，从中国东航了解到，自7月1日进入暑运以来，中国东航日均承运旅客超37万人次，7月24日航班量恢复至2795班，达到今年以来单日航班最高点。业内人士表示，暑期旅游出行市场需求爆发，航空公司加大运力投入，保障旅客出行需求。随着需求逐步释放，民航业将加快恢复。航空公司将受益于供需改善、全票价放开，盈利有望实现突破。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqih3373693.d.html</link>
+            <guid>3189370</guid>
+            <pubDate>Wed, 26 Jul 2023 23:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲汽车生产商Stellantis的CEO：大众汽车和通用汽车在中国“面临压力”】 7月26日发布业绩报告之后，欧洲汽车生产商斯特兰蒂斯（Stellantis NV）首席执行官对于在全球最大汽车市场缩减规模的决定感到满意，称随着本土竞争对手降价，例如大众汽车和通用汽车等在中国“面临压力”。“我们的一些西方同行目前在中国面临压力，即大众汽车和通用汽车，”Stellantis首席执行官Carlos Tavares表示。“它们面临压力因为他们的BEV业务不是很大，最终盈利能力也不是很强，它们的ICE业务也在萎缩，”他说道，指的是电池电动汽车和内燃机汽车业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6596094.d.html</link>
+            <guid>3189369</guid>
+            <pubDate>Wed, 26 Jul 2023 23:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【各地“半年报”陆续公布 6个经济大省再“挑大梁”】国家统计局7月中旬发布2023年上半年全国经济数据后，各省份近期陆续公布了当地数据。记者梳理发现，经济大省继续发挥“顶梁柱”作用，各地产业转型效果渐显，新能源相关行业贡献度提升。据初步统计，截至目前共有25个省份公布了经济半年报，其中13个省份增速（同比，下同）超过全国平均水平，上海在去年低基数效应下，以9.7%的增速名列前茅。海南、吉林的增速也较高，分别达到8.6%和7.7%。内蒙古增速也达到7.3%。广东、江苏、山东、浙江、河南、四川等6个经济大省中，广东、江苏的经济总量超过6万亿元，江苏、山东、浙江的经济增速超过6%。记者测算，6个经济大省上半年经济总量占国内生产总值近45%，是名副其实的“顶梁柱”。各地还针对经济形势召开会议，部署扩内需、稳外资等政策，全力冲刺今年经济“下半场”。（上海证券报）]]></title>
+            <guid>3189368</guid>
+            <pubDate>Wed, 26 Jul 2023 23:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称战线取得进展 乌称俄欲封锁黑海】 据央视新闻，俄罗斯国防部26日通报称，在红利曼方向取得进展，俄军在卢甘斯克地区的谢尔盖耶夫向前推进了近3公里。在过去一天中，俄军在顿涅茨克、库皮扬斯克、赫尔松等多个方向击退乌军进攻。其中，在奥列霍夫斯科耶方向，乌军以三个坦克营发起密集进攻，被俄军击退。此外，俄防空部队拦截了多枚“海马斯”火箭弹和“风暴之影”巡航导弹。乌克兰武装部队总参谋部26日发布的战报称，在过去24小时内，前线地区发生数十次战斗。乌空军、火箭炮和炮兵部队对俄军人员和装备集中区、电子战设备和防空系统实施打击，摧毁俄军1架卡-52直升机和多架无人机。乌克兰国防部新闻中心同一天称，俄罗斯加强了对黑海舰队水面部队和海军航空兵的作战训练。乌国防部认为俄方正在演练封锁黑海海域。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-07-27/detail-imzeaqie6594869.d.html</link>
+            <guid>3189367</guid>
+            <pubDate>Wed, 26 Jul 2023 23:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厦门全力防御台风杜苏芮 27日下午根据风雨情况将可能采取停工、停产、停课、休市等防御措施】从市防指了解到，27日下午我市根据风雨情况将可能采取停工、停产、停课、休市等防御措施，届时公共交通可能停运，跨海通道、高架桥可能关闭，为保证安全，请您做好以下三点： 一、及时了解，关注预警。关注厦门日报、厦门广电等官方媒体、微信公众号以及您所在区、镇（街）、村（居）的微信公众号，或市、区防指短信提示获取官方信息。 二、减少外出，防患未然。建议各企事业单位安排好生产经营活动，做好员工提前下班准备。请全体市民和游客朋友积极配合，非必要人不出门、车不上路。 三、服从指挥，及时撤离。请您积极配合所在村（居）、物业等做好安全隐患排查。居住在危险区域或房屋的人员，请听从相关部门的撤离安排，务必于27日上午前完成撤离，警报未解除前，不擅自返回原危险住地。 （厦门日报）]]></title>
+            <guid>3189366</guid>
+            <pubDate>Wed, 26 Jul 2023 23:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股公司推出400单股权激励计划，逾八成已实施】股权激励正成为上市公司吸引和留住核心人才的“法宝”。据同花顺iFinD数据统计，截至7月26日，今年以来，已有359家A股上市公司发布了400单股权激励计划。其中，有336单已实施，占比84%。“实施股权激励能够将公司利益和员工的个人利益紧密结合起来，促使员工对公司尽心尽责，从而提高公司的经营能力和核心竞争力。”上海兰迪律师事务所律师马佳表示。（证券日报）]]></title>
+            <guid>3189365</guid>
+            <pubDate>Wed, 26 Jul 2023 23:06:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
