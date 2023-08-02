@@ -4,13 +4,226 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 02 Aug 2023 18:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 21:03:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[前美国财长萨默斯：的确有许许多多的理由担忧美国（财政/预算）赤字的长期路径。但美国政府的偿债能力是不存在问题的。批评惠誉下调美国AAA顶级主权信用评级的做法。]]></title>
+            <title><![CDATA[【8月2日美股成交额前20：AMD第二财季净利润同比暴跌94%】第3名AMD收跌7.02%，成交191.93亿美元。该公司第二财季营收同比下降18%，从去年同期的65.50亿美元下降至53.59亿美元，与第一财季的53.53亿美元相比基本持平。净利润同比下降94%，从去年同期的4.47亿美元锐减至2700万美元。该公司第一财季净亏损1.39亿美元。每股收益同比下降93%，从去年同期的0.27美元下降至为0.02美元。第一财季每股亏损0.09美元。http://t.cn/A60OapR4]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzewfwm6999792.d.html</link>
+            <guid>3196795</guid>
+            <pubDate>Wed, 02 Aug 2023 20:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰农业部长称将维持乌克兰农产品进口禁令】当地时间8月2日，波兰农业部长泰卢斯宣布，将维持波兰对乌克兰农产品的进口禁令，不过这些农产品仍然可以通过波兰过境运输。乌克兰危机升级后，由于物流等问题，大量乌克兰农产品只能在东欧国家销售，对当地农产品价格造成冲击。欧盟委员会5月宣布限制4种乌克兰农产品在波兰等5个中东欧成员国自由交易，为期一个月，随后又将禁令延期至9月15日。该禁令允许乌克兰农产品过境这5国销往其他国家。波兰等5国希望禁令下月到期后至少再次延期至年底，波兰总理莫拉维茨基先前表态称，即便届时欧盟未同意延长禁令，波兰也不会取消禁令。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzewfwk0222020.d.html</link>
+            <guid>3196794</guid>
+            <pubDate>Wed, 02 Aug 2023 20:47:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光伏系统与储能产品供应商Sunrun：二季度每股收益0.25美元，市场预期为亏损0.26美元。二季度营收5.902亿美元，市场预期6.388亿美元。公司预期在美国加州市场的销售额在近期会有所下降。美国加州80%的太阳能客户都在增加储能电池容量。]]></title>
+            <guid>3196792</guid>
+            <pubDate>Wed, 02 Aug 2023 20:43:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中长期美债收益率上涨，投资者关注“小非农”和拜登财政部的再融资计划】周三（8月2日）纽约尾盘，美国10年期基准国债收益率涨4.85个基点，报4.0715%，盘中交投于4.0049%-4.1221%区间。两年期美债收益率跌2.28个基点，报4.8788%，盘中交投于4.9372%-4.8476%区间。20年期美债收益率涨6.65个基点，30年期美债收益率涨8.20个基点。三年期美债收益率跌2.29个基点，五年期美债收益率涨1.58个基点，七年期美债收益率涨4.44个基点。三个月期国库券/10年期美债收益率利差涨3.250个基点，报-134.764个基点。02/10年期美债收益率利差涨7.743个基点，报-80.540个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0350674.d.html</link>
+            <guid>3196789</guid>
+            <pubDate>Wed, 02 Aug 2023 20:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（8月2日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌0.72%，报242.50欧元/吨。油菜籽期货涨0.45%，报443.75欧元/吨。]]></title>
+            <guid>3196788</guid>
+            <pubDate>Wed, 02 Aug 2023 20:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paypal二季度净营收72.9亿美元，市场预期72.8亿美元。二季度调整后每股收益1.16美元，与市场预期持平。二季度总支付额3765.4亿美元，市场预期3724.8亿美元。预计三季度调整后每股收益1.22-1.24美元。仍预计全年调整后每股收益约4.95美元，市场预期4.94美元。PayPal股价在纽约市场盘后下跌6.4%。]]></title>
+            <guid>3196786</guid>
+            <pubDate>Wed, 02 Aug 2023 20:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西方石油公司（OXY）二季度每股收益0.63美元。二季度调整后每股收益0.68美元，市场预期0.71美元。二季度石油及天然气税前收入11亿美元，市场预期11.8亿美元。]]></title>
+            <guid>3196785</guid>
+            <pubDate>Wed, 02 Aug 2023 20:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shopify二季度营收16.9亿美元，预期16.2亿美元。Shopify美股盘后涨4.52%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqp7123880.d.html</link>
+            <guid>3196783</guid>
+            <pubDate>Wed, 02 Aug 2023 20:11:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国外卖服务公司Doordash二季度营收好于预期】美国外卖服务公司Doordash二季度营收21.3亿美元，分析师预期20.5亿美元。二季度订单5.320亿（笔），分析师预期5.116亿。二季度可销售的总体订单价值（GOV）为164.7亿美元，分析师预期157.3亿美元。预计全年可销售的GOV为642亿-652亿美元，分析师预期626.6亿美元。预计全年调整后EBITDA为7.50亿-10.5亿美元，公司之前预计预期6.0亿-9.0亿美元。预计三季度可销售的GOV为158亿-162亿美元，分析师预期154亿美元。预计三季度调整后EBITDA为2.20亿-2.70亿美元，分析师预期1.921亿美元。Doordash美股盘后上涨7.58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqc6784736.d.html</link>
+            <guid>3196782</guid>
+            <pubDate>Wed, 02 Aug 2023 20:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[网红券商Robinhood二季度净营收4.86亿美元，分析师预期4.72亿美元。二季度托管资产890亿美元，分析师预期828.4亿美元。二季度基于交易转账的营收1.93亿美元，分析师预期1.885亿美元。二季度加密数字货币营收0.31亿美元，分析师预期0.311亿美元。预计全年运营开支23.3亿-24.1美元，分析师预期24.3亿美元。Robinhood美股盘后涨3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0344656.d.html</link>
+            <guid>3196781</guid>
+            <pubDate>Wed, 02 Aug 2023 20:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[飞机零部件生产商势必锐（Spirit AeroSystems）收跌27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqp7121291.d.html</link>
+            <guid>3196780</guid>
+            <pubDate>Wed, 02 Aug 2023 20:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【楼市优化政策持续出台 更好满足刚性和改善性住房需求】尽管近期政策面对于存量个人房贷利率调整已有诸多表述，但多家国有银行信贷部门工作人员称，目前其所在银行尚未接到明确调整通知，存量个人住房贷款利率仍按此前的约定利率执行。若后续有最新政策通知，将及时进行调整。某房企相关人士表示，随着房地产政策的优化调整，预计接下来购房首付、房贷利率方面也会有利好政策出台，尤其是存量个人房贷利率，或有实质性下降。随着后续住房消费的回暖，这将进一步畅通房地产交易链条，最终实现房地产市场良性循环。 (证券日报)]]></title>
+            <guid>3196776</guid>
+            <pubDate>Wed, 02 Aug 2023 19:56:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德意志银行：惠誉下调美国信用评级预计不会产生持久影响】德意志银行策略师Steven Zeng在一份关于惠誉评级下调的报告中表示，美国政府的债务轨迹令人感到不安。他认为，惠誉将美国长期债务评级从AAA下调至AA+，不太可能对市场产生深刻影响。“其中一个原因是，投资者经历过2011年标普下调评级，他们记得（那时候）自己毫发无损。”但他指出，美国债务占GDP比重“今年有望达到7%”，这可能令人担忧。“尽管几年的巨额赤字可能不一定是个问题，但美国目前的财政和债务轨迹是一个合理的担忧理由。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0341769.d.html</link>
+            <guid>3196773</guid>
+            <pubDate>Wed, 02 Aug 2023 19:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：美国主权评级被下调，或利多高评级美国公司债】 花旗集团全球债务资本市场主管理Richard Zogheb表示，美国主权评级遭惠誉下调一事，对仍持有高信用评级的一小部分公司而言，可能反而有利，因为投资者可能会开始用评级较高的公司债，来取代投资组合中的主权债券，就像几年前欧洲主权危机期间一些人所做的那样。此外，少数与美国评级相同的公司的债券收益率也会与美国国债缩窄差距，从而变相降低这些公司的债务融资成本。但坏消息是，当前只有极少数公司的评级等于或高于美国主权评级，达到AA+或者AAA等级，因此能够留给投资者选择的余地依旧有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0339978.d.html</link>
+            <guid>3196772</guid>
+            <pubDate>Wed, 02 Aug 2023 19:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【气候政策被批 苏纳克辩称：英国在减排方面优于其他G7国家】英国首相苏纳克周三接受LBC电台采访，当被问及他是否是一个希望增加化石燃料产量的危险激进分子时，苏纳克辩护称，在G7国家中，英国脱碳速度最快。为了支持他的说法，英国政府引用了提交给联合国气候变化框架公约(UNFCCC)的国家清单数据。他同时强调，即使英国达成净零排放，仍将有1/4的能源来自化石燃料，只不过这些燃料应来自英国国内。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqp7117046.d.html</link>
+            <guid>3196771</guid>
+            <pubDate>Wed, 02 Aug 2023 19:37:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智能算法发现首颗具潜在威胁小行星 】据科技日报，美国华盛顿大学的一项新研究代表着小行星探测方面的重大进步。该校研究团队开发的一种名为HelioLinc3D的算法首次发现了一颗有潜在威胁的小行星。HelioLinc3D利用维拉·C·鲁宾天文台为期10年的夜空调查项目发现近地小行星。在夏威夷进行的“小行星地面撞击持续报警系统”（ATLAS）的测试过程中，该算法发现了一颗小行星，其被命名为2022 SF289。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqc6781933.d.html</link>
+            <guid>3196768</guid>
+            <pubDate>Wed, 02 Aug 2023 19:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI合成出人类祖先抗菌分子】据科技日报，美国宾夕法尼亚大学科学家使用人工智能，分析了现代人和人类已灭绝亲属尼安德特人与丹尼索瓦人的蛋白质数据，识别出了后两者制造出的可杀死致病细菌的分子，并合成出了这些分子。最新研究有望帮助科学家研制出新型药物。相关论文刊登于最新出版的《细胞宿主与微生物》杂志。]]></title>
+            <guid>3196767</guid>
+            <pubDate>Wed, 02 Aug 2023 19:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【突破性工艺更快制造非天然氨基酸】据科技日报，美国匹兹堡大学科学家在最新一期《科学》杂志上，描述了一种创造非天然氨基酸的新方法，最新方法有望催生基于蛋白质的疗法，并将有望开辟有机化学的新分支。]]></title>
+            <guid>3196766</guid>
+            <pubDate>Wed, 02 Aug 2023 19:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量子计算机首次识别出单个核苷酸】据科技日报，日本科学家使用量子计算机，将单磷酸腺苷核苷酸与其他3种核苷酸分子区分开来，这是量子计算机首次应用于单分子测量，证明了其在基因组分析中大有潜力。最新研究有望使超快速基因组分析在药物发现、癌症诊断和传染病研究等领域大显身手。相关论文刊发于最新一期《物理化学杂志B》杂志。]]></title>
+            <guid>3196765</guid>
+            <pubDate>Wed, 02 Aug 2023 19:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国石化深层煤层气勘探获突破】据科技日报，2日，从中国石化获悉，中国石化“深地工程·川渝天然气基地”再传捷报：中国石化部署在重庆市南川区的深层煤层气井阳2井（以下简称阳2井）实现自喷生产100天，日产气量稳定在1.2万立方米，累计产气120万立方米，标志着中国石化实现了渝东南地区深层煤层气的勘探突破。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0338442.d.html</link>
+            <guid>3196764</guid>
+            <pubDate>Wed, 02 Aug 2023 19:28:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我科学家找到塑料垃圾处理新方案——常温常压下可降解9种塑料】据科技日报，华东师范大学化学与分子工程学院教授、博士生导师姜雪峰课题组建立了一种温和的光降解方案，通过协同的铀酰光催化机制，在常温常压下实现了9种塑料的降解，其中包括5种塑料的混合降解，为塑料垃圾处理提供了可持续性解决方案的科学模型。相关论文成果于7月29日发表于《科学通报》（science bulletin）期刊。]]></title>
+            <guid>3196762</guid>
+            <pubDate>Wed, 02 Aug 2023 19:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【陆地碳汇估算精度瓶颈如何破？专家建议增设高标准二氧化碳观测站】据科技日报，记者2日从中国科学院青藏高原研究所获悉，通过优化大气二氧化碳（CO_2）观测站点选址，该所汪宜龙副研究员和田向军研究员联合多名合作者开展的研究认为，在我国建立60个大气CO_2观测站点很有必要。在同化观测数据时，利用大气反演的方法估算我国陆地碳汇量的准确性将达到欧美先进水平。该成果近日发表于《科学通报》。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0337354.d.html</link>
+            <guid>3196761</guid>
+            <pubDate>Wed, 02 Aug 2023 19:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普卸任后第三次受到刑事指控 进一步点燃美国两党纷争】据央视新闻，当地时间8月1日，美国前总统特朗普在司法部特别检察官调查中，因涉嫌试图推翻2020年总统选举结果而受到刑事指控，这也是自2021年特朗普卸任以来受到的第三次刑事指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqp7110747.d.html</link>
+            <guid>3196750</guid>
+            <pubDate>Wed, 02 Aug 2023 19:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行再提调整存量房贷利率后续：多家银行称暂无落地方案，有银行“正在调研”】 8月1日，中国人民银行、国家外汇管理局召开2023年下半年工作会议，并提到“指导商业银行依法有序调整存量个人住房贷款利率”。这是中国人民银行近期第二次提及调整存量个人住房贷款利率。就存量个人住房贷款利率调整最新落地情况，8月2日，《证券日报》记者询问了包括国有大行、股份制银行在内的11家上市银行的相关负责人或官方客服。截至发稿，除部分银行未回复外，多家银行称暂无具体落地方案，亦有个别银行向记者表示“正在调研”。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqc6779299.d.html</link>
+            <guid>3196747</guid>
+            <pubDate>Wed, 02 Aug 2023 18:52:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金融市场高水平开放，专家建议适时启动“南向互换通”】 证券日报根据公开资料梳理发现，今年以来，已有一系列针对境外投资者增持人民币资产的便利化举措出台落地：5月15日，“北向互换通”下的交易正式启动，业界认为，“北向互换通”的推出丰富了境外投资者的风险对冲工具，将吸引更多境外资金流入中国债券市场；6月30日，债券通“北向通”交易结算失败一站式线上报备服务正式上线，大幅提升了结算失败报备的效率和便利度。在便利境内外投资者投资方面，王有鑫建议，在时机成熟时，可考虑推出更多的互联互通机制，适时启动“南向互换通”（即境内投资者经由内地和香港基础设施机构之间的互联互通机制安排，参与香港金融衍生品市场），扩大联通范围和市场覆盖面。继续加快金融市场体系建设，深化利率汇率市场化改革，积极完善多层次资本市场，满足国内外不同类型市场主体的投融资需求。通过将CIPS系统（人民币跨境支付系统）推广至更多国家、接入更多的国际金融机构，提升人民币结算和清算的便利性，推动人民币由双边使用向多边使用扩展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0331948.d.html</link>
+            <guid>3196745</guid>
+            <pubDate>Wed, 02 Aug 2023 18:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【尽管西方不断收紧制裁，俄7月向全球市场供应粮食数量创新高】 据今日俄罗斯电视台（RT）网站8月2日报道，俄罗斯谷物联盟（RGU）发布消息称，尽管西方不断收紧对俄罗斯的制裁，但在刚刚结束的7月份，俄罗斯向全球市场供应的粮食数量仍创下历史新高。数据显示，俄罗斯在7月份的粮食出口量高达568万吨，其中小麦的数量最多，达到创纪录的454万吨。RGU称，俄罗斯今年7月的粮食出口量是去年同期的1.6倍。进口俄罗斯小麦数量排名前三的国家分别是沙特阿拉伯(57.8万吨)、土耳其(51.8万吨)、埃及(46.7万吨)。RT称，俄罗斯在2022年维持了农产品净出口大国的地位。当年，俄罗斯小麦获得了创纪录的丰收，小麦的出口量也占据了全球小麦出口量的20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqc6778470.d.html</link>
+            <guid>3196742</guid>
+            <pubDate>Wed, 02 Aug 2023 18:41:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西总统称支持沙特阿拉伯、阿根廷和阿联酋加入金砖国家机制】巴西总统卢拉表示，他支持沙特阿拉伯、阿根廷和阿联酋加入金砖国家机制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqn0330353.d.html</link>
+            <guid>3196741</guid>
+            <pubDate>Wed, 02 Aug 2023 18:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界银行：除了私营部门合作伙伴关系之外，暂停向尼日尔的所有项目发放资金，直至另行通知。]]></title>
+            <guid>3196740</guid>
+            <pubDate>Wed, 02 Aug 2023 18:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[穆迪将尼日尔评级下调至Caa2，并称可能会进一步下调评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevzqp7106714.d.html</link>
+            <guid>3196738</guid>
+            <pubDate>Wed, 02 Aug 2023 18:36:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法巴银行：美国7月就业增长预计将加速】法巴银行经济学家在一份报告中指出，7月份的新增非农就业人数可能从6月份的20.9万人加速至22.5万人。这仍将使新增就业低于移动平均水平，并“与劳动力市场逐步但持续的宽松一致”。他们补充称，需求低迷限制了服务业的就业增长。经济学家们表示，“总体而言，这些数据与美联储对当前利率设定的耐心保持一致。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7235682.d.html</link>
+            <guid>3196733</guid>
+            <pubDate>Wed, 02 Aug 2023 18:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【降门槛提设施，汽车消费再迎政策利好】 优化汽车限购、发放消费补贴、便利二手车交易、加强充电设施建设……近期，中央和地方出台多项汽车促消费措施，从各个方面入手，推动国内汽车产业市场进一步发展。业内人士表示，中央多次强调促进汽车消费，地方也拿出多样化措施，反映出我国汽车产业在当前转型升级阶段具有较大的发展潜力，多项政策进一步促进汽车消费市场，有助于发挥其对宏观经济的带动作用。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7235511.d.html</link>
+            <guid>3196730</guid>
+            <pubDate>Wed, 02 Aug 2023 18:25:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家信托公司，加快出售基金公司股权】 近段时间以来，中小基金公司股权变更中频频出现信托公司身影。近日中航信托、山西信托等多家信托公司纷纷挂牌出售所持有的公募基金公司股权。业内专家表示，上述情况一方面是部分信托公司自身的资金需求和对公募基金公司估值处于相对高位的判断；另一方面则是信托机构和公募基金之间的业务协同有限而主动转让，聚焦主业发展，为自身转型铺路。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhp8560900.d.html</link>
+            <guid>3196728</guid>
+            <pubDate>Wed, 02 Aug 2023 18:24:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银关闭了瑞士信贷在休斯顿的办事处。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7234246.d.html</link>
+            <guid>3196727</guid>
+            <pubDate>Wed, 02 Aug 2023 18:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经参头版：稳增长“组合拳”释放四大政策信号】 文章称，多部委近期密集召开会议部署下半年工作，并接连发布政策文件，释放出加大宏观政策调控力度、综合施策扩内需、“真金白银”助企业减负发展、促房地产市场平稳健康发展等政策信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhq0457000.d.html</link>
+            <guid>3196726</guid>
+            <pubDate>Wed, 02 Aug 2023 18:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队否认与快速支援部队重启停火谈判】苏丹武装部队发言人纳比勒·阿卜杜拉当地时间8月2日表示，有关苏丹武装部队与快速支援部队在沙特红海港口城市吉达重启停火谈判的消息是错误的，苏丹武装部队的谈判团队目前仍在苏丹。此前有媒体报道称，苏丹冲突双方正在就一份为期两个月的停火协议进行谈判，谈判的焦点议题是快速支援部队是否撤出在苏丹首都喀土穆设立的多处检查站。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7232904.d.html</link>
+            <guid>3196725</guid>
+            <pubDate>Wed, 02 Aug 2023 18:15:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根大通CEO戴蒙：惠誉下调美国评级并不真的很重要】摩根大通CEO戴蒙表示，惠誉下调美国评级“并不真的很重要”；美国的信用状况良好，应该在全球评级最高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7232065.d.html</link>
+            <guid>3196724</guid>
+            <pubDate>Wed, 02 Aug 2023 18:11:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊向那些非Prime会员的会员开放Fresh杂货配送服务】 亚马逊要将2017年137亿美元收购的全食超市在内的各种电商超市合并到一个线上购物车里，本月开始在美国十几个大城市提供非Prime会员的Amazon Fresh配送，计划到年底扩大到全美。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7231273.d.html</link>
+            <guid>3196723</guid>
+            <pubDate>Wed, 02 Aug 2023 18:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【萨默斯和埃里安批评惠誉下调美国评级之举】美国前财长萨默斯和安联首席经济顾问埃里安与其他经济学家一道，批评惠誉评级在该全球最大经济体出现恢复迹象的情况下下调美国信用评级的决定。萨默斯说，虽然有理由担心美国赤字的长期轨迹，但美国偿还债务的能力是毫无疑问的。埃里安则表示，评级下调是“一个奇怪的举动”，不太可能影响市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhf6905854.d.html</link>
             <guid>3196720</guid>
             <pubDate>Wed, 02 Aug 2023 18:01:37 GMT</pubDate>
         </item>
@@ -127,260 +340,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7212429.d.html</link>
             <guid>3196694</guid>
             <pubDate>Wed, 02 Aug 2023 16:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【181家A股公司发布上半年业绩 电网设备赛道表现亮眼】据证券日报，数据显示，截至8月2日记者发稿，A股市场已有181家上市公司发布了2023年半年报或业绩快报，其中113家公司今年上半年实现归母净利润同比增长，占比62.43%。整体来看，电力设备板块业绩表现突出，13家已披露上半年经营情况的上市公司中，有9家实现归母净利润同比增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7212323.d.html</link>
-            <guid>3196692</guid>
-            <pubDate>Wed, 02 Aug 2023 16:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“室温超导”概念火热 业界热议相关技术对消费电子业影响】据证券日报，近日，“室温超导”热度持续走高。8月2日，天风国际证券分析师郭明錤表示，常温常压超导体的商业化尚无时间表，但是未来它将对消费电子领域的产品设计产生颠覆性影响，即便iPhone都能拥有匹敌量子计算机的运算能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhp8551129.d.html</link>
-            <guid>3196691</guid>
-            <pubDate>Wed, 02 Aug 2023 16:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部：俄罗斯第二季度GDP同比增长4.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhq0432352.d.html</link>
-            <guid>3196688</guid>
-            <pubDate>Wed, 02 Aug 2023 16:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【激发香港“兴”的动能座谈会在港举办】 激发香港“兴”的动能座谈会2日在香港会展中心举办。与会嘉宾聚焦香港在由治及兴新征程上的新发展、新机遇、新优势，共议如何让香港尽快达致“兴”的新阶段。香港特区政府财政司司长陈茂波、商务及经济发展局局长丘应桦、财经事务及库务局局长许正宇、创新科技及工业局局长孙东和广东省发改委副主任、广东省推进粤港澳大湾区建设领导小组办公室常务副主任朱伟，以及香港贸易发展局等机构、商会和企业代表，结合各自工作及业务范围，共同商议如何同心合力为香港开新篇、激发香港“兴”动能。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7209255.d.html</link>
-            <guid>3196687</guid>
-            <pubDate>Wed, 02 Aug 2023 16:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部：俄罗斯6月份GDP同比增长5.3%，上个月为5.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevvhr7208733.d.html</link>
-            <guid>3196686</guid>
-            <pubDate>Wed, 02 Aug 2023 16:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯经济部：截至7月31日当周，俄罗斯年度消费者通胀率为4.42%，一周前为4.19%。]]></title>
-            <guid>3196680</guid>
-            <pubDate>Wed, 02 Aug 2023 16:11:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财政部：惠誉下调评级的影响有限 美债仍是最安全资产】一名美国财政部高级别官员表示，惠誉下调美国AAA主权评级对美国国债的价格影响有限。“我们认为对收益率或价格的影响有限或没有影响，”财政部主管金融市场事务的助理部长Josh Frost周三对记者表示，“在即时反应中，我们看到市场价格反应非常有限。”Frost认为惠誉剥夺美国的最高评级不会导致美债买家被迫抛售。他表示，就像标普在2011年剥夺美国的AAA评级后一样，美债不会受到影响。“我们在2011年没有看到任何这方面的证据，”Frost在谈到抛售风险时说。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevqyt7335768.d.html</link>
-            <guid>3196678</guid>
-            <pubDate>Wed, 02 Aug 2023 16:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股主要指数收盘普跌】欧股主要指数收盘普跌，德国DAX30指数跌1.36%，英国富时100指数跌1.37%，法国CAC40指数跌1.26%，欧洲斯托克50指数跌1.6%。蓝筹股Prosus初步收跌超4.2%，Flutter娱乐跌超3.2%，法国巴黎银行跌2.7%，阿斯麦跌2.3%，阿迪达斯跌2.2%，奔驰、空客、施耐德电气则至多涨0.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevqys0557863.d.html</link>
-            <guid>3196675</guid>
-            <pubDate>Wed, 02 Aug 2023 16:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥比索兑美元进一步走低，跌幅达1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevqyt7333573.d.html</link>
-            <guid>3196674</guid>
-            <pubDate>Wed, 02 Aug 2023 16:01:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯统计局：俄罗斯6月份失业率为3.1%，上个月为3.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevqys0556284.d.html</link>
-            <guid>3196672</guid>
-            <pubDate>Wed, 02 Aug 2023 16:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯统计局：截至7月31日当周，俄罗斯消费者通胀率为0.13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-03/detail-imzevqyt7333277.d.html</link>
-            <guid>3196671</guid>
-            <pubDate>Wed, 02 Aug 2023 16:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国报告：苏丹将有2030万人面临严重粮食不安全问题】据央视新闻，当地时间8月2日，联合国人道主义事务协调厅发布报告称，受苏丹武装冲突及其引发的经济衰退、大量人口流离失所等因素影响，2023年7月至9月期间，苏丹将有大约2030万人面临严重粮食不安全问题，占该国总人口的42%，其中1400万人处于粮食危机状况，630万人处于更严重的粮食紧急状况。粮食安全状况最严峻的地区包括首都喀土穆、西部达尔富尔地区和南部的南科尔多凡州。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7332279.d.html</link>
-            <guid>3196670</guid>
-            <pubDate>Wed, 02 Aug 2023 15:53:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石油天然气公司先锋自然资源（Pioneer Natural Resources）CEO：国际原油价格将在2023年底上涨至100美元/桶。]]></title>
-            <guid>3196669</guid>
-            <pubDate>Wed, 02 Aug 2023 15:52:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：油价未受库存下滑提振是因为“时机问题”】美国原油库存上周大幅下降1705万桶，这本应是一个非常有利于油价的数据，但今天却没有起到作用，部分原因是美元走强，但美国库存缩减的原因也起到了一定的作用。大宗商品数据服务商Kpler分析师Matt Smith表示：“强劲的原油出口（每天530万桶）和炼油厂的强劲运行共同导致了创纪录的原油库存缩减。这在很大程度上是一个时机问题：夏季炼油活动的高峰期与月末出口非常强劲的时期相吻合，预计今后不会出现如此大规模的库存减少。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7331883.d.html</link>
-            <guid>3196666</guid>
-            <pubDate>Wed, 02 Aug 2023 15:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯：船只在刻赤海峡的航行受限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7331557.d.html</link>
-            <guid>3196664</guid>
-            <pubDate>Wed, 02 Aug 2023 15:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构分析：股票投资者应该考虑购买美股以外的股票】富兰克林邓普顿（Franklin Templeton）表示，股票投资者应该考虑到美国以外寻找投资机会。该机构首席市场策略师Stephen Dover指出，考虑到过去10年美国股市的表现好于日本、德国和英国股市，投资者不愿这么做是可以理解的。但在过去六个月里，日经225指数的回报率是标普500指数的两倍，而德国DAX指数的回报率则超过了标普500指数整整三个百分点。之所以会出现这种情况，是因为它们的估值更具吸引力，而且收益上调幅度更高，预计这种情况将持续下去。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0554447.d.html</link>
-            <guid>3196663</guid>
-            <pubDate>Wed, 02 Aug 2023 15:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国和荷兰天然气期货至少涨超5%】周三（8月2日）欧市尾盘，ICE英国天然气期货涨6.05%，报72.010便士/千卡。TTF基准荷兰天然气期货涨5.52%，报29.050欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌2.03%，报82.45欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0553477.d.html</link>
-            <guid>3196662</guid>
-            <pubDate>Wed, 02 Aug 2023 15:41:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿根廷外交部强烈反对英国在马尔维纳斯群岛区域举行军演】阿根廷外交部当地时间8月2日发表声明，强烈反对英国在南大西洋的马尔维纳斯群岛（简称马岛）区域举行军事演习。声明指出，英方近期在马岛海域展开军演，违背了联合国就马岛主权问题通过的相关决议，属于非法行径，还将对南大西洋地区的和平稳定局面构成严重威胁。阿方对此予以强烈反对，并敦促英方应通过谈判和对话的方式，和平解决马岛主权争端，避免采取改变该区域局势的单方面行动。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0553151.d.html</link>
-            <guid>3196661</guid>
-            <pubDate>Wed, 02 Aug 2023 15:39:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【均胜电子：上半年新获订单总额预计超420亿元】 均胜电子公告，2023年上半年公司新业务订单突破迅猛，全球累计新获客户订单（全生命周期）总额预计超420亿元。具体情况如下：预计汽车电子业务新获订单（全生命周期）总额超215亿元，其中新能源汽车800V高压快充功率电子类产品订单取得较大突破；汽车安全业务新获订单（全生命周期）总额超205亿元；预计新能源汽车相关新获订单（全生命周期）总额超300亿元，占比超70%；预计国内新获订单（全生命周期）总额约167亿元，占比近40%，头部自主品牌及造车新势力客户订单占比持续提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0552386.d.html</link>
-            <guid>3196660</guid>
-            <pubDate>Wed, 02 Aug 2023 15:34:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖四个月期国债，得标利率5.300%（前次为5.300%），投标倍数3.21（前次为2.99）。]]></title>
-            <guid>3196659</guid>
-            <pubDate>Wed, 02 Aug 2023 15:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南非富时/JSE非洲领先40可交易指数收跌2.64%，创3月14日以来最大单日跌幅（当天收跌超2.96%），报71353.17点，逼近70000点整数位心理关口和7月11日收盘位69532.28点。]]></title>
-            <guid>3196657</guid>
-            <pubDate>Wed, 02 Aug 2023 15:26:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国准备下令撤离尼日尔的美国大使馆人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7328205.d.html</link>
-            <guid>3196656</guid>
-            <pubDate>Wed, 02 Aug 2023 15:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国原油库存创纪录下降未能提振油价，避险情绪盖过数据影响】由于整体市场避险情绪盖过了美国原油库存创纪录下降的影响，油价在EIA数据公布后下跌。交易商表示，市场忽视这份报告的部分原因是所谓的调整系数继续大幅波动，这让市场对数据的真实性产生怀疑。CIBC私人财富管理公司高级能源交易员Rebecca Babin表示：“库存减少的数量当然是巨大的，但一般来说，我们会从这里失去一些季节性的动力。宏观风险交易再次抬头，所以市场不会因为库存下滑而买入原油，而是将其作为卖出的机会，因为未来几个月的增长可能会放缓。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0549895.d.html</link>
-            <guid>3196654</guid>
-            <pubDate>Wed, 02 Aug 2023 15:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赛特斯：主动要求撤回注册申请文件，证监会终止赛特斯科创板IPO发行注册程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyr8673437.d.html</link>
-            <guid>3196653</guid>
-            <pubDate>Wed, 02 Aug 2023 15:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问伯恩斯坦：投资者对美国债务可靠性的判断要好得多，美国债务的质量和安全性仍然是无可挑剔的。]]></title>
-            <guid>3196651</guid>
-            <pubDate>Wed, 02 Aug 2023 15:14:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[飞机零部件生产商势必锐（Spirit AeroSystems）：公司正努力实现在8月份月产42架波音737客机配件的目标。预计在下半年将能够生产40-45架波音787客机的框架结构。]]></title>
-            <guid>3196650</guid>
-            <pubDate>Wed, 02 Aug 2023 15:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥期权交易所波动率指数触及近四周高点，最新上涨2.17点，达到16.10点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyr8672766.d.html</link>
-            <guid>3196648</guid>
-            <pubDate>Wed, 02 Aug 2023 15:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫经济顾问伯恩斯坦：惠誉下调评级的时机毫无道理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7325625.d.html</link>
-            <guid>3196647</guid>
-            <pubDate>Wed, 02 Aug 2023 15:11:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：尽管西方不断收紧制裁，俄7月向全球市场供应粮食数量创新高】据今日俄罗斯电视台（RT）网站8月2日报道，俄罗斯谷物联盟((RGU)发布消息称，尽管西方不断收紧对俄罗斯的制裁，但在刚刚结束的7月份，俄罗斯向全球市场供应的粮食数量仍创下历史新高。(环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0547769.d.html</link>
-            <guid>3196645</guid>
-            <pubDate>Wed, 02 Aug 2023 15:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翱捷科技：首款即将商业化产品支持WiFi6 Soft AP&STA】翱捷科技近日接受机构调研时表示，WiFi6是公司布局的重要研发领域之一。公司高速WiFi6项目有几款产品的规划，其中，首款即将商业化的产品支持WiFi6 Soft AP & STA，已经在与客户进行方案规划，预计明年上半年量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyr8672173.d.html</link>
-            <guid>3196644</guid>
-            <pubDate>Wed, 02 Aug 2023 15:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌称首都等地遭俄无人机袭击 俄未回应】乌克兰方面8月2日表示，当天，首都基辅等地遭到来自俄罗斯的无人机袭击。对此，俄方暂未作出回应。乌克兰首都基辅市市长克利奇科2日表示，基辅当天遭到来自俄罗斯的无人机袭击。乌军防空系统击落了无人机，无人机碎片造成部分建筑受损，但没有导致人员伤亡。同一天，乌克兰国防部说，8月1日夜间到2日凌晨，乌方共摧毁了23架无人机，其中大部分在基辅州和敖德萨州。对此，俄方暂未作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0547052.d.html</link>
-            <guid>3196642</guid>
-            <pubDate>Wed, 02 Aug 2023 15:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：赛富时（Salesforce.com）正在进一步裁员。该公司今年早些时候已经裁员10%。]]></title>
-            <guid>3196640</guid>
-            <pubDate>Wed, 02 Aug 2023 15:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金融博客零对冲：只有当美国经济陷入严重衰退，战略石油储备才会重新回补】官方数据证实了美国石油协会（API）的报告，上周原油库存下降1705万桶，创下纪录以来最大跌幅。原油总库存现已回到1月5日以来的最低水平。所谓的调整系数从创纪录的正值大幅下滑。值得注意的是，除7月14日当周以外，拜登政府在过去的14周里一直没有补充战略石油储备（SPR）。可以肯定的是，虽然能源部表示“仍然致力于SPR的补充”，但这实际上意味着只有当美国经济陷入严重衰退、拜登经济学崩溃、1万多亿美元刺激政策不再奏效时，SPR才有可能被重新填补。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7323315.d.html</link>
-            <guid>3196638</guid>
-            <pubDate>Wed, 02 Aug 2023 15:01:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利比索兑美元跌幅扩大至1.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0545798.d.html</link>
-            <guid>3196637</guid>
-            <pubDate>Wed, 02 Aug 2023 14:59:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所就上海毕得医药科技股份有限公司解聘高级管理人员及相关事项向毕得医药发监管工作函。]]></title>
-            <guid>3196636</guid>
-            <pubDate>Wed, 02 Aug 2023 14:58:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智利国家铜业公司董事长：预计铜产量将从2024年开始上升】智利国家铜业公司（Codelco）董事长表示，预计铜产量将从2024年开始上升；与智利矿业化工公司（SQM）相关的谈判进展快于预期，有望比预期的2023年底更早就达成协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7322725.d.html</link>
-            <guid>3196635</guid>
-            <pubDate>Wed, 02 Aug 2023 14:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【毕得医药：解聘时长春副总经理职务 三位董事投票反对】毕得医药公告，公司8月1日召开董事会会议，审议了《关于解聘时长春副总经理职务的议案》等相关议案，时长春从即日起不再担任公司副总经理职务。对于该议案，现场实际表决结果为5票赞成、3票反对，其中董事戴龙、王超、芦晓旭、毛永浩、独立董事张萌投票赞成，董事戴岚、独立董事魏炜、独立董事田伟生投票反对。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyr8670499.d.html</link>
-            <guid>3196632</guid>
-            <pubDate>Wed, 02 Aug 2023 14:52:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四环医药：预期上半年集团录得总收入同比下降不超30%】四环医药8月2日公告，预期2023年上半年，集团录得总收入不低于10亿元，较2022年同期相比下降不超过30%，主要是因为仿制药板块受到集采降价以及部分产品新纳入重点监控目录带来的销量下滑的影响。该期间内，集团持续经营业务的除税前亏损预期不超过4000万元，2022年同期本集团持续经营业务的除税前利润为5600万元，相比下降不超过9600万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0544703.d.html</link>
-            <guid>3196631</guid>
-            <pubDate>Wed, 02 Aug 2023 14:52:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国30年期国债收益率当日上涨10个基点至4.19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7321409.d.html</link>
-            <guid>3196630</guid>
-            <pubDate>Wed, 02 Aug 2023 14:50:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑加元USD/CAD日内涨幅达0.50%，现报1.3348。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqyt7321308.d.html</link>
-            <guid>3196629</guid>
-            <pubDate>Wed, 02 Aug 2023 14:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[尼日利亚切断了对尼日尔的电力供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0544160.d.html</link>
-            <guid>3196628</guid>
-            <pubDate>Wed, 02 Aug 2023 14:49:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）报告库欣原油总库存较上周下降3.5%，至34,480万桶。]]></title>
-            <guid>3196627</guid>
-            <pubDate>Wed, 02 Aug 2023 14:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【ViewTrade委任Laksh Gangwani为亚太地区和中东地区CRO】ViewTrade当地时间8月2日宣布，Laksh Gangwani将接任亚太地区和中东地区首席营收官（CRO）一职，并任命Ronit Kar为新的国际增长主管。据悉，Viewtrade目前为近100家在亚洲和中东的金融和金融科技公司提供技术和经纪解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-02/detail-imzevqys0543905.d.html</link>
-            <guid>3196626</guid>
-            <pubDate>Wed, 02 Aug 2023 14:49:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署：上周美国墨西哥湾沿岸炼油厂的原油净进料量达到2022年8月以来的最高水平。]]></title>
-            <guid>3196625</guid>
-            <pubDate>Wed, 02 Aug 2023 14:44:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
