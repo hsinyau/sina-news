@@ -4,11 +4,16 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 13 Aug 2023 18:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 21:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：美国钢企克利夫兰-克利夫斯CLF.N)提出现金加股票协议，以收购美国钢铁(X.N)公司。美国钢铁(X.N)拒绝了提议。]]></title>
+            <guid>3207153</guid>
+            <pubDate>Sun, 13 Aug 2023 20:17:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【德国萨克森州州长反对向乌克兰供应 "金牛座 "巡航导弹】德国萨克森州州长迈克尔·克雷奇默尔公开反对向乌克兰供应 “金牛座 ”巡航导弹。他认为，德国政府一次又一次地越过了自己设定的 "红线"。先是提供豹式坦克，现在又提供巡航导弹。他补充说：“接下来会发生什么？”克雷奇默尔问道：“难道我们准备接受德国导弹可能会攻击俄罗斯这样的事吗？”相反，他呼吁“西方采取新的频繁的外交举措”。路透社此前援引消息人士的话报道称，德国政府正在与欧洲导弹公司 （MBDA ）就向乌克兰供应“金牛座”巡航导弹进行谈判。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzhapfu0212262.d.html</link>
@@ -511,30 +516,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwka0538155.d.html</link>
             <guid>3206825</guid>
             <pubDate>Sun, 13 Aug 2023 08:29:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【华东医药：乌司奴单抗注射液上市申请获受理】华东医药公告，公司全资子公司杭州中美华东制药有限公司收到国家药品监督管理局签发的《受理通知书》，由中美华东申报的乌司奴单抗注射液用于成年中重度斑块状银屑病的上市许可申请获得受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwkc7314543.d.html</link>
-            <guid>3206824</guid>
-            <pubDate>Sun, 13 Aug 2023 08:25:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夏威夷毛伊县方面表示，夏威夷野火造成的死亡人数升至93人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwkf6190806.d.html</link>
-            <guid>3206823</guid>
-            <pubDate>Sun, 13 Aug 2023 08:22:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华东医药：全资子公司乌司奴单抗注射液注册获受理】华东医药公告，公司全资子公司杭州中美华东制药有限公司收到国家药品监督管理局（NMPA）签发的《受理通知书》，由中美华东申报的乌司奴单抗注射液（研发代码：HDM3001、QX001S）用于成年中重度斑块状银屑病的上市许可申请获得受理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwkf6190207.d.html</link>
-            <guid>3206821</guid>
-            <pubDate>Sun, 13 Aug 2023 08:19:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【翔鹭钨业：拟投资设立子公司】翔鹭钨业公告，公司拟以自有资金设立全资子公司广东翔鹭新材料有限公司，注册资本为人民币1亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-13/detail-imzfzwkf6189939.d.html</link>
-            <guid>3206820</guid>
-            <pubDate>Sun, 13 Aug 2023 08:17:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
