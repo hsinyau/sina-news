@@ -4,11 +4,161 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 15 Aug 2023 18:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 21:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周二纽约尾盘，美元兑日元涨0.03%，报145.59，欧股开盘后曾涨至日高145.87，随后震荡下行，在美国零售销售数据发布后曾一度重返145.80上方，但在美股开盘后跌至日低145.11。]]></title>
+            <guid>3209615</guid>
+            <pubDate>Tue, 15 Aug 2023 20:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API原油库存数据公布后，WTI原油短线波动暂不大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhisii7782012.d.html</link>
+            <guid>3209611</guid>
+            <pubDate>Tue, 15 Aug 2023 20:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷MERVAL指数收涨6.22%，报52.7万点，继续创收盘历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhisim4559104.d.html</link>
+            <guid>3209610</guid>
+            <pubDate>Tue, 15 Aug 2023 20:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纽交所ARCA钢铁指数收跌1.76%，报1926.49点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhisim4559101.d.html</link>
+            <guid>3209609</guid>
+            <pubDate>Tue, 15 Aug 2023 20:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月11日当周API原油库存减少619.5万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhisii7781999.d.html</link>
+            <guid>3209608</guid>
+            <pubDate>Tue, 15 Aug 2023 20:34:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【量化基金经理：10年期美债收益率有可能达到6%】量化基金AlphaSimplex Group的首席研究策略师兼投资组合经理Kathryn Kaminski表示，美国国债持续一年来的做空趋势没有改变，长期收益率有望升至几十年来最高水平。她认为，通胀粘性意味着美联储转向宽松政策的速度会较为缓慢，该基金使用的技术指标也证实了这个趋势。当被问及10年期国债收益率能升到多高时，Kaminski说：“6％。难道不会吗？上一次达到这个水平是2000年。之所以会涨到那个程度是因为市场需要长期国债提供更高风险溢价”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4689427.d.html</link>
+            <guid>3209606</guid>
+            <pubDate>Tue, 15 Aug 2023 20:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：随着压力与日俱增，高收益债券（垃圾债）违约率将上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4689175.d.html</link>
+            <guid>3209603</guid>
+            <pubDate>Tue, 15 Aug 2023 20:22:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西方石油(OXY.N)将以11亿美元现金收购CARBON ENGINEERING公司。]]></title>
+            <guid>3209600</guid>
+            <pubDate>Tue, 15 Aug 2023 20:16:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国超导（AMSC）收跌10.72%，报8.99美元，创8月2日以来最差单日表现——当天收跌28.95%。]]></title>
+            <guid>3209599</guid>
+            <pubDate>Tue, 15 Aug 2023 20:16:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国6月所持美债增加119亿美元，至6723亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4688005.d.html</link>
+            <guid>3209597</guid>
+            <pubDate>Tue, 15 Aug 2023 20:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威主权财富基金首席执行官：将特别关注人工智能在科技、医疗保健和金融行业的应用方式。支持促进安全创新、减轻不利影响的人工智能监管。]]></title>
+            <guid>3209595</guid>
+            <pubDate>Tue, 15 Aug 2023 20:04:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sacks Parente Golf（SPGC）美国IPO首日收涨624%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4687614.d.html</link>
+            <guid>3209593</guid>
+            <pubDate>Tue, 15 Aug 2023 20:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本6月所持美国国债增加88亿美元，至1.106万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzr3425285.d.html</link>
+            <guid>3209590</guid>
+            <pubDate>Tue, 15 Aug 2023 20:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳元兑美元AUD/USD日内跌超0.50%，现报0.6454。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4685662.d.html</link>
+            <guid>3209587</guid>
+            <pubDate>Tue, 15 Aug 2023 19:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【各期限美债收益率涨跌各异，在“美国零售销售数据发布日”冲高回落】周二（8月15日）纽约尾盘，美国10年期基准国债收益率涨1.77个基点，报4.2090%，美国零售销售数据出炉时拉升至日高4.2681%，随后迅速回落并转跌，在美股盘初跌至日低4.1620%。两年期美债收益率跌3.16个基点，报4.9352%，盘中交投于5.0181%-4.9034%区间。三个月期国库券/10年期美债收益率利差涨3.501个基点，报-123.370个基点。02/10年期美债收益率利差涨4.950个基点，报-73.240个基点。美国10年期通胀保值国债（TIPS）收益率涨4.09个基点，报1.8736%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzr3423665.d.html</link>
+            <guid>3209583</guid>
+            <pubDate>Tue, 15 Aug 2023 19:41:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【出口旺盛令美国输油管近满负荷运行，管道公司趁机涨价】 连接美国二叠纪页岩油气盆地与得克萨斯州Corpus Christi港口的Cactus II输油管的使用费用将上涨，该管道运输商平原全美輸油管道公司 （Plains All American Pipeline）表示，其向客户提供的优惠措施已于7月终止，这意味着通过该管道运输的每桶原油运输费将上涨0.65至1.10美元不等。而业内人士分析称，其他向Corpus Christi港运输石油及天然气的管道也可能在年底前面临运价上涨。运价上涨的原因在于相关油气管道当前已处于接近满负荷运行状态，由于沙特与俄罗斯减产，全球对美国出口石油和天然气的需求有增无减，管道公司也因而趁机涨价以实现利润最大化目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzm7903939.d.html</link>
+            <guid>3209581</guid>
+            <pubDate>Tue, 15 Aug 2023 19:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【TPG正与安永接洽，拟收购对方咨询部门股份】 私募股权投资公司TPG资本已与安永接洽，希望购买其咨询部门的股份。据TPG概述，这项债务和股权交易计划将咨询部门从安永的审计业务中分离出来。报告称，被剥离的咨询业务可能会在晚些时候寻求IPO。在已披露消息中，TPG并未对该项咨询业务进行估值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4679552.d.html</link>
+            <guid>3209578</guid>
+            <pubDate>Tue, 15 Aug 2023 19:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威方面上半年向挪威主权财富基金存入3920亿挪威克朗。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzm7901775.d.html</link>
+            <guid>3209576</guid>
+            <pubDate>Tue, 15 Aug 2023 19:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收跌0.94%，报18360点，低水221点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4678831.d.html</link>
+            <guid>3209575</guid>
+            <pubDate>Tue, 15 Aug 2023 19:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷7月CPI环比升幅6.3%，市场预期7.1%。阿根廷7月CPI同比升幅113.4%，市场预期115.0%。]]></title>
+            <guid>3209573</guid>
+            <pubDate>Tue, 15 Aug 2023 19:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁财政部长：7月和8月前两周的早期指标显示经济复苏的迹象；我们正在实施措施以减轻厄尔尼诺天气现象的影响。]]></title>
+            <guid>3209572</guid>
+            <pubDate>Tue, 15 Aug 2023 18:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国正在与乌克兰就增加替代粮食路线进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzm7897103.d.html</link>
+            <guid>3209571</guid>
+            <pubDate>Tue, 15 Aug 2023 18:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪金夜盘收涨0.20%，沪银收涨0.57%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4672478.d.html</link>
+            <guid>3209570</guid>
+            <pubDate>Tue, 15 Aug 2023 18:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西方面表示全国范围内的电力供应已完全恢复。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzm7895338.d.html</link>
+            <guid>3209568</guid>
+            <pubDate>Tue, 15 Aug 2023 18:34:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储通胀之战尚未取得胜利，股市下跌】银行股下挫拖累标准普尔500指数走低，因有迹象显示美联储对抗通胀的战斗尚未结束，且惠誉警告称可能下调摩根大通和美国银行等大型银行的信用评级。美国零售销售增长超过预期，表明经济可以承受更高的利率，并可能阻止决策者调整政策。“最近的数据——零售销售——显示经济仍然保持得很好，”Spouting Rock Asset Management首席策略师Rhys Williams说。“很明显，经济比六个月前任何人预期的都要好。”其对今年通胀能否降低至并保持在美联储2%的目标水平持怀疑态度。美联储官员也发出了谨慎的声音，美联储卡什卡利表示，虽然通胀一直在下降，但“仍然太高”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzp4671962.d.html</link>
+            <guid>3209566</guid>
+            <pubDate>Tue, 15 Aug 2023 18:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威主权财富基金：2023年上半年投资回报率为10.0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhimzi7629171.d.html</link>
+            <guid>3209563</guid>
+            <pubDate>Tue, 15 Aug 2023 18:25:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【25家上市券商“中考”放榜 多数业绩预喜】华泰证券股份有限公司等6家上市券商8月14日晚间披露2023年半年度业绩快报，预计实现营业收入和净利润的双增。同时，截至8月15日《证券日报》记者发稿，已有25家上市券商披露半年度业绩预告、快报和报告，业绩预喜券商数量占比超九成。多家机构表示，预计2023年上半年，上市券商整体实现净利润同比正增长，但增幅弱于今年一季度。展望2023年下半年，低基数效应、政策利好有望带动券商实现较为亮丽的业绩。 (证券日报)]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-16/detail-imzhiftp8018480.d.html</link>
@@ -164,238 +314,6 @@
             <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4898578.d.html</link>
             <guid>3209515</guid>
             <pubDate>Tue, 15 Aug 2023 15:30:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车在土耳其的合资公司Otomotiv计划在境外发售最多5亿欧元债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4898356.d.html</link>
-            <guid>3209514</guid>
-            <pubDate>Tue, 15 Aug 2023 15:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[越南电动汽车生产商VinFast完成与特殊目的收购公司（SPAC）Black Spade Acquisition的合并交易，已于8月15日开始在纳斯达克交易，其股价（VFS）一度上涨129.66%，最高触及24.00美元。]]></title>
-            <guid>3209512</guid>
-            <pubDate>Tue, 15 Aug 2023 15:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波罗的海干散货运价指数创6月以来新高】波罗的海干散货运价指数周二涨至6月底以来最高水平，因海岬型船运价止住五日连跌，巴拿马型船运价延续涨势。波罗的海干散货运价指数涨31点或2.7%至1166点。海岬型船运价指数上涨27点或1.7%，至1597点。海岬型船日均获利增加227美元，至13244美元。巴拿马型船运价指数上涨47点或3.4%，至1412点，创5月11日以来最高水平。巴拿马型船日均获利增加429美元，至12710美元。超灵便型散货船运价指数上涨27点至772点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8119719.d.html</link>
-            <guid>3209510</guid>
-            <pubDate>Tue, 15 Aug 2023 15:16:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西糖业公司Raizen首席执行官：糖价可能会在巴西产季结束时上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8119441.d.html</link>
-            <guid>3209509</guid>
-            <pubDate>Tue, 15 Aug 2023 15:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统泽连斯基视察扎波罗热地区】 乌克兰国家通讯社当地时间15日报道称，乌克兰总统泽连斯基当天视察了扎波罗热地区，还视察了向梅利托波尔方向执行进攻行动的作战部队营地。泽连斯基听取了作战指挥官关于前线战况的报告，并与指挥官和战斗人员一起讨论了目前需要解决的问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4895536.d.html</link>
-            <guid>3209507</guid>
-            <pubDate>Tue, 15 Aug 2023 15:09:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosus于8月7-11日期间回购1.603亿美元股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4895445.d.html</link>
-            <guid>3209506</guid>
-            <pubDate>Tue, 15 Aug 2023 15:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国官员：苏丹武装冲突已导致超过4000人死亡】联合国人权事务高级专员沃尔克·图尔克当地时间15日表示，苏丹武装冲突爆发至今，已导致至少4000人死亡，其中包括28名人道救援人员和435名儿童。他同时指出，由于冲突激烈，很多遇难者的遗体尚未被收集和辨认，因此很难确定确切的伤亡数字，预计实际伤亡人数要远高于此。]]></title>
-            <guid>3209505</guid>
-            <pubDate>Tue, 15 Aug 2023 15:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁政府：6月份国内生产总值同比增长0.56%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8118216.d.html</link>
-            <guid>3209504</guid>
-            <pubDate>Tue, 15 Aug 2023 15:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储卡什卡利：对通胀进展感到满意】美联储卡什卡利表示，我们对经济的韧性感到惊讶；对通胀进展感到满意；通胀仍然过高；加息在一定程度上减缓了美国经济增速。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8118142.d.html</link>
-            <guid>3209503</guid>
-            <pubDate>Tue, 15 Aug 2023 15:06:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国7月份零售销售优于预期，凸显消费者需求有韧性】 美国商务部周二（8月15日）公布的数据显示，7月份整体零售销售额增长0.7%，此前两个月的数据向上修正。该乐观的数据反映了多种类别的销售录得增长，13个零售类别中有9个录得增长，包括体育用品店、服装店、餐馆和酒吧。数据未经通胀调整。最新数据显示，在面临高利率之际，得益于劳动力市场强劲和工资上涨的美国家庭，迄今为止助力经济抵御了衰退。然而，如果通胀压力被证明居高不下，可能迫使美联储采取更激进的政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8117702.d.html</link>
-            <guid>3209502</guid>
-            <pubDate>Tue, 15 Aug 2023 15:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：墨西哥总统洛佩斯将于11月前往旧金山，会见美国总统拜登。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmp7864725.d.html</link>
-            <guid>3209500</guid>
-            <pubDate>Tue, 15 Aug 2023 15:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 证监会同意京仪装备科创板IPO注册 】证监会同意北京京仪自动化装备技术股份有限公司首次公开发行股票并在科创板上市的注册申请。]]></title>
-            <guid>3209499</guid>
-            <pubDate>Tue, 15 Aug 2023 14:58:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【CBOT玉米日内跌幅达2%】CBOT玉米日内跌幅达2%，报477.75美分/蒲式耳。CBOT小麦日内跌幅达2.5%，报598.75美分/蒲式耳。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8116481.d.html</link>
-            <guid>3209498</guid>
-            <pubDate>Tue, 15 Aug 2023 14:57:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西国家石油公司提高汽油价格和柴油价格】巴西国家石油公司将汽油价格上调0.41巴西雷亚尔/升至2.93巴西雷亚尔/升，将柴油价格上调0.78巴西雷亚尔/升至3.80巴西雷亚尔/升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8116468.d.html</link>
-            <guid>3209497</guid>
-            <pubDate>Tue, 15 Aug 2023 14:57:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰至8月15日全球乳制品贸易价格指数 -7.4%，前值-4.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8115809.d.html</link>
-            <guid>3209496</guid>
-            <pubDate>Tue, 15 Aug 2023 14:54:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【誉衡药业：医药行业反腐不会对公司生产经营造成不利影响】誉衡药业8月15日在互动平台表示，公司始终坚守合规经营，医药行业反腐不会对公司生产经营造成不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmv3649855.d.html</link>
-            <guid>3209495</guid>
-            <pubDate>Tue, 15 Aug 2023 14:47:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒天然：8月15日全球乳品贸易拍卖价格指数下降7.4%】恒天然表示，8月15日全球乳品贸易（GDT）拍卖价格指数下降7.4%，奶粉各合同期FAS拍卖均价2,875美元/吨。批发奶粉价格指数下降10.9%，批发奶粉均价2,549美元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4891570.d.html</link>
-            <guid>3209494</guid>
-            <pubDate>Tue, 15 Aug 2023 14:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易商：受政治不确定性影响，阿根廷场外交易债券平均下跌2.3%，国家风险上升50个单位至2138个基点。]]></title>
-            <guid>3209493</guid>
-            <pubDate>Tue, 15 Aug 2023 14:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部：加快构建绿色制造体系和绿色低碳技术支撑体系】工业和信息化部节能与综合利用司副司长丁志军8月15日表示，工业和信息化部将加快构建绿色制造体系和绿色低碳技术支撑体系，推动工业绿色化转型。丁志军说，大力发展环保产业，是推动传统制造业绿色转型升级的重要保障，也是推动战略性新兴产业发展、打造新经济增长点的迫切需要。工业和信息化部定期发布《国家鼓励发展的重大环保技术装备目录》，围绕大气污染防治、水污染防治、土壤污染修复等细分领域，遴选发布了一批重大环保技术装备，加快新技术、新产品、新装备的推广应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmv3649247.d.html</link>
-            <guid>3209492</guid>
-            <pubDate>Tue, 15 Aug 2023 14:44:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通美国国债客户多头占比升至2019年以来新高】摩根大通美国国债客户调查显示，多头占比上升7个百分点，空头上升2个百分点，中性减少9个百分点。所有客户调查显示，多头占比创2019年5月以来新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4890958.d.html</link>
-            <guid>3209491</guid>
-            <pubDate>Tue, 15 Aug 2023 14:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花样年控股：董事会谨此宣布，董事会会议将于二零二三年八月二十五日（星期五）举行，以（其中包括）商讨及酌情批准本集团截至二零二三年六月三十日止六个月之中期业绩及派发中期股息（如有）。]]></title>
-            <guid>3209489</guid>
-            <pubDate>Tue, 15 Aug 2023 14:39:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄财政部：乌拉尔原油均价突破每桶70美元 折扣跌破14美元】俄罗斯卫星通讯社8月15日消息，俄罗斯财政部在Telegram频道发布消息称，7月15日至8月14日，乌拉尔原油均价为每桶70.33美元，俄原油折扣平均为每桶13.9美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmp7860208.d.html</link>
-            <guid>3209485</guid>
-            <pubDate>Tue, 15 Aug 2023 14:32:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：《通胀削减法案》将推动美国清洁能源制造业的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4886770.d.html</link>
-            <guid>3209479</guid>
-            <pubDate>Tue, 15 Aug 2023 14:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世贸组织：印度尼西亚就欧盟进口生物柴油的关税向世贸组织提出申诉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8109046.d.html</link>
-            <guid>3209478</guid>
-            <pubDate>Tue, 15 Aug 2023 14:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国房屋建筑商信心今年首次下滑】美国8月份房屋建筑商信心意外下滑，为今年来首次，原因是高抵押贷款利率令潜在买家望而却步。全美住房建筑商协会（NAHB）主席Alicia Huey表示，抵押贷款利率上升，建筑成本高企，这些都是由于建筑工人的缺乏、可建筑用地的缺乏以及配电变压器的持续短缺造成的，这些因素使8月份建筑商的信心下降。更高的利率也促使更多的建筑商利用销售激励措施来吸引买家，但美国四个主要地区的购房情绪均有所下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4886038.d.html</link>
-            <guid>3209477</guid>
-            <pubDate>Tue, 15 Aug 2023 14:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国官员：苏丹武装冲突已导致超过4000人死亡】联合国人权事务高级专员沃尔克·图尔克表示，苏丹武装冲突爆发至今，已导致至少4000人死亡，其中包括28名人道救援人员和435名儿童。他同时指出，由于冲突激烈，很多遇难者的遗体尚未被收集和辨认，因此很难确定确切的伤亡数字，预计实际伤亡人数要远高于此。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmp7857369.d.html</link>
-            <guid>3209476</guid>
-            <pubDate>Tue, 15 Aug 2023 14:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美凯龙：股东及其一致行动人合计拟减持不超2.9999%公司股份】美凯龙公告，股东及其一致行动人合计拟减持不超2.9999%公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8108550.d.html</link>
-            <guid>3209475</guid>
-            <pubDate>Tue, 15 Aug 2023 14:15:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外汇局：7月份我国外汇市场运行保持理性有序 境内外汇供求保持基本平衡】国家外汇管理局副局长、新闻发言人王春英表示，7月份我国外汇市场运行保持理性有序。7月份，国内基本面预期改善，人民币对美元汇率企稳回升。在此情况下，市场主体“逢低购汇”有所增多，属于正常的理性交易，再加上对外分红派息进入季节性高峰，使得当月银行结售汇呈现小幅逆差。综合考虑其他供求因素，境内外汇供求保持基本平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmv3643166.d.html</link>
-            <guid>3209474</guid>
-            <pubDate>Tue, 15 Aug 2023 14:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中印举行第十九轮军长级会谈】据“国防部发布”，8月13日至14日，中印两军在莫尔多/楚舒勒会晤点印方一侧举行第十九轮军长级会谈。双方围绕解决中印边界西段剩余问题展开积极、深入和建设性沟通。在两国领导人共同指引下，双方以开放性和前瞻性方式交换了意见，同意通过军事和外交渠道保持沟通对话势头，尽快解决剩余问题。在此期间，双方同意维护中印边境和平安宁。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4884232.d.html</link>
-            <guid>3209473</guid>
-            <pubDate>Tue, 15 Aug 2023 14:07:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际移民组织（IOM）：自4月中旬战争爆发以来，据估计已有超过100万人逃离苏丹。]]></title>
-            <guid>3209471</guid>
-            <pubDate>Tue, 15 Aug 2023 14:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[夏威夷电力被标普下调为垃圾股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4883609.d.html</link>
-            <guid>3209470</guid>
-            <pubDate>Tue, 15 Aug 2023 14:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外汇局：7月银行结汇12008亿元人民币 售汇13070亿元人民币】国家外汇管理局统计数据显示，2023年7月，银行结汇12008亿元人民币，售汇13070亿元人民币。2023年1-7月，银行累计结汇90490亿元人民币，累计售汇91408亿元人民币。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4883238.d.html</link>
-            <guid>3209468</guid>
-            <pubDate>Tue, 15 Aug 2023 14:03:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒大汽车：本公司将于2023年8月25日（星期五）举行董事会会议，藉以（其中包括）考虑及批准本公司及其附属公司截至2023年6月30日止六个月之中期业绩。]]></title>
-            <guid>3209467</guid>
-            <pubDate>Tue, 15 Aug 2023 14:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国6月商业库存月率 0%，预期0.10%，前值0.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8105484.d.html</link>
-            <guid>3209466</guid>
-            <pubDate>Tue, 15 Aug 2023 14:00:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月NAHB房产市场指数 50，预期56，前值56。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4882569.d.html</link>
-            <guid>3209465</guid>
-            <pubDate>Tue, 15 Aug 2023 14:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：采取十项举措推动农业灾后恢复生产】农业农村部印发《关于抓好洪涝灾后恢复生产夺取全年粮食和农业丰收的通知》，通知提出，各地围绕灾后生产恢复、稳定粮食和重要农产品生产，一要抓紧抢排田间积水，减轻积水影响；二要抓好灾后田管和改种补种，尽快恢复种植业生产；三要加强灾后动物疫病防控，确保大灾之后无大疫；四要抓好秋粮中后期田间管理，力争非灾区多增产；五要做好灾害防御和病虫害防治，减轻灾害影响，坚决遏制病虫暴发流行；六要搞好蔬菜生产恢复和稳产保供，稳定冬春淡季蔬菜供应；七要加快畜禽养殖生产恢复；八要加快水产养殖恢复，尽快恢复正常养殖秩序；九要搞好水毁农田和农村设施修复，尽快恢复农业生产条件和农村正常生活秩序；十要强化指导服务和支持保障，帮助农民群众解决实际困难和问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmr8105431.d.html</link>
-            <guid>3209464</guid>
-            <pubDate>Tue, 15 Aug 2023 13:59:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTI原油期货失守81美元/桶，日内跌幅1.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4882507.d.html</link>
-            <guid>3209463</guid>
-            <pubDate>Tue, 15 Aug 2023 13:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行副行长Galipolo：巴西央行已就下一步行动达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4882037.d.html</link>
-            <guid>3209462</guid>
-            <pubDate>Tue, 15 Aug 2023 13:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交易员担心美联储维持紧缩政策 金价跌至6月底以来新低】因交易员担心美联储将维持紧缩政策，金价跌至6月底以来新低。美国7月零售销售月率增长超过预期，这表明美国经济能够支持更高的利率，并可能阻止美联储转向更宽松的政策。该报告出炉之际，交易员押注美联储明年及以后才会降息，这支撑了美国国债收益率和美元。Phillip Nova Pte Ltd的分析师Priyanka Sachdeva表示，周二的数据加大了美联储坚持在更长时间内将利率维持在更高水平的可能性。零售销售报告公布后，美元短暂走强，金价一度跌破每盎司1900美元，之后跌幅有所收窄，白银、铂金和钯金价格均下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-15/detail-imzhhzmt4881368.d.html</link>
-            <guid>3209461</guid>
-            <pubDate>Tue, 15 Aug 2023 13:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团外卖在上海发放3000万元超市百货消费券】即日起至8月25日，美团外卖将在上海市商务委指导下，在上海发放约3000万元超市百货消费券。]]></title>
-            <guid>3209459</guid>
-            <pubDate>Tue, 15 Aug 2023 13:46:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
