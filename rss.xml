@@ -4,385 +4,268 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 25 Aug 2023 15:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 18:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【俄联邦侦查委员会：已找到特维尔州坠毁飞机的飞行记录仪】俄罗斯联邦侦查委员会当地时间8月25日发布公告称，俄罗斯联邦侦查委员会侦查总局正在继续调查特维尔州飞机坠毁刑事案件。在初步调查过程中，在坠机现场发现了10具遇难者遗体。目前正在进行生物遗传信息分析，以确定他们的身份。调查人员已找到了飞行记录仪，正在对现场进行详细检查。目前，还留存了与确定坠机情况有关的物品和文件，并将进行必要的物证检查。调查将仔细分析所有可能的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzn0751227.d.html</link>
+            <guid>3220901</guid>
+            <pubDate>Fri, 25 Aug 2023 17:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生物制药公司Catalent设于美国印第安那州的工厂Bloomington将生产诺和诺德开发的减肥药物Wegovy。这是两家公司扩大供应协议的一部分内容。]]></title>
+            <guid>3220899</guid>
+            <pubDate>Fri, 25 Aug 2023 17:50:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：南桑威奇群岛发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimyzt5106416.d.html</link>
+            <guid>3220898</guid>
+            <pubDate>Fri, 25 Aug 2023 17:49:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：在接下来的48小时内，加勒比海西北部地区有40%的可能性会出现气旋。]]></title>
+            <guid>3220897</guid>
+            <pubDate>Fri, 25 Aug 2023 17:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：SpaceX在关键测试中点火启动了“星舰”（Starship）的发动机。]]></title>
+            <guid>3220892</guid>
+            <pubDate>Fri, 25 Aug 2023 17:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委霍尔茨曼：我怀疑欧洲央行将不得不略微提高利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutq0874732.d.html</link>
+            <guid>3220880</guid>
+            <pubDate>Fri, 25 Aug 2023 16:50:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“新美联储通讯社”Nick Timiraos点评鲍威尔在杰克逊霍尔年会的讲话：“仔细”，鲍威尔的讲话是一种风险管理模式的讲话；鉴于迄今所取得的进展，且FOMC即将在9月中旬举行新一轮货币政策会议，美联储有必要仔细地表态。]]></title>
+            <guid>3220879</guid>
+            <pubDate>Fri, 25 Aug 2023 16:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：愿意耐心地将通胀率恢复到2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5224496.d.html</link>
+            <guid>3220878</guid>
+            <pubDate>Fri, 25 Aug 2023 16:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：不希望在当前周期改变美联储的2%通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5224387.d.html</link>
+            <guid>3220877</guid>
+            <pubDate>Fri, 25 Aug 2023 16:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：尚未看到消费支出恶化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutt8446974.d.html</link>
+            <guid>3220875</guid>
+            <pubDate>Fri, 25 Aug 2023 16:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：有趣的是消费者很好地经受住了美联储加息的考验。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5224080.d.html</link>
+            <guid>3220874</guid>
+            <pubDate>Fri, 25 Aug 2023 16:41:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：GDP预测表明经济增长可能正在加速。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutr6196259.d.html</link>
+            <guid>3220873</guid>
+            <pubDate>Fri, 25 Aug 2023 16:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：债券收益率上升可能对经济而言并非是问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223708.d.html</link>
+            <guid>3220872</guid>
+            <pubDate>Fri, 25 Aug 2023 16:39:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：信贷紧缩的情况确实存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223546.d.html</link>
+            <guid>3220871</guid>
+            <pubDate>Fri, 25 Aug 2023 16:38:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：目前还没有看到银行业问题对经济造成太大拖累。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223535.d.html</link>
+            <guid>3220870</guid>
+            <pubDate>Fri, 25 Aug 2023 16:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：美联储现在宣布“任务完成”还为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutt8446387.d.html</link>
+            <guid>3220869</guid>
+            <pubDate>Fri, 25 Aug 2023 16:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：鲍威尔在杰克逊霍尔的演讲中“恰如其分地保持冷静”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223356.d.html</link>
+            <guid>3220868</guid>
+            <pubDate>Fri, 25 Aug 2023 16:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：美联储争论的焦点转向维持利率多久，而不是否再次加息。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223290.d.html</link>
+            <guid>3220867</guid>
+            <pubDate>Fri, 25 Aug 2023 16:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：我不喜欢猜测美联储即将采取的行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutt8445951.d.html</link>
+            <guid>3220865</guid>
+            <pubDate>Fri, 25 Aug 2023 16:35:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：在不引发经济衰退的情况下控制通胀将是一项重大胜利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5223049.d.html</link>
+            <guid>3220864</guid>
+            <pubDate>Fri, 25 Aug 2023 16:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：仍然认为有实现软着陆的途径。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5222771.d.html</link>
+            <guid>3220863</guid>
+            <pubDate>Fri, 25 Aug 2023 16:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国前财长萨默斯：美联储可能还需加息至少一次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutv5222005.d.html</link>
+            <guid>3220862</guid>
+            <pubDate>Fri, 25 Aug 2023 16:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉：巴西必须使与安哥拉的贸易多样化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutq0871874.d.html</link>
+            <guid>3220861</guid>
+            <pubDate>Fri, 25 Aug 2023 16:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西代理总统幕僚长Padilha：内阁改组将帮助政府通过国会实现其优先事项。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-26/detail-imzimutt8443593.d.html</link>
+            <guid>3220860</guid>
+            <pubDate>Fri, 25 Aug 2023 16:25:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西代理总统幕僚长Padilha：巴西总统卢拉将在从非洲之行回来后改组内阁，但确切日期尚未确定。]]></title>
+            <guid>3220856</guid>
+            <pubDate>Fri, 25 Aug 2023 16:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东欧五国提出将对乌农产品禁令延长至年底】波兰农业部长泰卢斯当地时间8月25日在与保加利亚、匈牙利、罗马尼亚和斯洛伐克四国农业部长会晤后宣布，五国已就乌克兰农产品问题达成一致立场，其中包括三个要点：一是建议将乌克兰农产品进口禁令延长至今年年底，二是为粮食过境提供补贴，三是使被禁产品清单更加灵活。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5214201.d.html</link>
+            <guid>3220854</guid>
+            <pubDate>Fri, 25 Aug 2023 15:59:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国8月份消费者信心出现小幅下滑，消费者对未来前景持怀疑态度】美国消费者认为，过去三个月经济的快速好转已经放缓，尤其是在通胀方面，他们对未来的前景持怀疑态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5213972.d.html</link>
+            <guid>3220853</guid>
+            <pubDate>Fri, 25 Aug 2023 15:56:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团考虑自收购瑞士信贷以来首次发行AT1债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5213502.d.html</link>
+            <guid>3220841</guid>
+            <pubDate>Fri, 25 Aug 2023 15:51:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储梅斯特：我们需要看到更多证据表明通胀正在降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8434240.d.html</link>
+            <guid>3220835</guid>
+            <pubDate>Fri, 25 Aug 2023 15:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[黑莓ADR上涨13%，触发盘中临时停牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5210813.d.html</link>
+            <guid>3220832</guid>
+            <pubDate>Fri, 25 Aug 2023 15:33:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储哈克：我们显然会维持利率水平不变，直至年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8433614.d.html</link>
+            <guid>3220831</guid>
+            <pubDate>Fri, 25 Aug 2023 15:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储哈克：地区联储表示需要时间来吸收加息的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8433603.d.html</link>
+            <guid>3220830</guid>
+            <pubDate>Fri, 25 Aug 2023 15:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国费城联储主席哈克：FOMC在9月政策会议上的行动将由数据决定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5210399.d.html</link>
+            <guid>3220829</guid>
+            <pubDate>Fri, 25 Aug 2023 15:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因文物被盗 大英博物馆馆长辞职】据英国媒体报道，因此前发生的文物被盗事件，当地时间8月25日，大英博物馆馆长哈特维希·菲舍尔宣布辞职。（央视新闻）]]></title>
+            <guid>3220825</guid>
+            <pubDate>Fri, 25 Aug 2023 15:25:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海航交所：本周中国出口集装箱运输市场基本保持稳定】据上海航运交易所消息，本周，中国出口集装箱运输市场基本保持稳定，运输需求略显不足，不同航线运价互有涨跌，综合指数小幅下跌。欧洲航线，运输需求增长乏力，供需市场仍表现为供大于求，市场运价继续下跌。北美航线，运输需求维持稳定，供需基本面保持平衡，运价小幅波动。波斯湾航线，运输需求增长放缓，供需基本面维持良好态势，市场运价小幅增长。澳新航线，市场需求呈现快速增长趋势，供求关系稳中向好，市场运价大幅上涨。运输需求缺乏增长动力，供需基本面不理想，即期订舱价继续下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5209350.d.html</link>
+            <guid>3220824</guid>
+            <pubDate>Fri, 25 Aug 2023 15:24:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8月25日欧盘美盘重要新闻汇总
+国内新闻：
+1.李强召开国务院常务会议，会议审议通过《医药工业高质量发展行动计划》、《医疗装备产业高质量发展行动计划》和《关于规划建设保障性住房的指导意见》。
+2. 住建部等三部门推动落实购买首套房贷款“认房不用认贷”政策措施。
+3. 工信部多部门印发《钢铁行业稳增长工作方案》、《建材行业稳增长工作方案的通知》、《有色金属行业稳增长工作方案》、《石化化工行业稳增长工作方案》
+4. 财政部、税务总局：继续实施银行业金融机构、金融资产管理公司不良债权以物抵债有关税收政策。
+5. 国防部回应美对台军售：“以台制华”注定失败，“以武谋独”死路一条。
+6. 浙江嘉兴全面取消限购限售，指导商业银行有序调整个人住房贷款利率。
+7. 中国盐业协会：我国食盐保障充足，不需要囤盐。我国河南叶县岩盐储量3300亿吨，可供应全国人民吃33000年。
+8. 浙江卫视暂停播出《中国好声音》节目；星空华文(06698.HK)表示全力支持浙江卫视的决定，并提供一切必要协助。
+9. 中国恒大(03333.HK)：本公司已向联交所申请由2023年8月28日上午9时正起恢复买卖本公司股份。
+国际新闻：
+1. 美联储主席鲍威尔：如果合适，美联储准备进一步提高利率，将谨慎地决定是否再次加息；2%仍是并将继续是我们的通胀目标。美联储哈克：重申目前不认为需要进一步加息；如果通胀停止下降，可能需要加息；必须将通胀率降至2％，预计最早明年才会降息。
+2. 缅甸官员：缅甸计划在8月底开始实施为期45天的大米出口限制。
+3. 市场消息：土耳其寻求与伊拉克达成收入分享协议以重新启动石油出口。
+4. 美国官员私下表示，他们已经放松了对伊朗石油的态度。]]></title>
+            <guid>3220822</guid>
+            <pubDate>Fri, 25 Aug 2023 15:21:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[荷兰国际全球宏观经济主管Carsten Brzeski：鲍威尔的讲话都在预期范围内，我认为其发言并不过于鸽派；9月份美联储可能会暂停加息，但这并不是正式结束加息，这是鲍威尔在当前形势下所能做的最好的事情。]]></title>
+            <guid>3220820</guid>
+            <pubDate>Fri, 25 Aug 2023 15:20:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国—东盟产业合作区电子信息产业推介会在广西南宁举行】中国—东盟产业合作区电子信息产业推介会8月25日在广西南宁举行，推动广西电子信息产业高质量发展。启动区总规划面积约80平方公里，重点发展电子信息、新能源汽车及零部件、石化化工、装备制造、金属新材料、纺织服装、家电家居、玩具饰品、商贸物流等产业。广西将聚焦中国—东盟产业合作区建设，加快打造国内国际双循环市场经营便利地，构筑高水平开放新高地。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8431146.d.html</link>
+            <guid>3220819</guid>
+            <pubDate>Fri, 25 Aug 2023 15:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国一军用飞机在加州坠毁】当地时间8月25日，美国一架F/A-18战斗攻击机在加利福尼亚州圣迭戈县米拉马海军陆战队航空基地附近执行训练飞行任务时坠毁。 目前尚不清楚事故原因，也不清楚坠毁飞机上飞行员的状况以及机上是否还有其他人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8430658.d.html</link>
+            <guid>3220817</guid>
+            <pubDate>Fri, 25 Aug 2023 15:15:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白俄罗斯总统：瓦格纳组织会继续留在白俄罗斯】当地时间8月25日，白俄罗斯总统卢卡申科表示，瓦格纳组织会继续留在白俄罗斯。（央视新闻）]]></title>
+            <guid>3220816</guid>
+            <pubDate>Fri, 25 Aug 2023 15:15:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【正荣地产：上半年交付2.09万套新房，收益同比增长约44%，合约负债超631亿元】正荣地产联交所公告，截至6月30日止六个月，本集团坚决履行保交付责任，实现了20,900余套新房的交付；收益较2022年同期增加43.8%至人民币185.01亿元；及母公司拥有人应占亏损同比收窄43.9%至人民币14.643亿元。截至6月30日止六个月，本集团连同合营企业及联营公司录得合约销售金额人民币96.81亿元。于6月30日，合约负债（即预收销售款）为人民币631.736亿元。于6月30日，本集团连同合营企业及联营公司拥有建筑面积1660万平方米的土地储备。本公司正与债权人特别小组积极讨论其境外整体债务管理建议方案的主要条款，并致力于在切实可行情况下尽快与债权人特别小组就该等主要条款达成共识。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5207265.d.html</link>
+            <guid>3220814</guid>
+            <pubDate>Fri, 25 Aug 2023 15:12:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美联储哈克：如果通胀回落进程停滞不前，可能会呼吁加息。]]></title>
             <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutr6182677.d.html</link>
             <guid>3220806</guid>
             <pubDate>Fri, 25 Aug 2023 15:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳市政府与中国汽车技术研究中心签署战略合作协议】8月25日，深圳市政府与中国汽车技术研究中心有限公司签署战略合作协议。双方将在汽车产业生态建设、关键技术突破、国际标准推动、大数据应用及数字化转型等重点领域开展务实合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8428134.d.html</link>
-            <guid>3220801</guid>
-            <pubDate>Fri, 25 Aug 2023 15:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厦门要求不得哄抬盐价】厦门市市场监督管理局郑重提醒告诫：不得捏造、散布涨价信息，不得囤积居奇、哄抬物价，不得利用其他手段推动食盐等重要民生商品价格过快、过高上涨，违者最高可处300万元的罚款。不得串通、操纵市场价格，造成食盐等重要民生商品价格较大幅度上涨，违者最高可处500万元的罚款。不得利用虚假或引人误解的价格手段，诱骗消费者进行交易，违者最高可处50万元的罚款。应按规定明码标价，不得在标价之外加价出售商品，不得收取任何未予标明的费用，违者最高可处5000元的罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutt8428052.d.html</link>
-            <guid>3220800</guid>
-            <pubDate>Fri, 25 Aug 2023 15:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江苏宁沪高速公路(00177)：戴倩辞任财务总监】江苏宁沪高速公路(00177)发布公告，公司董事会于8月24日收到财务总监戴倩的辞任函。戴倩因工作变动，申请辞去公司财务总监职务。戴倩辞去职务自辞职申请送达公司董事会时生效。辞任后，戴倩不再担任公司任何职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimutv5205057.d.html</link>
-            <guid>3220799</guid>
-            <pubDate>Fri, 25 Aug 2023 14:59:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国汽车工人联合会（UAW）称，授权工会工人在一旦劳资谈判破裂后，最早从9月15日开始罢工。]]></title>
-            <guid>3220798</guid>
-            <pubDate>Fri, 25 Aug 2023 14:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深业物业运营集团股份有限公司向港交所提交IPO申请】据港交所文件：深业物业运营集团股份有限公司向港交所提交IPO申请，联席保荐人为中金、中信与建银国际。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8555805.d.html</link>
-            <guid>3220788</guid>
-            <pubDate>Fri, 25 Aug 2023 14:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天聚地合(苏州)科技股份有限公司向港交所提交上市申请书】据港交所文件：天聚地合(苏州)科技股份有限公司向港交所提交上市申请书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8555778.d.html</link>
-            <guid>3220787</guid>
-            <pubDate>Fri, 25 Aug 2023 14:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车发布半年报，期内降债431亿】恒大汽车于8月25日晚间发布半年报，期内亏损亏损68.7亿元，不过属于汽车业务的经营性亏损仅20.9亿元，其中还包含5.1亿元的借款利息。公告显示，期内恒大汽车完成地产业务剥离，降低净负债431亿元。从公告看，截至6月30日，恒大汽车总资产约为人民币428.52亿元，负债756.92亿元。接下来，恒大汽车还将通过债转股减债173亿元。在债转股完成后，恒大汽车也将完成化债工作，解决“资不抵债”的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5332875.d.html</link>
-            <guid>3220785</guid>
-            <pubDate>Fri, 25 Aug 2023 14:45:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国消费者对未来一年通胀率的预期上升，因汽油价格上涨】由于汽油价格上涨，美国消费者对未来一年通胀的预期在8月份升至三个月高位。周五（8月25日）公布的密歇根大学8月调查终值显示，美国消费者预计未来一年价格将上涨3.5%，高于7月份3.4%的预期涨幅。消费者预计，未来5-10年物价将年均上涨3%，与前两个月持平。调查主管Joanne Hsu在声明中称：“虽然消费者指出通胀率远未达到去年夏天的高点，但他们的观点仍继续受到高物价的影响。”报告显示，“自发地”提到月底高油价的消费者占比上升。然而，他们预计未来一年汽油价格不会出现更大幅度的上涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5332067.d.html</link>
-            <guid>3220783</guid>
-            <pubDate>Fri, 25 Aug 2023 14:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特锐德：上半年净利润9409.09万元 同比增123.88%】特锐德披露半年报，上半年实现营业收入56.07亿元，同比（调整后）增长24.63%；净利润9409.09万元，同比增长123.88%；基本每股收益0.09元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5330349.d.html</link>
-            <guid>3220776</guid>
-            <pubDate>Fri, 25 Aug 2023 14:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一图看懂日本核污染水排海危害】数据显示，福岛核污染水中包含60余种放射性核素，其中部分核素尚无有效处理技术。这些放射性核素可能通过饮食、呼吸进入人体，存在引发白血病、肿瘤等的风险，所谓处理过的核污染水也仍有危险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5330341.d.html</link>
-            <guid>3220775</guid>
-            <pubDate>Fri, 25 Aug 2023 14:34:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【电影《孤注一掷》票房突破32亿】据灯塔专业版实时数据，截至8月25日22时0分，影片《孤注一掷》票房突破32亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5329350.d.html</link>
-            <guid>3220772</guid>
-            <pubDate>Fri, 25 Aug 2023 14:31:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金短线回落近10美元，现报1912.49美元/盎司；现货白银短线回落0.16美元，现报24.11美元/盎司。]]></title>
-            <guid>3220770</guid>
-            <pubDate>Fri, 25 Aug 2023 14:26:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天海防务：对全资子公司大津重工增资约2.73亿元】天海防务公告，公司拟以自有资金人民币27,272.7273万元对全资子公司江苏大津重工有限公司进行增资。本次增资完成后，大津重工的注册资本由人民币22,727.2727万元增至人民币50,000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5327054.d.html</link>
-            <guid>3220768</guid>
-            <pubDate>Fri, 25 Aug 2023 14:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深圳证券交易所就此前颁布的《上市公司股东及董事、监事、高级管理人员减持股份实施细则》适用问题进行解答时表示，董监高因离婚分割股份后进行减持的，股份过出方、过入方在该董监高任职期间每年转让的股份不得超过其各自所持有的本公司股份总数的25%，并分别履行董监高通过集中竞价交易减持的预披露义务。]]></title>
-            <guid>3220767</guid>
-            <pubDate>Fri, 25 Aug 2023 14:20:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨幅扩大至1.00%，现报24.38美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmt6303802.d.html</link>
-            <guid>3220766</guid>
-            <pubDate>Fri, 25 Aug 2023 14:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储利率掉期仍定价11月加息25个基点的可能性为60%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8548605.d.html</link>
-            <guid>3220765</guid>
-            <pubDate>Fri, 25 Aug 2023 14:17:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲍威尔：对于是否再次加息，我们将谨慎行事】美联储主席鲍威尔警告称，过去的加息尚未完全减缓经济增长，这是目前维持利率不变的理由，尽管更强劲、持续的增长可能需要更高的利率来保持通胀下降。鲍威尔表示，我们将谨慎行事，决定是进一步收紧货币政策，还是保持政策利率不变，等待进一步的数据。鲍威尔的讲话表明，他正在努力在减缓招聘、投资和支出之间找到一条缝，以降低通胀，同时又不采取太多限制措施，以免造成不必要的严重经济放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmt6303500.d.html</link>
-            <guid>3220763</guid>
-            <pubDate>Fri, 25 Aug 2023 14:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华友钴业与淡水河谷印尼签署确定性合作协议】8月25日，华友钴业与淡水河谷印尼公司(PT Vale Indonesia），在印尼雅加达签署《确定性合作协议》。该项目计划于2027年初投入运营，年产量目标为6万吨粗制氢氧化镍钴（MHP）产品，用于生产电动汽车电池。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0980482.d.html</link>
-            <guid>3220762</guid>
-            <pubDate>Fri, 25 Aug 2023 14:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿里云9月1日起调整.COM域名价格】8月25日，据阿里云域名调价通知，因.com注册局成本上调和汇率因素影响，经慎重考虑，现决定于2023年9月1日零时，.com英文域名调整为：首年注册价格78元，续费价格85元，转入价格75元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8547994.d.html</link>
-            <guid>3220761</guid>
-            <pubDate>Fri, 25 Aug 2023 14:14:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[利率掉期市场保持稳定，交易员认为美联储九月加息25个基点的概率约为20%。]]></title>
-            <guid>3220760</guid>
-            <pubDate>Fri, 25 Aug 2023 14:14:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豪江智能：对外投资设立五家境外全资子公司】豪江智能公告，拟以自有资金分别在英属维尔京群岛设立境外全资子公司RICHMAT INTERNATIONAL CO., LIMITED、在中国香港设立境外全资子公司HAOJIANG (HONG KONG) CO., LIMITED、在新加坡设立境外全资子公司HAOJIANG (SINGAPORE) PTE. LTD. 、在中国香港设立境外全资子公司RICHMAT TRADING CO., LIMITED及在泰国设立境外全资子公司HAOJIANG(THAILAND) CO., LIMITED（上述皆为暂定名，最终以当地相关部门最终核准结果为准）。本次投资为货币出资，拟投资金额为：拟新设泰国子公司HAOJIANG(THAILAND) CO., LIMITED（暂定名）认缴注册资本为2000万美元，其余四家拟新设子公司认缴注册资本各1万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8547753.d.html</link>
-            <guid>3220759</guid>
-            <pubDate>Fri, 25 Aug 2023 14:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构评鲍威尔讲话：风险管理现在“至关重要”】美联储主席鲍威尔表示，政策已转向更加审慎的阶段，风险管理现在“至关重要”。他指出，经济降温的速度可能没有预期的那么快，他说，最近的经济产出和消费者支出数据一直很强劲。第二季度美国经济年化增长率为2.4%，这一出人意料的强劲数据促使许多经济学家上调了对第三季度的预测，并重新考虑经济衰退的可能性。鲍威尔说：“持续高于趋势的经济增长的更多证据可能会使通胀面临进一步的风险，并可能证明进一步收紧货币政策是合理的。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5324868.d.html</link>
-            <guid>3220758</guid>
-            <pubDate>Fri, 25 Aug 2023 14:13:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY下挫后回升，现报104.04，基本抹去美联储主席鲍威尔讲话以来的跌幅。]]></title>
-            <guid>3220756</guid>
-            <pubDate>Fri, 25 Aug 2023 14:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【鲍威尔：美联储将在必要时加息，以保持紧缩政策】美联储主席鲍威尔周五表示，如果有必要，美联储随时准备进一步提高利率，因为在降低通胀方面取得的进展虽然令人鼓舞，但还远远没有完成。要恢复价格稳定，还有相当长的路要走。鲍威尔表示，他很高兴看到通胀下降，但他还没有完全相信价格压力会持续下降到美联储2%的目标，特别是因为不包括食品和能源价格的通胀仍然是目标的两倍多。鲍威尔还表示，他无意改变美联储的通胀目标，2%是美联储的通胀目标，而且将继续如此。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8547138.d.html</link>
-            <guid>3220755</guid>
-            <pubDate>Fri, 25 Aug 2023 14:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔讲话后，美国2年期和10年期收益率曲线倒挂幅度收窄至79.9个基点。]]></title>
-            <guid>3220754</guid>
-            <pubDate>Fri, 25 Aug 2023 14:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：两个月的良好数据只是我们建立对通胀回落的信心的开始。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8546640.d.html</link>
-            <guid>3220753</guid>
-            <pubDate>Fri, 25 Aug 2023 14:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储联邦基金利率期货在美联储主席鲍威尔讲话后稍微降低了对美联储在11月和12月加息的押注。]]></title>
-            <guid>3220752</guid>
-            <pubDate>Fri, 25 Aug 2023 14:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：美联储会关注经济未按预期降温的迹象。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8546178.d.html</link>
-            <guid>3220750</guid>
-            <pubDate>Fri, 25 Aug 2023 14:06:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：从过去的加息来看，可能仍会（对经济）有明显的进一步拖累。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5323109.d.html</link>
-            <guid>3220749</guid>
-            <pubDate>Fri, 25 Aug 2023 14:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：我们无法准确地确定中性利率的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5323073.d.html</link>
-            <guid>3220748</guid>
-            <pubDate>Fri, 25 Aug 2023 14:05:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银短线走高0.2美元，现报24.35美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5323019.d.html</link>
-            <guid>3220747</guid>
-            <pubDate>Fri, 25 Aug 2023 14:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：如果劳动力市场没有放缓，我们将用货币政策作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5322957.d.html</link>
-            <guid>3220745</guid>
-            <pubDate>Fri, 25 Aug 2023 14:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：如果合适，美联储准备进一步提高利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0977978.d.html</link>
-            <guid>3220743</guid>
-            <pubDate>Fri, 25 Aug 2023 14:03:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：实际利率为正值，远高于大多数中性预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0977886.d.html</link>
-            <guid>3220742</guid>
-            <pubDate>Fri, 25 Aug 2023 14:03:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：在通胀持续放缓之前，将采取限制性政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0977787.d.html</link>
-            <guid>3220740</guid>
-            <pubDate>Fri, 25 Aug 2023 14:03:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储主席鲍威尔：我们将谨慎地决定是否再次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5322316.d.html</link>
-            <guid>3220739</guid>
-            <pubDate>Fri, 25 Aug 2023 14:03:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月密歇根大学消费者信心指数终值 69.5，预期71.2，前值71.2。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmt6299828.d.html</link>
-            <guid>3220737</guid>
-            <pubDate>Fri, 25 Aug 2023 14:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月一年期通胀率预期 3.5%，预期3.30%，前值3.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0977031.d.html</link>
-            <guid>3220736</guid>
-            <pubDate>Fri, 25 Aug 2023 14:00:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【保释后，特朗普讲述自首经历：对拍嫌犯大头照感到不舒服】 据美国《国会山报》24日报道，当天早些时候前往佐治亚州富尔顿县监狱自首的美国前总统特朗普，在被保释后接受美国福克斯新闻和Newsmax新闻网站的采访，其间他讲述了刚刚体验的“糟糕经历”，并称对拍嫌犯大头照感到不舒服，指责指控他的人试图让他精疲力尽。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8543628.d.html</link>
-            <guid>3220735</guid>
-            <pubDate>Fri, 25 Aug 2023 13:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄媒：克宫称尚无普里戈任死亡确凿证据，需要DNA检测确认】 据塔斯社25日报道，针对23日发生的“普里戈任坠机事件”，克宫发言人佩斯科夫表示，尚无普里戈任死亡确凿证据，死亡只能通过DNA检测来确认，但目前尚无法进行。“如果你认真听了俄罗斯总统昨天的声明，他说现在正在进行包括DNA检测在内的所有必要检查。目前还没有任何官方结果。一旦准备好发布，结果会发布的。”被问及克宫是否已正式确认普里戈任的死讯时，佩斯科夫这样对记者说。他还表示，此次飞机坠毁原因调查也是同理。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5320732.d.html</link>
-            <guid>3220734</guid>
-            <pubDate>Fri, 25 Aug 2023 13:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【原油价格上涨可能给石油类股带来必要的提振】今年对许多石油公司的股价来说并不是那么好，埃克森美孚、EOG和康菲石油等公司的股价自1月1日以来几乎没有变化，而雪佛龙和Equinor等其他公司的股价年初以来则有所下跌。但Tudor Pickering分析师马特•波蒂略表示，随着原油价格上涨，未来12个月可以对该行业持“建设性”态度。Portillo表示：“我们认为，沙特‘棒棒糖’减产和强劲的需求增长将推动布伦特原油价格在2024年升至接近90美元/桶。”他特别指出，全球汽油、航空燃料和石化产品的消费将更加强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8543022.d.html</link>
-            <guid>3220733</guid>
-            <pubDate>Fri, 25 Aug 2023 13:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荣盛石化：上半年净亏损11.27亿元，上年同期盈利53.67亿元】荣盛石化报告，上半年实现营业收入1545.25亿元，同比增长4.67%；归属于上市公司股东的净利润为-11.27亿元，上年同期为53.67亿元；基本每股收益为-0.11元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8537470.d.html</link>
-            <guid>3220731</guid>
-            <pubDate>Fri, 25 Aug 2023 13:33:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公募基金管理规模达28.80万亿 创历史新高】中基协公布的最新数据显示，截至2023年7月底，我国境内共有基金管理公司144家，其中，外商投资基金管理公司48家（包括中外合资和外商独资），内资基金管理公司96家；取得公募基金管理资格的证券公司或证券公司资产管理子公司12家、保险资产管理公司1家。以上机构管理的公募基金资产净值合计28.80万亿元，这一数据创下了历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8537146.d.html</link>
-            <guid>3220730</guid>
-            <pubDate>Fri, 25 Aug 2023 13:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【越南电动汽车生产商VinFast Auto开涨14%】越南电动汽车生产商VinFast Auto开涨14%，昨日收涨超30%并创收盘新高，市值达1140亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5314062.d.html</link>
-            <guid>3220729</guid>
-            <pubDate>Fri, 25 Aug 2023 13:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WeWork(WE.N)开盘震荡，现全部抹去开盘近2%的跌幅，涨0.36%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5313942.d.html</link>
-            <guid>3220728</guid>
-            <pubDate>Fri, 25 Aug 2023 13:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格力地产：上半年转亏2.12亿元，房地产和渔获业务减少】格力地产公告，上半年公司实现营业收入18.55亿元，同比下降13.89%；实现归属于上市公司股东的净利润-2.12亿元，上年同期为9590.82万元；基本每股收益-0.11元。报告期内，房地产和渔获业务减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5313571.d.html</link>
-            <guid>3220726</guid>
-            <pubDate>Fri, 25 Aug 2023 13:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所将发布深证智能电网指数 助力现代能源体系转型】深交所全资子公司深圳证券信息有限公司公告称，将于8月30日发布深证智能电网指数，反映深市智能电网上市公司的整体表现，引导市场资源优化配置，助力现代能源体系转型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5313160.d.html</link>
-            <guid>3220724</guid>
-            <pubDate>Fri, 25 Aug 2023 13:28:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蚂蚁基金上半年营业收入增长17.52%】 恒生电子发布2023年半年报，其参股的蚂蚁基金业绩也浮出水面。数据显示，蚂蚁基金2023年上半年营业收入为63.43亿元，相较去年同期的53.97亿元增长17.52%；净利润为2.97亿元，较去年同期的0.83亿元增长258%。]]></title>
-            <guid>3220723</guid>
-            <pubDate>Fri, 25 Aug 2023 13:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根士丹利：市场对英伟达的反应表明美国股市涨势】摩根士丹利策略师Michael Wilson表示，尽管英伟达(NVDA.O)公布的财报超预期，但周四美国股市下跌表明，今年市场的上涨动力已经“耗尽”，未来还会走低。最近承认对2023年美国股市的展望过于悲观的Wilson说，市场对芯片制造商英伟达井喷般前景展望的反应，是市场见顶的完美指标。标普500指数周四开盘上涨，但收盘下跌1.4%，创下三周来最大跌幅，因为债券收益率上升盖过了围绕人工智能的热情。美国银行策略师Michael Hartnett也认为随着长期高利率和央行流动性减弱的影响变得更加明显，人工智能对股市的提振在2023年下半年将消退。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5311807.d.html</link>
-            <guid>3220722</guid>
-            <pubDate>Fri, 25 Aug 2023 13:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳门：食盐存量与货源均充足 无需过量采购】澳门消费者委员会与经济及科技发展局表示，澳门食盐存量与货源均充足，呼吁市民无需过量采购，将持续密切关注市面情况，加强巡查，严防抬价，并会与供应及零售商保持密切沟通，要求确保澳门食盐供应维持稳定。为确保食盐供应与价格稳定，严防可能出现的违规行为，消委会及经科局从速加派人员到各区商号巡查，提醒商号恪守法律，保持物价稳定，并敦促超市等零售商号留意食盐的销情，及时补货以及加快上架，商号回应积极，呼吁消费者配合，供应情况亦已回复稳定，并表示食盐存货与货源都十分充足。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8533480.d.html</link>
-            <guid>3220721</guid>
-            <pubDate>Fri, 25 Aug 2023 13:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南京五批供地：12宗地收金约175亿元，其中2宗触顶待摇号】据新京报，8月25日，南京举行今年五批次供地。据中指研究院统计，南京此次出让12宗涉宅地块，全部成交，收金约175.2亿元，平均溢价率2.55%。其中，2宗地块触顶待摇号，10宗地块底价成交。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0967163.d.html</link>
-            <guid>3220720</guid>
-            <pubDate>Fri, 25 Aug 2023 13:18:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新炬网络：上半年净利2523.16万元 同比增长12.23%】新炬网络发布半年报，上半年实现营业收入约2.96亿元，同比增长4.71%；净利润约2523.16万元，同比增长12.23%；基本每股收益0.22元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5309545.d.html</link>
-            <guid>3220719</guid>
-            <pubDate>Fri, 25 Aug 2023 13:15:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兖矿能源：上半年净利润102.1亿元 同比下降43.39%】兖矿能源公告，上半年实现营业收入约844.01亿元，同比下降15.84%；净利润约102.1亿元，同比下降43.39%；基本每股收益2.09元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8532074.d.html</link>
-            <guid>3220718</guid>
-            <pubDate>Fri, 25 Aug 2023 13:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉利汽车：接获中国证监会有关建议分拆极氪并将其独立上市之境外发行上市备案通知书。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8531805.d.html</link>
-            <guid>3220717</guid>
-            <pubDate>Fri, 25 Aug 2023 13:13:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【白俄罗斯总统：瓦格纳组织会继续留在白俄罗斯】白俄罗斯总统卢卡申科当地时间8月25日表示，瓦格纳组织会继续留在白俄罗斯。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8531694.d.html</link>
-            <guid>3220716</guid>
-            <pubDate>Fri, 25 Aug 2023 13:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太平人寿程永红：已完成预定利率转换，需两个月恢复期】中国太平保险控股有限公司(下称“中国太平”)2023年中期业绩会在香港召开。中国太平管理层就人力发展以及下半年业务发展等问题回应。程永红表示，当公司在3月接到市场预定利率即将调整的信息后，展望了整个世界保险行业在利率调整波动期间的应对举措，通过亚洲地区乃至欧美地区的过往发展经验来看，当利率下调时，整个业务的恢复期是两个月。对于公司而言，努力要做的是把这两个月的恢复期缩短，同时在这两个月的恢复期中做更多有利于未来发展的事情。（中新经纬）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqms0965559.d.html</link>
-            <guid>3220715</guid>
-            <pubDate>Fri, 25 Aug 2023 13:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国恒大(03333.HK)：“20恒大04”债券存续期前3年票面利率为5.80%，在本期债券的第3年末，本公司选择不调整本期债券票面利率，即本期债券存续期后2年票面利率为5.80%。]]></title>
-            <guid>3220714</guid>
-            <pubDate>Fri, 25 Aug 2023 13:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙佰集团：上半年净利润12.62亿元 同比下降44.31%】龙佰集团披露半年报，公司上半年实现营业收入132.48亿元，同比增长6.84%；净利润12.62亿元，同比下降44.31%；基本每股收益0.53元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmt6286831.d.html</link>
-            <guid>3220713</guid>
-            <pubDate>Fri, 25 Aug 2023 13:06:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【莱宝高科：上半年净利润1.97亿元 同比下降19.59%】莱宝高科披露半年报，公司上半年实现营业收入27.56亿元，同比下降23.12%；净利润1.97亿元，同比下降19.59%；基本每股收益0.28元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmt6286544.d.html</link>
-            <guid>3220712</guid>
-            <pubDate>Fri, 25 Aug 2023 13:05:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【林洋能源：拟合计约1.29亿元转让下属12家子公司100%股权】林洋能源公告，全资子公司江苏林洋新能源和安徽林洋新能源拟分别将其持有的2个子公司和12个子公司的100%股权，转让给安徽电投新拓能源发展有限公司，转让对价分别约2906.94万元和1亿元，涉及装机容量合计约60MW，交易涉及部分公司第一次非公开发行股票和公开发行可转债募投项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5306396.d.html</link>
-            <guid>3220711</guid>
-            <pubDate>Fri, 25 Aug 2023 13:03:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[燃油主力合约日内涨幅达2.00%，现报3603.00元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8528934.d.html</link>
-            <guid>3220710</guid>
-            <pubDate>Fri, 25 Aug 2023 13:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内首个汽车企业数字化转型路线图在津发布】据新华社，8月24日，由中央汽车企业数字化转型协同创新平台组织举办的国有汽车企业数字化转型工作推进会在中汽研新能源汽车检验中心（天津）有限公司举行。会议以“数字车企·智领未来”为主题，围绕数字化转型热点话题展开交流，并发布国内首个汽车企业数字化转型路线图，助力国有汽车及零部件企业数字化转型高质量发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmv8528325.d.html</link>
-            <guid>3220709</guid>
-            <pubDate>Fri, 25 Aug 2023 13:00:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金枪鱼价格一天跌掉逾两成 日本渔业深受重创】日本决定将福岛核污水排入太平洋后，其水产品遭禁，日本渔业因此受到价格大跌和不确定性升温的冲击。根据东京都中央批发市场网站发布的数据，8月25日丰洲市场新鲜青森金枪鱼均价较上一交易日下跌了24%，至每公斤9383日元。一家北海道公司的一位匿名知情人士称，公司解决财务问题之际，计划关门歇业，并裁撤其20名员工。在长崎县养殖和加工鰤鱼和金枪鱼的Hashiguchi Suisan的一位代表表示，该公司出口总量中大约十分之一销往中国，而最新的举措将会导致数亿日元的销售损失。他希望，日本政府考虑补偿渔民的养殖和其他相关费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-08-25/detail-imzimqmx5305287.d.html</link>
-            <guid>3220707</guid>
-            <pubDate>Fri, 25 Aug 2023 13:00:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
