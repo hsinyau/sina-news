@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 02 Sep 2023 18:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 21:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【世界旅游：全面复苏伴随强势增长】2023年世界旅游业迎来新的发展机遇，如何进一步推动旅游消费、拉动经济增长，成为业界关注的焦点。9月2日，2023世界旅游合作与发展大会上，正式发布了《世界旅游城市发展报告2022》，2022 年全球旅游总人次达到95.7亿人次，全球旅游总收入达到4.6万亿美元，分别恢复至2019年的66.1%和79.6%。世界旅游市场正在发生新的变化，加速驶入高质量发展快车道。]]></title>
+            <guid>3229012</guid>
+            <pubDate>Sat, 02 Sep 2023 20:24:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东盟峰会开幕在即 “经济”话题持续升温】第43届东盟峰会及东亚合作领导人系列会议开幕在即，“经济”话题正在轮值主席国印度尼西亚持续升温。印尼总统佐科表示，此次东盟峰会“议程有很多，但重点是经济”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4144277.d.html</link>
+            <guid>3229011</guid>
+            <pubDate>Sat, 02 Sep 2023 19:19:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：目标是到年底每月进行10次猎鹰火箭发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4141744.d.html</link>
+            <guid>3229010</guid>
+            <pubDate>Sat, 02 Sep 2023 19:04:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【宠物沟通师能与宠物隔空对话？业内人士：没有科学依据】近日，一段博主花500元找宠物沟通师与狗子“对话”的视频在网上引发关注。在视频评论区，该博主提醒，找宠物沟通师及发视频都是为了好玩，仅供娱乐，不推荐大家找。宠物产业内人士提醒，隔空与宠物沟通没有科学依据，宠物沟通师利用宠物主人的心理对宠物进行拟人化，容易引起共情并获得信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkkhcu4138786.d.html</link>
+            <guid>3229009</guid>
+            <pubDate>Sat, 02 Sep 2023 18:47:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国工人短缺影响这五个职业】美国许多行业的工作岗位一直面临着工人短缺的问题。受到影响的一些主要行业包括空中交通管制员、教师、公共汽车司机、飞行员和航空机械师以及建筑和制造工人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkizvw4263063.d.html</link>
+            <guid>3229008</guid>
+            <pubDate>Sat, 02 Sep 2023 18:11:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【乌克兰空军发言人证实美国防部采购先进中程空空导弹支持乌克兰】乌克兰空军发言人伊格纳特证实，美国国防部正在采购先进中程空空导弹(AMRAAM)以支持乌克兰。导弹的射程可达160至180公里，足以在不进入敌方防空区的情况下击中俄罗斯飞机。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-03/detail-imzkizvu1437133.d.html</link>
@@ -531,30 +560,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkikyh1350504.d.html</link>
             <guid>3228853</guid>
             <pubDate>Sat, 02 Sep 2023 09:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宝马公司CEO奥利弗・齐普斯：宝马在华销售预期仍在正轨上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkikye4572797.d.html</link>
-            <guid>3228851</guid>
-            <pubDate>Sat, 02 Sep 2023 09:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中农控股保供倡议书：全力做好主要农资、化肥的国内供应】当前正值国内尿素淡、旺季转换及冬季储备的重要时期，近期国内尿素价格出现淡季拉升，期货价格异动现象。就此提醒各合作伙伴谨防经营风险，理智对待市场。2023年四季度国内尿素新增产能将逐步如期释放，我国尿素实物产量将创近五年来的新高，国内尿素实物供应充足，同时国际市场供应陆续恢复，国际价格逐步下跌，国内尿素市场整体表现为供应增加，外部需求相对低迷。作为农资流通领域的主力军，中农控股将切实履行社会责任，主动减少出口数量，积极组织市场销售，全力做好主要农资、化肥的国内供应，努力维护价格稳定。同时向国内合作伙伴发出倡议：理性组织购销，避免“跟风采购”，积极投放市场，反对囤积居奇，自觉抵制投机行为，共同维护良好的市场环境，促进行业健康可持续发展，为保障粮食安全做出积极贡献。（中农控股微信公众号）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkikye4571633.d.html</link>
-            <guid>3228849</guid>
-            <pubDate>Sat, 02 Sep 2023 09:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝马CEO：宝马在中国的电动汽车销量是奔驰和奥迪加起来的两倍】宝马公司CEO奥利弗・齐普斯：宝马在中国的电动汽车销量是奔驰和奥迪加起来的两倍。宝马电动汽车是盈利的，未来的车型更是如此。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkikye4570915.d.html</link>
-            <guid>3228848</guid>
-            <pubDate>Sat, 02 Sep 2023 09:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年全国出口管制工作会议在河北召开】9月1-2日，全国出口管制工作会议在河北省雄安新区召开。会议要求，坚持总体国家安全观，统筹发展和安全，强化目标导向和问题导向，创新工作思路，加快完善现代化国家出口管制体系。（商务部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-02/detail-imzkikyh1347611.d.html</link>
-            <guid>3228847</guid>
-            <pubDate>Sat, 02 Sep 2023 09:33:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
