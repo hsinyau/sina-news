@@ -4,11 +4,249 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 05 Sep 2023 15:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 18:07:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国联邦存款保险公司宣布将前签名银行位于纽约的330亿美元商业房地产贷款组合推向市场。]]></title>
+            <guid>3232006</guid>
+            <pubDate>Tue, 05 Sep 2023 18:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银集团CEO：瑞士央行需要针对危机出台更加灵活的流动性政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxhs1051263.d.html</link>
+            <guid>3232005</guid>
+            <pubDate>Tue, 05 Sep 2023 18:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西总统卢拉表示，巴西亚马逊雨林的森林砍伐在8月份减少了70%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxhu9772470.d.html</link>
+            <guid>3231995</guid>
+            <pubDate>Tue, 05 Sep 2023 17:39:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国得州电力可靠性委员会（ERCOT）：预计气温将升高，电力需求将增加以及电力储备可能减少，将于9月6日至8日发布天气警报。]]></title>
+            <guid>3231994</guid>
+            <pubDate>Tue, 05 Sep 2023 17:32:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[希捷科技（STX）下跌5.3%，刷新日低至69.50美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxhs1045795.d.html</link>
+            <guid>3231993</guid>
+            <pubDate>Tue, 05 Sep 2023 17:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白酒联名产品火出圈 食品消费行业跨界营销蔚然成风】据证券日报，9月4日，瑞幸咖啡与贵州茅台推出的联名咖啡酱香拿铁吸引了众多消费者打卡，多社交平台被该产品刷屏。前往多个瑞幸咖啡售卖点看到，酱香拿铁点单率仍居高不下，更有售卖点的咖啡豆、冰块因产品热卖而告罄。广东省食品安全保障促进会副会长朱丹蓬表示：“目前快消品行业进入高度同质化、内卷化的节点，联名可以让企业更具差异化，并获取联名品牌流量优势，未来争取跨圈层消费者将成为食品消费行业的新趋势。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxht7821178.d.html</link>
+            <guid>3231991</guid>
+            <pubDate>Tue, 05 Sep 2023 17:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家公路交通安全管理局 （NHTSA）：在美国召回5200万套（车用）安全气囊。]]></title>
+            <guid>3231990</guid>
+            <pubDate>Tue, 05 Sep 2023 17:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三美联储隔夜逆回购协议（RRP）使用规模为1.568万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxhs1043167.d.html</link>
+            <guid>3231988</guid>
+            <pubDate>Tue, 05 Sep 2023 17:17:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行管委内格尔表示，仍未达到通胀目标，欧洲央行的货币政策依赖于数据；在利率达到峰值后，押注快速降息是错误的；目前不担心工资价格螺旋上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxht7818917.d.html</link>
+            <guid>3231987</guid>
+            <pubDate>Tue, 05 Sep 2023 17:10:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本MUFG银行和瑞穗金融集团打算在本财政年度大幅增加在印度的劳动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzksxhs1041674.d.html</link>
+            <guid>3231986</guid>
+            <pubDate>Tue, 05 Sep 2023 17:09:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖52周期国债，得标利率5.120%（8月8日报5.060%），投标倍数3.14（前次为2.97）。]]></title>
+            <guid>3231984</guid>
+            <pubDate>Tue, 05 Sep 2023 17:02:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率5.285%，前次为5.290%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyv7948142.d.html</link>
+            <guid>3231983</guid>
+            <pubDate>Tue, 05 Sep 2023 17:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收涨0.60%，沪铜收涨0.58%，沪铝收涨0.03%，沪锌收涨0.38%，沪铅收涨1.33%，沪镍收涨1.01%，沪锡收涨0.82%。氧化铝夜盘收涨0.19%。不锈钢夜盘收跌0.19%。]]></title>
+            <guid>3231982</guid>
+            <pubDate>Tue, 05 Sep 2023 17:01:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LME金属收盘涨跌不一】LME金属收盘涨跌不一，LME期铜收涨35美元，报8487美元/吨；LME期铝收跌20美元，报2193美元/吨；LME期锌收跌7美元，报2472美元/吨；LME期铅收涨10美元，报2234美元/吨；LME期镍收跌1美元，报21039美元/吨；LME期锡收涨73美元，报26445美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyu1169511.d.html</link>
+            <guid>3231978</guid>
+            <pubDate>Tue, 05 Sep 2023 16:54:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（9月5日）欧市尾盘，德国10年期国债收益率涨3.3个基点，报2.612%，盘中交投于2.574%-2.613%区间。两年期德债收益率涨2.2个基点，报3.045%，盘中交投于3.009%-3.047%区间；30年期德债收益率涨5.5个基点，报2.757%。2/10年期德债收益率利差涨1.178个基点，报-43.692个基点。]]></title>
+            <guid>3231977</guid>
+            <pubDate>Tue, 05 Sep 2023 16:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[索尼电子宣布更新相机遥控SDK，增强无人机应用功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyu1167030.d.html</link>
+            <guid>3231976</guid>
+            <pubDate>Tue, 05 Sep 2023 16:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[突尼斯年通货膨胀率从7月份的9.1%上升到8月份的9.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyu1166959.d.html</link>
+            <guid>3231975</guid>
+            <pubDate>Tue, 05 Sep 2023 16:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[温哥华房地产委员会：加拿大8月温哥华基准房价同比上涨2.5%，住房销售同比增长21%。]]></title>
+            <guid>3231972</guid>
+            <pubDate>Tue, 05 Sep 2023 16:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2/10年期英债收益率涨超6个基点】 周二（9月5日）欧市尾盘，英国10年期国债收益率上涨6.2个基点，报4.525%。两年期英债收益率涨6.5个基点，报5.271%。30年期英债收益率涨3.8个基点，50年期英债收益率涨3.6个基点。2/10年期英债收益率利差跌0.310个基点，报-75.234个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyw9894179.d.html</link>
+            <guid>3231970</guid>
+            <pubDate>Tue, 05 Sep 2023 16:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：坦桑尼亚伊昆吉以南39公里处发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyv7934831.d.html</link>
+            <guid>3231965</guid>
+            <pubDate>Tue, 05 Sep 2023 16:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经纬纺机：主动终止上市现金选择权股权登记日变更为9月22日】经纬纺机公告，此前披露，公司拟以股东大会决议方式主动撤回A股股票在深交所的上市交易，并转而申请在全国中小企业股份转让系统转让。根据本次以股东大会决议方式主动终止上市方案，原现金选择权股权登记日为2023年9月13日。为保障中小股东权益，方便融资融券信用证券账户投资者将股票转移至普通证券账户进行现金选择权申报，经公司董事会确定，本次现金选择权的股权登记日变更为2023年9月22日。融资融券信用证券账户中持有公司股票且需要进行现金选择权申报的投资者，应于本次现金选择权股权登记日前（2023 年9月22日，含）将相应股票从信用证券账户划转至其对应的普通证券账户，并于现金选择权申报日通过普通证券账户进行申报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-06/detail-imzkssyu1157499.d.html</link>
+            <guid>3231963</guid>
+            <pubDate>Tue, 05 Sep 2023 16:02:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙高管Kevin Lucke：公司寻求从拉美地区获得油料，以生产生物燃油。随着生物燃油（需求的）增长，美国大豆出口正在缩水。]]></title>
+            <guid>3231958</guid>
+            <pubDate>Tue, 05 Sep 2023 15:53:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特新任驻伊朗大使抵达伊朗首都德黑兰】据伊朗法尔斯通讯社消息，当地时间9月5日，新任沙特驻伊朗大使阿卜杜拉·安齐抵达伊朗首都德黑兰。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1155770.d.html</link>
+            <guid>3231957</guid>
+            <pubDate>Tue, 05 Sep 2023 15:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[酩悦·轩尼诗-路易·威登集团（LVMH集团）旗下Thelios收购法国眼镜品牌Vuarnet。]]></title>
+            <guid>3231956</guid>
+            <pubDate>Tue, 05 Sep 2023 15:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆乌鲁木齐市水磨沟区发生2.5级地震】据中国地震台网，中国地震台网正式测定：09月05日23时36分在新疆乌鲁木齐市水磨沟区（有感）（北纬43.79度，东经87.71度）发生2.5级地震，震源深度22千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1155596.d.html</link>
+            <guid>3231955</guid>
+            <pubDate>Tue, 05 Sep 2023 15:51:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伦敦金属交易所（LME）：投机者所持LME铝净多头头寸增加115,134手合约，至193,486手合约，创2018年1月份有数据记录以来的新高。]]></title>
+            <guid>3231952</guid>
+            <pubDate>Tue, 05 Sep 2023 15:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国和荷兰天然气期货均涨超4%】 周二（9月5日）欧市尾盘，ICE英国天然气期货涨4.3%，报84.740便士/千卡。TTF基准荷兰天然气期货涨4.41%，报34.900欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌0.37%，报82.95欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyw9888759.d.html</link>
+            <guid>3231951</guid>
+            <pubDate>Tue, 05 Sep 2023 15:45:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建将“暴雨预警”提升为Ⅰ级】福建省气象台2023年9月5日22时50分发布《重要天气预警报告》，晚上11点，福建省气象台已将“暴雨预警”提升为Ⅰ级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyw9888671.d.html</link>
+            <guid>3231950</guid>
+            <pubDate>Tue, 05 Sep 2023 15:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福建福州中小学校、幼儿园、培训机构明日继续停课、停学一天】据福建省福州市教育局发布的通告，福州市气象台2023年09月05日20时26分发布暴雨红色预警信号，持续的暴雨会造成城市内涝等次生灾害。考虑到明天学生的交通出行安全，经研究决定，9月6日福州全市中小学校（含中职学校）、幼儿园、培训机构停课、停学一天。各级各类学校持续做好防暴雨、防次生灾害等各项工作。请家长、同学们注意安全。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1154060.d.html</link>
+            <guid>3231949</guid>
+            <pubDate>Tue, 05 Sep 2023 15:42:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国队夺得乒乓球亚锦赛女团冠军】据新华社，中国队5日连赢三场击败东道主韩国队，夺得2023年乒乓球亚锦赛女子团体冠军。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyv7930665.d.html</link>
+            <guid>3231948</guid>
+            <pubDate>Tue, 05 Sep 2023 15:40:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股主要指数收盘普跌】欧股主要指数收盘普跌，德国DAX30指数跌0.32%，英国富时100指数跌0.18%，法国CAC40指数跌0.34%，欧洲斯托克50指数跌0.18%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1153473.d.html</link>
+            <guid>3231947</guid>
+            <pubDate>Tue, 05 Sep 2023 15:39:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖三个月期国库券，得标利率5.315%（前次为5.340%），投标倍数2.94（前次为3.04）。美国财政部拍卖六个月期国库券，得标利率5.300%（前次为5.350%），投标倍数3.02（前次为3.17）。]]></title>
+            <guid>3231944</guid>
+            <pubDate>Tue, 05 Sep 2023 15:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行行长表示第二季度国内生产总值良好，并高于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyv7928069.d.html</link>
+            <guid>3231941</guid>
+            <pubDate>Tue, 05 Sep 2023 15:25:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会医生：美国参议院少数党领袖麦康奈尔的医学检查结果显示没有癫痫或中风的迹象，没有证据表明其患有帕金森病等运动障碍疾病。]]></title>
+            <guid>3231940</guid>
+            <pubDate>Tue, 05 Sep 2023 15:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智利比索兑美元下跌1.7%，报874.20比索，创2023年迄今盘中新低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyv7927412.d.html</link>
+            <guid>3231939</guid>
+            <pubDate>Tue, 05 Sep 2023 15:21:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌称俄无人机坠毁罗马尼亚，罗马尼亚否认】 9月4日，乌方表示，俄方无人机夜袭乌克兰港口设施时，在罗马尼亚领土上坠落并发生爆炸。不过，这一说法随即遭到罗马尼亚方面的否认。乌克兰国家通讯社4日报道，乌克兰外交部长库列巴表示，乌方有证据显示，4日凌晨，俄军对多瑙河上的乌克兰港口设施发动大规模空袭期间，有俄军无人机在罗马尼亚境内坠落并爆炸。罗马尼亚则“明确”否认了俄罗斯无人机在罗马尼亚境内坠落的消息。罗马尼亚外交部长卢米尼察·奥多贝斯库称：罗马尼亚国防部和所有负责该领域的部门都在实时监控，俄罗斯的无人机袭击没有对罗马尼亚领土或领海构成任何直接的军事威胁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyw9885020.d.html</link>
+            <guid>3231938</guid>
+            <pubDate>Tue, 05 Sep 2023 15:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒天然：9月5日全球乳品贸易（GDT）拍卖价格指数上升2.7%，奶粉各合同期FAS拍卖均价2,888美元/吨。批发奶粉价格指数上升5.3%，批发奶粉均价2,702美元/吨。]]></title>
+            <guid>3231936</guid>
+            <pubDate>Tue, 05 Sep 2023 15:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国农业部：8月31日当周美国大豆出口检验量为378595吨】美国农业部数据显示，截至2023年8月31日当周，美国大豆出口检验量为378595吨，前一周修正后为326066吨，初值为322149吨。2022年9月1日当周，美国大豆出口检验量为500286吨。本作物年度迄今，美国大豆出口检验量累计为52251304吨，上一年度同期56965877吨。美国大豆作物年度自9月1日开始。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyv7926190.d.html</link>
+            <guid>3231935</guid>
+            <pubDate>Tue, 05 Sep 2023 15:12:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月05日23时03分在巴布亚新几内亚（南纬5.30度，东经142.75度）发生5.7级地震，震源深度70千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyv7926055.d.html</link>
+            <guid>3231934</guid>
+            <pubDate>Tue, 05 Sep 2023 15:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乐普医疗：司美格鲁肽生物类似药已完成中试生产验证】乐普医疗在互动平台表示，公司的司美格鲁肽生物类似药已完成中试生产验证，预计明年一季度申报IND，用于治疗糖尿病及肥胖患者。公司与上海民为生物技术有限公司达成里程碑条件的控股协议。该公司自主研发的GLP-1/GCGR/GIP-Fc融合蛋白MWN101获得国家药监局药品审评中心（CDE）临床许可，获批适应症为拟用于II型糖尿病和肥胖治疗，正在进行临床I期研究。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyr8097809.d.html</link>
+            <guid>3231933</guid>
+            <pubDate>Tue, 05 Sep 2023 15:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯8月24-30日炼油厂处理均值为534万桶/日，创6月份第一周以来新低，周环比降幅约24万桶/日。]]></title>
+            <guid>3231931</guid>
+            <pubDate>Tue, 05 Sep 2023 15:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福州提升防暴雨应急响应至Ⅱ级】根据气象预报，今天夜里到6日，福州全市有暴雨，部分县市有大暴雨。未来24小时累计雨量80～180毫米，局部超过250毫米。福州市气象台升级发布“暴雨预警Ⅰ级”。根据《福州市防汛抗旱防台风应急预案》，市防指决定从9月5日22时30分起提升防暴雨Ⅱ级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyr8097231.d.html</link>
+            <guid>3231929</guid>
+            <pubDate>Tue, 05 Sep 2023 15:08:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国国家飓风中心：热带大西洋中部形成新的热带低气压，预计将在本周末成为强飓风。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1146313.d.html</link>
@@ -16,7 +254,7 @@
             <pubDate>Tue, 05 Sep 2023 14:57:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新研究揭示端粒酶逆转录酶分布对癌细胞凋亡影响】日本东京大学日前发布公报说，该校研究人员成功使一种名为“端粒酶逆转录酶（TERT）”的蛋白质在癌细胞内的分布以及癌细胞凋亡过程同时实现可视化，由此揭示了该蛋白质在癌细胞线粒体内的聚积对癌细胞凋亡的影响。]]></title>
+            <title><![CDATA[【新研究揭示端粒酶逆转录酶分布对癌细胞凋亡影响】 日本东京大学日前发布公报说，该校研究人员成功使一种名为“端粒酶逆转录酶（TERT）”的蛋白质在癌细胞内的分布以及癌细胞凋亡过程同时实现可视化，由此揭示了该蛋白质在癌细胞线粒体内的聚积对癌细胞凋亡的影响。相关论文已发表在欧洲生物化学学会联合会的开放期刊《FEBS Open Bio》上。公报说，本次研究成果对于理解癌细胞凋亡过程中控制机制的全貌具有重要意义。今后有望以TERT在癌细胞内的分布为新的癌症治疗标靶，从而减少癌症疗法的副作用，提高疗效。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzkssyu1145984.d.html</link>
             <guid>3231923</guid>
             <pubDate>Tue, 05 Sep 2023 14:55:45 GMT</pubDate>
@@ -106,314 +344,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8046678.d.html</link>
             <guid>3231906</guid>
             <pubDate>Tue, 05 Sep 2023 14:24:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[曼联跌幅扩大至21%，创纪录最大日内跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1268833.d.html</link>
-            <guid>3231905</guid>
-            <pubDate>Tue, 05 Sep 2023 14:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：乌克兰恢复了官员必须进行资产申报的规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1268796.d.html</link>
-            <guid>3231904</guid>
-            <pubDate>Tue, 05 Sep 2023 14:21:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  俄罗斯央行预计2023年GDP增速将接近2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsz0005281.d.html</link>
-            <guid>3231903</guid>
-            <pubDate>Tue, 05 Sep 2023 14:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【斯菱股份中签号出炉：共2.67万个】斯菱股份披露网上中签结果，中签号码共2.67万个，每个中签号码能认购500股斯菱股份A股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8045836.d.html</link>
-            <guid>3231902</guid>
-            <pubDate>Tue, 05 Sep 2023 14:21:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：我们需要在相当长一段时间内保持足够的限制性立场，以确信通胀将回落至2%。]]></title>
-            <guid>3231901</guid>
-            <pubDate>Tue, 05 Sep 2023 14:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：最新的指标表明，需求比预期要强劲一些，经济势头比想象的要强劲。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1267618.d.html</link>
-            <guid>3231900</guid>
-            <pubDate>Tue, 05 Sep 2023 14:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储梅斯特：在强于预期的经济数据和通胀上行风险的背景下，美联储可能需要将利率“再提高一点”。]]></title>
-            <guid>3231899</guid>
-            <pubDate>Tue, 05 Sep 2023 14:15:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长扎博特金：俄罗斯出口商的印度账户上印度卢比数量并不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnst8218040.d.html</link>
-            <guid>3231898</guid>
-            <pubDate>Tue, 05 Sep 2023 14:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车：股东周年大会上各项决议案已获超过50%赞成票】恒大汽车公告，股东周年大会上各项决议案已获得超过50%的赞成票，故该等决议案获股东正式通过为普通决议案。公司已委任公司之股份过户登记处卓佳秘书商务有限公司于股东周年大会上就点票担任监票员。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8044439.d.html</link>
-            <guid>3231897</guid>
-            <pubDate>Tue, 05 Sep 2023 14:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会指控私募股权公司Prime Group行为不当，未充分披露费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8044336.d.html</link>
-            <guid>3231896</guid>
-            <pubDate>Tue, 05 Sep 2023 14:13:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【印度将改国名？印媒爆料：莫迪政府可能将在议会特别会议上提出决议】据“今日印度”、印度《经济时报》等多家印媒5日报道，莫迪政府可能会在定于9月18日至22日举行的议会特别会议上，提出一项把印度（India）国名更改为“巴拉特”（Bharat）的决议。《今日印度》称，通过修改宪法将印度更名为“巴拉特”的呼声愈演愈烈，有消息人士称，中央政府可能会提出一项重新命名印度国名的决议。《经济时报》补充说，包括阿萨姆邦首席部长在内的多位人民党领导人5日在社交平台发声支持将印度国名更改为“巴拉特”。 （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1267128.d.html</link>
-            <guid>3231895</guid>
-            <pubDate>Tue, 05 Sep 2023 14:12:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长扎博特金：通胀接近2023年预测的上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8043155.d.html</link>
-            <guid>3231894</guid>
-            <pubDate>Tue, 05 Sep 2023 14:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储梅斯特称利率可能需要“再高一点”】克利夫兰联邦储备银行行长Loretta Mester表示，美联储可能需要进一步加息，但没有说明在下次会议上美联储应该做什么。梅斯特在接受采访时表示：“从目前的情况来看，我们可能不得不提高一点，我们可能必须进一步提高政策利率”。“但距离我们9月份的下一个决定还有很多时间，届时我们将获得大量数据和信息。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8042976.d.html</link>
-            <guid>3231892</guid>
-            <pubDate>Tue, 05 Sep 2023 14:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京将于9月12日出席2023年东方经济论坛全会】当地时间9月5日，俄罗斯总统新闻秘书佩斯科夫表示，俄罗斯总统普京将于9月12日出席2023年东方经济论坛全会。据东方经济论坛组委会6月17日发布的消息，东方经济论坛将于9月10日至13日在俄罗斯远东城市符拉迪沃斯托克举行。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8042890.d.html</link>
-            <guid>3231891</guid>
-            <pubDate>Tue, 05 Sep 2023 14:05:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长扎博特金：我们不排除加息的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsz0002578.d.html</link>
-            <guid>3231890</guid>
-            <pubDate>Tue, 05 Sep 2023 14:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长扎博特金：关键利率的决定将取决于新的宏观经济预测。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8042746.d.html</link>
-            <guid>3231889</guid>
-            <pubDate>Tue, 05 Sep 2023 14:05:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行副行长扎博特金：通胀上扬风险仍然较高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1265588.d.html</link>
-            <guid>3231888</guid>
-            <pubDate>Tue, 05 Sep 2023 14:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国债收益率在美国工厂订单数据发布后略有上升，10年期国债收益率上涨0.9个基点，达到4.26%。]]></title>
-            <guid>3231887</guid>
-            <pubDate>Tue, 05 Sep 2023 14:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【洛阳钼业24万吨铜本月底将发运完毕 2024年刚果（金）铜产量预计达60万吨】“预计本月底，刚果（金）24万吨左右的铜库存将发运完毕，基本完成消化。”记者从洛阳钼业分管非洲业务的副总裁周俊处获悉，2024年洛阳钼业位于刚果（金）的整体铜金属产量有望达60万吨。洛阳钼业因此前在刚果（金）的TFM铜钴矿增储权益金出现争议，在今年4月达成共识后，5月份当地出口限制也已放开，此前滞留在当地的铜钴产品相继离港销售。 （财联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8041879.d.html</link>
-            <guid>3231886</guid>
-            <pubDate>Tue, 05 Sep 2023 14:02:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月工厂订单月率录得-2.1%，为2022年11月以来最大降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsz0001485.d.html</link>
-            <guid>3231885</guid>
-            <pubDate>Tue, 05 Sep 2023 14:00:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月耐用品订单月率修正值 -5.2%，前值-5.20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1264394.d.html</link>
-            <guid>3231884</guid>
-            <pubDate>Tue, 05 Sep 2023 14:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月工厂订单月率 -2.1%，预期-2.50%，前值2.30%。]]></title>
-            <guid>3231883</guid>
-            <pubDate>Tue, 05 Sep 2023 14:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国7月工厂订单月率 -2.1%，预期-2.50%，前值2.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnst8215356.d.html</link>
-            <guid>3231882</guid>
-            <pubDate>Tue, 05 Sep 2023 14:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  标准普尔1500住宅建筑指数下跌4.1%，为自8月17日以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1264045.d.html</link>
-            <guid>3231880</guid>
-            <pubDate>Tue, 05 Sep 2023 13:58:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[万事达卡：有关信用卡费率的报道是错误的，今年秋天不会提高美国的交换费率。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1263109.d.html</link>
-            <guid>3231879</guid>
-            <pubDate>Tue, 05 Sep 2023 13:54:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部发言人称：乌克兰使用澳大利亚无人机攻击俄罗斯领土。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8039455.d.html</link>
-            <guid>3231878</guid>
-            <pubDate>Tue, 05 Sep 2023 13:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标准普尔1500航空指数下跌2.2%，因沙特阿拉伯和俄罗斯延长供应限制措施后原油价格上涨。]]></title>
-            <guid>3231877</guid>
-            <pubDate>Tue, 05 Sep 2023 13:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【沙特延长减产措施 日均减产100万桶的措施再延三个月】OPEC领导者沙特把单边减产举措再延长三个月，以支撑脆弱的全球市场。官媒沙特通讯社发布声明称，沙特日均减产100万桶的措施将延续到12月份。此举将使沙特日产量保持在约900万桶，为数年来的最低水平。随着需求升至创纪录高位，全球原油市场正在趋紧，油价已经重拾夏季的涨势。沙特的行动超出了市场预期。在与OPEC+盟友达成的减产协议基础之上，沙特7月进一步减产。由于盟友大多已经因投资不足和运营中断而遭受产量损失，沙特基本上选择了单独采取行动支撑价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1262075.d.html</link>
-            <guid>3231876</guid>
-            <pubDate>Tue, 05 Sep 2023 13:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股油气股普遍上涨，沙特和俄罗斯延长石油供应限制措施】美股油气股普遍上涨，在沙特和俄罗斯宣布将石油供应限制行动延长至年底之际，TechnipFMC涨3.07%，西方石油公司涨1.9%，哈利伯顿涨1.8%，埃克森美孚涨1.5%，雪佛龙涨1.38%，EOG资源涨1.29%，英国石油ADR涨1.2%，DVN涨1.07%，斯伦贝谢涨1.17%，康菲石油涨1.15%，LNG则跌0.87%，EQT跌1.09%。ETF中，OIH涨1.56%，BNO涨1.5%，USO涨1.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1261643.d.html</link>
-            <guid>3231875</guid>
-            <pubDate>Tue, 05 Sep 2023 13:48:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克金龙中国指数盘初跌超2%，成分股携程跌7.28%，理想汽车跌6.85%，陆控跌3.84%，网易跌3.33%，金山云跌2.78%，百度、B站、拼多多也跌超2.0%，嘉楠科技涨2.0%，小鹏汽车涨5.18%，名创优品涨6.3%，再鼎医药涨12.85%。]]></title>
-            <guid>3231874</guid>
-            <pubDate>Tue, 05 Sep 2023 13:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗新任驻沙特大使抵达沙特首都利雅得】当地时间9月5日，伊朗新任驻沙特大使埃纳亚提抵达沙特首都利雅得。这是时隔7年，伊朗首次向沙特派驻大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnst8212726.d.html</link>
-            <guid>3231870</guid>
-            <pubDate>Tue, 05 Sep 2023 13:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【巴西纸浆企业对华出口首次使用人民币结算】据巴西媒体报道，巴西纸浆企业埃尔多拉多公司（ELDORADO）在对华出口纸浆时首次使用人民币作为贸易结算货币。该公司首批对华出口集装箱已于8月25日装船启程前往中国。埃尔多拉多公司首席财务官费尔南多斯表示，本次用人民币结算对公司来说是一种全新的尝试。埃尔多拉多公司成立于2010年，是巴西纸浆工业领域最具竞争力的企业之一，该公司出产的纸浆有四成销往中国。近期，金砖国家组织成员大力推动在跨境贸易中使用本币结算，减少对美元的依赖。]]></title>
-            <guid>3231868</guid>
-            <pubDate>Tue, 05 Sep 2023 13:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股新能源车股普遍走强，小鹏汽车涨超5%，蔚来汽车涨超1%，特斯拉涨超2.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8036896.d.html</link>
-            <guid>3231867</guid>
-            <pubDate>Tue, 05 Sep 2023 13:40:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【长信科技：公司正积极参与华为新产品开发】长信科技在互动平台表示，目前，公司正积极参与华为新产品开发，但基于保密性原则，公司并不能完全获悉产品具体用于客户的何种终端产品，涉及具体客户或项目的问题不便披露。]]></title>
-            <guid>3231865</guid>
-            <pubDate>Tue, 05 Sep 2023 13:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VinFast Auto盘初跌幅迅速扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1258581.d.html</link>
-            <guid>3231863</guid>
-            <pubDate>Tue, 05 Sep 2023 13:36:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雄安新区：疏解人员住房公积金租房提取政策将对标北京实施】近日，雄安新区住房公积金管理委员会2023年第一次会议在雄安市民服务中心召开。会议通报了2022-2023年雄安新区住房公积金工作开展情况，审议通过了《北京非首都功能疏解人员住房公积金提取政策对标北京实施方案》。雄安新区住房公积金管理委员会主任委员安庆杰强调，当前雄安新区已进入大规模建设与承接北京非首都功能疏解并重阶段，工作重心已转向高质量建设、高水平管理、高质量疏解发展并举，新区住房公积金工作要在缴存、提取、贷款等主要业务领域实现全面突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8035203.d.html</link>
-            <guid>3231862</guid>
-            <pubDate>Tue, 05 Sep 2023 13:34:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[曼联开盘下跌12%，为4月17日以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsy9995765.d.html</link>
-            <guid>3231861</guid>
-            <pubDate>Tue, 05 Sep 2023 13:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特发信息：公司向华为提供接入产品】特发信息在互动平台表示，公司向华为提供接入产品。公司与华为在政企市场有相关产品的项目落地。]]></title>
-            <guid>3231857</guid>
-            <pubDate>Tue, 05 Sep 2023 13:27:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防总维持针对粤闽防汛防台风应急响应级别】当前我国面临一南一北、台风洪水双线作战的局面。国家防总继续维持针对广东、福建两省的防汛防台风三级应急响应。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnst8208375.d.html</link>
-            <guid>3231856</guid>
-            <pubDate>Tue, 05 Sep 2023 13:25:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰胜风能：公司若羌生产基地投产在即】 泰胜风能(300129)9月5日在互动平台表示，公司今年新增的新疆若羌生产基地已于近期基本完成基础建设和设备安装，投产在即；除若羌外，公司在新疆哈密、木垒、阿勒泰也设有生产基地，目前新疆地区设计年产能合计约20万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1255483.d.html</link>
-            <guid>3231855</guid>
-            <pubDate>Tue, 05 Sep 2023 13:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【容大感光：公司正在积极布局和拓展光伏行业市场】容大感光在互动平台表示，公司的部分光刻胶产品可以应用于光伏行业。公司正在积极布局和拓展光伏行业的市场。公司主要产品包括PCB光刻胶、显示用光刻胶、半导体用光刻胶等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1255381.d.html</link>
-            <guid>3231854</guid>
-            <pubDate>Tue, 05 Sep 2023 13:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【标普上调联想集团评级：稳健的盈利能力和现金流】9月4日，国际评级机构标普发布报告，上调联想集团的长期发行人信用评级与无抵押票据评级为“BBB”，展望稳定，再次确认联想智能化转型战略的有效性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1255089.d.html</link>
-            <guid>3231853</guid>
-            <pubDate>Tue, 05 Sep 2023 13:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蒲淳会见世界贸易组织副总干事波冈】2023年9月5日，国家市场监督管理总局副局长蒲淳会见世界贸易组织（WTO）副总干事让-马里·波冈。双方就技术性贸易措施工作深入交换意见。双方一致表示，WTO是成员实现制度型开放和绿色低碳高质量发展的重要平台，应推动成员在WTO框架下加强技术性贸易措施领域监管合作，不断增进互动与互信，共同支持WTO在全球经济复苏、应对气候变化等方面发挥重要作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1254931.d.html</link>
-            <guid>3231851</guid>
-            <pubDate>Tue, 05 Sep 2023 13:21:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广宇发展：将加快推进在建项目的建设并网进度，力争实现年末装机规模超千万千瓦】 公司部分在建项目的并网时间尚需依托电网送出线路的建设进度，公司将加快推进在建项目的建设并网进度，力争实现年末装机规模超千万千瓦。一般而言，光伏建设周期为4-8个月，风电建设周期为8-12个月。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1254691.d.html</link>
-            <guid>3231849</guid>
-            <pubDate>Tue, 05 Sep 2023 13:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登将提名雅各布·卢为美国驻以色列大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1254287.d.html</link>
-            <guid>3231846</guid>
-            <pubDate>Tue, 05 Sep 2023 13:18:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中证指数公司：修订中证港股通红利低波动指数编制方案】为进一步提升指数可投资性，中证指数有限公司决定修订中证港股通红利低波动指数的编制方案。此次修订内容包括：（1）指数名称和简称分别修订为“中证港股通央企红利指数”和“港股通央企红利”；（2）选样方法修订为从港股通综合指数样本中选取50只分红水平稳定且股息率较高的中央企业控股上市公司证券作为指数样本；（3）权重上限规则修订为“样本采用股息率加权，同时单个样本权重不超过10%”。指数编制方案的其余部分保持不变。上述指数编制方案的修订将于2023年9月6日实施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnst8206455.d.html</link>
-            <guid>3231843</guid>
-            <pubDate>Tue, 05 Sep 2023 13:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【今天国际：与华为的合作主要聚焦于5G智慧物流探索，目前基本实现仓储物流全流程的5G连接】 公司与华为的合作主要聚焦于5G智慧物流探索，目前基本实现仓储物流全流程的5G连接，并在智能盘点、集群调度、数据采集等场景实现5G应用的创新突破。]]></title>
-            <guid>3231838</guid>
-            <pubDate>Tue, 05 Sep 2023 13:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三未信安：公司新研发的三款芯片均已成功流片】 目前公司的经营发展一切正常，公司持续加大在新技术和新业务的投入。公司业务在云密码解决方案的推广和应用方面增长较快，在芯片成果方面，应用于云端的XS100高性能芯片逐步完成对传统产品的升级，而且有单独的销售收入。在此基础上，公司新研发的三款芯片均已成功流片，可以应用于多种物联网安全场景，形成覆盖“云管边端”的综合解决方案，推动公司持续稳定的发展。我们对未来公司的发展充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8029816.d.html</link>
-            <guid>3231837</guid>
-            <pubDate>Tue, 05 Sep 2023 13:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日盈电子：预计明年北美项目将批量供货】 激光雷达清洗项目公司今年有一家客户在批量供货，同时上半年拿到了北美高端电动汽车项目定点，预计明年北美项目将批量供货]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsw1252552.d.html</link>
-            <guid>3231836</guid>
-            <pubDate>Tue, 05 Sep 2023 13:11:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国将更快批准陆上风电项目】英国政府将更快批准得到当地民众支持的英格兰陆上风电项目，新措施包括扩大确定适合的风力发电场地的方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8029606.d.html</link>
-            <guid>3231835</guid>
-            <pubDate>Tue, 05 Sep 2023 13:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院国资委宣布聘任中国电科外部董事】 9月5日，国务院国资委企干一局 （董事会工作局）有关负责同志在会议上宣布了国资委党委的决定：聘任李跃、史坚忠、刘才明、郭永宏、曹光祥为中国电子科技集团有限公司外部董事，李庆林、张汝恩不再担任中国电子科技集团有限公司外部董事职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8029317.d.html</link>
-            <guid>3231834</guid>
-            <pubDate>Tue, 05 Sep 2023 13:09:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【曼联盘前大跌近11% 传格雷泽家族可能不会出售曼联】 曼联(MANU.US)美股盘前跌近11%，报21.06美元。消息面上，有报道称格雷泽家族在没有收到与要价相当的报价后，可能不会出售英超俱乐部曼联。格雷泽家族可能会在2025年再次尝试出售该俱乐部，届时环境的改善可能会吸引更多的竞标者。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8028464.d.html</link>
-            <guid>3231830</guid>
-            <pubDate>Tue, 05 Sep 2023 13:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【萨博与波音签署协议，为波音787梦想飞机生产大型货舱门等】 萨博公司9月5日宣布与波音公司签署协议，为波音787梦想飞机生产大型货舱门、散货舱门等。该框架协议是2004年与波音公司就787梦想飞机项目签署的合同的延伸。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-05/detail-imzksnsx8028226.d.html</link>
-            <guid>3231827</guid>
-            <pubDate>Tue, 05 Sep 2023 13:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
