@@ -4,11 +4,39 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 09 Sep 2023 18:06:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 21:03:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【新政“落地”！多个城市宣布！取消多项住房限购政策】本周，国内多个城市对当地房地产市场政策进行调整优化，以促进住房消费。沈阳在本周宣布全面取消当地住房限购政策。调整之后，当地房地产市场有何变化？这次调整，沈阳取消了二环路内的住房限购政策，这也是整个沈阳最为核心的区域。今年3月，二环路外的住房限购政策已经被取消。这次调整后，在沈阳全市购买商品住宅不再需要提供当地社保或者纳税记录；在住宅的购买套数上，也不再有任何限制。沈阳成为今年来，全国范围内首个全面取消住房限购政策的省会城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmecys3933493.d.html</link>
+            <guid>3236418</guid>
+            <pubDate>Sat, 09 Sep 2023 20:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【小事情大民生 多方发力持续提升适老化交通出行服务】在交通运输日益发达的今天，尽管地铁出行速度快、打车出门高效率，但每日穿梭在城市路网的地面公交依然是老年人主要的出行工具。相关调查报告显示，75%的老年人日常出行距离在5公里以内，21%的老年人日常出门活动范围不超过1公里。因此，在老年人聚集的线路和区域，如何让便捷实惠的地面公交成为老年人的“心头好”，提升老年人的出行便利性和舒适性，成为我国交通领域适老化改革持续推进的工作重点。]]></title>
+            <guid>3236417</guid>
+            <pubDate>Sat, 09 Sep 2023 19:57:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩洛哥地震死亡人数升至1305人】据摩洛哥当地媒体援引摩内政部消息报道，摩洛哥地震死亡人数已升至1305人，受伤人数达到1832 人，其中1220人伤势严重。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmecyu0707238.d.html</link>
+            <guid>3236416</guid>
+            <pubDate>Sat, 09 Sep 2023 19:45:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【消费市场不断恢复 供求关系持续改善】通过数据看经济。国家统计局9月9日发布的数据显示，8月份，消费市场继续恢复，供求关系持续改善，全国居民消费价格指数（CPI）同比由上月下降0.3%转为上涨0.1%，环比上涨0.3%。8月份，受部分工业品需求改善、国际原油价格上涨等因素影响，全国工业生产者出厂价格指数（PPI）同比下降3.0%，降幅比上月收窄1.4个百分点；环比由上月下降0.2%转为上涨0.2%。国家发展改革委价格监测中心分析预测处处长张学武表示，8月份PPI环比今年以来首次转正，展望后期，随着经济持续好转，中秋国庆节日带动消费需求稳步回暖，基建施工进入旺季，企业生产需求进一步释放，预计后期CPI将平稳回升，PPI同比降幅也将进一步收窄。]]></title>
+            <guid>3236414</guid>
+            <pubDate>Sat, 09 Sep 2023 19:15:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩洛哥强震已致上千人遇难】当地时间9日，摩洛哥国王穆罕默德六世主持会议部署震后救援工作。会议同时决定摩洛哥全国哀悼三天，所有公共建筑均下半旗志哀。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-10/detail-imzmcxsq5318495.d.html</link>
+            <guid>3236413</guid>
+            <pubDate>Sat, 09 Sep 2023 18:38:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国绿证核发和交易量明显上升 绿色电力推广速度明显加快】绿证是我国可再生能源电量环境属性的唯一证明，可交易绿证可通过参与绿证绿电交易等方式在发电企业和用户间有偿转让。记者从国家能源局了解到，今年以来，我国绿证核发和交易量明显上升，我国绿色电力推广速度明显加快。]]></title>
             <guid>3236412</guid>
@@ -559,34 +587,6 @@
             <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4369669.d.html</link>
             <guid>3236317</guid>
             <pubDate>Sat, 09 Sep 2023 10:57:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：要加快全面有效实施2030年可持续发展议程。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4369652.d.html</link>
-            <guid>3236316</guid>
-            <pubDate>Sat, 09 Sep 2023 10:57:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：在俄乌冲突中，所有国家必须避免以武力相威胁或使用武力寻求领土侵占，损害任何国家的领土完整、主权或政治独立。]]></title>
-            <guid>3236315</guid>
-            <pubDate>Sat, 09 Sep 2023 10:57:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：需要紧急、有效地解决发展中国家的债务脆弱性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchve1145866.d.html</link>
-            <guid>3236314</guid>
-            <pubDate>Sat, 09 Sep 2023 10:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：关于俄乌冲突，所有国家必须按照《联合国宪章》的宗旨和原则行事。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-09/detail-imzmchva4368730.d.html</link>
-            <guid>3236313</guid>
-            <pubDate>Sat, 09 Sep 2023 10:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G20领导人宣言：关于俄乌冲突，我们回顾了在巴厘岛的讨论，重申了我们在联合国安理会和联合国大会上通过的国家立场和决议。]]></title>
-            <guid>3236312</guid>
-            <pubDate>Sat, 09 Sep 2023 10:50:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
