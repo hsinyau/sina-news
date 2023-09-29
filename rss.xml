@@ -4,375 +4,334 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 29 Sep 2023 15:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 18:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[英国联合工会（Unite）：伦敦最大的NHS信托公司Barts和英国医疗通讯机构Synergy的工人将于10月2日、3日和4日举行罢工；东伦敦基金会信托工人将于10月4日举行罢工。]]></title>
+            <guid>3258578</guid>
+            <pubDate>Fri, 29 Sep 2023 17:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国联合工会（Unite）：将在下周举行一系列罢工和示威活动，旨在增加工资、终止对国民保健服务（NHS）工人的“不安全人员配置”。]]></title>
+            <guid>3258577</guid>
+            <pubDate>Fri, 29 Sep 2023 17:42:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：政治因素不是密歇根工厂决策的考虑因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4790281.d.html</link>
+            <guid>3258574</guid>
+            <pubDate>Fri, 29 Sep 2023 17:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：由于全美汽车工人联合会的罢工，可能会有30万至50万供应商工人被解雇。]]></title>
+            <guid>3258573</guid>
+            <pubDate>Fri, 29 Sep 2023 17:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司：两家罢工工厂的影响是“重大的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyt1186412.d.html</link>
+            <guid>3258572</guid>
+            <pubDate>Fri, 29 Sep 2023 17:28:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：迄今已有2400名供应商工人因罢工而被解雇。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyt1186402.d.html</link>
+            <guid>3258571</guid>
+            <pubDate>Fri, 29 Sep 2023 17:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：当被问及拜登-麦卡锡会面的可能性时，众议院议长麦卡锡称需要与他的共和党议员团体会面。]]></title>
+            <guid>3258570</guid>
+            <pubDate>Fri, 29 Sep 2023 17:28:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：在薪酬和福利方面取得了重大进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4787597.d.html</link>
+            <guid>3258569</guid>
+            <pubDate>Fri, 29 Sep 2023 17:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：我们还没有达到可能陷入僵局的地步。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4787511.d.html</link>
+            <guid>3258568</guid>
+            <pubDate>Fri, 29 Sep 2023 17:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：正在研究汽车工人罢工活动扩大的潜在影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4787482.d.html</link>
+            <guid>3258567</guid>
+            <pubDate>Fri, 29 Sep 2023 17:22:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登将在本周末留在华盛顿，白宫将与国会领导人保持联系。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1563973.d.html</link>
+            <guid>3258563</guid>
+            <pubDate>Fri, 29 Sep 2023 17:19:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储在固定利率逆回购操作中总计接纳了107个对手方的1.558万亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyt1185591.d.html</link>
+            <guid>3258562</guid>
+            <pubDate>Fri, 29 Sep 2023 17:18:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：没有员工会因为电池厂的问题失去工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1563582.d.html</link>
+            <guid>3258561</guid>
+            <pubDate>Fri, 29 Sep 2023 17:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫预算主管Young：政府停摆预计将对GDP造成0.1-0.2%的影响，可能在下个季度得到弥补。]]></title>
+            <guid>3258558</guid>
+            <pubDate>Fri, 29 Sep 2023 17:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫预算主管Young：预计拜登将加强与国会的对话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4786022.d.html</link>
+            <guid>3258557</guid>
+            <pubDate>Fri, 29 Sep 2023 17:13:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司CEO：愿意与美国汽车工人联合会就电池工厂部分达成公平协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1562917.d.html</link>
+            <guid>3258556</guid>
+            <pubDate>Fri, 29 Sep 2023 17:12:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司：永远不会抵押未来，全美汽车工人联合会的要求超过福特目前的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyt1185061.d.html</link>
+            <guid>3258555</guid>
+            <pubDate>Fri, 29 Sep 2023 17:12:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司：福特的提议包括加薪20%以上，恢复成本生活津贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4785294.d.html</link>
+            <guid>3258549</guid>
+            <pubDate>Fri, 29 Sep 2023 17:09:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司：仍有时间达成协议并避免灾难。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyu6507575.d.html</link>
+            <guid>3258548</guid>
+            <pubDate>Fri, 29 Sep 2023 17:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车公司：美国汽车工人联合会主要是因为电池工厂问题拖延谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyu6507561.d.html</link>
+            <guid>3258547</guid>
+            <pubDate>Fri, 29 Sep 2023 17:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)更新与全美汽车工人联合会的劳资合同谈判时间，最新的谈判日期为当地时间2023年9月29日。]]></title>
+            <guid>3258546</guid>
+            <pubDate>Fri, 29 Sep 2023 17:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：希望看到参议院的决议继续推进。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4784689.d.html</link>
+            <guid>3258545</guid>
+            <pubDate>Fri, 29 Sep 2023 17:05:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：政府停摆将导致出现“真正的”困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4784587.d.html</link>
+            <guid>3258543</guid>
+            <pubDate>Fri, 29 Sep 2023 17:05:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：政府停摆将影响人们所依赖的各项福利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4784487.d.html</link>
+            <guid>3258542</guid>
+            <pubDate>Fri, 29 Sep 2023 17:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内涨幅扩大至0.50%，现报1.3556。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4784207.d.html</link>
+            <guid>3258540</guid>
+            <pubDate>Fri, 29 Sep 2023 17:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财政部长耶伦：政府停摆危险且没有必要 将引发经济不利因素】美国财政部长珍妮特·耶伦对迫在眉睫的政府停摆将对经济产生的影响发出警告，称这将伤害美国家庭并带来经济阻力，或会破坏改善经济前景方面取得的进展。耶伦在为周五的演讲事先准备好的讲稿中表示，“政府关门会影响许多关键的政府职能，从为农民和小企业发放贷款，到食品和工作场所安全检查，到针对儿童的Head Start项目。”Head Start项目为低收入家庭提供幼儿早教。她补充称停工还可能导致重大基建改造项目的延迟。耶伦在佐治亚州萨凡纳发表了上述讲话，旨在宣扬拜登政府的基础设施投资。“这些投资推动了长期经济增长，增强了经济韧性，并增加了经济机会，”耶伦说。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4783731.d.html</link>
+            <guid>3258539</guid>
+            <pubDate>Fri, 29 Sep 2023 16:59:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：国务院将采取一切可能的措施确保履行保护国家安全职责。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1559683.d.html</link>
+            <guid>3258537</guid>
+            <pubDate>Fri, 29 Sep 2023 16:53:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国务卿布林肯：我们的工作显然会受到政府停摆的影响，敦促国会不要让政府面临这一局面。]]></title>
+            <guid>3258536</guid>
+            <pubDate>Fri, 29 Sep 2023 16:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：预计2024年通胀将达到2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4782211.d.html</link>
+            <guid>3258534</guid>
+            <pubDate>Fri, 29 Sep 2023 16:50:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：有足够的迹象表明通胀压力正在减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1559219.d.html</link>
+            <guid>3258532</guid>
+            <pubDate>Fri, 29 Sep 2023 16:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：就业市场正在朝着更好的平衡发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyv4782062.d.html</link>
+            <guid>3258531</guid>
+            <pubDate>Fri, 29 Sep 2023 16:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：就业市场仍然强劲，当前失业率与长期趋势相符。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpmfyx1559081.d.html</link>
+            <guid>3258530</guid>
+            <pubDate>Fri, 29 Sep 2023 16:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：明年GDP增速预计将适度下降至约1.25%水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1689809.d.html</link>
+            <guid>3258528</guid>
+            <pubDate>Fri, 29 Sep 2023 16:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：预计明年失业率将略有上升至超过4%水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1689764.d.html</link>
+            <guid>3258527</guid>
+            <pubDate>Fri, 29 Sep 2023 16:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：货币政策收紧对经济的全面影响仍需一段时间才能显现。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1689748.d.html</link>
+            <guid>3258526</guid>
+            <pubDate>Fri, 29 Sep 2023 16:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FOMC永久票委、纽约联储主席威廉姆斯将于十分钟后参加有关经济前景和货币政策的一场讨论。]]></title>
+            <guid>3258517</guid>
+            <pubDate>Fri, 29 Sep 2023 16:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十家公司因WhatsApp相关调查向美国SEC支付合计7900万美元罚款】美国证券交易委员会（SEC）周五（9月29日）表示，包括盈透证券和贝雅在内的公司违反了必须保存员工业务通信记录的规定。据SEC表示，相关公司已同意向该监管机构缴纳合计7,900万美元的罚款。金融公司按要求必须监控并保存涉及其业务的通信记录，以杜绝不当行为。此前几家大银行向SEC和商品期货交易委员会(CFTC)缴纳逾25亿美元的罚款，以和解在个人手机和使用WhatsApp进行与工作相关通信的类似调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907968.d.html</link>
+            <guid>3258514</guid>
+            <pubDate>Fri, 29 Sep 2023 16:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登未能兑现结束颁布新的海上钻探许可的承诺。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsz1685005.d.html</link>
+            <guid>3258513</guid>
+            <pubDate>Fri, 29 Sep 2023 16:19:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：土耳其方面明确表示不会将从美国购买F-16战机与批准瑞典加入北约一事挂钩。]]></title>
+            <guid>3258512</guid>
+            <pubDate>Fri, 29 Sep 2023 16:19:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部：美国全部小麦产量预计为18.12亿蒲式耳。美国冬小麦产量预计12.48亿蒲式耳。美国春小麦产量预计为5.05亿蒲式耳。]]></title>
+            <guid>3258511</guid>
+            <pubDate>Fri, 29 Sep 2023 16:19:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[北约秘书长斯托尔滕贝格：我预计土耳其议会将在十月后不久通过瑞典加入北约的提议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-30/detail-imzpkzsx4907859.d.html</link>
+            <guid>3258510</guid>
+            <pubDate>Fri, 29 Sep 2023 16:19:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【两党分歧叠加共和党内斗致美政府关门几成定局】美国联邦政府本财政年度将于9月30日结束。维持政府运转的资金即将耗尽，而当前国会两党在预算问题上的缠斗仍陷僵局，美国媒体认为，联邦政府“关门”几乎已成定局。值得注意的是，此次预算案之争不仅体现了民主、共和两党的长久分歧，共和党内部“搞分裂”也让局势更加复杂。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6630815.d.html</link>
+            <guid>3258505</guid>
+            <pubDate>Fri, 29 Sep 2023 15:53:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国方面正在考虑向美洲锂业公司（Lithium Americas）提供创纪录的10亿美元贷款。]]></title>
+            <guid>3258504</guid>
+            <pubDate>Fri, 29 Sep 2023 15:49:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国纽约市长亚当斯警告称降雨量可能高达8英寸（203.2毫米），并宣布该市进入紧急状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1680023.d.html</link>
+            <guid>3258503</guid>
+            <pubDate>Fri, 29 Sep 2023 15:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：八位银行首席执行官将在12月份出席参议院银行业委员会听证会，摩根大通、美国银行、花旗、高盛的负责人将包括在内。]]></title>
+            <guid>3258502</guid>
+            <pubDate>Fri, 29 Sep 2023 15:46:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【清盘人称三箭资本联合创始人Zhu Su在试图离境新加坡时被捕】三箭资本(Three Arrows Capital)的清盘人表示，该对冲基金的联合创始人Zhu Su在试图离开新加坡时被捕。这家倒闭的加密货币对冲基金的清盘人、咨询公司Teneo表示，在Zhu Su未遵守法院强制其配合清盘调查的命令后，公司收到了针对Zhu Su的拘押令。根据一份声明，这份拘押令判处Zhu Su 4个月监禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1679729.d.html</link>
+            <guid>3258499</guid>
+            <pubDate>Fri, 29 Sep 2023 15:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【费霍出任西班牙首相失败】西班牙议会29日就人民党领导人阿尔韦托·努涅斯·费霍出任首相进行第二轮投票。费霍未能获得多数赞成票，无法出任首相。根据相关规定，议会主席弗朗西娜·阿门戈尔将向西班牙国王费利佩六世正式通报议会投票结果。未来两个月内，费利佩六世需要重新与各大党派展开磋商，并提名新的首相候选人。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6630009.d.html</link>
+            <guid>3258498</guid>
+            <pubDate>Fri, 29 Sep 2023 15:44:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：如果政府关门，我们将辜负我们的军队。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1678266.d.html</link>
+            <guid>3258495</guid>
+            <pubDate>Fri, 29 Sep 2023 15:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯计划在第四季度出售价值5000亿卢布的俄罗斯联邦政府债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1677915.d.html</link>
+            <guid>3258493</guid>
+            <pubDate>Fri, 29 Sep 2023 15:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Piper Sandler：予耐克“中性”评级 目标价112美元】Piper Sandler予耐克“中性”评级，目标价为112美元。虽然耐克有关消费者需求的评论好于预期，但随着其他品牌抢占市场份额，在更具挑战性的宏观背景下，该公司下半年的前景可能会被证明是“激进的”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6627491.d.html</link>
+            <guid>3258490</guid>
+            <pubDate>Fri, 29 Sep 2023 15:22:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝莱德CEO抨击美国政客 称政府停摆“荒谬、可怕”】贝莱德首席执行官Larry Fink痛批美国政客无法就政府资金达成协议，表示政府停摆的前景损害了该国在投资者心目中的地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6627199.d.html</link>
+            <guid>3258489</guid>
+            <pubDate>Fri, 29 Sep 2023 15:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【通用、福特将面临更多工人罢工，斯特兰蒂斯则幸免于难】美国汽车工人联合会计划将针对通用和福特的罢工扩大到更多的装配厂，但工会将使斯特兰蒂斯免于额外的罢工。UAW主席Shawn Fain在周五的直播上称，将被针对的新工厂是福特在芝加哥的一家工厂，以及通用在密歇根州兰辛的一家工厂。据了解此事的官员透露，工会原本还计划在斯特兰蒂斯罢工，不过Fain在宣布之前改变了路线，罢工计划因谈判而推迟。Fain赞扬了斯特兰蒂斯在谈判中取得进展，并表示，他们对斯特兰蒂斯的这种势头感到兴奋，并希望它能继续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4899466.d.html</link>
+            <guid>3258488</guid>
+            <pubDate>Fri, 29 Sep 2023 15:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：俄罗斯为埃克森美孚出售其在萨哈林1号输油管项目中份额一事设定了规则。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6626111.d.html</link>
+            <guid>3258486</guid>
+            <pubDate>Fri, 29 Sep 2023 15:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛：将耐克目标价从145美元下调至136美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsw6625971.d.html</link>
+            <guid>3258484</guid>
+            <pubDate>Fri, 29 Sep 2023 15:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【通信记录维护不当 十家公司向美国SEC支付合计7900万美元罚款】美国证券交易委员会(SEC)指控五家经纪自营商、三家双重注册的经纪自营商和投资顾问，以及两家附属投资顾问未能维护及保存电子通信记录。上述公司同意支付合计7900万美元的罚款并已开始改进其合规政策和流程，以解决违规行为。盈透证券同意支付3500万美元罚款，贝雅(Robert W. Baird)同意支付1,500万美元的罚款，威廉博莱(William Blair & Company)同意支付1,000万美元罚款，Nuveen Securities同意支付850万美元罚款，Fifth Third Securities同意支付800万美元罚款，自行上报的Perella Weinberg Partners LP连同Tudor, Pickering, Holt & Co. Securities以及Perella Weinberg Partners Capital Management LP同意支付共250万美元罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1675248.d.html</link>
+            <guid>3258482</guid>
+            <pubDate>Fri, 29 Sep 2023 15:08:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【今日15金 中国队金牌总数105】今天是中秋佳节，杭州第19届亚运会开幕后的第6个比赛日。截至目前，中国体育代表团已收获105枚金牌。]]></title>
             <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4897614.d.html</link>
             <guid>3258481</guid>
             <pubDate>Fri, 29 Sep 2023 15:04:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【津巴布韦一轻型飞机坠毁6人死亡】一架轻型飞机29日在津巴布韦首都哈拉雷以南300多公里的马斯温戈省马沙瓦地区一个农场上空坠毁，造成6人死亡。津巴布韦《先驱报》报道说，这架飞机属于津巴布韦一家公司，当地时间29日上午8时左右坠毁，机上所有乘客和机组人员已遇难。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4897371.d.html</link>
-            <guid>3258480</guid>
-            <pubDate>Fri, 29 Sep 2023 15:02:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利总理梅洛尼：对意大利与德国债券收益率差的扩大不感到担忧，意大利是稳定的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4896881.d.html</link>
-            <guid>3258479</guid>
-            <pubDate>Fri, 29 Sep 2023 14:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月堪萨斯联储服务业指数为2。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1673661.d.html</link>
-            <guid>3258478</guid>
-            <pubDate>Fri, 29 Sep 2023 14:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[福特汽车(F.N)将于美东时间9月29日下午1点举行简报会，更新劳资谈判情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsv1301390.d.html</link>
-            <guid>3258477</guid>
-            <pubDate>Fri, 29 Sep 2023 14:56:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【八钢低碳冶金2500立方米HyCROF商业示范项目投运】宝钢集团新疆八一钢铁有限公司消息，9月28日，八钢低碳冶金2500立方米HyCROF商业示范项目正式投运，标志着宝武低碳冶金技术研发历经多年锤炼全面进入商业化运作阶段，将为八钢低碳、高效、低成本、高质量发展奠定基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4896381.d.html</link>
-            <guid>3258476</guid>
-            <pubDate>Fri, 29 Sep 2023 14:55:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联航飞行员工会已批准一份新的为期四年的劳资协议，薪资总额将创新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsv1300458.d.html</link>
-            <guid>3258474</guid>
-            <pubDate>Fri, 29 Sep 2023 14:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【UAW主席Fain：与福特及通用汽车的谈判未能取得有效进展】美国汽车工人联合会（UAW）主席Fain：与福特及通用汽车的谈判未能取得有效进展。不过与Stellantis的谈判已有显著进展。UAW将在福特汽车的芝加哥工厂以及通用汽车在密歇根州兰辛市的工厂进行罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1671200.d.html</link>
-            <guid>3258469</guid>
-            <pubDate>Fri, 29 Sep 2023 14:38:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【汉江发生2023年第1号洪水】受近期降雨影响，汉江上游发生明显涨水过程。9月29日20时，丹江口水库入库流量涨至15100立方米每秒，依据水利部长江水利委员会《长江干流石鼓至寸滩江段和流域重要跨省支流洪水编号规定》，汉江发生2023年第1号洪水。（央视新闻）]]></title>
-            <guid>3258468</guid>
-            <pubDate>Fri, 29 Sep 2023 14:37:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：全美汽车工人联合会主席在网络直播中讨论汽车罢工的状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1670949.d.html</link>
-            <guid>3258467</guid>
-            <pubDate>Fri, 29 Sep 2023 14:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡升船机完成检修恢复通航】9月29日上午8时，随着船只缓缓驶入船厢，三峡升船机第三次计划性停航检修圆满完成，按时恢复通航。此次停航检修于8月25日8时正式启动，为期35天，是2019年12月27日竣工验收以来的第三次计划性停航检修。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsx4893475.d.html</link>
-            <guid>3258466</guid>
-            <pubDate>Fri, 29 Sep 2023 14:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家公路交通安全管理局 （NHTSA）：现代汽车美国公司在美国市场召回2354辆汽车。Forest River公司在美国市场召回46辆汽车。]]></title>
-            <guid>3258465</guid>
-            <pubDate>Fri, 29 Sep 2023 14:34:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月29日欧盘美盘重要新闻汇总】
-国内新闻：
-1. 国务院办公厅印发《关于释放旅游消费潜力推动旅游业高质量发展的若干措施》。
-2. 香港证监会发布多份虚拟资产交易平台名单。
-3. 截至9月29日21时31分，2023年国庆档新片总票房（含预售）突破6亿。
-4. 涉JPEX交易平台在港诈骗案被捕人数增至18人。
-5. 宁德时代与福特合作电池厂被曝再遇美众议院议员调查。
-国际新闻：
-1. 美国8月份核心PCE月率上涨0.1%，录得自2020年末以来最小月度涨幅。数据发布后，交易员继续押注美联储加息已经结束。
-2. 俄罗斯计划在禁令后的下个月几乎停止柴油出口。俄罗斯将从2024年8月起暂时提高天然气的矿产开采税。
-3. 俄罗斯央行将针对资金转移到国外的限制延长6个月。
-4. 欧元区9月CPI年率初值4.3%，预期4.50%，前值5.20%，降至两年来最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkzsz1670451.d.html</link>
-            <guid>3258464</guid>
-            <pubDate>Fri, 29 Sep 2023 14:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗CEO：美联储将不得不在11月份至少再一次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1800723.d.html</link>
-            <guid>3258463</guid>
-            <pubDate>Fri, 29 Sep 2023 14:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗CEO范洁恩：公司正密切关注那些财务状况较差消费者。对欧洲经济状况感到忧虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1800666.d.html</link>
-            <guid>3258462</guid>
-            <pubDate>Fri, 29 Sep 2023 14:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【UAW将扩大对汽车三巨头的罢工】据有关官员透露，美国汽车工人联合会计划将针对通用汽车、斯特兰提斯和福特的罢工扩大到另外三家装配厂。官员们表示，与上周不同的是，福特未能幸免于此次罢工的扩大。随着罢工进入第三周，美国汽车工人联合会主席加大了对汽车制造商的压力。谈判代表继续就工资、养老金和电池工人等问题讨价还价。知情人士透露，罢工目标包含每家公司的一处设施。罢工预计将于当地时间中午生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5023058.d.html</link>
-            <guid>3258460</guid>
-            <pubDate>Fri, 29 Sep 2023 14:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：由于与汽车制造商的谈判仍在继续，全美汽车工人联合会推迟发布声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5022894.d.html</link>
-            <guid>3258459</guid>
-            <pubDate>Fri, 29 Sep 2023 14:24:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗CEO：投行业务略有复苏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1427610.d.html</link>
-            <guid>3258457</guid>
-            <pubDate>Fri, 29 Sep 2023 14:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗CEO范洁恩：新的业务结构显示花旗集团并不是一家金融超市。公司将在四季度财报中公布裁员数字以及结构调整后的开支节省状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5021834.d.html</link>
-            <guid>3258455</guid>
-            <pubDate>Fri, 29 Sep 2023 14:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长内托：向巴西人民销售加密资产的经纪公司需要在巴西境内设立。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1798847.d.html</link>
-            <guid>3258454</guid>
-            <pubDate>Fri, 29 Sep 2023 14:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全美汽车工人联合会罢工的Stellantis(STLA.N)、通用汽车(GM.N)和福特汽车(F.N)装配厂将新增三个。]]></title>
-            <guid>3258452</guid>
-            <pubDate>Fri, 29 Sep 2023 14:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[通用汽车(GM.N)、福特汽车(F.N)和Stellantis(STLA.N)跌至盘中低点。]]></title>
-            <guid>3258450</guid>
-            <pubDate>Fri, 29 Sep 2023 14:10:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国连锁药房公司Walgreens股价日内上涨超过5%，为2022年11月以来最大涨幅。]]></title>
-            <guid>3258448</guid>
-            <pubDate>Fri, 29 Sep 2023 14:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：LG能源正在扩大美国电动汽车电池产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1424804.d.html</link>
-            <guid>3258447</guid>
-            <pubDate>Fri, 29 Sep 2023 14:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国纽约州州长霍楚尔宣布纽约市进入紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5019644.d.html</link>
-            <guid>3258445</guid>
-            <pubDate>Fri, 29 Sep 2023 14:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其将于12月从其国内市场借款400亿里拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1796254.d.html</link>
-            <guid>3258443</guid>
-            <pubDate>Fri, 29 Sep 2023 14:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[白宫办公管理和预算办公室：美国总统拜登将否决众议院关于边境安全的开支法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvky6746976.d.html</link>
-            <guid>3258442</guid>
-            <pubDate>Fri, 29 Sep 2023 14:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都至重庆中线高铁全线首孔箱梁预制成功】长江沿岸铁路集团四川有限公司9月29日透露，成都至重庆中线高速铁路四川段站前9标安岳东制梁场内，随着最后一方混凝土的顺利入模，标志着成渝中线高铁桥梁工程建设进入全新施工阶段。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1796114.d.html</link>
-            <guid>3258441</guid>
-            <pubDate>Fri, 29 Sep 2023 14:01:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：最近长期债券市场的波动性有些过度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1796070.d.html</link>
-            <guid>3258440</guid>
-            <pubDate>Fri, 29 Sep 2023 14:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委维勒鲁瓦：周五的数据显示，欧洲各地的总体和核心通胀逐渐下降。周五的数据也显示出欧洲央行的货币政策是有效的。这些数据增强了我们对欧元区和法国通胀率将在2025年回归2%目标的信心。数据证实我们当前的关键利率水平是适当的。]]></title>
-            <guid>3258439</guid>
-            <pubDate>Fri, 29 Sep 2023 14:00:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月五至十年期通胀率预期 2.8%，预期2.80%，前值2.70%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1795986.d.html</link>
-            <guid>3258438</guid>
-            <pubDate>Fri, 29 Sep 2023 14:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国9月密歇根大学现况指数终值 71.4，预期69.8，前值69.8。美国9月密歇根大学预期指数终值 66，预期66.4，前值66.3。]]></title>
-            <guid>3258437</guid>
-            <pubDate>Fri, 29 Sep 2023 14:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：经济非常有韧性，我们最不需要的就是政府关门。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1794499.d.html</link>
-            <guid>3258433</guid>
-            <pubDate>Fri, 29 Sep 2023 13:50:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【经纪人跌破4万，投顾增速放缓】截至9月22日，今年证券公司从业人员共有35.38万人，相比今年上半年末情况有改善。据悉，今年上半年行业人数一度减少超过4000人至34.97万人，主要为证券经纪人的流失。但目前整体数据依然比去年末的35.43万人少，全行业人员净流出状态明显。从证券从业人员类型及结构情况来看，证券经纪人数量已跌破4万人。据悉，去年三季度末为4.8万人，也就是说，不到一年时间证券经纪人已减少了一万人；投顾数量则进一步增加，显示出投顾岗位仍在扩容。不过，根据记者统计，投顾人数增幅放缓趋势明显。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5017089.d.html</link>
-            <guid>3258432</guid>
-            <pubDate>Fri, 29 Sep 2023 13:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：政府关闭将对美国经济构成完全不必要的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1793999.d.html</link>
-            <guid>3258431</guid>
-            <pubDate>Fri, 29 Sep 2023 13:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林“浮桥案”新进展：原判适用法律有误，白城中院决定再审】2023年7月，吉林省白城市洮南市瓦房镇振林村18位村民因私搭浮桥寻衅滋事被判刑一事受到公众关注。 9月29日，相关权威信源确认，吉林白城市中级人民法院出具了再审决定书，其显示，黄德义于2023年6月26日以不构成犯罪为由向本院提出申诉。本院经审查认为，原判决适用法律确有错误，本案符合再审条件，决定由白城市中级人民法院提审。再审决定书落款时间为2023年9月27日。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5016483.d.html</link>
-            <guid>3258428</guid>
-            <pubDate>Fri, 29 Sep 2023 13:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：众议院共和党可以避免政府停摆，这取决于他们。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1421660.d.html</link>
-            <guid>3258427</guid>
-            <pubDate>Fri, 29 Sep 2023 13:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：政府停摆完全可以避免。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1421620.d.html</link>
-            <guid>3258426</guid>
-            <pubDate>Fri, 29 Sep 2023 13:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：经济存在风险，但仍然表现出弹性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1421525.d.html</link>
-            <guid>3258425</guid>
-            <pubDate>Fri, 29 Sep 2023 13:44:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫国家经济委员会主任布雷纳德：（今日发布的）美国通胀数据绝对是好消息。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5016139.d.html</link>
-            <guid>3258423</guid>
-            <pubDate>Fri, 29 Sep 2023 13:42:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【武铁单日旅客发送量超百万人次创历史新高】 据中国铁路武汉局集团有限公司(简称“武铁”)29日消息，当日武铁共开行旅客列车634列，发送旅客近108万人次，创单日旅客发送量历史新高。（中国新闻网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvky6744039.d.html</link>
-            <guid>3258422</guid>
-            <pubDate>Fri, 29 Sep 2023 13:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大经济增长低于预期，支持央行暂停加息】加拿大经济上个月略有反弹，但增长仍然乏力，这为央行在通胀依然高企的情况下继续按兵不动提供了支持。加拿大统计局周五的初步数据显示，8月GDP小幅增长0.1%，零售和油气行业的下滑部分抵消了批发和金融行业的增长，而7月的GDP数据则持平。如果9月份产出持平，那么第三季度该国经济的年化增长率可能会为0.2%，这低于普遍预期的0.4%。加拿大央行行长麦克勒姆及其他官员们希望消费活动的疲软会在未来几个月转化为价格上涨的放缓。他们在9月初的利率决议中采取了观望态度，称经济中的过剩需求正在缓解。今日的数据支持了这一观点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1420723.d.html</link>
-            <guid>3258419</guid>
-            <pubDate>Fri, 29 Sep 2023 13:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023国庆档新片票房破6亿】据灯塔专业版，截至9月29日21时31分，2023年国庆档新片总票房（含预售）突破6亿，《前任4：英年早婚》《坚如磐石》《志愿军：雄兵出击》暂列前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5014911.d.html</link>
-            <guid>3258417</guid>
-            <pubDate>Fri, 29 Sep 2023 13:35:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[耐克(NKE.N)开盘涨11%，创下去年12月以来的最大涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1420058.d.html</link>
-            <guid>3258416</guid>
-            <pubDate>Fri, 29 Sep 2023 13:35:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国最高法院将审查共和党支持的社交媒体内容法。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1419819.d.html</link>
-            <guid>3258415</guid>
-            <pubDate>Fri, 29 Sep 2023 13:33:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国国家统计局：最新的GDP修正将英国2023年8月的公共债务占GDP比率从98.8%降低至97.9%。]]></title>
-            <guid>3258414</guid>
-            <pubDate>Fri, 29 Sep 2023 13:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太平洋酒吧：向三位执行董事授出合共2889.6万股奖励股份】太平洋酒吧(08432)发布公告，董事会决议向陈枳桥、陈枳曈及陈静(所有人士均为公司执行董事兼主要股东)各自授出963.2万股股份奖励。该授出已在股东特别大会上获得独立股东批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvky6742265.d.html</link>
-            <guid>3258413</guid>
-            <pubDate>Fri, 29 Sep 2023 13:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【歌礼制药-B：斥资106万港元回购55万股】歌礼制药-B(01672)发布公告，于2023年9月29日该公司斥资106万港元回购55万股，回购价格为每股1.86-1.95港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1419379.d.html</link>
-            <guid>3258412</guid>
-            <pubDate>Fri, 29 Sep 2023 13:31:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦发生两起爆炸袭击已致55死60伤】巴基斯坦9月29日发生两起爆炸袭击事件，共造成至少55人死亡，60人受伤。巴基斯坦西南部俾路支省首府奎达市警察局反恐部门副总警监戈拉亚表示，该省默斯东地区一座清真寺附近庆祝伊斯兰教重要节日“圣纪节”的集会现场当天发生一起自杀式爆炸袭击事件，造成至少50人死亡，50人受伤。另一起爆炸袭击发生在开伯尔-普什图省亨古地区一警察局内，造成至少5人死亡，10人受伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkx1419103.d.html</link>
-            <guid>3258409</guid>
-            <pubDate>Fri, 29 Sep 2023 13:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国证交会（SEC）指控10家公司存在记录保存失误，将对此支付7900万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1789270.d.html</link>
-            <guid>3258401</guid>
-            <pubDate>Fri, 29 Sep 2023 13:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织数据显示，美元在第二季度全球货币储备中的份额为58.9%，与第一季度相比几乎没有变化。]]></title>
-            <guid>3258396</guid>
-            <pubDate>Fri, 29 Sep 2023 13:15:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兰州中川国际机场三期扩建工程110千伏民航变电站顺利启用】9月28日，兰州中川国际机场三期扩建工程110千伏民航变电站顺利启用，标志着三期扩建工程取得了阶段性的进展成果。该工程项目按设计目标2030年旅客吞吐量3800万人次、货邮吞吐量30万吨、飞机起降30万架次设计。本期110千伏民航变电站建筑面积为5012平方米，变电站的启用，是兰州中川国际机场三期扩建工程投产的第一个单体项目，为正在推进的信息、弱电、通信导航等设施设备的调试提供了保障，也为三期扩建工程整体按计划有序实施奠定了坚实的基础。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvky6738662.d.html</link>
-            <guid>3258390</guid>
-            <pubDate>Fri, 29 Sep 2023 13:10:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透调查：俄罗斯卢布兑美元预计在12个月内的水平为95.00（之前的调查结果为95.00）。]]></title>
-            <guid>3258382</guid>
-            <pubDate>Fri, 29 Sep 2023 13:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透调查：俄罗斯2023年的GDP预计将增长2.3%（上一次调查为2.0%）。预计俄罗斯的关键利率在2023年底将超过14%（之前的调查为12%）。]]></title>
-            <guid>3258379</guid>
-            <pubDate>Fri, 29 Sep 2023 13:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透调查：预计俄罗斯将于10月27日将关键利率上调至14.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1786243.d.html</link>
-            <guid>3258378</guid>
-            <pubDate>Fri, 29 Sep 2023 13:00:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧元区9月通胀率降至4.3%】欧盟统计局29日公布的初步统计数据显示，受基数效应和需求下降影响，欧元区9月通胀率按年率计算为4.3%，低于8月的5.2%，降幅超预期。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5008288.d.html</link>
-            <guid>3258373</guid>
-            <pubDate>Fri, 29 Sep 2023 12:55:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涉JPEX交易平台在港诈骗案被捕人数增至18人】一家名为JPEX的加密货币交易平台在港无牌经营、虚假宣传的事件，连日来持续引起香港社会关注，香港警方已将其列为诈骗类案件。香港警方29日就此通报，日前与澳门警方采取联合行动并拘捕4人。截至28日，已有18人因涉此案被捕。警方表示，目前已知涉案交易达数万次。鉴于加密货币具有匿名性的特点，还可在短时间内通过不同交易平台转移，再加上犯罪集团已将很多文件销毁，为警方追截骗款和案件调查带来一定困难。目前警方正全力追查涉案虚拟资产的去向，已锁定其他目标人员身份，但部分目标人员已离港，警方会通过国际或地区间协作进行缉捕。 (中新网)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvky6736147.d.html</link>
-            <guid>3258372</guid>
-            <pubDate>Fri, 29 Sep 2023 12:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【加拿大经济在7月停滞不前，8月有望增长0.1%】加拿大统计局周五表示，由于制造业出现两年多来的最大跌幅，加拿大经济在7月份陷入停滞，但8月份很可能增长0.1%。在加拿大央行决定自去年初以来10次加息以应对高通胀之后，加拿大经济正在放缓。总体而言，7月份服务业小幅增长0.1%，而商品制造业则收缩0.3%。制造业较6月收缩1.5%，这是自2021年4月以来最大的环比降幅，主要原因是企业减少了库存。此外，6月遭受野火冲击的一些行业在7月有所反弹。除石油和天然气外，采矿和采石业上涨4.2%，而住宿和食品服务业上涨2.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1783074.d.html</link>
-            <guid>3258360</guid>
-            <pubDate>Fri, 29 Sep 2023 12:42:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长内托：通胀预期仍高于目标，我们还有工作要做。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvmc1782858.d.html</link>
-            <guid>3258359</guid>
-            <pubDate>Fri, 29 Sep 2023 12:41:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西央行行长内托：我支持巴西石油公司进行价格调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-09-29/detail-imzpkvkz5005534.d.html</link>
-            <guid>3258357</guid>
-            <pubDate>Fri, 29 Sep 2023 12:39:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月份商品贸易逆差初值843亿美元；预估为逆差914亿美元。]]></title>
-            <guid>3258354</guid>
-            <pubDate>Fri, 29 Sep 2023 12:38:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
