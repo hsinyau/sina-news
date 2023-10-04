@@ -4,11 +4,175 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 04 Oct 2023 18:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 21:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[周三纽约尾盘，美元兑日元涨0.07%，报149.12点，盘中交投区间为148.74-149.32点，10月3日曾涨至150.16——上次涨穿该整数位心理关口是2022年10月21日。]]></title>
+            <guid>3262381</guid>
+            <pubDate>Wed, 04 Oct 2023 21:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿根廷股指收涨将近6%】 巴西圣保罗证交所指数收涨0.17%，报11.4万点。巴西雷亚尔兑美元目前涨0.21%，暂报5.1571雷亚尔。阿根廷MERVAL指数收涨5.87%，报59.4万点，8月29日涨至历史新高69.1万点之后，持续震荡于60万点整数位心理关口下方。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxt5938934.d.html</link>
+            <guid>3262380</guid>
+            <pubDate>Wed, 04 Oct 2023 21:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股大类资产类ETF多数收跌】 周三（10月4日），美国国债20+年ETF收涨1.41%，纳指100 ETF涨1.36%，美国房地产ETF涨1.22%，美国投资级公司债涨0.87%，标普500 ETF涨0.73%，美国国债7-10年ETF涨0.63%，欧元做多涨0.49%，大豆基金、农产品基金则至少收跌超0.1%，日元做多跌超0.2%，做多美元指数和新兴市场ETF跌0.3%，恐慌指数做多跌超5.0%，美国布伦特油价基金跌5.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxs7441339.d.html</link>
+            <guid>3262373</guid>
+            <pubDate>Wed, 04 Oct 2023 20:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美股行业ETF普遍收涨】 周三（10月4日），全球航空业ETF收涨2.01%，可选消费ETF、半导体ETF、全球科技股指数ETF、科技行业ETF涨1.97%-1.25%，公用事业ETF则收跌0.11%，能源业ETF跌3.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxr2118266.d.html</link>
+            <guid>3262366</guid>
+            <pubDate>Wed, 04 Oct 2023 20:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚发布2023年三季度业绩考虑因素：液体能源价格造成的影响为推高营收9亿-13亿美元。天然气价格变化将推动营收增长2亿-6亿美元。能源利润料将上浮9亿-11亿美元。]]></title>
+            <guid>3262360</guid>
+            <pubDate>Wed, 04 Oct 2023 20:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数据显示：芝加哥期权交易所（CBOE）九月份指数期权的平均每日交易量增长了14.3%；九月期货平均每日交易量下降了0.3%；九月份多重上市期权的平均每日交易量下降了7.1%。]]></title>
+            <guid>3262358</guid>
+            <pubDate>Wed, 04 Oct 2023 20:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块普遍收涨，但能源板块跌超3.3%】 周三（10月4日），标普500指数微幅高开，早盘多次转跌，刷新日低至4220.48点，随后震荡上行，于美股收盘前30分钟内涨至日高4268.50点，最终收于这一点位附近。标普可选消费板块涨1.97%领跑，电信服务板块涨1.28%，信息技术/科技板块涨1.25%，原材料和房地产板块涨超1.1%，公用事业板块则收跌将近0.1%，能源板块跌3.36%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxs7440435.d.html</link>
+            <guid>3262357</guid>
+            <pubDate>Wed, 04 Oct 2023 20:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[开市客/好市多9月同店销售总额增长4.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxt5936903.d.html</link>
+            <guid>3262345</guid>
+            <pubDate>Wed, 04 Oct 2023 20:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【惠誉：美国政府今年稍晚恐将停止运作，但不会影响主权评级】 评级机构惠誉表示，美国众议院议长麦卡锡被弹劾，意味今年稍晚美国政府可能会停止运作，但此并不会影响其对美国的主权评级。惠誉高级董事Richard Franci表示，由于麦卡锡被投票通过弹劾后已立即下台，预计围绕美国政府资金谈判的政治边缘政策将继续紧张，且不能排除后续发生政府停止运作的可能性。不过，政府停摆不会影响惠誉对美国的主权评级，因惠誉今年8月下调美国评级时已反映其管治恶化的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyvxr2116717.d.html</link>
+            <guid>3262338</guid>
+            <pubDate>Wed, 04 Oct 2023 20:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“越南特斯拉”VinFast Auto（VFS）收跌13.72%，报8.05美元，刷新8月15日美国借壳上市以来收盘最低位，一度刷新盘中历史低点至7.98美元。]]></title>
+            <guid>3262334</guid>
+            <pubDate>Wed, 04 Oct 2023 20:06:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[线上杂货配送公司Instacart（CART）收涨2.90%，报27.31美元，10月3日刷新9月19日美国IPO以来盘中低点至26.11美元。]]></title>
+            <guid>3262332</guid>
+            <pubDate>Wed, 04 Oct 2023 20:04:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Keystone输油管道短暂中断后重启，运力减半至30万桶/日】加拿大Keystone原油管道在因维修工作而暂停后，周二的运行能力降低至原来的大约一半。据知情人士透露，这条管道在周二当天早些时候中断后，于周二晚间恢复了服务。上述知情人士援引Wood Mackenzie Ltd.的数据称，目前每天运输近30万桶原油，约为其近60万桶日运力的一半。数据显示，此次中断导致加拿大阿尔伯塔省重质原油对美国基准WTI原油的价差扩大85美分，至20.60美元/桶，这是自2月份以来首次超过20美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6062555.d.html</link>
+            <guid>3262315</guid>
+            <pubDate>Wed, 04 Oct 2023 19:38:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Astera就2024年潜在的IPO事宜接触摩根士丹利，该公司的股东包括英特尔。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6062507.d.html</link>
+            <guid>3262314</guid>
+            <pubDate>Wed, 04 Oct 2023 19:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚马逊将关闭其直播音频流媒体服务AMP。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2836994.d.html</link>
+            <guid>3262298</guid>
+            <pubDate>Wed, 04 Oct 2023 19:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：通用汽车（GM）首席技术官（CTO）Golan离职，距离其入职刚刚一个月。]]></title>
+            <guid>3262297</guid>
+            <pubDate>Wed, 04 Oct 2023 19:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：美国政府关门不会影响美国AA+稳定主权评级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2835478.d.html</link>
+            <guid>3262290</guid>
+            <pubDate>Wed, 04 Oct 2023 19:11:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：美国政府今年晚些时候可能会发生停摆，这一可能性不能被排除。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6058372.d.html</link>
+            <guid>3262289</guid>
+            <pubDate>Wed, 04 Oct 2023 19:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：在美国众议院议长麦卡锡被罢免后，围绕政府资金谈判的对峙局势可能仍然紧张。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrt2242768.d.html</link>
+            <guid>3262286</guid>
+            <pubDate>Wed, 04 Oct 2023 19:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥小麦期货跌约1.7%，投资者关注俄罗斯供应】 周三（10月4日）纽约尾盘，谷物分类指数跌0.63%，报40.8256点。CBOT玉米期货跌0.31%，报4.86美元/蒲式耳。CBOT小麦期货跌1.67%，报5.59美元/蒲式耳。CBOT大豆期货大致持平，报12.72-1/2美元/蒲式耳，豆粕期货涨0.03%，豆油期货跌1.89%。ICE原糖期货涨1.05%，ICE白糖期货涨0.25%。ICE阿拉比卡咖啡期货跌1.75%。ICE棉花期货跌0.48%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2835227.d.html</link>
+            <guid>3262285</guid>
+            <pubDate>Wed, 04 Oct 2023 19:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LG能源解决方案与丰田汽车围绕美国电池供应问题达成协议。2025年开始，每年将向丰田供应20 GWh电池模块。LG能源解决方案将在密歇根州投资4万亿韩元。]]></title>
+            <guid>3262282</guid>
+            <pubDate>Wed, 04 Oct 2023 19:03:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌称特别小组登陆克里米亚时与俄军激战】乌克兰国防部情报总局发言人当地时间10月4日称，当天凌晨，乌克兰特种部队小组在克里米亚登陆时与俄军发生了激烈的战斗，俄军人员遭受损失。乌特种部队小组已经完成任务返回驻地。俄罗斯国防部当天发布消息说，当地时间4日凌晨，在黑海西北部水域，乌克兰登陆小组试图利用一艘军用快艇和三艘水上摩托艇在塔尔汉库特角方向潜入克里米亚。这一行动被俄军阻止。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2833871.d.html</link>
+            <guid>3262281</guid>
+            <pubDate>Wed, 04 Oct 2023 19:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯政府打击灰色燃油出口活动：支持针对部分燃油出口商实施禁令性的高水平关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2833847.d.html</link>
+            <guid>3262280</guid>
+            <pubDate>Wed, 04 Oct 2023 19:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金融博客零对冲：上次油价暴跌这么严重的时候，英国国债因小型预算惨败而崩溃，英镑跌至37年低点，多家英国金融机构处于崩溃的边缘，英国央行重启量化宽松。]]></title>
+            <guid>3262277</guid>
+            <pubDate>Wed, 04 Oct 2023 18:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构分析：需求前景不乐观，油价承压重挫】由于经济逆风正在酝酿，需求增长前景面临压力，国际油价承压大跌。Investec大宗商品主管Callum Macpherson在10月4日的一份报告中表示：“市场的注意力已经从短期紧张转向了利率在更长时间内保持较高水平的影响，随之而来的低迷宏观环境，以及欧佩克+在11月26日开会时计划如何应对。”此外，美国30年期国债收益率一度突破5%，升至2007年以来的最高水平。分析师表示，债券收益率上升反映了市场对利率上升的预期，这可能预示着经济增长放缓并抑制石油需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrru7563618.d.html</link>
+            <guid>3262272</guid>
+            <pubDate>Wed, 04 Oct 2023 18:46:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国制药公司赛诺菲将向以色列梯瓦制药支付高达1.5亿美元，以帮助开发和销售一种用于治疗炎症性肠病的药品。]]></title>
+            <guid>3262271</guid>
+            <pubDate>Wed, 04 Oct 2023 18:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 11月天然气期货收涨0.44%，报2.9620美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrx2830821.d.html</link>
+            <guid>3262270</guid>
+            <pubDate>Wed, 04 Oct 2023 18:42:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院少数党领袖麦康奈尔：希望众议院下周能有一位新的议长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6051080.d.html</link>
+            <guid>3262267</guid>
+            <pubDate>Wed, 04 Oct 2023 18:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“债券天王”比尔·格罗斯：债券市场“有点超卖”，“受惊吓”的债券交易所交易基金（ETF）投资者增加了压力。]]></title>
+            <guid>3262266</guid>
+            <pubDate>Wed, 04 Oct 2023 18:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“债券天王”比尔·格罗斯：美国10年期国债收益率“水平是合理的”，但估值并不突出。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-05/detail-imzpyrrv6050246.d.html</link>
+            <guid>3262265</guid>
+            <pubDate>Wed, 04 Oct 2023 18:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[加拿大联合工会Unifor：联合汽车工会与通用汽车(GM.N)的谈判团队正在继续进行谈判。]]></title>
             <guid>3262264</guid>
@@ -270,137 +434,6 @@ LME期锡收涨72美元，报23926美元/吨。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7803506.d.html</link>
             <guid>3262204</guid>
             <pubDate>Wed, 04 Oct 2023 15:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌发布 Pixel 8系列手机，在摄像头等零部件采用 AI技术】谷歌发布 Pixel8，起售价699美元，Pixel 8 Pro起售价999美元。这两款手机都基于 TensorG3自研芯片，这款芯片支持谷歌在摄像头等领域采用自家的人工智能 (AI) 和机器人学习资源。这两款手机10月4日即提供预定，将于10月12日发货/上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7803039.d.html</link>
-            <guid>3262201</guid>
-            <pubDate>Wed, 04 Oct 2023 15:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)将于10月25日发布第三季度业绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6278408.d.html</link>
-            <guid>3262199</guid>
-            <pubDate>Wed, 04 Oct 2023 15:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海警局：坚决反对菲方向非法“坐滩”军舰运送违规建材】中国海警局新闻发言人甘羽表示，10月4日，菲2艘运补船和2艘海警船未经中国政府允许，擅自进入中国南沙群岛仁爱礁邻近海域。中国海警依法对菲船只进行严正警告、全程跟监、有效规制。中国对包括仁爱礁在内的南沙群岛及其附近海域拥有无可争辩的主权，坚决反对菲方向非法“坐滩”军舰运送违规建材。中国海警将依法在中国管辖海域持续开展维权执法活动。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyfac3054251.d.html</link>
-            <guid>3262197</guid>
-            <pubDate>Wed, 04 Oct 2023 14:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【共和党人Jim Jordan证实他将竞选众议院议长】来自俄亥俄州的共和党联邦众议员Jim Jordan证实他将竞选众议院议长，称“关键是把会议团结起来。已经有很多人联系我们，请我去做这件事”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezx2478794.d.html</link>
-            <guid>3262196</guid>
-            <pubDate>Wed, 04 Oct 2023 14:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三超新材：一台磨倒一体设备可抵传统硅棒加工设备4-5台的加工效率】三超新材在互动平台表示，公司磨倒一体机是将硅棒磨削加工工序集中于一台设备，五个加工工位分别为两个磨面工位，三个倒角滚圆工位，五个加工工位同时加工。一台磨倒一体设备可抵传统硅棒加工设备4-5台的加工效率，5-10分钟可出一件成品硅棒，相同产出，可节省投资30%-40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7801155.d.html</link>
-            <guid>3262193</guid>
-            <pubDate>Wed, 04 Oct 2023 14:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：风暴“菲利普”转向西北偏北方向，但强降雨仍在持续袭击维尔京群岛，百慕大地区发出热带风暴警报。]]></title>
-            <guid>3262192</guid>
-            <pubDate>Wed, 04 Oct 2023 14:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌上涨1.4%，此前宣布推出Pixel Watch 2、Pixel 8和Pixel 8 Pro，将会把生成式AI聊天机器人与虚拟助手结合在一起。]]></title>
-            <guid>3262191</guid>
-            <pubDate>Wed, 04 Oct 2023 14:44:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【谷歌发布Pixel 8系列手机，在摄像头等零部件采用AI技术】谷歌发布Pixel 8，起售价699美元，Pixel 8 Pro起售价999美元。这两款手机都基于Tensor G3自研芯片，这款芯片支持谷歌在摄像头等领域采用自家的人工智能（AI）和机器人学习资源。这两款手机10月4日即提供预定，将于10月12日发货/上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6275591.d.html</link>
-            <guid>3262190</guid>
-            <pubDate>Wed, 04 Oct 2023 14:44:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴克莱本周启动裁员，将裁掉3%的全球投资银行员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6274900.d.html</link>
-            <guid>3262189</guid>
-            <pubDate>Wed, 04 Oct 2023 14:41:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙汽车工业协会（ANFAC）：西班牙九月份新车销量同比增长2.3％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7799629.d.html</link>
-            <guid>3262188</guid>
-            <pubDate>Wed, 04 Oct 2023 14:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至9月29日当周EIA战略石油储备库存 30万桶，前值-25万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7798761.d.html</link>
-            <guid>3262182</guid>
-            <pubDate>Wed, 04 Oct 2023 14:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：除却战略储备的商业原油库存减少222.4万桶至4.14亿桶，降幅0.53%。]]></title>
-            <guid>3262181</guid>
-            <pubDate>Wed, 04 Oct 2023 14:32:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：09月29日当周美国除却战略储备的商业原油进口621.5万桶/日，较前一周减少101.4万桶/日。]]></title>
-            <guid>3262179</guid>
-            <pubDate>Wed, 04 Oct 2023 14:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：09月29日当周美国原油出口增加94.4万桶/日至495.6万桶/日。]]></title>
-            <guid>3262178</guid>
-            <pubDate>Wed, 04 Oct 2023 14:31:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：美国原油产品四周平均供应量为2030.1万桶/日，较去年同期增加1.69%。]]></title>
-            <guid>3262176</guid>
-            <pubDate>Wed, 04 Oct 2023 14:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：09月29日当周美国国内原油产量维持在1290.0万桶/日不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6273198.d.html</link>
-            <guid>3262175</guid>
-            <pubDate>Wed, 04 Oct 2023 14:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EIA报告：09月29日当周美国战略石油储备（SPR）库存增加30.0万桶至3.513亿桶，增幅0.09%。]]></title>
-            <guid>3262174</guid>
-            <pubDate>Wed, 04 Oct 2023 14:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李家超：首批20间企业成为香港特区政府重点企业伙伴】 香港特区行政长官李家超4日在“重点企业伙伴启动礼”致辞时表示，第一批20间企业成为特区政府的重点企业伙伴，成果令人鼓舞。启动礼上，引进重点企业办公室（引进办）与这20间来自内地和海外的企业举行了签字仪式。这些企业分别来自生命健康科技、人工智慧与数据科学、金融科技、先进制造与新能源科技产业，它们大部分将在香港设立研发中心或区域业务总部。未来几年，被引进的重点企业将会在香港投资超300亿港元，创造约10000个就业机会，当中大部分为科研和管理职位。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6272801.d.html</link>
-            <guid>3262170</guid>
-            <pubDate>Wed, 04 Oct 2023 14:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌宣布推出Pixel 8和Pixel 8 Pro。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6272598.d.html</link>
-            <guid>3262169</guid>
-            <pubDate>Wed, 04 Oct 2023 14:27:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默：众议院面临危险局面，政府资金将在大约40天后用尽。敦促下一任美国众议院议长认识到为保持政府运转需要两党合作的必要性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezz6272554.d.html</link>
-            <guid>3262168</guid>
-            <pubDate>Wed, 04 Oct 2023 14:26:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[提醒：美联储理事鲍曼并未在讲稿中谈及FOMC利率政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezy7797906.d.html</link>
-            <guid>3262167</guid>
-            <pubDate>Wed, 04 Oct 2023 14:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼在银行业会议上准备的讲话中未对货币政策和经济前景发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyfac3049511.d.html</link>
-            <guid>3262166</guid>
-            <pubDate>Wed, 04 Oct 2023 14:25:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国男篮76比77惜败菲律宾 无缘亚运会决赛】男篮半决赛，中国男篮在领先20分的情况下，第四节最后时刻被对手反超。最后一攻，张镇麟中投打铁，最终中国男篮以76-77惜败菲律宾，无缘亚运会决赛。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-04/detail-imzpyezx2474716.d.html</link>
-            <guid>3262164</guid>
-            <pubDate>Wed, 04 Oct 2023 14:23:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
