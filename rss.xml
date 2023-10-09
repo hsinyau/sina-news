@@ -4,467 +4,318 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 09 Oct 2023 12:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 15:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[以色列央行：央行不会捍卫任何特定的以色列新谢克尔汇率水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3721661.d.html</link>
-            <guid>3267423</guid>
-            <pubDate>Mon, 09 Oct 2023 12:11:08 GMT</pubDate>
+            <title><![CDATA[据报道：巴勒斯坦伊斯兰圣战组织称对黎巴嫩-以色列边境的行动负责，此前黎巴嫩军队称以色列在边境地区进行空袭和炮击。]]></title>
+            <guid>3267587</guid>
+            <pubDate>Mon, 09 Oct 2023 15:03:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2连板卓翼科技：近期经营情况及内外部经营环境未发生重大变化】卓翼科技公告，公司的股票自9月28日起连续两个交易日内收盘价格涨幅偏离值累计超过20%，达成2连板，根据《深圳证券交易所交易规则》的有关规定，属于股票交易异常波动的情况。公司近期经营情况及内外部经营环境未发生重大变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4572333.d.html</link>
-            <guid>3267422</guid>
-            <pubDate>Mon, 09 Oct 2023 12:10:32 GMT</pubDate>
+            <title><![CDATA[意大利央行：意大利政府的经济增长预测是可信的，但风险很高且倾向下行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4475761.d.html</link>
+            <guid>3267584</guid>
+            <pubDate>Mon, 09 Oct 2023 15:01:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[雪佛龙澳大利亚发言人：根据澳大利亚公平工作委员会全体法官的指示，雪佛龙今天已经寻求委员会的协助，以完成戈尔贡和麦士通天然气设施的企业协议的起草工作。]]></title>
-            <guid>3267421</guid>
-            <pubDate>Mon, 09 Oct 2023 12:08:50 GMT</pubDate>
+            <title><![CDATA[【汉莎航空取消14日前往返特拉维夫的航班】汉莎航空10月9日表示，公司将安全放在首位。由于以色列的局势仍不明朗，在对局势进行深入分析后，汉莎航空决定暂停往返特拉维夫的定期航班，直至10月14日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8941457.d.html</link>
+            <guid>3267583</guid>
+            <pubDate>Mon, 09 Oct 2023 15:01:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国宝安：贝特瑞有给华为智能手表提供石墨烯导热膜】中国宝安在互动平台表示，贝特瑞有给华为的智能手表项目提供石墨烯导热膜。]]></title>
-            <guid>3267420</guid>
-            <pubDate>Mon, 09 Oct 2023 12:08:33 GMT</pubDate>
+            <title><![CDATA[市场消息：土耳其短期内没有放宽离岸外汇掉期限制的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8941237.d.html</link>
+            <guid>3267581</guid>
+            <pubDate>Mon, 09 Oct 2023 15:00:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【大连友谊：控股子公司1.62亿元土地增值税清算税款逾期】大连友谊公告，公司控股子公司江苏合升近期完成其开发的苏州海尚壹品项目土地增值税清算工作。依据国家税务总局苏州工业园区金鸡湖商务区税务分局《税务事项通知书》等相关文件要求，江苏合升应于10月4日前补缴土地增值税清算税款1.62亿元。在收到上述通知后，江苏合升与公司多方筹集资金，但截至目前暂未筹集完成全部税款，公司拟分期支付该笔税款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3721097.d.html</link>
-            <guid>3267419</guid>
-            <pubDate>Mon, 09 Oct 2023 12:07:49 GMT</pubDate>
+            <title><![CDATA[【国盾量子：目前正在与中国电信合作量子安全通话产品】国盾量子在投资者互动平台表示，公司目前正在与中国电信合作量子安全通话产品，该产品适配目前市面上大部分手机机型，目前正在推广期，根据来自中国电信方面的数据，目前用户数已超70万。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4475435.d.html</link>
+            <guid>3267580</guid>
+            <pubDate>Mon, 09 Oct 2023 14:59:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：没有看到劳动力市场过热的证据。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7794267.d.html</link>
-            <guid>3267418</guid>
-            <pubDate>Mon, 09 Oct 2023 12:07:04 GMT</pubDate>
+            <title><![CDATA[意大利央行：最新数据表明，经济活动的疲软在第三季度持续存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7698161.d.html</link>
+            <guid>3267579</guid>
+            <pubDate>Mon, 09 Oct 2023 14:57:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【九部门：督促城市公共交通企业按时足额发放工资、缴纳社会保险】交通运输部等九部门印发关于推进城市公共交通健康可持续发展的若干意见。其中提出，保障从业人员工资待遇。督促城市公共交通企业按时足额发放工资、缴纳社会保险，引导企业建立城市公共交通从业人员工资收入正常增长机制，按不低于当地在岗职工平均工资确定驾驶员工资收入水平。鼓励各地因地制宜将城市公共汽电车驾驶员列入紧缺职业（工种）目录，对符合条件的高技能人才给予岗位津贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4570962.d.html</link>
-            <guid>3267416</guid>
-            <pubDate>Mon, 09 Oct 2023 12:06:00 GMT</pubDate>
+            <title><![CDATA[据美媒Politico：以色列在袭击后寻求从美国获得导弹和火炮。]]></title>
+            <guid>3267578</guid>
+            <pubDate>Mon, 09 Oct 2023 14:57:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：欧洲央行政策制定者认为，意大利债券收益率上升是由于预算基本面恶化所引起的，这是合理的。]]></title>
-            <guid>3267415</guid>
-            <pubDate>Mon, 09 Oct 2023 12:05:20 GMT</pubDate>
+            <title><![CDATA[花旗集团大宗商品主管Morse：俄罗斯的油价上限现在绝对没有起到作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4474775.d.html</link>
+            <guid>3267577</guid>
+            <pubDate>Mon, 09 Oct 2023 14:54:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：企业和家庭正在很好地应对更高的借贷成本，认为银行不会再次遭受今年早些时候借款成本大幅上涨后引发的动荡。]]></title>
-            <guid>3267414</guid>
-            <pubDate>Mon, 09 Oct 2023 12:05:14 GMT</pubDate>
+            <title><![CDATA[美元兑俄罗斯卢布USD/RUB跌至100以下，此前一度升破102，目前日内跌0.8%。]]></title>
+            <guid>3267576</guid>
+            <pubDate>Mon, 09 Oct 2023 14:54:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国汉堡机场表示机场交通已恢复。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9043184.d.html</link>
-            <guid>3267413</guid>
-            <pubDate>Mon, 09 Oct 2023 12:04:04 GMT</pubDate>
+            <title><![CDATA[【阿尔及利亚总统和巴勒斯坦总统通电话 讨论当前巴以局势】阿尔及利亚总统特本当地时间10月9日和巴勒斯坦总统阿巴斯通电话，讨论当前巴以局势进展。特本在通话中强调，当前事态发展证明了实现公正与和平是首要战略选择，只有在“两国方案”基础上才能公正、全面解决巴勒斯坦问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4474443.d.html</link>
+            <guid>3267574</guid>
+            <pubDate>Mon, 09 Oct 2023 14:52:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【昊铂SSR正式上市，价格128.6万元起】10月9日，“昊铂品牌之夜暨昊铂SSR上市交付盛典”上，昊铂SSR正式上市，共分为三个版本，价格为128.6万元－168.6万元，百公里加速1.9s，配备三电机四驱系统，最大马力为1225匹，达到了F1赛事标准的1.5倍。埃安方面表示，昊铂SSR是中国第一台量产超跑，埃安公司为其打造了中国第一台超跑生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9042776.d.html</link>
-            <guid>3267410</guid>
-            <pubDate>Mon, 09 Oct 2023 12:02:03 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩军方称边境地区遭以色列空袭和炮击】黎巴嫩军方当地时间10月9日发表声明称，黎南部达希拉镇（Al-Dhahira）和埃塔沙阿巴镇（Aita Al-Shaab）的郊区以及其他边境地区正在遭受以色列的空袭和炮击。黎军呼吁当地居民加强防范措施，不要前往边境线。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8940085.d.html</link>
+            <guid>3267573</guid>
+            <pubDate>Mon, 09 Oct 2023 14:50:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广汽集团：“广汽集团&秒音科技”战略合作赞助发布会活动并未得到我司的同意或官方授权】广汽集团公告，据悉，2023年10月8日，广州秒音科技在广州举办了一场名为“广汽集团&秒音科技”战略合作赞助发布会活动，活动上出现大量广汽集团的中英文标识、商标、字号、旗下汽车产品、声称身份为“广汽集团高管”的人员等，以及广汽“赞助”字眼。对此，我司严正声明及澄清如下：本次活动并未得到我司的同意或官方授权，我司对本次活动完全不知情，没有以任何形式参与其中，我司高管也无一出席此次活动。同时，我司也并未与秒音科技达成任何形式的合作。]]></title>
-            <guid>3267408</guid>
-            <pubDate>Mon, 09 Oct 2023 12:00:52 GMT</pubDate>
+            <title><![CDATA[墨西哥总统洛佩斯表示，确认将于11月14至15日出访美国旧金山，并会见美国总统拜登。]]></title>
+            <guid>3267572</guid>
+            <pubDate>Mon, 09 Oct 2023 14:48:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海南机场旗下博鳌机场旅客吞吐量突破历史记录】海南机场消息，截至10月8日，2023年海南机场股份旗下琼海博鳌机场完成飞机起落架次6120架次，旅客吞吐量70.36万人次，货邮吞吐量1612.266吨，分别同比增长65.63%、85.21%、29.66%。刷新了2021年全年旅客吞吐量70.26万人次的历史记录，预计2023年全年旅客吞吐量将突破92万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7792285.d.html</link>
-            <guid>3267406</guid>
-            <pubDate>Mon, 09 Oct 2023 12:00:24 GMT</pubDate>
+            <title><![CDATA[【美国务院发言人称已有9名美国公民在新一轮巴以冲突中丧生】当地时间10月9日，美国国务院发言人马修·米勒发表声明称，已经有9名美国公民在巴勒斯坦伊斯兰抵抗运动（哈马斯）和以色列的冲突中死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4473816.d.html</link>
+            <guid>3267571</guid>
+            <pubDate>Mon, 09 Oct 2023 14:47:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列能源部长命令切断加沙地带供水】 据当地媒体报道，当地时间9日，以色列能源部长卡茨表示，他已下令立即切断对加沙地带的供水。此前，以色列国防部长表示，要对加沙地带进行全面围困。此外，该地区的电力和燃料供应已于两天前停止。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3719562.d.html</link>
-            <guid>3267405</guid>
-            <pubDate>Mon, 09 Oct 2023 12:00:18 GMT</pubDate>
+            <title><![CDATA[【美联储理事巴尔：在通货膨胀方面已取得重大进展】美联储理事巴尔表示，美国在使通胀朝着想要的方向发展方面取得了重大进展。要继续看到通胀下降，还有很多事情要做，但他不会过度关注一个数据。此外，巴尔还表示，总体而言，劳动力市场“依然吃紧”，但有一些因素表明，供需正在“更好地平衡”，比如平均时薪增长放缓和辞职率下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsx3616814.d.html</link>
+            <guid>3267569</guid>
+            <pubDate>Mon, 09 Oct 2023 14:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以媒：巴以新一轮冲突已致至少800名以色列人死亡】据《耶路撒冷邮报》当地时间9日发布的消息，自10月7日巴以发生本轮冲突以来，至少800名以色列人在冲突中丧生。以色列卫生部当日更新了伤员情况，有2506名以色列人正在医院进行治疗，其中376人伤情严重。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7792124.d.html</link>
-            <guid>3267404</guid>
-            <pubDate>Mon, 09 Oct 2023 11:59:54 GMT</pubDate>
+            <title><![CDATA[市场消息：以色列北部居民被告知进入防空洞。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4473612.d.html</link>
+            <guid>3267568</guid>
+            <pubDate>Mon, 09 Oct 2023 14:46:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鸿路钢构：前三季度新签销售合同额约229亿元 同比增17.14%】鸿路钢构晚间发布经营简报，前三季度公司累计新签销售合同额约229.21亿元，较2022年同期增长17.14%。其中材料订单为228.68亿元，工程订单0.53亿元。2023年第三季度新签销售合同额约78.64亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7791717.d.html</link>
-            <guid>3267403</guid>
-            <pubDate>Mon, 09 Oct 2023 11:57:55 GMT</pubDate>
+            <title><![CDATA[黎巴嫩军队：以色列在边境地区进行空袭和炮击，呼吁市民避免去往南部边境附近地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7696496.d.html</link>
+            <guid>3267567</guid>
+            <pubDate>Mon, 09 Oct 2023 14:46:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国汽车工人联合会：马克卡车的工会成员开始罢工。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4568693.d.html</link>
-            <guid>3267401</guid>
-            <pubDate>Mon, 09 Oct 2023 11:57:05 GMT</pubDate>
+            <title><![CDATA[【卢森堡内阁集体辞职】卢森堡大公府10月9日发表公报说，卢森堡首相贝泰尔当天前往大公府，向亨利大公提交了内阁集体辞呈。在8日举行的卢森堡新一届议会选举中，由卢森堡民主党、社会党和绿党组成的执政联盟仅获得议会全部60个席位中的29席，导致三党联盟无法继续执政。当天，亨利大公还接见了卢森堡国民议会议长、国务委员会主席以及在新一届国民议会拥有席位的所有政党的领导人，重点就组成新内阁进行磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsx3616614.d.html</link>
+            <guid>3267566</guid>
+            <pubDate>Mon, 09 Oct 2023 14:44:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【神思电子：联合预中标数字济南城市综合感知预警网络工程项目】神思电子10月9日晚间公告，公司为牵头人的联合体预中标数字济南城市综合感知预警网络工程信息化平台建设项目。联合体成员单位包括山东浪潮新基建科技有限公司及中国电子系统技术有限公司，中标金额约13.69亿元。根据联合体约定的工作量划分，公司所承担项目的金额约为8.08亿元，占公司2022年营业收入的50%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4567928.d.html</link>
-            <guid>3267400</guid>
-            <pubDate>Mon, 09 Oct 2023 11:53:11 GMT</pubDate>
+            <title><![CDATA[【谷歌发布新AI搜索助医护人员查找信息】10月9日晚间消息，谷歌旗下云部门今日发布了新的人工智能（AI）支持的搜索功能，可以帮助医护人员从不同类型的医疗记录中快速提取准确的临床信息。医疗保健行业拥有大量有价值的信息和数据，但临床医生很难找到这些信息和数据，因为它们通常是通过多种系统和格式存储的。而谷歌云今日发布的新搜索工具，将允许医生从临床记录、扫描的文档和电子健康记录中提取信息，这样就可以在一个地方访问这些信息。谷歌表示，新功能最终将为医护人员节省大量时间和精力。例如，如果医生想了解病人的病史，他们不再需要单独阅读他们的笔记、传真和电子健康记录。取而代之的是，他们可以搜索诸如“这位患者在过去的12个月里服用了什么药物？”并在一个地方查看相关信息。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8938990.d.html</link>
+            <guid>3267563</guid>
+            <pubDate>Mon, 09 Oct 2023 14:41:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：西门子能源考虑关闭风能部门的工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7790777.d.html</link>
-            <guid>3267399</guid>
-            <pubDate>Mon, 09 Oct 2023 11:52:51 GMT</pubDate>
+            <title><![CDATA[【蔚来用户累计换电达到3000万次】据蔚来官微消息，截至9日18:26:05，蔚来用户累计换电达到3000万次。该车企已累计为用户提供15.5亿度电量，累计减排的二氧化碳当量达891,693公吨。相比公共充电，蔚来为用户累计节省至少17亿分钟。截至2023年10月9日，蔚来已在全国布局1937座换电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4471609.d.html</link>
+            <guid>3267559</guid>
+            <pubDate>Mon, 09 Oct 2023 14:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列央行：目前没有意图出售超过300亿美元的外汇。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4567693.d.html</link>
-            <guid>3267398</guid>
-            <pubDate>Mon, 09 Oct 2023 11:51:59 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心：已经发布了针对墨西哥西部和中部地区的飓风和热带风暴警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4471290.d.html</link>
+            <guid>3267557</guid>
+            <pubDate>Mon, 09 Oct 2023 14:33:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【四川路桥：拟公开发行不超过人民币50亿元公司债券】四川路桥公告，拟公开发行不超过人民币50亿元公司债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9041117.d.html</link>
-            <guid>3267397</guid>
-            <pubDate>Mon, 09 Oct 2023 11:51:52 GMT</pubDate>
+            <title><![CDATA[【中美气候特使举行气候双边会谈】10月9日，中国气候变化事务特使解振华应约与美国总统气候问题特使克里举行视频会谈。为推动落实两国元首巴厘岛会晤要求，双方围绕《联合国气候变化框架公约》第二十八次缔约方大会（COP28）重点议题及《中美应对气候危机联合声明》《中美关于在21世纪20年代强化气候行动的格拉斯哥联合宣言》确定的务实合作领域深入交换意见。双方商定将继续加强沟通协调，组织相关部门、企业、专家等进一步开展交流对话与合作，共同应对气候变化挑战，为推动气候变化多边进程及COP28成功举办做出贡献。（生态环境部）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4471055.d.html</link>
+            <guid>3267556</guid>
+            <pubDate>Mon, 09 Oct 2023 14:31:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【建艺集团：控股子公司中标松江区洞泾镇住宅项目】建艺集团10月9日晚间公告，近日，公司控股子公司广东建星建造集团有限公司中标松江区洞泾镇SJS30006单元05-01地块住宅项目总承包工程，中标总额约7.99亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9040626.d.html</link>
-            <guid>3267396</guid>
-            <pubDate>Mon, 09 Oct 2023 11:49:24 GMT</pubDate>
+            <title><![CDATA[【上海：加快打造国际贸易“单一窗口”升级版】上海市委副书记、市长龚正今天（9日）主持召开市政府常务会议，会议原则同意《中国（上海）国际贸易单一窗口智慧化创新行动方案》并指出，国际贸易“单一窗口”是上海自贸试验区制度创新的重要成果，现已成为全球数据处理量最大的地方国际贸易单一窗口。为进一步提高跨境贸易便利化水平，要积极借鉴先进经验，充分依托信息化技术手段，深入推进智慧口岸建设，全力打造国际贸易“单一窗口”升级版，助力上海国际贸易中心和航运中心能级提升。要注重国际规则引领，积极推进与各国先进贸易数字平台的规则对接、技术对接，实现“一次申报、全球通关”。要坚持应用场景驱动，持续优化通关、物流、保险、支付结算等服务，针对离岸贸易等新业态开发配套服务功能，加快推进国际贸易“单一窗口”与更多监管部门信息系统互联互通。要强化先进技术赋能，打造高水平的航贸数据要素流通体系和智慧口岸数字化底座，为企业提供更可靠、便捷的一站式服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4471009.d.html</link>
+            <guid>3267555</guid>
+            <pubDate>Mon, 09 Oct 2023 14:31:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【青龙管业：中标6190万元预应力钢筒混凝土管采购项目】青龙管业10月9日晚间公告，近日，公司收到中招康泰项目管理有限公司签发的中标通知书，公司为山西转型综改示范区潇河产业园区供水工程原水工程预应力钢筒混凝土管采购的中标单位，中标金额约6190.06万元，占公司2022年度营业总收入的2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4566841.d.html</link>
-            <guid>3267395</guid>
-            <pubDate>Mon, 09 Oct 2023 11:47:53 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩军方和联合国驻黎巴嫩临时部队讨论黎南部局势】黎巴嫩军队司令约瑟夫·奥恩当地时间10月9日在贝鲁特会见了联合国驻黎巴嫩临时部队（联黎部队）司令拉萨罗少将，双方讨论了黎巴嫩南部局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4470593.d.html</link>
+            <guid>3267554</guid>
+            <pubDate>Mon, 09 Oct 2023 14:29:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及总理：埃及将在未来6个月内取消部分关税和费用，以降低关键商品的价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7789660.d.html</link>
-            <guid>3267394</guid>
-            <pubDate>Mon, 09 Oct 2023 11:47:26 GMT</pubDate>
+            <title><![CDATA[苏丹外交部：苏丹和伊朗同意恢复外交关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8935609.d.html</link>
+            <guid>3267548</guid>
+            <pubDate>Mon, 09 Oct 2023 14:20:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州南沙发布航运物流业扶持办法，对国际航行汽车滚装船舶航线企业最高奖励1500万元】广州市政府网站发布《广州南沙新区（自贸片区）促进航运物流业高质量发展扶持办法》。文件提到，对国际航行汽车滚装船舶航线单个企业最高奖励从200万增加到1500万元，新增汽车滚装港澳航线最高300万元奖励。为支持南沙进口贸易促进创新示范区建设，对货代公司进口外贸重箱每标准箱奖励从5元提升到25元。为保障航运物流运输最后一公里，新增集装箱运输车辆单个企业最高20万元奖励。为加强与港澳联系，新增跨境水路客运航线奖，鼓励企业在增开港澳水路客运航线，单个企业最高2000万元奖励。]]></title>
-            <guid>3267393</guid>
-            <pubDate>Mon, 09 Oct 2023 11:46:48 GMT</pubDate>
+            <title><![CDATA[以色列官员表示“目前没有进行谈判”，此前路透社报道可能存在加沙囚犯交换谈判。]]></title>
+            <guid>3267541</guid>
+            <pubDate>Mon, 09 Oct 2023 14:03:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方证券执行董事宋雪枫辞职 龚德雄获提名】10月9日晚间，东方证券发布公告称，公司董事会于近日收到公司董事宋雪枫提交的书面辞呈，宋雪枫因工作调整原因申请辞去公司执行董事、战略发展委员会主任委员职务。宋雪枫向公司董事会确认，其与公司、董事会并无意见分歧，亦无其他因辞职而需知会股东或香港联合交易所有限公司的事宜，辞职后不再担任东方证券股份有限公司及其控股子公司任何职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3717301.d.html</link>
-            <guid>3267392</guid>
-            <pubDate>Mon, 09 Oct 2023 11:46:03 GMT</pubDate>
+            <title><![CDATA[据当地目击者：以色列首都耶路撒冷传出火箭警报声。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsx3609929.d.html</link>
+            <guid>3267540</guid>
+            <pubDate>Mon, 09 Oct 2023 14:03:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【高华科技：拟4507万元投资持有凯奥思合计13%股权】高华科技10月9日晚间公告，公司拟以3667万元认购南京凯奥思数据技术有限公司（简称“凯奥思”）新增注册资本333.3333万元，同时，公司拟以280万元受让凯奥思39.9999万元注册资本；拟以560万元受让凯奥思60万元注册资本。交易全部完成后，公司合计持有凯奥思433.3332万元注册资本，占凯奥思注册资本的13%。公司希望通过与凯奥思的产业合作，借助凯奥思开发的相关数据治理、特征提取、模型编辑工具，快速提升软件及算法能力，帮助公司完成相关工业传感器的布局，打造规模化工业传感器产业平台。同时，公司计划与凯奥思合作，研究适用于关键行业领域的高可靠、带边缘计算功能的多传感器采集终端，丰富公司产品线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3717143.d.html</link>
-            <guid>3267391</guid>
-            <pubDate>Mon, 09 Oct 2023 11:45:01 GMT</pubDate>
+            <title><![CDATA[科威特海外石油勘探公司：正在进行严肃讨论，以收购亚洲最大的天然气田。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7688147.d.html</link>
+            <guid>3267538</guid>
+            <pubDate>Mon, 09 Oct 2023 14:02:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列央行：以干预市场以减少不确定性和稳定波动是很重要的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7789058.d.html</link>
-            <guid>3267390</guid>
-            <pubDate>Mon, 09 Oct 2023 11:44:28 GMT</pubDate>
+            <title><![CDATA[市场消息：阿拉伯联盟将于周三举行有关加沙的部长级会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7687738.d.html</link>
+            <guid>3267536</guid>
+            <pubDate>Mon, 09 Oct 2023 14:00:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【九部门：制定城市公共交通价格并建立动态调整机制】交通运输部等九部门发布推进城市公共交通健康可持续发展的若干意见。意见提出，各地要合理界定城市公共交通价格补偿和财政补偿范围，综合考虑城市公共交通运营成本、公众承受能力、财政补贴等因素，制定城市公共交通价格并建立动态调整机制。对城市公共交通现有价格水平开展评估并及时优化调整。对城市公共交通价格动态调整机制进行听证的，要依法依规履行相关程序。对定制公交等线路实行政府指导价或市场调节价。对远郊等长距离城市公共汽电车运营线路，可探索采用按里程计价方式。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4566118.d.html</link>
-            <guid>3267389</guid>
-            <pubDate>Mon, 09 Oct 2023 11:44:22 GMT</pubDate>
+            <title><![CDATA[【亿航有重大消息宣布：今日起停牌至10月13日】无人机制造商亿航今日宣布，由于即将发布有关公司业务运营的重大进展公告，纳斯达克股票市场已批准该公司的美国存托股（ADS）自美国东部时间2023年10月9日上午9点30分（北京时间10月9日晚上9点30分）开市起暂停交易。亿航表示，将在美国东部时间2023年10月13日凌晨5点（北京时间10月13日下午5点）之前宣布这一重大消息，并申请恢复其美国存托股的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4464804.d.html</link>
+            <guid>3267535</guid>
+            <pubDate>Mon, 09 Oct 2023 14:00:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【九部门：利用地方政府专项债券等工具，支持符合条件的公共汽电车场站充换电基础设施建设】交通运输部等九部门发布推进城市公共交通健康可持续发展的若干意见。意见提出，利用地方政府专项债券等工具，支持符合条件的公共汽电车场站充换电基础设施建设。支持符合条件的公交票款收益权资产证券化，拓宽企业融资渠道。鼓励金融机构在依法合规、风险可控的前提下，以市场化为导向改进授信评价机制，为城市公共交通企业提供融资服务，严禁违规新增地方政府隐性债务。]]></title>
-            <guid>3267388</guid>
-            <pubDate>Mon, 09 Oct 2023 11:43:39 GMT</pubDate>
+            <title><![CDATA[【中国和沙特海军特战联训开训】今天，中国和沙特阿拉伯“蓝剑-2023”海军特战联训在广东湛江海军陆战队某旅营区举行开训仪式。在为期三周的联训中，双方将按照基础训练、专业训练和综合演练三个阶段实施。开训仪式结束后，双方队员直接奔赴训练场，展开基础课目训练。（央视军事）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7686544.d.html</link>
+            <guid>3267531</guid>
+            <pubDate>Mon, 09 Oct 2023 13:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列央行：高水平的储备使央行有能力在紧急情况下支持经济。]]></title>
-            <guid>3267387</guid>
-            <pubDate>Mon, 09 Oct 2023 11:42:44 GMT</pubDate>
+            <title><![CDATA[【浙商证券：第三季度“浙22转债”转股1748股】浙商证券10月9日晚间发布公告称，2023年第三季度，“浙22转债”合计共有1.8万元转为公司A股普通股股票，因转股形成的股份数量为1748股，占“浙22 转债”转股前公司已发行股份总额的0.000045%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7686484.d.html</link>
+            <guid>3267529</guid>
+            <pubDate>Mon, 09 Oct 2023 13:52:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【九部门：鼓励各地通过多种形式对新能源城市公交车辆充电给予政策支持】交通运输部等九部门发布推进城市公共交通健康可持续发展的若干意见。完善峰谷分时电价政策，鼓励各地通过多种形式对新能源城市公交车辆充电给予政策支持。各地在保障新能源城市公交车辆夜间充电执行低谷电价的基础上，结合新能源城市公交车辆日间补电需求，可在日间设置部分时段执行低谷电价，以引导新能源城市公交车辆更多在低谷时段充电。充分发挥省级层面对城市交通发展奖励资金的统筹作用，采用奖励方式加强对辖区内城市公共汽电车行业转型升级发展、保障城市公共汽电车企业可持续运营、推广应用新能源城市公交车辆等深化城市公共交通优先发展方面的引导。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9039515.d.html</link>
-            <guid>3267386</guid>
-            <pubDate>Mon, 09 Oct 2023 11:42:33 GMT</pubDate>
+            <title><![CDATA[【外媒：微软在首批生成式人工智能产品之一上资金出现亏损】有知情人士透露，微软首批生成式人工智能产品之一出现了亏损。微软利用其合作伙伴OpenAI的人工智能技术推出了GitHub Copilot，这是一项帮助程序员创建、修复和翻译代码的服务。由于它大大减少了编程所需的时间和工作量，因此深受开发人员欢迎。有超过150万人已经使用了这项服务，且它正在帮助几乎一半的Copilot用户编写代码。然而，由于运营成本过高，这项服务造成了亏损。据悉，个人用户每月支付10美元以使用这个人工智能助手。然而知情人士称，今年前几个月，该公司针对每位用户平均每月亏损20多美元，其中一些用户给公司带来的成本高达每月80美元。这表明GitHub Copilot对微软而言是一个亏损项目，微软可能需要进一步优化运营成本和收费模型，以确保这项服务能够实现盈利。]]></title>
+            <guid>3267528</guid>
+            <pubDate>Mon, 09 Oct 2023 13:52:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴以冲突 黎巴嫩真主党声援巴勒斯坦】黎巴嫩真主党8日发表声明称，其军事组织向以色列占领的萨巴阿农场内以军阵地发射火箭弹和炮弹。以色列国防军同日发表声明说，以军炮兵正在攻击黎巴嫩境内炮弹来袭区域。(CGTN记者团)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4565093.d.html</link>
-            <guid>3267384</guid>
-            <pubDate>Mon, 09 Oct 2023 11:39:42 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯杜马要求一个委员会在10天内研究撤销禁止核试验条约的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8930910.d.html</link>
+            <guid>3267527</guid>
+            <pubDate>Mon, 09 Oct 2023 13:51:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【常山药业：近1月股价累涨262% 公司没有涉及减肥功效产品的收入】常山药业10月9日晚间发布股票交易异动公告称，公司开展的艾本那肽临床试验，适应症为治疗2型糖尿病，不涉及肥胖适应症。公司尚未开展艾本那肽针对肥胖或减重的临床试验。公司没有涉及减肥功效产品的收入。公司艾本那肽注射液尚未上市销售，艾本那肽最终能否获批上市及获批时间仍存在不确定性。艾本那肽是公司控股子公司常山凯捷健为主体进行的研发注册，公司持有常山凯捷健51%股份，常山凯捷健未来实现盈利后，公司不能享有其实现的全部净利润。公司股价自9月11日至10月9日累计涨幅达261.71%，敬请投资者注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9038768.d.html</link>
-            <guid>3267382</guid>
-            <pubDate>Mon, 09 Oct 2023 11:38:20 GMT</pubDate>
+            <title><![CDATA[美联储理事巴尔被问及上周五的非农就业数据时表示：我们真正关注的是总体数据。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7685918.d.html</link>
+            <guid>3267524</guid>
+            <pubDate>Mon, 09 Oct 2023 13:49:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列央行：高水平的储备使央行有能力在紧急情况下支持经济。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4564735.d.html</link>
-            <guid>3267381</guid>
-            <pubDate>Mon, 09 Oct 2023 11:38:10 GMT</pubDate>
+            <title><![CDATA[【沙特明年将启动温室气体信用计划】沙特阿拉伯能源大臣阿卜杜勒阿齐兹-本·萨勒曼亲王10月9日宣布将启动一项温室气体信用计划。这项温室气体信用和抵消机制（GCOM）将于明年初开始实施，将允许企业通过购买自愿减少或消除排放项目的信用额度来抵消其温室气体排放。]]></title>
+            <guid>3267523</guid>
+            <pubDate>Mon, 09 Oct 2023 13:49:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列央行：我们正处于一个重大事件中，这将对市场产生影响，我们将根据需要在外汇市场采取行动。]]></title>
-            <guid>3267380</guid>
-            <pubDate>Mon, 09 Oct 2023 11:37:31 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩媒体：以色列炮击黎巴嫩南部地区】当地时间10月9日，黎巴嫩国家通讯社报道称，以色列扩大了对黎巴嫩南部地区的炮击范围，以军当天炮击了黎巴嫩南部纳巴泰省的宾特朱拜勒（Bint Jbeil）地区的Aita AL-Shaab镇。此外，以军侦察机在黎南部上空密集飞行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4462593.d.html</link>
+            <guid>3267521</guid>
+            <pubDate>Mon, 09 Oct 2023 13:47:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【雪佛龙应以色列政府要求关停以色列天然气田】以色列以安全为由要求雪佛龙关停Tamar天然气平台的生产。雪佛龙表示公司仍在从利维坦(Leviathan)气田向以色列及该地区的客户供气。该公司通过电邮发送声明说：“我们的第一要务是员工、公司运营所在社区、环境和设施的安全”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4564289.d.html</link>
-            <guid>3267379</guid>
-            <pubDate>Mon, 09 Oct 2023 11:36:00 GMT</pubDate>
+            <title><![CDATA[【日本计划利用海水淡化后的尾水进行渗透发电】日本南部福冈地区供水企业协会近日宣布，将联合福冈市政府相关部门以及长崎市的一家公司，共同利用海水淡化后排出的高盐度尾水进行渗透发电，并争取于2025年建成验证工厂。这是日本首次尝试渗透发电。渗透发电的原理是利用液体的渗透压差，即不同浓度的溶液之间存在压力差，会使低浓度的溶液向高浓度溶液流动，这种压力可以推动涡轮发电。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8929958.d.html</link>
+            <guid>3267518</guid>
+            <pubDate>Mon, 09 Oct 2023 13:45:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗否认参与本轮巴以冲突事件】当地时间9日，伊朗驻联合国代表处发表声明称，伊朗没有参与到本轮巴以冲突中，相关军事行动是由巴勒斯坦人民独立完成的。同一天，伊朗外交部发言人卡纳尼表示，这些针对伊朗的指控是出于“政治目的”，是西方国家为支持以色列寻找的借口。他强调，任何针对伊朗的敌对行动都会遭到伊朗的强烈回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4564065.d.html</link>
-            <guid>3267377</guid>
-            <pubDate>Mon, 09 Oct 2023 11:35:06 GMT</pubDate>
+            <title><![CDATA[【奕瑞科技：拟1000万元至2000万元回购股份】奕瑞科技晚间公告，公司拟回购股份用于员工持股计划及/或股权激励，回购股份的资金总额不低于1000万元，不超过2000万元，回购股份的价格不超过345元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8929875.d.html</link>
+            <guid>3267517</guid>
+            <pubDate>Mon, 09 Oct 2023 13:44:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【维尔利：与中电投绿能签署战略合作框架协议】维尔利10月9日晚间公告，近日，公司与中电投绿能科技有限公司(简称“中电投绿能”)签订《战略合作框架协议》，双方拟在城乡有机废弃物能源化资源化利用、沼气资源化高值化开发、生物天然气、碳减排等领域深化合作，建立长期、稳定、友好的战略合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9038056.d.html</link>
-            <guid>3267376</guid>
-            <pubDate>Mon, 09 Oct 2023 11:34:17 GMT</pubDate>
+            <title><![CDATA[【美议员称哈马斯武器来自乌克兰或阿富汗 乌专家怒斥】美国共和党众议员格林在社交平台发文称，（哈马斯）用于攻击以色列的武器可能来自阿富汗或者乌克兰，“我们必须与以色列合作，追踪哈马斯使用的美式武器的序列号，以确定这些武器究竟是来自阿富汗还是乌克兰。答案可能是两者皆有。” 据悉，在哈马斯发动袭击后，社交媒体上便出现了“哈马斯使用的是西方提供给乌克兰的武器”的声音。在社交平台拥有超30万粉丝、认证为播客主持人的乔伊8日发布推文称，“哈马斯称是乌克兰将武器售卖给他们用以攻击以色列”，并配上了一条视频。截至发稿，这条推文及视频已经获得了接近700万浏览量。不过目前无法证实这条视频的真实性，在这条推文的下方，有提示称“视频中的人说话是俄罗斯口音”。 对于“乌克兰向哈马斯售卖攻击武器”的说法，乌克兰军事专家彼得在接受采访时分析称，俄罗斯方面已经开始散布虚假消息，声称哈马斯使用了乌克兰的武器，这根本不可能。“从地缘政治角度来看，尽管以色列并没有直接向乌提供军援，但以色列是乌克兰的战略盟友。此外，以色列和乌克兰都是美国的盟友，所以理论上说我们不可能向哈马斯出售武器。”彼得解释道。（红星新闻）]]></title>
+            <guid>3267514</guid>
+            <pubDate>Mon, 09 Oct 2023 13:43:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：沙特阿拉伯告诉国际足联，他们希望举办2034年世界杯。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4563801.d.html</link>
-            <guid>3267375</guid>
-            <pubDate>Mon, 09 Oct 2023 11:33:54 GMT</pubDate>
+            <title><![CDATA[美联储理事巴尔：监管机构在起草银行资本提案时遵循了行政程序法。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7684513.d.html</link>
+            <guid>3267512</guid>
+            <pubDate>Mon, 09 Oct 2023 13:42:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【银龙股份：签订2.85亿元预应力材料采购合同】银龙股份10月9日晚间公告，公司10月7日与中铁十九局集团有限公司签订《钢材、预应力筋、锚固板、螺旋筋采购合同》，合同金额2.85亿元（含税），该合同是为新建北京至雄安新区至商丘高速铁路雄安新区至商丘段站前工程XSZQ-03标段提供预应力材料的合同。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3714418.d.html</link>
-            <guid>3267372</guid>
-            <pubDate>Mon, 09 Oct 2023 11:30:26 GMT</pubDate>
+            <title><![CDATA[【国家卫健委：至2025年末，每百出院人次主动报告不良事件年均大于2.5例次】国家卫生健康委办公厅印发患者安全专项行动方案（2023-2025年）的通知，通知指出，利用3年时间，进一步健全患者安全管理体系，完善制度建设，畅通工作机制，及时消除医疗过程中以及医院环境中的各类风险，尽可能减少患者在医院期间受到不必要的伤害，保障患者安全。连续3年每年至少完成1轮全院巡检排查和全院患者安全专项培训，至2025年末，患者安全管理水平进一步提升，每百出院人次主动报告不良事件年均大于2.5例次，低风险病种住院患者死亡率进一步降低。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7684162.d.html</link>
+            <guid>3267510</guid>
+            <pubDate>Mon, 09 Oct 2023 13:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【飞龙股份：前三季度净利同比预增252.82%-295.84%】飞龙股份10月9日晚间发布业绩预告，前三季度预盈2.05亿-2.3亿元，比增长252.82%-295.84%。报告期内，公司订单充足，出口收入占比提高，营业收入较去年同期增长较大；原材料价格回落，芯片国产替代逐步实现，采购成本下降；涡轮增压器渗透率提高，混动汽车快速上量，涡轮增压器壳体产品保持一定增速；公司新能源热管理产品增长较快。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4562813.d.html</link>
-            <guid>3267370</guid>
-            <pubDate>Mon, 09 Oct 2023 11:29:29 GMT</pubDate>
+            <title><![CDATA[【春秋航空：航空旅游行业迎来了复苏拐点，明后年旅游旺季量价增长值得期待】春秋航空今日举行2023年半年度业绩说明会，董事长王煜在业绩会上向投资者介绍，2023年中秋国庆机票销售情况良好，前后10天同比2019年可比口径，整体航班量增长约15%，且客座率有所提升。2023年以来，大众旅行意愿得以释放，航空旅游行业迎来了复苏拐点，航班量、旅客人次、通航点等重要数据均逐步改善。从淡旺季角度来看，淡季经营表现随着经济复苏的节奏逐步恢复，而旺季出行需求的爆发不容小觑，明后年的经济恢复及旅游旺季的量价增长值得期待。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsy8927644.d.html</link>
+            <guid>3267502</guid>
+            <pubDate>Mon, 09 Oct 2023 13:32:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泽连斯基任命新任乌克兰国土防卫部队司令】乌克兰总统泽连斯基当地时间10月9日签署命令解除了伊戈尔·坦秋拉乌克兰国土防卫部队司令职务，任命阿纳托利·巴尔吉列维奇少将担任这一职务。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4562276.d.html</link>
-            <guid>3267369</guid>
-            <pubDate>Mon, 09 Oct 2023 11:27:31 GMT</pubDate>
+            <title><![CDATA[美联储洛根：实现价格稳定将需要一定程度的劳动力再平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7681925.d.html</link>
+            <guid>3267501</guid>
+            <pubDate>Mon, 09 Oct 2023 13:31:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【茅台集团：对赎回登记日登记在册的“20茅台01”进行全额赎回】中国贵州茅台酒厂(集团)有限责任公司公告，公司决定放弃行使“20茅台01”调整票面利率选择权，并行使本期债券的发行人赎回选择权，对赎回登记日登记在册的“20茅台01”进行全额赎回。基于该安排，投资者不再行使投资者回售选择权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4562019.d.html</link>
-            <guid>3267368</guid>
-            <pubDate>Mon, 09 Oct 2023 11:26:29 GMT</pubDate>
+            <title><![CDATA[美联储洛根：关于失业率的权衡存在很多不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqsz7681396.d.html</link>
+            <guid>3267499</guid>
+            <pubDate>Mon, 09 Oct 2023 13:28:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西央行调查：巴西经济学家预计2023年全年通胀指数将达到4.86%，与之前的估计相同；预计2024年的年度通胀指数为3.88%，略高于之前的估计值3.87%。]]></title>
-            <guid>3267367</guid>
-            <pubDate>Mon, 09 Oct 2023 11:26:15 GMT</pubDate>
+            <title><![CDATA[美联储洛根：我们保持专注于恢复价格稳定是很重要的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpqtc4458483.d.html</link>
+            <guid>3267498</guid>
+            <pubDate>Mon, 09 Oct 2023 13:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及总理：将在关键商品中实施15%至25%的价格下调，埃及降价措施将从周六开始生效，降价将至少持续6个月。]]></title>
-            <guid>3267365</guid>
-            <pubDate>Mon, 09 Oct 2023 11:25:51 GMT</pubDate>
+            <title><![CDATA[【沙特明年将启动温室气体信用计划】沙特阿拉伯能源大臣阿卜杜勒阿齐兹-本·萨勒曼亲王10月9日宣布将启动一项温室气体信用计划。这项温室气体信用和抵消机制（GCOM）将于明年初开始实施，将允许企业通过购买自愿减少或消除排放项目的信用额度来抵消其温室气体排放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4588459.d.html</link>
+            <guid>3267497</guid>
+            <pubDate>Mon, 09 Oct 2023 13:24:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：以色列下令立即切断加沙供水。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9036413.d.html</link>
-            <guid>3267364</guid>
-            <pubDate>Mon, 09 Oct 2023 11:25:44 GMT</pubDate>
+            <title><![CDATA[【禾迈股份：拟推45.35万股限制性股票激励计划】禾迈股份发布2023年限制性股票激励计划(草案)，此激励计划拟向激励对象授予45.35万股限制性股票，约占此激励计划草案公告时公司股本总额8331.75万股的0.54%。此次授予为一次性授予，无预留权益。此激励计划限制性股票的授予价格为140元/股。此激励计划授予的激励对象共计105人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7810774.d.html</link>
+            <guid>3267494</guid>
+            <pubDate>Mon, 09 Oct 2023 13:20:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安凯客车：1-9月累计销量2763辆 同比增长35.24%】安凯客车10月9日晚间发布2023年9月份产销情况，9月总销量396辆，本年累计销量2763辆，同比增长35.24%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3713481.d.html</link>
-            <guid>3267363</guid>
-            <pubDate>Mon, 09 Oct 2023 11:25:10 GMT</pubDate>
+            <title><![CDATA[意大利统计局：意大利最近的经济指标表明未来几个月将继续经济疲软阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4587789.d.html</link>
+            <guid>3267493</guid>
+            <pubDate>Mon, 09 Oct 2023 13:20:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列多地响起防空警报】当地时间10月9日，以色列首都特拉维夫以南的海岸城市霍隆和里雄莱锡安响起了新的火箭弹防空警报。目前还未收到损坏或受伤的报告。此外，综合以色列多家媒体报道，有12枚火箭弹从黎巴嫩南部射向以色列北部的加利利山和黑门山地区，以色列北部临近黎巴嫩的多个地方响起放空警报。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3713408.d.html</link>
-            <guid>3267362</guid>
-            <pubDate>Mon, 09 Oct 2023 11:24:47 GMT</pubDate>
+            <title><![CDATA[美联储理事巴尔：支持美国强化银行资本率要求的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7809997.d.html</link>
+            <guid>3267491</guid>
+            <pubDate>Mon, 09 Oct 2023 13:17:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯能源部长：目前没有解除汽油出口禁令的理由。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7784469.d.html</link>
-            <guid>3267361</guid>
-            <pubDate>Mon, 09 Oct 2023 11:24:34 GMT</pubDate>
+            <title><![CDATA[美联储理事巴尔：提议的资本增加将主要影响银行的交易业务，对银行的贷款成本影响“有限”，美联储欢迎对拟议规则的所有评论，以确保它们“准确反映风险”。]]></title>
+            <guid>3267490</guid>
+            <pubDate>Mon, 09 Oct 2023 13:16:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英维克：已有成熟的风冷和液冷的散热解决方案及产品 并且与众多的充电桩厂商在合作】英维克在互动平台表示，针对超级快速充电桩，公司已有成熟的风冷和液冷的散热解决方案及产品，并且与众多的充电桩厂商在合作。在液冷超充桩方面，公司的液冷全链条提供能力向客户提供了全面多样的选择。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9035528.d.html</link>
-            <guid>3267359</guid>
-            <pubDate>Mon, 09 Oct 2023 11:20:59 GMT</pubDate>
+            <title><![CDATA[美联储理事巴尔：提议的更高资本要求可能会增加银行的融资成本，但将使它们能够吸收更多的损失。]]></title>
+            <guid>3267488</guid>
+            <pubDate>Mon, 09 Oct 2023 13:15:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特石油公司：计划在2035年达到每日400万桶的石油产能，计划在2040年达到15亿立方英尺的天然气产能。]]></title>
-            <guid>3267356</guid>
-            <pubDate>Mon, 09 Oct 2023 11:19:26 GMT</pubDate>
+            <title><![CDATA[【漳州发展首个自主开发的集中式光伏发电项目开工】据漳州发展消息，10月9日，漳州发展首个自主开发的漳浦盐场100兆瓦渔光互补光伏发电项目举行开工仪式。该项目总装机容量100兆瓦，项目总投资约6.2亿元，建成投运后，年均发电量约1.6亿千瓦时，年产值约6290万元，运营期每年上网电量约1.6亿千瓦时、可节约标准煤约5万吨、可减少二氧化碳排放量约13.5万吨，具有良好的社会效益和经济效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3732942.d.html</link>
+            <guid>3267487</guid>
+            <pubDate>Mon, 09 Oct 2023 13:15:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【安必平：三季度获得16项医疗器械注册/备案证】安必平10月9日晚间公告，公司及子公司在7-9月获得国内医疗器械注册/备案证16项，获得知识产权类资质6项，获得医疗器械质量管理体系认证1项。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9035013.d.html</link>
-            <guid>3267353</guid>
-            <pubDate>Mon, 09 Oct 2023 11:18:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【溯联股份：公司是问界品牌M5、M7、M9车型的尼龙流体管路供应商】溯联股份在互动平台表示，公司是问界品牌M5、M7、M9车型的尼龙流体管路供应商。公司目前暂未配套智界S7车型，但已与客户处于积极交流中，持续推进智界等新品牌车型的市场布局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3712061.d.html</link>
-            <guid>3267352</guid>
-            <pubDate>Mon, 09 Oct 2023 11:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国工党财政政策负责人里夫斯：我将提出一项新的财政锁定措施，即所有支出承诺将由预算责任办公室（OBR）进行审查。]]></title>
-            <guid>3267351</guid>
-            <pubDate>Mon, 09 Oct 2023 11:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【得利斯：与青岛新快进出口有限公司签署战略合作协议】得利斯公告，与青岛新快进出口有限公司签署《战略合作协议》，双方将充分发挥各自优势，在产品推广、门店建设等方面通力合作，整合资源，全面推进战略合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7782649.d.html</link>
-            <guid>3267350</guid>
-            <pubDate>Mon, 09 Oct 2023 11:17:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【光线传媒：目前来源于电影《坚如磐石》的营业收入区间约为人民币3.00亿元至人民币3.40亿元】光线传媒公告，截至2023年10月8日，公司来源于电影《坚如磐石》的营业收入区间约为人民币3.00亿元至人民币3.40亿元。]]></title>
-            <guid>3267349</guid>
-            <pubDate>Mon, 09 Oct 2023 11:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团(01810.HK)：10月9日耗资2387.03万港元回购200万股，每股价格为11.9-11.98港元。]]></title>
-            <guid>3267348</guid>
-            <pubDate>Mon, 09 Oct 2023 11:16:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：预计沙特2024年的财政赤字将比预算报告中所述的更小。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkkz3711632.d.html</link>
-            <guid>3267347</guid>
-            <pubDate>Mon, 09 Oct 2023 11:14:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：沙特阿拉伯将利用更多财政空间来支持强劲增长，沙特阿拉伯的支出在2024年将保持基本稳定，然后在2025-2026年再次上升。]]></title>
-            <guid>3267346</guid>
-            <pubDate>Mon, 09 Oct 2023 11:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：将2023/24年白糖出口预估量从之前的70万吨上调至75万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4559093.d.html</link>
-            <guid>3267345</guid>
-            <pubDate>Mon, 09 Oct 2023 11:13:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“小犬”减弱为热带低压 中央气象台解除台风黄色预警】据中国天气网消息，中央气象台10月9日18时解除台风黄色预警：今年第14号台风“小犬”（KOINU）已于今天（9日）下午2时在南海西北部海面由强热带风暴级减弱为热带风暴级，下午5时继而减弱为热带低压，其中心位于广东省台山市南偏西方向大约130公里的海面上，就是北纬21.2度、东经112.2度，中心附近最大风力有7级（15米/秒），中心最低气压为1002百帕。预计，“小犬”将以每小时10公里左右的速度向西偏南方向移动，强度继续减弱，并将在南海西北部海面逐渐减弱消散。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmf4559062.d.html</link>
-            <guid>3267344</guid>
-            <pubDate>Mon, 09 Oct 2023 11:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国卫星“THEOS-2”成功进入预定轨道】泰国高等教育和科研与创新部部长素帕玛9日宣布，泰国当地时间9日8点36分，圭亚那航天中心将泰国制造的地球探测卫星“THEOS-2”送入预定太空轨道。(中国新闻网)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkmc7781894.d.html</link>
-            <guid>3267343</guid>
-            <pubDate>Mon, 09 Oct 2023 11:13:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯外交部长：谈判的唯一倡议和议题应该是两个国家的共存，即以色列和巴勒斯坦。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpece9164625.d.html</link>
-            <guid>3267340</guid>
-            <pubDate>Mon, 09 Oct 2023 11:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方五省区新增非化石能源发电装机超八成】 记者今天（9日）从南方电网了解到，今年前三个季度，广东、广西、云南、贵州、海南五省区新增非化石能源发电装机容量占比已超过八成，清洁电源供给格局基本形成。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpeci4689189.d.html</link>
-            <guid>3267339</guid>
-            <pubDate>Mon, 09 Oct 2023 11:10:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：将欧盟2023/24年白糖进口预估保持不变，为1900万吨，较2022/23年下降超过20%。]]></title>
-            <guid>3267338</guid>
-            <pubDate>Mon, 09 Oct 2023 11:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝龙地产：集团前9月合约销售额236.53亿元】宝龙地产公告，9月合约销售额19.45亿元，合约销售面积12.02万平方米。集团前9月合约销售额236.53亿元，合约销售面积153.41万平方米。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpecf7911849.d.html</link>
-            <guid>3267337</guid>
-            <pubDate>Mon, 09 Oct 2023 11:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯称以方空袭致4名以色列被俘人员丧生】当地时间9日，巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅发表声明称，以色列对加沙地带的空袭造成4名以色列被俘人员丧生，另有多名卡桑旅人员被打死。以色列和巴勒斯坦7日爆发新一轮军事冲突，哈马斯当天对以色列发起军事行动，以军则对加沙地带展开多轮空袭。卡桑旅7日晚发表声明说，数十名以色列军官和士兵在当天的军事行动中被俘获，并被安置在“安全地点”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpecf7911707.d.html</link>
-            <guid>3267336</guid>
-            <pubDate>Mon, 09 Oct 2023 11:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大秦铁路：9月大秦线货物运输量同比减少1.1%】大秦铁路10月9日晚间公告，9月，公司核心经营资产大秦线货物运输量完成3586万吨，同比减少1.1%。日均运量119.53万吨。1-9月，大秦线累计完成货物运输量31524万吨，同比减少1.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpeci4688556.d.html</link>
-            <guid>3267335</guid>
-            <pubDate>Mon, 09 Oct 2023 11:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚工会官员：已向雪佛龙提前7个工作日发出罢工意向通知，将在液化天然气设施进行罢工。]]></title>
-            <guid>3267334</guid>
-            <pubDate>Mon, 09 Oct 2023 11:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【产权分割800㎡起：杭州商地拍卖房企退潮，企业拿地建总部】杭州市规划和自然资源局公布4宗商业地块成交结果。本次商地出让竞得单位无一传统房企，均为企业，部分已明确用于建设公司总部。随着去年官方对商地最小产权分割面积的提高，数年前杭州房地产开发企业争相竞逐商地的现象难以再现。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpece9163923.d.html</link>
-            <guid>3267333</guid>
-            <pubDate>Mon, 09 Oct 2023 11:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒宇信通：拟购买雷航电子60%股权 股票复牌】恒宇信通公告，拟通过发行股份及支付现金的方式购买何亚平持有的西安雷航电子信息技术有限公司60%的股权，公司股票于10月10日开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpece9163879.d.html</link>
-            <guid>3267332</guid>
-            <pubDate>Mon, 09 Oct 2023 11:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会：欧盟委员会将2023/24年欧盟白糖产量预估提高至1560万吨，较之前的1550万吨增长7.0%。]]></title>
-            <guid>3267331</guid>
-            <pubDate>Mon, 09 Oct 2023 11:06:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【习近平会见美国国会参议院多数党领袖舒默一行】10月9日下午，国家主席习近平在人民大会堂会见美国国会参议院多数党领袖舒默率领的美国国会参议院两党代表团。习近平指出，中美关系是世界上最重要的双边关系。中美两国如何相处，决定人类的前途和命运。竞争对抗不符合时代潮流，更解决不了本国自身的问题和世界面临的挑战。中方始终认为，中美共同利益远远大于分歧，中美各自取得成功对彼此是机遇而非挑战。（新华社）]]></title>
-            <guid>3267330</guid>
-            <pubDate>Mon, 09 Oct 2023 11:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【京基智农：2023年9月生猪销售收入2.79亿元】京基智农公告，2023年9月，公司销售生猪17.27万头（其中仔猪1.96万头），销售收入2.79亿元；商品猪销售均价16.04元/kg。2023年1-9月，公司累计销售生猪135.28万头（其中仔猪20.44万头），累计销售收入20.43亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpeci4687331.d.html</link>
-            <guid>3267329</guid>
-            <pubDate>Mon, 09 Oct 2023 11:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国核电：前三季度商运发电量同比增长6.88%】中国核电晚间公告，截至9月30日，公司年度累计商运发电量1561.64亿千瓦时，同比增长6.88%；上网电量1468.40亿千瓦时，同比增长7.24%。其中，截至9月30日，公司年度新能源发电量167.01亿千瓦时，同比增长64.8%；新能源上网电量164.21亿千瓦时，同比增长65.67%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpeci4686757.d.html</link>
-            <guid>3267328</guid>
-            <pubDate>Mon, 09 Oct 2023 11:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列航空发言人：我们很多往返以色列的航班都是满员的。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpeci4686530.d.html</link>
-            <guid>3267327</guid>
-            <pubDate>Mon, 09 Oct 2023 11:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委诺特：对当前利率水平感到满意，但以色列冲突导致的油价上涨可能对通胀构成新的冲击。]]></title>
-            <guid>3267326</guid>
-            <pubDate>Mon, 09 Oct 2023 11:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列航空发言人：没有航班被取消，我们正在增加更多航班，将我们的士兵从世界各地接回来，让他们参加冲突。]]></title>
-            <guid>3267325</guid>
-            <pubDate>Mon, 09 Oct 2023 10:58:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[科威特石油公司：计划在2025年将其国内炼油能力增加到每天160万桶，海外炼油能力增加到每天42.5万桶。]]></title>
-            <guid>3267323</guid>
-            <pubDate>Mon, 09 Oct 2023 10:56:54 GMT</pubDate>
+            <title><![CDATA[【雪佛龙澳大利亚液化天然气工厂的工人将恢复罢工】雪佛龙澳大利亚液化天然气工厂的工人们10月9日发出通知，将从10月19日起恢复罢工，此举可能会中断供应并推高价格。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-09/detail-imzqpkma9055732.d.html</link>
+            <guid>3267486</guid>
+            <pubDate>Mon, 09 Oct 2023 13:15:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
