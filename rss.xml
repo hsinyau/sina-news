@@ -4,15 +4,261 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 24 Oct 2023 18:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 21:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国白宫称，将要求国会通过“维修权”法案，苹果将在全国独立维修店提供用于修复所有产品的部件、工具和文档。]]></title>
-            <guid>3333313</guid>
-            <pubDate>Tue, 24 Oct 2023 18:06:45 GMT</pubDate>
+            <title><![CDATA[【Alphabet首席执行官：公司对人工智能领域存在的机遇感到兴奋和充满信心】Alphabet首席执行官Pichai表示，公司对人工智能领域存在的机遇感到兴奋和充满信心；公司正在重整支出基础，以便进行更多投资；面向人工智能初创公司的云端业务有增长动能；公司旗下的自动驾驶汽车业务Waymo除了继续在旧金山运营之外，还将扩展至得克萨斯州奥斯汀市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2587668.d.html</link>
+            <guid>3333382</guid>
+            <pubDate>Tue, 24 Oct 2023 20:42:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德州仪器（TXN）CFO：公司已开始放款工厂生产速度，因库存已接近理想水平。公司将维持50亿美元的资本支出预算。]]></title>
+            <guid>3333381</guid>
+            <pubDate>Tue, 24 Oct 2023 20:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SNAP在美股盘后转为下跌6%，稍早在公司财报发布后一度上涨12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefx9364679.d.html</link>
+            <guid>3333380</guid>
+            <pubDate>Tue, 24 Oct 2023 20:38:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至10月20日当周API原油库存减少266.8万桶，预期增加155万桶，前值减少438.3万桶。]]></title>
+            <guid>3333378</guid>
+            <pubDate>Tue, 24 Oct 2023 20:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商展望四季度行情 普遍判断“积极因素正在积聚”】步入四季度，市场波动加剧。近期券商密集发布研报，聚焦A股投资时机、趋势、行业配置等市场热点。“转机”成为部分券商四季度投资策略的关键词，例如海通证券提到的“迎接转机”、招商证券的“转机与逆袭”、浙商证券的“破局、看多”等。券商普遍认为，当前，经济基本面正逐步改善，随着一系列稳增长政策的持续落地，市场将加速修复，A股四季度或迎来布局机会。 (证券日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2587468.d.html</link>
+            <guid>3333377</guid>
+            <pubDate>Tue, 24 Oct 2023 20:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Alphabet董事会主席Porat：由于客户削减开支 公司云端业务销售受到影响】谷歌母公司Alphabet董事会主席Porat表示，由于客户削减开支，公司云端业务销售受到影响；公司尚未选定新任CFO。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefx9364038.d.html</link>
+            <guid>3333375</guid>
+            <pubDate>Tue, 24 Oct 2023 20:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【认可中国企业尤其是制造业优势 外资机构“扎堆”调研A股行业龙头】据不完全统计，国庆长假以来，已有27家A股公司接待外资机构调研。其中，立讯精密、中际旭创、天孚通信关注度较高，分别有17家、12家、9家外资机构调研；高盛集团、野村证券则最为活跃，调研次数均为6次。具体来看，上市公司主业的市场空间、盈利能力，重要项目进展、研发情况以及未来产能布局等，都是机构关注的重点。不少公司在介绍三季度经营业绩情况的同时，也表达出对于行业发展的信心。有接受记者采访的券商人士表示，调研信息表明外资对中国企业尤其是制造业优势的认可，也用事实反击了所谓的“撤出中国”论调。(上海证券报)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefx9363826.d.html</link>
+            <guid>3333371</guid>
+            <pubDate>Tue, 24 Oct 2023 20:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据相关声明，巴勒斯坦红新月会从埃及红新月会接收第四批人道援助，8辆卡车已通过拉法过境点。]]></title>
+            <guid>3333370</guid>
+            <pubDate>Tue, 24 Oct 2023 20:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms股价在美股盘后跟随谷歌走低，一度下跌2%，之后跌幅缩窄至1%以内。]]></title>
+            <guid>3333369</guid>
+            <pubDate>Tue, 24 Oct 2023 20:24:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alphabet称，正在采取措施，优化全球办公空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefx9363349.d.html</link>
+            <guid>3333368</guid>
+            <pubDate>Tue, 24 Oct 2023 20:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国证交会起诉贝莱德集团 指控其未能如实披露投资状况】美国证券交易委员会(SEC)起诉贝莱德集团，指控其未能如实披露投资状况；贝莱德集团已同意支付250万美元罚金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefv2738787.d.html</link>
+            <guid>3333367</guid>
+            <pubDate>Tue, 24 Oct 2023 20:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Snap第三财季营收超过预期 日活跃用户符合预期】Snap第三财季营收11.9亿美元，分析师预期11.1亿美元。第三财季调整后EBITDA为4010万美元，分析师预期为亏损6420万美元；第三财季调整后每股收益0.020美元，分析师预期每股亏损0.04美元；预计第四财季营收13.2亿美元至13.8亿美元，分析师预期13.3亿美元；预计第四财季调整后EBITDA 6,500万美元至1.05亿美元；第三财季日活跃用户4.1亿，分析师预期4.1亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2585464.d.html</link>
+            <guid>3333366</guid>
+            <pubDate>Tue, 24 Oct 2023 20:14:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[信用卡公司维萨（Visa）财年四季度净营收86亿美元，市场预期85.6亿美元。四季度调整后每股收益2.33美元，市场预期2.24美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2584484.d.html</link>
+            <guid>3333364</guid>
+            <pubDate>Tue, 24 Oct 2023 20:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军机空袭加沙南部城市汗尤尼斯 造成36人死亡】据巴勒斯坦《圣城报》援引加沙内政部门的消息，当地时间24日，以色列军机空袭了加沙地带南部的汗尤尼斯。截至目前，导致36人死亡，另有数十人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2583923.d.html</link>
+            <guid>3333363</guid>
+            <pubDate>Tue, 24 Oct 2023 20:06:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特外交大臣：政策上的双重标准将带来超出当前（加沙）危机的严重后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefw2582972.d.html</link>
+            <guid>3333358</guid>
+            <pubDate>Tue, 24 Oct 2023 19:59:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴勒斯坦总统与法国总统举行会谈，讨论巴以局势】 据巴勒斯坦通讯社消息，当地时间24日，巴勒斯坦总统阿巴斯与到访的法国总统马克龙在拉姆安拉举行会谈。在会谈中，阿巴斯呼吁尽快实现全面停火，并在加沙开放永久性人道主义救援走廊，以运送医疗用品和食品，以及恢复该地区的水、电、燃料等供应。阿巴斯表示强烈反对任何针对平民的暴力行为，并再次强调坚决反对迫使巴勒斯坦人流离失所的任何企图和计划。阿巴斯还强调应该在“两国方案”基础上，建立独立的巴勒斯坦国，通过政治手段实现该地区的稳定与和平。马克龙表示，希望更多人道主义援助能够进入加沙，并协调国际社会为该地区的平民提供保护。他还对推进以“两国方案”为基础的政治解决表示赞同。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzshefx9360042.d.html</link>
+            <guid>3333357</guid>
+            <pubDate>Tue, 24 Oct 2023 19:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国政府计划推出500亿美元的国内援助计划和1000亿美元的对外援助计划。]]></title>
+            <guid>3333355</guid>
+            <pubDate>Tue, 24 Oct 2023 19:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[约旦外交部长：以色列似乎置身于国际法之上；敦促在处理加沙冲突时结束“双重标准”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxx2866421.d.html</link>
+            <guid>3333354</guid>
+            <pubDate>Tue, 24 Oct 2023 19:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周一（10月24日）纽约尾盘，美国10年期基准国债收益率下跌2.52个基点，报4.8251%，盘中交投于4.8865%-4.7976%区间。两年期美债收益率上涨5.37个基点，报5.1011%，盘中交投于5.1312%-5.0474%区间。三个月期国库券/10年期美债收益率利差跌0.462个基点，报-62.445个基点。02/10年期美债收益率利差跌7.886个基点，报-28.248个基点。]]></title>
+            <guid>3333351</guid>
+            <pubDate>Tue, 24 Oct 2023 19:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃及外交部长：我们呼吁在加沙实现无条件、立即和可持续的停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxy2709224.d.html</link>
+            <guid>3333350</guid>
+            <pubDate>Tue, 24 Oct 2023 19:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：“奥蒂斯”（Otis）即将达到强热带风暴的强度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxx2863941.d.html</link>
+            <guid>3333346</guid>
+            <pubDate>Tue, 24 Oct 2023 19:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：美国国务院批准向拉脱维亚出售估值2.2亿美元的M142高机动性多管火箭系统。]]></title>
+            <guid>3333345</guid>
+            <pubDate>Tue, 24 Oct 2023 19:15:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恒指期货夜盘收涨3.08%，报17480点，高水488点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7872218.d.html</link>
+            <guid>3333342</guid>
+            <pubDate>Tue, 24 Oct 2023 19:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[通用汽车(GM.N)：俄亥俄州帕尔马金属中心（Parma Metal Center）的139名团队成员将被停工。]]></title>
+            <guid>3333341</guid>
+            <pubDate>Tue, 24 Oct 2023 19:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银行理财规模近三周增长近万亿元，四季度有望继续增长】 10月份以来，银行理财产品存续规模呈现增长态势。广发证券刘郁团队测算的数据显示，10月份前三周（截至10月20日）银行理财产品存续规模合计增长9915亿元。在受访人士看来，银行理财规模的变化受多方面因素影响，包括存款利率、宏观经济环境、市场竞争和投资者风险偏好等。后续银行理财规模有望继续增长。存款和银行理财的规模变化存在一定的跷跷板效应，今年以来，存款利率多次下调，因此银行理财规模变化备受市场关注。多位受访人士认为，今年未来几个月银行理财规模将会继续增长。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxz9480914.d.html</link>
+            <guid>3333340</guid>
+            <pubDate>Tue, 24 Oct 2023 18:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴拉圭央行将关键利率下调25个基点，从8.00%降至7.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7871606.d.html</link>
+            <guid>3333339</guid>
+            <pubDate>Tue, 24 Oct 2023 18:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦卫生部：以色列军队扩大了对加沙的目标区域，过去一小时内造成50人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7871243.d.html</link>
+            <guid>3333338</guid>
+            <pubDate>Tue, 24 Oct 2023 18:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Stellantis宣布额外裁员525人 罢工风波以来已累计临时裁员2045人】克莱斯勒母公司斯泰兰蒂斯(STLA.N)周二表示，由于美国汽车工人联合会（UAW）决定本周罢工该公司在密歇根州的一家卡车工厂，该公司将临时再裁员525人。受影响的工人是为密歇根州斯特灵海茨装配厂提供零部件的两家冲压厂的工人，此前该厂有6800名工人罢工。由于9月15日开始的罢工，该汽车制造商目前有2045名员工被临时解雇。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7870198.d.html</link>
+            <guid>3333336</guid>
+            <pubDate>Tue, 24 Oct 2023 18:37:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：总统拜登与沙特王储讨论了正在进行的外交和军事努力，以阻止以色列-哈马斯之间的冲突扩大，双方同意在未来一段时间内直接或通过团队保持密切协调。]]></title>
+            <guid>3333335</guid>
+            <pubDate>Tue, 24 Oct 2023 18:36:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NYMEX 11月天然气期货收涨1.54%，报2.9710美元/百万英热单位。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7870014.d.html</link>
+            <guid>3333334</guid>
+            <pubDate>Tue, 24 Oct 2023 18:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：总统拜登周二与沙特王储穆罕默德·本·萨勒曼进行了通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxy2699056.d.html</link>
+            <guid>3333332</guid>
+            <pubDate>Tue, 24 Oct 2023 18:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【匈牙利央行宣布降息75个基点】匈牙利国家银行（央行）货币委员会24日宣布降息75个基点，将基准利率从13%下调至12.25%，这是该国2021年6月开始加息周期以来首次下调基准利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxx2860306.d.html</link>
+            <guid>3333331</guid>
+            <pubDate>Tue, 24 Oct 2023 18:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会参议院共和党领袖麦康奈尔表示，共和党议员将寻求对支出方案进行一些修改。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxz9475842.d.html</link>
+            <guid>3333328</guid>
+            <pubDate>Tue, 24 Oct 2023 18:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列国防军发言人否认允许燃料进入加沙地带】当地时间24日，《以色列时报》援引军方消息称，以色列国防军发言人对于有消息说以色列允许燃料进入加沙地带，以换取哈马斯释放被扣押在加沙地带的50名双重国籍人士的说法进行了否认。他表示，以色列不允许燃料进入加沙地带，因为哈马斯开展行动需要燃料。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxy2698328.d.html</link>
+            <guid>3333327</guid>
+            <pubDate>Tue, 24 Oct 2023 18:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大总理特鲁多：加拿大支持暂停冲突，以便援助物资能够送达加沙的平民。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxy2697578.d.html</link>
+            <guid>3333326</guid>
+            <pubDate>Tue, 24 Oct 2023 18:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：新泽西国民警卫队部署F-16战机在中东地区行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxz9474366.d.html</link>
+            <guid>3333325</guid>
+            <pubDate>Tue, 24 Oct 2023 18:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[伊拉克总理：在库尔德地区运营的外国石油公司告知我们，如果就石油生产成本和合同达成协议，他们将在一个月内恢复石油生产。]]></title>
+            <guid>3333324</guid>
+            <pubDate>Tue, 24 Oct 2023 18:19:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄战机在波罗的海上空对美国轰炸机实施伴飞】俄罗斯国防部24日发布消息说，俄一架苏-27战机当天在波罗的海上空对两架美国战略轰炸机实施伴飞。 消息说，俄空域监控设备当天在波罗的海水域上空发现两个空中目标向俄边界方向飞行，俄一架苏-27战机随即升空进行识别。经确认，两个目标为美国空军的两架B-1B战略轰炸机。俄战机随即对其实施伴飞，防止其侵犯俄边界。 消息说，在美国军机调转方向远离俄边界后，俄战机返回驻地机场。 以美国为首的北约飞机经常抵近俄边界进行侦察活动，俄罗斯一直坚决反对。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7868461.d.html</link>
+            <guid>3333321</guid>
+            <pubDate>Tue, 24 Oct 2023 18:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：自10月17日以来，美军在伊拉克至少遭到10次袭击，在叙利亚遭到3次袭击。]]></title>
+            <guid>3333320</guid>
+            <pubDate>Tue, 24 Oct 2023 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月25日02时02分在西藏那曲市双湖县（北纬33.71度，东经87.62度）发生3.6级地震，震源深度10千米。]]></title>
+            <guid>3333318</guid>
+            <pubDate>Tue, 24 Oct 2023 18:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果将在全美范围内提供产品维修工具和零部件】美国白宫今日表示，苹果(AAPL.O)将宣布计划以公平合理的价格向全美独立维修店和消费者提供维修其产品所需的零部件、工具和文档。白宫国家经济委员会主任布雷纳德在为晚些时候举行的活动准备的发言中宣布了这一消息，该活动的重点是“维修权”，呼吁国会通过立法，要求在全国范围内采取此类行动。此次活动是美国总统拜登推动促进竞争、打击“垃圾收费”和其他提高消费者价格行为的一部分，目的是让消费者能够更多地控制从拖拉机到智能手机等产品的维修。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxy2696503.d.html</link>
+            <guid>3333317</guid>
+            <pubDate>Tue, 24 Oct 2023 18:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地积极备战迎峰度冬，打好能源稳产保供“组合拳”】 全国多地气温渐渐变冷，北方地区陆续进入冬季供暖季，拉动能源需求大幅攀升。为确保能源保供平稳有序，多地正积极备战迎峰度冬。从能源供应格局来看，煤炭、石油等传统能源依然是稳产保供“主力军”；同时，风电等新能源在能源供应中的比重正逐渐增加，成为重要补充。国研新经济研究院创始院长朱克力表示，从今年迎峰度冬能源供应市场的基本格局来看，预计传统能源仍将占据主导地位。随着国家对新能源的大力支持和相关技术的不断进步，新能源在能源供应中的比重将逐渐增加，成为迎峰度冬期间能源供应的重要补充。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxxz9473394.d.html</link>
+            <guid>3333316</guid>
+            <pubDate>Tue, 24 Oct 2023 18:14:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX12月黄金期价下跌1.7美元，收于每盎司1986.1美元，跌幅为0.09%。]]></title>
+            <guid>3333315</guid>
+            <pubDate>Tue, 24 Oct 2023 18:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【专家：人民币对美元汇率走势企稳，短期或在当前水平保持震荡】 9月15日以来，在岸及离岸人民币对美元汇率围绕7.3波动，尽管双双小幅贬值，但走势都相对平稳。对于近期人民币汇率的走势，中国银行研究院高级研究员王有鑫表示，9月中旬以来，虽然美元指数继续保持强势，美债收益率持续走高，但人民币汇率逐渐稳定在7.3附近，说明市场普遍预期汇率走势接近触顶，对于后续人民币汇率信心增强。“总的来看，目前在国内外经济形势等因素综合作用下，人民币汇率走势逐渐触顶并企稳，短期将更多呈现双向波动之势，多空博弈仍然激烈。”王有鑫预计，年底前后人民币汇率走势或将进入波动回升阶段。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsfxya7867848.d.html</link>
+            <guid>3333314</guid>
+            <pubDate>Tue, 24 Oct 2023 18:09:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【联合国：20辆运送援助物资的卡车未能进入加沙】阿拉比亚电视台24日援引联合国消息称，当天预计向加沙地带运送援助物资的20辆卡车没有越过埃及边境进入加沙地带。24日上午，埃及红新月会北西奈分会宣布，第四批20辆卡车援助物资已通过拉法过境点运往加沙地带。这批物资包括食品和药品。]]></title>
@@ -151,292 +397,6 @@
             <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftse7988172.d.html</link>
             <guid>3333284</guid>
             <pubDate>Tue, 24 Oct 2023 16:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[约旦外交部长：除非以色列和哈马斯冲突停止，否则会有冲突蔓延的“真正危险”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftrz2977764.d.html</link>
-            <guid>3333282</guid>
-            <pubDate>Tue, 24 Oct 2023 16:38:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[约旦外交部长（与阿拉伯国家的外交部长站在一起）：我们都不希望冲突扩大，正在努力阻止冲突扩大。]]></title>
-            <guid>3333281</guid>
-            <pubDate>Tue, 24 Oct 2023 16:38:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  约旦外交部长：以色列-哈马斯冲突的真正威胁正扩大到约旦河西岸、黎巴嫩和其他战线。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftsc9582589.d.html</link>
-            <guid>3333280</guid>
-            <pubDate>Tue, 24 Oct 2023 16:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李强抵达比什凯克出席上合组织成员国总理会议并对吉尔吉斯斯坦进行正式访问】应吉尔吉斯共和国总理扎帕罗夫邀请，中国国务院总理李强10月24日下午乘包机离开北京，赴吉尔吉斯共和国出席上海合作组织成员国政府首脑(总理)理事会第二十二次会议并对吉尔吉斯共和国进行正式访问。国务委员兼国务院秘书长吴政隆等陪同人员同机离京。当地时间24日下午，李强乘坐的包机抵达比什凯克玛纳斯国际机场。扎帕罗夫总理率政府高级官员到机场迎接。中国驻吉尔吉斯斯坦大使杜德文也到机场迎接。(中国政府网)]]></title>
-            <guid>3333277</guid>
-            <pubDate>Tue, 24 Oct 2023 16:29:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃及外交部长：我们需要实施立即和可持续的停火。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftrz2976423.d.html</link>
-            <guid>3333276</guid>
-            <pubDate>Tue, 24 Oct 2023 16:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开云副CEO：预计公司利润率水平在2024年也不会有所改善】开云副首席执行官Duplaix表示，预计公司利润率水平在2024年也不会有所改善；为Gucci寻找新CEO还不是当务之急；Palus当前正在负责Gucci的运营工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftse7985592.d.html</link>
-            <guid>3333275</guid>
-            <pubDate>Tue, 24 Oct 2023 16:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[沙特外交部长呼吁立即停火，并解除对加沙地带的封锁。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftse7985027.d.html</link>
-            <guid>3333274</guid>
-            <pubDate>Tue, 24 Oct 2023 16:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军袭击加沙地带已造成超过5700人死亡】巴勒斯坦加沙地带卫生部门24日通报，以军对加沙地带的空袭已造成超过5700人死亡。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftsa2802284.d.html</link>
-            <guid>3333273</guid>
-            <pubDate>Tue, 24 Oct 2023 16:21:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国会众议员埃默（Tom Emmer）获得来自众院共和党人的提名，将代表共和党参选众议院议长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftrz2974795.d.html</link>
-            <guid>3333271</guid>
-            <pubDate>Tue, 24 Oct 2023 16:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国生物制药公司安进将裁员350人。此前该公司已完成Horizon Therapeutics的收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftse7984061.d.html</link>
-            <guid>3333270</guid>
-            <pubDate>Tue, 24 Oct 2023 16:17:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[约旦外交部长：我们呼吁将人道援助以可持续的方式紧急送达给加沙地带的巴勒斯坦人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftsc9578054.d.html</link>
-            <guid>3333269</guid>
-            <pubDate>Tue, 24 Oct 2023 16:16:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据亚美尼亚外交部：亚美尼亚召见了俄罗斯特使。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftrz2974593.d.html</link>
-            <guid>3333268</guid>
-            <pubDate>Tue, 24 Oct 2023 16:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度将巴斯马蒂大米出口底价下调至每吨950美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftrz2974073.d.html</link>
-            <guid>3333267</guid>
-            <pubDate>Tue, 24 Oct 2023 16:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【何立峰会见联合国副秘书长、联合国人居署执行主任谢里夫】中共中央政治局委员、国务院副总理何立峰24日在钓鱼台国宾馆会见联合国副秘书长、联合国人居署执行主任迈穆娜·穆赫德·谢里夫，双方就全球城市可持续发展、深化双方合作等议题交换了意见。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsftsc9572972.d.html</link>
-            <guid>3333263</guid>
-            <pubDate>Tue, 24 Oct 2023 16:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：如果伊朗或其代理人袭击美国人，美国将采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2795788.d.html</link>
-            <guid>3333262</guid>
-            <pubDate>Tue, 24 Oct 2023 15:59:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列军队瞄准了黎巴嫩的真主党基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9572888.d.html</link>
-            <guid>3333261</guid>
-            <pubDate>Tue, 24 Oct 2023 15:59:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杨元庆：个人及企业级AI Twin将与微软展开合作】 联想集团董事长兼CEO杨元庆于10月24日表示，企业级大模型将与公用大模型和公有云并存，构成混合形态、混合部署的人工智能。“在许多场景中，我们都看到这种混合趋势，比如说混合办公和数字化办公空间。联想和微软在这一领域有许多的合作。”联想也和微软讨论如何将个人人工智能双胞胎（AI Twin）和企业级人工智能双胞胎的相关愿景构建进我们未来的解决方案中。微软董事长兼CEO萨提亚·纳德拉称，微软致力于帮助人们和企业应用数字技术来适应和发展这个人工智能新时代。这是为什么微软与联想的长期合作伙伴关系如此重要”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9572762.d.html</link>
-            <guid>3333260</guid>
-            <pubDate>Tue, 24 Oct 2023 15:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杨元庆与黄仁勋公布重大计划：推出混合人工智能解决方案】 联想集团董事长兼CEO杨元庆和NVIDIA创始人兼首席执行官黄仁勋在Lenovo Tech World 23上表示，联想将与NVIDIA合作推出一个新的混合人工智能计划，将下一代云人工智能技术带给世界各地的企业用户。这意味着联想将提供基于NVIDIA MGX架构的新的企业级AI解决方案、联想混合人工智能服务及更多。联想将提供完全集成的系统，将人工智能驱动的算力引入数据生成的各个地方。这些解决方案使企业可以采用混合云方法——通过NVIDIA AI Foundation云服务构建自定义人工智能模型，然后由NVIDIA最新的生成式人工智能设计的硬件设备和软件驱动的联想本地系统运行它们。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9572728.d.html</link>
-            <guid>3333259</guid>
-            <pubDate>Tue, 24 Oct 2023 15:57:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员彭斯：议长候选人仅剩下埃默和约翰逊。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftse7979491.d.html</link>
-            <guid>3333258</guid>
-            <pubDate>Tue, 24 Oct 2023 15:52:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国共和党众议员赫恩在议长投票中出局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2794665.d.html</link>
-            <guid>3333257</guid>
-            <pubDate>Tue, 24 Oct 2023 15:50:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开云三季度营收低于预期】开云 (Kering)三季度营收44.6亿欧元，市场预期45.5亿欧元；三季度可比收入下降9%，市场预期下降5.97%；三季度Gucci品牌营收22.2亿欧元，市场预期22.6亿欧元；三季度Gucci品牌可比收入下降7%，市场预期下据6.22%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9571780.d.html</link>
-            <guid>3333256</guid>
-            <pubDate>Tue, 24 Oct 2023 15:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：应加倍努力在以色列和巴勒斯坦人之间建立持久的政治解决方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2794334.d.html</link>
-            <guid>3333255</guid>
-            <pubDate>Tue, 24 Oct 2023 15:47:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[币安CEO赵长鹏：加密货币是不稳定的。请记住在交易时进行审慎的风险管理。如果你不知道TP/SL是什么意思，你应该了解一下。]]></title>
-            <guid>3333253</guid>
-            <pubDate>Tue, 24 Oct 2023 15:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：美国不寻求与伊朗发生冲突；如果伊朗或其代理人攻击我们，毫无疑问，我们将迅速果断地保护我们的人民和安全。]]></title>
-            <guid>3333252</guid>
-            <pubDate>Tue, 24 Oct 2023 15:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧股主要指数收盘普涨】欧股主要指数收盘普涨，德国DAX30指数涨0.53%，英国富时100指数涨0.17%，法国CAC40指数涨0.63%，欧洲斯托克50指数涨0.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2794077.d.html</link>
-            <guid>3333251</guid>
-            <pubDate>Tue, 24 Oct 2023 15:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联想集团杨元庆：人工智能技术第一次变得如此真实】 联想集团在其于北美中部时间10月24日举行的Tech World上公布了其迄今为止最全面的人工智能产品技术，以及“AI for All”的愿景。今年联想重点关注如何释放人工智能力量，推动人们生活的方方面面和每个行业的智能转型——从口袋到云端，为全球的行业、企业和个人提供专用的人工智能设备、基础设施、解决方案和服务。联想集团董事长兼CEO杨元庆称，人工智能技术第一次变得如此真实，与每一个人、每一家企业都息息相关。数据作为数字化转型第一阶段的产物必不可少。基于算法/模型的训练和推理是关键，但同时不可或缺的是计算力，不但是云上的，也同样少不了边缘侧和端侧更强大算力的配合。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9571138.d.html</link>
-            <guid>3333250</guid>
-            <pubDate>Tue, 24 Oct 2023 15:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国众议院金融服务委员会主席McHenry询问美国财长耶伦关于伊朗制裁的现状。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrz2969140.d.html</link>
-            <guid>3333249</guid>
-            <pubDate>Tue, 24 Oct 2023 15:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新修订的海洋环境保护法将于2024年元旦起施行】十四届全国人大常委会第六次会议10月24日表决通过新修订的海洋环境保护法，自2024年1月1日起施行。修订后的海洋环境保护法共九章，包括总则、海洋环境监督管理、海洋生态保护、陆源污染物污染防治、工程建设项目污染防治、废弃物倾倒污染防治、船舶及有关作业活动污染防治、法律责任和附则。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrz2968787.d.html</link>
-            <guid>3333246</guid>
-            <pubDate>Tue, 24 Oct 2023 15:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：黎巴嫩真主党称用制导导弹袭击了以色列哨所。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2793239.d.html</link>
-            <guid>3333244</guid>
-            <pubDate>Tue, 24 Oct 2023 15:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国务卿布林肯：哈马斯袭击的受害者中至少包括33名美国公民；必须考虑人道主义停火，以便向加沙提供援助。]]></title>
-            <guid>3333243</guid>
-            <pubDate>Tue, 24 Oct 2023 15:39:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉泽新能：实际控制人及其一致行动人拟增持2500万元至5000万元公司股份】嘉泽新能10月24日公告，基于对公司长期投资价值的认可，以及对公司未来发展前景的信心，同时为了提振投资者信心，切实维护中小股东利益，结合对公司股票价值的合理和独立判断，公司实际控制人陈波及其一致行动人计划在未来6个月内，通过上海证券交易所允许的方式（包括但不限于集中竞价交易、大宗交易等）增持公司股份，本次增持金额不低于2500万元且不超过5000万元，资金来源为自有资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrw0868976.d.html</link>
-            <guid>3333242</guid>
-            <pubDate>Tue, 24 Oct 2023 15:39:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列24日对加沙地带空袭造成至少44人死亡】 据巴勒斯坦通讯社24日报道，当天以色列对加沙地带汗尤尼斯、拉法、穆格拉卡 、努塞拉特难民营和代尔巴拉赫难民营等地发动的空袭至少造成44名巴勒斯坦人丧生、数十人受伤。据报道，以军轰炸了一栋民宅，造成18人死亡；在穆格拉卡袭击了一辆汽车，造成3人死亡；在努塞拉特难民营遭遇以色列战机轰炸后，废墟下发现了12具尸体；以军轰炸了拉法以西一栋民宅，造成5人死亡；轰炸了代尔巴拉赫一栋民宅，造成6人死亡。截至目前，对掩埋在废墟中的受害者的救援行动仍在进行中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrw0868953.d.html</link>
-            <guid>3333241</guid>
-            <pubDate>Tue, 24 Oct 2023 15:38:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩媒体：以色列在炮击黎以临时边界地区时使用白磷弹】根据黎巴嫩国家通讯社报道，以色列当地时间10月24日炮击了黎以临时边界东段黎方一侧的胡拉（Houla）镇郊区。此外，以军在对东段黎方一侧的梅丝贾巴尔（Mays al-Jabal）镇的袭击中使用了白磷弹，有两枚白磷弹落在梅丝贾巴尔医院对面。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrz2968041.d.html</link>
-            <guid>3333240</guid>
-            <pubDate>Tue, 24 Oct 2023 15:35:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海奉贤区发布大雾橙色预警】上海市奉贤区气象台2023年10月24日23时14分更新大雾黄色预警信号为大雾橙色预警信号：预计今天下半夜到明天早晨柘林镇、海湾镇、海湾旅游区等地区将出现能见度小于200米的浓雾，大雾黄色预警信号更新为大雾橙色预警信号，对道路交通安全有较大影响，请注意防范。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9568681.d.html</link>
-            <guid>3333239</guid>
-            <pubDate>Tue, 24 Oct 2023 15:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海目星：核心业务获重大突破 布局钙钛矿或成未来看点】10月24日，海目星在上证e互动平台上回复投资者提问时表示，公司激光辅助快速烧结设备已实现突破并成功出货，该项技术可提高TOPcon电池转换效率，增益在0.2%+以上。同时，公司已布局钙钛矿领域，目前主要聚焦激光划线技术。(证券时报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2791190.d.html</link>
-            <guid>3333237</guid>
-            <pubDate>Tue, 24 Oct 2023 15:29:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄气（Gazprom）董事会批准了修订后的2023年度投资计划，公司全年将在投资领域支出1.97万亿卢布。]]></title>
-            <guid>3333236</guid>
-            <pubDate>Tue, 24 Oct 2023 15:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国汽车业罢工升级 通用汽车最大工厂5000名工人罢工】当地时间10月24日上午，美国汽车工人联合会(UAW)宣布对通用汽车位于得克萨斯州的阿灵顿装配厂进行针对性罢工。此次针对性罢工共有5000名工人参与，UAW整体罢工人数增至45000名成员。阿灵顿装配厂为通用汽车最大的工厂。此次针对性罢工发生在通用汽车公司公布第三季度盈利的几个小时后。通用汽车于24日发表声明称：“我们对这种不必要且不负责任的罢工升级感到失望。它正在伤害我们的团队成员，他们正在牺牲自己的生计，并对我们的经销商、供应商和依赖我们的社区产生负面的连锁反应。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2790473.d.html</link>
-            <guid>3333235</guid>
-            <pubDate>Tue, 24 Oct 2023 15:25:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【甘肃省酒泉市肃北县发生5.5级地震，暂无人员伤亡和房屋倒塌情况报告】据中国地震台网正式测定，10月24日19时32分在甘肃省酒泉市肃北蒙古族自治县发生5.5级地震，震源深度10公里，震中位于北纬39.43度，东经97.28度。经调度，酒泉、张掖、嘉峪关三市和省农垦集团报告，经各自初步排查，目前暂未接到人员伤亡和房屋倒塌情况报告。省抗震救灾指挥部有关行业部门报告，对震中100公里范围内10座水库、29座水电站完成排查，全部运行正常；13处矿山企业作业人员已全部安全升井。震区内油气管道、化工园区、国家电网运行正常；电信、移动、联通、铁塔公司网络运行正常。根据省地震局快速评估结果，本次地震造成人员伤亡的可能性不大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsa2790422.d.html</link>
-            <guid>3333234</guid>
-            <pubDate>Tue, 24 Oct 2023 15:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天晟新材20CM涨停：近期公司经营情况及内外部经营环境未发生重大变化】天晟新材10月24日公告，公司股票交易于2023年10月20日、10月23日、10月24日连续3个交易日内日收盘价格涨幅偏离值累计超过30%。根据《深圳证券交易所交易规则》（2023年修订）的规定，属于股票交易异常波动的情形。近期公司经营情况及内外部经营环境未发生重大变化。公司拟于2023年10月28日披露《2023年第三季度报告》，截至本公告披露日，公司2023年第三季度财务数据正在核算过程中、且未向第三方提供。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9567124.d.html</link>
-            <guid>3333232</guid>
-            <pubDate>Tue, 24 Oct 2023 15:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普：信贷和资金成本对美国地区银行的第三季度收益产生压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9566896.d.html</link>
-            <guid>3333231</guid>
-            <pubDate>Tue, 24 Oct 2023 15:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[汤姆·埃默在美国众议院议长候选人第三轮投票中获得最多选票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftsc9566886.d.html</link>
-            <guid>3333230</guid>
-            <pubDate>Tue, 24 Oct 2023 15:21:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国议员斯科特在众议院议长选举中出局。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsftrz2965602.d.html</link>
-            <guid>3333229</guid>
-            <pubDate>Tue, 24 Oct 2023 15:21:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【再融资债券发行规模破万亿 城投尾部风险或有望阶段性下行】截至10月24日，全国已有27个省份地区披露特殊再融资债发行计划，规模合计10126.7958亿元，其中已发行规模为7362.94亿元，内蒙古、云南两省份额度已超千亿。本轮再融资债券发行进度和规模超出市场预期，各区域估值收益率普遍下降较快，城投尾部风险或有望阶段性下行，区域性城投主体迎来较好的配置机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfpke2919770.d.html</link>
-            <guid>3333227</guid>
-            <pubDate>Tue, 24 Oct 2023 15:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Meta因存在对青少年有害的营销被加利福尼亚等州起诉】周二，美国多个州起诉Meta及其子公司Instagram，指控它们助长了青少年心理健康危机。在向加州联邦法院提交的一份诉状中，各州表示，Meta一再误导公众对其平台的重大危险的认识，并故意诱使年幼的儿童和青少年上瘾和强迫性地使用社交媒体。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfpkf9696870.d.html</link>
-            <guid>3333226</guid>
-            <pubDate>Tue, 24 Oct 2023 15:16:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫称普京与埃尔多安讨论中东问题以及双边合作问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfpkf9696441.d.html</link>
-            <guid>3333223</guid>
-            <pubDate>Tue, 24 Oct 2023 15:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷国际主权美元债券上涨2.1美分。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfpke2918459.d.html</link>
-            <guid>3333220</guid>
-            <pubDate>Tue, 24 Oct 2023 15:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国地震局迅即开展甘肃省肃北县5.5级地震应急处置工作】 据中国地震台网正式测定，10月24日19时32分在甘肃省酒泉市肃北县（北纬39.43度，东经97.28度）发生5.5级地震，震源深度10千米。地震发生后，中国地震局立即启动应急服务响应。中国地震局党组书记、局长闵宜仁在中国地震局应急指挥中心视频连线甘肃省地震局、中国地震台网中心等单位，听取震情汇报，部署开展震后地震趋势分析研判，调度甘肃省地震局派出现场工作队赶赴震区，协助地方政府开展应急处置工作。（中国地震局官微）]]></title>
-            <guid>3333219</guid>
-            <pubDate>Tue, 24 Oct 2023 15:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[津巴布韦央行降息2000个基点，将政策利率从150%下调至130%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-24/detail-imzsfpkf9695320.d.html</link>
-            <guid>3333218</guid>
-            <pubDate>Tue, 24 Oct 2023 15:07:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[石英股份：2023年前三季度营收59.00亿元，同比增长378.27%；归母净利润42.07亿元，同比增长638.32%。]]></title>
-            <guid>3333214</guid>
-            <pubDate>Tue, 24 Oct 2023 15:02:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
