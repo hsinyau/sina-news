@@ -4,226 +4,439 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 25 Oct 2023 15:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 18:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[中国地震台网自动测定：10月26日02时03分在甘肃酒泉市肃北县附近（北纬39.45度，东经97.28度）发生3.8级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3334738</guid>
+            <pubDate>Wed, 25 Oct 2023 18:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚总理：我们正在与美国合作建立可持续的关键矿产供应链。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8528653.d.html</link>
+            <guid>3334737</guid>
+            <pubDate>Wed, 25 Oct 2023 18:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：比尔·阿克曼通过对美国国债的押注赚取了2亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxe2171485.d.html</link>
+            <guid>3334736</guid>
+            <pubDate>Wed, 25 Oct 2023 17:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方发言人：这场战争将会很长，我们需要保持坚韧。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8525585.d.html</link>
+            <guid>3334735</guid>
+            <pubDate>Wed, 25 Oct 2023 17:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军方称4枚火箭弹从黎巴嫩向以色列北部发射】 当地时间25日，《以色列时报》援引军方消息称，以国防部队表示，当天四枚火箭弹从黎巴嫩向以色列北部城市谢莫纳发射。《耶路撒冷邮报》报道称，谢莫纳拉响了防空警报。以军表示，火箭弹全部落在空旷地区，没有造成人员伤亡或财产损失。因为火箭弹并未针对人口稠密地区，“铁穹”防空系统没有被启用。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8524895.d.html</link>
+            <guid>3334733</guid>
+            <pubDate>Wed, 25 Oct 2023 17:47:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑日元USD/JPY站上150，短线波动逾10点，最高至150.03。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8524145.d.html</link>
+            <guid>3334732</guid>
+            <pubDate>Wed, 25 Oct 2023 17:44:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国证交会主席根斯勒：加密货币行业普遍存在不遵守美国规定的问题。加密货币行业并非那么的去中心化。]]></title>
+            <guid>3334727</guid>
+            <pubDate>Wed, 25 Oct 2023 17:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：俄罗斯在赫梅利尼茨基地区的无人机袭击目标很可能是核电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8516192.d.html</link>
+            <guid>3334724</guid>
+            <pubDate>Wed, 25 Oct 2023 17:06:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货钯金日内跌幅达2.00%，现报1098.62美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1739038.d.html</link>
+            <guid>3334723</guid>
+            <pubDate>Wed, 25 Oct 2023 17:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【纪念中国人民志愿军抗美援朝出国作战73周年活动在朝举行】纪念中国人民志愿军抗美援朝出国作战73周年活动25日在朝鲜首都平壤友谊塔举行。朝鲜最高人民会议常任委员会副委员长姜润石和中国驻朝鲜大使王亚军率朝中双方人员参加活动，深切缅怀在抗美援朝战争中英勇牺牲的志愿军先烈。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxa6842543.d.html</link>
+            <guid>3334722</guid>
+            <pubDate>Wed, 25 Oct 2023 17:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖520亿美元5年期国债，得标利率4.899%，投标倍数2.36。（预发行交易利率为4.880%，上月投标倍数为2.52）]]></title>
+            <guid>3334721</guid>
+            <pubDate>Wed, 25 Oct 2023 17:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际铜夜盘收跌0.37%，沪铜收跌0.36%，沪铝收涨0.11%，沪锌收涨0.40%，沪铅收跌0.34%，沪镍收涨0.18%，沪锡收跌0.28%。氧化铝夜盘收涨0.68%。不锈钢夜盘收跌0.51%。]]></title>
+            <guid>3334720</guid>
+            <pubDate>Wed, 25 Oct 2023 17:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（10月25日）欧市尾盘，英国10年期国债收益率涨7.1个基点，报4.610%。两年期英债收益率涨5.5基点，报4.844%。 30年期英债收益率跌6.70基点，报5.062%；50年期英债收益率涨6.1个基点，报4.620%。2/10年期英债收益率利差涨1.698个基点，报-23.861个基点。]]></title>
+            <guid>3334719</guid>
+            <pubDate>Wed, 25 Oct 2023 17:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：意大利联合圣保罗银行不会支付意大利的意外收入税，选择了退出条款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8514337.d.html</link>
+            <guid>3334718</guid>
+            <pubDate>Wed, 25 Oct 2023 16:57:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【LME金属期货涨跌不一】LME金属期货涨跌不一，LME期铜收跌20美元，报8032美元/吨；LME期铝收涨28美元，报2219美元/吨；LME期锌收涨38美元，报2480美元/吨；LME期铅收跌24美元，报2085美元/吨；LME期镍收涨43美元，报18317美元/吨；LME期锡收涨120美元，报25211美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8513769.d.html</link>
+            <guid>3334717</guid>
+            <pubDate>Wed, 25 Oct 2023 16:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉加德：欧洲央行正密切关注中东冲突对能源价格的影响】欧洲央行行长拉加德表示，正在关注油价走势，以防以色列-哈马斯冲突对通胀造成影响。“能源价格在2022年是通胀的主要驱动因素，我们知道昂贵的能源价格带来了多大的成本，以及人们遭受了怎样的痛苦。”油价在巴以冲突初期飙升，当时人们担心冲突会升级，可能威胁到伊朗的原油出口并导致油轮遭袭。但随着以色列内部要求重新考虑对加沙地面战范围的呼声日益高涨，这些担忧在最近几个交易日消退。尽管如此，一些分析师认为，冲突升级可能会将油价推高至每桶100美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1736364.d.html</link>
+            <guid>3334716</guid>
+            <pubDate>Wed, 25 Oct 2023 16:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周三（10月25日）欧市尾盘，德国10年期国债收益率涨6.2个基点，报2.889%，盘中交投于2.901%-2.797%区间。两年期德债收益率涨2.9个基点，报3.125%，盘中交投于3.137%-3.084%区间；30年期德债收益率涨7.4个基点，报3.126%。2/10年期德债收益率利差涨3.250个基点，报-24.062个基点。]]></title>
+            <guid>3334715</guid>
+            <pubDate>Wed, 25 Oct 2023 16:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[匈牙利总理幕僚长：匈牙利无法支持欧盟预算修改提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxe2163862.d.html</link>
+            <guid>3334714</guid>
+            <pubDate>Wed, 25 Oct 2023 16:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023财年美国证交会对违规行为处以了50亿美元的罚款和其他相关费用】美国证交会主席(SEC)根斯勒表示，SEC在2023财年对违规行为处以了50亿美元的罚款和其他相关费用，较去年同期的64亿美元有所下降；提起了780项执法行动，比一年前的约700项有所增加；禁止了133名个人担任董事和高管职位，是十年来最多的禁令。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8512565.d.html</link>
+            <guid>3334713</guid>
+            <pubDate>Wed, 25 Oct 2023 16:47:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：根据美联储的提议，Visa(V.N)和MasterCard将面临更低的刷卡费上限。美联储还提议根据最新报告的数据，每两年自动更新借记卡交换费上限。]]></title>
+            <guid>3334711</guid>
+            <pubDate>Wed, 25 Oct 2023 16:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国10年期国债收益率日内上涨10个基点至4.927%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxe2162559.d.html</link>
+            <guid>3334710</guid>
+            <pubDate>Wed, 25 Oct 2023 16:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯经济部：截至10月23日，年度消费者通胀率为6.59%，较一周前的6.38%有所上升。]]></title>
+            <guid>3334709</guid>
+            <pubDate>Wed, 25 Oct 2023 16:37:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际航空运输协会（IATA）首席执行官：航空公司别无选择，只能将燃油成本上涨转嫁给乘客。我们没有看到需求环境有任何放缓的迹象。]]></title>
+            <guid>3334707</guid>
+            <pubDate>Wed, 25 Oct 2023 16:35:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙重申他支持以色列自卫的权利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1732736.d.html</link>
+            <guid>3334706</guid>
+            <pubDate>Wed, 25 Oct 2023 16:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹快速支援部队代表团抵达沙特 将与苏丹武装部队重启吉达会谈】苏丹快速支援部队当地时间25日晚间发表声明称，己方代表团已于当天抵达沙特吉达，即将重启与苏丹武装部队的会谈(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1732713.d.html</link>
+            <guid>3334705</guid>
+            <pubDate>Wed, 25 Oct 2023 16:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据日经新闻：日本一家证券交易所计划测试一种系统，允许国际投资者使用本国货币进行交易。]]></title>
+            <guid>3334703</guid>
+            <pubDate>Wed, 25 Oct 2023 16:33:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一天两换候选人 共和党议长推选陷入僵局】自时任议长麦卡锡当地时间10月3日遭罢免以来，美国共和党议长推选就陷入了“内斗循环”。24日，美国国会众议院再现“名场面”：共和党人一天内两次推选议长候选人。而如何让党内就议长人选达成一致，依然是候选人难以跨过去的坎儿。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskaxa6838592.d.html</link>
+            <guid>3334702</guid>
+            <pubDate>Wed, 25 Oct 2023 16:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[布伦特原油向上触及88美元/桶，日内涨0.88%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1731625.d.html</link>
+            <guid>3334701</guid>
+            <pubDate>Wed, 25 Oct 2023 16:30:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄议会上院通过法案撤销批准《全面禁止核试验条约》】俄罗斯联邦委员会（议会上院）25日全票通过一项法案，撤销批准《全面禁止核试验条约》。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawy1731520.d.html</link>
+            <guid>3334700</guid>
+            <pubDate>Wed, 25 Oct 2023 16:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯天然气工业股份公司总裁：公司储存了728亿立方米的天然气。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8508290.d.html</link>
+            <guid>3334698</guid>
+            <pubDate>Wed, 25 Oct 2023 16:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马来西亚副总理：马来西亚从中国发展中受益匪浅】马来西亚副总理法迪拉25日表示，马来西亚从中国过去几十年的快速发展中受益匪浅。马中在技术转移、数字经济、电子商务等领域合作成果丰硕，在可再生能源、环境保护等领域的合作也在不断推进。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzskawz8508111.d.html</link>
+            <guid>3334697</guid>
+            <pubDate>Wed, 25 Oct 2023 16:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易商：阿根廷比索在平行黑市上涨10%，达到每美元兑1000比索。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzsiwre6966428.d.html</link>
+            <guid>3334694</guid>
+            <pubDate>Wed, 25 Oct 2023 16:11:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美债剧烈抛售令量化紧缩成为焦点，有投资者猜测可能会提前结束】 美国较长期国债遭遇40年多来最严重抛售，让市场关注焦点落在了一个消失的最大买家——美联储身上。美联储正在以每年7,200亿美元的速度缩减其持有的政府证券组合，使得财政部弥补接近2万亿美元的联邦预算赤字更加艰难。上一次美联储执行量化紧缩行动时，其结束的时间早于官员们的预期，一些市场参与者预测这一次也会如此。虽然美联储主席鲍威尔和其他一些决策者已经表示，较长期国债收益率飙升可能会降低继续上调基准利率的必要性, 但他们没有对量化紧缩发出类似的声音。相反，他们表示即使降息已经开始，量化紧缩也可能继续下去。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzsiwrc8634500.d.html</link>
+            <guid>3334693</guid>
+            <pubDate>Wed, 25 Oct 2023 16:10:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其议会批准瑞典“入约”法案】 当地时间10月25日，综合路透社和瑞典电视台报道，土耳其大国民议会议长签署了批准瑞典加入北约的法案，议会外交事务委员会将对该法案进行审理。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzsiwra1856859.d.html</link>
+            <guid>3334692</guid>
+            <pubDate>Wed, 25 Oct 2023 16:08:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[思科在其WebExOne平台上推出了WebEx人工智能策略服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzsiwre6965646.d.html</link>
+            <guid>3334691</guid>
+            <pubDate>Wed, 25 Oct 2023 16:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WTI原油向上触及84美元/桶，日内涨0.63%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-26/detail-imzsiwra1856230.d.html</link>
+            <guid>3334690</guid>
+            <pubDate>Wed, 25 Oct 2023 16:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：10月25日23时50分在新疆和田地区民丰县（北纬36.51度，东经83.79度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>3334688</guid>
+            <pubDate>Wed, 25 Oct 2023 15:59:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥副财政部长：比索汇率并未损害出口竞争力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8631403.d.html</link>
+            <guid>3334687</guid>
+            <pubDate>Wed, 25 Oct 2023 15:59:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉石油公司（PDVSA）签定了现货销售合约，并寻求让客户使用欧元付款。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrh2287194.d.html</link>
+            <guid>3334685</guid>
+            <pubDate>Wed, 25 Oct 2023 15:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[福特汽车(F.N)预计全年汽车出口量为53万至55万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1853160.d.html</link>
+            <guid>3334683</guid>
+            <pubDate>Wed, 25 Oct 2023 15:48:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国共和党议长候选人约翰逊表示他认为自己有足够的选票赢得胜利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8630221.d.html</link>
+            <guid>3334682</guid>
+            <pubDate>Wed, 25 Oct 2023 15:48:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[家乐福三季度包括增值税在内销售额236.3亿欧元，市场预期裁判236.5亿欧元。三季度全球剔除燃油后可比销售额增长9%，市场预期增长7.47%。三金融法国剔除燃油后可比销售额增长4.3%。]]></title>
+            <guid>3334681</guid>
+            <pubDate>Wed, 25 Oct 2023 15:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯农业部长：预计今年俄罗斯的粮食产量将达到1.4亿吨，其中包括9300万吨小麦。]]></title>
+            <guid>3334679</guid>
+            <pubDate>Wed, 25 Oct 2023 15:46:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行高级副行长罗杰斯：当通胀回到目标水平时可以讨论降低利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6963105.d.html</link>
+            <guid>3334678</guid>
+            <pubDate>Wed, 25 Oct 2023 15:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股主要指数收盘普涨】欧股主要指数收盘普涨，德国DAX30指数涨0.11%，英国富时100指数涨0.33%，法国CAC40指数涨0.31%，欧洲斯托克50指数涨0.15%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8629875.d.html</link>
+            <guid>3334677</guid>
+            <pubDate>Wed, 25 Oct 2023 15:46:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数下跌6%，至三周低位】波罗的海干散货运价指数周三跌至三周低位，连续第五日下跌。波罗的海干散货运价指数下跌117点，或6%，至1832点。海岬型船运价指数下跌336点或10.3%，至2940点，连续第五日下跌。海岬型船日均获利减少2783美元，至24386美元。巴拿马型船运价指数上涨1点，或0.1%，至1649点。巴拿马型船日均获利增加9美元，至14840美元。超灵便型散货船运价指数下跌19点，或1.5%，至1247点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6962136.d.html</link>
+            <guid>3334675</guid>
+            <pubDate>Wed, 25 Oct 2023 15:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中际旭创：公司AI大客户的800G光模块需求和订单并未下修或砍单】中际旭创在互动平台回复投资者称，公司AI大客户的800G光模块需求和订单并未下修或砍单，公司正在组织生产和积极交付。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6961827.d.html</link>
+            <guid>3334674</guid>
+            <pubDate>Wed, 25 Oct 2023 15:36:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯举行了战略军事力量演习。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1850799.d.html</link>
+            <guid>3334673</guid>
+            <pubDate>Wed, 25 Oct 2023 15:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖四个月期国债，得标利率5.335%（前次为5.355%），投标倍数2.96（前次为3.37）。]]></title>
+            <guid>3334672</guid>
+            <pubDate>Wed, 25 Oct 2023 15:34:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：现在不是讨论降息的时候。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1850514.d.html</link>
+            <guid>3334671</guid>
+            <pubDate>Wed, 25 Oct 2023 15:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：如果各级政府的支出计划明年得以完全执行，那将无助于解决通胀问题。]]></title>
+            <guid>3334670</guid>
+            <pubDate>Wed, 25 Oct 2023 15:32:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沙特财政大臣：政府向公共投资基金的现金转移非常有限，暂时没有注入现金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6960695.d.html</link>
+            <guid>3334668</guid>
+            <pubDate>Wed, 25 Oct 2023 15:29:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙燃料告急 联合国救济机构或停止运作】随着巴以冲突进入第19天，巴勒斯坦加沙地带人道主义危机日益加重。联合国近东巴勒斯坦难民救济和工程处25日警告，由于缺乏燃料，这一救济机构可能于当晚被迫停止运作。该机构在社交媒体上说，加沙地带近60万流离失所者在这一机构下辖的约150处设施中避难，已有至少40处设施受到当前冲突影响。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1849981.d.html</link>
+            <guid>3334667</guid>
+            <pubDate>Wed, 25 Oct 2023 15:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国总理朔尔茨与阿联酋总统通电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8626423.d.html</link>
+            <guid>3334666</guid>
+            <pubDate>Wed, 25 Oct 2023 15:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东方雨虹：前三季度归母净利润23.53亿元，同比增42.22%，绿色建材生产基地项目部分生产线试生产】东方雨虹10月25日公告，公司前三季度营业收入253.6亿元，同比增长8.48%；归母净利润23.53亿元，同比增长42.22%；基本每股收益0.93元。截至本报告披露日，安徽芜湖市投资建设绿色建材（芜湖）产业示范园项目一期、二期生产线已投产，项目三期处于开工建设阶段。截至本报告披露日，东方雨虹大湾区绿色建筑建材产业园项目部分生产线已投产；国际绿色建筑建材中心项目已于2021年完成土地摘牌，现已取得不动产权证、建设用地规划许可证，各项工作正在持续推进中。截至本报告披露日，海南洋浦绿色新材料综合产业园项目已投产，重庆江津区东方雨虹绿色建材生产基地项目部分生产线已投产。东方雨虹绿色建材生产基地项目部分生产线处于试生产阶段，各项工作正在持续推进中。]]></title>
+            <guid>3334665</guid>
+            <pubDate>Wed, 25 Oct 2023 15:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【直播业务推广过程中合规管控不到位等违规，古鳌科技旗下东高科技被广东证监局责令暂停新增客户6个月】古鳌科技10月25日公告，公司控股子公司东高（广东）科技发展有限公司于2023年10月24日收到广东证监局下发的[2023]6号《关于对东高（广东）科技发展有限公司采取责令暂停新增客户措施的事先告知书》。广东证监局责令东高科技暂停新增客户6个月，于暂停结束后完成整改并提交书面整改报告，证监局将视情况对整改情况进行核查验收。]]></title>
+            <guid>3334664</guid>
+            <pubDate>Wed, 25 Oct 2023 15:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：不预测会出现深度衰退，也不预测会出现急剧经济萎缩和大规模裁员。]]></title>
+            <guid>3334663</guid>
+            <pubDate>Wed, 25 Oct 2023 15:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大实现软着陆的路径变得更加狭窄。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8625996.d.html</link>
+            <guid>3334661</guid>
+            <pubDate>Wed, 25 Oct 2023 15:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：可能会有两到三个季度的小幅负增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6959614.d.html</link>
+            <guid>3334660</guid>
+            <pubDate>Wed, 25 Oct 2023 15:22:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行高级副行长罗杰斯：长期国债收益率是我们考虑的众多因素之一。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1848395.d.html</link>
+            <guid>3334658</guid>
+            <pubDate>Wed, 25 Oct 2023 15:20:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：在油价暴涨的情况下，我们将特别关注其对核心通胀的影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1848251.d.html</link>
+            <guid>3334657</guid>
+            <pubDate>Wed, 25 Oct 2023 15:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：短期内的通胀预期高于加拿大央行的预测。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8625313.d.html</link>
+            <guid>3334656</guid>
+            <pubDate>Wed, 25 Oct 2023 15:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：如果某场冲突导致油价飙升，考虑到通胀率已经超过目标，我们需要比平常更加谨慎地看待这一情况。]]></title>
+            <guid>3334655</guid>
+            <pubDate>Wed, 25 Oct 2023 15:19:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队：将与快速支援部队重启吉达会谈】当地时间25日，苏丹武装部队发表声明表示，应沙特和美国两国的邀请，将赴沙特吉达与快速支援部队重启会谈。(央视新闻)]]></title>
+            <guid>3334654</guid>
+            <pubDate>Wed, 25 Oct 2023 15:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加拿大央行需要看到核心通胀的下行动力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1847790.d.html</link>
+            <guid>3334653</guid>
+            <pubDate>Wed, 25 Oct 2023 15:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥副财长引用最近的数据表示，今年的GDP增长可能达到3.5%或更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6958622.d.html</link>
+            <guid>3334652</guid>
+            <pubDate>Wed, 25 Oct 2023 15:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：这意味着我们必须更多地依赖利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1847422.d.html</link>
+            <guid>3334651</guid>
+            <pubDate>Wed, 25 Oct 2023 15:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：我们没有从加元升值中获得降低进口通胀的直接影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6958258.d.html</link>
+            <guid>3334650</guid>
+            <pubDate>Wed, 25 Oct 2023 15:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音需要对其库存737 MAX客机中的75%进行密封性修理。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1847333.d.html</link>
+            <guid>3334649</guid>
+            <pubDate>Wed, 25 Oct 2023 15:13:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行行长麦克勒姆：加元一直相对稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1847164.d.html</link>
+            <guid>3334648</guid>
+            <pubDate>Wed, 25 Oct 2023 15:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBOT豆油日内涨幅扩大至2.00%，现报52.35美分/磅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6957971.d.html</link>
+            <guid>3334647</guid>
+            <pubDate>Wed, 25 Oct 2023 15:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线下挫后已基本收复跌势，现分别报82.92美元/桶和86.90美元/桶。]]></title>
+            <guid>3334645</guid>
+            <pubDate>Wed, 25 Oct 2023 15:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银日内跌逾1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6957234.d.html</link>
+            <guid>3334642</guid>
+            <pubDate>Wed, 25 Oct 2023 15:08:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列推迟进攻加沙地带以便让美国可以向该地区部署导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrh2279801.d.html</link>
+            <guid>3334640</guid>
+            <pubDate>Wed, 25 Oct 2023 15:06:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[美、布两油短线下挫1美元，现分别报82.17美元/桶和86.03美元/桶。]]></title>
             <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1845682.d.html</link>
             <guid>3334639</guid>
             <pubDate>Wed, 25 Oct 2023 15:05:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美媒曝：布林肯称要求卡塔尔降低半岛电视台涉巴以报道音量，因含“反以内容”】据美国Axios新闻网25日报道，3名消息人士称，美国国务卿布林肯23日会见几名美国犹太社区的领导人时称，他本月早些时候要求卡塔尔首相兼外交大臣穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼对半岛电视台关于巴以新一轮冲突的报道作出限制，原因是这些报道“充满反对以色列的煽动性内容”。(环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1845458.d.html</link>
-            <guid>3334637</guid>
-            <pubDate>Wed, 25 Oct 2023 15:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三元生物：吕熙安及部分高管人员承诺6个月内不减持公司股份】三元生物公告，股东吕熙安及部分董事、监事、高级管理人员自愿承诺6个月内，不减持其所持有的公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1845268.d.html</link>
-            <guid>3334636</guid>
-            <pubDate>Wed, 25 Oct 2023 15:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：俄乌和巴以冲突正在损害经济，并给前景增添了不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8622035.d.html</link>
-            <guid>3334634</guid>
-            <pubDate>Wed, 25 Oct 2023 15:02:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们将继续评估货币政策是否足够具有限制性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8622015.d.html</link>
-            <guid>3334633</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们现在预计油价将保持高于我们在7月份所假设的水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1844852.d.html</link>
-            <guid>3334632</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：供需平衡指标存在不确定性；需求压力的缓解速度比我们在7月份的预测更快。]]></title>
-            <guid>3334631</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们取得了很大进展，但还没有达到目标；我们需要坚持下去。]]></title>
-            <guid>3334630</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：通胀进一步放缓的可能性较大，但通胀风险增加。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1844818.d.html</link>
-            <guid>3334629</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：能源价格上涨，核心通胀进展缓慢。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1844801.d.html</link>
-            <guid>3334628</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大央行行长麦克勒姆：我们保持政策利率稳定，是因为我们希望给货币政策一些时间来降低经济热度并缓解价格压力。]]></title>
-            <guid>3334627</guid>
-            <pubDate>Wed, 25 Oct 2023 15:01:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹武装部队：将与快速支援部队重启吉达会谈】苏丹武装部队当地时间25日发表声明表示，应沙特和美国两国的邀请，将赴沙特吉达与快速支援部队重启会谈。声明称，会谈是促成停火止战的一种途径，将在吉达完成此前约定的，即继续履行《吉达声明》的承诺，支持苏丹境内的人道主义活动，还苏丹人民以正常生活。声明还称，希望快速支援部队这次能遵照此前的协定内容，但重启会谈并不意味着停止战斗。此前，苏丹武装部队副指挥官卡巴什曾在军事基地的一次演讲中透露，双方重启会谈的时间定于10月26日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1844533.d.html</link>
-            <guid>3334623</guid>
-            <pubDate>Wed, 25 Oct 2023 14:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渤健的阿尔兹海默症试验药品显示出了“令人满意的趋势”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1844487.d.html</link>
-            <guid>3334622</guid>
-            <pubDate>Wed, 25 Oct 2023 14:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度恢复在加拿大的签证服务】根据印度官方发布的通告，印度于25日恢复在加拿大的签证服务，以满足几个关键类别的旅行者的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrh2278361.d.html</link>
-            <guid>3334621</guid>
-            <pubDate>Wed, 25 Oct 2023 14:59:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚马逊推出人工智能图像生成功能】亚马逊10月25日宣布推出测试版图像生成功能。亚马逊称，在亚马逊广告控制台中，广告商只需选择产品并点击“生成”，该工具就能利用人工智能生成功能，根据产品细节在几秒钟内提供一组以生活方式和品牌为主题的图片。]]></title>
-            <guid>3334619</guid>
-            <pubDate>Wed, 25 Oct 2023 14:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国大唐与中国铁建签署战略合作协议】10月25日，中国大唐集团有限公司与中国铁建股份有限公司在京签署战略合作协议。中国铁建董事长汪建平说，中国铁建愿与中国大唐围绕大基地项目、海上风电、海外业务等加强合作，深化合作内容、推动发展共赢，努力成为高质量发展的协同者。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrh2277112.d.html</link>
-            <guid>3334618</guid>
-            <pubDate>Wed, 25 Oct 2023 14:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)CFO：计划于今年晚些时候恢复777X 飞机的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1842863.d.html</link>
-            <guid>3334617</guid>
-            <pubDate>Wed, 25 Oct 2023 14:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音(BA.N)预计10月份737飞机交付量与9月份相当。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8619702.d.html</link>
-            <guid>3334616</guid>
-            <pubDate>Wed, 25 Oct 2023 14:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【捷捷微电：实控人及其一致行动人与持有公司股份的董监高承诺未来六个月内不减持公司股份】捷捷微电公告，控股股东、实际控制人黄善兵及其一致行动人江苏捷捷投资有限公司、南通蓉俊投资管理有限公司、与持有公司股份的董事、监事、高级管理人员共同承诺自2023年10月25日起未来六个月内不以任何形式减持本人持有的公司股票。]]></title>
-            <guid>3334615</guid>
-            <pubDate>Wed, 25 Oct 2023 14:48:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市市长龚正会见日本凸版光掩模有限公司社长二宫照雄】据上海发布，上海市市长龚正今天（25日）会见了日本凸版光掩模有限公司社长二宫照雄一行。龚正说，展望未来，上海将大力推进集成电路全产业链发展，将临港新片区作为重要承载地，进一步扩大对外开放，为中外企业创造更多市场机遇，加快打造集成电路世界级产业集群。欢迎凸版光掩模公司加大在沪投资力度，深化与本地企业合作，实现互利共赢发展。日本凸版光掩模有限公司是全球最大的独立第三方光掩膜生产商，市场份额约占全球32％。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1841762.d.html</link>
-            <guid>3334613</guid>
-            <pubDate>Wed, 25 Oct 2023 14:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【波音涨近3% Q3营收181.04亿美元同比增13%】波音(BA.US)涨近3%，报177.038美元。波音第三季度营收181.04亿美元，同比增13%；净亏损16.38亿美元，上年同期净亏损33.08亿美元。波音公司削减737飞机交付年度目标，目前预计交付375-400架737飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1840811.d.html</link>
-            <guid>3334609</guid>
-            <pubDate>Wed, 25 Oct 2023 14:40:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加密货币交易所FTX创始人山姆·班克曼-弗里德将在其欺诈审判中作证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6951909.d.html</link>
-            <guid>3334607</guid>
-            <pubDate>Wed, 25 Oct 2023 14:37:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【通用动力涨超4% Q3业绩超预期】通用动力(GD.US)涨超4%，报243.09美元。通用动力第三季度营收106亿美元，预期100.6亿美元；第三季度每股收益3.04美元，预期2.91美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8616278.d.html</link>
-            <guid>3334604</guid>
-            <pubDate>Wed, 25 Oct 2023 14:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中熔电气：实控人自愿延长直接持有股份锁定期】中熔电气公告，公司实际控制人方广文、刘冰、汪桂飞、王伟自愿延长所直接持有的公司首发前限售股份锁定期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1838354.d.html</link>
-            <guid>3334595</guid>
-            <pubDate>Wed, 25 Oct 2023 14:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法国总统马克龙：将继续推动为加沙医院恢复供电，情况十分紧急。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8614944.d.html</link>
-            <guid>3334593</guid>
-            <pubDate>Wed, 25 Oct 2023 14:25:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德州仪器跌超4% Q3净利润下滑26%】德州仪器(TXN.US)跌超4%，报140.98美元。德州仪器2023年Q3营收45.32亿美元，同比下降14%，略低于市场预期的45.8亿美元；净利润为17.09亿美元，同比下降26%，市场预期为16.6亿美元。公司预计第四季度营收将介于39.3亿-42.7亿美元之间，低于市场预期的44.9亿美元；每股收益将介于1.35至1.57美元之间，也低于预期的1.76美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6948356.d.html</link>
-            <guid>3334587</guid>
-            <pubDate>Wed, 25 Oct 2023 14:20:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默表示参议院正在推进三项两党支持的支出法案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1836265.d.html</link>
-            <guid>3334586</guid>
-            <pubDate>Wed, 25 Oct 2023 14:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西总统卢拉表示将与卡塔尔埃米尔讨论加沙地带的巴西人质问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6947196.d.html</link>
-            <guid>3334583</guid>
-            <pubDate>Wed, 25 Oct 2023 14:13:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【博士眼镜：实际控制人承诺6个月内不减持公司股份】博士眼镜公告，实际控制人ALEXANDER LIU先生、LOUISA FAN女士承诺起6个月内不以任何方式减持公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrh2269462.d.html</link>
-            <guid>3334581</guid>
-            <pubDate>Wed, 25 Oct 2023 14:11:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部发布与俄罗斯相关的一般许可证。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwrc8611056.d.html</link>
-            <guid>3334578</guid>
-            <pubDate>Wed, 25 Oct 2023 14:08:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【能链智电正式加入联合国全球契约组织】近日，能链智电(NAAS.US)正式加入联合国全球契约组织(UNGC)，承诺将支持联合国全球契约组织《全球契约十项原则》。这不但标志着能链智电的可持续发展实践已获得国际组织认可，也是继今年8月能链智电加入“科学碳目标倡议”(SBTi)之后，在ESG领域取得的又一项具有里程碑意义的成果。联合国全球契约组织成立于2000年，是ESG概念最早的提出者，同时也是全球最大的企业可持续发展倡议组织。拥有来自全球近170个国家的23000多家企业和非企业会员，中国企业成员超过800家，包括宁德时代、阳光电源等新能源行业领军企业。2023年上半年，能链智电碳减排146.3万吨，相较于2022年上半年70.04万吨提升了109%。对于能链智电而言，加入联合国全球契约组织并推进ESG战略的实施是具有里程碑意义的一步。通过积极参与国际组织活动、设定明确的ESG目标，能链智电将进一步强化企业的可持续发展战略，推动绿色能源应用探索碳减排路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6946053.d.html</link>
-            <guid>3334577</guid>
-            <pubDate>Wed, 25 Oct 2023 14:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷诺将投资30亿欧元推出八款新车型】雷诺表示，该公司将在2027年前投资30亿欧元（32亿美元），推出八款新车，并提高电动汽车在欧洲以外地区的销量。雷诺表示，到2027年，电动车和混合动力车在欧洲以外地区的销量应占三分之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwra1832384.d.html</link>
-            <guid>3334564</guid>
-            <pubDate>Wed, 25 Oct 2023 14:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果将TV+服务的价格从每月6.99美元上调至9.99美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsiwre6944805.d.html</link>
-            <guid>3334563</guid>
-            <pubDate>Wed, 25 Oct 2023 14:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：保时捷高管抨击欧盟对中国电动汽车发起调查，称反对对华搞关税战】据英国《金融时报》报道，保时捷财务总监卢茨·梅施克24日抨击欧盟对进口自中国的电动汽车发起反补贴调查，并称此举对欧盟“帮助不大”，德国汽车制造商将“反对”在布鲁塞尔和北京之间搞任何“关税战”。（环球网）]]></title>
-            <guid>3334547</guid>
-            <pubDate>Wed, 25 Oct 2023 13:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国推迟Adobe收购Figma调查截止日期至明年2月底】英国竞争与市场管理局(CMA)将Adobe收购Figma这笔交易的调查截止日期由今年年底推迟至明年2月25日，并将于今年11月底公布初步调查结果。该反垄断监管机构7月曾宣布，由于Adobe没有提供解决反垄断问题的补救措施，该机构将启动一项更长时间的深入审查。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsisif8737307.d.html</link>
-            <guid>3334545</guid>
-            <pubDate>Wed, 25 Oct 2023 13:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斯洛伐克新政府宣誓就职】当地时间10月25日下午，斯洛伐克总统苏珊娜·恰普托娃任命了由方向党主席罗伯特·菲佐担任总理的新一届斯洛伐克内阁。新内阁成员于当天在位于首都布拉迪斯拉发的总统府宣誓就职，这也是菲佐第四次担任斯政府总理。新内阁将由三个党派组成：方向党、声音党以及斯洛伐克民族党。斯洛伐克新政府将于30天内接受议会的信任投票。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsisif8735939.d.html</link>
-            <guid>3334539</guid>
-            <pubDate>Wed, 25 Oct 2023 13:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软涨超4% Q1营收超预期且增速创一半年新高】微软(MSFT.US)涨超4%，报344.179美元。微软2024财年Q1营收为565.2亿美元，同比增长13%，创下6个季度来的最快增速，高于市场预期的544.9亿美元；净利润为223亿美元，同比增长27%，亦高于预期的198亿美元。其中，智能云业务收入为243亿美元，同比增长19%，好于预期的236.1亿美元。公司预计Q2汇率变化将推动销售额增长1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-10-25/detail-imzsisif8735773.d.html</link>
-            <guid>3334538</guid>
-            <pubDate>Wed, 25 Oct 2023 13:44:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
