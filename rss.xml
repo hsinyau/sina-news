@@ -4,290 +4,370 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 08 Nov 2023 15:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 18:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【第三届全球金融科技大会在京开幕】11月8日，作为2023金融街论坛年会特定板块的第五届成方金融科技论坛暨第三届全球金融科技大会在北京开幕。今年是国家级金融科技示范区核心区建设五周年，大会设置了成方金融科技论坛等论坛活动，以及全球金融科技应用场景大赛和金融科技主题展览等活动，全方位展示金融科技发展的新成果。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsie8337774.d.html</link>
-            <guid>3357809</guid>
-            <pubDate>Wed, 08 Nov 2023 15:05:19 GMT</pubDate>
+            <title><![CDATA[谷歌：生成式人工智能在超过120个新的国家和地区扩展使用。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwrf2562591.d.html</link>
+            <guid>3357925</guid>
+            <pubDate>Wed, 08 Nov 2023 18:02:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鲍威尔敦促美联储经济学家在做出预测时应保持灵活性】美联储主席鲍威尔表示，央行必须要愿意跳出那种传统上用于预测经济的复杂数学模拟。鲍威尔在庆祝美联储研究与统计部成立100周年的会议上致开幕词，他说，“即使使用最先进的模型，即使处于相对平静的时期，经济表现也常常出乎我们意料，我们的经济是灵活和充满活力的，有时会受到无法预测的冲击，例如全球金融危机或大流行病。这种时候，预测人员必须跳出模型来思考。”他在讲话中没有对货币政策或经济前景发表评论。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5114749.d.html</link>
-            <guid>3357806</guid>
-            <pubDate>Wed, 08 Nov 2023 15:04:16 GMT</pubDate>
+            <title><![CDATA[美国财政部续发400亿美元10年期国债，得标利率4.519%（10月11日为4.610%——至少创2007年11月以来新高），投标倍数2.45（此前为2.50）。债券发行结果出炉后，10年期美债收益率下挫超过1个基点，刷新日低至4.5070%下方，使得日内整体跌幅扩大至将近5.8个基点。]]></title>
+            <guid>3357924</guid>
+            <pubDate>Wed, 08 Nov 2023 18:02:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄罗斯表示愿与美国就战略稳定问题对话】俄罗斯总统新闻秘书佩斯科夫8日表示，俄愿意与美国就战略稳定问题开展对话，但不能以一方对另一方说教的方式进行。佩斯科夫说，目前还没有就此话题开展对话的先决条件，但开展此类对话非常必要。俄罗斯于11月7日零时完成退出《欧洲常规武装力量条约》的全部程序。今年5月29日，俄总统普京签署关于废止该条约的法令。作为对俄正式退出该条约的回应，北约7日宣布将暂停参与《欧洲常规武装力量条约》。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5114704.d.html</link>
-            <guid>3357805</guid>
-            <pubDate>Wed, 08 Nov 2023 15:04:07 GMT</pubDate>
+            <title><![CDATA[通用汽车旗下Cruise的CEO Kyle Vogt确认，公司即将裁员。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwqy0776227.d.html</link>
+            <guid>3357923</guid>
+            <pubDate>Wed, 08 Nov 2023 17:57:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鹏翎股份：暂未有产品配套智界S7车型】鹏翎股份在互动平台表示，公司暂未有产品配套智界S7车型。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsie8337293.d.html</link>
-            <guid>3357804</guid>
-            <pubDate>Wed, 08 Nov 2023 15:02:45 GMT</pubDate>
+            <title><![CDATA[以色列方面表示，在北部地区发出（防空）警报后拦截了一架飞机。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwqy0775867.d.html</link>
+            <guid>3357920</guid>
+            <pubDate>Wed, 08 Nov 2023 17:52:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沙特考虑投资生产电动汽车电池和氢动力汽车】沙特投资大臣哈立德·法利赫11月7日接受采访表示，沙特正考虑投资生产电动汽车电池和氢动力汽车，“下一步是供应链，希望电动汽车电池成为一个关键的供应链制造机会”。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsie8337031.d.html</link>
-            <guid>3357803</guid>
-            <pubDate>Wed, 08 Nov 2023 15:01:27 GMT</pubDate>
+            <title><![CDATA[空中客车：公司将Pratt & Whitney的发动机问题“纳入了”2023年业绩（展望）的考量。]]></title>
+            <guid>3357918</guid>
+            <pubDate>Wed, 08 Nov 2023 17:48:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国9月批发销售月率 2.2%，预期0.8%，前值1.80%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5114025.d.html</link>
-            <guid>3357801</guid>
-            <pubDate>Wed, 08 Nov 2023 15:00:31 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：美国得克萨斯州Coalson Draw发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwre5012134.d.html</link>
+            <guid>3357917</guid>
+            <pubDate>Wed, 08 Nov 2023 17:46:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[法拉第未来(FFIE.O)涨超5%，此前该公司计划从11月最后一周起交付量增至每周交付两台。]]></title>
-            <guid>3357797</guid>
-            <pubDate>Wed, 08 Nov 2023 14:57:34 GMT</pubDate>
+            <title><![CDATA[据美国地质勘探局，印度尼西亚阿玛海东南以南277公里处发生5.3级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwre5011841.d.html</link>
+            <guid>3357916</guid>
+            <pubDate>Wed, 08 Nov 2023 17:43:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【闻泰科技：签署SPA协议，Siliconix拟1.77亿美元受让安世半导体所持NEPTUNE 6 LIMITED】11月8日，安世半导体与Siliconix、Vishay签署了《AGREEMENT FOR THE SALE AND PURCHASE OF THE ENTIRE ISSUED SHARE CAPITAL OF NEPTUNE 6 LIMITED》。Siliconix拟受让安世半导体所持有的 NEPTUNE 6 LIMITED 100%股权，本次交易金额基础值为1.77亿美元，Vishay将为本次交易提供担保。如果本次交易交割完成，预计将产生投资收益约0.53亿美元（按照2023年10月31日汇率测算，约合人民币3.78亿元）；预计对归母净利润影响约0.53亿美元（按2023年10月31日汇率折算，约合人民币3.78亿元），该部分损益为目前时点的初步测算结果。]]></title>
-            <guid>3357796</guid>
-            <pubDate>Wed, 08 Nov 2023 14:55:17 GMT</pubDate>
+            <title><![CDATA[【伊拉克民兵武装称两次打击叙利亚哈塞克省一处美军基地】伊拉克民兵武装“伊斯兰抵抗组织”当地时间11月8日晚间发表声明称，当天针对叙利亚哈塞克省南部沙达迪地区的一处美军基地发射了多架无人机进行打击，并“直接命中”基地内目标。声明中未提及无人机具体数量。随后，该组织再次发表声明称，对该美军基地发射火箭弹实施了第二次袭击，火箭弹“直接命中”基地内目标。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwqy0775124.d.html</link>
+            <guid>3357915</guid>
+            <pubDate>Wed, 08 Nov 2023 17:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI：我们已经发现了一个问题，导致API和ChatGPT的错误率很高，并且我们正在努力解决。]]></title>
-            <guid>3357794</guid>
-            <pubDate>Wed, 08 Nov 2023 14:54:11 GMT</pubDate>
+            <title><![CDATA[穆迪：预计到2025年年底，大多数G20经济体的通胀率将回落至目标水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwra8233542.d.html</link>
+            <guid>3357914</guid>
+            <pubDate>Wed, 08 Nov 2023 17:39:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黎以临时边界多地发生交火】综合黎巴嫩和以色列媒体当地时间11月8日报道，黎巴嫩真主党下属军事派别发表声明称，当天用“直接和适当的武器”袭击了以色列巴亚德布利达、多维夫、肖梅拉等地的军事目标，造成人员伤亡。以色列《国土报》报道称，有两名以军士兵在多维夫遭枪击受伤。当天，以军炮击了黎巴嫩南部边境地区的埃塔沙阿布、亚伦、埃塔伦、梅斯贾巴尔、布利达、迈比布、卡法尔舒巴、哈尔塔等地。（央视新闻）]]></title>
-            <guid>3357793</guid>
-            <pubDate>Wed, 08 Nov 2023 14:52:20 GMT</pubDate>
+            <title><![CDATA[穆迪：随着高利率通过信贷渠道传导到实体经济，全球经济增长将在2024年放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwrf2560077.d.html</link>
+            <guid>3357910</guid>
+            <pubDate>Wed, 08 Nov 2023 17:36:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卢甘斯克地区地方议员在汽车炸弹袭击中丧生，乌国防情报总局宣布为此负责】11月8日，卢甘斯克地区地方议员、当地民兵武装高层米哈伊尔·菲利波年科在汽车炸弹袭击中丧生，乌克兰国防情报总局当天在官网发布声明，宣布对此事负责。据乌情报部门官网称，米哈伊尔·菲利波年科生前担任卢甘斯克人民议会议员，并曾是当地民兵武装的领导人之一。为了实施袭击，乌军特工联合当地亲乌武装在米哈伊尔的汽车驾驶座下安装了炸弹，当地时间8日上午8点40分左右，当米哈伊尔进入车内准备外出时，炸弹迅速引爆导致米哈伊尔当场身亡。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8465914.d.html</link>
-            <guid>3357791</guid>
-            <pubDate>Wed, 08 Nov 2023 14:49:07 GMT</pubDate>
+            <title><![CDATA[穆迪：在全球经济持续放缓的背景下，G20国家的增长动力出现分化。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwrf2560035.d.html</link>
+            <guid>3357909</guid>
+            <pubDate>Wed, 08 Nov 2023 17:36:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rivian(RIVN.O)首席执行官：R2原型车将于2024年初展示。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmze1013061.d.html</link>
-            <guid>3357789</guid>
-            <pubDate>Wed, 08 Nov 2023 14:46:17 GMT</pubDate>
+            <title><![CDATA[【俄罗斯总统普京会见张又侠】当地时间11月8日，俄罗斯总统普京在莫斯科会见到访的中央军委副主席张又侠。普京请张又侠转达对习近平主席的诚挚问候和美好祝福。他表示，俄中友好关系有利于维护世界和地区和平稳定，这与冷战时期那种同盟关系完全不同。近年来，两国经贸关系快速发展，在联合国、上海合作组织、金砖国家等国际多边平台中保持密切协作。两军各领域合作发展势头良好，取得丰硕成果，为维护两国战略安全发挥了重要作用。俄方愿与中方加强战略沟通，提升务实合作水平，不断推动两国两军关系深入发展。（新华社）]]></title>
+            <guid>3357906</guid>
+            <pubDate>Wed, 08 Nov 2023 17:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家电投进博会签约8.2亿美元，同比增长近80%】11月6日，国家电投举办交易分团进口采购专场签约仪式，本届进博会国家电投总签约金额达8.2亿美元，签约金额同比增长近80%。签约仪式上，国家电投所属上海核工院、山东总公司（山东院）、中国电能、内蒙古公司、山东核电、国核铀业、上海电力等7家二级单位分别与法国欧安诺矿业、德国西门子能源有限公司、美国西屋电气有限公司、印度尼西亚BIB煤矿公司、日本小松（中国）投资有限公司北京分公司、日本日铁物产株式会社等15家国际知名企业签署合作协议17项。为做好今冬明春能源保供工作，国家电投签约进口煤炭8100万美元。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8465181.d.html</link>
-            <guid>3357788</guid>
-            <pubDate>Wed, 08 Nov 2023 14:45:53 GMT</pubDate>
+            <title><![CDATA[【欧盟委员会主席会见以色列外交部长】当地时间11月8日，欧盟委员会主席冯德莱恩会见以色列外交部长埃利·科恩。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwra8230217.d.html</link>
+            <guid>3357905</guid>
+            <pubDate>Wed, 08 Nov 2023 17:28:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Rivian(RIVN.O)首席执行官：车辆平均销售价格呈上升趋势。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8464594.d.html</link>
-            <guid>3357785</guid>
-            <pubDate>Wed, 08 Nov 2023 14:43:06 GMT</pubDate>
+            <title><![CDATA[巴勒斯坦内政部：加沙贾巴利亚难民营附近医院遭以色列空袭，造成19人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwre5006009.d.html</link>
+            <guid>3357903</guid>
+            <pubDate>Wed, 08 Nov 2023 17:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军空袭加沙地带北部城镇 造成19人死亡】据巴勒斯坦《圣城报》当地时间11月8日报道，以军当天对加沙地带北部城镇拜特拉希亚发动空袭，目前已造成19人死亡，另有数十人受伤。目前以色列方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmze1012412.d.html</link>
-            <guid>3357784</guid>
-            <pubDate>Wed, 08 Nov 2023 14:42:58 GMT</pubDate>
+            <title><![CDATA[【比利时首相会见乌克兰外长】当地时间11月8日，比利时首相亚历山大·德克罗会见乌克兰外长库列巴，双方重点讨论了对乌克兰的进一步支持、进一步制裁俄罗斯的方案以及乌克兰的复苏。此外，德克罗对乌克兰申请加入欧盟表示支持，并表示将在2024年比利时担任欧盟轮值主席国期间，推动采取必要举措，促成乌克兰加入欧盟的最终谈判。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxwra8226481.d.html</link>
+            <guid>3357899</guid>
+            <pubDate>Wed, 08 Nov 2023 17:10:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港起飞航班备降揭阳，吉祥航空：已安全抵达目的地，未更换飞机】11月8日，吉祥航空从香港飞往南京的HO1650航班备降，引发关注。对此，吉祥航空相关工作人员表示，该航班已于当晚19时13分从备降的揭阳机场起飞，并未更换飞机，于20时48分安全抵达目的地南京。（南方都市报）]]></title>
-            <guid>3357782</guid>
-            <pubDate>Wed, 08 Nov 2023 14:41:22 GMT</pubDate>
+            <title><![CDATA[【乌克兰总统会见美国交通部长】乌克兰国家通讯社当地时间11月8日报道称，当天，乌克兰总统泽连斯基会见了到访的美国交通部长皮特·布蒂吉格。双方讨论了恢复乌克兰基础设施和发展乌克兰出口运输等问题。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsii2686279.d.html</link>
+            <guid>3357894</guid>
+            <pubDate>Wed, 08 Nov 2023 16:58:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【戴姆勒卡车三季度净利润为9.57亿欧元 略低于上年同期】戴姆勒卡车控股公司11月8日发布2023年第三季度财报。报告期内，集团收入增至139亿欧元，上年同期为135亿欧元；集团调整后息税前利润增至13.4亿欧元，上年同期为12.7亿欧元；净利润为9.57亿欧元，略低于上年同期的9.9亿欧元，后者主要得益于一次性超低税率的积极影响。2023年三季度，集团全球总销量达128,861辆，上年同期为134,972辆。从年初到9月，集团的整体销量高于上年同期，达385,921辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5241472.d.html</link>
-            <guid>3357781</guid>
-            <pubDate>Wed, 08 Nov 2023 14:40:57 GMT</pubDate>
+            <title><![CDATA[【伊拉克民兵武装称打击叙利亚哈塞克省一处美军基地】当地时间11月8日晚间，伊拉克民兵武装“伊斯兰抵抗组织”发表声明称，当天针对叙利亚哈塞克省南部沙达迪地区的一处美军基地发射了多架无人机进行打击，并“直接命中”基地内目标。声明中未提及无人机具体数量。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsii2686213.d.html</link>
+            <guid>3357893</guid>
+            <pubDate>Wed, 08 Nov 2023 16:57:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黎以临时边界多地发生交火】综合黎巴嫩和以色列媒体当地时间11月8日报道，黎巴嫩真主党下属军事派别发表声明称，当天用“直接和适当的武器”袭击了以色列巴亚德布利达、多维夫、肖梅拉等地的军事目标，造成人员伤亡。以色列《国土报》报道称，有两名以军士兵在多维夫遭枪击受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5241333.d.html</link>
-            <guid>3357779</guid>
-            <pubDate>Wed, 08 Nov 2023 14:40:29 GMT</pubDate>
+            <title><![CDATA[北约秘书长斯托尔滕贝格敦促匈牙利批准瑞典加入北约。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5132450.d.html</link>
+            <guid>3357892</guid>
+            <pubDate>Wed, 08 Nov 2023 16:56:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Arm(ARM.O)盘初跌幅迅速扩大至1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5241283.d.html</link>
-            <guid>3357778</guid>
-            <pubDate>Wed, 08 Nov 2023 14:40:07 GMT</pubDate>
+            <title><![CDATA[【11月份以来近九成医药主题基金实现正收益】11月份以来，医药主题基金表现亮眼。多位受访基金经理认为，目前医药板块估值处于历史低位，医药板块处于长期配置的较好买点。虽然从年内收益情况来看，医药主题基金表现似乎仍然欠佳，但近期收益表现却明显向好。据记者不完全统计，截至11月8日，近九成医药主题基金11月份以来取得了正收益。其中，富国恒生港股通医疗保健ETF、博时恒生医疗保健ETF、广发中证香港创新药ETF、博时恒生医疗保健ETF联接A/C等多只基金均取得了4%以上的收益。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0899937.d.html</link>
+            <guid>3357890</guid>
+            <pubDate>Wed, 08 Nov 2023 16:54:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国最北省份动车组清冰除雪装置升级保运行】11月5日夜间以来，黑龙江省多地出现暴雪等极端天气。为有效应对极端天气，确保动车组安全出库运行，中国铁路哈尔滨局集团有限公司哈尔滨动车段首次采用清冰除雪增压加热装置，科技赋能安全生产，全力提升冬季动车组清冰除雪作业效率。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8463664.d.html</link>
-            <guid>3357776</guid>
-            <pubDate>Wed, 08 Nov 2023 14:37:10 GMT</pubDate>
+            <title><![CDATA[【折叠屏手机成多厂商“双11”角力重点】折叠屏手机作为智能手机重要的细分赛道，已然成为厂商的“兵家必争之地”。时至年末，各大品牌手机厂商纷纷对折叠屏手机进行了花式促销，主流型号大幅降价，市场“暗战”不断。记者于11月8日走访顺电、迪信通及多家手机品牌专营店了解到，年终大促已来，折叠屏手机成为各厂商主打产品，多个品牌在促销中出现“空前力度”的标语，折叠屏手机降价幅度最高达千元。而在线上电商渠道，三星等高端折叠屏手机降幅甚至高达2800元。各品牌的花式促销之下，折叠屏手机销量也在线上线下双渠道中高歌猛进。京东数据显示，10月23日至10月30日，折叠屏手机成交额同比增长超3倍。“硬件成本降低、库存积压及为明年迭代新品上市铺路均促使折叠屏手机厂商打响这场年终‘价格战’。而这也将进一步加速折叠屏手机的普及，并持续带动面板、铰链等产业链关键领域的规模性发展。”中国通信企业协会人工智能专业委员会副秘书长葛颀对记者表示。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0899914.d.html</link>
+            <guid>3357888</guid>
+            <pubDate>Wed, 08 Nov 2023 16:53:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【系统Bug？南航多条航线机票出现“白菜价” 低至10元】今晚八时左右，有网友反映南方航空放出10-30元低价票，涉及成都进出港的多条国内航线，不少旅客抢到低价票并支付成功，完成出票。根据南航App显示，目前票价似已恢复正常。（蓝鲸财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmze1011281.d.html</link>
-            <guid>3357775</guid>
-            <pubDate>Wed, 08 Nov 2023 14:36:39 GMT</pubDate>
+            <title><![CDATA[【18家A股公司正处预重整阶段 等待“白衣骑士”】为了节省时间、精准识别重整价值，实践中出现了上市公司在重整申请准备的同时，开展预重整的情况，而目前来看，预重整正在成为一些明显缺乏偿债能力的上市公司的优先选择。数据显示，截至11月8日，两市有18家公司显示处在预重整阶段。其中，有15家公司是ST企业，如何在今年尽快焕发新生机以顺利保壳，压力依旧较大。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5132119.d.html</link>
+            <guid>3357887</guid>
+            <pubDate>Wed, 08 Nov 2023 16:53:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加沙地带最大医院成大型避难所】巴以冲突持续导致加沙地带人道主义状况不断恶化，医院面临的形势也愈发严峻。加沙地带卫生部门官员7日表示，截至当地时间7日晚，加沙地带的35家医院中已有18家医院停止服务。除了面临药品、燃料短缺等问题，医院还面临流离失所居民涌入以及以军更多袭击的威胁。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5239561.d.html</link>
-            <guid>3357772</guid>
-            <pubDate>Wed, 08 Nov 2023 14:31:22 GMT</pubDate>
+            <title><![CDATA[【也门胡塞武装称击落一架美军无人侦察机】也门胡塞武装当地时间11月8日晚间发表声明称，在也门海域击落了一架美军MQ-9型无人侦察机。声明并未透露具体时间地点以及击落方式。美方对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5132057.d.html</link>
+            <guid>3357886</guid>
+            <pubDate>Wed, 08 Nov 2023 16:52:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新西兰克马德克群岛发生5.2级地震】据欧洲地中海地震中心测定，当地时间11月9日2时6分，新西兰克马德克群岛发生5.2级地震，震源深度9.9公里，震中位于南纬30.6度，西经178.3度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8461900.d.html</link>
-            <guid>3357770</guid>
-            <pubDate>Wed, 08 Nov 2023 14:29:09 GMT</pubDate>
+            <title><![CDATA[AI初创公司Anthropic将采用谷歌公司的云TPU V5E芯片，以支持自家的AI模型。]]></title>
+            <guid>3357885</guid>
+            <pubDate>Wed, 08 Nov 2023 16:51:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万科A：在投资上会继续坚持量入为出 合理仓位】万科A在互动平台表示，新增投资在每个月的分布并不均匀。总体上公司今年仍然保持了一定的投资强度。在投资上公司会继续坚持量入为出，合理仓位，把投资质量放在首位。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5238399.d.html</link>
-            <guid>3357768</guid>
-            <pubDate>Wed, 08 Nov 2023 14:26:16 GMT</pubDate>
+            <title><![CDATA[空中客车三季度营收149.0亿欧元，分析师预期149.6亿欧元。
+三季度调整后EBIT为10.1亿欧元，分析师预期11.7亿欧元。
+9月调整后自由现金流（FCF）为10.4亿欧元，分析师预期14.6亿欧元。
+维持全年飞机交付量预期在720架左右，分析师预期724.75架。
+维持全年调整后EBIT预期在大约60亿欧元不变，分析师预期60亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5131278.d.html</link>
+            <guid>3357883</guid>
+            <pubDate>Wed, 08 Nov 2023 16:46:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【韩媒：美国国务卿布林肯抵达韩国，系尹锡悦上台后首次到访】韩联社最新报道称，美国国务卿布林肯8日抵达位于韩国京畿道平泽市的驻韩美军乌山空军基地。报道称，这是布林肯近两年半以来首次访韩，也是他在韩国总统尹锡悦上台后首次到访。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmza5685850.d.html</link>
-            <guid>3357767</guid>
-            <pubDate>Wed, 08 Nov 2023 14:23:38 GMT</pubDate>
+            <title><![CDATA[美国证交会主席根斯勒：投资者需要了解代币的使用案例。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0899009.d.html</link>
+            <guid>3357881</guid>
+            <pubDate>Wed, 08 Nov 2023 16:43:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞波首席执行官：瑞波将把其与美国证券交易委员会（SEC）的案件一直上诉至最高法院。]]></title>
-            <guid>3357762</guid>
-            <pubDate>Wed, 08 Nov 2023 14:13:50 GMT</pubDate>
+            <title><![CDATA[美国证交会主席根斯勒：加密货币充斥着“欺诈和操纵”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0898972.d.html</link>
+            <guid>3357880</guid>
+            <pubDate>Wed, 08 Nov 2023 16:43:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【通达电气：新能源汽车电机与热管理系统系列产品收入占公司主营业务收入比例较小】通达电气11月8日晚间发布股票交易风险提示性公告，公司新能源汽车电机与热管理系统系列产品，主要指以电子风扇、电子水泵为核心零部件的智能热管理系统产品，是公司上市以来的固有产品。该系列产品，2023年1-6月累计实现销售收入约2530.51万元，占同期公司主营业务收入约10.85%；2023年1-9月累计实现销售收入约4296.77万元，占同期公司主营业务收入约12.34%，占比较小。相关产品业绩受行业政策、行业竞争、技术迭代等多重因素影响，存在不确定性和波动风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8457460.d.html</link>
-            <guid>3357761</guid>
-            <pubDate>Wed, 08 Nov 2023 14:10:27 GMT</pubDate>
+            <title><![CDATA[【年内12家A股公司发行可转债计划终止 11家为主动“撤单”】今年以来，监管层不断优化再融资机制安排，持续提升对上市公司可转债项目的审核精准度。据沪深交易所官网数据统计，截至11月8日，两市年内共有12家上市公司发行可转债的审核终止。其中，1家因审核未通过而被终止，另外11家为企业主动撤回发行申请。东方金诚研究发展部副总经理曹源源在接受记者采访时表示，可转债发行审核的重点包括公司业绩变化原因、经营和财务指标异常的原因及合理性、募投项目的可行性和合理性，以及募集资金规模的合理性和必要性。这与当前监管机构加大对证券市场信息披露质量、上市公司质量的监管要求保持高度一致，有利于保护投资人合法权益，维护可转债市场稳健发展。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0898889.d.html</link>
+            <guid>3357877</guid>
+            <pubDate>Wed, 08 Nov 2023 16:42:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宏英智能：拟以1000万元-1500万元回购股份】宏英智能公告，拟以1000万元-1500万元回购股份，回购价格不超过 43.73 元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8456739.d.html</link>
-            <guid>3357759</guid>
-            <pubDate>Wed, 08 Nov 2023 14:07:23 GMT</pubDate>
+            <title><![CDATA[美国证交会主席根斯勒：我为我们处理的加密货币案件感到自豪。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsie8353354.d.html</link>
+            <guid>3357876</guid>
+            <pubDate>Wed, 08 Nov 2023 16:41:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【炬光科技：拟以7554万欧元购买SMO100%股权】炬光科技公告，拟通过全资子公司香港炬光以现金支付的方式购买SMT持有的SMO100%股权。交易对价总计7554万欧元。SMO与上市公司同属光子行业，主要从事用于光纤耦合、激光准直、光场匀化、光束整形等基于折射或衍射原理的精密微纳光学元器件的研发、生产和销售，与公司上游激光光学元器件（“调控光子”）业务类型较为相似，在技术和产品上高度互补，其产品广泛应用于数据通信、汽车投影照明、半导体制程、生命科学等领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5233047.d.html</link>
-            <guid>3357758</guid>
-            <pubDate>Wed, 08 Nov 2023 14:03:56 GMT</pubDate>
+            <title><![CDATA[【三星推出为其设备打造的生成式AI模型“三星高斯”】三星电子周三推出了一种新的生成式人工智能模型，暗示该软件将很快将应用在其设备中。三星电子表示，其名为“三星高斯（Samsung Gauss）”的技术是为设备上的AI应用而设计的。三星电子表示，其人工智能模型以著名数学家卡尔-弗里德里希-高斯（Carl Friedrich Gauss）的名字命名，他是“创立正态分布理论的传奇数学家，是机器学习和人工智能的支柱。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0898437.d.html</link>
+            <guid>3357873</guid>
+            <pubDate>Wed, 08 Nov 2023 16:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：OpenAI表示目前正在调查ChatGPT和API部分中断的问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5232795.d.html</link>
-            <guid>3357755</guid>
-            <pubDate>Wed, 08 Nov 2023 14:02:55 GMT</pubDate>
+            <title><![CDATA[市场消息 ：摩根士丹利与阿波罗高管成立信贷二级公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsie8351962.d.html</link>
+            <guid>3357872</guid>
+            <pubDate>Wed, 08 Nov 2023 16:33:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【电光科技：目前矿用防爆电器的毛利率超过40%】电光科技11月8日于线上会议表示，目前矿用防爆电器的毛利率超过40%，永磁驱动产品的毛利率一般在35%-40%左右，但也会受原材料价格影响波动较大。未来永磁驱动产品的销售规模若有较大提升，预计毛利率还可以进一步提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmza5680293.d.html</link>
-            <guid>3357753</guid>
-            <pubDate>Wed, 08 Nov 2023 13:58:26 GMT</pubDate>
+            <title><![CDATA[美国财政部拍卖四个月期国债，得标利率5.285%（前次为5.340%），投标倍数3.06（前次为2.89）。]]></title>
+            <guid>3357871</guid>
+            <pubDate>Wed, 08 Nov 2023 16:32:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【约旦国王与荷兰首相通话】当地时间11月8日，约旦国王阿卜杜拉二世与荷兰首相马克·吕特通话，强调当下需要加大力度制止巴以冲突并保护平民。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5230843.d.html</link>
-            <guid>3357750</guid>
-            <pubDate>Wed, 08 Nov 2023 13:54:48 GMT</pubDate>
+            <title><![CDATA[【美国克利夫兰联储开始物色下一任主席】克利夫兰联储的声明表示，已开始寻找总裁兼首席执行官以接替洛雷塔·梅斯特的工作，梅斯特的任期将于明年6月30日结束，符合央行规定的年龄和服务年限政策。梅斯特此前于2014年6月成为美联储第四区第十一任行长兼首席执行官。克利夫兰联储主席是2024年FOMC的投票成员。除了克利夫兰联储外，圣路易斯联储在吉姆·布拉德8月中旬下台后也在寻找新的领导者。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5127995.d.html</link>
+            <guid>3357865</guid>
+            <pubDate>Wed, 08 Nov 2023 16:27:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【3连板东莞控股：近期经营情况正常，筹划重大资产重组事项最终能否实施及具体进度均具有不确定性】公司股票交易价格连续2个交易日（11月7日、11月8日）收盘价格涨幅偏离值累计超过20%。根据相关规定，属于股票交易异常波动的情形。经核查，公司前期披露的信息不存在需要更正、补充之处；公司未发现近期公共传媒报道了可能或已经对公司股票交易价格产生较大影响的未公开重大信息；公司近期经营情况及内外部经营环境正常，未发生重大变化；公司、控股股东和实际控制人不存在关于公司的应披露而未披露的重大事项，或处于筹划阶段的重大事项；公司控股股东、实际控制人在公司股票交易异常波动期间不存在买卖公司股票的行为。公司于8月24日披露了《关于筹划重大资产重组的提示性公告》，目前该重大资产重组的报告书草案等已披露，本次交易尚需履行公司股东大会审议等决策和审批程序，最终能否实施及具体进度均具有不确定性。]]></title>
-            <guid>3357749</guid>
-            <pubDate>Wed, 08 Nov 2023 13:51:30 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：泰国目前采取的中性货币政策立场是适当的。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5127700.d.html</link>
+            <guid>3357864</guid>
+            <pubDate>Wed, 08 Nov 2023 16:25:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【平治信息：在短剧领域投资娱播帮 暂不清楚内部短剧业务规划】针对短剧领域相关布局，平治信息证券部人士今日向以投资者身份致电的记者表示，公司有投资一家娱播帮公司（即浙江娱播帮科技有限公司），但投资金额比较小、占比也比较低。至于公司内部是否有短剧业务规划，该证券部人士表示“不清楚”，需要与具体业务部门核实信息再予以反馈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8452500.d.html</link>
-            <guid>3357747</guid>
-            <pubDate>Wed, 08 Nov 2023 13:49:43 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：预计泰国今年的GDP增长率为2.7%，明年为3.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0896995.d.html</link>
+            <guid>3357863</guid>
+            <pubDate>Wed, 08 Nov 2023 16:25:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国铁物与八钢公司签署战略框架协议】11月2日，中国铁物与八钢公司签署战略框架协议。根据协议，双方将在加深供应链集成服务、加大集中采购供应、搭建物流运营平台、党建共建等方面展开深度合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8451091.d.html</link>
-            <guid>3357744</guid>
-            <pubDate>Wed, 08 Nov 2023 13:45:01 GMT</pubDate>
+            <title><![CDATA[美银CEO莫伊尼汉：我不认为会出现“大规模”的消费者拖欠（还款）问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsie8348987.d.html</link>
+            <guid>3357859</guid>
+            <pubDate>Wed, 08 Nov 2023 16:16:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科思科技：拟投建“电子信息装备生产基地建设项目”】科思科技11月8日晚间公告，公司拟在南京江宁经济技术开发区投资建设“电子信息装备生产基地建设项目”。公司将设立全资子公司参与承建该项目，项目用地约75亩，项目投资强度不低于550万元/亩。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8450733.d.html</link>
-            <guid>3357742</guid>
-            <pubDate>Wed, 08 Nov 2023 13:43:53 GMT</pubDate>
+            <title><![CDATA[美银CEO莫伊尼汉：金融状况已经收紧，贷款减少。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsie8348939.d.html</link>
+            <guid>3357858</guid>
+            <pubDate>Wed, 08 Nov 2023 16:16:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【生态环境部部长黄润秋会见英国环境、食品和农村事务大臣】生态环境部部长黄润秋在京会见英国环境、食品和农村事务大臣特蕾莎·科菲。双方围绕中英生态环境合作、《联合国气候变化框架公约》第二十八次缔约方大会（COP28）、推动“昆明—蒙特利尔全球生物多样性框架”（以下简称“昆蒙框架”）落实等议题进行了深入交流。黄润秋介绍了中国近年来在生态环境领域取得的巨大成就以及近日发布的《甲烷排放控制行动方案》，提出推动COP28首次全球盘点取得成功的相关建议，强调中方将积极推动“昆蒙框架”全面落实，期待双方进一步拓展合作领域，共同推动两国环境与气候交流与合作。（生态环境部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5225794.d.html</link>
-            <guid>3357739</guid>
-            <pubDate>Wed, 08 Nov 2023 13:35:44 GMT</pubDate>
+            <title><![CDATA[美国银行：美元恐怕会在2024年贬值，但金融条件、美联储利率政策预期、全球风险情绪等关键不确定性可能会在2023年12月份利好美元。]]></title>
+            <guid>3357857</guid>
+            <pubDate>Wed, 08 Nov 2023 16:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【极端组织“伊斯兰国”袭击叙利亚政府军 致20多名军人死亡】据叙利亚媒体“沙姆电台”消息，当地时间11月8日，极端组织“伊斯兰国”在叙利亚霍姆斯与拉卡之间的沙漠地带袭击叙利亚政府军，造成20多名叙政府军士兵死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8446434.d.html</link>
-            <guid>3357735</guid>
-            <pubDate>Wed, 08 Nov 2023 13:28:20 GMT</pubDate>
+            <title><![CDATA[美国银行首席执行官Moynihan表示，美国消费者开支仍然在放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsie8348514.d.html</link>
+            <guid>3357856</guid>
+            <pubDate>Wed, 08 Nov 2023 16:13:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列国防军称将当天疏散走廊开放时间延长一小时】以色列国防军当地时间11月8日下午表示，允许将当天疏散走廊的开放时间延长一个小时，直至当地时间15时，以便更多的加沙民众能够安全向南撤离。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8445108.d.html</link>
-            <guid>3357733</guid>
-            <pubDate>Wed, 08 Nov 2023 13:24:21 GMT</pubDate>
+            <title><![CDATA[阿塞拜疆计划将12月份BTC轻质石油货物的发货量增加至60.2万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsia0895028.d.html</link>
+            <guid>3357855</guid>
+            <pubDate>Wed, 08 Nov 2023 16:09:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ST世茂：子公司拟合计5.73亿元转让南京、徐州等多处房地产项目，用于清偿债务】公司持股50%的子公司南京房地产拟将其持有的南京市鼓楼区南通路118号部分商业房地产转让给南京麓漫贰号。公司持股51%的子公司南京新发展拟将其持有的南京市雨花台区安德门大街62号1层商场及7至14层办公楼房地产转让给南京麓漫叁号。公司全资子公司徐州置业拟将其持有的徐州市云龙区三环东路世茂广场商业房地产转让给徐州麓曼。合计交易金额为5.73亿元，用于清偿关联方济南君睐商业保理有限公司、南京世荣置业有限公司及南昌世茂新发展置业有限公司欠泰安恒铁投资合伙企业、济南市钢城小额贷款股份有限公司、济南铁茂投资合伙企业借款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8443698.d.html</link>
-            <guid>3357729</guid>
-            <pubDate>Wed, 08 Nov 2023 13:18:41 GMT</pubDate>
+            <title><![CDATA[OpenAI：美东时间10:46（北京时间23:46），影响ChatGPT的那些问题得到解决。]]></title>
+            <guid>3357852</guid>
+            <pubDate>Wed, 08 Nov 2023 16:04:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科思科技：拟签署《投资建设协议》并设立全资子公司】科思科技公告，公司拟与江宁开发区管委会签订《投资建设协议》，拟在南京江宁经济技术开发区投资建设“电子信息装备生产基地建设项目”。公司将设立全资子公司参与承建该项目。项目用地约75亩，项目投资强度不低于550万元/亩。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8443319.d.html</link>
-            <guid>3357727</guid>
-            <pubDate>Wed, 08 Nov 2023 13:16:54 GMT</pubDate>
+            <title><![CDATA[【今日重点关注的财经数据与事件：2023年11月9日】
+① 02:40 美联储威廉姆斯发表讲话
+② 07:50 日本9月贸易帐
+③ 07:50 日本央行公布审议委员意见摘要
+④ 09:30 中国10月CPI年率
+⑤ 16:35 日本央行行长植田和男接受采访
+⑥ 21:30 美国至11月4日当周初请失业金人数
+⑦ 22:30 美联储博斯蒂克和巴尔金发表讲话
+⑧ 次日00:00 美联储巴尔金发表讲话
+⑨ 次日01:30 欧洲央行行长拉加德发表讲话
+⑩ 次日03:00 美联储主席鲍威尔发表讲话]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-09/detail-imztxsih5122797.d.html</link>
+            <guid>3357849</guid>
+            <pubDate>Wed, 08 Nov 2023 16:00:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌总统：欧盟委员会建议开始与乌克兰进行加入欧盟谈判是正确的一步】据央视新闻，当地时间11月8日，乌克兰总统泽连斯基发表视频讲话称，欧盟委员会建议开始与乌克兰进行加入欧盟谈判，这迈出了历史上正确的一步。乌克兰捍卫了欧洲价值观，应该也必须加入欧盟。 当地时间11月8日，欧盟委员会主席冯德莱恩在新闻发布会表示，欧盟委员会通过了2023年欧盟扩员一揽子计划，建议与乌克兰和摩尔多瓦展开谈判。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzk5220250.d.html</link>
-            <guid>3357725</guid>
-            <pubDate>Wed, 08 Nov 2023 13:15:51 GMT</pubDate>
+            <title><![CDATA[【外交部发言人：中方为加沙地带日益加剧的人道灾难感到揪心】外交部发言人汪文斌8日表示，中方为在巴以冲突中丧生的双方民众感到悲痛，更为加沙地带日益加剧的人道灾难感到揪心。当日例行记者会上，有记者问：本轮巴以冲突已延宕一个月。尽管国际社会多次呼吁停火，但冲突仍在继续，平民死伤数字不断上升。发言人对此有何评论？中方是否将为推动局势降温拿出更多举措？汪文斌说，刚过去的这一个月对巴勒斯坦人民而言极其漫长。超过1万名巴勒斯坦人，包括很多妇女和儿童，被夺去了生命。平民伤亡数字每天还在快速增长。“我们为在巴以冲突中丧生的双方民众感到悲痛，更为加沙地带日益加剧的人道灾难感到揪心。无论是以色列还是巴勒斯坦民众，都不应成为武力袭击的目标，也不应成为集体惩罚的对象。”（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5122560.d.html</link>
+            <guid>3357847</guid>
+            <pubDate>Wed, 08 Nov 2023 15:58:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Roblox第三季度营收7.13亿美元】Roblox第三季度营收7.13亿美元，预期8.3亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8441948.d.html</link>
-            <guid>3357717</guid>
-            <pubDate>Wed, 08 Nov 2023 13:11:19 GMT</pubDate>
+            <title><![CDATA[【澳大利亚第二大电信运营商突发网络故障 千万用户受影响】澳大利亚第二大电信运营商奥普图斯当地时间8日突发大面积网络故障，约1000万用户一度无法使用互联网和通话服务。 据澳大利亚媒体报道，从当地时间8日凌晨4点左右开始，陆续有奥普图斯的用户上报网络故障，他们不能正常使用宽带上网服务，也不能通过智能手机或固定电话通话。受影响用户总计约1000万人，占到澳大利亚总人口数量的40%。此外，大量小企业无法正常使用奥普图斯提供的移动支付服务、数十家医院无法接听急救电话。在高峰时段，澳大利亚墨尔本市的火车服务也一度暂停。奥普图斯方面表示，公司的网络服务在当天下午五点半左右恢复正常。初步调查显示，这一故障不是由黑客攻击导致的，但具体原因仍不清楚。 (央视财经)]]></title>
+            <guid>3357846</guid>
+            <pubDate>Wed, 08 Nov 2023 15:57:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【盈方微：拟筹划购买华信科及World Style 49%股权 11月9日开市起停牌】盈方微11月8日晚间公告，正在筹划以支付现金和非公开发行股份相结合的方式购买深圳市华信科科技有限公司(简称“华信科”)及WORLD STYLE TECHNOLOGY HOLDINGS LIMITED(简称“World Style”)49%股权，并同时募集配套资金的事项。本次交易预计构成关联交易，预计构成重大资产重组，根据相关规定，公司证券自2023年11月9日开市起开始停牌。]]></title>
-            <guid>3357714</guid>
-            <pubDate>Wed, 08 Nov 2023 13:07:25 GMT</pubDate>
+            <title><![CDATA[【国内首架空客A321客改货飞机在川维顺利交付】11月8日，四川飞机维修工程有限公司携手四川赛德航空科技有限公司举行了国内首架空客A321客改货飞机交付及合作签约仪式。据悉，该项目于今年3月下旬在川维启动，历时185天，改装工作于9月中旬正式完工，创造了该改装方案首架施工最快纪录。后该机还进行配合取证等收尾工作，时至今日正式交付。(中国民航网)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsia0892212.d.html</link>
+            <guid>3357845</guid>
+            <pubDate>Wed, 08 Nov 2023 15:51:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：荷兰首相吕特将访问以色列与内塔尼亚胡进行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmza5667933.d.html</link>
-            <guid>3357713</guid>
-            <pubDate>Wed, 08 Nov 2023 13:06:18 GMT</pubDate>
+            <title><![CDATA[【印尼马鲁古省附近海域再次发生强震】印度尼西亚马鲁古省附近海域8日晚发生6.8级地震，目前尚无人员伤亡和财产损失报告。据印尼气象、气候和地球物理局网站消息，地震发生于雅加达时间20时02分（北京时间21时02分），震中位于马鲁古省塔宁巴尔群岛县西北255公里处海域，距马鲁古省首府安汶大约340公里，震源深度为10公里。印尼气象、气候和地球物理局记录到距离震中较近的岛屿有较强震感。地震发生后，该局未发布海啸预警，但警告震中附近有发生余震的可能，提醒居民保持警惕。据报道，该海域8日上午曾发生7.2级地震，震源深度为10公里。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsii2678200.d.html</link>
+            <guid>3357844</guid>
+            <pubDate>Wed, 08 Nov 2023 15:51:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联航计划在今年冬季将飞往佛罗里达的航班增加近20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmze0990706.d.html</link>
-            <guid>3357711</guid>
-            <pubDate>Wed, 08 Nov 2023 13:06:01 GMT</pubDate>
+            <title><![CDATA[市场消息：德国副总理哈贝克取消葡萄牙之行，包括参加网络峰会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsie8344576.d.html</link>
+            <guid>3357843</guid>
+            <pubDate>Wed, 08 Nov 2023 15:50:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海市市长龚正会见澳大利亚昆士兰州州长白乐琪】上海市市长龚正今天(8日)会见了澳大利亚昆士兰州州长白乐琪一行。龚正说，上海作为中国最大的经济中心城市，正持续扩大开放，加强国际合作。昆士兰是澳大利亚资源最丰富的地区之一，是重要的科技创新基地，也是世界著名旅游胜地。上海与昆士兰的合作空间十分广阔，期待两地企业、院校、科研机构开展更多交流，加强生物医药、电子信息和新材料领域的创新合作，鼓励优秀企业到对方投资兴业，欢迎昆士兰企业用好进博会大平台，共享中国大市场的机遇。（上海发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmze0990009.d.html</link>
-            <guid>3357708</guid>
-            <pubDate>Wed, 08 Nov 2023 13:03:11 GMT</pubDate>
+            <title><![CDATA[埃及政府：埃及将为一些黄金和贵金属延长税收减免期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5121722.d.html</link>
+            <guid>3357842</guid>
+            <pubDate>Wed, 08 Nov 2023 15:50:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【夏厦精密中签号出炉共2.48万个】夏厦精密11月8日晚间披露首次公开发行股票网上中签结果，中签号码共有24800个，每个中签号码只能认购500股夏厦精密股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxmzh8438077.d.html</link>
-            <guid>3357705</guid>
-            <pubDate>Wed, 08 Nov 2023 12:56:48 GMT</pubDate>
+            <title><![CDATA[OpenAI：我们发现了影响所有服务的错误。我们已经找到问题并实施了修复措施。现在我们的服务正常运行。]]></title>
+            <guid>3357841</guid>
+            <pubDate>Wed, 08 Nov 2023 15:50:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩正会见新加坡总理李显龙】2023年11月8日，国家副主席韩正在新加坡会见新加坡总理李显龙。韩正表示，习近平主席同总理先生今年3月将中新关系提升为全方位高质量的前瞻性伙伴关系，在两国关系进程中具有里程碑意义。今年是李光耀先生诞辰100周年，新加坡运用东方价值观和国际视野推进现代化进程，走出一条符合本国国情的发展之路。中方愿同新方一道，高质量共建“一带一路”，推动两国合作项目提质升级，密切两国人员往来和人文交流，用好用足双边合作机制，将两国关系新定位落到实处，为地区繁荣稳定作出新贡献。李显龙表示，新中传统友谊深厚。新方愿同中方深化发展战略对接，开好新一轮新中双边合作机制会议，推动新中全方位高质量的前瞻性伙伴关系迈上新台阶。(外交部网站)]]></title>
+            <guid>3357840</guid>
+            <pubDate>Wed, 08 Nov 2023 15:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩正会见新加坡总统尚达曼】2023年11月8日，国家副主席韩正在新加坡会见新加坡总统尚达曼。韩正转达了习近平主席的亲切问候，表示中新互为近邻和重要合作伙伴，是国与国友好交往的典范。在双方共同努力下，两国合作展现强大韧性和蓬勃活力，相信未来将取得更多更好成果。当今世界面临诸多全球性风险和挑战，任何一个国家都不可能独善其身，需要各国坚持真正的多边主义，凝聚共识，携手合作。中国将以自身稳定性为世界注入更多确定性，以自身新发展为世界带来更多新机遇。(外交部网站)]]></title>
+            <guid>3357839</guid>
+            <pubDate>Wed, 08 Nov 2023 15:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟统计局：极端天气致2022年欧盟谷物减产9%】当地时间11月8日，欧盟统计局发布最新数据显示，2022年欧盟各地谷物总产量估计为2.709亿吨。受各类极端天气影响，2022年谷物产量比2021年减少了2670万吨，降幅达9%。欧盟统计局表示，高温干旱是2022年谷物产量总体下降的主要原因，尤其影响了欧盟许多地区的玉米种植。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsia0891526.d.html</link>
+            <guid>3357838</guid>
+            <pubDate>Wed, 08 Nov 2023 15:46:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新疆克孜勒苏州阿合奇县发生3.3级地震】中国地震台网正式测定：11月08日23时34分在新疆克孜勒苏州阿合奇县（北纬40.48度，东经77.74度）发生3.3级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxshy5568352.d.html</link>
+            <guid>3357836</guid>
+            <pubDate>Wed, 08 Nov 2023 15:43:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据熟悉谈判的消息人士透露：卡塔尔正在进行调解谈判，以换取哈马斯释放10-15名人质，并暂停以色列的敌对行动，实现1-2天的人道主义停火。]]></title>
+            <guid>3357834</guid>
+            <pubDate>Wed, 08 Nov 2023 15:39:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四川省内江市人大常委会党组成员、副主任曾廷富接受审查调查】据四川省纪委监委消息：内江市人大常委会党组成员、副主任曾廷富涉嫌严重违纪违法，目前正接受四川省纪委监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5120194.d.html</link>
+            <guid>3357833</guid>
+            <pubDate>Wed, 08 Nov 2023 15:38:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯总统普京允许一些冻结资产进行互换交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsia0890183.d.html</link>
+            <guid>3357831</guid>
+            <pubDate>Wed, 08 Nov 2023 15:35:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：已经实施了修复措施，我们正在逐步看到服务恢复。我们目前正在监控情况。]]></title>
+            <guid>3357830</guid>
+            <pubDate>Wed, 08 Nov 2023 15:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[声明显示：美国克利夫兰联储启动下一任主席兼首席执行官的搜索工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5119657.d.html</link>
+            <guid>3357828</guid>
+            <pubDate>Wed, 08 Nov 2023 15:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【7000万美元 东航与中国航油新加坡公司签约航油订单】在第六届进博会的中国东航交易分团签约仪式上，中国东航与中国航油新加坡公司签署了金额达7000万美元的航油订单合作协议。(中国民航网)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5119141.d.html</link>
+            <guid>3357827</guid>
+            <pubDate>Wed, 08 Nov 2023 15:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌总统：欧盟委员会建议开始与乌克兰进行加入欧盟谈判是正确的一步】当地时间11月8日，乌克兰总统泽连斯基发表视频讲话称，欧盟委员会建议开始与乌克兰进行加入欧盟谈判，这迈出了历史上正确的一步。乌克兰捍卫了欧洲价值观，应该也必须加入欧盟。（央视新闻）]]></title>
+            <guid>3357825</guid>
+            <pubDate>Wed, 08 Nov 2023 15:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩正出席第六届创新经济论坛并访问新加坡】11月7日至8日，国家副主席韩正出席在新加坡举行的第六届创新经济论坛，并应邀访问新加坡。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-08/detail-imztxsih5118613.d.html</link>
+            <guid>3357824</guid>
+            <pubDate>Wed, 08 Nov 2023 15:27:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
