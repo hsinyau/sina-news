@@ -4,385 +4,508 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 21 Nov 2023 21:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 00:31:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[加拿大政府计划在2023-24年发行2040亿加元债券，那将较上年增长19%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9156371.d.html</link>
-            <guid>3376625</guid>
-            <pubDate>Tue, 21 Nov 2023 21:03:17 GMT</pubDate>
+            <title><![CDATA[【微软计划扩大其在OpenAI董事会的话语权】OpenAI最大投资者微软正在讨论要求对OpenAI董事会进行治理改革，微软希望在进行重大战略举措时能提前收到通知并作出同意与否的回应，避免被打个措手不及。据消息人士透露，微软正在考虑的改革可能包括要求OpenAI扩大董事会规模，并提高对成员的经验要求。知情人士表示，微软与OpenAI达成的协议已经要求董事会在寻求合并时需经微软批准，而OpenAI董事会此前寻求与AI创企Anthropic合并时，并未寻求微软的意见。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxxw7573284.d.html</link>
+            <guid>3376750</guid>
+            <pubDate>Wed, 22 Nov 2023 00:19:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安新任CEO Richard Teng：币安比以往任何时候都更加强大。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpki0709973.d.html</link>
-            <guid>3376624</guid>
-            <pubDate>Tue, 21 Nov 2023 21:02:00 GMT</pubDate>
+            <title><![CDATA[【紫铜可作量子设备理想“开关”】量子科学家发现了一种罕见的现象，这种现象可能是在量子设备中创造一个在绝缘体和超导体之间切换的“完美开关”的关键。这项由英国布里斯托尔大学领导并发表在新一期《科学》杂志上的研究发现，紫铜中存在这两种相反的电子态。]]></title>
+            <guid>3376749</guid>
+            <pubDate>Wed, 22 Nov 2023 00:17:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安新任CEO Richard Teng：专注与监管机构合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5933304.d.html</link>
-            <guid>3376623</guid>
-            <pubDate>Tue, 21 Nov 2023 21:01:51 GMT</pubDate>
+            <title><![CDATA[新加坡金管局官员重申当前的政策立场是适当的，维持2023年和2024年的通胀预测。]]></title>
+            <guid>3376748</guid>
+            <pubDate>Wed, 22 Nov 2023 00:13:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【基金年末排名战正酣，独门股成“关键先生”】今年以来，尽管市场持续波动，仍有不少绩优基金取得了亮眼的业绩，其中“最牛”基金年内收益率已超过50%。临近年末，公募基金的业绩竞争日趋激烈，几只绩优基金“你追我赶”。部分领跑基金的独门重仓股正在成为“关键先生”，其中一些独门重仓股四季度以来的涨幅已达到30%-40%，或将左右最终的基金年终排名。展望A股未来走势，基金人士看好有色、计算机、电子等板块的投资机会。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9156108.d.html</link>
-            <guid>3376622</guid>
-            <pubDate>Tue, 21 Nov 2023 21:01:45 GMT</pubDate>
+            <title><![CDATA[【泽连斯基暗示“如有机会乌有权暗杀普京”，克宫回应：不会成功】 据美国《新闻周刊》、“今日俄罗斯”（RT）网站等媒体报道，克宫发言人佩斯科夫周二（21日）回应了乌克兰总统泽连斯基的言论，后者此前接受采访暗示“若有机会乌有权暗杀普京”。对此，佩斯科夫表示，乌克兰曾多次有过类似表态，他们不会成功。(环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxxx8935384.d.html</link>
+            <guid>3376747</guid>
+            <pubDate>Wed, 22 Nov 2023 00:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安：我们的前任CEO赵长鹏仍然是币安的大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5931976.d.html</link>
-            <guid>3376619</guid>
-            <pubDate>Tue, 21 Nov 2023 20:54:52 GMT</pubDate>
+            <title><![CDATA[【巴菲特再捐股票 称自己在打“加时赛”】根据伯克希尔哈撒韦周二揭露一封来自巴菲特的信件，这位亿万富豪在信中表示，公司已经有“合适的CEO”来接替他，也有“合适的董事会”，信中也披露他向四个家族慈善机构捐赠约8.66亿美元的伯克希尔股票。巴菲特表示：“我93岁了，感觉很好，但我充分意识到自己正在打加时赛。”巴菲特曾多次表示，副董事长阿贝尔将接替他担任CEO。这位世界排名第五的富豪正逐步捐出他从1965年起经营伯克希尔所积累的几乎所有财富。巴菲特表示，最新的这些捐赠是对去年同样时间的补捐，当时也是感恩节前夕，他捐出了7.59亿美元的伯克希尔股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxyc0478987.d.html</link>
+            <guid>3376743</guid>
+            <pubDate>Wed, 22 Nov 2023 00:04:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【超七成私募看好年末“吃饭行情”，“科技成长”方向受青睐】11月以来，A股市场反弹势头较前期有所放缓。在进入2023年收官阶段的背景下，A股能否迎来“吃饭行情”？某第三方机构最新进行的独家问卷调查结果显示，占比高达71.88%的私募对此表示肯定。受访私募年末普遍倾向于“高仓位运作”，且对于“科技成长”方向青睐有加。另据私募排排网、通联数据等第三方机构的最新仓位监测数据显示，10月下旬以来，国内股票私募机构及公募偏股型基金产品的平均仓位水平，整体保持在去年以来的高位。其中，国内股票私募机构的平均仓位已连续多周保持在80%附近。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpki0709131.d.html</link>
-            <guid>3376618</guid>
-            <pubDate>Tue, 21 Nov 2023 20:54:46 GMT</pubDate>
+            <title><![CDATA[新加坡第三季度GDP年率 1.1%，预期0.7%，前值0.70%。新加坡第三季度GDP季率 1.4%，预期1.10%，前值1.00%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxyc0477672.d.html</link>
+            <guid>3376741</guid>
+            <pubDate>Wed, 22 Nov 2023 00:00:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军炮击黎巴嫩南部致两名黎记者死亡】据黎巴嫩国家通讯社21日报道，以色列当天对黎巴嫩南部泰尔胡尔费镇持续炮击，造成两名黎巴嫩记者和一名平民丧生。黎巴嫩“广场”电视台当天发表声明证实其两名记者在以军袭击中身亡，并指责以军蓄意将记者作为袭击目标。黎巴嫩总理米卡提当天对这起事件表示强烈谴责。黎巴嫩真主党也发表声明称要对这起事件进行报复，同时呼吁国际社会对以色列政府“施加最大压力”，迫使其“停止对媒体专业人员和平民的攻击”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5930206.d.html</link>
-            <guid>3376616</guid>
-            <pubDate>Tue, 21 Nov 2023 20:49:54 GMT</pubDate>
+            <title><![CDATA[【韩国政府叫停部分朝韩《9·19军事协议》条款效力】 当地时间22日上午，据韩联社消息，在当天早上由韩国国务总理韩德洙主持召开的临时国务会议上，韩国政府决定叫停朝韩《9·19军事协议》部分条款内容，以加强朝韩边境地区对朝军事威慑。朝韩2018年签署《9·19军事协议》，其中明确规定朝韩在边境地区停止一切敌对行动，并设立禁飞区。一段时间以来，韩国方面认为朝鲜并未遵守该协议，协议内容对于韩国国防安全带来单方面不利影响。(央视新闻)]]></title>
+            <guid>3376738</guid>
+            <pubDate>Tue, 21 Nov 2023 23:59:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【杰哈德下属武装派别圣城旅称一名以色列人质死亡】巴勒斯坦伊斯兰圣战组织（杰哈德）下属武装派别圣城旅发言人阿布·哈姆扎当地时间11月21日晚在其社交平台表示，圣城旅扣押的一位名叫汉娜·卡齐尔的以色列人质已经死亡。阿布·哈姆扎称，之前圣城旅曾表示出于人道主义原因愿意释放这名人质，但以色列方面的拖延导致该名人质死亡。以方对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5930010.d.html</link>
-            <guid>3376614</guid>
-            <pubDate>Tue, 21 Nov 2023 20:48:50 GMT</pubDate>
+            <title><![CDATA[【今日财经日历大事件提醒】
+
+经济数据关注：
+08:00：新加坡第三季度GDP同比终值（预估 0.8%，初值 0.7%）
+21:30：美国上周首次申领失业救济人数（预估 22.8万人，前值 23.1万人）
+21:30：美国10月耐用品订单环比初值（预估 -3.2%，前值 4.6%）
+23:00：美国11月密歇根大学消费者信心指数终值（预估 61.0，初值 60.4）
+23:00：欧元区11月消费者信心指数初值（预估 -17.8，前值 -17.9）
+
+全球央行和政府动态关注：
+16:35：澳大利亚央行行长Bullock讲话
+19:00：欧洲央行管委、葡萄牙央行行长Centeno讲话
+22-23日：俄罗斯国家杜马主席沃洛金率团访华
+23日00:00：欧洲央行管委、德国央行行长Nagel讲话
+23日00:30：加拿大央行行长Macklem讲话]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxxz5709423.d.html</link>
+            <guid>3376736</guid>
+            <pubDate>Tue, 21 Nov 2023 23:58:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安前CEO赵长鹏：将根据需要继续向咨询公司寻求咨询服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9152627.d.html</link>
-            <guid>3376613</guid>
-            <pubDate>Tue, 21 Nov 2023 20:47:40 GMT</pubDate>
+            <title><![CDATA[【超6000万吨 全国秋粮收购有序展开】 据央视新闻，眼下，各地秋粮收购正在有序展开。国家粮食和物资储备局最新发布的数据显示，截至目前，主产区收购秋粮超6000万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxxz5707710.d.html</link>
+            <guid>3376732</guid>
+            <pubDate>Tue, 21 Nov 2023 23:52:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安原CEO赵长鹏称为错误负责，保证资金是安全的，与美国司法部达成的和解协议不涉及资金挪用、市场操纵。]]></title>
-            <guid>3376611</guid>
-            <pubDate>Tue, 21 Nov 2023 20:44:25 GMT</pubDate>
+            <title><![CDATA[【习近平：中方呼吁凝聚国际促和共识 推动巴勒斯坦问题早日得到全面、公正、持久解决】11月21日晚，国家主席习近平出席金砖国家领导人巴以问题特别视频峰会并发表题为《推动停火止战 实现持久和平安全》的重要讲话。 习近平强调，巴以局势发展到今天，根本原因是巴勒斯坦人民的建国权、生存权、回归权长期遭到漠视。解决巴以冲突循环往复的根本出路是落实“两国方案”，恢复巴勒斯坦民族合法权利，建立独立的巴勒斯坦国。不公正解决巴勒斯坦问题，中东就没有持久的和平稳定。中方呼吁尽快召开更具权威性的国际和会，凝聚国际促和共识，推动巴勒斯坦问题早日得到全面、公正、持久解决。  （人民日报）]]></title>
+            <guid>3376731</guid>
+            <pubDate>Tue, 21 Nov 2023 23:48:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国司法部长Garland表示，币安原CEO赵长鹏违反美国联邦法律的行为是故意之举。]]></title>
-            <guid>3376610</guid>
-            <pubDate>Tue, 21 Nov 2023 20:42:35 GMT</pubDate>
+            <title><![CDATA[【一个月内特斯拉四次涨价 业内人士：“底气”或源于保值率】特斯拉首席执行官埃隆·马斯克“愿意牺牲毛利率换取销量，让产品更实惠”的承诺言犹在耳，但最近一个月内，特斯拉已发起四次涨价。成本定价策略和频繁调价策略未必适用于其他车企。在中国乘用车产业联盟秘书长张秀阳看来，特斯拉敢于逆势涨价的底气，很大程度上来源于其高于行业平均水平的保值率。“对于国内其他自主品牌尤其是造车新势力而言，强化差异化优势、坚持体系化竞争，可能才是更优的选择。”（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmxyc0474305.d.html</link>
+            <guid>3376729</guid>
+            <pubDate>Tue, 21 Nov 2023 23:43:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国司法部：币安CEO赵长鹏已经对刑事指控认罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5928491.d.html</link>
-            <guid>3376609</guid>
-            <pubDate>Tue, 21 Nov 2023 20:40:21 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、护安澜 畅航道 送绿电（经济新方位·重大工程一线）——大藤峡水利枢纽综合效益显著；
+2、国家创新指数报告显示 中国创新能力升至第十位；
+3、515家企业和机构将参展首届链博会；
+4、高速公路沿线充电设施加快建设 服务区累计建成2万个充电桩；
+5、厚植亚太增长的绿色底色（打造亚太发展的下一个“黄金三十年”）；
+6、有效管控分歧才能减少冲突对抗风险（钟声）——共同努力浇筑中美关系的五根支柱②；
+7、第三轮第一批中央生态环境保护督察全面启动 将对福建、河南、海南、甘肃、青海开展督察进驻工作；
+8、让科技金融成为创新加油站（微观）——做好金融五篇大文章①；
+9、促进预付式消费持续健康发展（纵横）；
+10、多管齐下防范外卖浪费（大家谈）；
+11、国家能源局 开展生物柴油推广应用试点示范；
+12、我国数字标签试点覆盖主要食品类别；
+13、山西盂县积极发展特色产业 聚焦产业就业 推进乡村振兴；
+14、七部门出台意见，推动住院康复向门诊和社区康复延伸 为工伤职工提供更高质量服务保障；
+15、京东·西南数字化产融协同平台 数实融合助力服务业高质量发展；
+16、中东地区国家大力发展数字经济（国际视点）；
+17、2023年世界无线电通信大会在迪拜开幕；
+18、烟台三站批发交易市场：构建烟台市内外贸一体化新高地；
+19、加快补齐农村现代物流短板（市场漫步）；
+20、加强标准化规范化建设 提升基层市场监管办事效率（消费万花筒）。]]></title>
+            <guid>3376727</guid>
+            <pubDate>Tue, 21 Nov 2023 23:41:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宽基ETF强劲“吸金”，前三季度净流入超两千五百亿元】今年以来，在二级市场整体震荡的背景下，大量资金加速流入宽基ETF。在分析人士看来，资金持续流入宽基ETF，表明投资者对权益市场配置价值的认可度在不断提升。业内人士认为，随着境内市场生态不断完善，我国宽基ETF发展将迎来较大机遇。中证指数有限公司11月中旬披露的最新数据显示，目前境内市场ETF规模突破2万亿元，较2022年末增长超4000亿元，其中宽基指数产品贡献过半增幅。今年前三季度，宽基指数产品累计净流入超过2500亿元，占全部股票ETF累计净流入的一半以上。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5925623.d.html</link>
-            <guid>3376605</guid>
-            <pubDate>Tue, 21 Nov 2023 20:26:11 GMT</pubDate>
+            <title><![CDATA[【寿险2024年“开门红”主打“储蓄险+万能险” 快速返还仍是一大卖点】 据证券日报，历年四季度寿险公司便开始备战来年“开门红”。据记者梳理，截至11月21日，包括上市险企在内的多家寿险公司已经推出了2024年“开门红”产品。整体来看，2024年寿险公司“开门红”产品主打“储蓄险+万能险”，即以传统储蓄险为主，并配有万能险账户。与此同时，快速返还（快速领取生存金等返还金）仍是一大卖点。在受访专家看来，当前金融环境有利于储蓄型保险的销售，一方面，居民对稳健理财的需求持续旺盛，另一方面，定期存款等金融竞品收益率波动下行，储蓄型保险仍具有一定优势。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0604124.d.html</link>
+            <guid>3376725</guid>
+            <pubDate>Tue, 21 Nov 2023 23:38:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多只基金陷规模“迷你”困境，机构关注低估值板块布局】日前，多家基金发布了可能触发基金合同终止情形的提示性公告。从原因来看，多数与规模“迷你”有关。Wind数据显示，截至目前，今年以来已有超200只基金清盘，数量接近去年全年。尽管基金市场多只产品面临规模“迷你”的困境，但近期市场的回暖却为投资机构带来更多信心。不少机构表示，当前市场整体估值较低，在反弹预期增强下，市场布局机会更加凸显。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9147531.d.html</link>
-            <guid>3376604</guid>
-            <pubDate>Tue, 21 Nov 2023 20:21:12 GMT</pubDate>
+            <title><![CDATA[【英伟达：正努力扩展数据中心产品组件，这些产品可能不受限于管制新规许可证】 据证券时报，英伟达高管在2024第三财季业绩说明会上表示，公司正在努力扩展数据中心产品组件，这些产品可能不受限于管制新规的许可证，有望会在未来几个月内上市。然而，公司不指望这些产品会在整体收入中能贡献重要占比。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5835008.d.html</link>
+            <guid>3376724</guid>
+            <pubDate>Tue, 21 Nov 2023 23:38:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【兼并重组提速，中小银行改革“多点开花”】我国中小银行兼并重组驶入快车道，相关改革“多点开花”。据了解，后续金融监管部门将通过“一省一策”方式加快农村信用社改革。此外，部分少数高风险机构相对集中的省份正在制定实施中小银行改革化险方案，多渠道补充资本。业内人士表示，中小银行引入新股东，有助其进一步增强资本实力和抵御风险能力。在有效防范化解金融风险的同时，还能推动农商银行完善内部治理，理顺股权结构。上海金融与发展实验室主任曾刚认为，从已有的实践来看，注资重组和兼并是处置问题金融机构较为主流的方式。这种方式有利于维护金融体系稳定，也可以降低政府干预成本与财政压力，在避免发生系统性风险的前提下实现问题银行的平稳退出。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5924327.d.html</link>
-            <guid>3376603</guid>
-            <pubDate>Tue, 21 Nov 2023 20:19:13 GMT</pubDate>
+            <title><![CDATA[日本方面下调了11月资本支出预期，为自2021年12月以来首次。日本方面表示，尽管一些地区经济增长最近出现停滞，但仍在适度恢复，资本支出增长步伐正在放缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0603879.d.html</link>
+            <guid>3376723</guid>
+            <pubDate>Tue, 21 Nov 2023 23:37:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国财政大臣亨特称，将公布每年90亿英镑的永久性企业税减免。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpki0703932.d.html</link>
-            <guid>3376601</guid>
-            <pubDate>Tue, 21 Nov 2023 20:15:05 GMT</pubDate>
+            <title><![CDATA[日本方面下调了11月的整体经济展望，为自一月以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0603846.d.html</link>
+            <guid>3376722</guid>
+            <pubDate>Tue, 21 Nov 2023 23:37:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：战斗争仍在进行，将持续直到实现所有目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpki0702555.d.html</link>
-            <guid>3376599</guid>
-            <pubDate>Tue, 21 Nov 2023 20:04:35 GMT</pubDate>
+            <title><![CDATA[【音乐版权巨头BMI被新山资本牵头的财团收购】由新山资本(New Mountain Capital)牵头的一个投资财团周二同意收购音乐版权巨头BMI，后者是Lady Gaga、泰勒·斯威夫特和蕾哈娜等顶级艺人的音乐版权公司。该交易预计将于2024年第一季度末完成。这笔交易的财务条款没有披露。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5834614.d.html</link>
+            <guid>3376721</guid>
+            <pubDate>Tue, 21 Nov 2023 23:36:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：安全部长完全支持该决定，称该协议将允许军方为继续战斗做好准备。]]></title>
-            <guid>3376598</guid>
-            <pubDate>Tue, 21 Nov 2023 20:04:03 GMT</pubDate>
+            <title><![CDATA[澳大利亚10月西太平洋领先指标月率 -0.03%，前值0.07%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtry7693449.d.html</link>
+            <guid>3376719</guid>
+            <pubDate>Tue, 21 Nov 2023 23:32:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列总理内塔尼亚胡：以色列政府今晚面临艰难决定，但这是正确的决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpki0702421.d.html</link>
-            <guid>3376597</guid>
-            <pubDate>Tue, 21 Nov 2023 20:03:29 GMT</pubDate>
+            <title><![CDATA[阿根廷当选总统Milei：将在2024年实现财政（收支）平衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9054542.d.html</link>
+            <guid>3376717</guid>
+            <pubDate>Tue, 21 Nov 2023 23:28:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【交通运输部推出“e路畅通”小程序，高速路充电桩随手查】近日，“随手查”“阳光救援”服务平台——“e路畅通”微信小程序正式上线试运行，支持多种查询方式，既可以直接手动选择地图上标注的高速公路服务区充电桩定位，也可以输入目的地名称，由系统自动规划路线并提示沿途充电桩情况。目前，“e路畅通”小程序已经初步完成充电信息采集、汇聚工作，公众可以通过“e路畅通”小程序的“充电桩随手查”模块，查询全国高速公路充电设施位置、实时状态、充电模式等信息。同时，为了方便群众查询使用，加强与百度地图等互联网地图服务平台合作，高速公路充电基础设施“随手查”信息也将同步在百度地图发布。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpka7792826.d.html</link>
-            <guid>3376596</guid>
-            <pubDate>Tue, 21 Nov 2023 20:01:03 GMT</pubDate>
+            <title><![CDATA[【每日科技要闻速递（11月22日）】
+互联网公司要闻：
+1. 快手2023年Q3营收279.5亿元，同比增长20.8%。
+2. 百度委任京东CEO许冉为独立董事，2024年1月1日起生效。
+3. 百度2023年第三季度营收344亿元，市场预期342.07亿元。
+4. 小米澎湃OS开发版首批机型已全量推送，发版节奏公布。
+5. 斗鱼发布公告称，公司CEO陈少杰先生于2023年11月16日左右被成都警方逮捕。
+6. 小米Q3财报：收入709亿元，重新正增长。经调整净利润60亿元。汽车等创新业务投入 17亿元。根据2023年股份计划授出奖励合共4706.18万股。
+7. 外媒曝OpenAI对Anthropic的合并要约被拒绝、奥特曼与董事会就前者回归问题进行了讨论、ChatGPT语音版已免费开放使用、微软CTO：邀请OpenAI员工加入微软工作。
+集成电路（芯片）要闻：
+1. 理想自研芯片进展曝光：在新加坡设立办公室，团队规模已超160人。
+2. 台积电正在考虑在日本建立第三家芯片工厂，采用最先进的3纳米技术。
+3. 英伟达Q3财报：数据中心营收145亿美元，市场预期128亿美元，预计Q4总营收在200亿美元左右；Q4在华收入将大幅下降，美国出口规定损害公司竞争地位。财报中透露，一张H100售价约4万美元。
+其他：
+1. 中国移动广东公司：“广东移动下架4G套餐”的消息不实。
+2. 我国大推力液氧煤油火箭发动机试车首次实现“两日一试”。
+3. 何小鹏：完全无人驾驶还看不到完整的逻辑，可能需要另寻他路。
+4. 大众集团在华首个独资汽车电池包生产工厂在合肥投产。
+5. 开放换电：蔚来、长安汽车联手， “还有4、5家在谈”。]]></title>
+            <guid>3376716</guid>
+            <pubDate>Tue, 21 Nov 2023 23:28:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：以色列总理内塔尼亚胡称在暂停交火以交换人质后，冲突将继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9143108.d.html</link>
-            <guid>3376595</guid>
-            <pubDate>Tue, 21 Nov 2023 19:58:08 GMT</pubDate>
+            <title><![CDATA[【加拿大政府发布秋季经济报告 预计本财年赤字为400亿加元】当地时间21日，加拿大联邦财政部长弗里兰公布秋季经济报告，加拿大联邦政府预计本财年的赤字将达到400亿加元。报告强调通胀及经济增长放缓对加拿大联邦财政带来的压力，表示加拿大将避免经济衰退，但预测经济增长将放缓，预计明年加拿大失业率将上升近一个百分点。报告还显示，预计未来几年加拿大政府债务负担偿还成本还将攀升。此外，加拿大政府希望在未来6年内新增支出208亿加币，大部分新增支出将用于新的住房计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9054292.d.html</link>
+            <guid>3376715</guid>
+            <pubDate>Tue, 21 Nov 2023 23:27:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西班牙新一届联合政府宣誓就职】西班牙首相桑切斯领导的新一届左翼联合政府21日在首都马德里宣誓就职。本届政府由工人社会党和苏马尔党两大左翼党派联合组成。在西班牙国王费利佩六世的见证下，新一届政府22名大臣宣誓就职。本届政府新设住房和城市议程部、数字化转型部、青年和儿童部，内阁成员以女性居多，其中4名副首相均为女性。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpka7792539.d.html</link>
-            <guid>3376594</guid>
-            <pubDate>Tue, 21 Nov 2023 19:57:49 GMT</pubDate>
+            <title><![CDATA[【上市公司频频引入战投提升竞争力】近日，机器人披露全资子公司中科新松引入战略投资者的进展。公司已与参与本次中科新松增资扩股的4名战略投资者签署《关于中科新松有限公司之增资协议》。据记者不完全统计，今年以来已有近30家上市公司或其子公司宣布引入战略投资者。中关村物联网产业联盟副秘书长袁帅表示，上市公司或其子公司需要资金以支持其业务发展、扩大规模、提升技术水平等，而引入战略投资者可以为其提供稳定的资金来源，同时战略投资者通常具有丰富的行业经验和资源，能够为公司的资本运作提供更专业的指导和支持。通过引入战略投资者，上市公司可以更好地实现其长期战略目标。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9054161.d.html</link>
+            <guid>3376714</guid>
+            <pubDate>Tue, 21 Nov 2023 23:26:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[马斯克表示，X（原推特）将把与加沙冲突有关的所有广告和订阅收入捐赠给以色列的医院和加沙的红十字会/新月会。]]></title>
-            <guid>3376593</guid>
-            <pubDate>Tue, 21 Nov 2023 19:49:01 GMT</pubDate>
+            <title><![CDATA[【Coinbase首席执行官回应币安CEO辞职：加密行业开启新篇章】Coinbase首席执行官布莱恩·阿姆斯特朗表示，币安CEO赵长鹏辞职是加密行业开启新篇章的机会，并表示相信美国将很快出台监管规定。阿姆斯特朗强调了合规对于打造一家持久企业的重要性，他说：“采取合规的方法更加困难和昂贵。你不可能在违法的情况下推出顾客想要的每一款产品。今天的消息进一步证明，艰难的做法是正确的决定。我们现在有机会为这个行业开启新的篇章。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0600940.d.html</link>
+            <guid>3376713</guid>
+            <pubDate>Tue, 21 Nov 2023 23:25:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美官员：巴以即将达成一项停火协议】路透社21日援引一名美国官员的消息称，以色列与哈马斯即将达成一项停火协议，其中包括哈马斯释放50名被扣押人员以换取150名巴勒斯坦囚犯，并达成一个为期4到5天的停火协议。这名官员表示，释放被扣押人员仅仅是初步协议，还需要冲突双方在各个方面达成一致，但距离最终协议的达成已十分接近。另据半岛电视台援引哈马斯政治局成员哈利勒·哈亚的话报道称，20日哈马斯已向卡塔尔和埃及就有关停火的最新提议做出了回应，此刻正在等待以色列方面的答复。哈利勒·哈亚表示：“截至目前，我们还不能说已经达成了协议。”（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5918590.d.html</link>
-            <guid>3376592</guid>
-            <pubDate>Tue, 21 Nov 2023 19:48:51 GMT</pubDate>
+            <title><![CDATA[【ChatGPT让ChatGPT吐槽宕机：和我的猫说话都不用等】在OpenAI宣布免费开放ChatGPT语音版的使用后，ChatGPT官网显示处于满负荷运行，官方让ChatGPT就宕机状态在官网写了一个笑话安抚用户：我现在只能和我的猫说话了，至少不用苦苦等待。如果你访问ChatGPT显示出错，不要担心。这只是意味着你不是唯一一个想尝试与AI聊天机器人聊天的人。值得注意的是，刷新页面后，内容会随机更新，包括用单口喜剧、戏剧、电视剧、诗歌、笑话、莎翁口吻描述宕机状态等。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9053210.d.html</link>
+            <guid>3376712</guid>
+            <pubDate>Tue, 21 Nov 2023 23:22:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加拿大魁北克省公共服务部门40多万职员举行罢工】加拿大魁北克省公共服务部门的职员从当地时间11月21日开始举行为期三天的罢工，受此影响，当地的公立学校、医疗保健、社会服务等机构都将暂停运行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9140774.d.html</link>
-            <guid>3376591</guid>
-            <pubDate>Tue, 21 Nov 2023 19:44:58 GMT</pubDate>
+            <title><![CDATA[【俄乌冲突最新24小时局势跟踪（11月22日）】
+1. 俄罗斯海运原油出口量降至三个月来新低。
+2. 俄罗斯能源部长：正在考虑完全取消夏季柴油出口禁令，但冬季柴油没有这样的计划。
+3. 交易员：俄罗斯的乌拉尔原油价格在每桶60美元以上徘徊，但装载仍然不间断。俄罗斯石油运输的运费预计会上涨。
+4. 欧洲理事会主席米歇尔：预计下个月将举行会议讨论乌克兰正式加入欧盟的问题。
+5. 联合国人权办公室：乌克兰战争中平民死亡人数超过1万人。
+6. 乌克兰军方：俄罗斯导弹袭击了南部敖德萨地区的港口基础设施。
+7. 乌克兰国防部长：（在被问及是否可能解雇两名高级将领时）尚未做出决定，但我们正在尽一切努力提高效率。
+8. 据英国卫报：俄罗斯方面表示，海军陆战队、空军和炮兵已经挫败了乌克兰在第聂伯河东岸和乌克兰南部河口岛屿上获得更多据点的企图。
+9. 德国国防部长皮斯托里乌斯：德国将向乌克兰提供13亿欧元的军事援助，并向乌克兰捐赠另一套IRIS-T防空系统。
+10. 据英国卫报：美国国防部长奥斯汀宣布，五角大楼将从现有的库存中再向乌克兰提供1亿美元的武器，包括用于防空系统的火炮和弹药。
+11. 英国国防部：11月18日至19日之间，俄罗斯发射了大约50架自杀式无人机，主要针对基辅。目标之一很可能是削弱乌克兰的防空能力，在针对乌克兰能源基础设施的协同冬季打击行动之前塑造战场空间。近两个月来，俄罗斯重型轰炸机编队一直没有发射主要的空射巡航导弹，这可能使其得以建立大量的此类武器储备。如果俄罗斯重复去年摧毁乌克兰关键国家基础设施的举措，俄罗斯极有可能使用这些导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0598889.d.html</link>
+            <guid>3376711</guid>
+            <pubDate>Tue, 21 Nov 2023 23:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：欧盟准备计划向乌克兰提供持久的安全承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5917893.d.html</link>
-            <guid>3376590</guid>
-            <pubDate>Tue, 21 Nov 2023 19:44:28 GMT</pubDate>
+            <title><![CDATA[【原生应用层出不穷 AI算力机遇凸显】11月21日，百度发布第三季度财务报告。百度今年三季度营收达344.47亿元，同比增长6%；归属于百度的净利润（non-GAAP）达73亿元，同比增长23%。百度第三季度研发费用同比增长6%。“今后将继续优先投资人工智能，特别是生成式AI和基础模型。”百度首席财务官罗戎表示。机构人士认为，生成式AI应用层出不穷，吸引行业持续加大投入。算力基础设施建设是AI投资重要环节，产业链活力加速释放。存储芯片、光模块、IDC数据中心、液冷散热、光纤光缆、连接器等板块将迎来爆发机会。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9050167.d.html</link>
+            <guid>3376709</guid>
+            <pubDate>Tue, 21 Nov 2023 23:11:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国财政大臣亨特将发布“永久性的”企业减税计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpka7790984.d.html</link>
-            <guid>3376589</guid>
-            <pubDate>Tue, 21 Nov 2023 19:43:49 GMT</pubDate>
+            <title><![CDATA[【美国司法部长：币安将支付美国历史上最大企业罚款之一】币安及其CEO赵长鹏周二承认了洗钱指控，同意支付约43亿美元罚款，赵长鹏将辞去CEO职位。美国司法部长梅里克·加兰说:“币安成为世界上最大的加密货币交易所，部分原因是它犯下的罪行——现在它正在支付美国历史上最大的企业罚款之一。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5827298.d.html</link>
+            <guid>3376708</guid>
+            <pubDate>Tue, 21 Nov 2023 23:11:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【刚果（布）首都发生踩踏事故 至少37人死亡】当地时间20日深夜至21日凌晨，刚果（布）首都布拉柴维尔发生一起踩踏事故，造成至少37人死亡。刚果（布）政府21日发布声明说，20日晚，布拉柴维尔一座体育场内举行新兵招募活动时发生踩踏事故。事故还造成多人受伤，政府已组建紧急应对小组。目前伤者已送至布拉柴维尔大学中心医院和莫本戈武装部队中央医院进行救治。部分伤者伤情严重，未来死亡人数有可能上升。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5917381.d.html</link>
-            <guid>3376588</guid>
-            <pubDate>Tue, 21 Nov 2023 19:40:54 GMT</pubDate>
+            <title><![CDATA[【原油高位回落 产业链企业几家欢喜几家愁】由于库存增加和对供应紧张担忧消退，9月底高点以来，国际原油期货价格大幅下跌。本轮油价回落过程中，下游企业因自身所处产业链位置及产业供需状况的差别，所受影响也不一样。如PTA价格跟跌情况一般反而跟涨步伐较为坚定，而沥青价格则不堪一击。业内人士表示，从投资角度看，部分库存较低、基本面供需预期相对较好的化工品种，通常能够从油价变动中得到利润调整，不管是期货品种，还是相关产业链企业，都仍具备配置价值。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9049893.d.html</link>
+            <guid>3376707</guid>
+            <pubDate>Tue, 21 Nov 2023 23:10:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储工作人员：资产估值面临压力】美联储会议纪要显示，美联储工作人员提供了对金融体系稳定性的最新评估，并给予美国金融脆弱性“显著”的判断。工作人员认为，资产估值面临显著压力。他们特别指出，股票、房地产和商业地产的估值都很高。标普500指数成份股公司的远期市盈率升至历史分布的上四分之一水平。尽管抵押贷款市场的信贷条件紧张，房价已上涨至历史区间的上端。此外，与企业和家庭债务相关的脆弱性被定性为中等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5916694.d.html</link>
-            <guid>3376587</guid>
-            <pubDate>Tue, 21 Nov 2023 19:36:43 GMT</pubDate>
+            <title><![CDATA[【紫铜可作量子设备理想“开关”】量子科学家发现了一种罕见的现象，这种现象可能是在量子设备中创造一个在绝缘体和超导体之间切换的“完美开关”的关键。这项由英国布里斯托尔大学领导并发表在新一期《科学》杂志上的研究发现，紫铜中存在这两种相反的电子态。在热或光等小刺激的推动下，材料中的微小变化可能会引发从零电导率的绝缘状态到无限电导率的超导体状态的瞬时转变，反之亦然。这种极化的多功能性被称为“涌现对称性”，有可能在未来的量子技术发展中提供理想的开关。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9049732.d.html</link>
+            <guid>3376706</guid>
+            <pubDate>Tue, 21 Nov 2023 23:10:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【21万亿元信托资金忙“搬家”，证券市场“活水”源源不断】在行业加速转型背景下，信托资金正快步流入证券市场。11月21日发布的《中国信托业社会责任报告（2022-2023）》显示，截至2022年末，信托业受托管理信托资产达21.14万亿元，其中投向证券市场的资金信托规模占比升至近29%。与此同时，伴随着A股市场企稳，信托资金流入权益市场的脚步有所加快，上周权益类产品成立数量环比增长四成。在多位业内人士看来，行业转型已步入深水区，标品信托业务将加速扩容，为证券市场带来源源不断的“活水”。同时，在宏观环境逐步改善的背景下，权益资产的性价比愈发凸显。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9138096.d.html</link>
-            <guid>3376583</guid>
-            <pubDate>Tue, 21 Nov 2023 19:29:17 GMT</pubDate>
+            <title><![CDATA[【美国上层中产家庭减少购物，发出令人担忧的经济信号】较富裕的美国人正在黑色星期五来临之际削减支出，对于迄今一直依赖消费者来抵御衰退的美国经济来说，这是一个令人担忧的迹象。根据Bloomberg Second Measure的分析，在至关重要的假日购物季来临前的三个月里，包括苹果、Coach和Nordstrom在内的一批面向上层中产阶层的零售商的销售额创下两年来最大降幅。调查研究公司Morning Consult的高级经济学家Kayla Bruun表示，现在家庭收入在10万美元以上的人也开始变得更加节俭了。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9049492.d.html</link>
+            <guid>3376705</guid>
+            <pubDate>Tue, 21 Nov 2023 23:09:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储会议纪要：受访者推迟了缩表结束的预期时间】美联储会议纪要显示，对于货币政策的预期，市场定价和公开市场操作台的调查都表明，市场参与者预计，联邦基金利率处于或接近峰值，并将至少维持到2024年6月FOMC会议前；在12月或明年1月FOMC会议上加息25个基点的可能性约为30%。关于资产负债表政策，调查显示，受访者推迟了缩表结束的预期时间，部分原因可能是回应政策制定者与市场的沟通，即降息后缩表仍可能继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5914249.d.html</link>
-            <guid>3376581</guid>
-            <pubDate>Tue, 21 Nov 2023 19:24:02 GMT</pubDate>
+            <title><![CDATA[【持续发力稳增长 财政货币政策措施迭出】 MLF大规模超额续作、增发万亿元国债、财政部提前下达2024年度部分新增地方债额度……近期，一揽子强化稳增长政策持续发力，释放积极信号。分析人士认为，后续积极的财政政策有望带动总需求，稳健的货币政策或通过降准等方式进行协同配合，助力经济恢复动能逐步增强。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5826457.d.html</link>
+            <guid>3376704</guid>
+            <pubDate>Tue, 21 Nov 2023 23:09:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟委员会副主席Dombrovskis：德国必须继续实施公共投资。如果德国陷入经济困境或财政困境，恐将影响到欧盟其他成员国。]]></title>
-            <guid>3376578</guid>
-            <pubDate>Tue, 21 Nov 2023 19:16:19 GMT</pubDate>
+            <title><![CDATA[【百亿级项目接踵而至 产业资本发力钠电池板块】近期，钠电池产业接连抛出两个百亿级项目，提振了业界对该技术发展的信心。11月18日，比亚迪旗下弗迪电池与淮海控股集团签署总投资100亿元钠电池项目。11月19日，江苏众钠能源科技有限公司（简称“众钠能源”）投资的寻钠钠离子电池制造基地项目在安徽省广德市举办开工仪式，项目总投资高达100亿元。据悉，宁德时代钠电池可能在四季度装车面世。今年以来，随着锂价大幅下跌，有观点认为早先作为“锂电平替”发展起来的钠电池将遭到冷遇。但多位业内人士对记者表示，锂价降到10万元/吨甚至5万元/吨时，钠电池仍旧具有成本优势。钠电池还具有超越锂电池的低温性能、安全性能、资源丰富性等，让其有对锂价“脱钩”、独立发展的能力。目前，钠电池在动力电池、储能电池、启动电池等多方面推进应用尝试。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0597277.d.html</link>
+            <guid>3376703</guid>
+            <pubDate>Tue, 21 Nov 2023 23:08:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储回顾金融市场的发展情况：金融状况继续收紧】美联储受访的经理回顾了会议期间金融市场的发展情况：受国债收益率上升、股价下跌和美元走强（本身在一定程度上反映了利率上升）的推动，金融状况继续收紧。由于近几个月盈利预期保持良好，利率上升对股价的影响可能主要反映在估值上。较长期名义国债收益率自7月份以来的上升，主要是由于实际收益率的上升。调查指标显示通胀预期总体稳定，尤其是在更长的时间内，通胀预期仍然得到很好的锚定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5912192.d.html</link>
-            <guid>3376574</guid>
-            <pubDate>Tue, 21 Nov 2023 19:12:02 GMT</pubDate>
+            <title><![CDATA[【耶伦批评币安追逐利润无视法律】币安及其CEO赵长鹏周二承认了洗钱指控，同意支付约43亿美元罚款，赵长鹏将辞去CEO职位。美国财长耶伦表示:“币安在追求利润的过程中对自己的法律义务视而不见。它的故意失败让资金通过其平台流向恐怖分子、网络犯罪分子和虐待儿童者。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5825858.d.html</link>
+            <guid>3376702</guid>
+            <pubDate>Tue, 21 Nov 2023 23:08:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列袭击加沙地带一处房屋 已致10人死亡】半岛电视台当地时间11月21日报道称，当晚以色列对加沙地带南部汗尤尼斯以西的一处房屋发动袭击，目前已造成10人死亡，其中包括儿童。以色列方面对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkc9134519.d.html</link>
-            <guid>3376572</guid>
-            <pubDate>Tue, 21 Nov 2023 19:10:33 GMT</pubDate>
+            <title><![CDATA[市场消息：亚马逊(AMZN.O)新成立的AGI团队正在进行重大重组。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9048640.d.html</link>
+            <guid>3376701</guid>
+            <pubDate>Tue, 21 Nov 2023 23:08:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：多数美联储官员认为经济增长面临下行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmpkf5911325.d.html</link>
-            <guid>3376570</guid>
-            <pubDate>Tue, 21 Nov 2023 19:08:23 GMT</pubDate>
+            <title><![CDATA[【一二线城市“先知先觉” 多地产业立法加快形成新质生产力】近日，《苏州市智能车联网发展促进条例》通过江苏人大常委会批准，并将于12月1日起施行。这是苏州提出打造“智驾之城”后出台的首部智能车联网相关法规，也是继无锡之后，江苏省内第二部车联网地方性法规。近年来，各省市围绕新兴产业、未来产业率先立法，一系列行动计划、产业促进条例相继出台。多位专家表示，促进立法的行动只是对市场行为的引导，要通过制度激活市场经营主体活力。各地在制定产业法时应加强区域之间的互通联动。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5825793.d.html</link>
+            <guid>3376700</guid>
+            <pubDate>Tue, 21 Nov 2023 23:07:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：与会者强调需要看到更多表明通胀压力正在减弱的数据，才能对物价重返2%更有信心。]]></title>
-            <guid>3376568</guid>
-            <pubDate>Tue, 21 Nov 2023 19:05:56 GMT</pubDate>
+            <title><![CDATA[【秘鲁客车坠崖事故致死人数上升至23人】当地时间21日下午，秘鲁北部安卡什大区政府发布消息称，日前在当地一跨省公路上发生的客车坠崖事故造成的死亡人数已上升至23人，另有6人受伤。目前，死者和伤者的身份未完全确定，当地警方正在现场继续搜救。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9048301.d.html</link>
+            <guid>3376699</guid>
+            <pubDate>Tue, 21 Nov 2023 23:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：与会者认为劳动力市场状况紧张，但自年初以来已有所放缓。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0826759.d.html</link>
-            <guid>3376567</guid>
-            <pubDate>Tue, 21 Nov 2023 19:05:00 GMT</pubDate>
+            <title><![CDATA[【复星旗下葡萄牙医院运营商Luz Saude寻求发行新股并上市】复星国际旗下的葡萄牙医院运营商Luz Saude SA将于12月22日召开股东大会，就通过私募配售发行新股的方式出售少数股份进行投票。总部位于里斯本的Luz Saude于11月21日网站声明中说，出售该公司至多20%的股份将涉及增发至多2,390万股新股。新股将以簿记建档方式出售给专业投资者。Luz Saude表示，增资将取决于几个因素，包括获得里斯本泛欧交易所批准交易。在复星收购了大部分股份后，该公司在2018年从该交易所退市。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9047401.d.html</link>
+            <guid>3376698</guid>
+            <pubDate>Tue, 21 Nov 2023 23:02:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：许多与会者认为，长期国债收益率上升的情况是由期限溢价上升所驱动。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264245.d.html</link>
-            <guid>3376566</guid>
-            <pubDate>Tue, 21 Nov 2023 19:04:32 GMT</pubDate>
+            <title><![CDATA[【今日重点关注的财经数据与事件：2023年11月22日】
+① 19:00 英国11月CBI工业订单差值
+② 20:30 英国财政大臣亨特发表秋季预算报告
+③ 21:30 美国至11月18日当周初请失业金人数
+④ 21:30 美国10月耐用品订单月率
+⑤ 23:00 美国11月密歇根大学消费者信心指数终值
+⑥ 23:00 美国11月一年期通胀率预期
+⑦ 23:30 美国至11月17日当周EIA原油库存
+⑧ 23:30 美国至11月17日当周EIA库欣原油库存
+⑨ 23:30 美国至11月17日当周EIA战略石油储备库存
+⑩ 次日01:00 美国至11月17日当周EIA天然气库存
+⑪ 次日02:00 美国至11月24日当周石油钻井总数]]></title>
+            <guid>3376697</guid>
+            <pubDate>Tue, 21 Nov 2023 23:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：多数美联储官员认为通胀面临上行风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7917286.d.html</link>
-            <guid>3376564</guid>
-            <pubDate>Tue, 21 Nov 2023 19:03:57 GMT</pubDate>
+            <title><![CDATA[市场消息：花旗正在就在2024年初启动私人信贷战略进行谈判。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5822656.d.html</link>
+            <guid>3376695</guid>
+            <pubDate>Tue, 21 Nov 2023 22:54:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：工作人员的经济预测与九月份的预测相似。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264073.d.html</link>
-            <guid>3376562</guid>
-            <pubDate>Tue, 21 Nov 2023 19:03:39 GMT</pubDate>
+            <title><![CDATA[【OpenAI副总裁呼吁员工回来上班】OpenAI产品副总裁Peter Deng周二致员工信称，是时候回来“开船”了。并强调此举是为了让公司专注于软件开发和建立合作伙伴关系，而不是围绕上周五奥特曼被董事会解雇而上演的“他会不会回来”的大剧。Deng在信中表示，“引导我们精力的最佳方式”是开发人工智能产品。他表示，尽管董事会出现混乱，但公司仍在运营。此外知情人士表示，董事会和奥特曼希望在感恩节假期前达成解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5821170.d.html</link>
+            <guid>3376694</guid>
+            <pubDate>Tue, 21 Nov 2023 22:49:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：与会者指出，在除房屋通胀之外的核心服务领域，通胀回落的进展有限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9264062.d.html</link>
-            <guid>3376561</guid>
-            <pubDate>Tue, 21 Nov 2023 19:03:34 GMT</pubDate>
+            <title><![CDATA[【以媒称首批获释以色列人质最早可能于23日被释放】《以色列时报》援引以色列电视台第12频道的报道称，首批获释以色列人质最早可能在11月23日被释放。此外，据《耶路撒冷邮报》21日晚报道，当晚出席内阁讨论会议的以色列各部长被告知，首批获释以色列人质最早可能于23日被释放。巴勒斯坦方面对此暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9043564.d.html</link>
+            <guid>3376693</guid>
+            <pubDate>Tue, 21 Nov 2023 22:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：与会者指出，通货膨胀在过去一年有所缓解，但仍然保持在不可接受的高位，并远高于2%的目标水平。]]></title>
-            <guid>3376560</guid>
-            <pubDate>Tue, 21 Nov 2023 19:02:51 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CEO：正在扩大芯片供应链以满足增长需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0592549.d.html</link>
+            <guid>3376692</guid>
+            <pubDate>Tue, 21 Nov 2023 22:44:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：与会者认为保持紧缩立场将支持进一步实现通胀目标，同时能有充分时间收集更多信息。]]></title>
-            <guid>3376559</guid>
-            <pubDate>Tue, 21 Nov 2023 19:02:43 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CEO：绝对相信数据中心可以在2025年之前一直实现增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0592420.d.html</link>
+            <guid>3376691</guid>
+            <pubDate>Tue, 21 Nov 2023 22:43:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：所有与会者一致认为利率决策委员会有能力“谨慎”进行决策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6040988.d.html</link>
-            <guid>3376558</guid>
-            <pubDate>Tue, 21 Nov 2023 19:02:25 GMT</pubDate>
+            <title><![CDATA[美国新泽西州计划采用“到2035年逐步淘汰燃油车”的方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9042457.d.html</link>
+            <guid>3376690</guid>
+            <pubDate>Tue, 21 Nov 2023 22:40:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：经济状况的持续变化将影响政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0826352.d.html</link>
-            <guid>3376556</guid>
-            <pubDate>Tue, 21 Nov 2023 19:01:46 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CEO：行业正处于人工智能浪潮的开端。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0590908.d.html</link>
+            <guid>3376689</guid>
+            <pubDate>Tue, 21 Nov 2023 22:34:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储会议纪要：所有FOMC成员都认为，利率仍将在一段时间内保持限制性。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9263600.d.html</link>
-            <guid>3376555</guid>
-            <pubDate>Tue, 21 Nov 2023 19:01:17 GMT</pubDate>
+            <title><![CDATA[市场消息：Adeka将投资100亿日元，用于芯片原材料的研发设施（建设）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5818159.d.html</link>
+            <guid>3376688</guid>
+            <pubDate>Tue, 21 Nov 2023 22:33:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多地出台小贷公司管理办法 进一步健全监管规则】各地正陆续出台小额贷款公司管理细则，以进一步健全监管规则。近日，北京市地方金融监督管理局印发《北京市小额贷款公司监督管理办法》，对小额贷款公司在营业区域、资金融入、业务集中度、放贷专户等方面作出了新的规定。办法提出，在北京市设立小贷公司注册资本不低于人民币1亿元，且为一次性实缴货币资本。相较原试点办法，注册资本门槛提高了5000万元。对此，广东省小贷公司协会秘书长徐北昨日向上海证券报记者表示，1亿元的准入门槛其实并不高，目前很多省市小贷公司设立注册资本都要求超过1亿元。例如，广东省设立小贷公司要求注册资本为2亿元，四川省则要求3亿元。记者梳理公开信息获悉，截至目前，除北京外，已有福建、湖南、湖北、广西、上海等地出台了相关实施细则、指引或者征求意见稿。这些实施细则或者指引均提高了小贷公司注册资本，并引导小贷行业合规有序发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7916894.d.html</link>
-            <guid>3376554</guid>
-            <pubDate>Tue, 21 Nov 2023 19:01:07 GMT</pubDate>
+            <title><![CDATA[市场消息：一个劳工组织寻求加入星巴克董事会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5818010.d.html</link>
+            <guid>3376687</guid>
+            <pubDate>Tue, 21 Nov 2023 22:32:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【次新基金建仓步伐加快，增量资金进场信号明显】近期，增量资金进场信号明显，多位基金经理积极捡拾优质筹码。记者梳理发现，多只主动权益类次新基金净值出现较为明显的波动，这意味着，基金经理或已加仓。与此同时，11月权益类基金发行提速，超50只权益类基金正在发行或是等待发行。展望后市，多位基金经理表示，当前权益资产性价比较高，诸多投资机会涌现。公募基金也在加大逆周期布局力度，当前约有超40只权益类基金正在发行，同时，超15只权益类基金已敲定发行日期，即将发行。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6039961.d.html</link>
-            <guid>3376550</guid>
-            <pubDate>Tue, 21 Nov 2023 18:56:58 GMT</pubDate>
+            <title><![CDATA[【俄外长同阿拉伯、伊斯兰国家外长联合代表团举行会晤】俄罗斯外长拉夫罗夫21日同到访的阿拉伯、伊斯兰国家外长联合代表团举行会晤，双方呼吁就加沙地带局势尽快建立稳定机制，以实现停火、确保平民受到保护。与会各方强调，必须采取有力的协调措施，在巴以之间建立持久和平。国际社会须努力为冲突方进行谈判创造条件，并最终建立以1967年边界为基础、以东耶路撒冷为首都、与以色列和平共存的独立的巴勒斯坦国。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtry7681071.d.html</link>
+            <guid>3376685</guid>
+            <pubDate>Tue, 21 Nov 2023 22:31:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及外国新闻办公室称（巴以）人质谈判取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9262594.d.html</link>
-            <guid>3376549</guid>
-            <pubDate>Tue, 21 Nov 2023 18:55:43 GMT</pubDate>
+            <title><![CDATA[【提醒：日内请重点关注（以下均为北京时间）】 ① 16:35 澳洲联储主席Bullock在年度“澳大利亚企业经济学家”餐会上贪婪“经济前景与货币政策”；
+② 19:00 欧洲央行管委兼葡萄牙央行行长Centeno递交葡萄牙央行的金融稳定性报告；
+③ 21:30 美国10月耐用品订单初值，11月18日当周首次申请失业救济人数；
+④ 23:00 美国11月密歇根大学消费者信心指数终值，1/5年期通胀预期终值；
+⑤ 23:30 美国能源信息署（EIA）发布政府版原油库存周报；
+⑥ 次日00:00 欧洲央行管委兼德国央行行长Nagel在意大利米兰讲话；
+⑦ 次日00:30 加拿大央行行长Macklem讨论“高通胀率的代价”；
+⑧ 次日02:00 加拿大央行行长Macklem讲话；
+微信小程序搜索“见闻历”，了解更多。]]></title>
+            <guid>3376684</guid>
+            <pubDate>Tue, 21 Nov 2023 22:30:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【锂电产能利用率明年有望回弹 行业集中度提升乃大势所趋】市场的周期波动，延缓了新增项目的落地进度。虽然今年以来2023年动力及储能电池行业依然有超2000亿元规模的新增投资规划出炉，但是据记者在2023高工锂电年会上沟通获悉，不少锂电设备产业企业均感受到前期招标的项目落地放缓，有企业直言，“在今年的一些阶段，我们发现甚至没有投标机会可以争取。”“招投标放缓究竟是好是坏，其实见仁见智。”张小飞在会上分享的2020年至2027年锂电产能利用率图表显示，当下处于锂电产能利用率接近谷底的阶段，“因为季节性因素，产能利用率的下行还将持续一段时间，但是在明年下半年开始预期会有比较好的提升。”无独有偶，上周中信建投证券分析师朱玥也发布研报表示，锂电将在春季复苏。朱玥预计，2024年第一季度锂电行业将进入供给最过剩阶段，行业有望迎来拐点。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7916231.d.html</link>
-            <guid>3376548</guid>
-            <pubDate>Tue, 21 Nov 2023 18:55:37 GMT</pubDate>
+            <title><![CDATA[英伟达：预计新芯片不会在当前季度给营收带来帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9040286.d.html</link>
+            <guid>3376683</guid>
+            <pubDate>Tue, 21 Nov 2023 22:30:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：以色列对加沙南部汗尤尼斯居民公寓发动袭击，造成10人死亡，22人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6039427.d.html</link>
-            <guid>3376546</guid>
-            <pubDate>Tue, 21 Nov 2023 18:53:44 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CFO：未来几个月将推出符合监管规定的芯片。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0590139.d.html</link>
+            <guid>3376682</guid>
+            <pubDate>Tue, 21 Nov 2023 22:29:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“近三年”业绩长考首次评卷，49家保险公司平均投资收益率超5%】近期，保险公司在2023年三季度偿付能力报告中接连披露了近三年平均投资收益率。在披露了三季度偿付能力报告的160家保险公司中，有157家披露了近三年平均投资收益率，包括76家人身险公司、81家财险公司。其中，76家人身险公司近三年平均投资收益率为4.73%，近三年平均综合投资收益率为4.37%；81家财险公司近三年平均投资收益率为4.1%，近三年平均综合投资收益率为2.57%。近三年平均投资收益率超过5%的保险公司达到49家，包括32家人身险公司、17家财险公司。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0824728.d.html</link>
-            <guid>3376545</guid>
-            <pubDate>Tue, 21 Nov 2023 18:49:09 GMT</pubDate>
+            <title><![CDATA[用户报告显示OpenAI出现问题，且主要集中在ChatGPT上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5817297.d.html</link>
+            <guid>3376681</guid>
+            <pubDate>Tue, 21 Nov 2023 22:29:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈马斯：以军袭击加沙地带致死人数超1.4万】巴勒斯坦伊斯兰抵抗运动（哈马斯）媒体办公室21日发表声明说，新一轮巴以冲突爆发以来，以色列军队对加沙地带的袭击已造成超过1.4万人死亡、3.3万余人受伤。声明说，死者中有5840多名儿童和3920多名妇女，另有超过6800人失踪。加沙地带至少60%的居民建筑在以军袭击中受损。巴勒斯坦加沙地带卫生部门21日发表声明说，以军当天袭击加沙地带中部的努赛赖特难民营，造成至少20人死亡、数十人受伤。以色列国防军同日发表声明说，以军过去24小时对加沙地带至少250处目标发动袭击。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6038051.d.html</link>
-            <guid>3376544</guid>
-            <pubDate>Tue, 21 Nov 2023 18:48:57 GMT</pubDate>
+            <title><![CDATA[【苹果公司被指控去年将加入工会的零售员工排除在福利增加之外】苹果公司正面临联邦劳工委员会的指控，原因是该公司去年将加入工会的零售员工排除在福利增加之外。周二，美国国家劳工关系委员会(National Labor Relations Board)的一名地区主任提出申诉，指控这家科技巨头违反了联邦劳动法，拒绝在2022年为马里兰州陶森市(Towson)的一家苹果商店的工会员工提供更高的福利。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0589633.d.html</link>
+            <guid>3376679</guid>
+            <pubDate>Tue, 21 Nov 2023 22:26:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行Centeno：通胀回落速度快于我的预料。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6035851.d.html</link>
-            <guid>3376542</guid>
-            <pubDate>Tue, 21 Nov 2023 18:36:21 GMT</pubDate>
+            <title><![CDATA[巴西央行行长内托：下两次会议后将消除不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0588873.d.html</link>
+            <guid>3376677</guid>
+            <pubDate>Tue, 21 Nov 2023 22:20:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委森特诺：通胀的下降速度快于其上升速度。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7913784.d.html</link>
-            <guid>3376541</guid>
-            <pubDate>Tue, 21 Nov 2023 18:35:59 GMT</pubDate>
+            <title><![CDATA[巴西央行行长内托：50个基点是适当的降息速度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5815643.d.html</link>
+            <guid>3376676</guid>
+            <pubDate>Tue, 21 Nov 2023 22:19:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[币安CEO赵长鹏同意认罪并支付5000万美元罚款。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6035282.d.html</link>
-            <guid>3376540</guid>
-            <pubDate>Tue, 21 Nov 2023 18:34:43 GMT</pubDate>
+            <title><![CDATA[英伟达：预计今年软件营收将达到10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0588728.d.html</link>
+            <guid>3376675</guid>
+            <pubDate>Tue, 21 Nov 2023 22:19:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列军方发言人：我们在释放人质方面取得了进展，但我建议等待直到细节最终确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0822266.d.html</link>
-            <guid>3376535</guid>
-            <pubDate>Tue, 21 Nov 2023 18:30:09 GMT</pubDate>
+            <title><![CDATA[【巴以冲突局势跟踪（11月22日）】
+1. 本轮巴以冲突已致双方超1.55万人死亡。
+2. 世卫组织：加沙正处于重大疾病暴发边缘。
+3. 南非议会通过与以色列暂停外交关系提案。
+4. 市场消息：以色列再次要求加沙北部居民迁移到南部地区。
+5. 哈马斯与以色列达成一项4-5天的停火协议，双方将互换人质。以总理表示，协议期限后冲突将继续。
+6. 沙特王储：沙特拒绝针对巴勒斯坦人的强制迁移。我们呼吁所有国家停止向以色列出口武器。
+7.市场消息：英国国防部副部长表示，自10月7日以来，英国在中东地区增派了1000名士兵。
+8. 市场消息：以色列在黎巴嫩南部发动无人机袭击，造成哈马斯的四名成员死亡。
+9.市场消息：以色列击毙在黎巴嫩的哈马斯卡桑旅副指挥官。
+10. 市场消息：以色列国防军在黎巴嫩南部袭击了真主党的三个反坦克导弹小队。以色列战斗机还袭击了真主党的一些据点，以回应对以色列北部的多次袭击。
+11. 美国国家安全委员会发言人柯比：在过去24小时内，有50辆装有人道主义援助物资和2万加仑燃料的卡车进入了加沙。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9038385.d.html</link>
+            <guid>3376674</guid>
+            <pubDate>Tue, 21 Nov 2023 22:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列军方发言人：我们已经在周二完成了对加沙地带贾巴利亚地区的包围。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0822226.d.html</link>
-            <guid>3376534</guid>
-            <pubDate>Tue, 21 Nov 2023 18:29:46 GMT</pubDate>
+            <title><![CDATA[【中央气象台11月22日06时继续发布寒潮黄色预警】中央气象台11月22日06时继续发布寒潮黄色预警：受寒潮影响，预计，11月22日至24日，长江中下游及以北地区气温将先后下降6～10℃，其中，内蒙古、东北地区、华北西部和北部、黄淮中东部等地降温12～16℃，内蒙古中东部、东北地区东部等地部分地区降温幅度可超过16℃；寒潮影响后，最低气温0℃线将位于苏皖中部至河南中南部、陕西南部、甘肃东南部等地，内蒙古东部和黑龙江大部最低气温将降至-20℃以下，局地可达-30℃以下；上述大部地区伴有4～6级偏北风，阵风7～8级，局地9级，内蒙古西部、宁夏等地部分地区有沙尘天气；23日至25日，我国东部和南部海区也将先后出现6～8级大风，阵风9～10级。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5814674.d.html</link>
+            <guid>3376673</guid>
+            <pubDate>Tue, 21 Nov 2023 22:15:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：Richard Teng被视为币安的CEO潜在候选人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6031750.d.html</link>
-            <guid>3376533</guid>
-            <pubDate>Tue, 21 Nov 2023 18:18:09 GMT</pubDate>
+            <title><![CDATA[【中央气象台11月22日06时继续发布暴雪黄色预警】中央气象台11月22日06时继续发布暴雪黄色预警：预计，11月22日08时至11月23日08时，内蒙古东部、黑龙江中东部、吉林北部和长白山区等地的部分地区有大到暴雪，其中，黑龙江中部局地有大暴雪(20~22毫米);上述地区新增积雪深度6~12厘米，局地可达16厘米以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9037092.d.html</link>
+            <guid>3376671</guid>
+            <pubDate>Tue, 21 Nov 2023 22:14:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西下调2023年经济增长预期至3%】当地时间11月21日，巴西财政部发布数据，将该国2023年经济增长预期从3.2%下调至3%。财政部经济政策秘书处表示，由于对目前至年末的服务业表现持悲观态度，因而下调经济增长预期。此前一天，巴西央行发布的《焦点报告》反应该国金融市场对2023年经济增长预期为2.85%。巴西财政部还将该国2023年通胀率的预期由4.85%下调至4.66%，接近央行设置的通胀目标上限4.75%。财政部对2024年的通胀预期为3.55%，对2024年该国经济增长的预期则由2.3%下调至2.2%。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiaf9254468.d.html</link>
-            <guid>3376532</guid>
-            <pubDate>Tue, 21 Nov 2023 18:17:38 GMT</pubDate>
+            <title><![CDATA[【一名巴勒斯坦记者在以军针对加沙城的袭击中死亡】据半岛电视台报道，当地时间11月21日晚，一名巴勒斯坦记者在以军针对加沙城东部社区的袭击中身亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtry7678463.d.html</link>
+            <guid>3376670</guid>
+            <pubDate>Tue, 21 Nov 2023 22:14:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克民兵武装称袭击在叙美军基地】伊拉克民兵武装“伊斯兰抵抗组织”当地时间11月21日晚发表声明称，当天对叙利亚哈塞克省南部沙达迪地区的一处美军基地发射了数枚火箭弹。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiae7911281.d.html</link>
-            <guid>3376531</guid>
-            <pubDate>Tue, 21 Nov 2023 18:17:31 GMT</pubDate>
+            <title><![CDATA[美国副财长Adeyemo：美国将打击加密数字货币生态系统中那些不好的行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsf0587524.d.html</link>
+            <guid>3376668</guid>
+            <pubDate>Tue, 21 Nov 2023 22:12:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国检察官表示，币安CEO同意法院提出的5000万美元罚款的建议，这笔罚款将记入已支付给美国商品期货交易委员会（CFTC）的款项中。]]></title>
-            <guid>3376530</guid>
-            <pubDate>Tue, 21 Nov 2023 18:16:53 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CFO：英伟达正在为出口受限地区研究解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtry7678010.d.html</link>
+            <guid>3376667</guid>
+            <pubDate>Tue, 21 Nov 2023 22:11:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世卫组织：加沙正处于重大疾病暴发边缘】巴以新一轮冲突持续，导致大量加沙地带民众流离失所。联合国机构20日公布的数据显示，加沙地带流离失所人数已超170万。世界卫生组织警告说，加沙地带人道主义形势恶化，正处于重大疾病暴发的边缘。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiam0819784.d.html</link>
-            <guid>3376528</guid>
-            <pubDate>Tue, 21 Nov 2023 18:11:36 GMT</pubDate>
+            <title><![CDATA[【北京发布寒潮蓝色预警 关停户外游乐项目】北京市气象台21日发布寒潮蓝色预警信号：预计22日午后至24日，北京地区将出现寒潮天气，平原地区最低气温将降至-8℃左右。此外，今明两天，北京将有4到5级偏北风，阵风7到8级。北京市文化和旅游局21日发布通知，北京各旅游景区关停大型游乐设施、索道、缆车、滑道等户外游乐项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5812714.d.html</link>
+            <guid>3376665</guid>
+            <pubDate>Tue, 21 Nov 2023 22:08:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西财政部官员：巴西计划与阿根廷保持良好关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmiai6028976.d.html</link>
-            <guid>3376527</guid>
-            <pubDate>Tue, 21 Nov 2023 18:08:45 GMT</pubDate>
+            <title><![CDATA[英伟达(NVDA.O)CFO：已大幅增加供应，将继续保持增长，将加快产品发布速度。]]></title>
+            <guid>3376664</guid>
+            <pubDate>Tue, 21 Nov 2023 22:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台11月22日06时继续发布大风蓝色预警】预计，11月22日08时至23日08时，内蒙古中西部、新疆北部、青海北部和东部、宁夏北部、陕西北部等地有5~6级、阵风7~8级的大风，局地阵风可达9级；渤海、渤海海峡、南海东北部和西南部海域、巴士海峡等部分地区将有7~8级、阵风9级的大风。11月23日08时至24日08时，内蒙古中东部、辽宁西南部、天津东部、山东半岛及新疆南疆盆地、西藏西北部和南部等地有5~6级、阵风7~8级的大风，局地阵风可达9级；台湾海峡、巴士海峡、南海东北部和西南部海域将有8级、阵风9级的大风。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9035365.d.html</link>
+            <guid>3376663</guid>
+            <pubDate>Tue, 21 Nov 2023 22:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克安全部队对未经许可飞经“绿区”的无人机进行射击】据伊拉克巴格达安全部门消息，当地时间11月21日深夜，一架无人机未经许可飞经“绿区”，伊拉克安全部队对其进行射击。伊拉克当地社交媒体流传的视频显示，“绿区”内传出密集枪声。巴格达“绿区”是包括国民议会大楼在内的伊拉克主要政府机关和多个外国大使馆所在地。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtsc5811297.d.html</link>
+            <guid>3376657</guid>
+            <pubDate>Tue, 21 Nov 2023 22:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥南部发生4.9级地震】根据墨西哥国家地震监测局（SSN）当地时间11月21日的信息，11月21日14时24分31秒，墨西哥南部格雷罗州（Guerrero）的圣马尔克斯市（San Marcos）以西方向约15公里处发生4.9级地震，震源深度约15公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9033703.d.html</link>
+            <guid>3376656</guid>
+            <pubDate>Tue, 21 Nov 2023 21:58:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至11月17日当周API原油进口 21.6万桶，前值-19.5万桶。美国至11月17日当周API成品油进口 -1.3万桶/日，前值13.7万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtrz9032255.d.html</link>
+            <guid>3376654</guid>
+            <pubDate>Tue, 21 Nov 2023 21:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至11月17日当周API投产原油量 7.1万桶/日，前值15.2万桶/日。美国至11月17日当周API取暖油库存 -84.4万桶，前值36万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-22/detail-imzvmtry7674822.d.html</link>
+            <guid>3376653</guid>
+            <pubDate>Tue, 21 Nov 2023 21:49:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
