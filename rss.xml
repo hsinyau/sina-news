@@ -4,11 +4,345 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 27 Nov 2023 15:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 18:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[iRobot复牌，股价进一步下跌至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7102982.d.html</link>
+            <guid>3384921</guid>
+            <pubDate>Mon, 27 Nov 2023 18:07:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5年期美国国债拍卖显示需求强劲，随后收益率下跌，最后下跌7.1个基点至4.420%。]]></title>
+            <guid>3384920</guid>
+            <pubDate>Mon, 27 Nov 2023 18:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列政府：延长以色列央行行长Amir Yaron的任期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsn7963795.d.html</link>
+            <guid>3384919</guid>
+            <pubDate>Mon, 27 Nov 2023 18:05:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖三个月期国库券，得标利率5.280%（前次为5.270%），投标倍数2.46（前次为2.55）。]]></title>
+            <guid>3384917</guid>
+            <pubDate>Mon, 27 Nov 2023 18:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖550亿美元五年期国债，得标利率4.420%（10月25日以4.899%创2007年以来新高），投标倍数2.87（前次为2.36）。]]></title>
+            <guid>3384916</guid>
+            <pubDate>Mon, 27 Nov 2023 18:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟方面警告称，亚马逊与美国机器人公iRobot的交易可能会损害市场竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsm3879027.d.html</link>
+            <guid>3384911</guid>
+            <pubDate>Mon, 27 Nov 2023 18:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国“制粉小麦”期货跌2.5%，创逾两年新低】 周一（11月27日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货跌2.51%，连续第四个交易日下跌，报213.50欧元/吨，一度跌至212.50欧元，逼近2021年9月30日底部211.75欧元。油菜籽期货则涨0.74%，报441.25欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7101400.d.html</link>
+            <guid>3384910</guid>
+            <pubDate>Mon, 27 Nov 2023 17:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024年地方债提前批额度已在路上，专家预计新增专项债提前批额度在2.28万亿元左右】 2024年地方债提前批额度已在路上。财政部有关负责人日前表示，将提前下达2024年度部分新增地方政府债务额度，合理保障地方融资需求。目前，业界普遍预计2024年地方债提前批额度将于11月份至12月份下达。通过专项债的发行，地方政府可以筹集更多资金用于重要项目的推进，从而刺激投资、促进产业升级和城市发展。目前，业内机构预测提前批额度或超2.7万亿元（包括新增专项债2.28万亿元，新增一般债4320亿元），可能继续向东部财政状况较好的地区倾斜。（证券日报）]]></title>
+            <guid>3384909</guid>
+            <pubDate>Mon, 27 Nov 2023 17:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦锡收跌将近3.8%，伦铜收跌超0.7%】 LME期铜收跌64美元，跌幅将近0.76%，报8364美元/吨。LME期铝收跌6美元，报2210美元/吨。LME期锌收跌14美元，报2539美元/吨。LME期铅收跌34美元，报2162美元/吨。LME期镍收跌59美元，报16079美元/吨。LME期锡收跌905美元，跌幅将近3.79%，报22976美元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7100685.d.html</link>
+            <guid>3384908</guid>
+            <pubDate>Mon, 27 Nov 2023 17:54:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列证实临时停火协议延长两天内每天将有10名以方人员获释】综合以色列《国土报》及半岛电视台当地时间11月27日消息，以色列方面已有官员证实，加沙地带的临时停火协议将延长两天，未来每天将有10名以色列被扣押人员获释，两天内共有20人将被释放。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsm3875972.d.html</link>
+            <guid>3384905</guid>
+            <pubDate>Mon, 27 Nov 2023 17:45:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国eVTOL开发商获欧盟“运营许可证”】德国“电动垂直起降飞行器”（eVTOL）开发商Lilium N.V.周一在官网宣布，公司收到了欧盟航空安全局（EASA）颁发的“设计机构批准”（Design Organization Approval，DOA）。Lilium首席技术官兼设计组织负责人Alastair McIntosh在新闻稿中解释道，“简单来说，设计机构批准是我们的运营许可证，此举确认了Lilium拥有设计和设计所需的组织、程序、能力、资源和严谨性。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7097894.d.html</link>
+            <guid>3384904</guid>
+            <pubDate>Mon, 27 Nov 2023 17:42:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国感恩节（11月23日）长周末（长达五天），《饥饿游戏：鸣鸟与蛇之歌》斩获大约4200万美元票房收入，霸占美国票房榜首，总体票房预计达到1.72亿美元。]]></title>
+            <guid>3384903</guid>
+            <pubDate>Mon, 27 Nov 2023 17:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济学家预测：美国核心通胀降温困难，利率料长时间维持高位】 媒体对经济学家们的最新调查结果显示，预测机构调高了对直至明年年末的核心个人消费支出价格指数(PCE)同比预测。不包括波动较大的食品和能源的核心PCE到2024年底料增长2.5%，高于上个月调查时的2.4%。与此同时，整体PCE和居民消费价格指数(CPI)下降速度将快于预期的情况将持续到2024年年中，近几个月来这些指标出现的较明显回落主要是由于能源价格下跌。尽管经济学家仍预计美联储将在明年第二季度开始放松货币政策，但他们现在预计美联储会把利率维持在较高水平直至2025年底。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsh5407400.d.html</link>
+            <guid>3384900</guid>
+            <pubDate>Mon, 27 Nov 2023 17:29:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行Athanasios Vamvakidis等策略师们认为：随着美联储（多次降息），美元料将在2024年走弱，澳元料将反弹。随着美联储的担忧从通胀转向经济增长，FOMC料将在2024年降息；其他各大央行也可能会开始降息。]]></title>
+            <guid>3384899</guid>
+            <pubDate>Mon, 27 Nov 2023 17:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10年期德债收益率跌超9个基点，欧洲央行行长拉加德称不久的将来或讨论PEPP】 周一（11月27日）欧市尾盘，德国10年期国债收益率跌9.6个基点，刷新日低至2.547%，欧市早盘曾短暂地转涨、刷新日高至2.650%。两年期德债收益率跌7.3个基点，报2.999%，欧股开盘之前刷新日高至3.108%，随后震荡下行并转跌，最低触及2.990%；30年期德债收益率跌6.7个基点，报2.752%。2/10年期德债收益率利差跌2.308个基点，报-45.453个基点。法国10年期国债收益率跌9.4个基点，刷新日低至3.106%。意大利10年期国债收益率跌11.4个基点，西班牙10年期国债收益率跌9.5个基点，希腊10年期国债收益率跌5.3个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7092977.d.html</link>
+            <guid>3384898</guid>
+            <pubDate>Mon, 27 Nov 2023 17:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全委员会发言人柯比：国家安全顾问沙利文将在华盛顿与阿根廷新任总统Milei会面。]]></title>
+            <guid>3384896</guid>
+            <pubDate>Mon, 27 Nov 2023 17:21:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全委员会发言人柯比：哈马斯承诺在未来两天内释放20名妇女和儿童。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsh5405936.d.html</link>
+            <guid>3384894</guid>
+            <pubDate>Mon, 27 Nov 2023 17:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英债收益率周一普遍跌超7个基点，刷新日低】 周一（11月27日）欧市尾盘，英国10年期国债收益率下跌7.2个基点，刷新日低至4.211%，欧市早盘曾涨至日高4.294%。两年期英债收益率跌7.2个基点，刷新日低至4.639%，欧市早盘也曾涨至日高4.717%。30年期英债收益率跌8.1个基点，50年期英债收益率跌8.9个基点。2/10年期英债收益率利差跌0.301个基点，报-47.755个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsi7091709.d.html</link>
+            <guid>3384893</guid>
+            <pubDate>Mon, 27 Nov 2023 17:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：认为乌克兰银行业的经营状况已降至低点，因此，预计其核心信贷驱动状况将能够在2024年企稳。]]></title>
+            <guid>3384892</guid>
+            <pubDate>Mon, 27 Nov 2023 17:17:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全委员会发言人柯比：美国对中东延长临时停火协议一事表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsm3868490.d.html</link>
+            <guid>3384891</guid>
+            <pubDate>Mon, 27 Nov 2023 17:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：拜登收到了佛蒙特州巴勒斯坦裔美国人枪击事件的最新进展，对此感到震惊。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsm3868062.d.html</link>
+            <guid>3384889</guid>
+            <pubDate>Mon, 27 Nov 2023 17:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯表示已收到以方计划于27日释放的被关押者名单】阿拉比亚电视台当地时间11月27日晚报道称，哈马斯方面表示已经收到以色列计划于当天释放的被关押者名单，其中包括3名妇女和30名儿童。报道同时称，红十字会国际委员会已开始接收第四批被哈马斯扣押的以色列人。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsn7956667.d.html</link>
+            <guid>3384888</guid>
+            <pubDate>Mon, 27 Nov 2023 17:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：从燃料到食品等物品价格正在回落。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsh5404926.d.html</link>
+            <guid>3384887</guid>
+            <pubDate>Mon, 27 Nov 2023 17:12:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[五角大楼：周日劫持商船的企图似乎是索马里海盗所为，而不是也门胡塞武装。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsm3867417.d.html</link>
+            <guid>3384886</guid>
+            <pubDate>Mon, 27 Nov 2023 17:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【IPO节奏将迎阶段性收紧 专家称有利于促进市场供需平衡】据证券日报，8月27日，证监会发布统筹一二级市场平衡的相关监管安排，其中强调“根据近期市场情况，阶段性收紧IPO节奏，促进投融资两端的动态平衡”。“阶段性收紧IPO节奏，并不代表着暂停IPO。”申万宏源证券首席市场专家桂浩明对记者表示，这意味着，在一定时间段内IPO节奏将放缓，大型IPO项目、高溢价的IPO项目可能不会出现。这主要是为了缓解市场供需问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsn7956137.d.html</link>
+            <guid>3384885</guid>
+            <pubDate>Mon, 27 Nov 2023 17:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eurasia Group：如果OPEC+不减产石油100万桶/日，恐怕油价将跌向70美元/桶关口。]]></title>
+            <guid>3384881</guid>
+            <pubDate>Mon, 27 Nov 2023 16:58:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国天然气期货跌6%，欧盟碳税创逾一年新低跌向70欧元关口】 周一（11月27日）欧市尾盘，ICE英国天然气期货跌6.04%，报112.550便士/千卡。TTF基准荷兰天然气期货跌4.45%，报44.000欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌4.48%，报73.17欧元/吨，一度跌至72.79欧元，逼近2022年11月10日底部70.50欧元、70欧元整数位心理关口、2022年10月24日底部67.64欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwavsn7954146.d.html</link>
+            <guid>3384880</guid>
+            <pubDate>Mon, 27 Nov 2023 16:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：在未经调整的销量水平上，预计美国轻型汽车销量将较10月受罢工影响的水平略有上升，11月份预计销售123万辆轻型车。]]></title>
+            <guid>3384879</guid>
+            <pubDate>Mon, 27 Nov 2023 16:52:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBOT小麦日期货内跌幅达3.5%，报557美分/蒲式耳。CBOT玉米期货跌1.9%，报473.5美分/蒲式耳，创两周新低，投资者担心美国玉米收成创历史新高。随后，美国农业部（USDA）宣布，原定当地时间11月27日的谷物出口调查报告将被推后发布。]]></title>
+            <guid>3384878</guid>
+            <pubDate>Mon, 27 Nov 2023 16:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国两年期国债收益率跌幅重新扩大至约4.0个基点，在美国财政部两年期国债发行结果出炉后刷新日低至4.91%下方。]]></title>
+            <guid>3384877</guid>
+            <pubDate>Mon, 27 Nov 2023 16:44:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财政部拍卖六个月期国库券，得标利率5.240%（前次为5.230%），投标倍数3.01（前次为2.55）。]]></title>
+            <guid>3384874</guid>
+            <pubDate>Mon, 27 Nov 2023 16:32:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯总统普京签署2024-26年预算为法律。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwarkm7206651.d.html</link>
+            <guid>3384867</guid>
+            <pubDate>Mon, 27 Nov 2023 16:11:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《刀尖》上映5天 ，总票房破4000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwarkp3983283.d.html</link>
+            <guid>3384866</guid>
+            <pubDate>Mon, 27 Nov 2023 16:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【香港举办财经论坛探讨国际化优势与高质量发展】 “香港财经论坛2023：探讨香港国际化之优势与高质量发展”27日在港举办。论坛聚焦三大议题，即香港在中国式现代化中的角色和机遇，香港如何发挥金融、创科、法律及人才等不同领域的国际化优势，以及香港自由开放的营商环境如何为中外企业创造机遇。香港特区行政长官李家超致辞表示，香港凭借“一国两制”下背靠祖国、联通世界的独特优势，成为兼具中国优势和国际优势的城市。香港保持自由港和独立关税区地位，支持多边贸易体制，资金人才自由流通。在法治的坚实保障下，香港社会为投资者、企业家提供安全稳定的营商环境，让他们可以在这个自由开放的社会大展宏图。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwarkk5526181.d.html</link>
+            <guid>3384865</guid>
+            <pubDate>Mon, 27 Nov 2023 16:09:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯27日释放的以方人员名单已经敲定】据《耶路撒冷邮报》11月27日报道称，经过数小时的谈判，以色列方面宣布，巴勒斯坦伊斯兰抵抗运动（哈马斯）当天即将释放的以方被扣押人员名单已经敲定。据报道，最终名单包括2名母亲和9名孩子。另据以色列电视台12频道消息，这11名以色列被扣押人员很快将被释放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwarkm7204270.d.html</link>
+            <guid>3384864</guid>
+            <pubDate>Mon, 27 Nov 2023 16:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日重点关注财经数据与事件】
+① 15:00 德国12月Gfk消费者信心指数
+② 22:00 美国9月FHFA房价指数月率
+③ 22:00 美国9月S&P/CS20座大城市房价指数年率
+④ 23:00 美国11月谘商会消费者信心指数
+⑤ 23:00 美国11月里奇蒙德联储制造业指数
+⑥ 23:00 美联储理事沃勒发表讲话
+⑦ 23:45 美联储理事鲍曼发表讲话
+⑧ 次日05:30 美国至11月24日当周API原油库存]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzwarkq8075609.d.html</link>
+            <guid>3384862</guid>
+            <pubDate>Mon, 27 Nov 2023 16:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【莫拉维茨基宣誓就职波兰政府总理】据央视新闻，当地时间11月27日，在波兰总统府圆柱大厅，马泰乌什·莫拉维茨基政府在波兰总统杜达见证下宣誓就职。莫拉维茨基宣布，新政府的规模将“大大缩小”，希望组建专家型政府。11月13日，波兰新一届众议院举行第一次会议，总统接受了政府的辞呈，随后指定莫拉维茨基为总理并委托其组建新政府。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5523828.d.html</link>
+            <guid>3384858</guid>
+            <pubDate>Mon, 27 Nov 2023 15:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔方面表示，正在努力延长以色列和哈马斯之间的停火协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5523810.d.html</link>
+            <guid>3384857</guid>
+            <pubDate>Mon, 27 Nov 2023 15:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国国防部声明显示，德国美洲狮战车的现代化改造将推迟到2024年2月。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8075073.d.html</link>
+            <guid>3384854</guid>
+            <pubDate>Mon, 27 Nov 2023 15:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美、布两油短线一度上扬0.5美元，现有所回落，分别报75.67美元/桶和80.57美元/桶。]]></title>
+            <guid>3384852</guid>
+            <pubDate>Mon, 27 Nov 2023 15:54:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总理办公室：已经通知人质家属计划星期一释放人质。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7202703.d.html</link>
+            <guid>3384851</guid>
+            <pubDate>Mon, 27 Nov 2023 15:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极电光能商用尺寸钙钛矿组件全面积效率达18.2%，创行业最高纪录】 11月27日，经全球权威检测机构TÜV南德测试，极电光能1.2x0.6m²商用尺寸钙钛矿组件全面积效率达到18.2%。无论是全面积效率，还是孔径面积效率，这一数字都是当前商用尺寸钙钛矿组件效率的行业最高纪录。极电光能总裁于振瑞表示，相比同样装机容量的晶硅，钙钛矿在弱光和高温下发电效率更高。现实中多云、阴天、早晚等弱光环境很多，光伏电站工作时，电池板表面温度远高于标准的25度，经常达到六七十度，所以钙钛矿全年实际发电量比同样装机容量的晶硅平均高10%，这10%的发电量增益对于光伏电站来说，就提升了10%的收入。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7202304.d.html</link>
+            <guid>3384848</guid>
+            <pubDate>Mon, 27 Nov 2023 15:51:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚洪灾死亡人数上升至76人】受厄尔尼诺现象影响，近期，肯尼亚多地遭遇强降雨并引发洪水。当地时间27日，肯尼亚总统府发言人侯赛因·穆罕默德表示，持续降雨已导致该国约76人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5521817.d.html</link>
+            <guid>3384841</guid>
+            <pubDate>Mon, 27 Nov 2023 15:43:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：新框架产生的资产负债表肯定小于峰值。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5521038.d.html</link>
+            <guid>3384833</guid>
+            <pubDate>Mon, 27 Nov 2023 15:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲央行行长拉加德：央行首席经济学家连恩对资产负债表的意见非常 “明智”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8072495.d.html</link>
+            <guid>3384832</guid>
+            <pubDate>Mon, 27 Nov 2023 15:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[保加利亚财长：俄罗斯天然气工业股份公司反对保加利亚的天然气税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7200293.d.html</link>
+            <guid>3384831</guid>
+            <pubDate>Mon, 27 Nov 2023 15:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【海亮集团与华为签署战略合作协议】据华为消息，11月27日，海亮集团有限公司与华为技术有限公司在深圳华为坂田基地签署战略合作协议。双方将进一步深化合作模式和内容，就管理变革与数字化转型、先进制造业、智慧教育、生态农业、智慧医养、绿色能源等方面展开合作研究和应用实践。]]></title>
+            <guid>3384829</guid>
+            <pubDate>Mon, 27 Nov 2023 15:38:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国11月达拉斯联储商业活动指数为-19.9，预期为-16，前值为-19.2。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3976348.d.html</link>
+            <guid>3384826</guid>
+            <pubDate>Mon, 27 Nov 2023 15:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：乌克兰总统泽连斯基与沙特王储穆罕默德·本·萨勒曼通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5519223.d.html</link>
+            <guid>3384818</guid>
+            <pubDate>Mon, 27 Nov 2023 15:27:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高抵押贷款利率打压需求，美国新屋销售下滑】美国10月份新屋销售下降，此前该数据向下修正，原因是数十年来居高不下的抵押贷款利率打压了需求。尽管有所下降，但新房销售在过去一年总体上一直在上升。即便如此，在购买力危机的背景下，建筑商也不得不用价格和利率方面的激励措施来吸引一些买家。新房库存连续第三个月上升，达到1月份以来的最高水平。美国中西部地区的销售下降到近一年来的最低水平，西部地区也出现了下滑。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7198154.d.html</link>
+            <guid>3384816</guid>
+            <pubDate>Mon, 27 Nov 2023 15:26:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[科威特石油部门在社交媒体平台“X”上表示，科威特将遵守欧佩克的决定，特别是市场配额和石油产量。]]></title>
+            <guid>3384814</guid>
+            <pubDate>Mon, 27 Nov 2023 15:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【云南玉溪市澄江市发生3.0级地震，震源深度10公里】 中国地震台网正式测定：11月27日22时46分，在云南玉溪市澄江市（北纬24.67度，东经102.94度）发生3.0级地震，震源深度10公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3974972.d.html</link>
+            <guid>3384813</guid>
+            <pubDate>Mon, 27 Nov 2023 15:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚财长：内阁批准了10亿美元的优惠贷款，用于支持预算和改善外汇供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7196874.d.html</link>
+            <guid>3384806</guid>
+            <pubDate>Mon, 27 Nov 2023 15:19:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中集车辆：公司股票申请停牌，预计停牌不超过2个交易日】中集车辆公告，因本公司可能涉及香港收购、合并及股份回购守则及根据证券及期货条例（香港法例第571章）第XIVA部项下内幕消息条文及香港联合交易所有限公司证券上市规则第13.09(1)条下重大事项，公司股票于2023年11月28日（星期二）上午开市起停牌，预计停牌时间不超过2个交易日。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5517626.d.html</link>
+            <guid>3384803</guid>
+            <pubDate>Mon, 27 Nov 2023 15:17:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[纳斯达克100指数转涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5517494.d.html</link>
+            <guid>3384802</guid>
+            <pubDate>Mon, 27 Nov 2023 15:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【拉加德：欧洲央行可能很快会重新审查PEPP再投资计划】欧洲央行行长拉加德表示，欧洲央行官员可能很快会重新审查1.7万亿欧元（1.9万亿美元）的紧急抗疫购债计划（PEPP）投资组合，并重新考虑置换到期债券的所用时间。拉加德周一对欧洲议会议员说，我们之前表示，将继续再投资计划，至少到2024年。这个问题可能会在不久的将来由管委会讨论和考虑，我们可能会重新审查这个提议。虽然有几位官员表示，他们赞成讨论尽早开始缩减紧急抗疫购债计划（PEPP），但拉加德在这个问题上仍持谨慎态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8068543.d.html</link>
+            <guid>3384801</guid>
+            <pubDate>Mon, 27 Nov 2023 15:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【大众将节约成本，暗示公司将裁员】 大众汽车品牌主管Thomas Schafer表示，对大众而言，2024年将是艰难的一年，因为多个市场面临沉重的压力、且电动汽车订单不如预期。Schafer告诉工会代表们，如果按以往来看，如果不大幅削减（成本）就没有足够的资本来运作。关于这场沟通的内部文件显示，Schafer认为“我们将不得不处理包括人员在内的诸多至关重要的问题”。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3972705.d.html</link>
+            <guid>3384797</guid>
+            <pubDate>Mon, 27 Nov 2023 15:11:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【炬芯科技：子公司珠海熠芯拟出资150万元投资上海炬迪，拓展在汽车音频相关领域布局】为拓展公司在汽车音频相关领域的布局，进一步拓宽公司产品种类，提升公司综合竞争力和投资收益水平，公司全资子公司珠海熠芯拟与迪鼎瑞、迪威声、锐声泰共同出资400万元投资上海炬迪。其中珠海熠芯认缴出资150万元，占本次投资后上海炬迪注册资本的15%。]]></title>
             <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5515733.d.html</link>
@@ -67,269 +401,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7192926.d.html</link>
             <guid>3384776</guid>
             <pubDate>Mon, 27 Nov 2023 14:58:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列央行行长：考虑到经济的不确定性，现在降息还为时过早。]]></title>
-            <guid>3384774</guid>
-            <pubDate>Mon, 27 Nov 2023 14:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：11月27日22时46分在云南玉溪市澄江市（北纬24.67度，东经102.94度）发生3.0级地震，震源深度10千米。]]></title>
-            <guid>3384772</guid>
-            <pubDate>Mon, 27 Nov 2023 14:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Salesforce和亚马逊网络服务公司扩大合作】Salesforce和亚马逊网络服务公司（Amazon Web Services）扩大合作，Salesforce将在AWS Marketplace上提供部分产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8064155.d.html</link>
-            <guid>3384767</guid>
-            <pubDate>Mon, 27 Nov 2023 14:51:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天润乳业齐河工厂即将试生产】天润乳业消息，新疆天润乳业股份有限公司位于山东省德州市齐河县的天润齐源乳品有限公司，经过1年多紧张施工建设，终于建成，计划于2023年11月28日试生产，达产后可实现年产液态奶10.5万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3968292.d.html</link>
-            <guid>3384765</guid>
-            <pubDate>Mon, 27 Nov 2023 14:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网自动测定：11月27日22时46分在云南玉溪市澄江市附近（北纬24.61度，东经102.97度）发生3.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3384759</guid>
-            <pubDate>Mon, 27 Nov 2023 14:49:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【起始价逐次下调，江西银行8000万股权仍遭遇第3次流拍】虽然起始价逐次下调，江西银行8000万股权还是遭遇了第三次流拍。11月27日，阿里资产处置平台显示，赣州银行南昌分行对8000万股江西银行股权的公开挂拍竞价因无人出价而失败。本次挂拍竞价周期为1天，起始价约1.63亿元，折合每股价格约2.04元。这是赣州银行近期第三次拍卖江西银行8000万股。11月21日，赣州银行第一次挂拍竞价江西银行8000万股权结束，起始价约2.33亿元，折合每股价格约2.91元；11月23日，该股权第二次挂拍竞价结束，起始价1.86亿元，折合每股价格约2.33元。两次竞价周期均为1天，均因无人出价而竞价失败。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3965798.d.html</link>
-            <guid>3384751</guid>
-            <pubDate>Mon, 27 Nov 2023 14:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超华科技：控股股东、实控人之一梁俊丰所持3.51%公司股份被司法冻结】超华科技公告，公司控股股东、实际控制人之一梁俊丰所持3271.13万股公司股份（占公司总股份的3.51%）被司法冻结。目前，公司经营活动正常，公司控股股东股份被司法冻结事项未对上市公司生产经营、公司治理、公司控制权等产生重大影响，公司控股股东不存在需要履行业绩补偿义务的情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8060875.d.html</link>
-            <guid>3384750</guid>
-            <pubDate>Mon, 27 Nov 2023 14:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列央行行长：呼吁内塔尼亚胡政府出台负责任的财政框架】以色列央行行长Yaron表示，呼吁内塔尼亚胡政府出台“负责任的财政框架”；呼吁内塔尼亚胡政府在冲突期间调整预算；巴以冲突在中期乃至长期内影响到以色列的财政问题；巴以冲突对通胀路径的影响“仍然不明朗”；虽然有所回落，但以色列的风险溢价偏高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3964547.d.html</link>
-            <guid>3384747</guid>
-            <pubDate>Mon, 27 Nov 2023 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有应用市场无法下载斗鱼APP】据记者11月27日晚实测，在华为应用商店，斗鱼APP状态无法下载，显示原因为“由于开发者原因，暂不提供下载”。在小米应用商店，斗鱼APP也显示“维护中”。在苹果应用商店、腾讯应用宝、OPPO应用市场，斗鱼APP尚能正常下载。记者就上述事项向斗鱼求证，截至发稿未获回复。(e公司)]]></title>
-            <guid>3384744</guid>
-            <pubDate>Mon, 27 Nov 2023 14:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机构：美国“剁手星期一”在线销售额将再创新高 突破120亿美元】分析公司Adobe Analytics预计，美国购物者将把“剁手星期一”的在线销售额推高至创纪录的120亿美元至124亿美元。今年的“黑色星期五”是11月24日，即感恩节之后的第一天，通常标志着圣诞采购季节的正式开始。而“剁手星期一”是感恩节之后的第一个星期一（11月27日），通常是美国最火爆的网购日。按照120亿美元至124亿美元的中间值计算，今年“剁手星期一”的在线销售额同比将增长近8%，高于Adobe Analytics之前预期的6.1%。这在一定程度上缓解了人们之前对今年假日购物季可能低迷的担忧。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3963925.d.html</link>
-            <guid>3384743</guid>
-            <pubDate>Mon, 27 Nov 2023 14:30:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲律宾南部发生爆炸事件 致2人死亡】据菲律宾媒体报道，11月27日，菲律宾南部巴西兰省发生一起路边炸弹爆炸事件，导致2人死亡、1人受伤。据称，死亡人员为菲律宾民兵组织的成员。他们是在随同军方人员外出核实当地是否有武装人员存在的时候遭遇路边炸弹的。该炸弹是用手机进行远程引爆。当地官员表示，爆炸可能是由当地恐怖组织实施的。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3962957.d.html</link>
-            <guid>3384739</guid>
-            <pubDate>Mon, 27 Nov 2023 14:25:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特斯拉(TSLA.O)起诉瑞典政府及该国邮政服务。此前罢工潮蔓延至邮政部门，工会已经阻止承担特斯拉车牌的投递。]]></title>
-            <guid>3384738</guid>
-            <pubDate>Mon, 27 Nov 2023 14:25:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[赛富时与亚马逊网站服务（AWS）深化合作伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3961832.d.html</link>
-            <guid>3384733</guid>
-            <pubDate>Mon, 27 Nov 2023 14:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首张完整覆盖国土全境的高轨卫星互联网初步建成】记者从中国航天科技集团获悉，该集团所属中国卫通集团已初步建成我国首张高轨卫星互联网，预计到“十四五”末期，高通量卫星总容量将超过500Gbps。据悉，近年来中星16号、中星19号和中星26号高通量卫星相继成功发射，首张完整覆盖我国国土全境的高轨卫星互联网初步建成。未来中国卫通将推动更大单星容量卫星建设。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8056014.d.html</link>
-            <guid>3384725</guid>
-            <pubDate>Mon, 27 Nov 2023 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【融创中国：杭州西奥同意受让浙江启隆15.625%股权及债权】融创中国发布公告，为了厘清及解决上海亚龙项目现有债务问题以满足华融借款的合作前提条件，于2023年11月27日，上海颢轩、上海融创、杭州西奥订立协议，杭州西奥同意通过重组安排受让浙江启隆（间接持有上海亚龙项目）的15.625%股权及债权，代价约为人民币25亿元，其中约人民币24亿元将由现有债权债务进行冲抵，剩余约人民币1亿元将由杭州西奥代上海颢轩偿还欠付新湖中宝的债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3959892.d.html</link>
-            <guid>3384724</guid>
-            <pubDate>Mon, 27 Nov 2023 14:12:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Lilium盘前涨4.48% 米其林为其车定制轮胎】Lilium(LILM.US)美股盘前涨4.48%，报0.919美元。据米其林中国消息，近日，全电动垂直起降飞行汽车(eVTOL)开发商Lilium宣布与米其林就轮胎研发和生产达成合作。第一批轮胎预计本月交付至Lilium工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3959767.d.html</link>
-            <guid>3384723</guid>
-            <pubDate>Mon, 27 Nov 2023 14:11:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯就以色列与哈马斯临时停火发表声明，呼吁实现全面人道主义停火】当地时间11月27日，联合国秘书长古特雷斯通过发言人，就以色列与哈马斯临时停火发表声明。声明称，在停火的这四天里，联合国扩大了人道主义援助进入加沙地带的规模，并向北部一些地区运送了援助物资。但与170万流离失所者的巨大需求相比，这笔援助几乎不值一提。加沙地带的人道主义灾难日益严重。古特雷斯表示，为了加沙人民、以色列和更广大地区的利益，必须继续进行促成协议的对话，以实现全面人道主义停火。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7181852.d.html</link>
-            <guid>3384720</guid>
-            <pubDate>Mon, 27 Nov 2023 14:09:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【何立峰会见英中贸易协会主席古沛勤】中共中央政治局委员、国务院副总理何立峰27日晚在人民大会堂会见来华参加首届中国国际供应链促进博览会的英中贸易协会主席古沛勤爵士一行，双方就中英经贸合作、产业链供应链国际合作等议题交换了意见。何立峰表示，中国坚持敞开大门搞建设，坚定不移推进高水平对外开放。希望英中贸协继续发挥优势，深化两国经贸交流合作。英中贸协是英国政府和工商界共同资助的对华贸易促进机构，汇丰、渣打、阿斯利康等会员企业负责人参加会见。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkp3958332.d.html</link>
-            <guid>3384716</guid>
-            <pubDate>Mon, 27 Nov 2023 14:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部：伊方履行了伊核问题全面协议下的承诺】当地时间27日，伊朗外交部发言人卡纳尼在例行记者会上表示，伊朗履行了伊核问题全面协议及联合国安理会第2231号决议规定的义务。卡纳尼重申，伊朗的核活动，特别是铀浓缩活动是和平的，是在《不扩散核武器条约》的框架下进行的，并强调伊朗与国际原子能机构的合作不会受到影响，将根据双方签署的协议继续进行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7181119.d.html</link>
-            <guid>3384715</guid>
-            <pubDate>Mon, 27 Nov 2023 14:06:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳：鼓励开展智能网联试点示范及商业运营】深圳市八部门联合发布《深圳市促进新能源汽车和智能网联汽车产业高质量发展的若干措施》。其中提出，鼓励开展智能网联试点示范及商业运营。加快建设功能齐全、特色突出的智能网联交通测试场，打造智能网联汽车与智能交通全面融合的测试环境，支持企业参与智能网联交通测试场测试。有序开放街区、道路、机场、港口等作为智能网联车辆示范及商业化应用场景，鼓励在场景内开展自动驾驶出租车、短途接驳、清扫车、物流运输等形式的应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkm7179734.d.html</link>
-            <guid>3384701</guid>
-            <pubDate>Mon, 27 Nov 2023 14:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上交所向超卓航科下发监管工作函，涉及对象为上市公司，控股股东及实际控制人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkk5501147.d.html</link>
-            <guid>3384699</guid>
-            <pubDate>Mon, 27 Nov 2023 13:58:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华润置地回应39亿转让沈阳公司股权：系发行商业类REITS前置举措之一】今日北京产权交易所披露，华润置地拟以39.15亿元的价格转让华润置地（沈阳）有限公司转让其100%股权事宜后，引发市场广泛关注。对此，华润置地方面回复记者称，沈阳铁西万象汇作为华润置地精选的标杆商业项目之一，将作为商业类REITS发行，华润置地（沈阳）有限公司只是铁西万象汇的项目公司，其100%股权挂牌转让是作为项目发行商业类REITS的前置举措之一。“华润置地计划于2023年12月在深圳证券交易所申请发行华润沈阳铁西万象汇资产证券化产品，根据国资要求，华润置地已于2023年11月在北京产权交易所进行披露。”另据了解，国家证监会今日刚刚批准了首批消费基础设施REITs， 其中华润置地青岛万象城商业REIT正式获批。“类Reits是华润置地响应国家建立多层次Reits市场的重要举措之一，未来将会和公募Reits建立有效衔接，共同支持华润置地大资管战略的实现，本次选择沈阳铁西商业项目开展类Reits,也体现了华润置地对沈阳商业环境的认可和长期看好。”华润置地方面称。（蓝鲸财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwarkq8052432.d.html</link>
-            <guid>3384697</guid>
-            <pubDate>Mon, 27 Nov 2023 13:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全球血液领域创新型医学全息组学联合实验室落成】近日，华大集团董事长汪建与中国医学科学院血液病医院（中国医学科学院血液学研究所）所院长、细胞生态海河实验室常务副主任程涛及天津滨海高新区管委会副主任韩林在津签署合作协议，共建全球血液领域创新型医学全息组学联合实验室。该实验室以建设高水平的血液疾病研诊疗标杆为目标，将构建具有全球示范作用的血液肿瘤研究队列和多组学数据中心，建立细胞生态研究和应用体系，使海河实验室成为血液肿瘤转化应用领军示范机构，打造国际血液肿瘤研究和诊疗高地。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamap7308658.d.html</link>
-            <guid>3384693</guid>
-            <pubDate>Mon, 27 Nov 2023 13:52:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德国财政部：内阁通过2023年补充预算草案。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamap7307927.d.html</link>
-            <guid>3384692</guid>
-            <pubDate>Mon, 27 Nov 2023 13:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【融创中国：上海颢轩、上海融创、杭州西奥订立协议】融创中国：上海颢轩、上海融创、杭州西奥订立协议，杭州西奥同意通过重组安排受让浙江启隆（间接持有上海亚龙项目）的15.625%股权及债权，代价约为人民币25亿元，其中约人民币24亿元将由现有债权债务进行冲抵，剩余约人民币1亿元将由杭州西奥代上海颢轩偿还欠付新湖中宝的债务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8180822.d.html</link>
-            <guid>3384690</guid>
-            <pubDate>Mon, 27 Nov 2023 13:46:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【格灵深瞳：公司体育产品已经有产品开始交付 预计明年销量会逐渐增加】格灵深瞳接受调研时表示，公司体育产品今年刚推出，已经有产品开始交付，同时也在跟进潜在订单机会，预计明年销量会逐渐增加。在学校考试应用方面，我们的产品已在北京市某区的中考中全面使用，显著改善了考试管理流程，降低了学生及家长的投诉率，提升考试的公平性和科学性，获得了学校和考试组织者对产品的认可。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamar4083192.d.html</link>
-            <guid>3384688</guid>
-            <pubDate>Mon, 27 Nov 2023 13:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【仕佳光子：800G用AWG等无源光组件产品已量产】仕佳光子接受调研时表示，800G用AWG 等无源光组件产品主要应用于大型数据中心、互联网企业。目前，800G用AWG等无源光组件产品已量产。公司客户合作的具体情况，敬请以公司公开披露的定期报告、临时性公告为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8178831.d.html</link>
-            <guid>3384685</guid>
-            <pubDate>Mon, 27 Nov 2023 13:39:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川：加快调整完善房地产市场过热时的行政管控措施】四川省人民政府办公厅转发省发展改革委《关于恢复和扩大消费若干措施》的通知。其中提出，加大住房供给保障。扩大保障性租赁住房供给，力争“十四五”期间筹集30万套（间），着力解决新市民、青年人等群体住房困难。因城施策用好政策工具箱，加快调整完善市场过热时的行政管控措施，鼓励各地结合实际对新市民、引进人才给予购房补贴。实施差别化住房信贷政策，引导个人住房贷款利率和首付比例下行，落实个人住房贷款“认房不认贷”政策，依法有序调整存量个人贷款利率。支持各地结合实际提高公积金贷款额度，持续推进灵活就业人员参与公积金制度试点，有序开展二手房“带押过户”公积金贷款业务。积极培育发展住房租赁市场。大力实施老旧小区改造，稳步推进成都等城市城中村改造。加强农村低收入群体等重点对象住房安全保障，继续实施农村危房改造和7度及以上设防地区农房抗震改造。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamar4080970.d.html</link>
-            <guid>3384684</guid>
-            <pubDate>Mon, 27 Nov 2023 13:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[康迪科技美股盘前涨14%，此前该公司表示计划回购至多3,000万美元股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwaman5625957.d.html</link>
-            <guid>3384683</guid>
-            <pubDate>Mon, 27 Nov 2023 13:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中化西南院清洁能源催化材料产业化基地顺利投产】据中国中化消息，近日，中国中化旗下昊华西南院下属西南化工（眉山）有限公司清洁能源催化材料产业化基地项目顺利投产，正式进入生产阶段。西南院眉山项目基地共建设七条生产线，年产各类催化剂约5000吨，是目前国内规模及自动化程度领先的催化剂生产基地。(界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8177126.d.html</link>
-            <guid>3384682</guid>
-            <pubDate>Mon, 27 Nov 2023 13:32:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川：扩大新能源汽车消费，支持开展新能源汽车“天府行”“五进”等促销活动】四川省人民政府办公厅转发省发展改革委《关于恢复和扩大消费若干措施》的通知。其中提出，扩大新能源汽车消费。支持开展新能源汽车“天府行”“五进”等促销活动，加快公共领域全面电动化进程，加大机关公务、公交、出租、环卫、物流配送等公共领域新能源汽车推广使用力度，探索重点行业大宗货物运输新能源货车应用场景。落实新能源汽车车辆购置税减免政策。推动居住区内公共充换电设施用电执行居民电价，研究对执行工商业电价的充换电设施用电执行峰谷分时电价政策，全面推行充电桩单独装表入户。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamar4079460.d.html</link>
-            <guid>3384680</guid>
-            <pubDate>Mon, 27 Nov 2023 13:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【申菱环境：公司液冷产品有应用于超充系统】申菱环境在互动平台表示，公司液冷产品有应用于超充系统。公司液冷产品服务众多客户。但由于与客户保密协议中有限制宣传条款约束，无法进一步披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamar4078927.d.html</link>
-            <guid>3384678</guid>
-            <pubDate>Mon, 27 Nov 2023 13:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【我国首张高轨卫星互联网初步建成】近日从航天科技集团了解到，首张完整覆盖我国国土全境及“一带一路”共建国家沿线重点区域的高轨卫星互联网初步建成。近年来，随着中星16号、中星19号和中星26号高通量通信卫星相继成功发射，中国航天科技集团有限公司中国卫通已初步建成首张完整覆盖我国国土全境及“一带一路”共建国家沿线重点区域的高轨卫星互联网。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8175314.d.html</link>
-            <guid>3384677</guid>
-            <pubDate>Mon, 27 Nov 2023 13:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长春高新：部分董事、监事、高管增持公司股份】长春高新公告，公司董事长马骥，董事、总经理姜云涛，董事、常务副总经理叶朋，董事、副总经理王志刚等部分董事、监事、高管于11月27日通过集中竞价交易方式增持了公司股份。其中，公司董事长马骥增持公司1.26万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamap7299172.d.html</link>
-            <guid>3384676</guid>
-            <pubDate>Mon, 27 Nov 2023 13:18:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【戴尔回应“供应链将撤离中国”等传闻：均系谣言】从今年初开始，市场上陆续流传出“戴尔供应链将撤离中国”，戴尔搞“‘去中化’并已经制定了在国内逐年减产和减量采购国产芯片及零部件的计划”，后来甚至一度传出“戴尔要完全退出中国”等消息。戴尔全球资深副总裁吴冬梅则表示，“我们从未发布过任何上述所谓‘信息’或‘评论’。戴尔在全球范围内的行为准则就是不对‘谣言’进行评论。这是我们一贯的立场。但遗憾的是这种态度被错误和片面地解读成‘不评论即是确认’，甚至有人捏造‘相关消息来自戴尔官方’。可以明确地告诉你，这些传闻绝对是‘谣言’！”（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamap7298797.d.html</link>
-            <guid>3384675</guid>
-            <pubDate>Mon, 27 Nov 2023 13:16:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国政府与医疗工会达成协议 或结束主任医生罢工 】英国政府表示，已与医疗工会达成协议，这可能结束主任医师的罢工行动。英国卫生和社会保障部表示，该提议将从明年1月起改革主任医师的薪酬结构，减少薪酬等级的数量，缩短晋升至最高职位所需的时间。政府表示，英国医学会和医院医师协会（HCSA）工会将在未来几周内将这一提议提交给其成员进行投票，在此期间不会再有罢工行动。HCSA表示，尽管将对该提议进行投票，但对一些细节感到担忧，但不会就其成员是否应该接受这一提议采取正式立场。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8172682.d.html</link>
-            <guid>3384674</guid>
-            <pubDate>Mon, 27 Nov 2023 13:13:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【文科园林：股东泽广投资拟减持不超1%公司股份】文科园林公告，股东深圳市泽广投资有限公司拟减持不超1%公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8172608.d.html</link>
-            <guid>3384673</guid>
-            <pubDate>Mon, 27 Nov 2023 13:13:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【南方航空副董事长韩文胜：国际航班已恢复至2019年同期六成以上】11月27日下午，南方航空召开2023年第三季度业绩说明会。南方航空副董事长、总经理韩文胜表示，公司加快构建成本经营责任体系，提升了包括辅助收入在内的各项收入水平，重点提升了结构性、源头性成本管理效能。当下正值冬春新航季，韩文胜表示，南方航空的国际航班持续稳步恢复，新航季后已恢复至2019年同期六成以上，其中中西亚、中东、欧洲和澳新航线恢复较快。（每日经济新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwaman5620505.d.html</link>
-            <guid>3384671</guid>
-            <pubDate>Mon, 27 Nov 2023 13:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【两部门组织申报2023年中央财政支持普惠托育服务发展示范项目】财政部、国家卫生健康委发布关于组织申报2023年中央财政支持普惠托育服务发展示范项目。项目主要聚焦三个目标：一是围绕方便可及，扩大托育服务供给，缓解群众“入托难”问题。充分发挥市场在托育服务资源配置中的决定性作用，采取多种方式鼓励和支持社会力量提供普惠托育服务；拓展社区托育服务功能，完善社区婴幼儿活动场所和服务设施；推动有条件的用人单位、产业园区、商业楼宇等提供托育服务。二是围绕价格可承受，降低托育服务费用，减轻群众“入托贵”负担。落实托育服务发展税费优惠政策；盘活社区、单位、相关机构现有场地等存量资源，有效降低托育机构运营成本和服务价格；加大对农村和脱贫地区托育服务的支持。三是围绕质量有保障，提升托育安全水平，增强群众“托得好”信心。依托互联网、移动客户端等渠道，提升数字化托育服务水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamap7296994.d.html</link>
-            <guid>3384670</guid>
-            <pubDate>Mon, 27 Nov 2023 13:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超卓航科：拟使用1.25亿元收购鹏华科技100%股权】 超卓航科公告，拟使用自有资金或自筹资金人民币12,500万元收购成都鹏华科技有限公司100%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamar4073675.d.html</link>
-            <guid>3384668</guid>
-            <pubDate>Mon, 27 Nov 2023 13:07:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【长安汽车拟投资华为新设汽车智能系统公司 10家上市公司密集回应与长安供货或合作具体事宜】长安汽车昨日公告与华为签署《投资合作备忘录》并将智能汽车解决方案业务的核心技术和资源整合至新公司，今日全天一字涨停。长安汽车集团为第一大股东的东安动力收盘三连板，长安汽车集团同样为第一大股东的湖南天雁三天两板，主营汽车用橡胶软管供货长安的三祥科技30cm涨停、主营电子元器件分销供货长安的英唐智控20CM涨停。据不完全统计，截至发稿，包括金禄电子、溯联股份、金固股份、双林股份、川环科技、广汇汽车、亚太股份、德赛西威、三联锻造和光庭信息在内的累计10家上市公司近两个交易日回复与长安汽车供货或合作具体情况。其中，金禄电子称，公司PCB有应用于智能驾驶的域控制器领域，最终可应用于长安汽车的深蓝、阿维塔等车型。光庭信息表示，目前主要为长安汽车提供智能座舱软件开发和智能网联汽车测试服务业务等。]]></title>
-            <guid>3384667</guid>
-            <pubDate>Mon, 27 Nov 2023 13:07:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外交部：伊朗致力于延长巴以临时停火协议 结束冲突】当地时间27日，伊朗外交部发言人卡纳尼在例行记者会上表示，伊朗致力于延长巴以临时停火协议，结束冲突。卡纳尼表示，自巴勒斯坦伊斯兰抵抗运动（哈马斯）和以色列达成临时停火协议以来，伊朗积极展开外交努力，寻求延长停火协议。伊朗希望本轮巴以大规模冲突结束，伊朗总统、外长与各国政府及联合国官员进行了对话和磋商，这些会谈和磋商将持续进行。对于近期地区抵抗组织袭击美军基地，卡纳尼坚决否认伊朗参与其中，并指责美国在中东的军事存在威胁地区和平与稳定。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwamas8169388.d.html</link>
-            <guid>3384664</guid>
-            <pubDate>Mon, 27 Nov 2023 13:00:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国41个州联合起诉Meta 指控其违规收集儿童信息】据CNN27日报道，来自美国41个州的总检察长联合起诉社交媒体巨头Meta公司，指控其非法收集儿童账户信息，并坚持采用伤害未成年人精神健康的算法。根据最新公布的法庭文件，至少从2019年开始，Meta就故意拒绝关闭13岁以下儿童的大部分账户，同时在未经父母同意的情况下收集他们的个人信息。此外，Meta明知其算法损害未成年人心理健康，但拒绝更改其算法，表示这会触发年轻用户间歇性释放多巴胺，导致其在平台上的上瘾性消费循环。该公司还被指控淡化了平台上错误信息、仇恨言论、歧视和其他有害内容的发生率。这项起诉要求法院下令禁止Meta从事上述违法行为。Meta旗下拥有脸书和照片墙两大社交平台，涉及数百万青少年和儿童用户，因此民事处罚可能高达数亿美元。大多数州对每次违规行为处以1000美元至5万美元的罚款。]]></title>
-            <guid>3384661</guid>
-            <pubDate>Mon, 27 Nov 2023 12:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代今日大宗交易成交41万股，成交额6998.7万元】11月27日，宁德时代今日大宗交易成交41万股，成交额6998.7万元，占当日总成交额的2.17%，成交价170.7元，较市场收盘价持平。(界面)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwaman5616856.d.html</link>
-            <guid>3384660</guid>
-            <pubDate>Mon, 27 Nov 2023 12:55:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通银行首次入选全球系统重要性银行名单】11月27日，金融稳定理事会（FSB）发布2023年全球系统重要性银行名单，交通银行正式入选。据了解，全球系统重要性银行规模大，业务复杂性高，与其他金融机构关联性强，在金融体系中提供关键服务，其稳健经营关系到金融体系的整体稳定。(上海证券报)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-27/detail-imzwaman5616424.d.html</link>
-            <guid>3384659</guid>
-            <pubDate>Mon, 27 Nov 2023 12:54:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
