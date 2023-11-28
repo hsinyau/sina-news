@@ -4,11 +4,315 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 28 Nov 2023 18:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 21:03:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：伯克希尔哈撒韦称芒格已经去世。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5974250.d.html</link>
+            <guid>3386881</guid>
+            <pubDate>Tue, 28 Nov 2023 21:02:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：上调博通评级至BBB，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5973679.d.html</link>
+            <guid>3386879</guid>
+            <pubDate>Tue, 28 Nov 2023 20:56:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥东南部发生4.5级地震】当地时间11月28日，根据墨西哥国家地震监测局（SSN）的信息，当日中午12时34分26秒，在墨西哥东南部的恰帕斯州（Chiapas）的玛帕斯特佩克市（Mapastepec）东南方向约9公里处发生4.5级地震，震源深度约110公里。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5971878.d.html</link>
+            <guid>3386875</guid>
+            <pubDate>Tue, 28 Nov 2023 20:45:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄农业部长：2023年俄罗斯大米总产量增长24% 达到110万吨以上】俄罗斯农业部长德米特里 帕特鲁舍夫在俄罗斯政府协调中心举行的行动指挥部会议上表示，俄罗斯在2023年收获了110多万吨大米，比上一年增加了近四分之一。帕特鲁舍夫表示，稻米总产量超过110万吨，比2022年的指数增长24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5971834.d.html</link>
+            <guid>3386874</guid>
+            <pubDate>Tue, 28 Nov 2023 20:45:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛计划最早于2024年在日本推出投资于私人信贷和其他非公开交易资产的新基金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2748331.d.html</link>
+            <guid>3386873</guid>
+            <pubDate>Tue, 28 Nov 2023 20:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国会众议院议长约翰逊预计将于周三（11月29日）会见参议院共和党人。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfh6756374.d.html</link>
+            <guid>3386872</guid>
+            <pubDate>Tue, 28 Nov 2023 20:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：加拿大中期财政挑战将增加。秋季经济报告对加拿大2023/24财年联邦预算前景无重大直接影响。加拿大通胀率有所下降，但仍处于高位，经济增长乏力，就业市场面临一些挑战。]]></title>
+            <guid>3386871</guid>
+            <pubDate>Tue, 28 Nov 2023 20:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[软件服务提供商Salesforce(CRM.N)：美国“网络购物周”在线销售额达到了708亿美元，去年为680亿美元。全球在线销售额达到了2,980亿美元，同比增长6%。]]></title>
+            <guid>3386870</guid>
+            <pubDate>Tue, 28 Nov 2023 20:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列释放30名巴勒斯坦被扣押人员】综合半岛电视台、巴勒斯坦《圣城报》和《以色列时报》消息，当地时间11月28日晚，以色列方面释放了第五批总计30名巴勒斯坦被扣押人员，其中包括15名妇女和15名未成年人。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2745845.d.html</link>
+            <guid>3386869</guid>
+            <pubDate>Tue, 28 Nov 2023 20:28:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰基辅拉响防空警报】 当地时间11月28日，乌克兰基辅拉响防空警报。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2745532.d.html</link>
+            <guid>3386868</guid>
+            <pubDate>Tue, 28 Nov 2023 20:27:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coinbase(COIN.O)：狗狗币交易延迟问题已解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2744999.d.html</link>
+            <guid>3386866</guid>
+            <pubDate>Tue, 28 Nov 2023 20:24:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及总统同突尼斯总统通电话 讨论巴以问题】据央视新闻，当地时间11月28日，埃及总统塞西同突尼斯总统赛义德通电话。双方强调了实现加沙地带停火的必要性，一致同意必须采取紧急行动、通过一切途径为加沙地带民众提供救助，并致力于实现巴勒斯坦问题的全面公正解决。双方还就加强双边关系等问题进行了讨论。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2744813.d.html</link>
+            <guid>3386865</guid>
+            <pubDate>Tue, 28 Nov 2023 20:23:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄农业部长： 俄罗斯2023年收获160万吨荞麦】俄罗斯农业部长在会议上表示，俄罗斯2023年收获了160万吨荞麦，这是史上最高产量之一。根据俄罗斯国家统计局的数据，2022年收获了122.2万吨荞麦。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5966897.d.html</link>
+            <guid>3386864</guid>
+            <pubDate>Tue, 28 Nov 2023 20:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[COMEX 2月黄金期货结算价收涨1.34%，报2060.2美元/盎司。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfh6753726.d.html</link>
+            <guid>3386863</guid>
+            <pubDate>Tue, 28 Nov 2023 20:19:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟本周正式向成员国递交了三个选项，以应对“后英国脱欧时期”的电动汽车关税。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfh6753713.d.html</link>
+            <guid>3386862</guid>
+            <pubDate>Tue, 28 Nov 2023 20:19:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国家电网将向家庭付钱，以换取消费者“节约用电”】 英国国家电网将于11月29日夜间向英国家庭付钱，以鼓励他们在天气寒冷、风速慢风力小造成风电供应紧张之际减少用电。英国电网将于当地时间17:00-18:30激活所谓的“需求灵活性服务”（DFS），这将是英国电网在当前取暖季首次向消费者付钱。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5966158.d.html</link>
+            <guid>3386861</guid>
+            <pubDate>Tue, 28 Nov 2023 20:15:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【芝加哥小麦期货涨约2.2%，大豆油期货涨超3.9%】 周二（11月28日）纽约尾盘，谷物分类指数涨1.09%，报40.2323点。CBOT玉米期货跌0.32%，报4.73-3/4美元/蒲式耳。CBOT小麦期货涨2.18%，报5.73-1/4美元/蒲式耳。CBOT大豆期货涨1.30%，报13.47美元/蒲式耳，豆粕期货跌1.21%，豆油期货涨3.94%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfh6753235.d.html</link>
+            <guid>3386860</guid>
+            <pubDate>Tue, 28 Nov 2023 20:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：API和ChatGPT错误增加的问题已得到解决。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5964555.d.html</link>
+            <guid>3386859</guid>
+            <pubDate>Tue, 28 Nov 2023 20:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列监狱管理局：作为停火协议的一部分，已释放30名巴勒斯坦囚犯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2741578.d.html</link>
+            <guid>3386858</guid>
+            <pubDate>Tue, 28 Nov 2023 20:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[现货白银一度站上25美元/盎司，为8月30日以来首次。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5963472.d.html</link>
+            <guid>3386857</guid>
+            <pubDate>Tue, 28 Nov 2023 20:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：已经实施了修复措施，正在监测结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2739914.d.html</link>
+            <guid>3386855</guid>
+            <pubDate>Tue, 28 Nov 2023 20:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI：正在调查API和ChatGPT错误增加的情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfa4199255.d.html</link>
+            <guid>3386851</guid>
+            <pubDate>Tue, 28 Nov 2023 19:55:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【亚马逊推出一款人工智能聊天机器人】亚马逊AWS CEO Adam Selipsky发布了一款名为“Q”的聊天机器人，专门供人们在工作中使用，并且可以根据客户的业务进行定制。新闻稿称，用户可以使用Q在AWS上构建应用程序、研究最佳实例、解决错误以及获得编写新功能的帮助。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2737845.d.html</link>
+            <guid>3386850</guid>
+            <pubDate>Tue, 28 Nov 2023 19:50:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【数商企业数大幅增长 今年数据服务相关企业新注册量超50万家】近日，2023全球数商大会在上海举办，一批国际数据产品集中挂牌，促进各行各业的数据大量交易。数商就是从事数据商业挖掘的各类商业主体。上海某数商企业负责人表示，目前公司注册用户已经达到几千万，数据业务增长迅速，未来年复合增长率有望超过20%。而从行业来看，2020年以来，我国数据服务相关企业新注册量逐年增加。数据显示，2021年新注册量33万家，同比增加126.5%，2022年新注册量42万家，今年截至11月23日，新注册量达到50.5万家。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2737781.d.html</link>
+            <guid>3386849</guid>
+            <pubDate>Tue, 28 Nov 2023 19:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北交所市场持续火热，机构建议谨慎投资】 近段时间以来，北交所市场交投持续活跃，北证50指数近一月涨逾39%，市场成交额屡创新高。业内专家指出，近期北交所市场持续火爆，是政策支持、资金流入、估值优势和市场活跃度提高等多种因素共同作用所致。随着后续改革举措陆续落地，北交所行情有望延续。但与此同时，投资者仍需关注市场风险，谨慎投资。北交所方面也在积极加强交易监管。11月20日至11月24日，北交所对涉及盘中拉抬打压、以涨停价格大额申报或连续申报等异常交易行为，共采取口头警示、监管关注、出具警示函等自律监管措施93人次。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5960557.d.html</link>
+            <guid>3386848</guid>
+            <pubDate>Tue, 28 Nov 2023 19:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[土耳其外交部长：正在努力推动批准瑞典加入北约，并给出了“可能需要几周”的时间表。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfa4197596.d.html</link>
+            <guid>3386847</guid>
+            <pubDate>Tue, 28 Nov 2023 19:41:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大矿业公司第一量子：公司正在评估巴拿马最高法院针对Cobre Panama的判决结果（驳回了批准与第一量子矿业签订一项铜矿合同的法律）。公司保留所有当地和国际法律的权益。由于当地道路被封锁的缘故，Cobre Panama矿场的生产活动仍然暂停。]]></title>
+            <guid>3386846</guid>
+            <pubDate>Tue, 28 Nov 2023 19:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称第五批获释的被扣押人员已进入以色列境内】据央视新闻，当地时间11月28日晚，以色列国防军在其官方社交媒体上发表声明称，哈马斯方面于当晚释放的第五批被扣押人员已经进入以色列境内，其中包括10名以色列被扣押人员和2名外籍被扣押人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5957040.d.html</link>
+            <guid>3386836</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：通胀预期上升的不确定性并非通胀预期脱轨的迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfc5956992.d.html</link>
+            <guid>3386834</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：长期通胀预期一直非常稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2734146.d.html</link>
+            <guid>3386833</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：美联储已经表明，将坚决致力于使通胀回落到2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmff2734128.d.html</link>
+            <guid>3386832</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储威廉姆斯：看到通胀压力下降，令人鼓舞。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfmfa4196418.d.html</link>
+            <guid>3386831</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华尔街大行争抢AI精英，高盛的人才净流失量居各行之首】 几个月来银行业一直在努力招揽最优秀的人工智能（AI）精英，而高盛在这场人才争夺战中总是输家。据咨询公司Evident的数据，截至9月末的12个月，已经有净60位AI方面的人才从高盛跳槽，转投摩根士丹利和花旗。这个流失量超过了其他所有主要竞争对手，流失第二大的是美国银行，AI人才走了55个；富国银行净增130人，增量为各银行之首。“银行不仅仅是雇用人员，而且要培养和留住他们，” Evident的首席执行官Alexandra Mousavizadeh表示。“这些人才还有很多其他地方可以去。”数据、分析和AI岗位可能是所有公司中薪酬最高的。据猎头公司Heidrick & Struggles的报告，去年在美国这类职位的薪酬中位数为90.1万美元，在欧洲是67.6万美元。在高盛，有106名员工跳槽到竞争对手那里，相比高盛全球近4.6万的员工总数，这个比例其实很小。而且该行一直在通过招聘和投资来引顶尖的AI人才。今年早些时候，Bing Xiang从亚马逊加入高盛，担任董事总经理兼AI研究主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6087713.d.html</link>
+            <guid>3386830</guid>
+            <pubDate>Tue, 28 Nov 2023 19:31:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中小企业踊跃申报IPO，北交所严把入口关确保高质量】 数据显示，9月以来，北交所新增受理上市申报企业27家。从排队企业来看，截至11月28日，共有106家企业处于发行上市审核阶段，包括7家已获受理、70家已被问询、21家中止以及3家通过上市委会议、5家提交注册。北交所高质量扩容与提高公司质量密切相关，面对热情申报的企业，北交所依旧在“质优、量适、步稳”的原则上严格审核把关，针对中小企业的特性，在公司创新性、财务数据真实性、公司治理等进行全方位、多角度问询，保证了北交所上市企业规范、真实、透明。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexi2863669.d.html</link>
+            <guid>3386823</guid>
+            <pubDate>Tue, 28 Nov 2023 19:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防部称美国已暂停加沙地带上空的无人机飞行】据央视新闻，当地时间11月28日，美国国防部发言人表示，在以色列和巴勒斯坦伊斯兰抵抗运动（哈马斯）休战期间，美国已暂停在加沙地带上空的无人机飞行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexe4326365.d.html</link>
+            <guid>3386821</guid>
+            <pubDate>Tue, 28 Nov 2023 19:24:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国总理：德国能源危机“绝对还没有结束”】据央视新闻，当地时间11月28日，德国总理朔尔茨在联邦议院发表演讲时表示，德国的能源危机“绝对还没有结束”。他说，高油价仍然给德国经济带来压力，由于高昂的天然气价格，德国的能源危机仍然严峻。不过，朔尔茨强调，目前德国天然气储存充足，预计今年冬天不会出现价格的进一步飙升。而且虽然能源价格仍高于俄乌冲突前的水平，但大多低于德国政府设定的价格上限。预计德国明年将逐步取消能源补贴。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexk6877791.d.html</link>
+            <guid>3386820</guid>
+            <pubDate>Tue, 28 Nov 2023 19:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首只沙特阿拉伯ETF在港交所上市】 11月29日，南方东英沙特阿拉伯ETF将在香港交易所正式上市。作为港股市场首只沙特阿拉伯ETF，该基金上市后，有助于投资者参与沙特阿拉伯市场的投资机会。在业内人士看来，南方东英沙特阿拉伯ETF的推出，意味着中国资产管理机构正在积极“走出去”，布局中东市场的投资机会。在业内人士看来，目前，中东主权基金只有小部分资金投资亚洲市场，主要是中国市场，未来投向中国市场的资金有望大幅增长。港交所行政总裁欧冠升今年6月曾表示，预计到2030年，中东主权财富基金规模将从目前的4万亿美元增长150%至10万亿美元。届时其中将有超过10%至20%的资金投向中国市场。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6086159.d.html</link>
+            <guid>3386819</guid>
+            <pubDate>Tue, 28 Nov 2023 19:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货日内跌超3.00%，现报2.857美元/百万英热。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexk6877514.d.html</link>
+            <guid>3386815</guid>
+            <pubDate>Tue, 28 Nov 2023 19:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受恶劣天气影响 乌克兰仍有357个定居点断电】乌克兰国家通讯社当地时间11月28日报道称，乌克兰国家紧急情况部当天发布消息表示，受恶劣天气影响，截至目前乌克兰全境仍有357个定居点断电，尼古拉耶夫地区有2条高速公路关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexi2861712.d.html</link>
+            <guid>3386809</guid>
+            <pubDate>Tue, 28 Nov 2023 19:13:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[截至3:00收盘，伦铜涨0.91%，伦铝涨0.32%，伦锌涨0.42%，伦铅跌0.49%，伦镍涨4.40%。]]></title>
+            <guid>3386802</guid>
+            <pubDate>Tue, 28 Nov 2023 19:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O) CFO：除了台积电和三星外，希望有第三个代工合作伙伴。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexk6876310.d.html</link>
+            <guid>3386800</guid>
+            <pubDate>Tue, 28 Nov 2023 19:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗：标普500指数大涨的势头正在减弱】 花旗集团策略师表示，推动标普500指数创一个世纪以来最佳11月涨幅之一的上涨势头正在减弱。由Chris Montagu领导的团队称上周的期货交易情况“好坏参半”，使得该基准指数的净头寸看起来“略微悲观”。纳斯达克100指数期货持仓为中性。Montagu认为：“随着标普连续第四周上涨，期货市场释放的潜在看涨信号正在消退……涨势的第一阶段伴随着10月大量空头平仓。”Montagu表示，随后的新增多头头寸现已消退。美国股市11月已上涨逾8%，创下有纪录以来的11月最大涨幅之一，因市场押注利率见顶，经济增长富有弹性。然而，标普500指数过去几天处于停滞，原因是随着关键的假日购物季临近，投资者担心美国消费者的健康状况。美国银行、德意志银行和RBC Capital Markets等机构预测随着经济衰退的预期消退，标普500指数将创下纪录新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexi2858391.d.html</link>
+            <guid>3386790</guid>
+            <pubDate>Tue, 28 Nov 2023 18:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚洪灾死亡人数上升至120人】据央视新闻，受厄尔尼诺现象影响，近期肯尼亚多地遭遇强降雨并引发洪水。当地时间11月28日，肯尼亚政府表示，洪水已导致肯尼亚120人死亡，近9万户家庭被迫离开家园。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6079568.d.html</link>
+            <guid>3386781</guid>
+            <pubDate>Tue, 28 Nov 2023 18:49:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[卡塔尔外交部发言人：从加沙获释的10名以色列人质包括一名未成年人和9名妇女，其中包括一名奥地利人、两名阿根廷人和一名菲律宾人。]]></title>
+            <guid>3386777</guid>
+            <pubDate>Tue, 28 Nov 2023 18:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方：根据红十字会提供的信息：12名人质正朝以色列方向前进。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6076444.d.html</link>
+            <guid>3386776</guid>
+            <pubDate>Tue, 28 Nov 2023 18:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（11月28日）欧市尾盘，法国巴黎泛欧交易所（EuroNext）“制粉小麦”期货涨0.94%，报215.00欧元/吨。油菜籽期货涨0.74%，报445.00欧元/吨。]]></title>
+            <guid>3386771</guid>
+            <pubDate>Tue, 28 Nov 2023 18:29:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦开伯尔-普什图省附近发生5.1级地震】据巴基斯坦媒体报道，当地时间11月28日，巴基斯坦开伯尔-普什图省附近发生5.1级地震。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexe4319634.d.html</link>
+            <guid>3386770</guid>
+            <pubDate>Tue, 28 Nov 2023 18:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴勒斯坦官方消息人士：哈马斯已经开始向国际红十字会移交以色列人质。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6075118.d.html</link>
+            <guid>3386768</guid>
+            <pubDate>Tue, 28 Nov 2023 18:26:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[冷藏仓储公司Lineage LogisticsLLC.寻求在IPO中获得超过300亿美元估值；预计最早将于2024年上半年IPO。]]></title>
+            <guid>3386763</guid>
+            <pubDate>Tue, 28 Nov 2023 18:21:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院金融委员会将于12月5日针对药品供应短缺问题举行听证会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexf6073557.d.html</link>
+            <guid>3386761</guid>
+            <pubDate>Tue, 28 Nov 2023 18:18:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（11月28日），美联储隔夜逆回购协议（RRP）使用规模为8733.44亿美元，上个交易日报8672.20亿美元。]]></title>
+            <guid>3386760</guid>
+            <pubDate>Tue, 28 Nov 2023 18:16:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯和以色列开始第五轮被扣押人员交换】据《以色列时报》和以色列电视台12频道消息，当地时间11月28日晚，按照以色列和巴勒斯坦伊斯兰抵抗运动（哈马斯）此前达成的延长临时停火协议两天相关内容，第五批包括10名以色列被扣押人员的释放工作已经开始，哈马斯方面已将这些人员移交给红十字国际委员会。此外，据巴勒斯坦通讯社消息，当地时间28日晚，巴勒斯坦囚犯事务部门表示，以色列方面将于当晚释放第五批30名巴勒斯坦被扣押人员，其中包括15名妇女和15名儿童。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexe4317763.d.html</link>
+            <guid>3386759</guid>
+            <pubDate>Tue, 28 Nov 2023 18:15:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[美国财政部拍卖390亿美元七年期国债，得标利率4.399%（10月26日为4.908%），投标倍数2.44（之前为2.70）。]]></title>
             <guid>3386753</guid>
@@ -109,278 +413,6 @@
             <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzwfexi2835198.d.html</link>
             <guid>3386702</guid>
             <pubDate>Tue, 28 Nov 2023 17:22:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【银行备战“开门红”：理财和保险产品成股份行“心头好”，城商行抢滩信用卡和消费贷】 银行备战2024年“开门红”活动的业务重点主要聚焦于理财、保险以及信用卡领域。股份行和城商行筹备“开门红”更为积极。往年备战“开门红”，各家银行往往通过上调存款利率、送礼品、返优惠券等方式吸引客户，但从今年的情况来看，银行并未推出利率上浮的存款产品，3%以上利率的存款产品已不见踪迹。多家股份行重点聚焦于理财和银保领域，以增强“开门红”对客户的吸引力。相较于大型银行，一些城商行备战“开门红”的推荐产品更为丰富，推广侧重点为信用卡、消费贷等产品。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6186699.d.html</link>
-            <guid>3386691</guid>
-            <pubDate>Tue, 28 Nov 2023 17:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY日内跌超0.5%，现报102.62。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2962714.d.html</link>
-            <guid>3386690</guid>
-            <pubDate>Tue, 28 Nov 2023 17:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【货币政策将继续发力稳增长 业界认为政策利率仍有调降空间】据证券日报，中国人民银行11月27日发布的《2023年第三季度中国货币政策执行报告》明确了下一阶段货币政策主要思路。在货币政策主基调上，《报告》提出，稳健的货币政策要精准有力，更加注重做好跨周期和逆周期调节，充实货币政策工具箱，着力营造良好的货币金融环境。与《2023年第二季度中国货币政策执行报告》强调“逆周期调节”不同，《报告》将跨周期和逆周期调节并列，且明确要“更加注重”。东方金诚首席宏观分析师王青表示，这主要源于三季度宏观经济复苏动能转强，“预计全年5%左右的增长目标能够顺利实现”。但当前经济回稳向上的基础还不牢固，特别是房地产行业仍处于调整过程，接下来为推动经济将继续向常态化运行轨道回归，货币政策还将保持稳增长取向，继续用力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6185510.d.html</link>
-            <guid>3386689</guid>
-            <pubDate>Tue, 28 Nov 2023 17:09:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【月内人民币对美元汇率持续上涨 企业汇率风险中性意识增强】据证券日报，11月份以来，人民币对美元汇率持续走强。数据显示，截至11月28日16点30分，在岸、离岸人民币对美元汇率分别报7.1539、7.1587，月内涨幅分别为2.26%、2.40%。中国银行研究院高级研究员王有鑫表示，目前全球经济增长面临的不确定性加大，主要经济体货币政策频繁调整，企业汇率管理难度加大，为更好地实现高质量发展，企业应牢固树立汇率风险中性理念，理性看待汇率波动。同时，应视自身经营和外汇风险敞口情况，综合采取多种措施应对汇率波动风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2962649.d.html</link>
-            <guid>3386688</guid>
-            <pubDate>Tue, 28 Nov 2023 17:09:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE美元指数日内跌幅达0.5%，报102.70点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6181486.d.html</link>
-            <guid>3386684</guid>
-            <pubDate>Tue, 28 Nov 2023 16:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【10年期英债收益率跌超3个基点，投资者关注美联储理事沃勒的讲话】 周二（11月28日）欧市尾盘，英国10年期国债收益率下跌3.4个基点，报4.178%，盘中交投区间为4.242%-2.153%。美联储理事沃勒称对“FOMC货币政策状态处于更好姿态”的信心增强，市场将其解读为鸽派。两年期英债收益率跌0.8个基点，报4.636%，盘中交投区间为4.658%-4.589%。30年期英债收益率跌2.0个基点，50年期英债收益率跌1.7个基点。2/10年期英债收益率利差跌2.552个基点，报-46.307个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6180993.d.html</link>
-            <guid>3386682</guid>
-            <pubDate>Tue, 28 Nov 2023 16:48:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗公布美航母打击群进入波斯湾视频】 28日，伊朗塔斯尼姆通讯社公布了一段美军“艾森豪威尔”号航母打击群本月26日驶入波斯湾的视频。伊朗伊斯兰革命卫队海军司令坦吉西里27日曾表示，“艾森豪威尔”号航母打击群驶入波斯湾时，“伊朗无人机飞过美航母打击群上方，并警告美军，让警戒护航的美军武装直升机降落，美军听从了警告”。 坦吉西里还称，“当美航母打击群看到大量的伊朗快艇后，便迅速向波斯湾南部及周边国家海域移动”。坦吉西里说，伊朗拍摄了“美航母打击群行动的视频和照片”，“这一次，它们一进入波斯湾，就比之前更加服从和配合”。对于伊朗的说法，目前美方暂无回应。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2957907.d.html</link>
-            <guid>3386679</guid>
-            <pubDate>Tue, 28 Nov 2023 16:47:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据日经新闻：日本财务省将在2024财年的政府年度预算提案中，17年来首次提高假定的债券支付利率。这一变化将反映在将于12月底敲定的2024财年预算草案中。]]></title>
-            <guid>3386677</guid>
-            <pubDate>Tue, 28 Nov 2023 16:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲天然气期货跌超2%】 周二（11月28日）欧市尾盘，ICE英国天然气期货跌2.33%，报109.600便士/千卡。TTF基准荷兰天然气期货跌2.49%，报43.100欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌1.11%，报72.81欧元/吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2956678.d.html</link>
-            <guid>3386675</guid>
-            <pubDate>Tue, 28 Nov 2023 16:42:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO Pinto：大多数商业地产资产类别都不会出现问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6178774.d.html</link>
-            <guid>3386673</guid>
-            <pubDate>Tue, 28 Nov 2023 16:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲主要股指收盘多数下跌】欧洲主要股指收盘多数下跌，德国DAX30指数涨0.18%，英国富时100指数跌0.05%，法国CAC40指数跌0.2%，欧洲斯托克50指数跌0.16%。欧元区蓝筹股中，拜耳初步收跌3.46%，保乐力加跌2.4%，开云集团跌2.27%，爱马仕跌2.02%，LVMH集团跌1.76%，阿斯麦ASML跌1.6%，巴斯夫跌0.9%，Flutter娱乐则收涨1.22%，桑坦德涨1.6%，英飞凌涨1.93%，西班牙对外银行涨2.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6177731.d.html</link>
-            <guid>3386669</guid>
-            <pubDate>Tue, 28 Nov 2023 16:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖42天期现金管理票据，得标利率5.285%，前次为5.290%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2953685.d.html</link>
-            <guid>3386667</guid>
-            <pubDate>Tue, 28 Nov 2023 16:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部拍卖52周期国债，得标利率4.935%（10月31日为5.135%），投标倍数3.56（前次为2.89）。]]></title>
-            <guid>3386666</guid>
-            <pubDate>Tue, 28 Nov 2023 16:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO Pinto：摩根大通在英国的业务表现略好于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2953267.d.html</link>
-            <guid>3386665</guid>
-            <pubDate>Tue, 28 Nov 2023 16:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通CEO Pinto：对第一共和银行的整合按计划进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2952552.d.html</link>
-            <guid>3386662</guid>
-            <pubDate>Tue, 28 Nov 2023 16:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国东北部迎来强降雪 多地发布冬季天气警告】美国密歇根州、俄亥俄州、宾夕法尼亚州和纽约州当地时间11月28日上午迎来了强降雪，多地发布降雪警告和冬季天气警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2951295.d.html</link>
-            <guid>3386660</guid>
-            <pubDate>Tue, 28 Nov 2023 16:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将追加1.94亿欧元资金以支持乌军培训】据央视新闻，当地时间11月28日，欧盟理事会发布消息称，欧盟将追加资金以支持乌克兰武装部队的培训。消息称，追加的资金将通过欧洲和平基金项目（EPF）提供，追加金额为1.94亿欧元。迄今为止，欧盟已在该支持机制下协助乌克兰培训了超3.4万名士兵。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2951199.d.html</link>
-            <guid>3386659</guid>
-            <pubDate>Tue, 28 Nov 2023 16:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[研究公司SovEcon：预计俄罗斯2024年小麦收成将下滑至8980万吨，2023年收成料为9150万吨。]]></title>
-            <guid>3386658</guid>
-            <pubDate>Tue, 28 Nov 2023 16:23:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COMEX期银向上触及25美元/盎司，日内涨1.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyri6173550.d.html</link>
-            <guid>3386657</guid>
-            <pubDate>Tue, 28 Nov 2023 16:22:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[惠誉：尽管债券收益率上升，印尼金融租赁行业的资金和流动性状况应该能够保持良好。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2949796.d.html</link>
-            <guid>3386656</guid>
-            <pubDate>Tue, 28 Nov 2023 16:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称自本轮巴以冲突以来已有395名以军士兵死亡】据《以色列时报》消息，当地时间11月28日，以色列国防军宣布，调查结果显示，在10月7日被哈马斯方面扣押的3名以军士兵已死亡。因此，自本轮巴以冲突爆发以来，以军士兵死亡人数已达395人。哈马斯方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2949379.d.html</link>
-            <guid>3386653</guid>
-            <pubDate>Tue, 28 Nov 2023 16:18:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德银：特斯拉希望电动皮卡Cybertruck产生“光环效应”】 德意志银行分析师Dan Ives：对特斯拉而言，期待已久的（首台）电动皮卡Cybertruck交付活动（11月30日）是一件“大事”，其中折射出特斯拉苦心经营的创新和“思想分享主导地位”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrh4429382.d.html</link>
-            <guid>3386649</guid>
-            <pubDate>Tue, 28 Nov 2023 16:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄外交部：已通知日方将停止执行一项合作削减核武器的协议】 当地时间11月28日，俄罗斯外交部通报称，本月21日俄方已通知日本将停止执行有关在削减核武器方面开展合作的一项协议。该协议将在俄方正式通知日方6个月后，即2024年5月21日，失去法律效力。据悉，上述协议是俄罗斯与日本两国政府在1993年10月13日签署的，主要内容涉及双方开展合作，以销毁俄罗斯应削减的核武器。根据协议内容，日本提供资金和技术，以安全地拆解俄罗斯的退役核潜艇等。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2948395.d.html</link>
-            <guid>3386646</guid>
-            <pubDate>Tue, 28 Nov 2023 16:14:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【交通运输部部长李小鹏在福建调研时强调：加快建设交通强国福建先行区 支持建设海峡两岸融合发展示范区】交通运输部消息，11月28日，交通运输部党组书记、部长李小鹏到福建省福州市，就支持福建探索海峡两岸融合发展新路、建设两岸融合发展示范区等情况开展调研。调研期间，李小鹏与福建省委书记周祖翼就深化福建交通运输改革发展工作交换了意见。李小鹏强调，要深入贯彻落实习近平总书记对福建工作的重要讲话、重要指示批示精神，全面贯彻《中共中央 国务院关于支持福建探索海峡两岸融合发展新路 建设两岸融合发展示范区的意见》，落实加快建设交通强国部署要求，构建安全、便捷、高效、绿色、经济的现代综合交通运输体系，加快建设交通强国福建先行区，推动福建建设交通强省、构建海峡两岸融合发展示范区。]]></title>
-            <guid>3386640</guid>
-            <pubDate>Tue, 28 Nov 2023 16:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔今年第二季度国内生产总值同比增长1%】当地时间11月28日，卡塔尔规划和统计局公布的数据显示，2023年第二季度，该国国内生产总值为1700.9亿卡塔尔里亚尔（约合3335亿元人民币）。按不变价格计算，同比增长1%，环比增长0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrn6979007.d.html</link>
-            <guid>3386639</guid>
-            <pubDate>Tue, 28 Nov 2023 16:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴拿马最高法院裁定第一量子旗下铜矿合约违宪 运营前景存疑】巴拿马最高法院驳回了批准与第一量子矿业签订一项铜矿合同的法律，为这家全球主要铜矿运营商的经营前景增添了不确定性。该法院院长Maria Eugenia Lopez称，全票反对这份合同，这项裁决现在必须在该国的官方公报上公布。“我们要申明我们坚定不移地致力于在该国运营的各个方面遵守监管规定，”第一量子发言人在书面声明中表示，“随着裁决的更多细节公之于众，我们将进一步置评。”受最高法院判决的冲击，加拿大矿业公司第一量子（FM.CN）多伦多盘初跌8.32%，该公司2027年到期6.875%债券下跌1.375美分，至79美分，创历史新低、且10月中期以来已累跌将近17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrm2945773.d.html</link>
-            <guid>3386632</guid>
-            <pubDate>Tue, 28 Nov 2023 16:06:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货白银日内涨超1.00%，现报24.88美元/盎司。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-29/detail-imzweyrh4425869.d.html</link>
-            <guid>3386628</guid>
-            <pubDate>Tue, 28 Nov 2023 16:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国2年期国债收益率下跌下跌5个基点，至4.807%；美国10年期国债收益率下跌1.90个基点，报4.369%；美国30年期国债收益率上涨0.4个基点，报4.537%。]]></title>
-            <guid>3386627</guid>
-            <pubDate>Tue, 28 Nov 2023 16:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴巴多斯布里奇顿地区发生5.4级地震】据欧洲-地中海地震中心报告，当地时间11月28日11时26分，距离巴巴多斯首都布里奇顿41公里处发生5.4级地震，震源深度35公里。截至目前，暂无人员伤亡和财产损失报告。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrm2943435.d.html</link>
-            <guid>3386624</guid>
-            <pubDate>Tue, 28 Nov 2023 15:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：在我们开始对事态发展感到更满意之前，我们需要看到几个月的通货膨胀数据。]]></title>
-            <guid>3386621</guid>
-            <pubDate>Tue, 28 Nov 2023 15:49:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行副行长弗洛登：在我们开始对事态发展感到更满意之前，我们需要看到几个月的通货膨胀。]]></title>
-            <guid>3386620</guid>
-            <pubDate>Tue, 28 Nov 2023 15:49:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[现货黄金涨穿2030美元，为5月初以来首次，日内当前涨超0.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrn6975703.d.html</link>
-            <guid>3386618</guid>
-            <pubDate>Tue, 28 Nov 2023 15:48:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：劳动力参与度未来的增长可能受限。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrm2941826.d.html</link>
-            <guid>3386617</guid>
-            <pubDate>Tue, 28 Nov 2023 15:48:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：货币政策不在预设轨道上，即将发布的数据将继续受到密切关注。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyri6164580.d.html</link>
-            <guid>3386615</guid>
-            <pubDate>Tue, 28 Nov 2023 15:47:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：美联储在过早宣布通胀胜利时应谨记风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrn6975462.d.html</link>
-            <guid>3386614</guid>
-            <pubDate>Tue, 28 Nov 2023 15:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：服务业消费增加会带来通胀风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrm2941398.d.html</link>
-            <guid>3386612</guid>
-            <pubDate>Tue, 28 Nov 2023 15:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元指数DXY短线下挫近30点，现报102.77。英镑兑美元GBP/USD短线走高超40点，现报1.2688；欧元兑美元EUR/USD短线走高超30点，现报1.0994。]]></title>
-            <guid>3386611</guid>
-            <pubDate>Tue, 28 Nov 2023 15:45:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：能源价格风险或对通胀改善产生不利影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyri6164130.d.html</link>
-            <guid>3386610</guid>
-            <pubDate>Tue, 28 Nov 2023 15:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧元兑美元涨至1.10，为八月来首次。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyri6164119.d.html</link>
-            <guid>3386609</guid>
-            <pubDate>Tue, 28 Nov 2023 15:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：不清楚是否有更多供给方面的进展来遏制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrn6975125.d.html</link>
-            <guid>3386608</guid>
-            <pubDate>Tue, 28 Nov 2023 15:45:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：我们会密切关注数据以评估适当的政策路径。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyri6164062.d.html</link>
-            <guid>3386607</guid>
-            <pubDate>Tue, 28 Nov 2023 15:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国央行官员Haskel称不会很快降息】英国央行决策层官员Jonathan Haskel表示，英国央行不会很快放松货币政策，因为利率需要“维持的水平比很多人预期的还要高、还要久”。Haskel在定于周二晚些时候在华威大学发表的讲话稿中表示：“随着通胀下降，降息宜早不宜晚”的说法是不正确的。他还说英国劳动力市场的“紧俏程度仍处于历史高位”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrn6974958.d.html</link>
-            <guid>3386605</guid>
-            <pubDate>Tue, 28 Nov 2023 15:43:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部副部长孙卫东同欧盟对外行动署副秘书长莫拉举行中欧外交政策磋商】2023年11月27日，外交部副部长孙卫东同欧盟对外行动署副秘书长莫拉在北京举行第十六轮中欧外交政策磋商。双方就国际形势、各自外交政策、中欧关系以及双方共同关心的国际和地区热点问题交换了意见。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrh4423448.d.html</link>
-            <guid>3386604</guid>
-            <pubDate>Tue, 28 Nov 2023 15:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟数字经济专员维拉·约罗娃：委员会将在今年通过一项法案，将约2000亿欧元的冻结俄罗斯资产的收益用于乌克兰。]]></title>
-            <guid>3386602</guid>
-            <pubDate>Tue, 28 Nov 2023 15:42:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美元兑日元USD/JPY日内跌幅达0.50%，现报147.93；澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.6640。]]></title>
-            <guid>3386596</guid>
-            <pubDate>Tue, 28 Nov 2023 15:40:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事沃勒：由于对预期存在不同看法，美联储与市场脱节。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyrm2940004.d.html</link>
-            <guid>3386594</guid>
-            <pubDate>Tue, 28 Nov 2023 15:39:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多家银行对房企展开调研与约访，以期了解需求谋求长期合作】 目前已有多家银行对部分房企展开调研、约访等工作，以期深入了解房企需求，为其提供多元化金融服务，谋求长期合作。“这段时间我们已着手对部分房地产企业进行访问和调研，主要了解企业的诉求和目前面临的困难，看看能不能找到合适的业务合作机会。”某国有银行公司部相关负责人表示。展望明年银行信贷投放布局，多家银行向记者表示，将持续增加对国民经济重点领域和薄弱环节的精准支持，普惠金融、绿色金融、制造业、民营经济、乡村振兴等领域仍是信贷支持的重点。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-11-28/detail-imzweyri6162606.d.html</link>
-            <guid>3386592</guid>
-            <pubDate>Tue, 28 Nov 2023 15:38:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
