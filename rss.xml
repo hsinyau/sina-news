@@ -4,327 +4,363 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 30 Nov 2023 18:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 21:05:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：全球经济增长放缓是一种风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4827961.d.html</link>
-            <guid>3390608</guid>
-            <pubDate>Thu, 30 Nov 2023 18:05:26 GMT</pubDate>
+            <title><![CDATA[熟悉停火谈判的巴勒斯坦官员称，哈马斯将更多人质移交给红十字会。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1189575.d.html</link>
+            <guid>3390794</guid>
+            <pubDate>Thu, 30 Nov 2023 21:04:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：石油市场相当稳定，需求在增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1283947.d.html</link>
-            <guid>3390607</guid>
-            <pubDate>Thu, 30 Nov 2023 18:05:12 GMT</pubDate>
+            <title><![CDATA[特斯拉Cybertruck车型续航里程预计为250-340英里（约402-547公里）。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7965386.d.html</link>
+            <guid>3390787</guid>
+            <pubDate>Thu, 30 Nov 2023 20:58:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：俄罗斯全面履行减产义务。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8061063.d.html</link>
-            <guid>3390605</guid>
-            <pubDate>Thu, 30 Nov 2023 18:04:54 GMT</pubDate>
+            <title><![CDATA[特斯拉跌幅一度扩大至3%，现收窄至1.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmh9276331.d.html</link>
+            <guid>3390786</guid>
+            <pubDate>Thu, 30 Nov 2023 20:55:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：我们注意到欧佩克国家平均的5年石油库存低于每日10万桶。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9385221.d.html</link>
-            <guid>3390604</guid>
-            <pubDate>Thu, 30 Nov 2023 18:04:21 GMT</pubDate>
+            <title><![CDATA[【斗鱼尾盘跳水跌超10%】 斗鱼尾盘跳水，现跌超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7964460.d.html</link>
+            <guid>3390782</guid>
+            <pubDate>Thu, 30 Nov 2023 20:53:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：这些措施将有助于应对冬季需求下降。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9384790.d.html</link>
-            <guid>3390603</guid>
-            <pubDate>Thu, 30 Nov 2023 18:02:29 GMT</pubDate>
+            <title><![CDATA[【头部效应显著，ETF“费率战”愈演愈烈】近日，易方达基金再次宣布下调旗下ETF费率，“降费潮”从主动型基金扩大到被动型基金，在今年竞争较为激烈的ETF领域，“费率战”大有愈演愈烈的趋势，持续有公司加入降费队伍，还有公司刷新费率新低。业内人士表示，下调ETF费率有助于提高投资者的投资回报和获得感，有利于吸引各类中长期资金通过公募基金加大权益类资产配置，ETF降费或进一步加剧头部效应，但要避免因“费率战”而引发恶性竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxme4718267.d.html</link>
+            <guid>3390780</guid>
+            <pubDate>Thu, 30 Nov 2023 20:49:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：欧佩克+额外减产配额将超过200万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9384730.d.html</link>
-            <guid>3390601</guid>
-            <pubDate>Thu, 30 Nov 2023 18:02:18 GMT</pubDate>
+            <title><![CDATA[【港股优质标的投资价值显现】今年11月，港股主要指数呈现分化走势，恒生科技指数涨逾3%，恒生指数和恒生中国企业指数均小幅下跌。行业板块方面，电讯、科技等板块涨幅居前；消费、原材料等板块跌幅居前。对于港股年末走势，内外资机构均持乐观态度。机构人士表示，随着利好因素不断积聚，南向资金有望加速流入港股，当前优质标的值得买入。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7963299.d.html</link>
+            <guid>3390771</guid>
+            <pubDate>Thu, 30 Nov 2023 20:46:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多只宽基ETF规模显著增长 机构逢低“扫货”迹象明显】ETF已成为投资者重要配置工具。近期又有宽基ETF成交量频频放大，短期内规模快速提升，机构“扫货”迹象明显。与此同时，多只新发ETF及ETF联接基金强势吸金，部分新成立的ETF前十大持有人名单中频现机构身影。A股处于底部区域已成为多数机构的共识，更有机构积极自购，并宣布跟投份额永远不主动赎回。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4826354.d.html</link>
-            <guid>3390597</guid>
-            <pubDate>Thu, 30 Nov 2023 17:57:39 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：12月01日04时36分在四川宜宾市珙县（北纬28.43度，东经104.76度）发生3.8级地震，震源深度8千米。]]></title>
+            <guid>3390769</guid>
+            <pubDate>Thu, 30 Nov 2023 20:44:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【央行昨日开展6630亿元7天期逆回购，专家预计12月份资金面将延续紧平衡】为维护月末流动性平稳，11月30日中国人民银行以利率招标方式开展了6630亿元7天期逆回购操作，操作利率维持1.8%不变。鉴于当日有5190亿元逆回购到期，故央行公开市场实现净投放1440亿元。中信证券首席经济学家明明表示，近期DR007高于政策利率，主要原因在于政府债券发行规模较大、信贷需求边际回升等，期间央行并未通过降准操作予以对冲政府债券集中发行，而是采取公开市场操作的方式对冲，资金面整体呈现紧平衡状态。进入12月份后，流动性或保持合理充裕，资金面将延续11月份的紧平衡，DR007或难以大幅回落。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9382921.d.html</link>
-            <guid>3390593</guid>
-            <pubDate>Thu, 30 Nov 2023 17:53:24 GMT</pubDate>
+            <title><![CDATA[【发挥“稳定器”“压舱石”作用，险资权益投资有望加速】日前，新华保险公告称，将与中国人寿各出资250亿元共同发起设立私募证券基金。该基金聚焦二级市场并将长期投资优质上市公司。业内人士认为，寿险行业两大头部险企强强联手，是对此前监管层促进长期资金入市举措的响应，向市场释放出积极信号。近年来，保险资金凭借长期投资视角、稳健投资目标和跨期风险管理能力，形成了自己的特色，成为资本市场重要机构投资者。随着各项政策不断完善，险资在权益投资方面布局力度料加大，一方面顺应长期资金入市需求，另一方面为自身投资收益增厚储备弹药。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7962165.d.html</link>
+            <guid>3390766</guid>
+            <pubDate>Thu, 30 Nov 2023 20:41:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧洲央行管委内格尔：长期通胀预期距离回落至2%仍有一段距离。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8057641.d.html</link>
-            <guid>3390590</guid>
-            <pubDate>Thu, 30 Nov 2023 17:52:42 GMT</pubDate>
+            <title><![CDATA[新西兰联储副主席霍克斯比：新西兰需要一个非常节制的消费时期。绝大多数借款人能够在这些利率水平下偿还债务。]]></title>
+            <guid>3390765</guid>
+            <pubDate>Thu, 30 Nov 2023 20:39:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿联酋国家新闻机构：根据市场情况，阿联酋将逐步恢复额外削减的石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9382455.d.html</link>
-            <guid>3390583</guid>
-            <pubDate>Thu, 30 Nov 2023 17:50:08 GMT</pubDate>
+            <title><![CDATA[中国地震台网自动测定：12月01日04时36分在四川宜宾市长宁县附近（北纬28.44度，东经104.75度）发生3.9级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3390763</guid>
+            <pubDate>Thu, 30 Nov 2023 20:38:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿联酋国家新闻机构：阿联酋将自愿在明年一季度削减16.3万桶/日的石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1279452.d.html</link>
-            <guid>3390582</guid>
-            <pubDate>Thu, 30 Nov 2023 17:47:49 GMT</pubDate>
+            <title><![CDATA[美国总统拜登：我之前曾去过非洲，之后也还会再去非洲。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7961519.d.html</link>
+            <guid>3390760</guid>
+            <pubDate>Thu, 30 Nov 2023 20:37:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：预计美国明年失业率将略有上升，这可能导致借款人违约率相应上升。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8054054.d.html</link>
-            <guid>3390576</guid>
-            <pubDate>Thu, 30 Nov 2023 17:38:32 GMT</pubDate>
+            <title><![CDATA[周四（11月30日）纽约尾盘，谷物分类指数涨0.84%，报40.9135点，11月份累涨0.86%。CBOT玉米期货涨1.42%，报4.82-1/2美元/蒲式耳，11月份累跌2.13%。CBOT小麦期货涨2.17%，报5.99美元/蒲式耳，11月份累涨2.17%。CBOT大豆期货跌0.30%，报13.43美元/蒲式耳，11月份累涨2.40%；豆粕期货跌0.75%，11月份累涨1.27%；豆油期货跌0.57%，11月份累涨2.75%。]]></title>
+            <guid>3390758</guid>
+            <pubDate>Thu, 30 Nov 2023 20:36:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉：预计2024年美国全国房价将保持总体稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9380722.d.html</link>
-            <guid>3390575</guid>
-            <pubDate>Thu, 30 Nov 2023 17:38:10 GMT</pubDate>
+            <title><![CDATA[特斯拉在现场再度演示了砸Cybertruck车窗的名场面，这次玻璃没有碎。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1183285.d.html</link>
+            <guid>3390754</guid>
+            <pubDate>Thu, 30 Nov 2023 20:32:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[惠誉将2024年美国抵押保险公司的行业展望调整为“中性”。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1276741.d.html</link>
-            <guid>3390574</guid>
-            <pubDate>Thu, 30 Nov 2023 17:37:50 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：我们期待以色列政府采取进一步措施制止以色列极端分子的暴力行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmh9271345.d.html</link>
+            <guid>3390744</guid>
+            <pubDate>Thu, 30 Nov 2023 20:15:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【COP28中国角边会分享城市可持续发展中国方案】《联合国气候变化框架公约》第二十八次缔约方大会（COP28）中国角边会活动30日在阿联酋迪拜拉开帷幕。一场以“北京应对气候变化和减污降碳行动与成效”为主题的边会分享了北京在污染防治和积极应对气候变化方面的措施与成效。北京市生态环境局局长陈添在致辞中说，为积极应对气候变化、加快改善空气质量，北京市制定实施了“绿色北京”发展战略，有针对性地推进减污降碳，在碳排放量大幅下降的同时，生态环境质量也实现显著改善，城市可持续发展能力明显增强。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8053855.d.html</link>
-            <guid>3390573</guid>
-            <pubDate>Thu, 30 Nov 2023 17:37:26 GMT</pubDate>
+            <title><![CDATA[两名安全消息人士称，伊拉克东部迪亚拉省发生路边炸弹和枪击袭击，至少10人丧生。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmh9271074.d.html</link>
+            <guid>3390738</guid>
+            <pubDate>Thu, 30 Nov 2023 20:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国能源信息署（EIA）：9月，得州石油产量下滑0.1%至557.3万桶/日，墨西哥湾增产5.7%至200万桶/日，新墨西哥州增产1.1%至181.8万桶/日，北达科他州增产6.5%至130.4万桶/日。]]></title>
-            <guid>3390571</guid>
-            <pubDate>Thu, 30 Nov 2023 17:26:25 GMT</pubDate>
+            <title><![CDATA[【终控制产品规模，家基金公司宣布限购】年末将至，多家基金公司均发布了限购公告，暂停旗下部分产品的大额申购。类型方面，权益、债券以及货币基金等均有涉及。此外，近日还有部分基金调整了单个投资人的单日累计申购上限。业内人士表示，临近年末，基金公司往往会频繁发布此类限购公告，与基金经理控制仓位及锁定收益等均有关系。业内人士表示，往年市场临近年底也有基金披露限购，这与基金经理控制仓位以及锁定收益等方面有一定关系。新增资金会冲淡现有资产配置的所占比例，而要在此时重新寻找市场投资机会进行配置，显然难度较大。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1179266.d.html</link>
+            <guid>3390737</guid>
+            <pubDate>Thu, 30 Nov 2023 20:12:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【波兰11月通胀率为6.5%】当地时间11月30日，波兰中央统计局公布的数据显示，波兰11月消费者价格指数（CPI）同比上涨6.5%，环比上涨0.7%。其中，食品和非酒精饮料价格同比上涨7.2%，环比上涨0.8%；能源价格同比上涨7.9%，环比下降0.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9378737.d.html</link>
-            <guid>3390570</guid>
-            <pubDate>Thu, 30 Nov 2023 17:25:24 GMT</pubDate>
+            <title><![CDATA[【也门胡塞武装称连续两日向以色列发动袭击】 据央视新闻，当地时间11月30日，也门胡塞武装发表声明称，其在11月28日和29日对以色列发动了无人机和导弹袭击，这是也门胡塞武装在本轮巴以冲突升级后第三次对以色列进行类似的行动。胡塞武装表示，只要以色列不停止对巴勒斯坦的攻击，他们就会继续使用无人机和导弹打击以色列的目标。胡塞武装还警告，将在红海拦截和扣押与以色列有关或者与以色列合作的船只。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1178897.d.html</link>
+            <guid>3390735</guid>
+            <pubDate>Thu, 30 Nov 2023 20:12:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[分析师评欧佩克+会议：仍然希望看到一些确切的数据，告诉我们他们的实际目标是什么生产水平。如果没有起点或新的目标，说“我们将每天减产X桶”是毫无意义的。到目前为止，只有沙特和俄罗斯给出了这样的数字。]]></title>
-            <guid>3390569</guid>
-            <pubDate>Thu, 30 Nov 2023 17:25:05 GMT</pubDate>
+            <title><![CDATA[【新发基金规模走出阶段性“低谷”，债券型仍为吸金主力】根据Wind数据，与今年10月相比，11月新发基金数量、规模已走出阶段性“低谷”，新发数量136只，合计发行份额超1200亿份，环比均增逾100%。从11月基金发行结构来看，受权益类市场表现等因素影响，市场避险情绪依然较高，而债券型基金成为了“吸金”主力，份额占比超过八成。数据显示，11月债券型基金发行数量共49只，合计发行份额为972.21亿份，发行份额占比达80.97%。而股票型、混合型基金的发行数量分别为40只、29只，合计发行份额分别为138.97亿份、71.88亿份，其中，混合型基金的份额占比仅为5.99%，为下半年以来的最低水平。（经参）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7955315.d.html</link>
+            <guid>3390734</guid>
+            <pubDate>Thu, 30 Nov 2023 20:08:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列总统与阿联酋总统举行会谈】据《以色列时报》消息，当地时间11月30日，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬在迪拜会见了以色列总统赫尔佐格。根据以色列总统办公室当天发表的声明，赫尔佐格在会谈中希望穆罕默德能利用其外交影响力帮助以色列被扣押人员得以释放。穆罕默德在会谈中强调，需要让人道主义援助进入加沙地带。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8050695.d.html</link>
-            <guid>3390568</guid>
-            <pubDate>Thu, 30 Nov 2023 17:23:58 GMT</pubDate>
+            <title><![CDATA[【OpenAI仍坚持售股计划 将给员工额外一个月时间考虑是否参与】几位知情人士透露，OpenAI仍坚持其允许员工出售所持公司股票的计划，并给潜在参与者额外一个月的时间来决定是否参与。OpenAI一直在洽谈出售股票，售股交易对该公司的估值达到860亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1177500.d.html</link>
+            <guid>3390731</guid>
+            <pubDate>Thu, 30 Nov 2023 20:04:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧佩克“自愿性”减产协议引质疑 油价走低】欧佩克+宣布再减产100万桶/日，各国宣布各自的自愿性减产配额。石油期货回吐涨幅，开始下跌。瑞穗银行的罗伯特•亚格表示：“这是一项灰色协议，它为‘欺诈’提供了很大的空间，市场对此并不满意。”他补充说，沙特阿拉伯自愿延长每日100万桶的减产计划是意料之中的。“市场并不认为这是一笔板上钉钉的交易。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1272927.d.html</link>
-            <guid>3390566</guid>
-            <pubDate>Thu, 30 Nov 2023 17:20:06 GMT</pubDate>
+            <title><![CDATA[【约旦举办加沙地带人道主义响应紧急协调国际会议】当地时间11月30日，约旦举办加沙地带人道主义响应紧急协调国际会议。会议由来自30多个国际人道主义组织和国际组织的高级官员参加，包括联合国人道事务协调办公室、世界粮食计划署、联合国近东巴勒斯坦难民救济和工程处、联合国儿童基金会、世界卫生组织、联合国妇女署、红十字国际委员会等，参加会议的还有来自30多个国家的代表。约旦国王阿卜杜拉二世表示，目前向加沙地带提供的人道主义援助不足以满足当地的救援需求。他强调，各方应加强协调，避免重复努力，以合作的方式提供所需的援助，并通过可持续的机制加强当前的国际努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1177303.d.html</link>
+            <guid>3390730</guid>
+            <pubDate>Thu, 30 Nov 2023 20:03:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部副部长Nellie Liang：技术可能使财政政策更加高效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8048669.d.html</link>
-            <guid>3390564</guid>
-            <pubDate>Thu, 30 Nov 2023 17:13:34 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：以色列有能力消除哈马斯所构成的威胁，同时最大限度减少对无辜平民的伤害。]]></title>
+            <guid>3390727</guid>
+            <pubDate>Thu, 30 Nov 2023 20:01:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄克里米亚紧急情况部称当地灾害天气损失接近4.5亿美元】俄罗斯克里米亚共和国紧急情况部长谢尔盖·萨达克利耶夫表示，据初步估算，上周末的灾害天气对当地约造成397亿卢布（约合4.47亿美元）的损失。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1270942.d.html</link>
-            <guid>3390563</guid>
-            <pubDate>Thu, 30 Nov 2023 17:10:56 GMT</pubDate>
+            <title><![CDATA[【丁薛祥会见阿联酋总统穆罕默德】11月30日，中共中央政治局常委、国务院副总理丁薛祥在迪拜会见阿联酋总统穆罕默德。丁薛祥指出，中方赞赏阿方为筹备联合国气候变化迪拜大会所作努力，祝贺阿联酋加入金砖国家大家庭，愿同阿方在多边平台加强协调，践行真正的多边主义，维护国际公平正义。丁薛祥强调，中国在巴以问题上的立场是明确的，就是呼吁相关各方立即停火止战，保护平民，防止冲突扩大。中国将继续站在和平公道一边，支持巴勒斯坦人民维护民族权利的正义事业，推动早日落实“两国方案”，实现巴勒斯坦问题全面公正持久解决。中方愿同阿方共同努力，推动局势尽快降温，共促地区早日恢复和平安宁。（新华社）]]></title>
+            <guid>3390721</guid>
+            <pubDate>Thu, 30 Nov 2023 20:01:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[OpenAI：ChatGPT一周岁了。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8048048.d.html</link>
-            <guid>3390562</guid>
-            <pubDate>Thu, 30 Nov 2023 17:10:27 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：以色列必须按照战争法行事。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxme4711997.d.html</link>
+            <guid>3390720</guid>
+            <pubDate>Thu, 30 Nov 2023 20:00:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副总理诺瓦克：明年一季度的原油出口将削减30万桶/日，燃油出口将削减20万桶/日。]]></title>
-            <guid>3390561</guid>
-            <pubDate>Thu, 30 Nov 2023 17:08:42 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯：哈马斯不能继续控制加沙。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1176305.d.html</link>
+            <guid>3390719</guid>
+            <pubDate>Thu, 30 Nov 2023 19:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿曼能源部：2024年一季度，阿曼将进一步减产石油4.2万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8046822.d.html</link>
-            <guid>3390558</guid>
-            <pubDate>Thu, 30 Nov 2023 17:05:25 GMT</pubDate>
+            <title><![CDATA[市场资讯：软件公司GoTo Group Inc.（LOGM）寻求削减债务负担，已经与部分债权人进入秘密谈判阶段。]]></title>
+            <guid>3390716</guid>
+            <pubDate>Thu, 30 Nov 2023 19:51:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：美国复苏逐渐转变为可持续增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1269491.d.html</link>
-            <guid>3390556</guid>
-            <pubDate>Thu, 30 Nov 2023 17:05:07 GMT</pubDate>
+            <title><![CDATA[【乌克兰解除对现金购汇的限制】乌克兰央行在其网站发布消息称，自12月1日起取消对个人现金购买外汇的所有限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7951338.d.html</link>
+            <guid>3390715</guid>
+            <pubDate>Thu, 30 Nov 2023 19:49:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财长耶伦：应对通胀和经济问题仍需作出更多努力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9375685.d.html</link>
-            <guid>3390555</guid>
-            <pubDate>Thu, 30 Nov 2023 17:05:03 GMT</pubDate>
+            <title><![CDATA[美国国防部发言人Singh：针对美国在中东地区存在的袭击已增至74起。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1173671.d.html</link>
+            <guid>3390714</guid>
+            <pubDate>Thu, 30 Nov 2023 19:46:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国能源信息署（EIA）：美国9月天然气产量较8月下降0.1个百分点，至1163亿立方英尺/天;与去年同期相比上涨了3.0%。]]></title>
-            <guid>3390554</guid>
-            <pubDate>Thu, 30 Nov 2023 17:04:06 GMT</pubDate>
+            <title><![CDATA[标普: 西门子能源评级 BBB-，展望负面。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7950550.d.html</link>
+            <guid>3390713</guid>
+            <pubDate>Thu, 30 Nov 2023 19:44:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【粤港澳大湾区首个智能超充站投用】11月30日，广州琶洲多元智能超充站正式投用。本次投产的广州琶洲超充站紧邻广交会展馆，整体面积约9000平方米，能同时满足68台电动汽车充电。它是粤港澳大湾区首个集“分布式光伏+储能+全液冷超充+柔性充电堆+车辆检测+车网互动+数字孪生平台”等多种元素和功能于一体的综合服务站。琶洲超充站采用全液冷超充技术，可以大大缩短充电时间。此外，这个超充站还有一大亮点是能够实现车辆与电网互动，不但可以给车辆充电，车辆也可反向向电网输电。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4818023.d.html</link>
-            <guid>3390553</guid>
-            <pubDate>Thu, 30 Nov 2023 17:02:59 GMT</pubDate>
+            <title><![CDATA[【不满西班牙表态 以色列宣布召回驻西大使】11月30日，西班牙首相佩德罗·桑切斯表示，鉴于加沙地带的平民伤亡人数，他怀疑以色列是否遵守了国际人道法。为此，以色列当天召见西班牙驻以大使，同时宣布召回以色列驻西班牙大使。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1172168.d.html</link>
+            <guid>3390712</guid>
+            <pubDate>Thu, 30 Nov 2023 19:39:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿尔及利亚将额外减产石油5.1万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvn9505940.d.html</link>
-            <guid>3390550</guid>
-            <pubDate>Thu, 30 Nov 2023 17:00:47 GMT</pubDate>
+            <title><![CDATA[【约旦军方宣布执行第三次加沙地带救援物资空投任务】当地时间11月30日，约旦军方宣布执行第三次加沙地带救援物资空投任务，将向位于加沙地带的约旦野战医院空投救援物资。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7949320.d.html</link>
+            <guid>3390711</guid>
+            <pubDate>Thu, 30 Nov 2023 19:39:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[科威特额外减产石油13.5万桶/日。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvn9505678.d.html</link>
-            <guid>3390548</guid>
-            <pubDate>Thu, 30 Nov 2023 16:58:11 GMT</pubDate>
+            <title><![CDATA[【欧盟考虑在钢铝贸易谈判中对拜登政府让步】知情人士透露，多数欧盟国家现在不希望挑起与美国的争斗，因为他们担心这会在明年11月大选前给川普加分。欧盟和美国迄今未能就所谓的全球可持续钢铝安排协议达成一致，该协议的目的是结束川普时代美欧的贸易冲突。当时，川普以国家安全为由对产自欧盟的钢和铝加征税务，欧盟随后也对美国采取了报复措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1171768.d.html</link>
+            <guid>3390707</guid>
+            <pubDate>Thu, 30 Nov 2023 19:37:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟考虑在在漫长的贸易争议中对美国让步，担心特朗普将重返白宫。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvk4947410.d.html</link>
-            <guid>3390542</guid>
-            <pubDate>Thu, 30 Nov 2023 16:51:30 GMT</pubDate>
+            <title><![CDATA[【美国30年期抵押贷款利率降至7.22% 连续第五周下降】美国抵押贷款利率连续第五周下降。房地美周四在一份声明中表示，30年期固定利率抵押贷款的平均利率为7.22%，低于上周的7.29%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1170956.d.html</link>
+            <guid>3390704</guid>
+            <pubDate>Thu, 30 Nov 2023 19:34:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【从严监管再融资 倒逼上市公司练好内功】近日，多家上市公司宣布终止定增计划。谈及定增未能实施的原因，不少公司均提到了监管政策的影响。可以看到，继8月底证监会对再融资作出监管安排之后，11月8日，沪深交易所出台优化再融资的具体措施，设定了五条“红线”：一是严格限制破发、破净情形上市公司再融资。二是从严把控连续亏损企业融资间隔期。三是限制财务性投资金额较高上市公司的融资规模。四是从严把关前次募资使用。五是严格把关再融资募集资金主要投向主业的相关要求。笔者认为，当前从严从紧监管再融资，在优化资金配置，引导资金投向符合国家产业政策要求、经营状况良好的优质上市公司的同时，也倒逼上市公司打破对融资的盲目依赖，专注练好内功，提升企业核心竞争力。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8174501.d.html</link>
-            <guid>3390540</guid>
-            <pubDate>Thu, 30 Nov 2023 16:49:37 GMT</pubDate>
+            <title><![CDATA[【耶伦：美联储将不需要以像过去通胀失控时那样大的力度来遏制物价上涨】美国财政部长珍妮特·耶伦当地时间周四在北卡罗来纳州发表讲话后对记者表示，“有非常好的迹象显示我们将实现软着陆，失业率或多或少在当前的水平或附近企稳。”耶伦还称她认为美联储将不需要以像过去通胀失控时那样大的力度来遏制物价上涨。“你提到的那些经济衰退是美联储像现在的情况一样，通过紧缩政策来压低通胀，但当时美联储认为有必要收紧到令经济陷入衰退的程度，”耶伦说，“为了降低通胀和根深蒂固的通胀预期或许有必要这样做，但我们现在不需要这样。”]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmm7947195.d.html</link>
+            <guid>3390697</guid>
+            <pubDate>Thu, 30 Nov 2023 19:31:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【券商金股“含金量”验收：11月份超五成个股实现上涨】相较于年度策略及金股推荐，近年来券商更热衷于按月度推出金股及策略，投资者也得以在短期内验证券商的投研实力。11月份，各大券商金股“战绩”一一展现，超五成个股实现股价上涨。11月初，共有49家券商推荐了339只金股（仅统计A股，重复个股按1只计算）。经历一个月的时间，有52%的金股当月实现上涨。其中，50%的金股涨幅跑赢同期上证指数（11月份上证指数累计上涨0.36%）。盘古智库高级研究员江瀚表示：“金股的历史表现和风险收益特征可以为投资者提供参考，但不能完全依赖。投资者应该结合自己的投资目标和风险承受能力来选择适合自己的金股。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8174435.d.html</link>
-            <guid>3390539</guid>
-            <pubDate>Thu, 30 Nov 2023 16:49:11 GMT</pubDate>
+            <title><![CDATA[【伊拉克宣布2024年1月至3月额外日均减产石油21.1万桶】当地时间11月30日，伊拉克石油部发表声明表示，伊拉克将从2024年1月1日起至2024年3月自愿额外减产石油21.1万桶每日。预计到2024年3月底，伊拉克的石油产量将达到日均409万桶左右，额外的石油减产额度将视情况逐步恢复。声明指出，此次额外减产计划旨在支持石油市场稳定。此前，伊拉克石油部已于今年4月宣布日均减产石油21.1万桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmh9265139.d.html</link>
+            <guid>3390696</guid>
+            <pubDate>Thu, 30 Nov 2023 19:29:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【抢抓北交所扩容机遇 券商可聚焦三大方向用力】近期，北交所市场话题热度不减，交投活跃。实际上，自9月1日证监会发布《关于高质量建设北京证券交易所的意见》以来，市场各方积极响应，有不少大型券商表示将发力北交所业务，更有头部券商明确“高质量参与北交所市场建设”。笔者认为，随着北交所市场关注度的进一步提高，券商可聚焦三大方向业务机遇。首先，北交所融资渠道重要性不断加强，利好券商投行业务。 其次，北交所交易活跃度大幅提升，为券商带来更多业务机会。 另外，北交所做市商队伍将迎来扩容。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1397183.d.html</link>
-            <guid>3390538</guid>
-            <pubDate>Thu, 30 Nov 2023 16:48:53 GMT</pubDate>
+            <title><![CDATA[【芝加哥农产品期货多数收跌】芝加哥农产品期货多数收跌，CBOT大豆跌0.30%，CBOT豆粕跌0.75%，CBOT豆油跌0.57%，CBOT小麦涨2.26%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1168035.d.html</link>
+            <guid>3390691</guid>
+            <pubDate>Thu, 30 Nov 2023 19:22:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【券商营业部龙虎榜最新排名出炉：中金公司上海分公司年内成交额突破千亿元位居榜首】据东方财富Choice数据显示，截至11月30日记者发稿，今年以来，共有6400余家券商营业部在龙虎榜上留名，合计成交金额15759.09亿元。龙虎榜上，排名靠前的机构交易活跃度显著，今年以来，成交总额在百亿元以上的营业部共有22家，累计成交额达6529.61亿元，占比达41.43%。 具体来看，中金公司上海分公司自今年3月份超越东方财富“拉萨天团”登顶榜首以来，一直稳居榜首，此次以1033.31亿元继续强势霸榜。华泰证券营业总部（非营业场所）以625.15亿元的成交额位居第四名，相较于10月份的第三名略有下滑。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8174325.d.html</link>
-            <guid>3390537</guid>
-            <pubDate>Thu, 30 Nov 2023 16:48:39 GMT</pubDate>
+            <title><![CDATA[【极端组织“伊斯兰国”武装分子袭击伊拉克一村庄 致3死5伤】据伊拉克安全部门人士透露，当地时间11月30日，一名极端组织“伊斯兰国”武装分子使用狙击武器袭击了伊拉克东部迪亚拉省的奥姆拉尼耶村（Omraniya）。截至目前，袭击已造成至少3人死亡、5人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmxmk1167816.d.html</link>
+            <guid>3390690</guid>
+            <pubDate>Thu, 30 Nov 2023 19:20:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【份额与规模“狂飙” ETF成今年基金业“最亮的星”】今年以来，公募基金市场整体发展趋缓，新基金募集能力偏弱，与之形成鲜明对比的是，ETF（交易型开放式指数基金）的份额和规模一路“狂飙”，新发基金数量同比大增，成为年内基金业“最亮的星”。数据显示，截至11月30日，与年初相比，年内ETF份额增长约35%，总规模增长22%。新发ETF产品129只，同比增长31.6%。在指数基金快速发展的同时，也有一些问题引起业内人士冷静思考。比如，产品同质化竞争明显，多数产品未能完成募集目标等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1396657.d.html</link>
-            <guid>3390535</guid>
-            <pubDate>Thu, 30 Nov 2023 16:46:01 GMT</pubDate>
+            <title><![CDATA[【嘉信理财上涨3.02%，报61.41美元/股】嘉信理财盘中上涨3.02%，截至03:08，报61.41美元/股，成交5.56亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9394056.d.html</link>
+            <guid>3390685</guid>
+            <pubDate>Thu, 30 Nov 2023 19:15:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【世界气象组织：今年是有记录以来人类历史上最热一年】世界气象组织30日在《联合国气候变化框架公约》第二十八次缔约方大会（COP28）开幕当天发布暂定版《2023全球气候状况报告》，并宣布2023年是有记录以来人类历史上最热的一年。截至10月底的数据显示，这一年平均气温较工业化前（1850-1900年）的基线高出约1.4摄氏度。世界气象组织警告说，今年早些时候出现的厄尔尼诺现象，可能会在明年让高温天气加剧。报告显示，温室气体水平创历史新高，大气中的二氧化碳水平已比工业化前时代高出50%。海平面上升创历史新高，而且还在加速上升。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8172896.d.html</link>
-            <guid>3390533</guid>
-            <pubDate>Thu, 30 Nov 2023 16:41:36 GMT</pubDate>
+            <title><![CDATA[肯尼亚11月消费者价格同比上涨6.8%，预估增长7.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8072790.d.html</link>
+            <guid>3390675</guid>
+            <pubDate>Thu, 30 Nov 2023 19:06:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部副部长Nellie Liang：美国应该为稳定币的发展设置安全护栏。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8171468.d.html</link>
-            <guid>3390531</guid>
-            <pubDate>Thu, 30 Nov 2023 16:36:20 GMT</pubDate>
+            <title><![CDATA[【波音上涨3.22%，报231.65美元/股】波音(BA)盘中上涨3.22%，报231.65美元/股，成交10.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8072525.d.html</link>
+            <guid>3390673</guid>
+            <pubDate>Thu, 30 Nov 2023 19:05:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：呼吁企业降低家庭成本。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8171264.d.html</link>
-            <guid>3390530</guid>
-            <pubDate>Thu, 30 Nov 2023 16:35:31 GMT</pubDate>
+            <title><![CDATA[【看图：通胀降温提升风险偏好 欧洲股市创下1月以来最大单月涨幅】欧洲股市创下1月份以来的最大月度涨幅，因为整个地区的通胀降温刺激了风险偏好，给从房地产到科技股等板块都带来了新的上涨动力。斯托克600指数周四收盘上涨0.6%，11月涨幅超过6%，创下1月份以来的最大月度涨幅。斯托克600房地产指数上涨15%，创下2009年以来的最佳月度涨幅。投资者押注利率已经触顶刺激欧洲股市在连续三个月下跌后反弹。交易员也押注欧洲央行会更早降息，目前市场价格体现出欧洲央行存款利率到明年4月就会下调25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8072173.d.html</link>
+            <guid>3390672</guid>
+            <pubDate>Thu, 30 Nov 2023 19:03:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国总统拜登：仍有更多工作要做，物价仍然过高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvn9502489.d.html</link>
-            <guid>3390529</guid>
-            <pubDate>Thu, 30 Nov 2023 16:35:26 GMT</pubDate>
+            <title><![CDATA[【以军在加沙地带附近定居点拦截空中目标 正在展开调查】当地时间11月30日晚，在加沙地带以东的以色列内提沃特定居点附近，以军成功拦截了空中目标，事发时当地没有发出防空警报。目前，以军对此事件正在展开调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4833559.d.html</link>
+            <guid>3390660</guid>
+            <pubDate>Thu, 30 Nov 2023 18:50:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部拍卖四周期国库券，得标利率5.290%（上周为5.300%），投标倍数2.75（前次为2.58）。拍卖八周期国库券，得标利率5.280%（前次为5.280%），投标倍数2.75（前次为2.73）。]]></title>
-            <guid>3390526</guid>
-            <pubDate>Thu, 30 Nov 2023 16:33:23 GMT</pubDate>
+            <title><![CDATA[【肯尼亚洪灾死亡人数上升至136人】受厄尔尼诺现象影响，近期肯尼亚多地遭遇强降雨并引发洪水。当地时间11月30日，肯尼亚政府发言人表示，洪水已导致肯尼亚136人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4833539.d.html</link>
+            <guid>3390659</guid>
+            <pubDate>Thu, 30 Nov 2023 18:50:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧股收盘普涨】欧股收盘普涨，德国DAX指数涨0.35%，英国富时100指数涨0.39%，法国CAC40指数涨0.59%，欧洲斯托克50指数涨0.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1392869.d.html</link>
-            <guid>3390524</guid>
-            <pubDate>Thu, 30 Nov 2023 16:31:32 GMT</pubDate>
+            <title><![CDATA[【多只宽基ETF规模显著增长，机构逢低“扫货”迹象明显】ETF已成为投资者重要配置工具。近期又有宽基ETF成交量频频放大，短期内规模快速提升，机构“扫货”迹象明显。与此同时，多只新发ETF及ETF联接基金强势吸金，部分新成立的ETF前十大持有人名单中频现机构身影。A股处于底部区域已成为多数机构的共识，更有机构积极自购，并宣布跟投份额永远不主动赎回。“最近多只宽基ETF规模显著增长。机构投资者往往更为青睐宽基ETF，从多只规模大幅增长的宽基ETF持有人结构来看，机构投资者是重要的持有人。”业内人士指出，近期大资金“扫货”ETF的现象频频发生，某种程度上反映出机构对后市相对乐观的态度。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1292255.d.html</link>
+            <guid>3390656</guid>
+            <pubDate>Thu, 30 Nov 2023 18:49:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲金融科技独角兽公司Zepa宣布裁员30人】欧洲Zepa宣布在人员与市场营销功能部门裁员30人，5月份已经裁员26%。Zepz是一家50亿美元规模的金融科技独角兽公司，投资方包括TCV、Accel、Leapfrog、以及另外若干家大型风投基金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8169516.d.html</link>
-            <guid>3390522</guid>
-            <pubDate>Thu, 30 Nov 2023 16:28:43 GMT</pubDate>
+            <title><![CDATA[【匈牙利外长西雅尔多与俄罗斯外长拉夫罗夫举行会谈】当地时间11月30日，匈牙利外交与对外经济部长西雅尔多在参加欧洲安全与合作组织会议时与俄罗斯外长拉夫罗夫举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1291895.d.html</link>
+            <guid>3390655</guid>
+            <pubDate>Thu, 30 Nov 2023 18:47:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【环球时报社评：愿基辛格在美国后继有人】 当100岁的基辛格走完传奇的一生，他带给世人最多的感慨与思考，以及对人类未来的展望和困惑，都与中美关系密不可分。基辛格的人生经历是不可复制的，但他的思想、洞察以及外交实践，是留给中美关系特别是美国的一份极其宝贵的历史遗产。美国将怎么用这笔遗产，能不能用好它，都是一个问号，但它存在本身就是价值和意义，等待着美国后来者去发掘和发挥。  中国人十分清楚，基辛格首先是个美国人，也是美国利益的坚定维护者，但这并不妨碍我们视他为老朋友、好朋友。 同时，基辛格的例子也说明，维护中美关系稳定与维护各自国家利益并行不悖。特别是在当前的形势下，两国共同利益不是减少了，而是更多了，中美双方合作空间无限广阔，完全可以相互成就、互利共赢。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8168732.d.html</link>
-            <guid>3390521</guid>
-            <pubDate>Thu, 30 Nov 2023 16:25:31 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：六名美国人已从加沙撤离，一名女性下落不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1291734.d.html</link>
+            <guid>3390654</guid>
+            <pubDate>Thu, 30 Nov 2023 18:46:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国务卿布林肯与巴勒斯坦总统阿巴斯讨论巴勒斯坦在约旦河西岸的安全问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1391553.d.html</link>
-            <guid>3390520</guid>
-            <pubDate>Thu, 30 Nov 2023 16:25:31 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：关于对乌克兰援助的资金问题，我认为我们还有到年底的时间继续讨论。]]></title>
+            <guid>3390653</guid>
+            <pubDate>Thu, 30 Nov 2023 18:46:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧佩克+原则上同意再减产100万桶/日 细节将由各国单独宣布】在原油价格暴跌、明年可能再度出现供应过剩的情况下，欧佩克+同意进一步减产。与会代表称，欧佩克+成员国在周四的会议上同意额外减产100万桶/日。沙特原有的100万桶/日自愿减产行动将延长至明年。代表们表示，成员国达成了原则性协议，现在将进行表决。他们表示，协议的最终细节，包括各国的产量水平，将由每个国家单独宣布，不会按惯例在欧佩克+公报中公布。“如果这些数据得到证实，那就表明欧佩克+希望保持对石油市场的掌控，” 瑞银集团分析师Giovanni Staunovo表示。“考虑到2024年初可能出现季节性需求疲软，欧佩克+将继续采取先发制人的策略。”]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1391420.d.html</link>
-            <guid>3390519</guid>
-            <pubDate>Thu, 30 Nov 2023 16:24:56 GMT</pubDate>
+            <title><![CDATA[白宫发言人柯比：如果以色列决定再次追击哈马斯，以色列将继续得到美国的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4832912.d.html</link>
+            <guid>3390652</guid>
+            <pubDate>Thu, 30 Nov 2023 18:45:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧佩克+代表：欧佩克+会议结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1390984.d.html</link>
-            <guid>3390518</guid>
-            <pubDate>Thu, 30 Nov 2023 16:22:59 GMT</pubDate>
+            <title><![CDATA[【呵护月末市场流动性，央行公开市场操作灵活有力】月末资金面起波澜，中国人民银行以灵活有力的公开市场操作有效护航市场流动性，也体现了货币政策实施精准有力。市场分析人士认为，考虑到央行对于银行体系流动性的高度关注，预计未来会加大货币政策力度，助力金融化债和熨平资金面波动。在央行多日呵护下，此前趋紧的资金面终于平稳跨月。截至11月30日收盘，GC001加权平均利率下行320.5个基点至3.039%。一位债券交易员表示，逆回购作为主要的短期工具，对资金面有着非常重要的影响。央行持续大量投放逆回购，有助于缓解资金面紧张，为银行体系补充流动性。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1291393.d.html</link>
+            <guid>3390651</guid>
+            <pubDate>Thu, 30 Nov 2023 18:44:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：巴西将以不具约束力的方式加入OPEC+。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvr8166881.d.html</link>
-            <guid>3390512</guid>
-            <pubDate>Thu, 30 Nov 2023 16:18:56 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：美国正在向乌克兰提供备用设备和物资，以确保乌克兰人民不会缺乏供暖和电力。]]></title>
+            <guid>3390650</guid>
+            <pubDate>Thu, 30 Nov 2023 18:41:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部副部长Nellie Liang在纽约联储表示：数字创新领域存在若干巨大机遇。]]></title>
-            <guid>3390511</guid>
-            <pubDate>Thu, 30 Nov 2023 16:17:10 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：美国正努力加强乌克兰的空中防御能力，加固关键能源基础设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1290668.d.html</link>
+            <guid>3390648</guid>
+            <pubDate>Thu, 30 Nov 2023 18:40:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[迪士尼处于实现节约大约75亿美元成本的正轨之上。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvq1389254.d.html</link>
-            <guid>3390510</guid>
-            <pubDate>Thu, 30 Nov 2023 16:16:32 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：美国一直与乌克兰合作，为防范俄罗斯的冬季攻击做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcp8067806.d.html</link>
+            <guid>3390647</guid>
+            <pubDate>Thu, 30 Nov 2023 18:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列开始释放第七批巴勒斯坦被扣押人员】据巴勒斯坦通讯社消息，当地时间11月30日傍晚，巴勒斯坦囚犯事务部门表示，他们已经收到以色列方面将于当晚释放的第七批巴勒斯坦被扣押人员名单。名单共30人，包括8名妇女和22名未成年人。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvn9498866.d.html</link>
-            <guid>3390508</guid>
-            <pubDate>Thu, 30 Nov 2023 16:14:35 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：美国方面预计，俄罗斯将在今年冬季试图摧毁乌克兰的关键能源基础设施。]]></title>
+            <guid>3390646</guid>
+            <pubDate>Thu, 30 Nov 2023 18:39:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英国央行货币政策委员Megan Greene：经济活动数据仍然喜忧参半，因此我更担心通胀持续的风险。]]></title>
-            <guid>3390505</guid>
-            <pubDate>Thu, 30 Nov 2023 16:06:43 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：美国方面对耶路撒冷附近发生的枪击事件表示谴责。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9389400.d.html</link>
+            <guid>3390645</guid>
+            <pubDate>Thu, 30 Nov 2023 18:38:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：汉莎航空就入股意达航空寻求欧盟批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmnvk4938696.d.html</link>
-            <guid>3390500</guid>
-            <pubDate>Thu, 30 Nov 2023 16:02:49 GMT</pubDate>
+            <title><![CDATA[美国白宫发言人柯比：将与卡塔尔和埃及继续努力延长人道停火并确保人质释放。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4831940.d.html</link>
+            <guid>3390644</guid>
+            <pubDate>Thu, 30 Nov 2023 18:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿布扎比IHC（International Holding Company PJSC）夺标，将获得对赞比亚Mopani铜矿的控股权。]]></title>
+            <guid>3390642</guid>
+            <pubDate>Thu, 30 Nov 2023 18:33:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商普遍看好岁末行情，12月金股将进入冲刺赛】11月底，券商最新一期金股名单相继出炉。整体来看，12月金股主要集中在信息技术、工业行业，个股里人气最高的是中国神华，获5家券商共同推荐。此外，近期宣布提价的贵州茅台，以及长安汽车、山西汾酒也受到多家券商青睐。临近年末，券商今年的金股组合收益率比拼也进入冲刺阶段。整体来看，多家券商认为12月或保持震荡上行，须关注年末政策信号。招商证券首席策略分析师张夏认为，A股有望保持震荡上行的结构牛态势。结构上，成长风格相对占优，关注产业趋势明确、景气改善斜率较大、产能供需格局良好的科技、医药和部分周期行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9388490.d.html</link>
+            <guid>3390640</guid>
+            <pubDate>Thu, 30 Nov 2023 18:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国前总统萨科齐被判处一年有期徒刑缓期执行】当地时间11月30日，法国《费加罗报》报道，法国前总统萨科齐在2012年大选期间非法使用竞选资金案的上诉宣判中，被判处一年有期徒刑缓刑，缓期执行。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtck9388293.d.html</link>
+            <guid>3390636</guid>
+            <pubDate>Thu, 30 Nov 2023 18:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：英国下令对一家阿布扎比银行支持的公司收购英国《每日电讯报》一事展开调查。]]></title>
+            <guid>3390630</guid>
+            <pubDate>Thu, 30 Nov 2023 18:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[周二（11月28日），美联储隔夜逆回购协议（RRP）使用规模为8878.22亿美元，连续第十二个交易日低于1万亿美元整数位心理关口，上个交易日报8733.44亿美元。]]></title>
+            <guid>3390627</guid>
+            <pubDate>Thu, 30 Nov 2023 18:16:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：预计欧洲、中东和非洲地区信用卡资产支持证券的表现将出现轻微恶化迹象。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtcn1285441.d.html</link>
+            <guid>3390626</guid>
+            <pubDate>Thu, 30 Nov 2023 18:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：相信长期投资战略将对人们对经济前景的乐观程度产生影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-01/detail-imzwmtch4828995.d.html</link>
+            <guid>3390624</guid>
+            <pubDate>Thu, 30 Nov 2023 18:14:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
