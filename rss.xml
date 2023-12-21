@@ -4,11 +4,377 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 21 Dec 2023 15:06:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 18:06:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[黑石将以2.8亿美元收购索尼支付多数股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4675314.d.html</link>
+            <guid>3420417</guid>
+            <pubDate>Thu, 21 Dec 2023 18:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[比亚迪与匈牙利关于电动汽车工厂的磋商处于最终阶段。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4198574.d.html</link>
+            <guid>3420415</guid>
+            <pubDate>Thu, 21 Dec 2023 18:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：有迹象显示俄罗斯军事活动正在减缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4196884.d.html</link>
+            <guid>3420412</guid>
+            <pubDate>Thu, 21 Dec 2023 17:50:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国众议院议长约翰逊要求美国总统拜登在边境问题上采取行政行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4196718.d.html</link>
+            <guid>3420411</guid>
+            <pubDate>Thu, 21 Dec 2023 17:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚国家石油公司（NNPC）：产能为21万桶/日的Port Harcourt炼油厂即将于1月份恢复运营。]]></title>
+            <guid>3420409</guid>
+            <pubDate>Thu, 21 Dec 2023 17:42:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【券商股权流转冰火两重天，部分中小券商股权“遇冷”】 今年以来，中小券商股权拍卖频现，备受市场关注。部分业务具备一定优势的民生证券、国都证券、华西证券等券商股权受到资本追逐，但也有部分中小券商股权多次挂牌、折价后仍“无人问津”。中国银河研究院策略分析师、团队负责人杨超表示：“部分中小券商的股权多次挂牌仍‘无人问津’。究其原因主要是部分中小券商因为特定的经营策略、市场地位和潜力备受关注，能够吸引多方争夺其股权；而另一方面，部分中小券商经营不善或财务状况不佳，导致其股权价值较低，难以找到具备购买意愿的买家。”（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0115749.d.html</link>
+            <guid>3420408</guid>
+            <pubDate>Thu, 21 Dec 2023 17:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯总统与委内瑞拉总统通电话】克里姆林宫当地时间12月21日发布消息称，俄罗斯总统普京与委内瑞拉总统马杜罗通电话。在通话中，马杜罗向普京介绍了其与圭亚那总统关于埃塞奎博地区的谈判情况。普京赞成通过政治外交手段解决委内瑞拉和圭亚那之间的领土争端。普京表示，俄罗斯将继续支持委内瑞拉领导层加强国民经济和主权的努力。普京与马杜罗还就国际热点问题交换了意见，强调了双方建立公平国际秩序的共同努力。马杜罗接受了普京的邀请，将于2024年访问俄罗斯。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0115068.d.html</link>
+            <guid>3420407</guid>
+            <pubDate>Thu, 21 Dec 2023 17:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：摩尔多瓦议会解雇了央行行长屋大维·阿马苏，因其未能对2014-2015年银行欺诈丑闻采取行动。]]></title>
+            <guid>3420406</guid>
+            <pubDate>Thu, 21 Dec 2023 17:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多家信托公司“尝鲜”预付类资金服务信托，发挥优势服务消费市场】 日前，陕国投官方公众号发文表示，公司在“三分类新规”引导下推出的首单预付类资金服务信托产品“陕国投·海南自贸港预付资金管理服务信托”成功落地。“三分类新规”显示，预付类资金服务信托，属于资产服务信托大类下行政管理服务信托包含的一个具体业务品种。某业内人士表示，目前针对预付费行业机构“跑路”的问题解决方案较多，包括担保、信托、托管等举措。横向比较来看，信托的优势在于能实现资产的风险隔离，类似于支付宝的角色，实现服务消费与支付行为同步进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4671622.d.html</link>
+            <guid>3420405</guid>
+            <pubDate>Thu, 21 Dec 2023 17:25:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[交易员：阿根廷股指转跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0114122.d.html</link>
+            <guid>3420404</guid>
+            <pubDate>Thu, 21 Dec 2023 17:24:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济与产业周期加速回归带来创业板配置机遇期 指数体系日益完善相关ETF产品持续多元】 今年以来，A股市场震荡回调，ETF凭借灵活、透明、低成本特质逆势大热，受到国内外投资者青睐，进而带动ETF产品数量持续攀升。截至目前，ETF上市产品总数为892只，较年初增加128只，总规模超过1.7万亿份，较年初增长0.6万亿份。从资金具体流向来看，宽基ETF颇受青睐。以创业板相关ETF产品为例，截至目前，场内15只跟踪创业板指的ETF，年内净流入份额达311亿份，较年初增长119%。对于市场纷纷看好创业板投资价值，万家基金方面认为，在经济企稳、政策呵护背景下，创业板有望迎来向上行情，长期战略配置时机或已来临。]]></title>
+            <guid>3420403</guid>
+            <pubDate>Thu, 21 Dec 2023 17:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴克莱应投行部门要求推迟对奖金池作出最后决定】巴克莱推迟对今年奖金池做出最后决定，因之前投行部门几位顶级银行家建议巴克莱再花点时间来评估近期已赢得的业务或预计能争取到的业务。知情人士称，投行家认为资本市场活动已经在加速，奖金池应该把这个因素考虑在内，目前巴克莱已经把做决定的时间推迟到明年年初。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekq7413496.d.html</link>
+            <guid>3420401</guid>
+            <pubDate>Thu, 21 Dec 2023 17:19:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【摩根士丹利分析师：AI热潮有望将赛富时股价推升至350美元新的历史高位】赛富时一度涨超3.1%，报268.36美元，逼近2021年11月份所创历史最高位311.75美元。该公司获得一家新的多头，摩根士丹利分析师们预计，人工智能（AI）浪潮将推动赛富时股价创新的历史高位。大摩分析师Keith Weiss预计，赛富时股价有望在未来12个月涨34%，至其目标价350美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4670755.d.html</link>
+            <guid>3420400</guid>
+            <pubDate>Thu, 21 Dec 2023 17:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国、欧洲着眼于用俄罗斯资产为乌克兰基金提供资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4189556.d.html</link>
+            <guid>3420399</guid>
+            <pubDate>Thu, 21 Dec 2023 17:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【惠誉：预计红海的中断不会持续太久】惠誉：上调航运运费将抵消（航运公司）从苏伊士运河改道的成本。集装箱航运的运费涨幅可能最大，其次是散货船。如果红海的中断持续超过2个季度，可能会提高受影响航线的年度集装箱合同费率，我们认为这是不太可能的。商船在红海遇袭后，船只避开苏伊士运河绕道非洲好望角，增加了航运公司的成本。仍预计2024年集装箱航运运力的供应将比需求增长高出约4个百分点。预计红海的中断不会持续太久，不会对全球航运的中期供需平衡产生重大影响。航空货运价格也可能受益于时间敏感型货物的需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4189304.d.html</link>
+            <guid>3420398</guid>
+            <pubDate>Thu, 21 Dec 2023 17:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京度过“最冷12月中旬” 今起升温】在今冬来最强寒潮和补充冷空气的接连影响下，自12月13日前后，华北、东北多地经历了“最冷12月中旬”。未来三天，我国中东部大部地区气温依旧持续偏低。12月22日是冬至节气，好消息是，今起各地气温会逐步回升，到下周初，中东部大部气温都会升至较常年同期正常或偏高水平。据北京市气象台预计，21日入夜后北风风力将逐渐减小。22日开始缓慢回升，最高气温将在本周日回到0℃以上，升温势头将持续5天。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4670194.d.html</link>
+            <guid>3420397</guid>
+            <pubDate>Thu, 21 Dec 2023 17:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会估计欧盟27国家2023/24年度玉米进口量为1900万吨，上月预估为2000万吨。]]></title>
+            <guid>3420395</guid>
+            <pubDate>Thu, 21 Dec 2023 17:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国驻伊拉克使馆附近区域连续多次拉响防空警报】当地时间12月21日19时许，位于伊拉克首都巴格达“绿区”的美国驻伊拉克使馆附近区域连续多次拉响防空警报。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyveks4187647.d.html</link>
+            <guid>3420394</guid>
+            <pubDate>Thu, 21 Dec 2023 17:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会：估计2023/24年度欧盟27国普通小麦可用产量为1.257亿吨，上月估计为1.256亿吨；普通小麦出口量为3100万吨，上月预估为3100万吨；普通小麦期末库存为1840万吨，上月预估为1830万吨。]]></title>
+            <guid>3420393</guid>
+            <pubDate>Thu, 21 Dec 2023 17:03:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统与联合国秘书长通电话】当地时间12月21日，乌克兰总统泽连斯基通过社交媒体表示，当天他与联合国秘书长古特雷斯通电话，双方主要就保障黑海民用航行安全的相关问题进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekq7409939.d.html</link>
+            <guid>3420392</guid>
+            <pubDate>Thu, 21 Dec 2023 17:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[捷克警方表示，布拉格枪击事件造成15人以上死亡。捷克部长表示，没有迹象表明（枪击事件）与国际恐怖主义有关。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekq7409130.d.html</link>
+            <guid>3420389</guid>
+            <pubDate>Thu, 21 Dec 2023 16:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[高盛公司给予药明合联股份有限公司买进的初始评级，目标价41.70港元——即有望较最近一个交易日收盘价上涨31%。]]></title>
+            <guid>3420384</guid>
+            <pubDate>Thu, 21 Dec 2023 16:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黑龙江鸡西市一煤矿发生事故致12人遇难】从黑龙江省鸡西市恒山区政府新闻办获悉，20日15时50分，鸡西市恒山区坤源煤矿发生一起井下矿车运输事故。经地方政府组织煤管、公安、应急等部门核查，事故造成12名矿工遇难，13名矿工受伤。据了解，黑龙江省政府已成立调查组开展事故调查。（新华社）]]></title>
+            <guid>3420383</guid>
+            <pubDate>Thu, 21 Dec 2023 16:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国地质勘探局：智利托科皮利拉市以北22公里处发生5.7级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4666914.d.html</link>
+            <guid>3420382</guid>
+            <pubDate>Thu, 21 Dec 2023 16:42:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧洲主要股指集体收跌 德国DAX30指数跌0.3%】欧洲主要股指集体收跌，德国DAX30指数跌0.3%，英国富时100指数跌0.29%，法国CAC40指数跌0.16%，欧洲斯托克50指数跌0.22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0108440.d.html</link>
+            <guid>3420377</guid>
+            <pubDate>Thu, 21 Dec 2023 16:32:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至12月21日8周国债竞拍-得标利率 5.27%，前值5.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0108419.d.html</link>
+            <guid>3420376</guid>
+            <pubDate>Thu, 21 Dec 2023 16:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至12月21日8周国债竞拍-投标倍数 2.74，前值2.83。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4665809.d.html</link>
+            <guid>3420375</guid>
+            <pubDate>Thu, 21 Dec 2023 16:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[五角大楼消息人士：美国在红海部署的军力为最近几十年来最大。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4665793.d.html</link>
+            <guid>3420374</guid>
+            <pubDate>Thu, 21 Dec 2023 16:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱尔眼科医院集团声明：捶打老人的医生被停职】12月21日晚，爱尔眼科医院集团@爱尔关怀 发布声明： 近日，贵港爱尔眼科医生“手术台拳打患者头部”视频引发舆论关注，爱尔眼科医院集团对此高度重视，迅速成立调查组进驻贵港爱尔，对此事进行复核调查。 一、事情经过 现查明，此事发生于2019年12月12日，患者时年82岁，只会壮族语言，普通话难以交流。手术过程中，由于局部麻醉，患者有手术不耐受。手术进行中，频繁转动头部和眼球，极可能发生手术意外。患者听不懂普通话，多次提醒无效，医生为避免发生危险，情急之中粗暴对待患者。医院次日收到患者反映术中手术医生动作粗鲁，要求做出相关解释。医院随即进行调查并向患者和家属详细解释并道歉，得到了患者家属谅解。此次视频曝光后，手术医生再次通过媒体真诚向患者道歉。 二、处理结论 调查组认为，医者仁心，无论什么理由，医生都绝不可以粗暴对待患者。患者语言不通，理应在术前做好预案，术中应做好恰当安排。涉事医生粗暴对待患者的行为，已严重违反医疗机构从业人员行为规范。 事后医院没有按照集团规定及时上报，严重违反集团医疗安全管理规定。 与此同时，调查组初步认定，贵港爱尔眼科医院还存有其他严重违反集团规定的问题，应承担相应责任。 根据以上事实，集团已于今日下午免去贵港爱尔CEO职务，暂停院长（即手术医生）职务，两人均接受进一步调查。下一步，集团将敦促贵港爱尔深入整改，并将根据后续调查结果做进一步严肃处理。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekq7403016.d.html</link>
+            <guid>3420373</guid>
+            <pubDate>Thu, 21 Dec 2023 16:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥国家石油公司（PEMEX）与委内瑞拉国家石油公司（PVDSA）讨论可能的合作事宜。]]></title>
+            <guid>3420371</guid>
+            <pubDate>Thu, 21 Dec 2023 16:23:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫：美国总统拜登12月21日已经与墨西哥总统洛佩斯通话。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4664715.d.html</link>
+            <guid>3420370</guid>
+            <pubDate>Thu, 21 Dec 2023 16:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京邀请委内瑞拉总统马杜罗于2024年访俄。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4663939.d.html</link>
+            <guid>3420369</guid>
+            <pubDate>Thu, 21 Dec 2023 16:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国综合粮食安全阶段（IPC）报告：加沙至少四分之一的家庭面临灾难性的粮食不安全状况。]]></title>
+            <guid>3420368</guid>
+            <pubDate>Thu, 21 Dec 2023 16:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国综合粮食安全阶段（IPC）报告：全球面临危机级别或更严重的粮食不安全状况的家庭比例创历史新高。]]></title>
+            <guid>3420367</guid>
+            <pubDate>Thu, 21 Dec 2023 16:11:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国支持的国际援助委员会：加沙地带的敌对行动导致面临饥荒风险，风险与日俱增，加沙地带超过90%的人口面临饥饿或更严重的危机水平。]]></title>
+            <guid>3420365</guid>
+            <pubDate>Thu, 21 Dec 2023 16:08:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚计划在2月份将深海油田Agbami原油装载量从1月份的每天9.4万桶增加到10.1万桶，这是自4月份以来的最高水平。]]></title>
+            <guid>3420364</guid>
+            <pubDate>Thu, 21 Dec 2023 16:06:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：普京与委内瑞拉总统马杜罗讨论能源和贸易。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0105031.d.html</link>
+            <guid>3420362</guid>
+            <pubDate>Thu, 21 Dec 2023 16:04:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北京海淀通报两人涉嫌违规组织学科培训，违规行为已被叫停】12月21日，北京市海淀区“双减”工作专班办公室发布通报，点名两人涉嫌违规组织线下学科培训，并表示已经叫停违规行为，责令退还相关费用、主动拆除教学设施设备、妥善处理后续问题。下一步，海淀区市场监管局将根据区教委移交的案件线索，依法依规对上述公司作进一步查处。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekp4662384.d.html</link>
+            <guid>3420361</guid>
+            <pubDate>Thu, 21 Dec 2023 16:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西启动桉树太空种子繁育试验】 12月21日，广西林业部门举行桉树太空种子交接暨繁育试验启动仪式。广西林业种苗站将一批桉树太空种子移交给相关林场。这也是广西首批被列入空间搭载实验的林木育种实验材料。2023年10月31日，我国神舟十六号载人飞船结束为期5个月的太空飞行任务并成功着陆，广西东门林场和广西林科院选送的广西首批尾叶桉、巨桉等优质桉树种子共28600粒随行返回，并于12月上旬移交广西。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-22/detail-imzyvekm0104442.d.html</link>
+            <guid>3420360</guid>
+            <pubDate>Thu, 21 Dec 2023 16:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：对于美国商业抵押支持证券（CMBS），我们预计办公楼和非顶级购物中心的物业净现金流将出现最大下降。预计2024年美国办公楼物业的净营业收入增长将持续为负。]]></title>
+            <guid>3420358</guid>
+            <pubDate>Thu, 21 Dec 2023 15:56:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刘振立与美军参联会主席视频通话】12月21日，中央军委委员、军委联合参谋部参谋长刘振立应约与美军参联会主席布朗进行视频通话。刘振立说，中美两国元首旧金山会晤就恢复两军沟通交流达成重要共识，两军应在平等和尊重基础上开展交流合作，共同推动双方关系稳下来、好起来。发展健康、稳定、可持续的两军关系，关键是美方要有正确的对华认知，前提是美方应切实尊重中方的核心利益和重大关切，重点是推进务实合作、增进相互了解。刘振立强调，台湾问题纯属中国内政，不容任何外来干涉，中国军队将坚决捍卫国家主权和领土完整。美方应切实尊重中方在南海的领土主权和海洋权益，谨言慎行，以实际行动维护地区和平稳定和中美关系大局。双方还探讨了其他问题。（国防部发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4304926.d.html</link>
+            <guid>3420357</guid>
+            <pubDate>Thu, 21 Dec 2023 15:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看图：美联储通胀之战临近大结局 周五PCE数据将是明证】美国通胀前景稳步改善，上周在美联储举行政策会议期间，局势终于彻底明朗化。12月12-13日上午发布的月度CPI和PPI报告预示，美联储关注的一项通胀指标——核心PCE——过去六个月年化升幅可能已经回到央行2%的目标。一些美联储官员急忙修改了定于13日下午发布的预测，预测机构进一步相信未来六个月通胀将继续保持低迷。定于周五上午发布的月度数据料将巩固市场对通胀降温的看法，增强未来几个季度降息的理由。“在2022年和今年上半年，美联储观察人士只关注已实现的通胀，” T. Rowe Price首席美国经济学家Blerina Uruci表示。“现在美联储聚焦的是通胀前景，以避免通胀变得过低。”周四公布的GDP修正数据带来了更多好消息。核心PCE价格指数同比增长2%，为2020年底以来最低升幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0233768.d.html</link>
+            <guid>3420356</guid>
+            <pubDate>Thu, 21 Dec 2023 15:54:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大帝国商业银行：加拿大零售销售可能只是暂时的加速】加拿大帝国商业银行的经济学家Andrew Grantham表示，初步证据显示，在第二季度和第三季度支出几乎没有变化之后，加拿大消费者支出可能会在第四季度对整体GDP做出积极贡献，不过经通胀调整后的支出回升可能是暂时的，因为更多家庭以更高的利率进行再融资，而劳动力市场疲软再次限制了支出。这位经济学家指出，在零售额在10月(尤其是在零售量方面)上升之后，有迹象表明11月的零售额几乎没有变化。此外，Grantham称，还有进一步的证据表明，劳动力市场正在走弱，各个行业的就业人数普遍疲软。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0233730.d.html</link>
+            <guid>3420355</guid>
+            <pubDate>Thu, 21 Dec 2023 15:54:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉：美国商业房地产在2024年将加剧恶化，办公楼将成为主导。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0233717.d.html</link>
+            <guid>3420354</guid>
+            <pubDate>Thu, 21 Dec 2023 15:53:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音公司向春秋航空供应的787飞机将于太平洋时间10:00从美国机场起飞。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4790958.d.html</link>
+            <guid>3420352</guid>
+            <pubDate>Thu, 21 Dec 2023 15:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根士丹利CEO Gorman：相比在美国市场的撮合交易，我们可能会在美国之外做得更多。]]></title>
+            <guid>3420350</guid>
+            <pubDate>Thu, 21 Dec 2023 15:47:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保尔森基金会副主席：中美携手更有助于全球碳减排】保尔森基金会副主席兼总裁戴青丽（Deborah Lehr）IFF国际金融论坛20周年全球年会期间表示，多年来，中美两国在政府、企业、智库等多种渠道开展气候问题合作，并在制定碳减排计划、推动新能源行业发展、深化绿色金融合作方面取得一定进展。“作为全球两个最大的碳排放国，中美携手更有助于全球碳减排。”保尔森基金会在近日发布的《金融科技推动中国绿色金融发展:案例与展望（2023）》报告中称，中国已成为全球最大绿色信贷市场、第二大绿色债券市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0232989.d.html</link>
+            <guid>3420349</guid>
+            <pubDate>Thu, 21 Dec 2023 15:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多名作家起诉OpenAI：滥用其作品训练ChatGPT】当地时间20日，包括泰勒·布兰奇和史戴西·希夫在内的11名美国作家在纽约曼哈顿联邦法院起诉美国“开放人工智能研究中心”OpenAI 和微软，指控其滥用他们的作品来训练ChatGPT。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4790212.d.html</link>
+            <guid>3420348</guid>
+            <pubDate>Thu, 21 Dec 2023 15:44:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部发言人回应多家国际机构调高中国经济增长预期】 近期，多家国际机构调高了今年中国经济增长预期，看好明年中国经济增长势头。对此，外交部发言人汪文斌21日表示，中方将持续扩大高水平对外开放，与全球共享中国发展红利。汪文斌说，中国拥有世界上最有潜力的超大规模市场。政府出台的宏观政策措施有力推动经济恢复向好，加力实施货币政策和财政政策的空间充足。中国全面深化改革开放为经济持续健康发展注入强大动力。全球新一轮科技革命和产业变革也为中国经济发展提供了更为广阔的舞台。总的看，中国发展面临的有利条件强于不利因素，经济回升向好、长期向好的基本趋势没有改变，支持高质量发展的要素条件不断积聚增多。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4302919.d.html</link>
+            <guid>3420346</guid>
+            <pubDate>Thu, 21 Dec 2023 15:36:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国天然气期货延续涨势，现涨1.7%，EIA报告显示库存减少超出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4788840.d.html</link>
+            <guid>3420345</guid>
+            <pubDate>Thu, 21 Dec 2023 15:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运输部近几周与多家航空公司会面，就常旅客计划提出问题，审查航空公司的常旅客计划是否存在潜在的不公平行为。]]></title>
+            <guid>3420343</guid>
+            <pubDate>Thu, 21 Dec 2023 15:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国联邦网络局禁止在2031年之前关闭煤电厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0230282.d.html</link>
+            <guid>3420340</guid>
+            <pubDate>Thu, 21 Dec 2023 15:24:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲之星的巴黎至伦敦服务因罢工而暂停。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4787631.d.html</link>
+            <guid>3420339</guid>
+            <pubDate>Thu, 21 Dec 2023 15:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[受华纳兄弟收购交易谈判影响，派拉蒙全球债券上涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7523952.d.html</link>
+            <guid>3420338</guid>
+            <pubDate>Thu, 21 Dec 2023 15:23:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：全力保障生活必需品市场供应】商务部新闻发言人束珏婷21日在例行新闻发布会上说，近期，全国多地出现强雨雪天气、气温大幅下降，对部分地区生活必需品供应造成一定影响。商务部第一时间积极采取措施，全力保障生活必需品市场供应。目前，国内生活必需品市场供应充足，受大范围寒潮天气影响，部分地区的蔬菜价格阶段性上涨，粮食、食用油、肉类、鸡蛋等商品价格总体平稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0229456.d.html</link>
+            <guid>3420337</guid>
+            <pubDate>Thu, 21 Dec 2023 15:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【调查显示香港为企业设立和扩展业务理想之选】香港特区政府21日公布“2023年有香港境外母公司的驻港公司按年统计调查”和“2023年初创企业统计调查”结果，显示香港具有优越营商环境，是不同规模的企业设立或扩展业务的理想地点。(新华社)]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4300387.d.html</link>
+            <guid>3420335</guid>
+            <pubDate>Thu, 21 Dec 2023 15:17:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【董宇辉再谈个人工作室：东方甄选100%控股，会坚持卖农产品】12月21日晚间，董宇辉与新东方教育科技集团CEO周成刚一齐出现在东方甄选抖音直播间，针对此前开设“个人工作室”的消息作出了进一步解释。董宇辉表示，此前公布的其个人工作室并非单独为他开设的平台，仍然由东方甄选100%控股，新账号的GMV计入东方甄选财报。董宇辉称自己并没有离开东方甄选，独立工作室仍会坚持大量卖农产品，同时他也能有更多自由做想做的事。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7522810.d.html</link>
+            <guid>3420334</guid>
+            <pubDate>Thu, 21 Dec 2023 15:15:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【极兔速递港股市值超过中通】截至今日收盘，极兔速递港股市值已超过中通，为1321亿港元，报15港元/股，涨幅4.17%。而中通市值为1295亿港元，报157.3港元/股，涨幅2.95%。]]></title>
+            <guid>3420333</guid>
+            <pubDate>Thu, 21 Dec 2023 15:15:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西央行经济政策主管Guillen：我们认为暗示宽松周期将延长没有任何好处，通胀预期脱锚需要实行收缩性货币政策。]]></title>
+            <guid>3420332</guid>
+            <pubDate>Thu, 21 Dec 2023 15:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称已完成在加沙城南部的军事行动】当地时间12月21日，据《耶路撒冷邮报》报道，以色列军方当天下午宣布，以色列国防军第99师已完成在加沙城南部的军事行动，并开始将活动范围扩大到加沙地带中部。目前，哈马斯方面对此暂无回应。]]></title>
+            <guid>3420331</guid>
+            <pubDate>Thu, 21 Dec 2023 15:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天津发布重污染天气橙色预警】按照区域应急联动要求和《天津市重污染天气应急预案》有关规定，经天津市人民政府批准，天津发布重污染天气橙色预警，从12月22日8时起启动Ⅱ级应急响应，请各单位做好应对工作。据天津气象部门消息，明天开始，天津市气温进入缓慢回升通道，但未来两天的气温依旧处于较低水平，大家仍要注意防寒保暖。24日起，天津市最高气温将升至0℃线以上，最低气温也将回归到-10℃以内。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4785664.d.html</link>
+            <guid>3420329</guid>
+            <pubDate>Thu, 21 Dec 2023 15:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国11月经济指标继续下滑】谘商会商业周期指标高级经理Justyna Zabinska-La Monica表示，11月美国经济指标继续下滑，住房和劳动力市场指标走弱，反映出经济面临的预警领域。领先信贷指数和制造业新订单基本保持不变，表明近期经济增长势头不足。尽管经济持续恢复，以及12月份消费者信心的改善，但领先指标表明未来经济活动将放缓。因此，谘商会预测，2024年上半年美国将出现短暂而轻微的衰退。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4785497.d.html</link>
+            <guid>3420327</guid>
+            <pubDate>Thu, 21 Dec 2023 15:09:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列总统赫尔佐格：联合国应对进入加沙的援助不足负责。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4298819.d.html</link>
+            <guid>3420326</guid>
+            <pubDate>Thu, 21 Dec 2023 15:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：波兰计划从明年三月份开始逐步提高反周期银行缓冲资本金。]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0227594.d.html</link>
+            <guid>3420325</guid>
+            <pubDate>Thu, 21 Dec 2023 15:06:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国地震台网自动测定：12月21日22时56分在安德烈亚诺夫群岛[阿留申群岛]附近（北纬51.44度，西经175.57度）发生6.1级左右地震，最终结果以正式速报为准。]]></title>
             <guid>3420323</guid>
@@ -37,212 +403,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7520419.d.html</link>
             <guid>3420319</guid>
             <pubDate>Thu, 21 Dec 2023 15:01:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：印度上议院无限期休会。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0226384.d.html</link>
-            <guid>3420316</guid>
-            <pubDate>Thu, 21 Dec 2023 15:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软将弃用Windows的混合现实】在更新的弃用Windows功能列表中，微软添加了Windows混合现实（Mixed Reality），以及配套的Mixed Reality Portal应用程序和Windows Mixed Reality for Steam VR。微软表示，Windows混合现实已被弃用，并将在未来的Windows版本中删除。微软于2017年首次推出Windows混合现实，作为与HTC和Oculus(现归Meta所有)等虚拟现实竞争对手竞争的一部分。近期，微软一直在逐步缩减其虚拟现实部门的规模，尽管如此，微软仍在继续专注于VR的其他应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4783684.d.html</link>
-            <guid>3420314</guid>
-            <pubDate>Thu, 21 Dec 2023 14:59:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宝龙地产与三分之一的现有票据持有人订立债务重组条款书】宝龙地产港交所公告，已与持有计划债务约27%和现有票据35.6%的特别小组成员签订了重组条款书。计划代价将由一个或多个不同选项组成，由计划债权人选择，包括现金及公司目前所持有在联交所上市的宝龙商业管理控股有限公司的普通股及强制可转换债券；新中期票据；新长期票据；及新贷款。该整体解决方案框架还包括以现金支付同意费；为强制可转换债券、新票据及新贷款提供若干信用增级等。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0225885.d.html</link>
-            <guid>3420313</guid>
-            <pubDate>Thu, 21 Dec 2023 14:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉年华游轮涨超6% Q4营收同比增长约41%超预期且亏损收窄】嘉年华游轮(CCL.US)涨6.14%，报19.18美元。嘉年华游轮2023财年Q4营收为54亿美元，同比增长约41%，高于市场预期的53亿美元；亏损4800万美元，合每股亏损4美分，而去年同期亏损16亿美元，合每股亏损1.27美元。公司CEO表示，预订势头仍在发展，公司正在成功地推动价格上涨。黑色星期五和网络星期一前后两周的预订量创下了同期的历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0225872.d.html</link>
-            <guid>3420312</guid>
-            <pubDate>Thu, 21 Dec 2023 14:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉涨超2% “木头姐”旗下ARK基金增持逾11万股】特斯拉(TSLA.US)涨超2%，报252.2美元。消息面上，特斯拉高管证实Semi电动卡车车队已有近100辆，准备明年批量生产。此外，“木头姐”凯茜·伍德的方舟投资管理公司周三通过旗下两只基金ARKK和ARKW总计买入111387股特斯拉股票，按收盘价计算价值约2570万美元，为近半年来的首次增持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7518508.d.html</link>
-            <guid>3420309</guid>
-            <pubDate>Thu, 21 Dec 2023 14:50:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【赛恩斯：2023年预盈8000万元至8600万元 同比增长20.80%至29.86%】赛恩斯(688480)12月21日晚间公告，公司预计2023年年度实现营业收入7.5亿元至8.5亿元，同比增长36.81%至55.06%。预计实现净利润8000万元至8600万元，同比增长20.80%至29.86%。在政策驱动下今年公司重金属污染防治市场需求有所增长，公司新材料环保市场项目也顺利完成，重金属综合解决方案业绩增长较高，运营服务板块业绩稳步增长。]]></title>
-            <guid>3420307</guid>
-            <pubDate>Thu, 21 Dec 2023 14:46:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【微软弃用Windows混合现实】Windows混合现实时代结束了。在更新的弃用Windows功能列表中，微软添加了Windows混合现实，以及混合现实门户应用程序和用于Steam VR的Windows混合现实。微软表示，Windows混合现实“已被弃用，并将在未来的Windows版本中删除”。微软于2017年首次推出Windows混合现实，作为与HTC和Oculus(现归Meta所有)等虚拟现实竞争对手竞争的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4781024.d.html</link>
-            <guid>3420304</guid>
-            <pubDate>Thu, 21 Dec 2023 14:43:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国铝业公司任命Matt Reed为首席运营官】美国铝业公司12月21日宣布任命Matt Reed为首席运营官，自2024年1月1日起生效。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4294451.d.html</link>
-            <guid>3420303</guid>
-            <pubDate>Thu, 21 Dec 2023 14:41:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果涨超1% 消息称Vision Pro头显计划明年2月发售】苹果(AAPL.US)涨超1%，报196.79美元。有消息称苹果公司已经致信多名开发者，邮件标题为《做好准备》，鼓励其移植和开发visionOS应用程序。彭博社记者古尔曼今日爆料，苹果正提高产能，计划明年2月发售Vision Pro头显。Wedbush分析师Dan Ives预计，到2024年底，苹果的市值将达到4万亿美元。这反映了他认为2024年约有2.2亿至2.3亿部iPhone可供升级的看法。Ives给予苹果“跑赢大盘”评级，目标价为250美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4294176.d.html</link>
-            <guid>3420300</guid>
-            <pubDate>Thu, 21 Dec 2023 14:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中概指数盘初涨2.3%，成分股嘉楠科技涨超115，B站涨约4%，蔚来和百度涨超2%】纳斯达克金龙中国指数盘初上涨2.3%，成分股盛丰物流涨16.5%，嘉楠科技涨11.2%，达达涨4.3%，B站涨3.9%，高途涨3.4%，蔚来涨2.8%，百度涨2.5%，晶科能源涨2.5%，蔚来涨2.7%，大全新能源涨2.6%，新东方涨2.2%。]]></title>
-            <guid>3420296</guid>
-            <pubDate>Thu, 21 Dec 2023 14:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中微半导：部分产品周转率已经很快且供不应求状态】中微半导近期在接受调研时表示，公司库存水位继续下降，且在三季度末就出现结构性缺货，也就是部分产品周转率已经很快且供不应求状态；公司历史上供应都十分充足，所以公司下游客户，无论经销商还是终端客户，均没太多库存。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4779426.d.html</link>
-            <guid>3420294</guid>
-            <pubDate>Thu, 21 Dec 2023 14:35:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浙海德曼：对明年订单充满信心】浙海德曼于机构调研时表示，公司目前在手订单充足，明年海外订单预计将进一步增长，国内部分随着高端机逐年增长，产能进一步释放，尤其是行业龙头企业应用后持续受到好评，国产替代品牌影响力进一步增强；并逐步建立经销、直销相结合，优化营销模式，不断扩大市场份额。公司对明年订单充满信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4292951.d.html</link>
-            <guid>3420293</guid>
-            <pubDate>Thu, 21 Dec 2023 14:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本千叶县以东附近海域发生5.3级地震】据日本广播协会12月21日报道，当地时间当天23时04分左右，日本千叶县以东附近海域发生5.3级地震，最大震感为震度2，震源深度20公里。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4778965.d.html</link>
-            <guid>3420292</guid>
-            <pubDate>Thu, 21 Dec 2023 14:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称已完成在加沙城南部的军事行动】当地时间12月21日，据《耶路撒冷邮报》报道，以色列军方当天下午宣布，以色列国防军第99师已完成在加沙城南部的军事行动，并开始将活动范围扩大到加沙地带中部。目前，哈马斯方面对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4778488.d.html</link>
-            <guid>3420291</guid>
-            <pubDate>Thu, 21 Dec 2023 14:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王子新材：完成定增募资9.29亿元，华泰优颐股票专项型养老金产品等17家获配】王子新材公告，本次非公开发行8942.5万股公司股份，发行价10.39元/股，募集资金9.29亿元。华泰优颐股票专项型养老金产品、财通基金、华夏基金等17家获配。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4290625.d.html</link>
-            <guid>3420286</guid>
-            <pubDate>Thu, 21 Dec 2023 14:23:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度电商公司Flipkart将获沃尔玛6亿美元新投资】印度电子商务公司Flipkart发言人周四表示，最大股东沃尔玛将为公司注入约6亿美元的新资金。知情人士称，Flipkart正在洽谈筹集总额为10亿美元的新资金。新的投资者也在洽谈加入本轮融资，最新的融资可能会使这家印度公司的估值比其目前330亿美元的估值溢价约5%-10%。这与该公司在2021年达到的接近380亿美元的估值仍有差距。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4776144.d.html</link>
-            <guid>3420283</guid>
-            <pubDate>Thu, 21 Dec 2023 14:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全英电网数据显示：英国风力发电量达到21,813 MW，创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0218222.d.html</link>
-            <guid>3420281</guid>
-            <pubDate>Thu, 21 Dec 2023 14:15:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晨光生物：将回购股票金额调整为1亿元-2亿元】晨光生物公告，调整回购公司股份方案，将回购金额由0.5亿元-1亿元调整为1亿元-2亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4775595.d.html</link>
-            <guid>3420280</guid>
-            <pubDate>Thu, 21 Dec 2023 14:14:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【因亲属短线交易公司股票，周大生董事夏洪川收深圳证监局警示函】周大生12月21日公告，公司董事夏洪川于近日收到深圳证监局出具的《深圳证监局关于对夏洪川采取出具警示函措施的决定》。经查，夏洪川担任公司董事期间，其配偶于5月4日至6月28日期间，累计买入公司股票1000股，累计卖出公司股票3750股。上述行为违反了相关法律法规。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4288966.d.html</link>
-            <guid>3420279</guid>
-            <pubDate>Thu, 21 Dec 2023 14:14:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及外长称该国正与红海沿岸国家合作 以确保航行安全】当地时间12月21日，埃及外长舒克里在同英国外交发展大臣卡梅伦举行的联合新闻发布会上表示：“埃及赞同必须维护航行自由的原则。埃及正在与红海沿岸国家合作，以确保航行安全。” （央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0217649.d.html</link>
-            <guid>3420277</guid>
-            <pubDate>Thu, 21 Dec 2023 14:12:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：Stripe三季度净营收增至大约10亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0216380.d.html</link>
-            <guid>3420272</guid>
-            <pubDate>Thu, 21 Dec 2023 14:06:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国光电器：完成定增募资13.84亿元，诺德基金、财通基金等20家获配】国光电器公告，本次非公开发行9971.89万股公司股份，发行价13.88元/股，募集资金13.84亿元。诺德基金、财通基金等20家获配。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7509998.d.html</link>
-            <guid>3420270</guid>
-            <pubDate>Thu, 21 Dec 2023 14:06:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国财政大臣亨特：与瑞士达成首个金融领域协议。协议将作为两个市场之间的桥梁发挥作用。]]></title>
-            <guid>3420265</guid>
-            <pubDate>Thu, 21 Dec 2023 14:04:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国重罚施维雅4.3亿欧元，因糖尿病药被滥用减肥致超500人死亡】当地时间20日，法国巴黎上诉法院维持对法国制药巨头施维雅“严重欺诈罪”与“过失杀人罪”的判决，并对其处以总计超4.3亿欧元，约合人民币33.6亿元的罚款。此前，这家药企的一款糖尿病药物曾经被滥用作减肥药，导致至少500人死亡。对此，施维雅表示，计划向最高法院上诉。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4771663.d.html</link>
-            <guid>3420261</guid>
-            <pubDate>Thu, 21 Dec 2023 13:57:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普利特：向特定对象发行股票拟募集资金总额不超3亿元】普利特公告，向特定对象发行股票拟募集资金总额不超3亿元，用于投资天津普利特新材料有限公司新材料北方智能制造基地（一期）项目、补充流动资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4771444.d.html</link>
-            <guid>3420260</guid>
-            <pubDate>Thu, 21 Dec 2023 13:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【董宇辉预计1月10号恢复直播】 董宇辉在东方甄选直播间中称，上次跟大家说1个月后直播，俞老师根据反馈决定尽量在1月10号恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4284682.d.html</link>
-            <guid>3420258</guid>
-            <pubDate>Thu, 21 Dec 2023 13:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【运机集团：股东博宏丝绸拟减持不超1.9531%公司股份】运机集团公告，股东自贡市博宏丝绸有限公司拟减持不超1.9531%公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0213465.d.html</link>
-            <guid>3420256</guid>
-            <pubDate>Thu, 21 Dec 2023 13:52:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤桂股份：聘任卢勇滨为公司总经理】粤桂股份公告，聘任卢勇滨为公司总经理。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0213279.d.html</link>
-            <guid>3420255</guid>
-            <pubDate>Thu, 21 Dec 2023 13:52:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海金山：鼓励街镇(园区)收储或收购存量低效工业用地】上海金山发布《金山区关于深化产业转型升级促进实体经济高质量发展的若干政策》，新增了鼓励街镇（园区）收储或收购存量低效工业用地、节余工业用地等存量工业用地资源的支持政策。通过主动盘活，引进优质项目，让更多沉睡的土地“醒”过来，更多闲置的资源“活”起来，让有限的资源产出更多经济和社会效益。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0212324.d.html</link>
-            <guid>3420253</guid>
-            <pubDate>Thu, 21 Dec 2023 13:47:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄第一副总理：俄罗斯实现进出口平衡 经济正在适应制裁压力】俄罗斯第一副总理别洛乌索夫在俄罗斯总统普京主持的战略发展和国家项目委员会会议上表示，俄罗斯经济已达到进出口平衡，美元兑卢布稳定在90的水平，这对出口商、消费者和投资市场来说都是可以接受的。今年的初步结果表明，俄罗斯经济整体上正在适应制裁压力。通过与友好国家的伙伴建立有效的合作关系，并迅速制定必要的工具来支持俄罗斯企业，我们设法保持了俄罗斯的出口潜力。并为民众和企业提供必要的物资和资源。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyar4769653.d.html</link>
-            <guid>3420252</guid>
-            <pubDate>Thu, 21 Dec 2023 13:47:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市政府召开上海市经济形势专家座谈会：抢抓机遇 深入谋划 促进上海高质量发展】上海市政府12月21日召开上海市经济形势专家座谈会，与会专家结合自身研究领域，围绕国内外经济形势、未来产业发展趋势、科技创新与产业创新跨区域协同、要素市场服务上海发展等方面各抒己见，为上海优化政策措施建言献策。龚正感谢各位专家为上海经济社会发展出谋划策、贡献智慧，表示将认真研究、梳理吸纳，运用到工作实践中去。他说，当前，我们以加快建设“五个中心”为主攻方向，加快建成具有世界影响力的社会主义现代化国际大都市。我们要抢抓机遇，深入谋划，用好多重国家重大战略任务的叠加优势，抢占新兴产业突破崛起的广阔赛道，抓住流量型经济持续反弹的有利条件，促进上海高质量发展。希望各位专家继续关注上海、研究上海，发挥专长优势，为上海多谋良策、多出高招，为上海发展提供更多智力支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyau4282996.d.html</link>
-            <guid>3420250</guid>
-            <pubDate>Thu, 21 Dec 2023 13:46:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中共中央对外联络部部长刘建超会见伊朗政党联合会干部考察团】中共中央对外联络部部长刘建超在北京会见由伊朗政党联合会主席哈什马提扬率领的干部考察团，就遵循两国领导人重要共识，增进政治互信和理念交流，加强务实合作和国际协作等交换意见。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyas7505383.d.html</link>
-            <guid>3420248</guid>
-            <pubDate>Thu, 21 Dec 2023 13:45:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【禾迈股份：中标国家电力投资集团储能系统电商化采购项目】禾迈股份公告，中标“国家电力投资集团有限公司物资装备分公司、电能易购（北京）科技有限公司二〇二三年度储能系统电商化采购项目(0.5C磷酸铁锂储能系统标段8)”，项目所涉最终金额、履行条款等内容以正式签订的合同为准。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0211531.d.html</link>
-            <guid>3420247</guid>
-            <pubDate>Thu, 21 Dec 2023 13:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【水利部：加快推进在建大型灌区建设进度，不断提升农村供水安全保障水平】12月21日，水利部党组书记、部长李国英主持召开党组会议，传达学习中央农村工作会议精神，研究部署贯彻落实工作。会议强调，集中力量抓好办成一批群众可感可及的水利实事。要扎实推进大中型灌区续建配套与现代化改造，加快推进在建大型灌区建设进度，因地制宜新开工建设一批大型灌区项目。要持续推动巩固拓展水利扶贫成果同推进乡村全面振兴水利保障有效衔接，着力提高规模化供水工程覆盖率，不断提升农村供水安全保障水平。要抓好灾后恢复重建，加快农村水利基础设施建设，统筹推进中小河流治理、水旱灾害防御等相关工作，切实做好各项对口支援、水利帮扶工作，推进乡村全面振兴水利保障工作不断取得实质性进展、阶段性成果。要改进工作方式方法，加强作风建设，大兴调查研究，因地制宜、分类施策，循序渐进、久久为功，确保党中央水利工作决策部署不折不扣贯彻落实到位。]]></title>
-            <guid>3420246</guid>
-            <pubDate>Thu, 21 Dec 2023 13:43:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神十七航天员圆满完成首次出舱任务】今天，经过约7.5小时的出舱活动，神舟十七号航天员汤洪波、唐胜杰、江新林密切协同，在空间站机械臂和地面科研人员配合支持下，完成天和核心舱太阳翼修复试验等既定任务。汤洪波、唐胜杰安全返回问天实验舱，出舱活动圆满成功。汤洪波时隔两年再度漫步太空，唐胜杰成为我国执行出舱任务年龄最小航天员。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-21/detail-imzyuyap0211093.d.html</link>
-            <guid>3420243</guid>
-            <pubDate>Thu, 21 Dec 2023 13:42:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
