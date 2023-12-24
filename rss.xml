@@ -4,15 +4,21 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 24 Dec 2023 15:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 18:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[【中金海外：金融流动性还能支撑美股多久？】中金海外研究团队认为，美股当前的流动性压力不大，但明年二季度或再面临一定压力，除非美联储停止缩表。今年末美联储意外转向和美债利率快速下行吸引了市场所有目光，但实际上，金融流动性的变化也是左右美股市场走势、甚至决定美联储是否需要提前降息的一个关键力量。https://finance.sina.com.cn/roll/2023-12-24/doc-imzzckxv4052582.shtml]]></title>
+            <link>https://finance.sina.cn/7x24/2023-12-25/detail-imzzcvpr3828982.d.html</link>
+            <guid>3423738</guid>
+            <pubDate>Sun, 24 Dec 2023 16:05:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[【外媒：以军遭遇“伤亡最惨重周末”，有14名以军士兵在加沙战斗中死亡】据《以色列时报》12月24日报道，以色列总理内塔尼亚胡在当天的内阁会议上表示，“我们经历了艰难的一天”，“这场战争让我们付出了高昂的代价，但我们别无选择，只能继续战斗。”《以色列时报》报道称，以色列军方24日表示，在这个周末，有14名士兵在加沙的战斗中死亡，而以军10月27日对加沙发动地面进攻以来，以军死亡的士兵人数已达到153人。美联社在报道中指出，本周末是10月27日以来，以军伤亡最惨重的一个周末。(环球网)]]></title>
-            <guid>3423735</guid>
-            <pubDate>Sun, 24 Dec 2023 15:02:07 GMT</pubDate>
+            <guid>3423737</guid>
+            <pubDate>Sun, 24 Dec 2023 15:10:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【海南启动建设省内首个年捕集利用6万吨二氧化碳项目】今日在华润水泥（昌江）有限公司厂区内，飞灰及危废处置项目和碳中和研发平台建设项目启动建设。碳中和研发平台一期项目包括建设海南省内首个年捕集利用6万吨二氧化碳项目。]]></title>
@@ -386,24 +392,6 @@
             <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzcerw1178692.d.html</link>
             <guid>3423637</guid>
             <pubDate>Sun, 24 Dec 2023 08:09:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来李斌：预计2035年中国汽车品牌在全球前十车企中占五家】12月24日，在蔚来媒体沟通会上，蔚来创始人、董事长、CEO李斌预计，2035年左右，在全球前十名汽车集团中，中国汽车品牌有望占五家。从全球汽车市场来看，中国汽车企业其实都是“新势力”，都是过去一二十年成长起来的。李斌坦言，今年蔚来表现和期许有些差距，内部也在反思，但还是充满信心。“企业的第一业务是赢得市场竞争。”（一财）]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzcery1934401.d.html</link>
-            <guid>3423636</guid>
-            <pubDate>Sun, 24 Dec 2023 08:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱柯迪：股东拟减持公司不超1%股份】爱柯迪12月24日晚间公告，公司持股4.92%的股东XUDONG INTERNATIONAL LIMITED，拟通过集中竞价方式减持公司股份不超过897.22万股，即不超过公司目前总股本的1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzcerw1176801.d.html</link>
-            <guid>3423635</guid>
-            <pubDate>Sun, 24 Dec 2023 08:00:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神州数码可转债中签号出炉 共约37.72万个】神州数码12月24日晚间披露向不特定对象发行可转换公司债券中签号码，中签号码共有377212个，每个中签号码只能认购10张（1000元）神码转债。]]></title>
-            <link>https://finance.sina.cn/7x24/2023-12-24/detail-imzzceru4399214.d.html</link>
-            <guid>3423634</guid>
-            <pubDate>Sun, 24 Dec 2023 07:58:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
