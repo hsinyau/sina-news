@@ -4,274 +4,244 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 17 Jan 2024 15:06:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 18:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[南非Transnet公司：在火车碰撞事故后，预计将于1月18日部分恢复煤炭线路服务。]]></title>
+            <guid>3455101</guid>
+            <pubDate>Wed, 17 Jan 2024 18:08:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：新的三星Galaxy S24系列手机将使用Gemini模型。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpr2765392.d.html</link>
+            <guid>3455100</guid>
+            <pubDate>Wed, 17 Jan 2024 18:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三星手机业务主管Roh：三星将在上半年为一些旧型号手机增加AI功能。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpp5988094.d.html</link>
+            <guid>3455099</guid>
+            <pubDate>Wed, 17 Jan 2024 18:07:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[三星手机业务主管Roh：预计AI功能帮助全球智能手机市场反弹。三星寻求在S24系列手机的助力下实现双位数销售增速。]]></title>
+            <guid>3455097</guid>
+            <pubDate>Wed, 17 Jan 2024 18:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月18日01时55分在新疆克孜勒苏州阿图什市（北纬40.20度，东经77.39度）发生3.3级地震，震源深度15千米。]]></title>
+            <guid>3455096</guid>
+            <pubDate>Wed, 17 Jan 2024 18:04:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【三星发布搭载谷歌AI工具的Galaxy S24智能手机】三星电子17日在美国加州圣何塞举行全球新品发布会“三星Galaxy Unpacked 2024”，推出搭载人工智能（AI）技术的Galaxy S24系列智能手机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3101092.d.html</link>
+            <guid>3455094</guid>
+            <pubDate>Wed, 17 Jan 2024 18:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：AI驱动的多搜索结果概览将于本周在美国以英文版本推出。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpr2764428.d.html</link>
+            <guid>3455093</guid>
+            <pubDate>Wed, 17 Jan 2024 18:01:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌：推出Circle搜索，将于1月31日在Pixel 8、Pixel 8 Pro和三星Galaxy S24系列上推出，适用于所有可用的语言和地区。]]></title>
+            <guid>3455092</guid>
+            <pubDate>Wed, 17 Jan 2024 18:01:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[嘉信理财（SCHW）目前跌2%，美股盘初一度跌超7.2%，该公司CEO称面临2000年以来最具挑战性的时刻。]]></title>
+            <guid>3455086</guid>
+            <pubDate>Wed, 17 Jan 2024 17:54:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涉嫌贿选 日本前法务副大臣遭起诉】卷入贿选丑闻的日本前法务副大臣、国会众议员柿泽未途1月17日被检方正式指控。日本媒体认为，在执政党自由民主党政治资金丑闻发酵的背景下，这起事件将加剧公众对政府的不信任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3097734.d.html</link>
+            <guid>3455077</guid>
+            <pubDate>Wed, 17 Jan 2024 17:29:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：亚马逊(AMZN.O)寻求在6月30日推出Alexa付费计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3096910.d.html</link>
+            <guid>3455076</guid>
+            <pubDate>Wed, 17 Jan 2024 17:23:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔进入“国内武装冲突”状态以来已逮捕1975人】厄瓜多尔总统府当地时间1月17日发布报告称，自该国9日进入“国内武装冲突”状态以来，厄安全部队已逮捕1975人，其中158人因涉恐被捕。报告显示，9日以来，厄安全部队共执行超过2万次行动，其中55次针对恐怖团伙。安全部队在行动中打死5名恐怖分子，抓回32名越狱逃犯，并缴获大量枪械和刀具等。报告称，自厄瓜多尔进入“国内武装冲突”状态以来，厄全国共发生25次袭击，其中12次针对警务基础设施。截至目前，厄安全部队已解救被囚犯挟持在多所监狱中的201人。近日，厄瓜多尔相继发生毒枭越狱、监狱骚乱、武装人员闯进电视台挟持工作人员等恶性事件。厄总统诺沃亚9日签署行政令，宣布厄进入“国内武装冲突”状态，号召武装部队和警察打击全国范围内的有组织犯罪。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3096348.d.html</link>
+            <guid>3455071</guid>
+            <pubDate>Wed, 17 Jan 2024 17:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧瑞康集团董事局主席迈克尔·苏斯表示，工业社会在现代发挥着至关重要的作用，能够促进就业并创造财富。他指出，数字化、现代机器、新材料、AI等技术的结合可以提高生产力，推动制造业进一步发展。他也呼吁制造业以更全面的眼光思考问题，满足客户需求。（ 世界经济论坛 ）]]></title>
+            <guid>3455070</guid>
+            <pubDate>Wed, 17 Jan 2024 17:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[江森自控董事长兼首席执行官乔治·奥利弗指出，制造业的企业不仅要持续创新，还应重视可持续发展。同时，他呼吁投资数字技术、数据分析、AI等领域，以推动制造业健康、可持续发展，促进其他相关行业提高生产力，并刺激经济增长。（世界经济论坛）]]></title>
+            <guid>3455069</guid>
+            <pubDate>Wed, 17 Jan 2024 17:15:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国国务卿布林肯被困瑞士 其波音飞机发生故障】据报道，由于飞机出现严重故障，美国国务卿安东尼·布林肯无法按计划于周三从达沃斯返回美国。在乘坐直升机从达沃斯起飞并登上改装后的波音737后，布林肯和他的团队被告知该飞机被认为无法安全飞行。先前检测到的氧气泄漏问题无法修理。一架较小的喷气式飞机正从布鲁塞尔飞往苏黎世，接回这位美国最高级外交官。不过，他的许多助手和新闻界人员将不得不乘坐商业航班前往华盛顿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpu2424292.d.html</link>
+            <guid>3455068</guid>
+            <pubDate>Wed, 17 Jan 2024 17:14:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴基斯坦外交部：伊朗外交部长表示，此前的事件对巴基斯坦和伊朗之间的双边关系造成了严重损害。]]></title>
+            <guid>3455064</guid>
+            <pubDate>Wed, 17 Jan 2024 17:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷外交部长：阿根廷希望加快签署南方共同市场-欧盟协议的步伐。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3095248.d.html</link>
+            <guid>3455063</guid>
+            <pubDate>Wed, 17 Jan 2024 17:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[声明显示，巴基斯坦外交部长接到伊朗外交部长的电话。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3094736.d.html</link>
+            <guid>3455061</guid>
+            <pubDate>Wed, 17 Jan 2024 16:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡桑旅称从黎巴嫩南部向以军军营发射火箭弹】当地时间1月17日下午，巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别“卡桑旅”发表声明称，当天其从黎巴嫩南部向以色列北部加利利地区以西的一处以军军营发射了20枚火箭弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3094659.d.html</link>
+            <guid>3455059</guid>
+            <pubDate>Wed, 17 Jan 2024 16:58:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克真的需要特斯拉的25%投票权吗？媒体：不用】特斯拉首席执行官马斯克日前公然在社交媒体上向董事会索要更多股权，称希望持股达到25%以上，否则有被架空的风险。有媒体表示，马斯克提出的这一持股比例值得怀疑，因为如果2018年薪酬计划得到执行，他的持股将达到20%以上，会计上就已经取得显著的影响力。而且，如果马斯克的持股达到25%，会加剧特斯拉的公司治理困境。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpu2422793.d.html</link>
+            <guid>3455058</guid>
+            <pubDate>Wed, 17 Jan 2024 16:58:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【约旦称其位于加沙地带南部汗尤尼斯的野战医院严重受损】约旦军方17日发表声明说，由于以色列对加沙地带南部汗尤尼斯的袭击，位于汗尤尼斯的约旦野战医院严重受损。声明批评以色列“公然违反国际法”。对此，以色列军方暂未作出回应。据法新社报道，16日夜间至17日凌晨，以色列军方持续袭击汗尤尼斯。]]></title>
+            <guid>3455054</guid>
+            <pubDate>Wed, 17 Jan 2024 16:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：计划提高法国对企业的吸引力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpu2421672.d.html</link>
+            <guid>3455053</guid>
+            <pubDate>Wed, 17 Jan 2024 16:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议院多数党领袖舒默表示，如果所有人都本着善意合作，明天可以通过临时支出法案。]]></title>
+            <guid>3455049</guid>
+            <pubDate>Wed, 17 Jan 2024 16:37:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：法庭文件显示，卡塔尔前财政部长埃马迪被判犯有洗钱罪，卡塔尔法院判处埃马迪20年监禁，罚款超过167亿美元。]]></title>
+            <guid>3455048</guid>
+            <pubDate>Wed, 17 Jan 2024 16:36:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[塞尔维亚总统武契奇：下届政府或重新考虑力拓集团的锂项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpn3092106.d.html</link>
+            <guid>3455047</guid>
+            <pubDate>Wed, 17 Jan 2024 16:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SpaceX：现定于1月18日进行AX-3任务的发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwkpp5972964.d.html</link>
+            <guid>3455045</guid>
+            <pubDate>Wed, 17 Jan 2024 16:30:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【意大利政府向艾米利亚-罗马涅大区提供12亿欧元欧盟资金用于灾后重建】欧盟委员会主席冯德莱恩访问意大利艾米利亚-罗马涅大区，并与意大利总理梅洛尼举行会谈。其间意大利政府与艾米利亚-罗马涅大区签署协议，将利用12亿欧元欧盟资金向2023年5月遭受严重水灾的艾米利亚-罗马涅大区灾后重建提供经济援助。2023年5月，意大利北部艾米利亚-罗马涅大区因强降雨引发洪灾，造成十多人死亡，经济损失高达数十亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwefr6100980.d.html</link>
+            <guid>3455042</guid>
+            <pubDate>Wed, 17 Jan 2024 16:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多哥总统福雷会见王毅】当地时间2024年1月17日，多哥总统福雷在洛美会见到访的中共中央政治局委员、外交部长王毅。王毅说，中国为发展中国家探索符合自身国情的发展道路提供了借鉴。我们愿同非洲分享发展经验和机遇，实现中国和非洲共同的现代化。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacweft2876376.d.html</link>
+            <guid>3455039</guid>
+            <pubDate>Wed, 17 Jan 2024 16:07:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗伊斯兰革命卫队一名军官遇袭身亡】据伊朗官方通讯社当地时间17日消息，伊朗伊斯兰革命卫队一名军官在锡斯坦-俾路支斯坦省执行任务返回的途中遭枪击身亡，相关方正在追查肇事者。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-18/detail-inacwefw2546132.d.html</link>
+            <guid>3455035</guid>
+            <pubDate>Wed, 17 Jan 2024 16:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国联邦航空管理局完成对首批波音737 MAX 9型客机的检查】美国联邦航空管理局表示，已完成对首批40架波音737 MAX 9型客机的检查。美国阿拉斯加航空公司一架波音737 MAX 9型客机1月5日在空中发生事故，机舱侧面一处门塞脱落，飞机随即紧急降落。之后，所有同型号飞机被停飞，等待美国联邦航空管理局的安全检查。据美国联邦航空管理局表示，检查完成后，该机构将“彻底审查数据”，以决定该型号飞机是否可以恢复飞行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacweft2873828.d.html</link>
+            <guid>3455034</guid>
+            <pubDate>Wed, 17 Jan 2024 15:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国和菲律宾举行南海问题双边磋商机制第八次会议】据外交部网站，2024年1月17日，外交部部长助理农融在上海同菲律宾外交部副部长拉扎罗共同主持召开中菲南海问题双边磋商机制(BCM)第八次会议。双方就南海形势和各自关切的涉海问题坦诚、深入地交换了意见，双方一致认为要不折不扣落实两国元首就涉海问题达成的重要共识，强调南海的和平稳定符合中菲共同利益，也是地区国家的共同目标。双方重申南海争议不是双边关系的全部，认为保持沟通对话对维护海上和平稳定至关重要。双方同意进一步完善涉海沟通机制，继续通过友好协商妥善管控涉海矛盾分歧，处理好海上紧急事态，特别是管控好仁爱礁现地局势，不断推进海上务实合作，为中菲关系健康稳定发展创造良好条件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2545497.d.html</link>
+            <guid>3455033</guid>
+            <pubDate>Wed, 17 Jan 2024 15:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土耳其战机针对伊拉克库区杜胡克省北部地区发动空袭】 据伊拉克库尔德自治区（库区）安全部门消息，当地时间1月17日，土耳其战机针对伊拉克库区杜胡克省北部阿马迪耶地区发动空袭。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2545155.d.html</link>
+            <guid>3455031</guid>
+            <pubDate>Wed, 17 Jan 2024 15:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国国王查尔斯由于前列腺疾病将于下周入院接受治疗】英国王室当地时间17日发表声明称，英国国王查尔斯由于前列腺疾病将于下周入院接受治疗，未来公共活动将会被推迟。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3216691.d.html</link>
+            <guid>3455030</guid>
+            <pubDate>Wed, 17 Jan 2024 15:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国将也门胡塞武装列为特别指定的全球恐怖组织。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2543238.d.html</link>
+            <guid>3455026</guid>
+            <pubDate>Wed, 17 Jan 2024 15:33:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【花旗继续推进裁员 EMEA地区债务融资主管离职】根据知情人士透露，花旗集团欧洲、中东及非洲地区债务融资主管Simon Francis已离职。领英个人资料显示Francis已在该行工作近七年。他的离职正值花旗首席执行官Jane Fraser致力于移除5个管理层级，实行大规模重组之际。Fraser去年9月启动了花旗集团几十年来最大的重组行动。她表示此举将使该行能够消除官僚作风，并会使管理层级从13个减少到8个。仅重组一项就有望每年为花旗节省10亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3214129.d.html</link>
+            <guid>3455024</guid>
+            <pubDate>Wed, 17 Jan 2024 15:27:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼勒沃托比火山喷发 火山灰柱高度达1500米】据印尼火山和地质灾害研究机构（PVMBG）消息，当地时间1月17日17时23分，印尼勒沃托比火山喷发，火山灰柱高度距火山口达1500米，喷发持续时间为55秒。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2542222.d.html</link>
+            <guid>3455022</guid>
+            <pubDate>Wed, 17 Jan 2024 15:26:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Azrieli对数据中心部门未来的选项进行权衡 包括进行IPO】据知情人士透露，以色列房地产公司Azrieli Group Ltd.正在考虑为其数据中心部门进行首次公开募股(IPO)等选择。上述知情人士说，Azrieli已与潜在顾问就这家名为绿山(Green Mountain)的公司的可能性进行了初步讨论。知情人士称，该公司还可能寻求为这家总部位于挪威的子公司进行一轮私人融资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3214011.d.html</link>
+            <guid>3455021</guid>
+            <pubDate>Wed, 17 Jan 2024 15:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国阿拉斯加航空：美国联邦航空管理局（FAA）要求波音(BA.N)提供更多数据，然后才能批准波音提出的检查和维护指南。]]></title>
+            <guid>3455019</guid>
+            <pubDate>Wed, 17 Jan 2024 15:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【263家A股上市公司发布2023年业绩预告，超七成报告业绩预喜】Wind数据显示，截至1月17日21时，A股共有268家上市公司披露2023年全年业绩预告，211家公司预喜，预喜比例约为78.73%。从行业角度看，汽车制造，生物医药，计算机、通信和其他电子设备制造业，通用设备制造业等行业上市公司业绩表现亮眼。其中，装饰原纸行业龙头齐峰新材2023年净利润同比增长2554.62%至2967.56%，笑傲同侪。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacweft2868349.d.html</link>
+            <guid>3455015</guid>
+            <pubDate>Wed, 17 Jan 2024 15:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦-伊朗边境贸易联合委员会会议被暂停 巴基斯坦代表团提前返程】当地时间17日，受伊朗在巴基斯坦境内打击恐怖组织目标的影响，正在伊朗恰巴哈尔举行的巴基斯坦-伊朗边境贸易联合委员会会议被暂停，巴基斯坦代表团提前返回巴基斯坦。该会议原计划签署两国促进贸易的谅解备忘录。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3211036.d.html</link>
+            <guid>3455013</guid>
+            <pubDate>Wed, 17 Jan 2024 15:08:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[市场消息：谷歌(GOOG.O)将调整在线搜索结果，让比较网站更加突出。]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3210034.d.html</link>
             <guid>3455008</guid>
             <pubDate>Wed, 17 Jan 2024 15:01:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[爱沙尼亚总理：乌克兰的盟友必须在军费上超过俄罗斯才能取得胜利。乌克兰的盟友至少可筹集1200亿美元。]]></title>
-            <guid>3454997</guid>
-            <pubDate>Wed, 17 Jan 2024 14:50:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利财政部长：夏季可能降息是“好消息”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2536091.d.html</link>
-            <guid>3454996</guid>
-            <pubDate>Wed, 17 Jan 2024 14:48:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国中车：与莫桑比克客户再次签约】据中国中车消息，近日，中国中车与莫桑比克客户成功签约300辆敞车和120个罐箱。这是中车山东公司继2022年交付300辆敞车和120个罐箱后，在同一市场再次签约。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3207628.d.html</link>
-            <guid>3454993</guid>
-            <pubDate>Wed, 17 Jan 2024 14:46:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开年不足20天，蔚来极氪特斯拉等至少8个新能源车品牌官宣促销】1月17日，蔚来汽车宣布将对现有车型进行配置更新，2024款车型将于3月上旬陆续开启交付，同时为2023款车型提供短时购车礼遇。据不完全统计，在此之前的两周内，已有理想汽车、特斯拉等7家新能源品牌宣布了降价信息。业内人士普遍预期，车企将重新开启价格战并贯穿2024年全年。此前乘联会秘书长崔东树就曾表示，新能源车“开局即决战”，将会在今年一季度迎来“强势的增长”。针对上述车企开年降价，中国汽车流通协会副秘书长郎学红评价说，春节前的购车需求高峰其实大部分来自低线城市和农村地区的消费者，他们更倾向于选择传统燃油车。这会使得新能源车在1月份的渗透率有短暂回落，相关新能源车企会感受到一定的压力，在这一阶段的降价促销也是车企为了争夺行情。（澎湃新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacweft2864696.d.html</link>
-            <guid>3454991</guid>
-            <pubDate>Wed, 17 Jan 2024 14:45:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有机硅DMC突现订单潮 有厂商订单排到2月末】针对有机硅概念股走热，记者从业内了解到，产业链当前供给过剩问题依然显著，短期难言拐点，但有机硅DMC在厂商“挺价惜售”刺激下出现了一轮“量价齐升”行情，下游贸易商一改看跌情绪纷纷补货，DMC厂商订单普遍排到2月中下旬至月末。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2535137.d.html</link>
-            <guid>3454989</guid>
-            <pubDate>Wed, 17 Jan 2024 14:41:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【嘉实国际CEO兼首席投资官变更】嘉实国际资产管理有限公司已在近期对团队结构进行重塑，并对公司人员进行合理调整，以增强公司在全球市场的服务能力。据了解，近日，嘉实国际董事会决定，任命韩同利为嘉实国际首席执行官兼首席投资官，带领团队践行嘉实基金跨境及海外业务战略，对嘉实国际的经营结果全面负责。（中证金牛座）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2534950.d.html</link>
-            <guid>3454988</guid>
-            <pubDate>Wed, 17 Jan 2024 14:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【30余家上市公司盘后披露2023年业绩预增或预盈公告 齐峰新材同比最高预增2968%】截至发稿，据不完全统计，盘后包括齐峰新材、航亚科技、力生制药、无锡振华、泛亚微透、长源东谷、鲍斯股份、科林电气、木林森、天利科技、双箭股份、长青集团、三雄极光、行动教育、古越龙山、蓝特光学、上声电子、唯捷创芯、嘉益股份、萤石网络、洛凯股份、乖宝宠物、润和软件、伟思医疗、云路股份、雪峰科技、天鹅股份、万润股份、华测检测在内的累计29家上市公司披露2023年全年业绩预增公告。此外，还有益生股份、锐明技术、乾照光电、中南股份、茶花股份共5家上市公司披露全年业绩预盈公告。]]></title>
-            <guid>3454985</guid>
-            <pubDate>Wed, 17 Jan 2024 14:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度央行行长达斯：预计印度2025财年CPI均值大约为4.5%】印度央行行长达斯表示，预计印度2025财年CPI均值大约为4.5%；食品价格将对通胀造成相当程度的影响；需要积极地通过货币政策来抑制通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefq3205547.d.html</link>
-            <guid>3454984</guid>
-            <pubDate>Wed, 17 Jan 2024 14:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【史上最低 iPhone15再降价】据了解，在1月17日晚8点到1月31日期间，天猫AppleStore旗舰店的iPhone15全系列券后优惠1000元，到手4999元起，比前几天苹果官网推出的“迎新春限时优惠”活动还要便宜500元。而在京东Apple自营店上，1月17日晚8点，iPhone15全系列优惠后到手4949元起，直降1050元。今日，“iPhone15价格跌至史上最低”话题也冲上微博热搜。为何苹果今年以来“优惠频出”？IDC中国高级分析师郭天翔接受记者采访时表示，主要原因还是iPhone15系列在中国市场的销售情况低于预期。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefr6085386.d.html</link>
-            <guid>3454982</guid>
-            <pubDate>Wed, 17 Jan 2024 14:32:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国务院安全生产委员会印发《关于防范遏制矿山领域重特大生产安全事故的硬措施》】据应急管理部消息，国务院安全生产委员会印发《关于防范遏制矿山领域重特大生产安全事故的硬措施》。其中提到，矿山企业主要负责人（含实际控制人）必须依法到现场严格履行安全生产第一责任人责任，严格执行全员安全生产岗位责任制；对安全管理责任不落实、安全生产投入不足、冒险组织作业等造成事故或者瞒报谎报事故的，依法从严从重处理处罚，按照“谁投资、谁受益、谁负责”严肃追究主要负责人法律责任。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefr6085041.d.html</link>
-            <guid>3454979</guid>
-            <pubDate>Wed, 17 Jan 2024 14:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国联邦航空管理局称正在调查波音公司的制造方法】美国联邦航空管理局（FAA）1月17日表示，目前正在调查波音公司的制造方法和生产线，包括涉及分包商Spirit AeroSystems的生产线，将加强对波音公司的监督，并研究潜在的系统变更。美国联邦航空管理局称，首批40项检查已完成，将对数据进行严格审查。美国联邦航空管理局还表示，所有装有机舱门板的737-9 MAX飞机将继续停飞，直至这些飞机满足美国联邦航空管理局所有安全要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2532486.d.html</link>
-            <guid>3454978</guid>
-            <pubDate>Wed, 17 Jan 2024 14:28:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[嘉信理财美股盘前跌幅扩大至5.9%。最新业绩报告显示，该公司四季度总体净心增资产663亿美元，分析师预期675.4亿美元。四季度净利息收入21.3亿美元，分析师预期21.4亿美元。四季度总体客户资产增长20.8%，分析师预期增长18.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2530669.d.html</link>
-            <guid>3454974</guid>
-            <pubDate>Wed, 17 Jan 2024 14:19:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行行长沙克蒂坎塔·达斯：预计1月通胀将趋于稳定。卢比的稳定归功于强大的宏观经济基本面和资本流动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2530418.d.html</link>
-            <guid>3454972</guid>
-            <pubDate>Wed, 17 Jan 2024 14:17:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恶劣天气严重影响德国多地交通 机场航班大面积取消】由于德国南部和中部大面积地区出现降雪和冻雨，德国多地交通受到严重影响。德国法兰克福和慕尼黑两大机场当天取消了800多个航班，靠近法国边境的萨尔布吕肯机场则完全关闭。德国法兰克福和斯图加特等地开往法国巴黎的火车当天被取消，降雪地区的高速列车也被要求限速行驶。德国南部的多条高速公路上当天还发生了数十起事故。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefr6082430.d.html</link>
-            <guid>3454971</guid>
-            <pubDate>Wed, 17 Jan 2024 14:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国12月产能利用率 78.6%，预期78.70%，前值78.80%。美国12月制造业产出月率 0.1%，预期0.00%，前值0.30%。美国12月制造业产能利用率 77.1%，前值77.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacwefw2529891.d.html</link>
-            <guid>3454970</guid>
-            <pubDate>Wed, 17 Jan 2024 14:15:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[合资公司Simco Lithium正与诸多投资者洽谈项目融资事宜。该公司估值15亿-20亿美元，希望能成为智利第三大锂生产商。该公司由新加坡投资基金和智利企业团体所有。代表基金公司Simbalik的董事会成员Sebastian Yang称，Simco Lithium正探索出售非控股股份的事宜。]]></title>
-            <guid>3454968</guid>
-            <pubDate>Wed, 17 Jan 2024 14:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【杭州银行：第一大股东将由杭州市财政局变更为杭州财开集团】杭州银行公告，杭州市财政局将持有的7.03亿股公司股份转至杭州财开集团。杭州市财政局将由直接控制杭州银行11.86%股份变为间接控制杭州银行18.74%股份。杭州银行第一大股东将由杭州市财政局变更为杭州财开集团。本次交易尚待依法履行监管审批程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3331089.d.html</link>
-            <guid>3454964</guid>
-            <pubDate>Wed, 17 Jan 2024 14:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波音盘前转涨，现涨1.5%，此前美国联邦航空管理局（FAA）称对波音737 MAX 9飞机进行的前40次检查已经完成。]]></title>
-            <guid>3454963</guid>
-            <pubDate>Wed, 17 Jan 2024 14:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【意大利外长：正在同法国德国制定欧盟红海护航计划】当地时间17日，意大利副总理兼外长塔亚尼表示，意大利正在同法国、德国一起制定欧盟在红海开展护航的提案，计划将欧盟在霍尔木兹海峡实施的护航扩大到红海。非欧盟国家或可参与欧盟的护航行动。塔亚尼对护航行动最终获得欧盟批准表示乐观，希望欧盟能够尽早开展护航。他还说，红海的紧张局势显然会对意大利的多个港口产生负面影响。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3330686.d.html</link>
-            <guid>3454962</guid>
-            <pubDate>Wed, 17 Jan 2024 14:07:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局（FAA）对产品线的调查涉及到波音公司供应商Spirit AeroSystems。]]></title>
-            <guid>3454960</guid>
-            <pubDate>Wed, 17 Jan 2024 14:06:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大千生态：公司控制权拟发生变更 股票1月18日复牌】大千生态公告，公司控股股东大千投资拟向天盛益和协议转让其持有的大千生态17.09%股份，转让价格为23.21元/股，标的股份转让总价款为5.38亿元。若本次交易顺利完成，公司控股股东将由大千投资变更为天盛益和，实际控制人将由栾剑洪、范荷娣夫妇变更为范中华。公司股票将于1月18日上午开市起复牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3330478.d.html</link>
-            <guid>3454959</guid>
-            <pubDate>Wed, 17 Jan 2024 14:06:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI创始人Sam Altman：目前的首要任务是推出新模型，很可能被称为GPT-5。]]></title>
-            <guid>3454958</guid>
-            <pubDate>Wed, 17 Jan 2024 14:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【龙年纪念币、钞抢购火爆 二手市场价格炒至3倍 专家：后续溢价空间不大】自1月3日启动预约以来，龙年纪念币、纪念钞热度空前，出现了全民抢“龙”，甚至一“龙”难求的情况。在二手交易平台上，龙币龙钞的价格被炒至3倍以上，目前小幅回落。对于龙年纪念币纪念钞的投资属性和后续溢价空间，1月17日，浙江大学国际联合商学院数字经济与金融创新研究中心联席主任、研究员盘和林表示，溢价空间或许不会太大。（红星资本局）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3330262.d.html</link>
-            <guid>3454957</guid>
-            <pubDate>Wed, 17 Jan 2024 14:05:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【报喜鸟：去年第四季度公司各品牌终端零售均实现良好增长】报喜鸟在机构调研时表示，去年第四季度公司各品牌终端零售均实现良好增长，10、11、12月终端零售同比增速逐月提升，且直营渠道表现好于加盟，线下好于线上。但终端零售并不能完全等同于财务收入，因为买断加盟商是以发货确认收入，不是以加盟商终端实现零售来确认。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3329879.d.html</link>
-            <guid>3454956</guid>
-            <pubDate>Wed, 17 Jan 2024 14:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市房地产经纪行业协会成立保障性租赁住房专委会】据新京报，日前，上海市房地产经纪行业协会召开“保障性租赁住房专业委员会成立会议”。会上，上海市房地产经纪行业协会秘书处介绍了保租房专委会的前期筹备工作、审议通过了《保租房专委会章程（草案）》、并通过现场不计名投票方式选举产生了第一届保租房专委会的主任单位。地产城方被推选为主任单位，魔方智联和徐汇房地产市场管理公司被推选为副主任单位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3329728.d.html</link>
-            <guid>3454955</guid>
-            <pubDate>Wed, 17 Jan 2024 14:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【iPhone 16 Pro系列1TB机型或采用QLC闪存】据报道，为了降低成本，配备 1TB 存储的 iPhone 16 Pro 系列机型可能会采用读写速度更慢的 QLC NAND 闪存。目前苹果在 iPhone 上使用的是价格更昂贵的 TLC NAND 闪存。QLC 闪存的优势在于可以在更小的空间中塞入更多存储，并且成本更低，但缺点是读写速度较慢，而且耐久性和可靠性也低于 TLC 闪存。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxy2657788.d.html</link>
-            <guid>3454954</guid>
-            <pubDate>Wed, 17 Jan 2024 14:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储理事鲍曼：提高银行资本金要求的提议需要“实质性修改”，以解决“已知缺陷”。谨慎乐观地认为决策者可以在银行资本规则制定方面达成合理妥协。按照提议实施更严格的资本要求可能会对美国经济造成“重大伤害”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3329241.d.html</link>
-            <guid>3454953</guid>
-            <pubDate>Wed, 17 Jan 2024 14:01:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国外交大臣卡梅伦：伊朗的行为是不可接受的。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3329063.d.html</link>
-            <guid>3454952</guid>
-            <pubDate>Wed, 17 Jan 2024 14:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局（FAA）：目前正在调查波音(BA.N)的制造行为和生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3329041.d.html</link>
-            <guid>3454951</guid>
-            <pubDate>Wed, 17 Jan 2024 14:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至1月13日当周红皮书商业零售销售年率 5%，前值5.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxt6209891.d.html</link>
-            <guid>3454950</guid>
-            <pubDate>Wed, 17 Jan 2024 14:00:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国雅宝宣布裁员，以期节约成本】美国雅宝勾勒诸多行动计划，其中包括裁员，以保持（业绩）增长。2024年一季度将计提费用，预计同期将实现节省超过0.5亿美元成本。预计成本将按年降低0.95亿美元左右，预计2024年资本开支16亿-18亿美元，相比之下，2023年开支大约21亿美元。 美国雅宝（ALB）股价美股盘前冲高回落，目前跌超1.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxt6209795.d.html</link>
-            <guid>3454949</guid>
-            <pubDate>Wed, 17 Jan 2024 13:59:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一纸降租公告带崩REITs市场，京东回应】1月8日至12日交易周，中国已发行的30只REITs中，23只下跌。物流仓储是地震重灾区，京东仓储REIT、普洛斯REIT、盐田港REIT分别下跌21.91%、17.8%和11.21%。经历断崖式下跌，并带崩整个不动产投资信托基金（REITs）后，1月17日，嘉实京东仓储基础设施REIT（“京东仓储REIT”）紧急召开经营情况说明会。京东产发基金合作部负责人马骍在会上表示，2023年市场需求不景气，影响到潜在租户的信心，造成了包括武汉在内的部分城市地区高标仓需求及租金的下降，是京东仓储REIT下跌的主要原因。（财新网）]]></title>
-            <guid>3454947</guid>
-            <pubDate>Wed, 17 Jan 2024 13:57:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦航空管理局（FAA）：对波音737 MAX 9飞机进行的前40次检查已经完成，将对数据进行彻底审查。]]></title>
-            <guid>3454943</guid>
-            <pubDate>Wed, 17 Jan 2024 13:55:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及外长同希腊外长举行会谈 讨论巴以局势等问题】埃及外长舒克里同希腊外长杰拉佩特里蒂斯举行会谈。双方就巴以局势等问题进行了讨论，会后双方举行了联合新闻发布会。舒克里在发布会上说，双方在会谈中一致强调，必须停止加沙地带的冲突，遏制危机的进一步升级，同时全面落实人道主义援助物资进入加沙地带。双方还就埃及、希腊和塞浦路斯三方关系问题进行了讨论，就三国近期举行三方峰会问题进行了协调。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxt6209074.d.html</link>
-            <guid>3454940</guid>
-            <pubDate>Wed, 17 Jan 2024 13:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒宝股份：公司仅产生少量与数字人民币相关的业务收入】恒宝股份1月17日在互动平台表示，公司目前已围绕数字人民币产品及解决方案进行了系列布局及技术、产品储备，并积极配合客户开展试点场景建设，实现了场景落地和少量供货，但由于目前数字人民币仍处于试点阶段，公司仅产生少量与数字人民币相关的业务收入，尚未形成规模，对公司业绩影响较小。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3327750.d.html</link>
-            <guid>3454939</guid>
-            <pubDate>Wed, 17 Jan 2024 13:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民爆光电：运费上涨对公司的费用没有影响】关于“最近由于红海局势的影响，海运费有一些上涨，这个对公司有没有影响”的问题，民爆光电在接受机构调研时表示，公司出口订单以FOB计价为主，产品离港后到客户端的运费由客户承担，所以运费上涨对公司的费用没有影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxy2655701.d.html</link>
-            <guid>3454938</guid>
-            <pubDate>Wed, 17 Jan 2024 13:51:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[荷兰首相吕特：今天的北约关乎安全。与美国的关系至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxy2655499.d.html</link>
-            <guid>3454937</guid>
-            <pubDate>Wed, 17 Jan 2024 13:50:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【先导智能与远东股份签署战略合作协议】先导智能消息，1月16日，先导智能与远东股份正式签署战略合作协议。双方将围绕复合集流体等材料装备、锂电装备、智能制造、电线电缆及储能采购方面进行全方位的战略资源共享，共同探索锂电池未来关键技术，推动新能源产业实现数智化转型和提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxt6207356.d.html</link>
-            <guid>3454931</guid>
-            <pubDate>Wed, 17 Jan 2024 13:45:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通称黑客攻击次数增加了一倍 达到每天450亿次】在华尔街巨头摩根大通及竞争对手继续应对全球网络犯罪激增之际，该行的系统现在每天遭受黑客攻击450亿次。摩根大通资产和财富管理部门主管Mary Callahan Erdoes在达沃斯世界经济论坛的小组会议上表示，这是去年该行遭遇黑客攻击日均次数的两倍。“欺诈者变得更加聪明、精明、更加敏捷、狡猾、更加有害，”Erdoes说。“这太难了，而且会变得越来越难，这就是为什么保持领先一步确实是我们每个人的工作。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxv2983293.d.html</link>
-            <guid>3454922</guid>
-            <pubDate>Wed, 17 Jan 2024 13:38:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【硅业分会：节前备货预期 本周多晶硅价格小幅探涨】硅业分会数据显示，本周n型硅料成交价格区间为6.7-7.5万元/吨，均价为6.96万元/吨，环比上涨2.65%；单晶致密料成交价格区间为5.3-6.3万元/吨，均价为5.85万元/吨，环比上升0.65%；n型颗粒硅成交价格区间为5.8-6万元/吨，均价为5.9万元/吨，环比持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxt6206073.d.html</link>
-            <guid>3454921</guid>
-            <pubDate>Wed, 17 Jan 2024 13:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚洲杯小组赛第二场 中国男足0比0战平黎巴嫩队】当地时间1月17日，中国男足在卡塔尔亚洲杯小组赛第二场比赛中以0比0战平黎巴嫩队。此前，中国队首场小组赛0比0战平塔吉克斯坦队。最后一场小组赛，中国队将迎战上届冠军、东道主卡塔尔队。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxy2652420.d.html</link>
-            <guid>3454920</guid>
-            <pubDate>Wed, 17 Jan 2024 13:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：伊朗与欧盟核谈判代表讨论制裁和加沙问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxs3323787.d.html</link>
-            <guid>3454918</guid>
-            <pubDate>Wed, 17 Jan 2024 13:33:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[交易员削减2024年英国央行利率押注，现预计2024年将有四次25个基点的降息，而非五次。]]></title>
-            <guid>3454916</guid>
-            <pubDate>Wed, 17 Jan 2024 13:32:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大12月原材料价格指数年率 -7.9%，前值-4.6%；月率 -4.9%，预期-1.60%，前值-4.20%。
-加拿大12月工业品物价指数年率 -2.7%，前值-2.3%；月率 -1.5%，预期-0.7%，前值-0.40%。
-加拿大11月海外投资者净买入加拿大证券 114.3亿加元，前值-157.5亿加元。
-加拿大11月投资者净买入海外证券 125.3亿加元，前值-82亿加元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-17/detail-inacvxxv2982033.d.html</link>
-            <guid>3454912</guid>
-            <pubDate>Wed, 17 Jan 2024 13:31:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
