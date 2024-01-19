@@ -4,11 +4,230 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 19 Jan 2024 15:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 18:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[贝克休斯油服：美国钻井公司三周以来首次增加石油和天然气钻井平台。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8074210.d.html</link>
+            <guid>3458474</guid>
+            <pubDate>Fri, 19 Jan 2024 18:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta Platforms股价盘中上涨1.7%，有望收于历史高位水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8073854.d.html</link>
+            <guid>3458472</guid>
+            <pubDate>Fri, 19 Jan 2024 18:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月20日01时41分在四川宜宾市兴文县（北纬28.14度，东经105.09度）发生3.7级地震，震源深度9千米。]]></title>
+            <guid>3458468</guid>
+            <pubDate>Fri, 19 Jan 2024 17:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：01月20日01时41分在四川宜宾市兴文县附近发生3.6级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3458465</guid>
+            <pubDate>Fri, 19 Jan 2024 17:46:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[金融科技公司Kaspi.KZ登陆纳斯达克，开盘报92.5美元/股，IPO定价92美元/股。]]></title>
+            <guid>3458464</guid>
+            <pubDate>Fri, 19 Jan 2024 17:46:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：01月20日01时25分在新疆巴音郭楞州若羌县（北纬38.31度，东经89.64度）发生3.6级地震，震源深度10千米。]]></title>
+            <guid>3458459</guid>
+            <pubDate>Fri, 19 Jan 2024 17:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电动化转型艰难：欧美汽车供应链三巨头断臂求生、裁员上万，福特砍电动皮卡产量】 电动化转型大潮来临，然而欧美汽车供应商转型艰难，被迫断臂裁员。传统汽车供应商巨头采埃孚近日宣布裁员1.2万人，博世、法雷奥两家国际一线供应商此前也公布裁员消息。由于电动车需求走弱，福特决定减少全电动F-150 Lightning的产量，同时增加两款燃油车的产量。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawtu0940931.d.html</link>
+            <guid>3458449</guid>
+            <pubDate>Fri, 19 Jan 2024 17:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：日本方面称，月球探测器的信号已获得保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawtv7718080.d.html</link>
+            <guid>3458448</guid>
+            <pubDate>Fri, 19 Jan 2024 17:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰总统与阿联酋总统通电话】当地时间19日，乌克兰总统泽连斯基在社交媒体上表示，当天他与阿联酋总统穆罕默德进行了电话交谈。双方就阿联酋提供长期财政支持以及合作实施和平方案的可能性等进行了交谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0289218.d.html</link>
+            <guid>3458446</guid>
+            <pubDate>Fri, 19 Jan 2024 17:13:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：OpenAI创始人Sam Altman的举措反映了他对潜在芯片短缺的担忧。该项目将涉及与主要芯片制造公司合作。]]></title>
+            <guid>3458445</guid>
+            <pubDate>Fri, 19 Jan 2024 17:12:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门发生两起爆炸事件 致多人死亡】也门国防军称，穆塞纳区域（Al-Musaina）当地时间19日一辆军车发生爆炸，造成1人死亡、6人受伤。伤员中有4名士兵。另据当地媒体消息，当天，也门莫迪亚区东部发生一起自杀式爆炸袭击，造成3名士兵死亡、多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0288605.d.html</link>
+            <guid>3458442</guid>
+            <pubDate>Fri, 19 Jan 2024 17:09:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丰田将在日本和美国的另外三家汽车工厂开始电动汽车电池的最终组装。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0286566.d.html</link>
+            <guid>3458438</guid>
+            <pubDate>Fri, 19 Jan 2024 16:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙(CVX.N)将出售其在加拿大阿尔伯塔省Duvernay油田70%的页岩气资产权益。]]></title>
+            <guid>3458437</guid>
+            <pubDate>Fri, 19 Jan 2024 16:44:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【房子卖得不错，滨江集团等开发商春节给员工放“超级长假”：最多的20天】1月18日，“别人家的房企”滨江集团发布通知，宣布今年春节假期从2月6日放到2月26日，整整20天。新城控股这次放假天数仅次于常因放假时间长而出圈的滨江集团，从2月1日到17日，长达17天。从已公布春节放假安排的房企来看，春节假期超过10天的情形并不鲜见，比如绿城放假13天、旭辉放假11天。（每经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawtu0935733.d.html</link>
+            <guid>3458436</guid>
+            <pubDate>Fri, 19 Jan 2024 16:43:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【智利科金博海域发生4.2级地震】据欧洲地中海地震中心消息，当地时间1月19日12时46分，智利中北部科金博大区海域发生4.2级地震，震源深度31.6公里。目前暂无海啸预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0285718.d.html</link>
+            <guid>3458432</guid>
+            <pubDate>Fri, 19 Jan 2024 16:38:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【十余家银行有高管调整，新任高管继续呈年轻化趋势】2024年开年十余天，已有建设银行、华夏银行、贵阳银行、重庆银行、北京农商银行等多家银行披露高管辞任或聘任的消息。这也是继去年年中以来，银行高管再次迎来一波密集的人事调整。从2024年多位履新的银行高管履历来看，银行高管团队继续呈现年轻化趋势，越来越多“75后”甚至“85后”接棒老一辈银行人。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8066357.d.html</link>
+            <guid>3458431</guid>
+            <pubDate>Fri, 19 Jan 2024 16:37:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一天之内，2家保险系公募“换帅”】1月19日，2家业内知名的险资公募基金公司同日宣布“换帅”。首先是国寿安保基金发布公告称，该公司原董事长王军辉因工作调整离任，于泳将接替出任董事长一职。紧接着，19日晚间另一家保险系基金公司泰康基金也发布了董事长变更公告，显示该公司原董事长段国圣因工作安排在1月18日离任，“接棒”的是陈奕伦。此前，国寿安保基金原董事长王军辉因工作调整于2024年1月17日离任、于泳“接棒”出任董事长一职。（每经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawtu0934404.d.html</link>
+            <guid>3458429</guid>
+            <pubDate>Fri, 19 Jan 2024 16:34:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【也门红海城市荷台达传出多次爆炸声】 当地居民告诉总台记者，当地时间19日18时50分左右，也门胡塞武装控制的红海港口城市荷台达市区内传出3次爆炸声。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts8065657.d.html</link>
+            <guid>3458427</guid>
+            <pubDate>Fri, 19 Jan 2024 16:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【时隔8个月，贵人鸟承认与多家粮食供应商存在关联关系】在2023年年度审计的关键时刻，ST贵人（贵人鸟股份有限公司）承认了与多家粮食供应商存在关联关系。公司于1月19日晚间披露，其董事长李志华间接持有黑龙江诚运粮屹玉米购销有限公司等4家公司股权，这4家公司与其控股子公司存在业务合作关系。根据相关规定，4家公司为公司关联方。记者注意到，在过去的3年里，上述4家公司与ST贵人方面的交易总额近8.8亿元，其中2022年度的交易额达7.35亿元，系上市公司从“鞋服”转型“粮食贸易”的重要支撑。去年4月，大信会计师事务所（特殊普通合伙）对ST贵人与这些粮食贸易商的关联关系提出高度质疑。不过，上市公司当时予以了否认。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeawts0284174.d.html</link>
+            <guid>3458425</guid>
+            <pubDate>Fri, 19 Jan 2024 16:23:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼中苏拉威西省一冶炼厂爆炸，2人受伤】据印尼警方消息，当地时间1月19日晚，印尼中苏拉威西省一冶炼厂发生爆炸，造成2名工人受伤。警方尚未发布事故原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeasmu8194557.d.html</link>
+            <guid>3458424</guid>
+            <pubDate>Fri, 19 Jan 2024 16:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈森股份四连板，重组标的对苹果产业链存在重大依赖】股价四个“一”字涨停后，1月19日晚，哈森股份又一次就公司股价异动披露了公告。1月15日晚，哈森股份公告拟通过发行股份及支付现金方式，购买江苏朗迅90%股权、苏州晔煜23.08%出资份额和苏州郎克斯45%股权。当时，哈森股份仅表示，标的公司对A公司存在较大依赖。在前次股价异动和股票交易风险提示公告中，哈森股份也并未揭露这位神秘的客户。A公司究竟是谁？19日晚，哈森股份最新披露的异动公告中，明确提到A公司就是苹果公司。（每经网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeasmu8194513.d.html</link>
+            <guid>3458422</guid>
+            <pubDate>Fri, 19 Jan 2024 16:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：德国立法者通过了一项立法，放宽了获得公民身份的规定，并结束了对持有双重国籍的限制。德国政府称，该计划将有助于促进移民的融合，并有助于吸引技术工人。]]></title>
+            <guid>3458421</guid>
+            <pubDate>Fri, 19 Jan 2024 16:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[尼日利亚将于2月26日至27日举行自去年7月以来的首次货币政策委员会会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeasmw1061614.d.html</link>
+            <guid>3458420</guid>
+            <pubDate>Fri, 19 Jan 2024 16:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【受暴雨影响，巴西里约州多地宣布进入紧急状态】据当地媒体报道，当地时间1月19日上午，巴西里约热内卢州在官方公报中正式批准该州里约市、梅斯基塔、新伊瓜苏等6个城市进入紧急状态。据悉，紧急状态将维持180天。受暴雨影响的市政府已为受灾群众分发食物、水等生活用品。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeasmu8194032.d.html</link>
+            <guid>3458419</guid>
+            <pubDate>Fri, 19 Jan 2024 16:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【世界经济论坛2024年年会闭幕】为期5天的世界经济论坛2024年年会19日在达沃斯落下帷幕。世界经济论坛总裁博尔格·布伦德当日发表闭幕致辞，通报了此次年会在气候变化、性别平等、人工智能发展、能源转型等方面取得的成果，呼吁“重建信任”、合作应对挑战。今年年会以“重建信任”为主题，聚焦如何在分裂的世界中实现安全与合作，如何为新时代创造增长和就业，人工智能如何推动经济和社会发展，以及如何实施长期的气候、自然和能源战略等四大核心议题。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-20/detail-inaeasmu8193176.d.html</link>
+            <guid>3458414</guid>
+            <pubDate>Fri, 19 Jan 2024 16:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据菲律宾当地媒体报道，该国南部达沃市19日发生山体滑坡，造成至少2人死亡。（新华社）]]></title>
+            <guid>3458413</guid>
+            <pubDate>Fri, 19 Jan 2024 16:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【元宇宙标准化工作组委员名单公示 华为、天下秀等入选其中】根据产业发展和行业管理需要，1月19日，工信部公示了元宇宙标准化工作组组建方案，元宇宙标准化工作组委员名单出炉。据公示的委员名单，由包括工业和信息化部科技司副司长、一级巡视员范书建、华为区块链标准与产业发展总监/高级工程师张亮亮、腾讯云区块链总监王昱、天下秀元宇宙首席架构师张磊、咪咕文化技术管理部总经理李琳等在内的60家单位、企业相关负责人参与其中，此外，中国工程院院士、深圳大学院士丁文华担任工作组顾问。（新京报）]]></title>
+            <guid>3458412</guid>
+            <pubDate>Fri, 19 Jan 2024 16:02:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印尼中苏拉威西省一冶炼厂爆炸 2人受伤】据印尼警方消息，当地时间1月19日晚，印尼中苏拉威西省一冶炼厂发生爆炸，造成2名工人受伤。警方尚未发布事故原因。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmw1058131.d.html</link>
+            <guid>3458411</guid>
+            <pubDate>Fri, 19 Jan 2024 15:53:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴基斯坦与伊朗外长通话同意缓和局势】巴基斯坦外交部19日发表声明说，巴基斯坦外交部长吉拉尼当天与伊朗外交部长阿卜杜拉希扬通电话，双方一致同意缓和局势。声明说，吉拉尼在通话中表示，巴基斯坦和伊朗拥有“密切的兄弟关系”，巴方希望本着互信与合作精神同伊方展开合作。吉拉尼强调，尊重主权与领土完整必须是双方合作的基础。声明说，两国外长一致同意缓和局势，并一致认为两国应在反恐及共同关心的其他事务上加强工作层面的合作和密切协调。双方还讨论了两国大使返回各自驻在国首都的问题。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8190968.d.html</link>
+            <guid>3458410</guid>
+            <pubDate>Fri, 19 Jan 2024 15:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比利时将参加欧盟在红海的行动】据比利时《晚报》（Le Soir）援引内阁的决定报道，比利时将参加欧盟的海军行动，以确保红海航运安全。该报补充称，“本次任务将是防御性的。”比利时参与此次任务的各项参数指标将在以后公布。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmx7834914.d.html</link>
+            <guid>3458409</guid>
+            <pubDate>Fri, 19 Jan 2024 15:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【罕见加仓食品和银行，昔日公募冠军万家基金最新持仓出炉】万家基金黄海管理的3只基金最新四季报出炉。从四季报来看，黄海延续了他对高股息、低负债的能源股重仓，却罕见地加仓了食品股和银行股，安井食品、宁波银行进入前十大重仓名单。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmw1057377.d.html</link>
+            <guid>3458407</guid>
+            <pubDate>Fri, 19 Jan 2024 15:46:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【玩出梦想创始人致敬苹果Vision Pro预售，透露2024年新品计划】1月19日晚间消息，太平洋时间1月19日凌晨5点，苹果新一代头显Apple Vision Pro开始在美国市场接受预订，售价3499美元（约合2.5万元），标志着空间计算时代的开启。随着Apple Vision Pro开启预售，玩出梦想创始人、CEO黄锋第一时间发朋友圈“致敬”。并透露玩出梦想科技将在2024年发布空间计算新品的信息。据透露，该产品单眼分辨率达到4K，双眼可提供8K分辨率，与Vision Pro一致，亦有空间视频、高清晰度彩色VST、轻办公、巨幕观影等相关功能。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8188827.d.html</link>
+            <guid>3458404</guid>
+            <pubDate>Fri, 19 Jan 2024 15:34:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日本成为第五个登月的国家】日本宇宙航空研究开发机构（JAXA）宣布，SLIM探测器成功登陆月球。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0407887.d.html</link>
+            <guid>3458403</guid>
+            <pubDate>Fri, 19 Jan 2024 15:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[日本宇宙航空研究开发机构（JAXA）：SLIM探测器成功登陆月球。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0406147.d.html</link>
+            <guid>3458397</guid>
+            <pubDate>Fri, 19 Jan 2024 15:23:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[达美航空：将继续取消飞往以色列特拉维夫的航班，直至2024年4月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8186508.d.html</link>
+            <guid>3458394</guid>
+            <pubDate>Fri, 19 Jan 2024 15:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【G69银百高速庆阳段多辆货车发生碰撞起火 人员伤亡情况不明】1月19日晚，G69银百高速甘肃省庆阳市庆城段发生多辆货车碰撞事故，并有车辆起火。事故发生后，当地公安、消防等部门立即赶往扑救，目前明火已基本扑灭，人员伤亡情况不明。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8186150.d.html</link>
+            <guid>3458392</guid>
+            <pubDate>Fri, 19 Jan 2024 15:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部副部长会见到访的哈马斯政治局成员】当地时间1月19日，俄罗斯外交部发布公告，当天俄罗斯总统中东和非洲国家事务特别代表、俄罗斯外交部副部长博格丹诺夫在莫斯科会见了到访的巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局成员穆萨·阿布·马尔祖克。双方重点讨论巴以冲突地区的持续对抗以及由此引发的加沙地带灾难性的人道主义危机。俄方强调，必须尽快释放在2023年10月7日袭击中被劫持并被关押的平民。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8185818.d.html</link>
+            <guid>3458391</guid>
+            <pubDate>Fri, 19 Jan 2024 15:16:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局（FDA）发现礼来工厂存在新的制造问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0403943.d.html</link>
+            <guid>3458384</guid>
+            <pubDate>Fri, 19 Jan 2024 15:09:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【北京2023年GDP同比增长5.2%】1月19日下午，北京市人民政府新闻办公室组织召开2023年北京经济运行情况新闻发布会。根据地区生产总值统一核算结果，北京全年实现地区生产总值43760.7亿元，按不变价格计算，比上年增长5.2%。分产业看，第一产业实现增加值105.5亿元，下降4.6%；第二产业实现增加值6525.6亿元，增长0.4%；第三产业实现增加值37129.6亿元，增长6.1%。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmw1050532.d.html</link>
@@ -32,367 +251,6 @@
             <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmx7826869.d.html</link>
             <guid>3458375</guid>
             <pubDate>Fri, 19 Jan 2024 15:00:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海临港虚拟电厂管理中心揭牌】中国(上海)自由贸易试验区临港新片区虚拟电厂管理中心揭牌，首批11家虚拟电厂运营商签约，鼓励虚拟电厂运营商更多地采用数字化、智能化手段参与电网需求响应调节，不断提升临港新片区能源源头、电网、用电负荷、储能系统灵活互动能力。]]></title>
-            <guid>3458371</guid>
-            <pubDate>Fri, 19 Jan 2024 14:58:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海临港虚拟电厂管理中心揭牌】1月19日，中国（上海）自由贸易试验区临港新片区虚拟电厂管理中心揭牌，首批11家虚拟电厂运营商签约，鼓励虚拟电厂运营商更多地采用数字化、智能化手段参与电网需求响应调节，不断提升临港新片区能源源头、电网、用电负荷、储能系统灵活互动能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0401616.d.html</link>
-            <guid>3458370</guid>
-            <pubDate>Fri, 19 Jan 2024 14:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【裕太微：车载千兆以太网物理层芯片预计2024年会有一定的销售突破】裕太微近期接受投资者调研时称，车载千兆以太网物理层芯片已于2023年年底开始量产出货，较之原定计划提前实现量产出货。预计2024年会有一定的销售突破。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmw1048305.d.html</link>
-            <guid>3458367</guid>
-            <pubDate>Fri, 19 Jan 2024 14:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【顺网科技：未来将稳步推进算力建设及部署】顺网科技在接受调研时表示，随着AIGC技术的发展,智能化应用将呈现爆发式增长，虽然大模型通过海量数据训练取得了突破性的进展，但相对客户也较为集中，公司主要的研究方向是生成式人工智能领域，公司从行业垂直算力服务升级到多层次算力服务，能够提供更贴近客户、更具普惠性的算力服务。同时公司自身也有一定的常规算力，已落地300+座顺网云机房，拥有多线并发能力，为超过50万终端提供服务。未来公司将聚焦现有业务规划及垂直领域中长期产业需求，稳步推进算力建设及部署。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8181104.d.html</link>
-            <guid>3458365</guid>
-            <pubDate>Fri, 19 Jan 2024 14:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：法兴银行据称计划在法国裁员超过500人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0399362.d.html</link>
-            <guid>3458362</guid>
-            <pubDate>Fri, 19 Jan 2024 14:43:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【头部券商调整两融负债偿还规则 业内人士：券商为了防止投资者利用这种方式进行不合理的套现】中信建投证券在其官网宣布，自2024年1月22日起，公司将禁止投资者通过融资买入的证券偿还融券合约。业内人士称，禁止将融资买入的证券用于偿还融券负债，实质上是券商为了防止投资者利用这种方式进行不合理的套现，规避上市公司股东绕道减持套利。与传统业务相比，开展信用业务伴随着较大的风险暴露，此举在于响应监管优化制度规则、促进两融业务合规有序发展的号召，能够有效预防突发风险事件对行业的冲击。（中证金牛座）]]></title>
-            <guid>3458361</guid>
-            <pubDate>Fri, 19 Jan 2024 14:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【豪江智能：美国通胀未对公司业绩造成实际性影响】豪江智能近期接受投资者调研时称，美国的通胀高企会抑制终端市场消费需求，客户库存压力也会在下单时保持谨慎，从而会对公司出口美国造成一定影响，但对公司的业绩影响有限。主要系公司从产品解决方案到客户服务等方面，逐步提升客户满意度，因此从2023年前三季度经营数据显示，美国通胀未对公司业绩造成实际性影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8178981.d.html</link>
-            <guid>3458360</guid>
-            <pubDate>Fri, 19 Jan 2024 14:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【思源电气：目前正在考虑变压器扩产计划】思源电气接受调研时表示，2023年变压器订单实现了较快速度的增长，增幅超过集团平均水平。其中，变压器的海外订单增速较快，2023年变压器产线海外订单占比超过50%。关于变压器产值情况，思源电气表示，今年产值尚可能满足客户需求，公司目前正在考虑变压器扩产计划，会和合资方一起探讨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8178891.d.html</link>
-            <guid>3458359</guid>
-            <pubDate>Fri, 19 Jan 2024 14:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝莱德预计美联储6月份开始降息，欧洲央行紧随其后】1月19日消息，贝莱德表示预计美联储将在6月开始降息，早于欧洲央行，而欧元区未来需要进一步放宽政策。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmx7822645.d.html</link>
-            <guid>3458358</guid>
-            <pubDate>Fri, 19 Jan 2024 14:37:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古中西部地区出现降雪 多条高速路段封闭】从1月18日晚上开始，内蒙古中西部地区出现降雪，局地大到暴雪，其中鄂尔多斯市杭锦旗出现暴雪。截至1月19日20时，部分路段不具备安全通车条件，交警实施交通管制，共封闭高速公路11条（G6京藏高速、G7京新高速、G65包茂高速、G55二广高速、G5901呼和浩特绕城高速、G59呼北高速、S54集宁东绕城高速、G1817乌银高速、G5511集阿高速、G18荣乌高速、G1013海张高速），普通国省干线封闭4条路段。同时，呼和浩特市、包头市、锡林郭勒盟等6个盟市共772条班线、1100辆车停运。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0397943.d.html</link>
-            <guid>3458357</guid>
-            <pubDate>Fri, 19 Jan 2024 14:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【希腊爱琴海区域发生4.8级地震】据欧洲地中海地震中心监测数据，当地时间1月19日16时14分，希腊爱琴海区域发生4.8级地震。震中位于北纬38.54度，东经24.32度，震源深度10千米。希腊首都雅典有明显震感。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0397698.d.html</link>
-            <guid>3458356</guid>
-            <pubDate>Fri, 19 Jan 2024 14:35:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宜安科技：为确保春节前后客户订单准时交付，公司目前已加班加点安排生产】宜安科技1月19日在互动平台上称，为确保春节前后客户订单准时交付，公司目前已加班加点安排生产，并号召全体文职人员支援生产。公司已出台多项福利政策招人、留人。公司医用镁骨钉临床跟踪随访至今年2月份结束，目前术后随访观察结果均为良好，未发生与器械相关的任何不良事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8177469.d.html</link>
-            <guid>3458354</guid>
-            <pubDate>Fri, 19 Jan 2024 14:31:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深交所上市委公告，钧崴电子科技股份有限公司首发获通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0396469.d.html</link>
-            <guid>3458352</guid>
-            <pubDate>Fri, 19 Jan 2024 14:30:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【睿智医药：公司目前仍在积极寻求扭转困境的措施，仍未有出售CDMO的考虑】睿智医药1月19日在互动平台上称，在公司治理方面，随着主要股东胡瑞连回归董事会并担任董事长、CEO，将有助于公司管理与经营的维稳；在业务方面，公司会持续投入建设新的技术平台，满足市场及客户的需求，同时加大市场拓展力度，积极开发欧洲、日韩等市场以获取更多的订单，提升公司业绩表现。 公司大分子CDMO业务板块是公司一站式CRO/CDMO服务平台中重要的组成部分，公司目前仍在积极寻求扭转困境的措施，目前仍未有出售CDMO的考虑。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8176921.d.html</link>
-            <guid>3458351</guid>
-            <pubDate>Fri, 19 Jan 2024 14:28:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Zee称正在与索尼就完成合并交易的最后期限“延长一段合理时间”进行谈判】1月19日消息，印度公司Zee Entertainment Enterprises表示，该公司正在与索尼就完成合并交易的最后期限“延长一段合理的时间”进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmw1043109.d.html</link>
-            <guid>3458350</guid>
-            <pubDate>Fri, 19 Jan 2024 14:23:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新希望：目前公司种猪场和自育肥场产能都较为充裕、团队稳定】新希望1月19日在互动平台上称，2024年公司在猪产业上的整体思路是“降成本，提质量，调结构，稳规模”。对当前阶段的成本降低而言，生产质量改善能带来的价值和利润改善，相比出栏量增长带来的摊薄费用而言要更明显，所以公司的重点还是抓好现有场线的非瘟防控和生产改善，并不急于扩充规模。目前公司种猪场和自育肥场产能都较为充裕、团队稳定，如果真得在上半年发生较大的行业产能去化，预期后市猪价有较大上涨空间，公司也可以通过补充母猪与仔猪的灵活手段实现扩产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmx7819876.d.html</link>
-            <guid>3458349</guid>
-            <pubDate>Fri, 19 Jan 2024 14:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI初创公司Cohere正洽谈筹集约5亿至10亿美元资金。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8175017.d.html</link>
-            <guid>3458348</guid>
-            <pubDate>Fri, 19 Jan 2024 14:20:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中美农业联委会第七次会议在华盛顿召开】当地时间1月18日上午，农业农村部部长唐仁健在华盛顿与美国农业部部长维尔萨克共同主持召开中美农业联委会第七次会议，重启中美农业合作机制，重申联委会是两国农业部门定期交流的重要渠道，承诺要倍加珍惜、精心呵护、稳定运行这一机制。双方围绕气候智慧型农业、粮食安全、民间交流、贸易便利化等坦诚深入交换意见。（农业农村部）]]></title>
-            <guid>3458347</guid>
-            <pubDate>Fri, 19 Jan 2024 14:18:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓易信息：拟3800万元出售卓易计算云数据中心部分资产】卓易信息(688258)1月19日晚间公告，公司拟与宜兴市大数据发展有限公司签署协议，将公司卓易计算云数据中心的部分资产出售，出售价格为3800万元。本次交易拟出售资产不涉及公司首次公开发行募投项目“基于大数据的卓易政企云服务产品系列建设项目”和“卓瓴数字孪生云平台建设项目”对云计算中心投入的服务器等核心资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8174699.d.html</link>
-            <guid>3458346</guid>
-            <pubDate>Fri, 19 Jan 2024 14:17:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普京任命俄罗斯驻日本大使】俄罗斯总统普京当地时间19日签署命令，任命俄外交部亚洲第三司司长诺兹德列夫为俄罗斯驻日本大使。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8174591.d.html</link>
-            <guid>3458345</guid>
-            <pubDate>Fri, 19 Jan 2024 14:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英财政大臣警告特朗普，如当选后重返保护主义，将是“严重错误”】据美国“政治新闻网”欧洲版18日报道，英国财政大臣杰里米·亨特在参加达沃斯世界经济论坛期间隔空警告美国前总统特朗普，如果后者赢得2024年总统选举后重返保护主义，将是一个“严重错误”。报道说，在达沃斯世界经济论坛一场新闻发布会上，亨特抨击特朗普此前提议对美国进口的所有商品征收关税。当被问及“如果美国选出一个像特朗普这样的支持保护主义的总统，是否担心其对英国经济的影响”时，亨特回答说，“我不支持保护主义措施。我认为，这些措施给实施者带来的损害与被施加者一样大”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0393240.d.html</link>
-            <guid>3458343</guid>
-            <pubDate>Fri, 19 Jan 2024 14:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深天马Ａ：目前公司各产线在良好运营的状态】目前公司各产线在良好运营的状态。公司产品面向的下游细分市场众多，春节假期亦会对部分业务的市场需求有一定影响，公司亦会适时安排产线岁修以更好地满足未来经营需要。当然在部分市场，比如柔性AMOLED手机显示领域，能看到持续较为积极的终端需求，公司也在积极组织应对。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0393082.d.html</link>
-            <guid>3458342</guid>
-            <pubDate>Fri, 19 Jan 2024 14:13:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟委员会主席冯德莱恩与芬兰总理奥尔波共同访问瑞典】当地时间1月19日，欧盟委员会主席冯德莱恩和芬兰总理奥尔波一同访问瑞典。报道称，双方与瑞典首相克里斯特松等讨论了与森林和绿色转型有关的问题以及俄乌局势等内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8173715.d.html</link>
-            <guid>3458341</guid>
-            <pubDate>Fri, 19 Jan 2024 14:12:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【物产金轮：已通过期现套保工具及控制库存原材料仓位等方式减少不锈钢价格波动的影响】物产金轮近期接受投资者调研时称，不锈钢装饰板业务原材料占产品生产成本的比重相对较高，其价格的波动会对公司该业务的利润造成一定的影响。公司目前已通过采取期现套保工具及控制库存原材料仓位等方式减少不锈钢价格波动对公司利润的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu8173290.d.html</link>
-            <guid>3458340</guid>
-            <pubDate>Fri, 19 Jan 2024 14:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大金融机构监管局（OSFI）：加拿大银行业可能面临商业房地产损失。房地产损失不太可能对资本构成威胁。]]></title>
-            <guid>3458339</guid>
-            <pubDate>Fri, 19 Jan 2024 14:09:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[芬兰航空：罢工将对运营产生“重大”影响，罢工将导致航班取消。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeasmu0392008.d.html</link>
-            <guid>3458337</guid>
-            <pubDate>Fri, 19 Jan 2024 14:08:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[意大利央行：预计第四季度国内生产总值增长将保持平稳。第四季度工业产出下降。由于能源价格下降，预计2024年通胀可能从12月预测的1.9%下降。]]></title>
-            <guid>3458334</guid>
-            <pubDate>Fri, 19 Jan 2024 14:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗外长同巴基斯坦外长通电话 讨论安全问题合作】当地时间19日，伊朗外长阿卜杜拉希扬同巴基斯坦外长吉拉尼通电话。阿卜杜拉希扬表示，伊朗尊重巴基斯坦的主权和领土完整。通过两国合作来摧毁巴基斯坦境内的恐怖分子营地至关重要。他表示，在当前加沙地带冲突持续的背景下，伊斯兰世界的团结十分重要。两国应重点关注此前签署的军事和安全协议，严格落实。吉拉尼表示，巴伊两国对于反恐的共识是合作的基础。巴基斯坦始终坚持同伊朗的建设性关系，尊重伊朗主权和领土完整。巴基斯坦不允许敌人和恐怖分子破坏两国关系。巴基斯坦愿意本着互信与合作的精神在所有问题上与伊朗合作。吉拉尼强调，两国需要在安全问题上加强合作。此外，吉拉尼邀请阿卜杜拉希扬访问巴基斯坦。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0520467.d.html</link>
-            <guid>3458332</guid>
-            <pubDate>Fri, 19 Jan 2024 13:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【抖音大V陆仙人疑拖欠品牌及资方欠款 MCN管理缺陷待补足】近日，记者收到员工爆料称，拥有千万粉丝的抖音网红“陆仙人”所属的直播公司出现拖欠员工工资情况，并且据知情人称，在外部品牌商方面，雅鹿羽绒服为直播场次打给陆仙人的15万元投流费用以及奥洛纳斯商业的45万元前置费用也一直拖欠至今并未返还。公开资料显示，“陆仙人”直播账号最后一次直播是在去年12月29日，目前已经停播20天。记者就此事联系陆仙人及其经纪人，截至目前暂未得到回复。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8300956.d.html</link>
-            <guid>3458331</guid>
-            <pubDate>Fri, 19 Jan 2024 13:55:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tricon Residential美股盘前涨超26%，黑石房地产同意以每股11.25美元的现金收购Tricon。]]></title>
-            <guid>3458328</guid>
-            <pubDate>Fri, 19 Jan 2024 13:51:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【神州数码、高科数聚与深圳数据交易所达成战略合作】神州数码消息，1月18日，神州数码及其成员企业高科数聚，与深圳数据交易所达成战略合作，三方共同宣布将充分发挥各自优势，以聚焦数据价值流通，扩大数据交易规模为核心，在数据交易平台产品化、数据商生态汇聚、市场拓展等领域展开战略合作，为全国数据要素市场化配置、数据交易和数据价值发现探索路径，打造先行示范。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8299206.d.html</link>
-            <guid>3458326</guid>
-            <pubDate>Fri, 19 Jan 2024 13:48:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯第三大炼油厂Ryazan炼油厂火灾已被扑灭】俄罗斯第三大炼油厂Ryazan炼油厂发生火灾，现已被扑灭。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8299149.d.html</link>
-            <guid>3458325</guid>
-            <pubDate>Fri, 19 Jan 2024 13:48:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2023年中国电竞市场规模约1664亿元 同比增长5.4%】2024第六届中国电竞产业大会19日在杭州落幕。国际电子竞技联盟执委杰拉德·所罗门表示：“在（杭州）亚运会后，数字体育、电子体育，将会得到更多的国家、组织的认可，催生更多的产业融合。”会上，华体电竞联合艾瑞咨询发布《2023年中国电竞行业研究报告》。报告显示，2023年中国电竞市场规模约为1664亿元，同比增长5.4%。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8299128.d.html</link>
-            <guid>3458324</guid>
-            <pubDate>Fri, 19 Jan 2024 13:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【西典新能：公司向比亚迪供应电控母排产品】西典新能1月19日在互动平台上称，公司向比亚迪供应电控母排产品。公司电池连接系统产品通过宁德时代向特斯拉、赛力斯等主流车型批量供货。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0517314.d.html</link>
-            <guid>3458322</guid>
-            <pubDate>Fri, 19 Jan 2024 13:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美团前高级副总裁郭庆入职京东接管达达？京东内部人士：内网搜不到，仍是顾问身份】近日美团前高级副总裁郭庆已加入京东，担任京东顾问身份，关注即时零售和机器人业务。消息还称，郭庆从去年12月底就开始密集与达达中高层管理者交流，要求达达全面对标美团闪购，并商讨未来5年京东即时零售的发展规划。当前在京东和达达的系统里都还不能搜索到郭庆的信息。据内部人士向媒体表示，郭庆目前并不能算作入职，而是以顾问的身份参与京东的业务，除即时零售业务外，郭庆还主要负责研究探索机器人相关业务。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8297134.d.html</link>
-            <guid>3458320</guid>
-            <pubDate>Fri, 19 Jan 2024 13:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中达安：中标山东移动两年采购代理合同】中达安消息，近日，《山东移动2024—2025年采购代理服务采购项目（公开部分）》竞标结果揭晓，中达安成功中标。中达安将为山东移动提供一系列专业的采购代理服务，协助山东移动构建完整的招标采购流程体系，助力提升招标采购运营管理能力，并确保山东移动2024—2025年度的招标采购项目顺利进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1165019.d.html</link>
-            <guid>3458319</guid>
-            <pubDate>Fri, 19 Jan 2024 13:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【荷兰首相与以色列总理通电话 讨论加沙局势】当地时间19日，荷兰首相吕特在社交媒体平台上发文说，当天他与以色列总理内塔尼亚胡通电话。吕特表示，巴勒斯坦伊斯兰抵抗运动（哈马斯）必须尽快释放所有被扣押人员。与此同时，以色列须大幅减少其行动中的武力行为，并允许更多人道主义援助更快进入加沙地带。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0516084.d.html</link>
-            <guid>3458318</guid>
-            <pubDate>Fri, 19 Jan 2024 13:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特计划在密歇根装配厂新增近900个工作岗位】福特汽车公司1月19日宣布，计划在密歇根装配厂新增近900个工作岗位，此举将助于满足市场对福特Bronco、Ranger Raptor的需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0515323.d.html</link>
-            <guid>3458316</guid>
-            <pubDate>Fri, 19 Jan 2024 13:35:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【保利发展拟将分红比例提升至40% 分红和回购总规模超60亿】保利发展发布了《2023-2025年股东回报规划》，拟将未来三年的分红比例升至40%，其中，2024-2025年分红率提高1倍。根据业绩快报数据估算，结合其正在实施的10-20亿规模回购，预计分红和回购总规模将至少60亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1163996.d.html</link>
-            <guid>3458315</guid>
-            <pubDate>Fri, 19 Jan 2024 13:33:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大11月零售销售月率录得-0.2%，为2023年3月以来最大降幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancz7940884.d.html</link>
-            <guid>3458313</guid>
-            <pubDate>Fri, 19 Jan 2024 13:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【凯伦股份：中标中铁十七局2023-2024年度框架供应商】凯伦股份消息，近日，凯伦股份在中铁十七局集团有限公司“周转材料、土工、防水材料、电线电缆及配电箱/柜2023-2024年度框架供应商优选招标”中成功中标，被确定为防水材料入围供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancz7940455.d.html</link>
-            <guid>3458311</guid>
-            <pubDate>Fri, 19 Jan 2024 13:29:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌兹别克斯坦天然气产量2023年下降9.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8294832.d.html</link>
-            <guid>3458310</guid>
-            <pubDate>Fri, 19 Jan 2024 13:29:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【机科股份：公司移动机器人相关产品的核心零部件已基本实现国产化】机科股份近期接受投资者调研时称，除少量特殊元器件可能会根据客户要求采用国外品牌外，公司移动机器人相关产品的核心零部件已基本实现国产化。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8293874.d.html</link>
-            <guid>3458307</guid>
-            <pubDate>Fri, 19 Jan 2024 13:24:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔能源公司据悉将以更便宜的价格向印度买家提供液化天然气】卡塔尔能源公司据悉可能在几周内签署一项长期协议，以比现有合同更便宜、更灵活的条款向印度买家提供液化天然气（LNG），目前印度正寻求实现增加天然气使用量的目标。]]></title>
-            <guid>3458306</guid>
-            <pubDate>Fri, 19 Jan 2024 13:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【远兴能源：阿拉善天然碱项目一期第四条生产线投料时间暂无法准确预计】有投资者在互动平台提问，请问贵司四线计划何时投料？远兴能源回复称，阿拉善天然碱项目一期第四条生产线投料时间暂无法准确预计。另外还表示试车需要过程，三线达产时间暂无法准确预计。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8292015.d.html</link>
-            <guid>3458303</guid>
-            <pubDate>Fri, 19 Jan 2024 13:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔能源公司据悉将以更便宜的价格向印度买家提供液化天然气】1月19日消息，卡塔尔能源公司据悉可能在几周内签署一项长期协议，以比现有合同更便宜、更灵活的条款向印度买家提供液化天然气（LNG），目前印度正寻求实现增加天然气使用量的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8291478.d.html</link>
-            <guid>3458302</guid>
-            <pubDate>Fri, 19 Jan 2024 13:13:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[印度央行：修订1月22日市场交易时间规定，债务和外汇市场将于1月22日关闭。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw8291217.d.html</link>
-            <guid>3458301</guid>
-            <pubDate>Fri, 19 Jan 2024 13:12:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【昊华科技：预计三代制冷剂呈现长期景气，中化蓝天配额量可实现生产装置高负荷运作】昊华科技近期在机构调研时表示，2024年我国对三代制冷剂实行配额管理。由于市场上无新增三代制冷剂产能和配额，以R-134a为代表的三代制冷剂下游空调、冰箱、新能源汽车市场在持续扩张，且在四代制冷剂替代尚需时日的情况下，预计三代制冷剂呈现长期景气。昊华科技并购标的中化蓝天的主要制冷剂产品在全球市场份额领先，根据生态环境部最新公布的2024年氢氟碳化物配额总量设定与分配方案，中化蓝天获得的生产配额量和内用配额量，均为国内前列。目前，中化蓝天三代制冷剂产品结构均衡，产品配额量可实现生产装置高负荷运作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0510241.d.html</link>
-            <guid>3458300</guid>
-            <pubDate>Fri, 19 Jan 2024 13:11:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【传智教育与华为签署HarmonyOS合作协议】据传智教育消息，1月18日，传智教育与华为签署了HarmonyOS人才生态体系服务合作协议。未来，传智教育将通过提供HarmonyOS产品技术培训、HarmonyOS业务咨询、HarmonyOS人才输送等服务，助力更多企业更好地应用HarmonyOS技术和产品，开发出用户体验更好的鸿蒙原生应用。]]></title>
-            <guid>3458299</guid>
-            <pubDate>Fri, 19 Jan 2024 13:08:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苹果Vision Pro在美国开始接受预订】苹果Vision Pro在美国开始接受预订。官网信息显示该产品有 256GB、512GB、1TB 三种存储容量供选择。 用户可能需要提供购买阅读镜片或蔡司处方镜片的额外费用。与此同时，Vison Pro 的更多配置信息也终于公开。 配备所有可选配件的顶级规格 Vision Pro 头显售价为 4795.95 美元（当前约 34579 元人民币），比该设备 3499 美元的起价高出 1296.95 美元（当前约 9351 元人民币）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1157907.d.html</link>
-            <guid>3458296</guid>
-            <pubDate>Fri, 19 Jan 2024 13:03:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【零跑汽车：向金华市产业基金配发及发行不超2亿元H股，每股H股认购股份43.8港元】零跑汽车1月19日在港交所发布公告称，于1月19日，公司与金华市产业基金订立H股认购协议，据此，公司已有条件同意配发及发行总额为不超过2亿元（等值港元金额将按合格境内机构投资者管理人采用的汇率计算）的可供认购的有关数目H股，认购价为每股H股认购股份43.8港元（不包括相关征费及交易费）；及与武义县金投订立内资股认购协议，据此，公司已有条件同意向武义县金投配发及发行1003.49万股内资股，认购价为每股内资股认购股份39.86元（按截至协议日期中国外汇交易中心受权公布的银行间外汇市场人民币汇率中间价1港元兑人民币0.91006元的汇率计算，相当于43.80港元）。认购股份将根据一般授权配发及发行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1157684.d.html</link>
-            <guid>3458295</guid>
-            <pubDate>Fri, 19 Jan 2024 13:02:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【合肥百货：未来超市业态仍坚持稳健扩张的发展思路，针对优势区位会加快布局跟开店节奏】合肥百货1月19日接受机构调研时表示，2023年，公司超市业态依托合家福超市的品牌优势、渠道优势，不断加强供应链建设，全年共完成195家品牌、基地直采，其中，直营百万品牌158家、基地37家。新签直营厂家26家，新增基地23家。强化“统采统配”，推动资源整合，生鲜单品全省统采比例提升至74%。全年共引进新品牌254个，共4984个SKU。发力自有品牌，全年新增委托加工生产厂6家，新增60个单品，淘汰18个单品，经营质效实现较大提升。未来超市业态仍坚持稳健扩张的发展思路，针对优势区位公司会加快布局跟开店节奏，推动超市业态规模化发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1156786.d.html</link>
-            <guid>3458292</guid>
-            <pubDate>Fri, 19 Jan 2024 12:58:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川：飞行汽车AE200完成多项关键成果，研发转入新阶段】1月18日至19日，沃飞长空开放日活动在沃飞四川汉源立体出行试验试飞基地举行，现场取得悬停试飞、地面全倾转测试、小角度倾转试飞等多项关键成果的AE200适航技术验证机露真容，飞行汽车AE200项目研发工作转入新阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0506987.d.html</link>
-            <guid>3458291</guid>
-            <pubDate>Fri, 19 Jan 2024 12:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本自民党三大派阀决定解散】受日本自民党派阀“黑金”丑闻影响，日本首相岸田文雄19日宣布将解散其曾常年担任会长的“岸田派”，随后自民党最大派阀“安倍派”和“二阶派”也在同一天决定解散。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancz7933654.d.html</link>
-            <guid>3458290</guid>
-            <pubDate>Fri, 19 Jan 2024 12:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【儒竞科技：热泵板块业务受下游去库存及海外圣诞假期季节性因素影响，短期内将承受一定压力】儒竞科技近日接受机构调研时表示，公司作为热泵整机厂商的上游供应商，主要产品是热泵系统控制器及变频驱动器。受益于欧洲热泵市场快速增长与中国热泵市场变频化趋势，且公司与全球龙头保持紧密合作关系，公司热泵板块业务公司成长潜力仍有较大空间。目前来看，公司热泵板块业务受下游去库存及海外圣诞假期季节性因素的影响，短期内将承受一定压力，但根据国内外热泵市场的中长期市场需求增长潜力，长期来看，受益于热泵产业发展趋势，公司热泵板块业务将保持良好的发展态势。]]></title>
-            <guid>3458289</guid>
-            <pubDate>Fri, 19 Jan 2024 12:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海电力：预计2023年净利润同比增加328.35%-409.66%】上海电力发布业绩预告，公司预计2023年年度实现归属于上市公司股东的净利润为13.75亿元到16.36亿元。与上年同期（法定披露数据）相比，将增加10.54亿元到13.15亿元，同比增加328.35%-409.66%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0506246.d.html</link>
-            <guid>3458288</guid>
-            <pubDate>Fri, 19 Jan 2024 12:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工商银行：承销债券规模连续两年超2万亿元】从工商银行获悉，2023年全年，工商银行主承销各类债券2700余只，承销规模连续两年超过2万亿元。分领域看，2023年，工商银行承销境内绿色、可持续发展和社会责任等ESG债券近100只，债券发行规模超4500亿元。在绿色金融债发行方面，2023年工商银行在境内发行绿色金融债券600亿元，居境内市场首位；在境外则发行了全球多币种“碳中和”主题境外绿色债券与“一带一路”主题境外绿色债券，累计募集资金规模超40亿美元。在科技金融方面，工商银行2023年累计承销科创票据融资规模超过300亿元，同比增长超过3倍。此外，工商银行还承销了多只小微企业金融债、乡村振兴债、“三农”专项金融债，债券发行规模近1500亿元。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancw0505876.d.html</link>
-            <guid>3458287</guid>
-            <pubDate>Fri, 19 Jan 2024 12:52:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【福特称正削减F-150闪电电动皮卡产量】福特1月19日表示正在削减F-150闪电电动皮卡的产量，以实现产量、销售和盈利能力的最佳平衡。福特还表示，预计2024 年全球电动汽车销量将继续增长，但增幅将低于预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1155596.d.html</link>
-            <guid>3458286</guid>
-            <pubDate>Fri, 19 Jan 2024 12:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广电总局：网络播放量将制定统一标准】近日，国家广播电视总局科技司发布关于对《网络视听收视指标及计算方法》广播电视和网络视听行业标准报批稿进行公示的通知。根据《通知》，按照广播电视和网络视听行业标准制定程序要求和计划安排，国家广播电视总局组织相关单位编制《网络视听收视指标及计算方法》行业标准，现对已通过全国广播电影电视标准化技术委员会审查的报批稿予以公示。《网络视听收视指标及计算方法》对于用户有效性、有效触达、有效播放行为判定等均作出了具体的规定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1155557.d.html</link>
-            <guid>3458285</guid>
-            <pubDate>Fri, 19 Jan 2024 12:52:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【相关会计差错导致多期年报关于商誉的财务数据不准确，上海凤凰及时任总经理等收上海证监局共罚款350万元】上海证监局对公司给予警告，并处以200万元罚款；对时任总经理郭建新给予警告，并处以75万元罚款；对时任总会计师、财务总监曹伟春给予警告，并处以75万元罚款。2015年12月，公司实施重大资产重组，通过发行股份的方式收购江苏华久辐条制造有限公司100%股权，形成相关商誉资产。公司在2018年度对该商誉进行减值测试时，未按照《企业会计准则第8号--资产减值》第二十二条、第二十五条的有关规定正确进行商誉减值测试，导致2018年度商誉减值测试准备少计提897.79万元，存在会计差错。该事项导致公司2018年合并财务报表虚增利润总额897.79万元。由于不同年度财务报告数据的连续性，前述会计差错导致公司2019年、2020年、2021年、2022年年度报告关于商誉的财务数据不准确。]]></title>
-            <guid>3458284</guid>
-            <pubDate>Fri, 19 Jan 2024 12:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【涉“代运营抖音超市”相关回复构成误导性陈述，思美传媒及时任董秘遭浙江证监局警告并合计罚款250万元】当日收盘后，思美传媒在互动易平台答复投资者相关提问称“公司所称代运营抖音超市，是指公司代运营了抖音官方超市的官方直播间之一”。抖音电商官方微博于2023年11月27日、28日就“思美传媒代运营抖音超市”发布辟谣信息。思美传媒于2023年11月27日12:50的回复所称“抖音超市现阶段由本公司代运营”，与实际情况不符。思美传媒上述信息披露不真实、不准确、不完整，构成误导性陈述，违反了规定，属于《证券法》第一百九十七条第二款所述违法行为。依据规定，浙江证监局对公司给予警告，并处以150万元罚款；对李子木给予警告，并处以100万元罚款。]]></title>
-            <guid>3458283</guid>
-            <pubDate>Fri, 19 Jan 2024 12:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东方雨虹：公司陆续参与了北京、上海、广东等区域的保障性住房项目】东方雨虹1月19日在互动平台表示，公司积极深化和拓展保障性住房、基础设施建设、城市新兴基建及工矿仓储物流、旧房改造、城中村改造、城市更新等多元化的应用场景和业务范围，其中陆续参与了北京、上海、广东、江苏、浙江、山东等区域的保障性住房项目。公司将持续关注国家相关政策与行业发展动态，积极把握市场机遇，推动自身高质量稳健发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-01-19/detail-inaeancy1154451.d.html</link>
-            <guid>3458282</guid>
-            <pubDate>Fri, 19 Jan 2024 12:47:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
