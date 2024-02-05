@@ -4,368 +4,483 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 05 Feb 2024 15:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 18:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国两年期国债收益率短线拉升超3个基点，在美国ISM非制造业指数发布后刷新日高至4.46%上方，日内当前涨约10个基点。]]></title>
-            <guid>3481843</guid>
-            <pubDate>Mon, 05 Feb 2024 15:02:56 GMT</pubDate>
+            <title><![CDATA[加州金属矿勘探初创公司KoBold Metals在赞比亚发现一个储量巨大的铜矿。该公司称，其位于赞比亚的Mingomba铜项目“将成为全球最大的高品位铜矿之一”。KoBold Metals的投资者包括一个由比尔·盖茨和杰夫·贝佐斯参与的联盟。]]></title>
+            <guid>3481955</guid>
+            <pubDate>Mon, 05 Feb 2024 18:05:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国1月ISM非制造业PMI为53.4，预期52，前值50.6。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2908704.d.html</link>
-            <guid>3481837</guid>
-            <pubDate>Mon, 05 Feb 2024 15:00:50 GMT</pubDate>
+            <title><![CDATA[美国司法部已经启动针对美国农业贸易巨头ADM的调查，涉及该公司的会计部门。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafzpwq2667575.d.html</link>
+            <guid>3481954</guid>
+            <pubDate>Mon, 05 Feb 2024 18:01:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【礼来制药上涨6%】礼来制药上涨6%，创11月份以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2908467.d.html</link>
-            <guid>3481836</guid>
-            <pubDate>Mon, 05 Feb 2024 14:59:23 GMT</pubDate>
+            <title><![CDATA[【Citadel旗下的多策略旗舰基金Wellington1月上涨1.9%】据一位知情人士透露，亿万富翁投资者Ken Griffin的旗舰对冲基金上月上涨，在有关降息的辩论中，波动性卷土重来。Citadel旗下的多策略旗舰基金Wellington在去年上涨15.3%之后，今年1月上涨了1.9%。该知情人士表示，该基金使用的5种策略——大宗商品、股票、固定收益、信贷和量化策略——本月均为正值。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafzpwq2666935.d.html</link>
+            <guid>3481952</guid>
+            <pubDate>Mon, 05 Feb 2024 17:55:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据德国商报：德国企业应用软件提供商SAP将特斯拉(TSLA.O)从公司车辆供应商名单中移除。]]></title>
-            <guid>3481835</guid>
-            <pubDate>Mon, 05 Feb 2024 14:59:01 GMT</pubDate>
+            <title><![CDATA[【智利森林大火已致122人死亡】当地时间2月5日，智利法律医疗服务中心报告称，该国2日突发的瓦尔帕莱索森林大火造成的死亡人数已达122人，其中，32名死者身份已确认，40名死者已被进行尸检。该中心表示，当日起将分批次向死者亲属交付遗体。根据总统博里奇决定，5日开始进入为时两天的全国哀悼日，同时，瓦尔帕莱索大区当局决定继续维持利马什、基尔普埃、阿莱马纳维亚和比尼亚德尔马四城的宵禁状态，以便当局能够“集中力量和资源”进行扑火救援。智利财政部长马塞尔称，初步估计瓦拉帕莱索大区的损失将达到“数亿美元”。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafzpwu0146339.d.html</link>
+            <guid>3481950</guid>
+            <pubDate>Mon, 05 Feb 2024 17:51:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：德国SAP将特斯拉踢出其汽车供应商清单。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0383864.d.html</link>
-            <guid>3481833</guid>
-            <pubDate>Mon, 05 Feb 2024 14:56:47 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：委员会可能对何时能够降低银行利率的时间点持不同意见。现在的重点是何时有足够的证据来降息，而不是是否降息。]]></title>
+            <guid>3481948</guid>
+            <pubDate>Mon, 05 Feb 2024 17:50:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【夏一平否认极越07定价21.99万：春节后公布更多信息】2月5日，集度CEO、极越CEO夏一平在微博发文称，今天直播中未提及极越07价格，说的是极越01的价格21.99万。夏一平表示，极越07今年肯定会上市交付，春节后会陆续公布更多信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7464774.d.html</link>
-            <guid>3481832</guid>
-            <pubDate>Mon, 05 Feb 2024 14:53:06 GMT</pubDate>
+            <title><![CDATA[秘鲁能源和矿产部：秘鲁2023年黄金产量为9900万克，锌产量为150万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafzpws7224006.d.html</link>
+            <guid>3481947</guid>
+            <pubDate>Mon, 05 Feb 2024 17:50:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【雅诗兰黛计划裁员3%至5%】雅诗兰黛表示，作为2025和2026财年利润恢复计划的一部分，将裁员3%至5%。雅诗兰黛在全球拥有约6.2万名员工。雅诗兰黛表示，将承担税前5亿至7亿美元的重组等费用。该公司目前预计，裁员以及更广泛的重组计划将推动营业利润增加11亿至14亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2906963.d.html</link>
-            <guid>3481830</guid>
-            <pubDate>Mon, 05 Feb 2024 14:51:00 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：随着通胀取得进展，利率将下降。即使降息后，利率水平仍将具有限制性。对通胀进展推动降息仍不够有信心。]]></title>
+            <guid>3481946</guid>
+            <pubDate>Mon, 05 Feb 2024 17:50:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【威海广泰：拟7500万元—1.5亿元回购公司股份】威海广泰2月5日晚间公告，拟7500万元—1.5亿元回购公司股份，回购股份拟用于维护公司价值及股东权益，回购股份价格不超过11元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7464264.d.html</link>
-            <guid>3481829</guid>
-            <pubDate>Mon, 05 Feb 2024 14:50:43 GMT</pubDate>
+            <title><![CDATA[WTI原油站上73美元/桶，日内涨0.90%。布伦特原油站上78美元/桶，日内涨0.82%。]]></title>
+            <guid>3481945</guid>
+            <pubDate>Mon, 05 Feb 2024 17:50:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【通义千问上线春节新应用】2月5日，阿里云通义千问APP上线多项免费新应用，涵盖全家福、拜新年、万物成龙等图像生成的新玩法，用户上传照片即可生成全家福、团圆照、拜年照、千里江山主题照；此外，全民舞王应用也迎来上新，用户可通过一张照片生成拜年视频。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2906304.d.html</link>
-            <guid>3481826</guid>
-            <pubDate>Mon, 05 Feb 2024 14:47:10 GMT</pubDate>
+            <title><![CDATA[秘鲁能源和矿产部：秘鲁2023年铜产量为276万吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2797385.d.html</link>
+            <guid>3481944</guid>
+            <pubDate>Mon, 05 Feb 2024 17:50:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【6天5跌停上海易连：2023年预亏2500万-3500万元，公司基本面未发生重大变化】经公司财务部门初步测算，预计公司2023年度实现归属于母公司所有者的净利润为-3500万元到-2500万元，与上年同期相比，减少亏损超过50%。经公司自查，截止本公告披露日，公司及下属子公司生产经营情况正常，公司日常经营情况及所处行业市场环境未发生重大变化。公司股票于2024年2月1日、2日、5日连续三个交易日内收盘价格累计跌幅超过20%，公司股票短期跌幅高于同期上证指数和同行业跌幅，但公司基本面未发生重大变化。]]></title>
-            <guid>3481823</guid>
-            <pubDate>Mon, 05 Feb 2024 14:45:23 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：宣布抗通胀胜利还为时尚早。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7354229.d.html</link>
+            <guid>3481943</guid>
+            <pubDate>Mon, 05 Feb 2024 17:43:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国海警依法驱离菲律宾侵闯黄岩岛邻近海域的1艘海警船】2月5日，中国海警依法驱离菲律宾侵闯黄岩岛邻近海域的1艘海警船。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0381582.d.html</link>
-            <guid>3481822</guid>
-            <pubDate>Mon, 05 Feb 2024 14:44:18 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：通胀下降对英国经济来说是个好消息，预计通胀将接近甚至低于目标。]]></title>
+            <guid>3481942</guid>
+            <pubDate>Mon, 05 Feb 2024 17:40:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[正平股份跌停后回应表示，公司生产经营情况正常，近3个交易日内股价波动幅度较大。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7461555.d.html</link>
-            <guid>3481817</guid>
-            <pubDate>Mon, 05 Feb 2024 14:35:41 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：供给侧可能会稍微改善一点。GDP增长不会出现剧变。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0275664.d.html</link>
+            <guid>3481941</guid>
+            <pubDate>Mon, 05 Feb 2024 17:40:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宇瞳光学：拟3000万元—6000万元回购公司股份】宇瞳光学2月5日晚间公告，拟3000万元—6000万元回购公司股份，本次回购的股份为维护公司价值及股东权益所必需，回购股份价格不超过10元/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7461379.d.html</link>
-            <guid>3481816</guid>
-            <pubDate>Mon, 05 Feb 2024 14:34:58 GMT</pubDate>
+            <title><![CDATA[欧盟委员会：欧盟支持太阳能制造商的潜在贸易措施必须与太阳能部署目标进行权衡。]]></title>
+            <guid>3481940</guid>
+            <pubDate>Mon, 05 Feb 2024 17:39:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【锋龙股份：公司实际控制人将变更 股票2月6日复牌】锋龙股份2月5日晚间公告，浙江顶度云享、陈向宏以及桐乡欣享与公司控股股东诚锋实业签订《股份转让协议》，约定拟通过受让诚锋实业持有的上市公司6141.1万股股票，占上市公司总股本的29.99%，以获取上市公司的控制权。前述协议转让交割及表决权放弃完成后，上市公司的控股股东将由诚锋实业变更为顶度云享，实际控制人将由董剑刚变更为陈向宏。公司股票及可转换公司债券自2月6日（星期二）开市起复牌，可转换公司债券于同日恢复转股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0379171.d.html</link>
-            <guid>3481811</guid>
-            <pubDate>Mon, 05 Feb 2024 14:30:27 GMT</pubDate>
+            <title><![CDATA[【2023年银行间债市自律处分及自律管理措施区别发力、有效互补】 近日，中国银行间市场交易商协会通报了2023年度银行间债券市场自律处分情况，以及2023年度银行间债券市场自律管理措施情况。总体来看，2023年度银行间债券市场自律管理措施与自律处分区别发力、有效互补，发挥了快速纠偏、及时矫正的作用，保障银行间债券市场高质量发展。交易商协会表示，下一步，将继续推动自律管理措施的常态化实践，提升自律管理措施的实施成效，运用多种方式加强市场引导教育，有效督促各类市场机构及从业人员合规展业。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2796510.d.html</link>
+            <guid>3481939</guid>
+            <pubDate>Mon, 05 Feb 2024 17:39:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加沙卫生部门：本轮巴以冲突已致超2.74万名巴勒斯坦人死亡】据加沙地带卫生部门当地时间5日表示，自2023年10月7日新一轮巴以冲突爆发以来，以色列对加沙地带发动的军事行动已造成27478名巴勒斯坦人死亡，66835人受伤。在过去的24小时里，以军对加沙地带多地发动了13次袭击，造成113人死亡，205人受伤，其中许多遭袭民众仍被埋在瓦砾之下。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0378982.d.html</link>
-            <guid>3481810</guid>
-            <pubDate>Mon, 05 Feb 2024 14:28:45 GMT</pubDate>
+            <title><![CDATA[英国央行首席经济学家皮尔：英国经济活动一直相当疲弱，供给侧约束限制英国GDP增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7353906.d.html</link>
+            <guid>3481938</guid>
+            <pubDate>Mon, 05 Feb 2024 17:39:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌经济部：乌克兰1月出口量达1200万吨】乌克兰国际文传电讯社当地时间2月5日报道称，乌克兰经济部当天发布数据称，2024年1月，乌克兰出口了1200万吨产品，其中通过海运出口了870万吨，这也是自2022年2月以来最大规模。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2902742.d.html</link>
-            <guid>3481809</guid>
-            <pubDate>Mon, 05 Feb 2024 14:28:27 GMT</pubDate>
+            <title><![CDATA[欧盟委员会：欧盟支持太阳能制造商的潜在贸易措施必须与太阳能部署目标进行权衡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7353595.d.html</link>
+            <guid>3481937</guid>
+            <pubDate>Mon, 05 Feb 2024 17:35:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京百事可乐饮料有限公司35%股权在北京产权交易所挂牌转让】据北京产权交易所网站2月5日消息，北京百事可乐饮料有限公司35%股权在北京产权交易所挂牌，转让底价1.45亿元。根据披露信息，该项目信息披露公告期为自公告之日起不少于20个工作日。信息披露期满，如未征集到意向受让方，则不变更信息披露内容，按照5个工作日为一个周期延长，直至征集到意向受让方。竞价采用动态报价方式，自由报价期为22个工作日，限时报价周期120秒，加价幅度为人民币100.00万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7155992.d.html</link>
-            <guid>3481808</guid>
-            <pubDate>Mon, 05 Feb 2024 14:27:27 GMT</pubDate>
+            <title><![CDATA[据知情人士透露，中东杂货铺连锁巨头Lulu Group International考虑IPO，寻求至少融资10亿美元。]]></title>
+            <guid>3481936</guid>
+            <pubDate>Mon, 05 Feb 2024 17:26:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华大智造旗下“超级测序工厂”T20将首次落地中东地区 】华大智造官微消息，阿联酋医疗科技公司Prepaire Labs与华大智造在阿拉伯国际医疗实验室仪器及设备展览会上签署战略合作协议。在签约仪式上，Prepaire Labs公司宣布采购被誉为“超级测序工厂”的DNBSEQ-T20×2超高通量测序仪。这也意味着，Prepaire Labs成为华大智造中东地区首个T20测序仪企业用户。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0377495.d.html</link>
-            <guid>3481806</guid>
-            <pubDate>Mon, 05 Feb 2024 14:20:16 GMT</pubDate>
+            <title><![CDATA[【因持续丰富产品供给，中国人寿等9家险企受表扬】 近日国家金融监督管理总局人身保险监管司向各人身保险公司下发了《关于2023年度人身保险产品情况的通报》显示，9家险企因持续丰富保险产品供给被“表扬”，15家险企因保险产品设计不符合“报行合一”的基本原则、产品管理不到位、精算假设不审慎等问题被点名“批评”。《通报》还就人身保险公司提升产品供给质量提出四项要求，包括落实产品管理主体责任、提升精算管理水平、规范产品开发设计行为、抓好通报问题整改落实工作。专家认为，《通报》明确保险公司管理、人身保险产品设计、未来的工作要求等标准，对险企经营有指导作用，有助于行业健康持续发展。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0273569.d.html</link>
+            <guid>3481935</guid>
+            <pubDate>Mon, 05 Feb 2024 17:25:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国纽约社区银行（NYCB）宣布，针对（部分）优先股（PFD）分红。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7458370.d.html</link>
-            <guid>3481804</guid>
-            <pubDate>Mon, 05 Feb 2024 14:19:25 GMT</pubDate>
+            <title><![CDATA[【第30届非洲矿业投资大会在南非开幕】第30届非洲矿业投资大会当地时间2月5日在南非开普敦国际会议中心举行开幕式，此次大会旨在支持并鼓励非洲矿业行业的变革和创新，以促进其持续发展。2024年会议主题为“拥抱积极颠覆的力量：非洲矿业大胆的新未来”，会议自2月5日至8日举行，为期4天。非洲多国政府首脑、全球矿业投资界和企业界人士8000余人参会，南非总统拉马福萨在开幕式上发表了讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7352549.d.html</link>
+            <guid>3481934</guid>
+            <pubDate>Mon, 05 Feb 2024 17:22:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海南国际咖啡交易运营中心揭牌成立】海南国际咖啡交易运营中心5日在万宁揭牌。该中心成立后，将利用海南自贸港优惠政策，引进国内外咖啡产业链的相关企业集聚海南，与咖啡业界在资源共享、深化市场拓展等领域紧密合作，推动海南建设国际咖啡贸易和加工专业市场。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2900948.d.html</link>
-            <guid>3481803</guid>
-            <pubDate>Mon, 05 Feb 2024 14:19:16 GMT</pubDate>
+            <title><![CDATA[【媒体：私募巨头黑石考虑收购欧舒丹】 据知情人士透露，黑石集团考虑竞购欧舒丹（L’Occitane International SA），将就此进行早期的尽职调查。黑石考虑就此意向与欧舒丹的董事会主席、亿万富翁Reinold Geiger组团。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2794848.d.html</link>
+            <guid>3481933</guid>
+            <pubDate>Mon, 05 Feb 2024 17:19:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印尼西巴布亚省发生5.5级地震】据印尼气象、气候和地球物理局消息，当地时间2月5日21时05分，印尼西巴布亚省宾坦山县西北67公里处发生5.5级地震，震中位于南纬3.99度，东经140.31度，震源深度106公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7154240.d.html</link>
-            <guid>3481802</guid>
-            <pubDate>Mon, 05 Feb 2024 14:17:37 GMT</pubDate>
+            <title><![CDATA[惠誉：2024年全球铜供应将受到科布雷铜矿（Cobre Panama）停产的影响。]]></title>
+            <guid>3481932</guid>
+            <pubDate>Mon, 05 Feb 2024 17:18:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国驻菲律宾使馆：菲方揣测所谓中国黑客事件极不负责任】中国驻菲律宾使馆发言人回答记者提问，回应所谓中国黑客对菲发动网络攻击一事时表示，菲方个别官员和媒体的恶意揣测和无端指责极不负责任。中国驻菲律宾使馆发言人表示，中国政府一贯坚决反对并依法打击各种形式的网络攻击，不允许任何国家或个人在中国境内或利用中国基础设施从事网络攻击等非法活动。发言人称，菲方个别官员和媒体在没有事实依据的情况下，对中国进行恶意揣测和无端指责，甚至将其与中菲海上争议挂钩，这种言行是极不负责任的。发言人表示，网络安全是全球性挑战，需要各国合作应对。中方主张各国通过对话与合作，共同维护网络安全。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0376933.d.html</link>
-            <guid>3481801</guid>
-            <pubDate>Mon, 05 Feb 2024 14:16:36 GMT</pubDate>
+            <title><![CDATA[惠誉：预计大多数大宗商品的地缘政治溢价将继续存在。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7351993.d.html</link>
+            <guid>3481931</guid>
+            <pubDate>Mon, 05 Feb 2024 17:16:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿根廷总统米莱发言人Adorni表示，阿根廷总统米莱将于周三与以色列总统、总理会面。]]></title>
-            <guid>3481800</guid>
-            <pubDate>Mon, 05 Feb 2024 14:16:06 GMT</pubDate>
+            <title><![CDATA[惠誉：不认为美国液化天然气出口设施的暂停批准会影响2024年全球液化天然气供应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2794574.d.html</link>
+            <guid>3481930</guid>
+            <pubDate>Mon, 05 Feb 2024 17:16:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【京仪装备业绩快报：2023年净利1.18亿元 同比增长29.29%】京仪装备2月5日晚间发布业绩快报，2023年实现营业总收入7.42亿元，同比增长11.84%；净利润1.18亿元，同比增长29.29%，基本每股收益0.91元。报告期内，公司积极把握半导体产业市场需求持续增长所带来的市场机遇，客户群体覆盖度进一步扩大，营业收入持续增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7457632.d.html</link>
-            <guid>3481799</guid>
-            <pubDate>Mon, 05 Feb 2024 14:15:24 GMT</pubDate>
+            <title><![CDATA[惠誉：地缘局势和政治在2024年再次成为大宗商品的最重要风险因素。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7351975.d.html</link>
+            <guid>3481929</guid>
+            <pubDate>Mon, 05 Feb 2024 17:16:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印尼多座火山发生喷发】据印度尼西亚火山与地质灾害研究机构发布消息，当地时间2月5日15时16分，印尼马拉皮火山发生喷发，喷发持续时间为89秒。消息还称，当地时间2月5日11时29分，印尼伊布火山发生喷发，火山灰柱高度距火山口达800米，喷发持续时间为68秒。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7457297.d.html</link>
-            <guid>3481797</guid>
-            <pubDate>Mon, 05 Feb 2024 14:13:28 GMT</pubDate>
+            <title><![CDATA[沙特阿美将3月份售往亚洲地区的阿拉伯轻原油官方售价定为较阿曼迪拜均价升水1.50美元。]]></title>
+            <guid>3481928</guid>
+            <pubDate>Mon, 05 Feb 2024 17:15:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【莱斯信息：2023年实现净利润1.31亿元 同比增长46.87%】莱斯信息2月5日晚间发布业绩快报，2023年实现营业总收入16.75亿元，同比增长6.3%；净利润1.31亿元，同比增长46.87%；基本每股收益0.92元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2899740.d.html</link>
-            <guid>3481796</guid>
-            <pubDate>Mon, 05 Feb 2024 14:12:25 GMT</pubDate>
+            <title><![CDATA[美国众议院共和党领导层：反对参议院提出的边境立法草案。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2794503.d.html</link>
+            <guid>3481927</guid>
+            <pubDate>Mon, 05 Feb 2024 17:15:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港通医疗：拟1500万元—3000万元回购公司股份】港通医疗2月5日晚间公告，拟1500万元—3000万元回购公司股份，用于员工持股计划或股权激励，回购股份价格不超过39.6元/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2899373.d.html</link>
-            <guid>3481795</guid>
-            <pubDate>Mon, 05 Feb 2024 14:10:36 GMT</pubDate>
+            <title><![CDATA[据Mortgage News Daily，2月5日，美国30年期按揭贷款/抵押贷款利率均值达到7.4%。美国按揭利率自2023年夏季以来“突飞猛进”，当年10月份一度突破8%创最近20年新高。]]></title>
+            <guid>3481926</guid>
+            <pubDate>Mon, 05 Feb 2024 17:13:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京地铁昌平线列车追尾事故调查报告公布】2023年12月14日18时52分许，北京地铁昌平线西二旗站至生命科学园站上行区间，两辆列车发生追尾事故，导致130人骨折，无人员死亡。经北京市公安司法鉴定中心鉴定，3人重伤、70人轻伤。事故造成直接经济损失约950.8万元。日前，市政府批准地铁昌平线列车追尾事故调查结案。经调查认定，这是一起造成多人受伤的生产安全责任事故。因雪天导致列车制动距离延长、运营单位雪天应对措施落实不到位、行车调度员处置不当以及列车司机操作不当，造成事故发生。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0376001.d.html</link>
-            <guid>3481794</guid>
-            <pubDate>Mon, 05 Feb 2024 14:10:16 GMT</pubDate>
+            <title><![CDATA[沙特阿美将3月对亚洲销售的轻质石油的官方石油售价（OSP）溢价维持在1.50美元/桶不变。]]></title>
+            <guid>3481925</guid>
+            <pubDate>Mon, 05 Feb 2024 17:13:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SNAP：计划在全球范围内裁员约10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2899105.d.html</link>
-            <guid>3481793</guid>
-            <pubDate>Mon, 05 Feb 2024 14:09:10 GMT</pubDate>
+            <title><![CDATA[谷歌：Firestore数据库现在普遍可用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2793982.d.html</link>
+            <guid>3481923</guid>
+            <pubDate>Mon, 05 Feb 2024 17:09:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金龙汽车：1月客车销售量2961辆 同比增长87.76%】金龙汽车2月5日晚间公告，2024年1月客车销售量2961辆，同比增长87.76%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7456366.d.html</link>
-            <guid>3481792</guid>
-            <pubDate>Mon, 05 Feb 2024 14:08:20 GMT</pubDate>
+            <title><![CDATA[【俄罗斯总统普京与阿联酋总统穆罕默德通电话】据克里姆林宫当地时间2月5日发布消息，俄罗斯总统普京当天与阿联酋总统穆罕默德通电话。双方探讨了进一步发展俄罗斯和阿联酋友好关系及热点问题。就巴以冲突地区军事对抗持续，双方探讨了向加沙地带提供更多人道主义援助的举措。双方重申致力于早日停火和恢复政治进程，在众所周知的国际法律基础上实现长久、公正地解决巴勒斯坦问题的原则立场。就乌克兰局势，俄总统普京感谢阿联酋方面在俄乌交换战俘问题上进行的斡旋工作。此外，双方同意继续加强两国各级别接触。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0271301.d.html</link>
+            <guid>3481922</guid>
+            <pubDate>Mon, 05 Feb 2024 17:09:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山鹰国际：控股股东及实控人拟2.7亿元增持公司股份】山鹰国际2月5日晚间公告，控股股东福建泰盛实业有限公司及实控人吴明武拟在2024年4月16日前通过二级市场以集中竞价交易方式增持公司股份，增持金额2.7亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0375126.d.html</link>
-            <guid>3481791</guid>
-            <pubDate>Mon, 05 Feb 2024 14:04:50 GMT</pubDate>
+            <title><![CDATA[【2/10年期英债收益率涨约10个基点】 周一（2月5日）欧市尾盘，英国10年期国债收益率上涨9.8个基点，报4.016%，盘中交投区间为3.948%-4.040%，2月2日发布美国非农就业报告以来，两个交易日累计上涨27.4个基点。两年期英债收益率涨9.0个基点，报4.511%，最近两天累计上涨28.4个基点。30年期英债收益率涨7.0个基点，50年期英债收益率涨6.5个基点。2/10年期英债收益率利差涨0.125个基点，报-50.777个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2793076.d.html</link>
+            <guid>3481919</guid>
+            <pubDate>Mon, 05 Feb 2024 17:00:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚星客车：1月客车销量同比增长48.39%】亚星客车2月5日晚间公告，2024年1月客车销量184辆，同比增长48.39%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7151985.d.html</link>
-            <guid>3481790</guid>
-            <pubDate>Mon, 05 Feb 2024 14:02:56 GMT</pubDate>
+            <title><![CDATA[【万亿元降准落地 分析人士：不排除2月LPR报价脱离MLF指导单独下调的可能性】据北京商报，2月5日，新一轮降准在春节前夕正式落地。据人民银行官网宣布，人民银行下调存款准备金率0.5个百分点，向市场提供长期流动性约1万亿元。同时以利率招标方式开展了1000亿元14天期逆回购操作。降准落地首日，债市、汇市、股市均有一定程度反应，不过影响并不算大。分析人士认为，此次降准有力弥补了春节前的流动性缺口，预计将大幅改善流动性市场环境。展望后续货币政策，更有分析人士表示，降准落地后预计将有效改善商业银行负债端压力，不排除2月LPR报价脱离MLF指导单独下调的可能性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0269885.d.html</link>
+            <guid>3481918</guid>
+            <pubDate>Mon, 05 Feb 2024 17:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【胜华新材：全资子公司投资建设1.1万吨/年添加剂项目进入试生产阶段】胜华新材公告，近日，全资子公司胜华新能源科技（东营）投资建设的1.1万吨/年添加剂项目装置已经安装完毕，通过竣工验收并完成试生产前手续办理及现场确认工作，具备试生产条件，进入试生产阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2897741.d.html</link>
-            <guid>3481789</guid>
-            <pubDate>Mon, 05 Feb 2024 14:02:33 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳：生产增长必须主要来自私营企业。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0269586.d.html</link>
+            <guid>3481917</guid>
+            <pubDate>Mon, 05 Feb 2024 16:59:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【智翔金泰：GR2102注射液获得药物临床试验批准通知书】智翔金泰2月5日晚间公告，近日公司收到国家药品监督管理局核准签发的药物临床试验批准通知书，公司在研产品GR2102注射液的临床试验申请获得批准。GR2102注射液是一款由公司自主研发的重组全人源抗呼吸道合胞病毒（RSV）单克隆抗体，可以特异性结合呼吸道合胞病毒（RSV）表面的F蛋白，阻断RSV入侵宿主细胞，从而达到防止RSV感染的作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7151192.d.html</link>
-            <guid>3481787</guid>
-            <pubDate>Mon, 05 Feb 2024 13:59:26 GMT</pubDate>
+            <title><![CDATA[美国联邦航空管理局（FAA）：美联航和阿拉斯加的飞机机队总共有144架波音737 MAX 9飞机重新投入运营。]]></title>
+            <guid>3481916</guid>
+            <pubDate>Mon, 05 Feb 2024 16:57:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【辰欣药业：实控人拟累计增持公司2000万元—3000万元股份】辰欣药业2月5日晚间公告，实控人、董事长兼总经理杜振新拟累计增持公司股份不低于2000万元，但不超过3000万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7151172.d.html</link>
-            <guid>3481786</guid>
-            <pubDate>Mon, 05 Feb 2024 13:59:12 GMT</pubDate>
+            <title><![CDATA[智利政府：森林火灾造成122人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0269311.d.html</link>
+            <guid>3481915</guid>
+            <pubDate>Mon, 05 Feb 2024 16:57:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海医药：来那度胺胶囊新增规格获得批准文号】上海医药2月5日晚间公告，公司控股子公司常州制药厂收到国家药品监督管理局颁发的关于来那度胺胶囊的药品补充申请批准通知书，公司申请的来那度胺胶囊新增规格15mg已通过审批。]]></title>
-            <guid>3481785</guid>
-            <pubDate>Mon, 05 Feb 2024 13:57:49 GMT</pubDate>
+            <title><![CDATA[德国财长Lindner：德国政府正在研究类似美国401（K）那样的养老金计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0269007.d.html</link>
+            <guid>3481914</guid>
+            <pubDate>Mon, 05 Feb 2024 16:55:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乐山电力：2023年售电量同比增长12.6%】乐山电力2月5日晚间公告，公司2023年售电量45.32亿千瓦时，同比增长12.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0373739.d.html</link>
-            <guid>3481784</guid>
-            <pubDate>Mon, 05 Feb 2024 13:57:07 GMT</pubDate>
+            <title><![CDATA[根据法院裁定，谷歌将于2024年9月9日面临美国司法部和美国各州数字广告反垄断诉讼的陪审团审判。]]></title>
+            <guid>3481913</guid>
+            <pubDate>Mon, 05 Feb 2024 16:52:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【富信科技：实控人提议以2500万元—5000万元回购公司股份】富信科技2月5日晚间公告，公司实控人、董事长、总经理刘富林提议以2500万元—5000万元回购股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7452328.d.html</link>
-            <guid>3481780</guid>
-            <pubDate>Mon, 05 Feb 2024 13:48:20 GMT</pubDate>
+            <title><![CDATA[【摩根大通：尽管美股上涨，但美国高评级信用债仍有走弱空间】 摩根大通Eric Beinstein牵头的信用策略师表示，上周美国高评级公司债利差走阔，与此同时标普500指数上涨。随着公司增加派息并加大股票回购和并购活动，这种趋势今年可能会持续。“直到最近，由于关注经济衰退风险，公司一直很保守，相较于股票持有人更偏向于债权人……这一趋势显然正在发生变化，企业开始重新关注股东。”有利于股东的举措可能会牺牲债券持有人的利益，原因是企业将现金转向利于持股人的用途，导致账面上用于履行债务的资金减少。摩根大通数据显示，1月，有109家标普500指数成份股公司发布了派息公告，其中31家上调派息金额，1家下调，其余维持不变。分析师补充说这种趋势已经蔓延至2月，包括Meta和雪佛龙在内的公司表示正在提高派息金额。与此同时，经历了两年的低迷之后，并购活动也在增加。“这些趋势表明股票和信用债利差之间的走势差距将加大。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2792106.d.html</link>
+            <guid>3481912</guid>
+            <pubDate>Mon, 05 Feb 2024 16:52:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卡特彼勒盘前涨4.65% 2023年盈利103.35亿美元同比增54.14%】美国重型机械制造商卡特彼勒(CAT.US)美股盘前涨4.65%，报329.75美元。该公司去年第四季收入170.7亿美元，市场预期172亿美元；盈利26.76亿美元，同比增长84.04%，每股盈利5.28美元；调整后每股盈利5.23美元，市场预期4.73美元。去年全年盈利103.35亿美元，同比增加54.14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7450793.d.html</link>
-            <guid>3481778</guid>
-            <pubDate>Mon, 05 Feb 2024 13:40:57 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳：预计在下半年，债务占GDP比率将恢复到60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7349344.d.html</link>
+            <guid>3481911</guid>
+            <pubDate>Mon, 05 Feb 2024 16:50:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天准科技：拟以3000万元-6000万元回购公司股份】天准科技公告，公司拟以3000万元-6000万元回购股份，回购价格不超过35元/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7450653.d.html</link>
-            <guid>3481777</guid>
-            <pubDate>Mon, 05 Feb 2024 13:40:25 GMT</pubDate>
+            <title><![CDATA[市场消息：智利国家石油公司(Enap)正在重启其第二大炼油厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0268219.d.html</link>
+            <guid>3481910</guid>
+            <pubDate>Mon, 05 Feb 2024 16:50:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宏英智能：孙公司拟在驻马店市汝南县投资建设200MW风电项目】宏英智能2月5日晚间公告，控股孙公司宏智捷能源科技（上海）有限公司近日与汝南县人民政府签署了《汝南县200MW风电项目开发协议书》，孙公司拟在驻马店市汝南县投资建设200MW风电项目，总投资15亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7147863.d.html</link>
-            <guid>3481776</guid>
-            <pubDate>Mon, 05 Feb 2024 13:39:05 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳：德国无法向乌克兰提供更多援助，因此其他国家提供了很少的援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2791779.d.html</link>
+            <guid>3481909</guid>
+            <pubDate>Mon, 05 Feb 2024 16:49:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【好想你：拟以0.5亿元-1亿元回购股份】好想你公告，拟以0.5亿元-1亿元回购股份，回购价格不超过人民币7.00/股（含）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0370221.d.html</link>
-            <guid>3481774</guid>
-            <pubDate>Mon, 05 Feb 2024 13:37:14 GMT</pubDate>
+            <title><![CDATA[【荷兰天然气期货跌超4%，欧盟碳税跌约1.9%】 周一（2月5日）欧市尾盘，ICE英国天然气期货跌3.26%，报69.150便士/千卡。TTF基准荷兰天然气期货跌4.25%，刷新日低至28.070欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）跌1.88%，刷新日低至60.40欧元/吨。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2791562.d.html</link>
+            <guid>3481908</guid>
+            <pubDate>Mon, 05 Feb 2024 16:47:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东宏股份：向特定对象发行股票申请获证监会同意注册批复】东宏股份2月5日晚间公告，公司向特定对象发行股票申请获得证监会同意注册批复。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7147046.d.html</link>
-            <guid>3481773</guid>
-            <pubDate>Mon, 05 Feb 2024 13:35:28 GMT</pubDate>
+            <title><![CDATA[DocuSign下跌7.3%，创2023年3月份以来最大盘中跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7348498.d.html</link>
+            <guid>3481906</guid>
+            <pubDate>Mon, 05 Feb 2024 16:41:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【聚和材料：拟以3亿元—6亿元回购公司股份】聚和材料2月5日晚间公告，公司拟以3亿元—6亿元回购股份，回购价格不超过79.17元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7449303.d.html</link>
-            <guid>3481772</guid>
-            <pubDate>Mon, 05 Feb 2024 13:34:56 GMT</pubDate>
+            <title><![CDATA[生物技术公司Invitae跌74%，此前媒体报道了该公司的破产计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2791065.d.html</link>
+            <guid>3481905</guid>
+            <pubDate>Mon, 05 Feb 2024 16:41:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【威海广泰：拟以0.75亿元-1.5亿元回购股份】威海广泰公告，拟以0.75亿元-1.5亿元回购股份，回购股份的价格不超过人民币11.00元/股。]]></title>
-            <guid>3481770</guid>
-            <pubDate>Mon, 05 Feb 2024 13:33:45 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳：政府对德商银行（德国第二大银行）的发展感到满意。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqu7348118.d.html</link>
+            <guid>3481904</guid>
+            <pubDate>Mon, 05 Feb 2024 16:38:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北新路桥：子公司联合中标宾阳县文旅综合提升示范基地项目】北新路桥公告，子公司北新融建（牵头人）与广西汉和建筑规划设计有限公司、广西冶建桂聚丰建筑工程有限公司、广西建工集团冶金建设有限公司组成的联合体中标宾阳县文旅综合提升示范基地及附属配套设施工程。北新融建负责该项目施工部分，建安费为2.87亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7449098.d.html</link>
-            <guid>3481769</guid>
-            <pubDate>Mon, 05 Feb 2024 13:33:39 GMT</pubDate>
+            <title><![CDATA[【加拿大新斯科舍省发生雪灾 最大降雪量达150厘米】近日，加拿大新斯科舍省部分地区持续降雪数日，截至当地时间2月5日，部分地区的降雪量达150厘米。降雪量最多的地方是悉尼镇，镇中心的降雪量达150厘米。机场的降雪量超过90厘米。另一个受灾较严重的地方是布雷顿角，当地政府已经宣布进入紧急状态。雪灾导致航班延误及停飞，还造成部分地区停电，截至5日上午，当地已有约7000多户停电。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0265590.d.html</link>
+            <guid>3481903</guid>
+            <pubDate>Mon, 05 Feb 2024 16:33:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【威海广泰：拟以0.75亿元-1.5亿元回购股份】威海广泰公告，拟以0.75亿元-1.5亿元回购股份，回购股份的价格不超过人民币11.00元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7146572.d.html</link>
-            <guid>3481768</guid>
-            <pubDate>Mon, 05 Feb 2024 13:33:11 GMT</pubDate>
+            <title><![CDATA[美国财政部拍卖三个月期国债，得标利率5.235%（1月29日报5.210%），投标倍数2.91（前次为2.84）。拍卖六个月期国债，得标利率5.045%（前次为4.985%），投标倍数2.91（前次为3.14）。]]></title>
+            <guid>3481902</guid>
+            <pubDate>Mon, 05 Feb 2024 16:32:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卡塔尔首相会见近东救济工程处负责人，讨论巴以局势】当地时间2月5日，卡塔尔首相兼外交大臣穆罕默德在首都多哈会见来访的联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员菲利普·拉扎里尼，双方重点就当前巴以局势进行了讨论。穆罕默德表示，卡塔尔将继续支持近东救济工程处。在加沙地带平民面临灾难性人道主义局势的情况下，近东救济工程处肩负着重大责任，卡方赞赏近东救济工程处在帮助加沙地带、约旦河西岸、约旦、叙利亚和黎巴嫩等地区的数百万平民方面发挥的关键作用。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2891162.d.html</link>
-            <guid>3481767</guid>
-            <pubDate>Mon, 05 Feb 2024 13:31:23 GMT</pubDate>
+            <title><![CDATA[惠誉：预计2024年美国消费支出可能趋于稳定；劳动力市场支撑着经济的韧性。]]></title>
+            <guid>3481901</guid>
+            <pubDate>Mon, 05 Feb 2024 16:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【豪鹏科技：董事长提议5000万元—1亿元回购公司股份】豪鹏科技2月5日晚间公告，控股股东、实际控制人、董事长兼总经理潘党育提议5000万元—1亿元回购公司股份，用于股权激励计划、员工持股计划或可转换公司债券转股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7448527.d.html</link>
-            <guid>3481766</guid>
-            <pubDate>Mon, 05 Feb 2024 13:31:12 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京与阿联酋总统讨论了巴以冲突和乌克兰问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqx7040272.d.html</link>
+            <guid>3481898</guid>
+            <pubDate>Mon, 05 Feb 2024 16:16:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【王毅同挪威外交大臣艾德举行会谈】据外交部消息，2024年2月5日，中共中央政治局委员、外交部长王毅在北京同挪威外交大臣艾德举行会谈。王毅表示，当前世界进入新的动荡变革期，全球政治、经济、安全形势充满不确定性。人类社会处在关键十字路口。中方认为，各国人民追求和平与发展的大方向不会改变，人类文明不断向前迈进的大逻辑不会改变，国际社会命运与共的大趋势不会改变。中挪虽然相隔遥远，国情不同、制度不同，但都应做国际社会中的稳定力量、和平力量、繁荣力量，应坚持坦诚沟通，务实推进合作，稳妥处理分歧，沿着大方向、大逻辑、大趋势前进，共同为世界注入更多确定性、稳定性、正能量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2891011.d.html</link>
-            <guid>3481765</guid>
-            <pubDate>Mon, 05 Feb 2024 13:30:42 GMT</pubDate>
+            <title><![CDATA[美国5年期国债收益率上涨15个基点，至4.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0263055.d.html</link>
+            <guid>3481897</guid>
+            <pubDate>Mon, 05 Feb 2024 16:16:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Catalent盘前涨超10% 消息称该公司获诺和诺德收购】生物制药公司Catalent(CTLT.US)美股盘前涨超10%，报60.2美元。报道称，诺和控股宣布将以每股63.50美元的价格现金收购生物制药公司Catalent，旨在进一步扩大自己在生物制药领域的投资布局，并加强在全球范围内的市场影响力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2890684.d.html</link>
-            <guid>3481764</guid>
-            <pubDate>Mon, 05 Feb 2024 13:29:07 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳：德国因缺乏增长而变得更加贫穷。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqx7040134.d.html</link>
+            <guid>3481896</guid>
+            <pubDate>Mon, 05 Feb 2024 16:15:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【诺禾致源：拟以8000万元-1.6亿元回购股份】诺禾致源公告，拟以8000万元-1.6亿元回购股份，回购价格最高不超过人民币28.53元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0368633.d.html</link>
-            <guid>3481763</guid>
-            <pubDate>Mon, 05 Feb 2024 13:28:52 GMT</pubDate>
+            <title><![CDATA[美国10年期国债收益率上涨15个基点，报4.17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqx7039847.d.html</link>
+            <guid>3481895</guid>
+            <pubDate>Mon, 05 Feb 2024 16:12:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【容知日新：控股股东等拟合计增持公司1075万元—2150万元股份】容知日新2月5日晚间公告，公司控股股东、实控人兼董事长及部分董事、高级管理人员合计3人计划合计以1075万元—2150万元增持公司股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7448022.d.html</link>
-            <guid>3481762</guid>
-            <pubDate>Mon, 05 Feb 2024 13:28:45 GMT</pubDate>
+            <title><![CDATA[德国财政部长林德纳表示，德国经济增长仍然疲弱，尚不能提供预测；德国需要更加灵活的劳动力市场。]]></title>
+            <guid>3481894</guid>
+            <pubDate>Mon, 05 Feb 2024 16:09:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美能能源：董事长提议3000万元—5000万元回购公司股份】美能能源2月5日晚间公告，公司实际控制人、董事长晏立群提议3000万元—5000万元回购公司股份，回购股份拟用于股权激励或员工持股计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7447979.d.html</link>
-            <guid>3481761</guid>
-            <pubDate>Mon, 05 Feb 2024 13:28:37 GMT</pubDate>
+            <title><![CDATA[亚马逊一度下跌2.4%，报167.70美元，脱离四季报发布后在“非农日”（2月2日）所创2021年12月以来盘中最高位172.50美元，当年7月曾涨至盘中历史最高位188.11美元。]]></title>
+            <guid>3481893</guid>
+            <pubDate>Mon, 05 Feb 2024 16:03:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【合力泰：公司被债权人申请重整及预重整】合力泰2月5日晚间公告，2月4日，公司收到申请人福建华闽融资租赁有限公司（简称“福建华闽”或“申请人”）的《告知函》，福建华闽以公司不能清偿到期债务并且资产不足以清偿全部债务，但仍具备重整价值，且具备与主要债权人开展自主谈判的能力为由，已向福州中院提交申请对公司进行重整及预重整的材料。截至公告披露日，公司尚未收到福州中院启动预重整或受理重整申请的文件，申请人的申请能否被法院受理，公司后续是否进入预重整或重整程序均存在重大不确定性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2890038.d.html</link>
-            <guid>3481758</guid>
-            <pubDate>Mon, 05 Feb 2024 13:26:27 GMT</pubDate>
+            <title><![CDATA[【俄罗斯一架直升机坠毁 3人失联】俄罗斯紧急情况部5日在社交媒体上发布消息说，隶属该部的一架米-8直升机当天在俄罗斯卡累利阿共和国的奥涅加湖水域上空训练时坠毁，机上有3名机组人员。卡累利阿共和国行政长官阿尔图尔·帕尔芬奇科夫5日稍晚表示，救援人员已在奥涅加湖湖底发现当天坠毁的直升机残骸，但机上3人尚未找到，搜救工作仍将继续。俄塔斯社援引有关部门消息说，初步判定，机身结冰后发动机熄火可能是导致米-8直升机坠毁的原因。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqs2786247.d.html</link>
+            <guid>3481892</guid>
+            <pubDate>Mon, 05 Feb 2024 16:02:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【赣锋锂业：拟以不超过150亿元人民币或等值外币开展外汇套期保值业务】赣锋锂业公告，拟以不超过（含）150亿元人民币或等值外币开展外汇套期保值业务；拟开展商品期货期权套期保值业务，品种仅限于与公司生产经营有直接关系的锂盐期货和品种，交易保证金和权利金上限不超过2亿元，且任一交易日持有的最高合约价值不超过3亿元。]]></title>
-            <guid>3481757</guid>
-            <pubDate>Mon, 05 Feb 2024 13:26:16 GMT</pubDate>
+            <title><![CDATA[【今日重点关注财经数据与事件】
+① 11:30 澳洲联储公布利率决议和货币政策声明
+② 12:30 澳洲联储主席布洛克召开新闻发布会
+③ 18:00 欧元区12月零售销售月率
+④ 23:00 美国1月全球供应链压力指数
+⑤ 次日01:00 EIA公布月度短期能源展望报告
+⑥ 次日01:00 美联储梅斯特就经济前景发表讲话
+⑦ 次日02:00 加拿大央行行长麦克勒姆发表讲话
+⑧ 次日05:30 美国至2月2日当周API原油库存]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-06/detail-inafziqw0260169.d.html</link>
+            <guid>3481891</guid>
+            <pubDate>Mon, 05 Feb 2024 16:01:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【福星股份：公司项目入围房地产融资项目名单】福星股份2月5日晚间公告，全资子公司湖北福星惠誉后湖置业有限公司开发的“星誉国际K12、K13地块”项目已列入武汉市第一批房地产融资项目名单。]]></title>
-            <guid>3481755</guid>
-            <pubDate>Mon, 05 Feb 2024 13:25:52 GMT</pubDate>
+            <title><![CDATA[【“印度支付宝”Paytm最近三天跌超40%，银行支付许可证面临被印度央行吊销的危险】 “印度支付宝”One 97 Communications Ltd.（PAYTM.IN）孟买股价收跌10%，报438.50卢比，孟买开盘跳空跌至438.70卢比，最低触及438.35卢比；最近三个交易日，累计暴跌42.39%。上周五（2月2日）盘后消息，印度央行（印度储备银行）考虑吊销金融科技初创公司Paytm的数字钱包等支付银行许可证。周一亚太盘初，该公司澄清称，公司没有涉嫌洗钱。]]></title>
+            <guid>3481889</guid>
+            <pubDate>Mon, 05 Feb 2024 15:57:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【赣锋锂业：拟以不超过150亿元人民币或等值外币开展外汇套期保值业务】赣锋锂业公告，拟以不超过（含）150亿元人民币或等值外币开展外汇套期保值业务；拟开展商品期货期权套期保值业务，品种仅限于与公司生产经营有直接关系的锂盐期货和品种，交易保证金和权利金上限不超过2亿元，且任一交易日持有的最高合约价值不超过3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0367849.d.html</link>
-            <guid>3481752</guid>
-            <pubDate>Mon, 05 Feb 2024 13:24:38 GMT</pubDate>
+            <title><![CDATA[欧元兑美元EUR/USD日内下跌0.6%至1.0723，为11月14日以来最低水平。]]></title>
+            <guid>3481888</guid>
+            <pubDate>Mon, 05 Feb 2024 15:48:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【翰宇药业：收到1001.47万美元合作方采购订单】翰宇药业2月5日晚间公告，近日，公司再次收到美国交易对手方的采购需求订单，其拟向公司采购金额为1001.47万美元（约合人民币0.72亿元（含税））的利拉鲁肽注射液（仿制药）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0367060.d.html</link>
-            <guid>3481750</guid>
-            <pubDate>Mon, 05 Feb 2024 13:20:09 GMT</pubDate>
+            <title><![CDATA[【以军称与哈马斯在加沙地带作战 对黎南部真主党目标实施打击】以色列国防军当地时间5日下午发布的消息显示，过去一天里以军在加沙地带持续与哈马斯开展战斗。以色列国防军在其社交媒体的账号上发文宣称，以军正在攻击加沙北部的重点地区，同时“深入彻底”地清除哈马斯武装分子及其基础设施，目前估计加沙北部仍有数百名哈马斯成员。以色列国防军5日早些时候还表示，黎巴嫩真主党当天向以色列北部多处地区发射火箭弹，事件并未造成人员伤亡。作为回应，以军分别对黎巴嫩南部的部分真主党目标实施了空袭和炮击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqu7341748.d.html</link>
+            <guid>3481887</guid>
+            <pubDate>Mon, 05 Feb 2024 15:48:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中京电子：部分高管人员等拟不低于700万元增持公司股份】中京电子(002579)2月5日晚间公告，部分高级管理人员及核心管理人员基于对公司未来持续稳定发展的信心和长期投资价值的认可，计划自本公告披露之日起6个月内，增持公司股票合计金额不低于700万元（含本数），本次增持计划不设价格区间。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2888632.d.html</link>
-            <guid>3481749</guid>
-            <pubDate>Mon, 05 Feb 2024 13:20:01 GMT</pubDate>
+            <title><![CDATA[【伊拉克副总理兼外长与埃及外长通电话】当地时间2月5日，伊拉克副总理兼外交部长福阿德·侯赛因与埃及外长舒克里通电话，重点围绕美国近期空袭伊拉克和巴勒斯坦问题展开了探讨。在通话中，两国外长讨论了当前地区局势，双方强调冷静和对话对于减少局势升级和紧张局势的重要性，双方还就巴勒斯坦问题，以及采取联合行动维护地区和世界的稳定和平的必要性交换了意见。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqs2784320.d.html</link>
+            <guid>3481886</guid>
+            <pubDate>Mon, 05 Feb 2024 15:47:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【A股回购潮持续，超90家公司再出手】上市公司的回购热情还在持续点燃。2月5日，据不完全统计，盘后已有超90家上市公司发布了回购方案。其中不乏多家行业龙头，例如，三一重工公告，拟以6亿元-10亿元回购股份，回购价格不超过人民币18元/股；隆基绿能公告，董事长提议以3亿元-6亿元回购股份；九安医疗公告，拟以6亿元—12亿元回购股份，回购股份的价格为不超过45元/股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafywyy7576098.d.html</link>
-            <guid>3481747</guid>
-            <pubDate>Mon, 05 Feb 2024 13:16:44 GMT</pubDate>
+            <title><![CDATA[【央行开展专项整治：拒收现金违法，可投诉举报】 随着电子支付的发展，多地拒收现金现象时有发生。从去年10月起，中国人民银行开展了为期半年的专项整治工作，如果消费者遇到拒收现金行为，可以明确告知对方拒收现金的行为违法，并且可以保留相关视频、音频证据，向中国人民银行当地分支机构投诉举报。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqw0258509.d.html</link>
+            <guid>3481885</guid>
+            <pubDate>Mon, 05 Feb 2024 15:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对欧盟农业政策不满 西班牙多个群体呼吁无限期罢工】当地时间2月5日，西班牙农民群体封锁了连接西班牙和葡萄牙的高速公路交通，对于欧盟的农业政策表示抗议。西班牙多地的农民群体近日来发起多次抗议活动以表达对欧盟农业政策的不满。西班牙货运联合会、个体经营者协会和中小企业协会等群体同样在5日报告称，他们呼吁开启无限期罢工，以抗议欧盟的农业政策，罢工预计将从2月10日开始进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqu7340592.d.html</link>
+            <guid>3481882</guid>
+            <pubDate>Mon, 05 Feb 2024 15:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【古特雷斯任命独立小组审查近东救济工程处】 当地时间2月5日，联合国宣布，秘书长古特雷斯与近东救济工程处（UNRWA）主任专员菲利普·拉扎里尼协商后任命一个独立的审查小组，以评估该机构是否正确保中立，并在提出严重违规指控时做出回应。据联合国消息，该审查小组将由法国前外交部长科隆纳领导，她将与三个欧洲研究组织合作。据了解，审查小组将于2024年2月14日开始工作，预计将于2024年3月下旬向秘书长提交一份临时报告，最终报告预计将于2024年4月底完成。最终报告将公开发布。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqs2783131.d.html</link>
+            <guid>3481881</guid>
+            <pubDate>Mon, 05 Feb 2024 15:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖北重点路段部分收费站免费放行时间延长至明天12时】湖北省交通运输厅今天（5日）发布关于湖北省紧急应对恶劣天气在高速公路指定收费站实施免费放行的通告，湖北重点路段部分收费站免费放行时间延长至明天（2月6日）12时。针对近日湖北省境内部分高速公路路段因恶劣天气造成车辆拥堵严重的情况，结合最新天气预报及路网运行情况，经省人民政府和交通运输部同意，调整免费放行收费站所及时间区间，自2024年2月5日20:00至6日12:00，对在指定收费站驶出高速公路的所有车辆实施免费放行。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqs2783115.d.html</link>
+            <guid>3481880</guid>
+            <pubDate>Mon, 05 Feb 2024 15:37:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【湖南长沙发布道路结冰橙色预警】长沙市气象台2024年2月5日21时31分发布道路结冰橙色预警信号：目前湘江新区、雨花区、天心区、芙蓉区、开福区、长沙县、望城区、浏阳市、宁乡市路表温度低于0℃，预计未来12小时将出现对交通有较大影响的道路结冰，请加强防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqu7340398.d.html</link>
+            <guid>3481879</guid>
+            <pubDate>Mon, 05 Feb 2024 15:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[加拿大央行第四季度市场参与者调查：中值预测为4月份开始降息，与第三季度调查相同。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafziqu7340142.d.html</link>
+            <guid>3481877</guid>
+            <pubDate>Mon, 05 Feb 2024 15:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国国防部长沙普斯：胡塞武装继续干扰红海的意图尚未完全消退，我们将毫不犹豫地采取行动。]]></title>
+            <guid>3481876</guid>
+            <pubDate>Mon, 05 Feb 2024 15:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：普京预计将于2月12日访问土耳其】 据法新社2月4日报道，土耳其外长哈坎·菲丹证实，俄罗斯总统普京即将访问土耳其，但他没有宣布普京访问的具体日期。“这次访问将为我们提供讨论众多问题的机会，”菲丹在接受土耳其官方媒体采访时表示。此前，有土耳其媒体报道称，普京预计将于2月12日访问土耳其并会见土耳其总统埃尔多安。这将是俄罗斯领导人自2022年2月俄乌冲突爆发以来首次访问北约成员国。路透社称。埃尔多安将与普京讨论允许乌克兰通过黑海出口粮食的新机制。菲丹说:“以前的粮食协议是在某种机制下运作的，现在已经看到有可能采用不同的机制。”（环球网）]]></title>
+            <guid>3481875</guid>
+            <pubDate>Mon, 05 Feb 2024 15:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺华制药收购Morphosys的磋商处于高级阶段。MorphoSys AG ADR涨幅扩大至超过30%，至14.49美元，这家后期生物制药公司致力于为患有严重疾病的患者开发创新和差异化疗法。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7470045.d.html</link>
+            <guid>3481873</guid>
+            <pubDate>Mon, 05 Feb 2024 15:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：美联储（主席鲍威尔近期讲话）立场偏鹰派，这利好高评级信贷溢价。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7164306.d.html</link>
+            <guid>3481872</guid>
+            <pubDate>Mon, 05 Feb 2024 15:22:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数升至一周高点】波罗的海干散货运价指数周一升至一周高点，因海岬型船运价指数上涨，超过小型船运费下滑。波罗的海干散货运价指数上涨29点或2.1%，至1436点，为1月29日以来最高水平。海岬型船运价指数上涨112点或5.5%，至2142点，为近两周最高。海岬型船日均获利增加929美元，至17766美元。巴拿马型船运价指数下跌25点或1.7%，至1419点。巴拿马型船日均获利减少228美元，至12768美元。超灵便型散货船运价指数下跌4点至1037点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2912011.d.html</link>
+            <guid>3481871</guid>
+            <pubDate>Mon, 05 Feb 2024 15:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[意大利两年期国债收益率上升6.9个基点，至3.269%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2911956.d.html</link>
+            <guid>3481870</guid>
+            <pubDate>Mon, 05 Feb 2024 15:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿联酋总统会见约旦国王，讨论加沙地带问题】 当地时间2月5日，阿联酋总统穆罕默德访问约旦，并与约旦国王阿卜杜拉二世举行会见。双方表示，国际社会需要加强努力，实现加沙地区停火止战，保护平民，并确保人道主义援助物资持续且充足地运抵加沙。双方重申全力支持巴勒斯坦人实现其合法权利，并强调在“两国方案”的框架内启动政治进程是唯一实现地区安全与稳定的途径。阿卜杜拉二世强调，国际社会需要继续支持联合国巴勒斯坦难民救济和工程处（近东救济工程处），使其能够根据联合国的授权框架内提供重要的人道主义服务，特别是考虑到如今加沙地带不断恶化的人道主义局势和巴勒斯坦难民的悲惨现状。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2911363.d.html</link>
+            <guid>3481867</guid>
+            <pubDate>Mon, 05 Feb 2024 15:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机构表示，美国将于周四停止接受新的低收入互联网补贴申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7468726.d.html</link>
+            <guid>3481866</guid>
+            <pubDate>Mon, 05 Feb 2024 15:17:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：去年以来，美国贷款市场明显收紧。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchy0386306.d.html</link>
+            <guid>3481864</guid>
+            <pubDate>Mon, 05 Feb 2024 15:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：将倒挂的国债收益率曲线作为经济衰退指标的经验法则不适用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7468175.d.html</link>
+            <guid>3481861</guid>
+            <pubDate>Mon, 05 Feb 2024 15:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：强劲就业数据并不一定意味着经济过热。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2910768.d.html</link>
+            <guid>3481860</guid>
+            <pubDate>Mon, 05 Feb 2024 15:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美元兑加元USD/CAD日内涨超0.50%，现报1.3530。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2910748.d.html</link>
+            <guid>3481859</guid>
+            <pubDate>Mon, 05 Feb 2024 15:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部：切实做好春节生活必需品保供】据新华社，记者5日从商务部获悉，针对近期我国部分地区出现大范围持续雨雪冰冻天气，各级商务主管部门积极采取措施，全力保障春节生活必需品市场供应。各级商务主管部门主要出台如下5点举措保供：一是加强监测预警，做好应对准备；二是强化货源组织，保障库存充足；三是及时投放储备，增加市场供应；四是优化便民服务，畅通末端配送；五是深入排查隐患，营造安全环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchz7162872.d.html</link>
+            <guid>3481858</guid>
+            <pubDate>Mon, 05 Feb 2024 15:11:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雅诗兰黛计划裁员3％至5％】雅诗兰黛2月5日表示，作为2025和2026财年利润恢复计划的一部分，将裁员3%至5%。雅诗兰黛在全球拥有约6.2万名员工。雅诗兰黛表示，将承担税前5亿至7亿美元的重组等费用。该公司目前预计，裁员以及更广泛的重组计划将推动营业利润增加11亿至14亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchu2910447.d.html</link>
+            <guid>3481857</guid>
+            <pubDate>Mon, 05 Feb 2024 15:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：美联储的目标是PCE达到2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-05/detail-inafzchw7467610.d.html</link>
+            <guid>3481856</guid>
+            <pubDate>Mon, 05 Feb 2024 15:10:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
