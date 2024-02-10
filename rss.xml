@@ -4,11 +4,195 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 09 Feb 2024 21:03:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Feb 2024 00:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【重庆发布大雾橙色预警信号】重庆市气象台2024年2月10日6时00分发布“大雾橙色预警信号”，目前我市部分区县局地出现能见度小于50米的大雾。预计10日6时至12时，铜梁、璧山、永川、江津、涪陵、云阳、石柱可能出现能见度小于200米的雾，北碚、潼南、荣昌、綦江、万盛经开区、南川、忠县、垫江、梁平、万州、开州、黔江、酉阳、秀山局地能见度小于50米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpfek4969836.d.html</link>
+            <guid>3487600</guid>
+            <pubDate>Sat, 10 Feb 2024 00:26:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【武汉中心气象台发布霾黄色预警】武汉中心气象台02月10日06时发布霾黄色预警：目前，湖北省大部地区已出现中度霾，局部重度霾，预计未来24小时仍将持续，请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpfeq2393381.d.html</link>
+            <guid>3487599</guid>
+            <pubDate>Sat, 10 Feb 2024 00:26:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【爱朋医疗：公司是国内少数掌握麻醉深度指数监测技术的企业之一】爱朋医疗在互动平台表示，公司是国内少数掌握麻醉深度指数监测技术的企业之一，此类产品的医疗器械分类已从二类升级为三类，公司新注册的“麻醉深度监护仪”即为三类产品。目前国内友商大约10家左右，多数规模相对较小。国内市场目前以进口产品为主，国产替代潜力巨大。财政部联合工信部发布的《政府采购进口产品审核指导标准》（2021年版）中明确“脑电麻醉深度监护仪”国产产品采购比例不低于50%，进一步推动了国产麻醉深度监测仪的发展，脑电麻醉深度监护仪迎来了国产替代的机遇。 公司麻醉深度监护仪已完成20多个省份的市场准入工作，超过百家医院采购公司该产品及配套的一次性使用无创脑电传感器。公司积极与重点医院开展麻醉深度临床研究工作，公司新注册的第三类“麻醉深度监护仪”也将助力公司产品销售。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpfek4969124.d.html</link>
+            <guid>3487598</guid>
+            <pubDate>Sat, 10 Feb 2024 00:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中金公司给予达势股份跑赢大盘的初始评级，目标价64.30港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpfer9169651.d.html</link>
+            <guid>3487597</guid>
+            <pubDate>Sat, 10 Feb 2024 00:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【腾讯将其在亚玛芬体育的持股比例从4.27%增加至6.5%】据美国证交会文件，腾讯将其在亚玛芬体育（Amer Sports）的持股比例从4.27%增加至6.5%。2月1日，亚玛芬抑郁正式登陆纽交所，募集13亿美元，发行市值63亿美元（约合450亿人民币），成为自2023年9月以来全球规模最大IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahpfen9525970.d.html</link>
+            <guid>3487596</guid>
+            <pubDate>Sat, 10 Feb 2024 00:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国纽约时代广场发生枪击事件 一游客受伤】据美联社报道，当地时间2月8日19时左右，美国纽约曼哈顿时代广场发生一起枪击事件，导致一名游客受伤。该伤者目前无生命危险。警方暂时关闭了该地区的街道。目前，枪手仍在逃。（央视新闻）]]></title>
+            <guid>3487593</guid>
+            <pubDate>Sat, 10 Feb 2024 00:01:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2023年我国消费品新增近2000万种】据国家市场监督管理总局中国物品编码中心统计：2023年登记使用商品条码的消费品新增1964.0万种，消费品总量达19173.7万种。消费品各大类别增长显著，增长面达95.1%。2023年登记使用商品条码的41大类消费品中，共有39类实现增长。增量排位前十类别中，机动车辆相关产品、家用或办公家具和陈设、个人配饰同比增长位居前三，分别增长120.0%、66.8%、51.1%，增长势头强劲；电气用品、厨房用具和餐具分别增长47.5%、47.1%，增速较上一年提升近一倍，巩固了持续向好增长态势；食品/饮料和烟草、美容/个人护理和卫生用品分别增长36.1%、33.7%，实现由稳步恢复转为实质增长。可以看出，与居民生活密切相关的出行、家居、饮食类消费品供给水平加速提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5096703.d.html</link>
+            <guid>3487592</guid>
+            <pubDate>Fri, 09 Feb 2024 23:55:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【南部战区除夕发布例行巡航消息，专家：无论何时解放军都不会放松戒备】9日晚间，解放军南部战区发布消息称，当天南部战区组织海空兵力位南海海域进行例行巡航。战区部队全时保持高度戒备，坚决捍卫国家主权安全和海洋权益。军事专家张军社9日晚间接受采访时表示，南部战区在除夕之夜发布当天开展军事行动的消息，一方面说明解放军时刻枕戈待旦，坚决捍卫国家主权和安全，请全国人民放心；另一方面也是对企图在春节这个中国人民传统节日图谋不轨的个别国家发出警告，即无论何时解放军都不会放松戒备，对我当面海空域发生的任何动态情况都会严密掌握，并随时做出反应。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5096430.d.html</link>
+            <guid>3487591</guid>
+            <pubDate>Fri, 09 Feb 2024 23:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国佛罗里达州一小型喷气式飞机坠毁 致至少2人死亡】当地时间2月9日，美国佛罗里达州那不勒斯市一架小型喷气式飞机在高速公路上坠毁并起火，造成至少2人死亡。目前那不勒斯市75号州际公路的所有车道均被关闭。美国联邦航空管理局表示，当地时间15时15分左右，该飞机在高速公路上坠毁，机上载有5人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5095758.d.html</link>
+            <guid>3487590</guid>
+            <pubDate>Fri, 09 Feb 2024 23:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登、德国总理朔尔茨在会晤当中讨论了防止中东局势升级的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywt9296924.d.html</link>
+            <guid>3487589</guid>
+            <pubDate>Fri, 09 Feb 2024 23:35:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际援助组织呼吁为加沙地带民众提供更多援助】红十字会与红新月会国际联合会及联合国世界粮食计划署当地时间9日均表示，加沙地带人道主义形势严峻，当地居民急需食品、干净的水及其他基本生活物资，呼吁国际社会向加沙地带提供更多人道主义援助。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9652205.d.html</link>
+            <guid>3487588</guid>
+            <pubDate>Fri, 09 Feb 2024 23:31:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【圆心科技通过港交所主板上市聆讯】据港交所2月9日披露，北京圆心科技集团股份有限公司通过港交所主板上市聆讯。高盛和中信证券(600030.SH；06030.HK)为联席保荐人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5094531.d.html</link>
+            <guid>3487587</guid>
+            <pubDate>Fri, 09 Feb 2024 23:29:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以称正制定对拉法的双重行动计划 巴称以军计划旨在驱逐巴勒斯坦人】巴以冲突仍在持续，目前以色列军方在加沙地带行动的主要目标是南部的拉法市。 以色列总理内塔尼亚胡当地时间9日称，以军正在制定在拉法的行动计划。巴勒斯坦总统阿巴斯同一天回应称，以色列对拉法的军事行动目的是将巴勒斯坦人赶出加沙地带。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9650763.d.html</link>
+            <guid>3487584</guid>
+            <pubDate>Fri, 09 Feb 2024 23:18:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、“为两国铁杆友谊增添新的活力”（高端访谈）——访巴基斯坦总统阿里夫·阿尔维；
+2、国办印发《意见》 加快构建废弃物循环利用体系。]]></title>
+            <guid>3487583</guid>
+            <pubDate>Fri, 09 Feb 2024 23:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷总统米莱要求矿业部长ROYON辞职，要求养老金机构负责人辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5091317.d.html</link>
+            <guid>3487581</guid>
+            <pubDate>Fri, 09 Feb 2024 22:55:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及加强与加沙地带边境的安全措施】随着以色列加大对加沙地带南部地区的军事行动力度，特别是对南部城市拉法的打击力度，埃及安全部门称，埃及方面将进一步加强边境地区的安全措施。埃及的西奈半岛与加沙地带接壤，拉法口岸也是目前加沙地带主要的人道物资过境点。9日，据埃及安全部门消息称，埃及向东北部西奈省部署了约40辆坦克及装甲运兵车，以加强与加沙地带交界地区的安全防卫。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnyws2516706.d.html</link>
+            <guid>3487580</guid>
+            <pubDate>Fri, 09 Feb 2024 22:53:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥西部发生5.1级地震】根据墨西哥国家地震监测局（SSN）的信息，当地时间2月9日14时41分58秒，墨西哥西部哈利斯科州瓦雅尔塔港市西南方向约177公里处发生5.1级地震，震源深度约16.1公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywt9293846.d.html</link>
+            <guid>3487579</guid>
+            <pubDate>Fri, 09 Feb 2024 22:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称击退乌军多次进攻 乌称打击俄指挥所】俄罗斯国防部9日通报称，在库皮扬斯克、红利曼等多个方向，击退乌军多次进攻，并对乌军人力和装备进行打击，摧毁多门各型火炮、榴弹炮，两辆坦克、三辆装甲战车、两个弹药库，拦截15枚火箭弹、97架无人机。乌克兰武装部队总参谋部同一天发布战报称，在过去24小时内，前线地区发生91次战斗，乌军对俄军多个人员、武器和军事装备集中区、2个指挥所和2个弹药库实施了打击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9648537.d.html</link>
+            <guid>3487578</guid>
+            <pubDate>Fri, 09 Feb 2024 22:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁南部地区发生4.6级地震】根据秘鲁地球物理研究所国家地震中心报告，当地时间2月9日17时17分，该国南部阿雷基帕大区发生4.6级地震，震源深度17公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5090477.d.html</link>
+            <guid>3487577</guid>
+            <pubDate>Fri, 09 Feb 2024 22:35:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台2月10日06时发布大雾橙色预警】预计， 山东西部、江苏北部、河南南部、浙江中西部、安徽南部、江西大部、福建西部、湖南大部 、贵州中北部、重庆大部、黑龙江西南部等地有大雾天气，其中贵州中北部、湖南中北部、江西中北部等地部分地区有能见度不足50米的特强浓雾。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5090442.d.html</link>
+            <guid>3487576</guid>
+            <pubDate>Fri, 09 Feb 2024 22:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列总理要求制定在拉法开展地面行动计划】以色列总理内塔尼亚胡当地时间9日要求以国防军和安全部门制定在加沙地带南部城市拉法开展地面行动的计划。以色列总理办公室9日发表声明说，内塔尼亚胡当天要求以国防军和安全部门向战时内阁提交有关加沙居民撤离拉法、消灭该地区巴勒斯坦伊斯兰抵抗运动（哈马斯）武装人员的计划。声明说，不歼灭哈马斯在拉法的4个营，就不可能实现消灭哈马斯的目标。同时，在拉法开展密集军事行动之前，需要居民撤离“战区”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywn5090434.d.html</link>
+            <guid>3487575</guid>
+            <pubDate>Fri, 09 Feb 2024 22:34:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SOUTHSTATE报告2月6日发生网络安全事件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9647084.d.html</link>
+            <guid>3487574</guid>
+            <pubDate>Fri, 09 Feb 2024 22:19:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织（IMF）：预计尼日利亚GDP2024年将增长3%，2023年增速为2.9%。]]></title>
+            <guid>3487572</guid>
+            <pubDate>Fri, 09 Feb 2024 22:04:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惠誉确认芬兰评级为AA+，前景展望稳定。确认塞尔维亚评级为BB+，前景展望稳定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9646121.d.html</link>
+            <guid>3487571</guid>
+            <pubDate>Fri, 09 Feb 2024 22:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国加州地发生4.5级地震，洛杉矶建筑物出现晃动】 美国地质调查局（USGS）表示，加利福尼亚州马里布西北12公里处当地时间周五发生4.5级地震，洛杉矶建筑物出现晃动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnywq9645809.d.html</link>
+            <guid>3487569</guid>
+            <pubDate>Fri, 09 Feb 2024 21:59:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克的脑机接口公司Neuralink将注册地从美国特拉华州迁移至内华达州。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqq5219189.d.html</link>
+            <guid>3487568</guid>
+            <pubDate>Fri, 09 Feb 2024 21:57:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国佛罗里达州一架小型喷气式飞机坠毁 暂无人员伤亡报告】当地时间2月9日，美国佛罗里达州那不勒斯市一架小型喷气式飞机在高速公路上坠毁并起火，目前暂无人员伤亡报告。事故发生后，那不勒斯市75号州际公路所有车道关闭。佛罗里达州高速公路巡逻队表示，坠毁飞机试图降落在高速公路上时与一辆车相撞，目前消防救援队和警方已赶到事故现场进行调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqv9422580.d.html</link>
+            <guid>3487567</guid>
+            <pubDate>Fri, 09 Feb 2024 21:55:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦航空管理局局长Michael Whitaker下周将前往西雅图与波音公司会晤。]]></title>
+            <guid>3487561</guid>
+            <pubDate>Fri, 09 Feb 2024 21:46:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【标普500指数的11个板块多数收涨，英伟达续刷历史新高】周五（2月9日），标普500指数高开高走，最终收于5000点上方的历史高位。标普科技板块上涨1.5%领跑，成份股英伟达收盘涨3.6%，再创历史新高。可选消费板块涨0.99%，通讯服务板块涨0.74%。而能源板块受天然价格继续大跌拖累下跌1.56%，日常消费品板块跌0.85%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqu2644542.d.html</link>
+            <guid>3487549</guid>
+            <pubDate>Fri, 09 Feb 2024 21:32:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军密集轰炸加沙地带南部至少18人死亡】据巴勒斯坦通讯社9日报道，以色列军队当天密集轰炸加沙地带南部多个地区，造成至少18人死亡。报道说，以军9日对位于加沙地带南部城市汗尤尼斯的纳赛尔医院周边地区进行多次空袭，造成至少8人死亡。汗尤尼斯东部一所学校当天遭到以军袭击，至少2人死亡。此外，以军9日凌晨对加沙地带南部城市拉法的两处住宅发动空袭，造成至少8人死亡、13人受伤。联合国近东巴勒斯坦难民救济和工程处主任专员菲利普·拉扎里尼9日对媒体说，拉法目前的人道主义形势“让人绝望”，以色列未来在拉法的任何重大军事行动都可能给平民带来更多灾难。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqu2643961.d.html</link>
+            <guid>3487533</guid>
+            <pubDate>Fri, 09 Feb 2024 21:15:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥北部发生4.2级地震】根据墨西哥国家地震监测局（SSN）的信息，当地时间2月9日凌晨3时06分41秒，墨西哥北部南下加利福尼亚州洛雷托市东北方向约77公里处发生4.2级地震，震源深度14.4公里。目前暂时没有人员伤亡和财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqv9420872.d.html</link>
+            <guid>3487525</guid>
+            <pubDate>Fri, 09 Feb 2024 21:08:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【美国夏威夷群岛发生5.7级地震】据美国地质勘探局（USGS）报告，当地时间2月9日，美国夏威夷群岛纳阿莱胡小镇（Naalehu）东南5公里处发生6.3级地震。随后，美国地质勘探局将地震震级从6.3级修订为5.7级。]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnuqs9772962.d.html</link>
@@ -233,143 +417,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnqhx9532748.d.html</link>
             <guid>3487438</guid>
             <pubDate>Fri, 09 Feb 2024 17:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国发言人：加沙拉法人民需要得到保护，但不应强制进行大规模迁移。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahnqhs5333993.d.html</link>
-            <guid>3487433</guid>
-            <pubDate>Fri, 09 Feb 2024 17:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：大发工业 (Daihatsu)表示，开发新车需要的时间将延长40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyx0021170.d.html</link>
-            <guid>3487429</guid>
-            <pubDate>Fri, 09 Feb 2024 17:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁央行首席经济学家：预计2024年第一季度秘鲁经济将增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyx0021047.d.html</link>
-            <guid>3487428</guid>
-            <pubDate>Fri, 09 Feb 2024 17:21:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：保时捷计划在北美建设电池工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyu5463297.d.html</link>
-            <guid>3487427</guid>
-            <pubDate>Fri, 09 Feb 2024 17:17:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院多数党领袖舒默表示，希望共和党就乌克兰法案修正案达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyu5462877.d.html</link>
-            <guid>3487426</guid>
-            <pubDate>Fri, 09 Feb 2024 17:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙国家天然气公司 (Enagás)：西班牙1月份天然气进口量为32,306吉瓦时，上年同期为34,240吉瓦时。]]></title>
-            <guid>3487425</guid>
-            <pubDate>Fri, 09 Feb 2024 17:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰退出独联体国家军事运输原则和程序等三项协定】当地时间2月9日，乌克兰政府驻最高拉达（议会）代表梅利尼丘克表示，乌政府通过决定退出三项独立国家联合体（独联体）国家协定，包括1992年5月15日在乌兹别克斯坦首都塔什干签署的《军事运输原则和程序协定》，以及关于合作防治糖尿病发展和预防居民碘缺乏病的协定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyx0018566.d.html</link>
-            <guid>3487422</guid>
-            <pubDate>Fri, 09 Feb 2024 16:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据相关声明，巴勒斯坦总统府表示，以色列在加沙南部的军事升级计划威胁地区安全与和平。]]></title>
-            <guid>3487421</guid>
-            <pubDate>Fri, 09 Feb 2024 16:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴基斯坦选举机构公布265个席位中229个席位的选举结果，前巴基斯坦总统所在的人民党赢得51个席位，前总理所在政党赢得64个席位，另有独立候选人以93个席位领先。]]></title>
-            <guid>3487418</guid>
-            <pubDate>Fri, 09 Feb 2024 16:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据美国证交会文件，腾讯将其在Amer Sports的持股比例从4.27%增加至6.5%。]]></title>
-            <guid>3487415</guid>
-            <pubDate>Fri, 09 Feb 2024 16:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【除夕开始中新互免签证 春节期间新加坡旅游订单量大增】签证利好刺激消费者出境游热情。根据携程数据，截至2月8日，2024春节假期，预订到新加坡旅游的内地旅客订单量同比增长超过960%。其中，最偏爱新加坡的客源城市分别是上海、北京、深圳、广州和杭州。首批“尝鲜”免签的游客纷纷表达了喜悦。一名游客表示，“下飞机后，拿着中国护照在机器上登记一下就可以自助办理入境，十分快捷。整个流程便捷高效，体验感超级棒。”（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyy2877481.d.html</link>
-            <guid>3487414</guid>
-            <pubDate>Fri, 09 Feb 2024 16:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯允许亚马尔LNG向SEFE M&T供气至2040年。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyy2876215.d.html</link>
-            <guid>3487413</guid>
-            <pubDate>Fri, 09 Feb 2024 16:28:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：塞内加尔安全部队向数百名在首都达喀尔抗议选举延期的人群使用催泪瓦斯和震撼手榴弹。]]></title>
-            <guid>3487412</guid>
-            <pubDate>Fri, 09 Feb 2024 16:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌CEO：Google One服务的订阅用户已超过1亿人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyy2875121.d.html</link>
-            <guid>3487411</guid>
-            <pubDate>Fri, 09 Feb 2024 16:19:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国纽约州拟寻求在针对加密货币公司Gemini和DCG提起的民事诉讼中索赔30亿美元。纽约州总检察长称DCG对更多的客户实施了金额高达20亿美元的额外欺诈。]]></title>
-            <guid>3487410</guid>
-            <pubDate>Fri, 09 Feb 2024 16:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024春节档预售总票房7.27亿】据灯塔专业版，截至2月10日0时，2024年春节档预售总票房7.27亿，《飞驰人生2》《热辣滚烫》《熊出没·逆转时空》位列春节档预售票房前三位。飞驰人生2成2024春节档预售冠军。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyu5457528.d.html</link>
-            <guid>3487409</guid>
-            <pubDate>Fri, 09 Feb 2024 16:16:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪确认诺和诺德评级为A1，前景展望为稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-10/detail-inahniyy2873691.d.html</link>
-            <guid>3487407</guid>
-            <pubDate>Fri, 09 Feb 2024 16:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列北部多个城镇响起防空警报】当地时间2月9日傍晚，以色列北部地区多个城镇响起防空警报。以色列国防军表示正在就此事进行调查，目前暂无人员伤亡报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahniyu5455231.d.html</link>
-            <guid>3487406</guid>
-            <pubDate>Fri, 09 Feb 2024 15:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【支付宝：第9年集五福开奖，近6亿人次通过AI体验新年味】支付宝发布数据显示，今年五福期间，近6亿人次通过支付宝推出的AI互动玩法体验新年味。其中，“大家来找福”成为最受欢迎的集福卡方式，共有近30亿个AI生成的福字被用户找到。贾玲新电影《热辣滚烫》换脸片段上线五福“飙戏小剧场”后，一天吸引近百万网友AI“参演”，自发成为电影的“编外宣传员”。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahniyx0012117.d.html</link>
-            <guid>3487405</guid>
-            <pubDate>Fri, 09 Feb 2024 15:52:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【太古将以94亿港元收购泰国和老挝的可口可乐装瓶业务过半权益】太古股份周五晚间在香港交易所提交公告表示，计划以约94亿港元收购泰国和老挝的可口可乐装瓶业务的过半权益。据公告，假设目标公司股本无其他变动且供股交易获得全额认购，买方将于交易完成时拥有目标公司的约55.7%已发行股本。太古已与ThaiNamthip Corporation Limited达成协议。后者是泰国一家以可口可乐品牌注册的装瓶公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahniyy2870208.d.html</link>
-            <guid>3487401</guid>
-            <pubDate>Fri, 09 Feb 2024 15:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息： 卫星图像显示委内瑞拉将军事装备转移到圭亚那边境。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahniyy2869554.d.html</link>
-            <guid>3487399</guid>
-            <pubDate>Fri, 09 Feb 2024 15:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【不满欧盟农业政策 波兰多地农民举行抗议】当地时间2月9日，波兰多地农民举行全国范围内的抗议活动，表达对“欧洲绿色协议”和乌克兰货物（包括乌克兰粮食作物）的不满。抗议农民在全国数百个地方封锁了道路。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahniyz9646195.d.html</link>
-            <guid>3487397</guid>
-            <pubDate>Fri, 09 Feb 2024 15:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国总统拜登宣布Willie Philips Jr.出任美国联邦能源监管委员会（FERC）主席。]]></title>
-            <guid>3487395</guid>
-            <pubDate>Fri, 09 Feb 2024 15:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南首富李晓明套现345亿元后，与家人移民美国？ 恩捷股份回应】近日，某微信公众号发表文章称，“国内锂电隔膜龙头恩捷股份董事长、云南首富李晓明（Paul Xiaoming Lee）在中国卖掉自家公司的股票，套现345亿元后，他以及其家庭中的5人移民美国并获美国国籍，停止了对产业技术的升级和投资。”2月8日晚间，针对这一传言，云南恩捷新材料股份有限公司官方表示，“上述信息均不属实。” (澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-09/detail-inahncsw5580526.d.html</link>
-            <guid>3487393</guid>
-            <pubDate>Fri, 09 Feb 2024 15:03:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
