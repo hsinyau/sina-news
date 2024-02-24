@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 24 Feb 2024 18:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 21:03:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【超八成正收益 公募积极布局央国企主题基金】开年以来，央国企板块表现可圈可点，相关主题赛道也成为公募机构布局热点。多位业内人士表示，在中字头板块的持续强势表现下，市场逐渐认识并重视央国企资产的投资价值。当前，央国企板块整体估值水平处于相对低位区间，随着新一轮国企改革深化行动进行，国家安全领域、基础设施领域、科技创新领域中的央国企未来投资价值有望逐渐提高。（中国基金报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inaketfs9080926.d.html</link>
+            <guid>3502560</guid>
+            <pubDate>Sat, 24 Feb 2024 20:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日股重返历史巅峰，本土散户终于要出手了】本周，日经225指数一举超越1989年末的纪录高位38957点，创历史新高。而随着日股重返巅峰，原本不为所动的本土散户终于要出手了。近日，据媒体报道，日本金融厅的一位官员指出，目前国内已经开设了约2000万个NISA（小额投资非课税制度）账户，20多岁和30多岁的人似乎正在迈出投资的第一步。就在今年年初，日本政府对NISA制度进行了改革。新NISA的覆盖面进一步扩大，并将免税永久化。其中，成长型NISA投资免税额度上限扩至240万日元，定期投资型NISA扩至120万日元。分析师认为，新NISA将对个人金融资产由储蓄转向投资并助力股市起到一定作用。而日本证券公司的数据表明，随着新NISA制度的实行，日本散户投资者正以创纪录的速度通过NISA账户购买股票，其中日本烟草等高股息股票受到特别关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakenxx3762450.d.html</link>
+            <guid>3502536</guid>
+            <pubDate>Sat, 24 Feb 2024 18:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【解除限购后廊坊成交价一年涨近10%，当地房企“闷声发大财”】“实际上燕郊的市场和北京的市场客群性质有些类似，外地购房者是主要的购房群体之一。春节期间，很多客户也都回去过年了，市场整体上是没有明显的变化。”2月22日，燕郊的置业顾问对记者描述了春节假期期间燕郊楼市的情况。距离廊坊解除限购已经过去了一年半，数据显示，解除限购对于廊坊楼市有明显的提振作用，其2023年成交面积同比增长14.59%，成交均价则是同比增长9.85%。但进入2024年之后，廊坊市场重新归于平淡。不过，2023年，廊坊楼市的低谷反弹让许多重仓廊坊的区域性房企受益。其中，专注于燕郊的福成成为2023年廊坊楼市销售额最高的房企，成交金额达到19.56亿元，荣盛发展也成功实现扭亏为盈。（华夏时报）]]></title>
             <link>https://finance.sina.cn/7x24/2024-02-25/detail-inakenxu9201558.d.html</link>
@@ -449,30 +461,6 @@
             <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakcrui4205227.d.html</link>
             <guid>3502296</guid>
             <pubDate>Sat, 24 Feb 2024 09:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯法院裁定德国一公司违约】俄罗斯一家仲裁法院近日裁定，扣押德国林德公司的超过10亿美元的资产，以补偿因其违约给俄罗斯公司造成的损失。林德公司此前与俄罗斯化工联盟公司签署合同，并在2021年收到俄方公司提供的预付款，计划在列宁格勒地区建造天然气加工厂。在欧盟开启对俄罗斯制裁后，林德公司以欧盟限制为由暂停相关工作。2022年，俄罗斯化工联盟公司向林德公司提出索赔。2022年2月起，欧盟对俄罗斯实施了多轮制裁，涉及能源、贸易、金融、运输等多个领域。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakcruk6877232.d.html</link>
-            <guid>3502294</guid>
-            <pubDate>Sat, 24 Feb 2024 08:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2月23日全社会跨区域人员流动量完成16536万人次】来自2024年综合运输春运工作专班数据显示，2月23日（春运第29天，农历正月十四），全社会跨区域人员流动量16536万人次，环比增长11%，比2023年同期下降6.6%，比2019年同期下降5.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakcrui4204175.d.html</link>
-            <guid>3502293</guid>
-            <pubDate>Sat, 24 Feb 2024 08:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及和阿联酋签署协议建设海滨新城】埃及和阿联酋23日在埃及新行政首都签署一项协议，双方将在埃及地中海海岸建设一座新城，以促进埃及旅游业发展、吸引投资和增加外汇储备。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakcrui4203937.d.html</link>
-            <guid>3502292</guid>
-            <pubDate>Sat, 24 Feb 2024 08:52:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马云双任中国中车总裁 曾获铁道学会铁道科学技术特等奖】总裁职位空缺近半年后，2月22日晚，中国中车宣布聘任马云双为总裁，同时聘任林存增、王锋、刘可安为副总裁。在此之前，上述四人刚刚在中车集团履新。据中国中车披露的简历，马云双自2024年1月起任中车集团党委副书记、董事、总经理，林存增、王锋、刘可安等三人均自2024年1月起任中车集团党委常委。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-02-24/detail-inakcruk6876843.d.html</link>
-            <guid>3502291</guid>
-            <pubDate>Sat, 24 Feb 2024 08:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
