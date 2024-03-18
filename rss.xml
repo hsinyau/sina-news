@@ -4,11 +4,167 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 18 Mar 2024 18:07:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 21:07:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[英伟达美股盘后跌幅扩大至1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwze9806516.d.html</link>
+            <guid>3535845</guid>
+            <pubDate>Mon, 18 Mar 2024 21:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CEO黄仁勋介绍DGX。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwza1610302.d.html</link>
+            <guid>3535843</guid>
+            <pubDate>Mon, 18 Mar 2024 20:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多个城市发布新一轮集中供地计划，一些房地拿地态度仍谨慎】近期，上海、杭州等地相继发布集中供地计划。从房企拿地情况看，近期上市房企拿地态度较为分化。部分房企积极参与招拍挂，斩获多宗地块。一些房企拿地态度谨慎，迟迟没有下手。另外，近期不少房企开展新一轮融资，利率普遍较低。对于房地产市场走向，58安居客研究院院长张波认为，房地产市场持续降温，“以价换量”现象增多。房企以及购房者的信心仍不足，楼市调控政策有待进一步放宽。中指研究院数据显示，2024年以来，房地产行业供需两端政策持续落地。从需求端看，一线城市接连放松限购政策，更多城市将结合自身情况及时优化调整相关政策。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwza1610107.d.html</link>
+            <guid>3535842</guid>
+            <pubDate>Mon, 18 Mar 2024 20:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星巴克股东们拒绝植物奶定价尝试。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwze9804347.d.html</link>
+            <guid>3535835</guid>
+            <pubDate>Mon, 18 Mar 2024 20:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃克森美孚公司位于美国得州的炼油厂发生火灾】埃克森美孚公司报告其位于美国得克萨斯州贝城（Baytown）的炼油厂17日发生火灾，导致其日产564440桶汽油的加氢装置停机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwza1609039.d.html</link>
+            <guid>3535834</guid>
+            <pubDate>Mon, 18 Mar 2024 20:23:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚航空公司一客机紧急降落在葡萄牙机场】据哥伦比亚媒体当地时间3月18日报道，哥伦比亚航空公司一架从西班牙马德里飞往哥伦比亚麦德林的客机在起飞4个多小时后紧急降落在葡萄牙机场。航班降落后将重新安排旅客搭乘另一架哥伦比亚航空公司的客机继续行程。报道称，紧急降落是由于“乘客事件”。据悉，涉事客机机型为波音787-8客机。目前哥伦比亚航空公司尚未披露具体原因。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwze9804257.d.html</link>
+            <guid>3535833</guid>
+            <pubDate>Mon, 18 Mar 2024 20:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达：台积电和Synopsys将采用英伟达计算光刻技术，这两家公司已经整合英伟达的Culitho W软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwze9804207.d.html</link>
+            <guid>3535832</guid>
+            <pubDate>Mon, 18 Mar 2024 20:22:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Francisco Partners将以12亿美元收购Jama Software。]]></title>
+            <guid>3535830</guid>
+            <pubDate>Mon, 18 Mar 2024 20:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[新思科技美股盘后涨超2%，英伟达CEO黄仁勋正在介绍该公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuwze9804094.d.html</link>
+            <guid>3535829</guid>
+            <pubDate>Mon, 18 Mar 2024 20:19:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国多地移民收容所因政府资金耗尽陷入困境】据路透社报道，当地时间3月18日，美国亚利桑那州一家移民收容所即将面临资金耗尽而停止运营。报道称，美国政府提供给移民收容所的资金即将耗尽，而美国边境城市压力逐渐增大，官员们担心无家可归者激增而带来额外开支。类似的资金困境也在其他边境地区以及纽约市、芝加哥和丹佛等城市上演。报道称，关闭收容所可能导致更多移民无家可归，给社区和服务机构带来额外负担。在国会中，关于移民服务资金的争议也日益加剧，民主党人和共和党人在如何应对移民问题上仍分歧不断。（央视）]]></title>
+            <guid>3535826</guid>
+            <pubDate>Mon, 18 Mar 2024 20:12:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达(NVDA.O)美股盘后涨1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanussz0606277.d.html</link>
+            <guid>3535824</guid>
+            <pubDate>Mon, 18 Mar 2024 20:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英伟达CEO黄仁勋登场GTC进行演讲。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9934299.d.html</link>
+            <guid>3535823</guid>
+            <pubDate>Mon, 18 Mar 2024 20:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥总统候选人Sheinbaum：预计国家石油公司Pemex石油产量未来数年将于100万桶/日达到峰值。]]></title>
+            <guid>3535817</guid>
+            <pubDate>Mon, 18 Mar 2024 19:45:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰弗罗茨瓦夫市发布禁令禁止农民在行政区域举行抗议活动】波兰弗罗茨瓦夫市长亚采克·苏特里克 （Jacek Sutryk）当地时间3月18日下午在社交网站上宣布，该市发布禁令禁止农民在市行政区域内组织抗议活动。该禁令针对即将在本周三举行的农民抗议活动。上个月，波兰农民在弗罗茨瓦夫市政府和欧盟代表处大楼前示威，抗议欧盟的绿色协议对农业和畜牧业的各种限制，以及乌克兰商品大量进口扰乱波兰市场，要求限制与乌克兰的贸易。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusta4961076.d.html</link>
+            <guid>3535813</guid>
+            <pubDate>Mon, 18 Mar 2024 19:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[康菲石油CEO：原油价格近期将在70至90美元/桶区间波动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9931898.d.html</link>
+            <guid>3535811</guid>
+            <pubDate>Mon, 18 Mar 2024 19:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【盛宴散席？量化行业走到十字路口】量化私募行业前两年风头无两。2023年，16家百亿级量化私募以占比80%的数字“霸榜”私募收益TOP20榜单。但2024年开年，微盘股指数的调整，令抱团其中的大型量化私募产品遭遇大幅调整。截至目前，量化策略私募今年以来的整体收益跑输主观策略私募。与此同时，监管部门对量化机构打出监管“组合拳”。量化行业是继续抱团竞争，还是迭代策略？行业发展面临转型的十字路口。此次微盘股流动性冲击让量化从业者陷入反思，风控不完善或杠杆激进的管理人将面临淘汰。如何让量化行业发展行稳致远，长期为投资者的资产管理提供服务，成为所有从业者的必修课。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9931812.d.html</link>
+            <guid>3535810</guid>
+            <pubDate>Mon, 18 Mar 2024 19:18:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【思科宣布完成对Splunk的收购】思科当地时间3月18日宣布完成对Splunk的收购，为在公司的整个数字足迹中提供无与伦比的可见性和洞察力奠定了基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanuste1734312.d.html</link>
+            <guid>3535808</guid>
+            <pubDate>Mon, 18 Mar 2024 19:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟起草法律 将俄罗斯央行的利润转移给乌克兰】欧盟起草法律，旨在将俄罗斯中央银行的利润转移给乌克兰。欧盟的计划旨在使乌克兰在7月份尽快获得资金，并计划每年为乌克兰筹集30亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9930639.d.html</link>
+            <guid>3535807</guid>
+            <pubDate>Mon, 18 Mar 2024 19:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股公司密集设立ESG委员会 “因司制宜”规划可持续发展新蓝图】近期，多家上市公司设立ESG或可持续发展委员会（统称“ESG委员会”），积极完善ESG管理体制。据记者不完全统计，今年以来，36家A股公司新设ESG委员会，或将董事会战略委员会变更为ESG委员会，并大多由董事长担任委员会的召集人、主席或主任委员，而去年同期仅为10家。荣正集团董事长郑培敏对记者表示，随着市场经济越来越发达，企业要赚负责任的钱，有温度的钱；规模较大的机构投资者会赚有道德的和可持续的钱。因此，当下ESG已成为评估企业可持续发展及投资者各类投融资决策的重要考量因素。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanussz0602287.d.html</link>
+            <guid>3535805</guid>
+            <pubDate>Mon, 18 Mar 2024 19:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Bernard Schwarts离世，时年98岁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9930151.d.html</link>
+            <guid>3535802</guid>
+            <pubDate>Mon, 18 Mar 2024 18:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃克森美孚愿意与雪佛龙就收购赫斯公司的计划进行谈判】埃克森美孚公司首席执行长Darren Woods在接受采访时说，埃克森美孚愿意与雪佛龙公司就其收购赫斯公司(Hess Corp.)的计划进行谈判，目前这两家石油巨头正在争论这笔交易对圭亚那一个大型海上石油项目的影响。Woods的这番话标志着埃克森美孚在向巴黎国际商会(International Chamber of Commerce)申请仲裁后，首次公开明确表示愿意与雪佛龙就该问题进行讨论。Woods说：“对话的渠道仍然畅通。“这是一个商业问题，而不是个人问题。我们不是想阻止雪佛龙和赫斯的交易。我们正在努力维护我们对我们开发的圭亚那资产的权利。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9928115.d.html</link>
+            <guid>3535801</guid>
+            <pubDate>Mon, 18 Mar 2024 18:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿联酋Adnoc将根据长达15年的合同向德国SEFE Marketing & Trading Singapore供应每年100万吨液化天然气（LNG），该公司是德国SEFE Securing Energy for Eurpoe GmbH旗下一个部门。]]></title>
+            <guid>3535800</guid>
+            <pubDate>Mon, 18 Mar 2024 18:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列拒绝近东救济工程处主任专员进入加沙】当地时间18日，正在埃及访问的联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员拉扎里尼说，他原计划当天前往加沙地带南部城市拉法，但是他进入加沙地带的申请被以色列拒绝了。这也是拉扎里尼担任近东救济工程处主任专员以来，首次被拒绝进入加沙地带。今年1月，以色列指认近东救济工程处部分雇员参与去年10月7日哈马斯对以色列境内军民目标的大规模袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanussz0598594.d.html</link>
+            <guid>3535799</guid>
+            <pubDate>Mon, 18 Mar 2024 18:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯大型粮食出口终端Novorossiysk Grain Plant净利润在2023年超过翻倍。]]></title>
+            <guid>3535793</guid>
+            <pubDate>Mon, 18 Mar 2024 18:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙利文称以方将派遣跨部门小组赴美，讨论在拉法可能采取的军事行动】当地时间3月18日，在白宫记者会上，美国总统国家安全事务助理沙利文说，以色列总理内塔尼亚胡当天在与美国总统拜登的通话中表示，他将派遣一个跨部门小组前往华盛顿，讨论在加沙地带南部城市拉法可能采取的军事行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanussz0597029.d.html</link>
+            <guid>3535792</guid>
+            <pubDate>Mon, 18 Mar 2024 18:22:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2月洛杉矶港发货量同比增长60.2%。2月洛杉矶港进口同比增长63.9%，出口增长61.1%。空集装箱同比增长53.8%。]]></title>
+            <guid>3535791</guid>
+            <pubDate>Mon, 18 Mar 2024 18:18:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟委员会副主席兼“外长”博雷利：同意对极端主义以色列定居者实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusta4947024.d.html</link>
+            <guid>3535788</guid>
+            <pubDate>Mon, 18 Mar 2024 18:09:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【博雷利批评以色列将饥饿作为“战争武器”】18日，欧盟外交与安全政策高级代表博雷利说，以色列的军事行动使加沙地带成为世界上最大的“露天墓地”。博雷利在发言中批评以色列将饥饿作为“战争武器”。同日，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员拉扎里尼说，加沙地带的饥饿是“人为造成的”。他强调，通过适当的政治意愿，这场危机可以得到解决。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanusth9923425.d.html</link>
@@ -125,231 +281,6 @@
             <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmm0045841.d.html</link>
             <guid>3535743</guid>
             <pubDate>Mon, 18 Mar 2024 16:35:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国总统拜登和以色列总理内塔尼亚胡通话 讨论加沙地带局势】当地时间3月18日，据白宫消息，美国总统拜登和以色列总理内塔尼亚胡于当天进行了通话。另据《国会山报》报道，双方讨论了加沙地带的最新事态发展，包括南部城市拉法的局势以及向加沙地带提供更多人道主义援助等问题。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0717507.d.html</link>
-            <guid>3535742</guid>
-            <pubDate>Mon, 18 Mar 2024 16:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委森特诺：价格稳定需要金融稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0716977.d.html</link>
-            <guid>3535741</guid>
-            <pubDate>Mon, 18 Mar 2024 16:29:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯阿穆尔州一矿山发生坍塌】当地时间18日，塔斯社援引俄罗斯紧急情况部门消息称，阿穆尔州一座矿山发生坍塌，可能有10余人被埋在废墟中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0716917.d.html</link>
-            <guid>3535740</guid>
-            <pubDate>Mon, 18 Mar 2024 16:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟高官称以色列在加沙制造饥荒】欧盟外交与安全政策高级代表博雷利18日在布鲁塞尔表示，“以色列正在巴勒斯坦加沙地带制造饥荒”，“饥饿被当成了战争武器”。(CCTV国际时讯)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0716754.d.html</link>
-            <guid>3535739</guid>
-            <pubDate>Mon, 18 Mar 2024 16:25:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织数据显示，乌兹别克斯坦在2024年2月将黄金持有量减少了11.820吨至368.585吨。]]></title>
-            <guid>3535738</guid>
-            <pubDate>Mon, 18 Mar 2024 16:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙1月贸易赤字37.29亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunme5060760.d.html</link>
-            <guid>3535737</guid>
-            <pubDate>Mon, 18 Mar 2024 16:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特朗普顾问提出三个美联储主席潜在人选 前理事Warsh在列】特朗普的顾问们为这位前总统可能赢得大选后的美联储主席人选列出一份候选名单，其中包括著名减税倡导者Arthur Laffer、前美联储理事Kevin Warsh和白宫经济顾问委员会前主席Kevin Hassett。特朗普的非正式顾问Steve Moore和Laffer上周在海湖庄园与特朗普共进晚餐时向他提出了建议。Laffer将自己列为潜在人选。“我们需要一位支持经济增长、支持美元稳定和低通胀的美联储主席，我们在过去三年没有这样一位主席，”Moore周一在采访中表示。“我们需要一位新的美联储主席将通胀降至2%，同时支持经济增长政策。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0714448.d.html</link>
-            <guid>3535736</guid>
-            <pubDate>Mon, 18 Mar 2024 16:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国多个驻外使馆发布辟谣信息，称“英国国王查尔斯三世去世”是“假消息”】据俄罗斯《生意人报》报道，英国驻俄罗斯大使馆18日在社交平台Telegram上发帖称，“英国国王查尔斯三世去世”的说法是“假消息”。英国驻俄罗斯大使馆3月18日在Telegram上发帖称，关于“英国国王查尔斯三世去世”的说法是“假消息”。此外，英国驻亚美尼亚使馆、英国驻阿塞拜疆使馆等社交媒体X账号也发布了同样的辟谣消息。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmc0713812.d.html</link>
-            <guid>3535734</guid>
-            <pubDate>Mon, 18 Mar 2024 16:03:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Point72进一步壮大宏观交易团队 从Citadel等竞争对手挖角】Steve Cohen的对冲基金Point72 Asset Management团队新增五位宏观投资组合经理，以提振这项已占该公司投资团队四分之一的业务。其中两位曾供职于Citadel的员工明年将加入Point72，包括将从事利率业务的Tyler Stoffers，以及将从事利率和外汇交易的George Arzeno。知情人士称还将有更多宏观投资组合经理加入该部门。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunme5057858.d.html</link>
-            <guid>3535733</guid>
-            <pubDate>Mon, 18 Mar 2024 16:01:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国电动汽车生产商Rivian的车主们获得接入超过1.5万个特斯拉超级充电桩的权限。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-19/detail-inanunmm0041333.d.html</link>
-            <guid>3535732</guid>
-            <pubDate>Mon, 18 Mar 2024 16:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【世界银行计划在未来三年为埃及提供60亿美元资金】当地时间18日，埃及国际合作部部长拉尼亚宣布，在世界银行与埃及长期战略伙伴关系的框架内，为了支持埃及经济改革措施，实现埃及经济复苏和全面可持续发展，世界银行计划在未来三年向埃及提供60亿美元资金，其中30亿美元用于支持政府实施的经济改革计划，另外30亿美元用于私营部门发展。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanunme5057176.d.html</link>
-            <guid>3535731</guid>
-            <pubDate>Mon, 18 Mar 2024 15:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Airbnb前高管Chris Lehane据悉将加入OpenAI】据The Information，Airbnb前全球政策主管Chris Lehane据悉将以高级管理人员的身份加入OpenAI。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanunmc0712307.d.html</link>
-            <guid>3535729</guid>
-            <pubDate>Mon, 18 Mar 2024 15:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度阿达尼集团尚未收到美国司法部的任何通知】印度阿达尼集团尚未收到美国司法部的任何通知。此前有报道称，美国检察官扩大了对印度阿达尼集团的调查范围，重点关注该公司潜在的贿赂行径以及创始人的行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanunmc0711218.d.html</link>
-            <guid>3535727</guid>
-            <pubDate>Mon, 18 Mar 2024 15:41:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以军称在加沙地带希法医院打死20名哈马斯武装人员】以色列国防军当地时间18日下午发表声明称，以军和以色列国家安全总局（辛贝特）仍继续在加沙地带北部的希法医院展开对巴勒斯坦伊斯兰抵抗运动（哈马斯）的打击。截至目前，以军已经在希法医院的交火中打死20名武装人员，并正在审问逮捕的数十人。以军表示，在希法医院内还发现了哈马斯的大量现金和武器。这再一次证明，哈马斯有计划地利用医院和平民设施来为其军事活动服务。对于上述说法，哈马斯方面暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanunmh1831889.d.html</link>
-            <guid>3535726</guid>
-            <pubDate>Mon, 18 Mar 2024 15:41:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王惠芳任中国航空工业集团总会计师、党组成员】据微信公号“航空工业”，3月18日，中国航空工业集团有限公司召开党组扩大会，通报了中央组织部有关决定：王惠芳同志任中国航空工业集团有限公司总会计师、党组成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcp0169666.d.html</link>
-            <guid>3535724</guid>
-            <pubDate>Mon, 18 Mar 2024 15:37:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[壳牌希望提高液化天然气（LNG）产量，稳定石油产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0841357.d.html</link>
-            <guid>3535723</guid>
-            <pubDate>Mon, 18 Mar 2024 15:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至3月18日6个月国债竞拍-投标倍数 2.76，前值2.95。美国至3月18日6个月国债竞拍-得标利率 5.13%，前值5.10%。美国至3月18日6个月国债竞拍-得标利率配置百分比 44.78%，前值76.61%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0840739.d.html</link>
-            <guid>3535721</guid>
-            <pubDate>Mon, 18 Mar 2024 15:32:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国至3月18日3个月国债竞拍-投标倍数 2.81，前值2.53。美国至3月18日3个月国债竞拍-得标利率 5.245%，前值5.25%。美国至3月18日3个月国债竞拍-得标利率配置百分比 80.99%，前值33.87%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0840696.d.html</link>
-            <guid>3535720</guid>
-            <pubDate>Mon, 18 Mar 2024 15:32:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【隆基绿能裁员30%？知情人士：没那么夸张】3月18日，从一名知情人士处获悉，工厂和公司总部职能部门或将是减员的主要部门，“销售人员基本也不再扩招了”。当被问及裁员比例是否有近三分之一时，对方表示：“没有这么夸张。”事实上，早在2023年底，A股光伏行业头部公司就被传要裁员或减产，隆基绿能也在其中。此前，隆基绿能内部人士告诉银柿财经：“光伏行业每年到年底都会根据第二年或是当下的生产情况做一些调整或者是产线优化，人员的变动其实是一个比较正常的情况。”（银柿财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhch5184586.d.html</link>
-            <guid>3535716</guid>
-            <pubDate>Mon, 18 Mar 2024 15:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉(TSLA.O)涨幅扩大至6%，此前公司宣布将提高多个国家的Model Y价格。]]></title>
-            <guid>3535713</guid>
-            <pubDate>Mon, 18 Mar 2024 15:17:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北约秘书长访问格鲁吉亚 与格总理探讨未来合作等议题】当地时间3月18日，北约秘书长斯托尔滕贝格到访格鲁吉亚。据格鲁吉亚政府官网消息，格鲁吉亚总理科巴希泽当天在第比利斯与斯托尔滕贝格举行会谈。会谈内容集中在格鲁吉亚与欧洲-大西洋一体化、北约与格鲁吉亚关系的议程及未来合作的前景等方面。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0837426.d.html</link>
-            <guid>3535711</guid>
-            <pubDate>Mon, 18 Mar 2024 15:09:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国加州80号州际公路发生三车相撞事故 该地交通几近瘫痪】据福克斯新闻网报道，当地时间3月18日，在美国加利福尼亚州普莱瑟县附近的80号州际公路于当日早上发生三车相撞事故，导致该地区交通几近瘫痪。据悉，事故发生后，该州际公路的所有东行车道均已关闭，随后开放了一条车道以疏导交通。现场工作人员表示，工作人员正在清理事故现场，尚不清楚道路重新开放的时间。目前，事故原因以及伤亡情况尚不清楚。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcp0165423.d.html</link>
-            <guid>3535710</guid>
-            <pubDate>Mon, 18 Mar 2024 15:08:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[俄罗斯央行：3月份家庭通胀预期为11.5%，低于2月份的11.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0836972.d.html</link>
-            <guid>3535709</guid>
-            <pubDate>Mon, 18 Mar 2024 15:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[法拉第未来(FFIE.O)涨超20%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhck1958046.d.html</link>
-            <guid>3535708</guid>
-            <pubDate>Mon, 18 Mar 2024 15:06:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道达尔能源CEO：欧洲在能源投资方面面临挑战。预计到2026年全球液化天然气市场将紧缺。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0836744.d.html</link>
-            <guid>3535707</guid>
-            <pubDate>Mon, 18 Mar 2024 15:05:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京发布沙尘蓝色预警 升级发布大风黄色预警】北京市突发事件预警信息发布中心发布：2024年3月18日21时25分，北京市升级发布大风黄色预警信号。预计，19日08时至22时，北京市有5级左右偏北风，阵风8、9级，山区阵风可达10级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0836528.d.html</link>
-            <guid>3535705</guid>
-            <pubDate>Mon, 18 Mar 2024 15:04:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[数字经济数据供应商Sensor Tower收购市场情报平台Data.ai。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhck1957565.d.html</link>
-            <guid>3535704</guid>
-            <pubDate>Mon, 18 Mar 2024 15:03:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【央视财经挖掘机指数：2月开工率Top10出炉，南方省份“龙”重开年】 “央视财经挖掘机指数”今天（3月18日）发布了最新相关数据。2月迎超长春节假期，民众的生活重心放在“过年”上，幸福感倍增，是经济复苏的重要底气。此外，春节期间文旅火热、消费热涨，预示着我国经济继续保持平稳恢复态势。2月，受天气影响，开工率前列省份主要分布在南方。四川、云南、重庆、福建、海南为全国开工率top5省份。其中，自2023年3月起，海南省开工率一直排在全国前五。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0836375.d.html</link>
-            <guid>3535703</guid>
-            <pubDate>Mon, 18 Mar 2024 15:03:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将向乌克兰提供50亿欧元军事援助】当地时间3月18日，欧盟成员国外长正式签署协议，向乌克兰提供价值50亿欧元的军事援助。此轮50亿欧元援助实际上不会以现金的形式出现，根据协议，成员国可以用援助武器的方式向该基金“捐款”。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhch5180597.d.html</link>
-            <guid>3535701</guid>
-            <pubDate>Mon, 18 Mar 2024 14:59:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海信网能计划增持科林电气，将获后者最大表决权】科林电气公告，海信集团旗下青岛海信网络能源公司拟从石家庄科林电气股份有限公司副董事长李砚如、董事兼总裁屈国旺手中收购该公司5.1%股份。收购完成后，海信网能持有公司股票占后者总股本10.07%，实际掌握表决权19.64%，高于科林电气董事长张成锁所持11.07%表决权，成为掌握公司表决权最高的大股东。据了解，此次增持在石家庄市委市政府的支持下顺利进行，石家庄政府及各部门积极打造良好营商环境，预计双方将在新能源产业上实现产业链互补。（21世纪经济报道）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0835304.d.html</link>
-            <guid>3535699</guid>
-            <pubDate>Mon, 18 Mar 2024 14:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上实发展：公司多位高管被上海证监局警告并罚款，一人10年内禁入证券市场】上实发展发布公告称，公司于近日收到上海证监局出具的《行政处罚和市场禁入事先告知书》。因涉嫌未及时披露预计经营业绩发生亏损、订立重要合同，以及连续六年财报存在虚假记载，上实发展及时任董事长、总裁、副总裁等多名高管均被给予警告，合计拟罚款金额超2500万元，并有一人被采取10年证券市场禁入措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhch5180011.d.html</link>
-            <guid>3535698</guid>
-            <pubDate>Mon, 18 Mar 2024 14:55:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奥地利外长：奥地利将保持中立不加入北约】奥地利外交部长亚历山大·沙伦贝格17日在奥地利一档电视节目上表示，奥地利不会向乌克兰派遣军队或提供武器，也不会加入北约。他表示，“我们一直与北约有合作，也就是“和平伙伴关系”计划，但这并不意味着我们有加入北约的愿望，我们仅仅会进行部队演习，或开展其他信息交流。多年来，我们一直在这样做。请允许我再次强调，奥地利没有加入北约的愿望，我们保持中立，我们是中立的，这是有充分理由的。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhck1956200.d.html</link>
-            <guid>3535697</guid>
-            <pubDate>Mon, 18 Mar 2024 14:54:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴克莱着眼扩大与主权财富基金和私募巨头的关系，以提升投行业务盈利】 巴克莱寻求扩大与主权财富基金和私募巨头的关系，以期通过扩大咨询和股票承销业务来提高投资银行部门的盈利能力。巴克莱首席执行官CS Venkatakrishnan称，这些坐拥数万亿美元资金可用于交易的公司，是巴克莱希望能够争取到的关键客户，该行希望能够在其长期以来所著称的大型、跨国企业债券承销业务之外另辟蹊径。他表示，该行已有实现这一转型所需的人才。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhck1955607.d.html</link>
-            <guid>3535696</guid>
-            <pubDate>Mon, 18 Mar 2024 14:50:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟在欧洲和平基金下拨款50亿欧元以援助乌克兰。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcp0162528.d.html</link>
-            <guid>3535695</guid>
-            <pubDate>Mon, 18 Mar 2024 14:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿达尼港口：尚未受到美国司法部关于本集团（阿达尼企业）的行贿指控。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcp0161428.d.html</link>
-            <guid>3535692</guid>
-            <pubDate>Mon, 18 Mar 2024 14:45:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以媒：以色列代表团赴卡塔尔出席停火谈判】 据以色列媒体18日报道，负责巴以停火谈判的以色列代表团当天前往卡塔尔。谈判将于18日晚些时候开始，卡塔尔、埃及方面的代表也将出席谈判。报道说，以色列代表团由以情报和特勤局（摩萨德）局长巴尔内亚率领。以安全内阁17日晚已批准以色列在谈判中的“红线”。以色列谈判团队有权在谈判中敲定停火协议。以媒援引一名以色列官员的话说，达成协议“将是一个漫长而复杂的过程”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhcf0832878.d.html</link>
-            <guid>3535689</guid>
-            <pubDate>Mon, 18 Mar 2024 14:42:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【马斯克回应服用K粉：是为了缓解情绪低落，对投资者有利】特斯拉和 SpaceX 首席执行官埃隆・马斯克表示，他按照医嘱使用氯胺酮治疗情绪低落期，这符合特斯拉和其他他所运营的公司投资者的最佳利益。 “对华尔街来说，重要的是执行力。”马斯克在周一对前 CNN 主播 Don Lemon 的 YouTube 采访中说道，“从投资者的角度来看，如果某种东西对我有用，那我们应该继续使用它。” 他谈到特斯拉的成功时说道。 马斯克表示，他按照医嘱定期服用这种药物，治疗他所描述的会导致类抑郁症状的“化学潮汐”。 《华尔街日报》今年 1 月份的一篇文章称，特斯拉和 SpaceX 公司的高管们越来越担心马斯克的娱乐性药物使用。马斯克回应称他从未在药检中呈阳性，并在其社交平台 X 上发帖说：“我无论做什么，显然都应该继续做下去！” 氯胺酮，全名为 2-邻氯苯基-2-甲氨基环己酮，化学式为，是苯环己哌啶（PCP）的衍生物。因为其物理形状通常为呈白色粉末，而英文名称的第一个字母是 K，故俗称 K 粉。在医学临床上一般作为麻醉剂使用，被列为第一类精神药品管控。（IT之家）]]></title>
-            <guid>3535685</guid>
-            <pubDate>Mon, 18 Mar 2024 14:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【戴姆勒卡车CEO：电动卡车往往会比燃油卡车更贵】戴姆勒卡车CEO表示，电动卡车往往会比燃油卡车更加昂贵；2024年原材料价格上涨势头有所缓解。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-03-18/detail-inanuhck1953491.d.html</link>
-            <guid>3535684</guid>
-            <pubDate>Mon, 18 Mar 2024 14:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
