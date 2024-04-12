@@ -4,21 +4,294 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 12 Apr 2024 15:05:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 18:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【多国使馆提醒公民勿往以色列】据不完全统计，截至目前，已有中国、法国、印度等提醒公民暂勿前往以色列。法国外交部警告公民不要前往伊朗、以色列、巴勒斯坦领土和黎巴嫩，并接回驻伊朗外交官亲属。印度外交部建议印度人在收到进一步通知前不要前往伊朗和以色列。中国驻以色列使馆提醒中国公民暂勿前往以色列。有消息称伊朗或最快48小时内对以色列发动袭击，以色列正为此做准备，美军在以色列附近转移了额外的军事资产，部署了一艘具有先进防御能力的导弹船。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7653221.d.html</link>
-            <guid>3575394</guid>
-            <pubDate>Fri, 12 Apr 2024 15:02:51 GMT</pubDate>
+            <title><![CDATA[波音公司（BA）跌超1.8%，报170.10美元，处于连续第十个交易日下跌之中，恐创2018年以来最长连跌天数。摩根大通认为，波音未来的生产路径并不是非常清晰。]]></title>
+            <guid>3575484</guid>
+            <pubDate>Fri, 12 Apr 2024 18:00:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：一名美国官员表示，正在向中东增派军事部署，以加强地区威慑和保护我们部队。]]></title>
-            <guid>3575391</guid>
-            <pubDate>Fri, 12 Apr 2024 15:00:47 GMT</pubDate>
+            <title><![CDATA[【俄罗斯向尼日尔派遣军事顾问以提供帮助】据尼日尔媒体报道，俄罗斯军事顾问已于10日抵达尼日尔，帮助提升该国防空能力。4月11日，尼日尔国家电视台播出的画面显示，10日俄罗斯军事顾问乘坐一架携带防空系统和其他军事装备的飞机抵达该国，目的是通过培训该国士兵以增强尼日尔的防空能力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8546449.d.html</link>
+            <guid>3575483</guid>
+            <pubDate>Fri, 12 Apr 2024 18:00:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：波兰警告公民不要前往以色列、巴勒斯坦和黎巴嫩。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8545638.d.html</link>
+            <guid>3575482</guid>
+            <pubDate>Fri, 12 Apr 2024 17:52:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：马斯克确认将在2024年下半年访问阿根廷，与阿根廷总统米莱见面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekh7542522.d.html</link>
+            <guid>3575481</guid>
+            <pubDate>Fri, 12 Apr 2024 17:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞银财富管理资深人士Paula Polito将于9月离职。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8545382.d.html</link>
+            <guid>3575480</guid>
+            <pubDate>Fri, 12 Apr 2024 17:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【黎巴嫩真主党称向以色列阵地发射数十枚火箭弹】当地时间12日，黎巴嫩真主党宣布，当天向戈兰高地的以色列扎乌拉（al-Zaoura）炮兵阵地发射数十枚火箭弹。真主党称，此次袭击是作为以军稍早前袭击黎南部村镇的回应。另据伊朗媒体报道，当天至少有50枚火箭弹从黎巴嫩南部地区发射。对此，以色列方面暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8544942.d.html</link>
+            <guid>3575478</guid>
+            <pubDate>Fri, 12 Apr 2024 17:43:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储施密德：需要明确且令人信服的通胀证据才能降息】美联储施密德表示，为了价格稳定，就业市场需要更好的平衡；密切关注商品通胀可能再次加速；需要明确且令人信服的通胀证据才能降息；经济韧性给FOMC利率路径造成不确定性；倾向于保持耐心，不应当先发制人地调整利率政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekh7541151.d.html</link>
+            <guid>3575476</guid>
+            <pubDate>Fri, 12 Apr 2024 17:35:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列北部多次响起火箭弹防空警报】当地时间4月12日，以色列北部靠近黎巴嫩边境的加利利地区多次响起火箭弹防空警报，“铁穹”防御系统进行了数次拦截。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekn6612836.d.html</link>
+            <guid>3575475</guid>
+            <pubDate>Fri, 12 Apr 2024 17:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度建议本国公民不要前往伊朗和以色列】印度外交部12日发布公告说，鉴于伊朗和以色列目前的局势，建议所有印度公民不要前往伊朗和以色列，直至另行通知。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekh7540989.d.html</link>
+            <guid>3575474</guid>
+            <pubDate>Fri, 12 Apr 2024 17:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国钢铁公司（X）下跌3%，报40.93美元，日线仍然上延续3月13日跌12.77%、3月14日跌6.36%一来的低位反弹趋势。该公司股东投票，批准新日本制铁以141亿美元收购美国钢铁的交易。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekn6612520.d.html</link>
+            <guid>3575473</guid>
+            <pubDate>Fri, 12 Apr 2024 17:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：靠近黎巴嫩边境的加利利狭长地带响起了无数枚火箭警报。美国将航空母舰向北通过红海驶向以色列，以显示对伊朗的威慑。]]></title>
+            <guid>3575468</guid>
+            <pubDate>Fri, 12 Apr 2024 17:20:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国钢铁公司股东批准新日铁的收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8542120.d.html</link>
+            <guid>3575465</guid>
+            <pubDate>Fri, 12 Apr 2024 17:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中方呼吁乌克兰危机有关各方加大停火止战外交努力】中国常驻联合国副代表耿爽12日在安理会审议向乌克兰提供武器问题时发言，呼吁乌克兰危机有关各方加大停火止战的外交努力，推动危机早日政治解决。耿爽说，乌克兰危机仍在延宕，战争已造成太多伤亡。向战场持续输送武器，只会加剧危机恶化风险，无助于推动局势降温、实现停火止战。让枪炮来结束战争，不如由谈判来结束战争。中方再次呼吁有关各方本着负责任的态度加大停火止战的外交努力，推动危机早日政治解决，让和平的曙光早日到来。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8541745.d.html</link>
+            <guid>3575463</guid>
+            <pubDate>Fri, 12 Apr 2024 17:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[贝克休斯油服：美国钻井公司连续第四周减少石油和天然气钻井设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8541348.d.html</link>
+            <guid>3575462</guid>
+            <pubDate>Fri, 12 Apr 2024 17:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barington Capital要求派拉蒙全球考虑阿波罗的收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekf8541198.d.html</link>
+            <guid>3575461</guid>
+            <pubDate>Fri, 12 Apr 2024 17:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄国防部称成功试射一枚洲际弹道导弹】当地时间12日，俄罗斯国防部宣布，俄军在卡普斯京亚尔试验场成功试射了一枚洲际弹道导弹。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekn6607736.d.html</link>
+            <guid>3575459</guid>
+            <pubDate>Fri, 12 Apr 2024 16:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行取消做空墨西哥比索的建议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekk9830940.d.html</link>
+            <guid>3575458</guid>
+            <pubDate>Fri, 12 Apr 2024 16:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰全境拉响防空警报】当地时间12日，乌克兰空军方面表示，由于2架米格-31K战机起飞，乌克兰全境拉响防空警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekk9830420.d.html</link>
+            <guid>3575457</guid>
+            <pubDate>Fri, 12 Apr 2024 16:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫称伊朗袭以色列威胁真实可信】美国白宫国家安全委员会战略沟通协调员约翰·柯比当地时间4月12日上午对媒体表示，美方因仍然认为，伊朗因其驻叙利亚使馆领事处遭袭而对以色列发出的袭击威胁“真实可信”。柯比没有证实一些美国媒体关于“伊朗袭击‘迫在眉睫’”的报道，不愿评论美国是否会帮忙击落伊朗射向以色列的导弹，也拒绝透露情报显示的伊朗袭击可能的规模和范围，只是称“美国正非常密切地关注相关态势，并与以色列保持沟通，确保以色列想要什么就有什么，有能力自保”。 （CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekk9830283.d.html</link>
+            <guid>3575455</guid>
+            <pubDate>Fri, 12 Apr 2024 16:48:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024年秦岭陕西段森林覆盖率目标为85%以上】近日，《陕西省秦岭生态环境保护2024年工作要点》发布。工作要点提出陕西全省秦岭生态环境保护主要预期目标是：秦岭陕西段森林覆盖率达到85%以上（目前为82.07%），汉江、丹江、嘉陵江出省断面水质保持在Ⅱ类及以上，生态环境质量达到优良等级的面积保持在99.3%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekk9830246.d.html</link>
+            <guid>3575454</guid>
+            <pubDate>Fri, 12 Apr 2024 16:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[得克萨斯州警告下周可能发生电力紧急情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekh7536372.d.html</link>
+            <guid>3575451</guid>
+            <pubDate>Fri, 12 Apr 2024 16:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国2月北达科他州石油产量124.6619万桶/日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekk9829170.d.html</link>
+            <guid>3575450</guid>
+            <pubDate>Fri, 12 Apr 2024 16:41:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[爱沙尼亚间谍机构负责人表示，俄罗斯加大对波罗的海地区的威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarrekn6603598.d.html</link>
+            <guid>3575445</guid>
+            <pubDate>Fri, 12 Apr 2024 16:30:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：中东局势不稳定是美联储决策在油价和天然气方面的一个变数；负面供应冲击不利。]]></title>
+            <guid>3575444</guid>
+            <pubDate>Fri, 12 Apr 2024 16:27:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴方称以军袭击约旦河西岸 造成1死10伤】据巴勒斯坦通讯社当地时间12日报道，以军当天对约旦河西岸城市拉姆安拉附近的穆盖伊尔村发动袭击，造成1人死亡、10人受伤，另有数十座房屋和车辆被烧毁。以色列方面尚未对此作出回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyan9956726.d.html</link>
+            <guid>3575443</guid>
+            <pubDate>Fri, 12 Apr 2024 16:22:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西南部发生多车连环相撞事故 致2人死亡】当地时间4月12日凌晨，巴西南部巴拉那州中部发生一起6车连环相撞事故，造成2人死亡、2人受伤。据巴西联邦公路警察介绍，涉事车辆包括3辆卡车和3辆汽车，2名死者分别是卡车司机和汽车司机。事故发生的具体原因仍在调查中。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyan9956538.d.html</link>
+            <guid>3575442</guid>
+            <pubDate>Fri, 12 Apr 2024 16:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储古尔斯比：多个通胀指标高于期望水平】美联储古尔斯比表示，美联储必须将通胀率降至目标水平；多个通胀指标高于我们期望的水平；不喜欢对美联储在未来会议上可能采取的行动施加限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyan9956391.d.html</link>
+            <guid>3575441</guid>
+            <pubDate>Fri, 12 Apr 2024 16:20:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【所罗门群岛发生5.8级地震】据欧洲与地中海地震中心测定，当地时间4月13日2时59分，所罗门群岛发生5.8级地震，震中位于南纬10.24度，东经160.98度，震源深度64公里。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyai8667068.d.html</link>
+            <guid>3575440</guid>
+            <pubDate>Fri, 12 Apr 2024 16:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿塞拜疆称阵地遭亚美尼亚部队攻击 亚方否认】当地时间4月12日，阿塞拜疆国防部称，当天16时50分，亚美尼亚武装部队向阿方位于边境地区阿斯塔夫定居点附近的阵地开枪。阿塞拜疆军队已采取适当的应对措施。亚美尼亚国防部随后称，阿塞拜疆国防部称当天下午亚美尼亚武装部队向阿方边界地区东部的阵地开火，这与事实不符。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyai8666939.d.html</link>
+            <guid>3575439</guid>
+            <pubDate>Fri, 12 Apr 2024 16:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗续聘Vashistha担任印度企业资本市场主管。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyak7663973.d.html</link>
+            <guid>3575438</guid>
+            <pubDate>Fri, 12 Apr 2024 16:18:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【《你想活出怎样的人生》票房突破6亿】据灯塔专业版，影片《你想活出怎样的人生》票房突破6亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyan9954110.d.html</link>
+            <guid>3575434</guid>
+            <pubDate>Fri, 12 Apr 2024 16:07:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚央行行长Villar：央行寻求到2025年年中实现通胀目标区间。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyai8664917.d.html</link>
+            <guid>3575433</guid>
+            <pubDate>Fri, 12 Apr 2024 16:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【草木人间票房破8000万】据灯塔专业版实时数据，截至4月13日0时0分，影片《草木人间》票房突破8000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyai8664675.d.html</link>
+            <guid>3575432</guid>
+            <pubDate>Fri, 12 Apr 2024 16:03:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登提高了在联邦土地上开采石油的特许权使用费及费用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyaq6728927.d.html</link>
+            <guid>3575431</guid>
+            <pubDate>Fri, 12 Apr 2024 16:01:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国内政部最终敲定联邦土地提高石油和天然气租赁费用的制度。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-13/detail-inarqyai8664046.d.html</link>
+            <guid>3575430</guid>
+            <pubDate>Fri, 12 Apr 2024 16:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英国任命Justin Tomlinson为能源安全与净零部长/大臣。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7660733.d.html</link>
+            <guid>3575429</guid>
+            <pubDate>Fri, 12 Apr 2024 15:59:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【喜马拉雅赴港IPO：2023年营收61.6亿 净利润2.24亿】据港交所官网显示，喜马拉雅递交招股书。高盛、摩根士丹利、中金为联席保荐人。据招股书披露：喜马拉雅2023年营收61.6亿元，全年经调整净利润达2.2亿元。同时，全场景平均月活跃用户3.03亿，移动端平均月活跃用户1.33亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7660645.d.html</link>
+            <guid>3575428</guid>
+            <pubDate>Fri, 12 Apr 2024 15:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗扩大跌幅至3.2%，为1月16日以来最大跌幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7660198.d.html</link>
+            <guid>3575426</guid>
+            <pubDate>Fri, 12 Apr 2024 15:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃塞俄比亚首都发生枪战 致1名平民死亡】当地时间4月12日，埃塞俄比亚首都亚的斯亚贝巴警察委员会发布公告称，当天在亚的斯亚贝巴，安全部队与武装组织“法诺”成员发生枪战，导致1名平民和2名该组织成员死亡，2名警察受伤，另有1名该组织成员被捕。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7659751.d.html</link>
+            <guid>3575425</guid>
+            <pubDate>Fri, 12 Apr 2024 15:50:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安理会预计将于18日就巴勒斯坦成为联合国正式会员国进行表决】当地时间4月12日，据央视记者从多个消息源获取的消息，联合国安理会预计将在美国时间4月18日就巴勒斯坦申请成为联合国正式会员国一事进行表决。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8660895.d.html</link>
+            <guid>3575418</guid>
+            <pubDate>Fri, 12 Apr 2024 15:37:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【约旦副首相兼外交与侨务大臣与美国国务卿通电话 讨论加沙停火等问题】当地时间4月12日，约旦副首相兼外交与侨务大臣萨法迪与美国国务卿布林肯通电话，双方重点讨论了推动加沙实现停火的努力。双方强调，当务之急是消除所有阻碍援助进入加沙的因素。萨法迪强调，有必要开放进入加沙的口岸，让援助物资进入，以应对战争造成的人道主义危机。萨法迪还强调，以色列必须停止对加沙的袭击，并警告称，以色列对拉法发动地面攻击将造成灾难性后果。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7657175.d.html</link>
+            <guid>3575416</guid>
+            <pubDate>Fri, 12 Apr 2024 15:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄媒称乌军被俘人员承认在英国受训】据俄新社网站4月11日报道，俄罗斯联邦安全局发布消息称，一名被俘的乌克兰特战队员承认自己曾在英国接受训练。俄联邦安全局情报官员称，以英国为主的西方情报部门正在训练乌克兰特种部队进行破坏活动。目前，英国方面没有就此事回应。 (CCTV国际时讯)]]></title>
+            <guid>3575407</guid>
+            <pubDate>Fri, 12 Apr 2024 15:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国宣布对哈马斯部分领导人实施制裁】美国财政部海外资产控制办公室（OFAC）发表声明，宣布对巴勒斯坦伊斯兰抵抗运动（哈马斯）位于加沙和黎巴嫩的进攻性网络行动和无人机行动的领导人实施制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7655397.d.html</link>
+            <guid>3575405</guid>
+            <pubDate>Fri, 12 Apr 2024 15:19:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳往返中山低空物流商业化航线正式启动】4月12日，深圳往返中山低空物流商业化航线正式启动，该航线起降点分别位于深圳南山和中山小榄，航程70余公里，飞行时间约45分钟。航线使用的是丰翼科技自研的丰舟90垂起固定翼无人机，货仓体积72升，无人机根据设定航线自主飞行，平均巡航速度为30米/秒。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9947688.d.html</link>
+            <guid>3575404</guid>
+            <pubDate>Fri, 12 Apr 2024 15:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商务部外贸司负责人介绍2023年中国货物贸易国际市场份额情况】当地时间4月10日，世贸组织（WTO）发布2023年全球货物贸易数据。数据显示，2023年，中国出口国际市场份额14.2%、进口国际市场份额10.6%，均与2022年基本持平。在世界经济艰难复苏的大背景下，中国保持了国际市场份额的总体稳定，显示出较强的发展韧性。2024年中国贸易表现值得期待。WTO预计，2024年全球贸易量将增长2.6%，较2023年提高3.8个百分点，2024年一季度贸易领域也出现了一些复苏迹象。中国将持续推进高水平对外开放，深化同各贸易伙伴密切合作，努力为全球贸易复苏作出新的积极贡献。（商务部官网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyaq6723981.d.html</link>
+            <guid>3575403</guid>
+            <pubDate>Fri, 12 Apr 2024 15:17:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【泽连斯基签署多项法案旨在缓解兵力不足 乌克兰民众反应不一】乌克兰议会4月11日通过了一项军队动员法案，以补充前线兵力。此前一天，议会还撤销了“允许长期服役的军人从前线返回”的条款。本月初，乌克兰总统泽连斯基就已签署多项旨在缓解兵力不足的法案。这一系列调整在乌克兰民众中引发争议——有人“不喜欢这样的征兵方式”，有人表示“所有年轻男性确实都应该走向战场”，还有人指出“已服役的军人不能退伍非常不公平”。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7655214.d.html</link>
+            <guid>3575402</guid>
+            <pubDate>Fri, 12 Apr 2024 15:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗集团CEO Jane Fraser：花旗谨慎乐观地看待IPO市场的回暖前景。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8657640.d.html</link>
+            <guid>3575399</guid>
+            <pubDate>Fri, 12 Apr 2024 15:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【前美联储主席伯南克建议英国央行向市场提供更明确的利率指引】美联储前主席伯南克呼吁英国央行考虑公布自己对利率的展望，此举旨在推动英国央行对其预测的制定和沟通方式进行全面改革。伯南克表示，如果市场利率或不变的政策混淆了英国央行的信息，那么该行可以发布显示实现2%通胀目标最佳路径的场景分析。伯南克在86页的报告中对英国央行发布经济前景的方式提出了12项建议。尽管该报告表示，英国央行在最近通胀冲击期间的预测并不比其他央行差，但也指出支撑这些预测的基础设施急需升级。该报告称，英国央行应该改变20多年来处于其决策核心的扇形图。伯南克说，当政策制定者认为市场对借贷成本的预期“与其对前景的看法不一致”时，他们应该要“非常明确”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9947141.d.html</link>
+            <guid>3575398</guid>
+            <pubDate>Fri, 12 Apr 2024 15:12:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【深圳市人民政府与上海复星高科技签署战略合作框架协议】 4月12日，深圳市人民政府与上海复星高科技（集团）有限公司在深圳签署战略合作框架协议。根据协议，双方将充分发挥各自优势，按照“政企互动、市场运作、优势互补、互利共赢、协同发展”的原则，建立全方位、深层次、多领域战略合作关系，集聚优质创新资源，进一步加强生物医药、文体旅游、时尚消费等领域合作。]]></title>
@@ -73,267 +346,6 @@
             <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9942235.d.html</link>
             <guid>3575378</guid>
             <pubDate>Fri, 12 Apr 2024 14:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“进军AI”刺激苹果市值暴增1120亿美元 能否持续尚待观察】据报道，苹果决定彻底改革其Mac电脑产品线，聚焦人工智能功能。投资者如闻天籁，该股大涨4.3%，市值暴增1120亿美元，创下近一年来的最佳表现。“任何将人工智能推向消费硬件的公告都可能对苹果非常有利，” Ameriprise Financial首席市场策略师Anthony Saglimbene表示。 “然而影响尚未落定。”在周四消息之前，该股已从去年12月创下的纪录高点下跌了15%，市值蒸发超过4600亿美元。目前股价接近约一年来的最低水平，因此其最新的人工智能尝试显然让逢低买进的投资者有理由冒险。该股周五一度上涨接近2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7649358.d.html</link>
-            <guid>3575376</guid>
-            <pubDate>Fri, 12 Apr 2024 14:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【正荣地产：预计无法支付4月15日到期票据本息】正荣地产港交所公告，预计无法支付4月15日到期票据本息。 年息7.875%的优先票据未偿本金额为2.9亿美元。 票据将于到期后从联交所退市。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9941764.d.html</link>
-            <guid>3575374</guid>
-            <pubDate>Fri, 12 Apr 2024 14:36:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【芯朋微：2023年净利润同比降33.8% 拟10派1.5元】 芯朋微(688508)4月12日晚间披露年度报告，公司2023年实现营业收入7.80亿元，同比增长8.45%；净利润5947.80万元，同比下降33.8%；基本每股收益0.50元。拟向全体股东每10股派发现金红利1.50元(含税)。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7648984.d.html</link>
-            <guid>3575373</guid>
-            <pubDate>Fri, 12 Apr 2024 14:36:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅分别会见联合国亚太经社会执行秘书、慕尼黑安全会议基金会主席】 4月12日，中共中央政治局委员、外交部长王毅在北京分别会见联合国亚太经社会执行秘书阿利斯夏巴纳、慕尼黑安全会议基金会主席伊辛格。会见阿利斯夏巴纳时，王毅表示，亚太地区需要的是发展，而不是动荡；注重的应当是合作，而不是分裂。中方愿同亚太经社会加强团结协作，共同维护真正的多边主义，高质量推进“一带一路”合作，深化区域经济一体化，加强全球发展倡议同亚太经社会落实联合国2030年可持续发展议程对接。会见伊辛格时，王毅表示，中国作为负责任大国，积极倡导平等有序的世界多极化，坚定做动荡世界中的稳定力量。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7648930.d.html</link>
-            <guid>3575372</guid>
-            <pubDate>Fri, 12 Apr 2024 14:36:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安盛集团首席执行官托马斯·布博到访工商银行】 4月11日，中国工商银行董事长廖林会见来访的安盛集团首席执行官托马斯·布博一行，双方就宏观经济形势、业务合作等进行深入交流。工商银行与安盛集团在保险等领域开展合作，取得丰富成果。双方将积极发挥各自优势，进一步深化在健康养老等领域的合作，为客户提供优质服务，为促进国际经贸往来和金融合作贡献力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7648703.d.html</link>
-            <guid>3575370</guid>
-            <pubDate>Fri, 12 Apr 2024 14:35:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【伊朗批评部分西方国家回避谴责以色列“暴行”】据伊朗伊斯兰共和国通讯社12日报道，伊朗外长阿卜杜拉希扬日前批评部分西方国家在伊朗驻叙利亚大使馆遭袭一事上，回避谴责这一违反国际法和公约的行为，反而继续支持“以色列政权的暴行”。据报道，阿卜杜拉希扬11日与澳大利亚外长黄英贤通话，就包括加沙地带局势在内的最新地区事态发展交换了意见。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9941034.d.html</link>
-            <guid>3575369</guid>
-            <pubDate>Fri, 12 Apr 2024 14:33:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国财政部发布制裁，针对哈马斯发言人，无人机部门官员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8650817.d.html</link>
-            <guid>3575367</guid>
-            <pubDate>Fri, 12 Apr 2024 14:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉卜力工作室全球首展落地上海】近日，吉卜力工作室物语沉浸式艺术展全球首站于徐汇滨江上海国际传媒港艺术中心举办开幕式。据悉，吉卜力工作室物语沉浸式艺术展全球首站由吉卜力工作室官方授权，由大麦展览投制厂牌艺展鸿图联合版权引进方株式会社创共同主办。这也是吉卜力工作室首次进行沉浸式展览的开发与尝试。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8650796.d.html</link>
-            <guid>3575365</guid>
-            <pubDate>Fri, 12 Apr 2024 14:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Illumina涨超3%，欧盟正式批准其剥离GRIAL的计划】 生物科技公司Illumina（ILMN）涨幅扩大至超过3.1%，报134.83美元，该公司剥离/被迫放弃收购GRIAL的计划获得欧盟委员会正式批准，该公司将继续探索通过交易出售或资本市场交易完成剥离的可行性。该公司计划到2季度末完成这个计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyaq6716632.d.html</link>
-            <guid>3575364</guid>
-            <pubDate>Fri, 12 Apr 2024 14:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华谊兄弟王中磊：未来新片主打“小”字 注重普通人的生活】4月12日，在“宾阳楼对话·中国电影投资春天”主题论坛上，华谊兄弟联合创始人、副董事长兼CEO王中磊表示，华谊兄弟未来要推出的影片主打“小”字，并不代表电影投资规模小或者电影本身力量小，而是侧重于普通人的生活，小人物也能实现大梦想。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8650346.d.html</link>
-            <guid>3575362</guid>
-            <pubDate>Fri, 12 Apr 2024 14:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：终止对江苏设计首次公开发行股票并在主板上市审核】深交所公告，终止对江苏设计首次公开发行股票并在主板上市审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8650203.d.html</link>
-            <guid>3575360</guid>
-            <pubDate>Fri, 12 Apr 2024 14:27:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[道富银行上涨5%，刷新日高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7647283.d.html</link>
-            <guid>3575359</guid>
-            <pubDate>Fri, 12 Apr 2024 14:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海航航空与中信金租签署战略合作框架协议】 4月10日，辽宁方大集团所属海航航空与中信金融租赁股份有限公司（简称：中信金租）在海口进行会谈并签署战略合作框架协议。基于协议，海航航空旗下海南航空、首都航空、祥鹏航空、西部航空、金鹏航空等已陆续与中信金租开展飞机融资租赁、发动机直租、资产包交易等业务合作，稳步推进战略合作协议落地。下一步，双方将充分发挥各自在航空、金融领域的资源优势，深度开拓航空领域业务合作机会，共同拓展国内外航空市场，携手建立长效工作机制，确保双方始终保持积极有效互信的沟通共享机制，贯彻落实此次战略合作协议的约定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7647174.d.html</link>
-            <guid>3575358</guid>
-            <pubDate>Fri, 12 Apr 2024 14:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海市闵行区人民政府与华建集团签署战略合作协议】 4月11日下午，上海市闵行区人民政府与华建集团举行战略合作协议签约仪式。下一步，双方将以闵行区全力实施“南北联动，双核辐射”空间发展战略为契机，以全面建设创新开放、生态人文、宜居安居现代化主城区为目标，围绕虹桥国际开放枢纽建设、上海南部科创中心建设、“校区、园区、社区”共融共创构建、高标准现代化区域生态治理体系建设四大板块精诚合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7645943.d.html</link>
-            <guid>3575357</guid>
-            <pubDate>Fri, 12 Apr 2024 14:20:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国产樱桃要降价了】近日，随着天气的转暖，各地的新鲜水果陆续成熟，开始大量上市。在广东梅州的水果批发市场，一粒粒鲜红的樱桃是水果店当仁不让的主角。据介绍，大约在4月下旬后，山东等地的樱桃将大量上市，届时国产樱桃的价格将会有所下降。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8648824.d.html</link>
-            <guid>3575356</guid>
-            <pubDate>Fri, 12 Apr 2024 14:20:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一图看懂：上海推进“小快轻准”数字化产品应用】据上海发布4月12日消息，上海市经济信息化委制定《关于推进本市工业企业数智化工作实施方案》。目标到2024年5月，促进1000家以上工业企业智改数转网联；到2024年底，力争促进全市9500家规上企业、1000家规下样本企业、4万家左右规下工业企业智改数转网联。推进“小快轻准”数字化产品应用，利用数字化手段高效撮合产业链上下游供需对接等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyaq6714816.d.html</link>
-            <guid>3575355</guid>
-            <pubDate>Fri, 12 Apr 2024 14:19:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华大基因：2023年净利润9290.04万元 拟10派1元】华大基因(300676)4月12日晚间披露年度报告，2023年实现营业收入43.50亿元，同比下降38.33%；净利润9290.04万元，同比下降88.43%；基本每股收益0.23元。拟向全体股东每10股派发现金红利1元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7645293.d.html</link>
-            <guid>3575351</guid>
-            <pubDate>Fri, 12 Apr 2024 14:15:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瞬间风力达到12级 新疆哈密升级发布沙尘暴橙色预警】4月12日17时25分，新疆哈密市气象台将沙尘暴黄色预警升级为沙尘暴橙色预警信号。哈密市伊吾县、巴里坤县局地出现扬沙、沙尘暴天气，瞬间风力最大12级。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8648010.d.html</link>
-            <guid>3575349</guid>
-            <pubDate>Fri, 12 Apr 2024 14:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中兴通讯与海信集团签署ECSS商用合作，共同打造行业贸易合规新标杆】 中兴通讯消息，近日，中兴通讯与海信集团在青岛海信大厦举行签约仪式，正式宣布双方就ECSS（Enterprise Compliance Service System，企业合规服务系统）达成合作协议。作为通信和家电行业的先锋企业，中兴通讯和海信集团此次合作将发挥各自行业优势，共同推动贸易合规数字化管理体系的提升，促进国内企业在合规领域的发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7644790.d.html</link>
-            <guid>3575347</guid>
-            <pubDate>Fri, 12 Apr 2024 14:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国钢铁公司和日本制铁考虑推迟交易完成日期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyan9937063.d.html</link>
-            <guid>3575342</guid>
-            <pubDate>Fri, 12 Apr 2024 14:11:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：不会对伊朗可能袭击以色列的报道发表评论，这是一个切实的威胁；我们密切关注此事。伊朗发出威胁后，美国应该审视自身军力部署。美国将保护本国人民和设施。在最新一轮人质谈判后，我们仍在等待哈马斯方面的回应。在过去几天里，有超过1,000辆卡车进入加沙；以色列在加沙的其他过境点上履行了他们的承诺，但这还不够。美国无法证实哈马斯声称的“没有40名人质”的说法。]]></title>
-            <guid>3575341</guid>
-            <pubDate>Fri, 12 Apr 2024 14:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雪祺电气：公司尚未与娃哈哈公司合作】 雪祺电气4月12日在互动平台表示，截至目前，公司尚未与娃哈哈公司合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyak7643703.d.html</link>
-            <guid>3575338</guid>
-            <pubDate>Fri, 12 Apr 2024 14:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【全国首只市场化矿产资源风险勘探基金揭牌成立】4月12日，新疆矿产资源风险勘探投资基金揭牌仪式隆重举行，标志着全国首只市场化矿产资源风险勘探基金正式成立。新疆维吾尔自治区人民政府副秘书长刘建国，自治区自然资源厅党组书记、副厅长孙继洲共同揭牌。自治区财政厅二级巡视员吕文平出席揭牌仪式。自治区自然资源厅副厅长王漠主持本次揭牌仪式。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqyai8646500.d.html</link>
-            <guid>3575337</guid>
-            <pubDate>Fri, 12 Apr 2024 14:06:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[匈牙利央行计划缓慢地降息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6843252.d.html</link>
-            <guid>3575335</guid>
-            <pubDate>Fri, 12 Apr 2024 14:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航行警告 渤海海峡黄海北部执行军事任务】据中国海事局网站消息，大连海事局发布航行警告，4月14日16时至21日16时，渤海海峡黄海北部部分海域执行军事任务，禁止驶入。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7773063.d.html</link>
-            <guid>3575334</guid>
-            <pubDate>Fri, 12 Apr 2024 14:01:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国4月密歇根大学消费者预期指数初值 77，预期 78，前值 77.4。美国4月密歇根大学消费者信心指数初值 77.9，预期79，前值79.4。美国4月一年期通胀率预期为3.1%，预期2.9%，前值2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7772842.d.html</link>
-            <guid>3575333</guid>
-            <pubDate>Fri, 12 Apr 2024 14:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰总统与荷兰首相通电话 讨论军事援助等议题】当地时间12日，乌克兰总统泽连斯基在社交媒体上表示，他在当天与荷兰首相吕特通电话。吕特在通话中表示，荷兰拨款10亿欧元向乌克兰提供军事援助，同时还会拨款4亿欧元用于乌克兰重建，这是两国双边安全协议外的额外援助款。此外，双方还就加快弹药、防空系统等供应问题进行了商谈。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtur0065165.d.html</link>
-            <guid>3575331</guid>
-            <pubDate>Fri, 12 Apr 2024 13:57:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LSEG数据显示，受与伊朗有关的制裁影响，四艘油轮上的俄罗斯石油和产品滞留。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6841406.d.html</link>
-            <guid>3575330</guid>
-            <pubDate>Fri, 12 Apr 2024 13:57:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统与土耳其总统通电话 讨论地区局势】据巴勒斯坦通讯社当地时间12日报道，当天巴勒斯坦总统阿巴斯与土耳其总统埃尔多安通电话，双方就地区局势发展进行了讨论。阿巴斯强调应立即结束加沙地带的冲突，加速人道主义和医疗援助进入加沙地带，避免更多民众流离失所，同时阻止以色列将约旦河西岸局势升级。埃尔多安重申土耳其支持巴勒斯坦人民恢复民族合法权利的正义事业。他呼吁国际社会必须采取一切手段、包括执行联合国安理会的决议要求，以实现加沙地带的停火。双方还表示将继续在各层面进行协调和磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7772007.d.html</link>
-            <guid>3575326</guid>
-            <pubDate>Fri, 12 Apr 2024 13:55:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【半导体概念股美股盘初几乎全线下跌，AMD跌超4%，苹果仍然涨超1%延续昨日涨超4%的表现】AMD跌4.6%，英特尔跌3.7%，Wolfspeed、格芯、超微电脑、安森美、英伟达两倍做多ETF跌超2.5%，美光科技和阿斯麦ADR跌2.1%，博通跌2%，台积电ADR跌1.8%，Arm控股、META、高通、德州仪器等跌超1%，迈威尔科技则涨0.4%，苹果涨1.5%延续上日涨超4%的表现——媒体4月11日报道称该公司正在研发的、面向Mac产品线的M4自研芯片将侧重于人工智能（AI）功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7770846.d.html</link>
-            <guid>3575321</guid>
-            <pubDate>Fri, 12 Apr 2024 13:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻菲律宾使馆发言人：强烈不满和坚决反对美日菲三边峰会】中国驻菲律宾使馆发言人表示，美日菲抱持冷战思维、拼凑排他性“小圈子”，以合作为名搞对抗，举行所谓三边峰会，在涉台、涉海等问题上对中方肆意抹黑攻击，粗暴干涉中国内政，损害中方战略安全和利益。中方对此强烈不满和坚决反对。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtur0063059.d.html</link>
-            <guid>3575319</guid>
-            <pubDate>Fri, 12 Apr 2024 13:48:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST长方：因涉嫌信披违法违规 中国证监会决定对公司立案】*ST长方4月12日晚间公告，因涉嫌信息披露违法违规，中国证监会决定对公司立案。公司控股子公司康铭盛因涉嫌拒绝、阻碍证券监督管理机构及其工作人员依法履行监督检查职权而被中国证监会立案尚未有调查结果。目前，公司各项生产经营活动正常开展，2023年报审计工作正按计划顺利进行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6838800.d.html</link>
-            <guid>3575316</guid>
-            <pubDate>Fri, 12 Apr 2024 13:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【对冲基金爆炒可可后转战咖啡 罗布斯塔咖啡期货创新高】罗布斯塔(Robusta)咖啡豆价格在伦敦创下新高，原因是市场担心产量下降将加剧咖啡豆短缺。阿拉比卡咖啡豆也出现反弹，可可接近近期的历史高点。罗布斯塔咖啡豆是一种用于速溶饮料的廉价咖啡，其期货价格上涨2.4%，达到2008年上市交易以来的最高水平。本周价格上涨了5.4%，主要种植国越南的产量下降和低库存推高了价格。咖啡市场也得到了对冲基金的支持，因为它们退出可可豆市场并涌入咖啡市场，近期巨大的缺口也导致了可可价格飙升。此外，美国商品期货交易委员会（CFTC）上周五的数据显示，在截至4月2日的一周，基金经理将阿拉比卡咖啡期货的净多头头寸增至历史最高水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7769521.d.html</link>
-            <guid>3575314</guid>
-            <pubDate>Fri, 12 Apr 2024 13:44:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国东航与华为签署战略合作框架协议】中国东方航空集团有限公司与华为技术有限公司在华为总部签署战略合作框架协议。根据协议，双方将基于中国东航领先的行业经验，结合华为先进的信息与通信技术（ICT）、解决方案与数字化转型实践经验，积极在数字化转型方面开展合作。通过在数字化转型规划、数字化基础设施、数字化创新场景、数字化人才体系和差旅服务等领域的全面深入合作，共同引领产业模式升级，构建供应链产业链安全高效运转的大交通大物流体系。]]></title>
-            <guid>3575311</guid>
-            <pubDate>Fri, 12 Apr 2024 13:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南昆明晋宁区发生森林火灾，515名专业扑火人员赶赴扑救】云南昆明市晋宁区森林草原防灭火指挥部消息，4月12日16时，晋宁区二街镇甸头村委会发生森林火情，火场周边无村庄及重要设施。火情发生后，晋宁区启动应急处置预案，调集专业扑火力量开展火情处置工作。目前，昆明市、晋宁区共调集515名专业扑火人员正在全力开展火情处置工作。起火原因正在调查中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6837682.d.html</link>
-            <guid>3575309</guid>
-            <pubDate>Fri, 12 Apr 2024 13:40:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【X公司：致力于保留在巴西的办事处和业务，确保在巴西的访问性】X公司全球政府事务团队4月12日表示，X致力于保留在巴西的办事处和业务，因为深知保持在该地区存在的重要性。X公司正在积极努力，以确保X在巴西保持可访问性，使人民能够自由表达他们的想法和意见。X公司相信，访问X对巴西人民参与公开对话和与全球信息保持联系至关重要。X公司坚定不移地致力于保护巴西和世界各地的言论自由，将继续采取必要措施，维护这一基本权利。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtum8770815.d.html</link>
-            <guid>3575306</guid>
-            <pubDate>Fri, 12 Apr 2024 13:37:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国服装租赁公司Rent the Runway停牌，此前股价反转大涨15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6836710.d.html</link>
-            <guid>3575305</guid>
-            <pubDate>Fri, 12 Apr 2024 13:36:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【公安机关打击整治网络谣言专项行动取得阶段性成效】记者12日从公安部获悉，去年12月部署打击整治网络谣言专项行动以来，截至目前，公安机关累计排查网络谣言线索8万余条，侦办网络谣言类案件1万余起，抓获犯罪嫌疑人1500余名，行政处罚10700余人，开展公开辟谣等4200余次。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6836132.d.html</link>
-            <guid>3575300</guid>
-            <pubDate>Fri, 12 Apr 2024 13:34:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟将伊斯兰革命卫队圣城旅、努赫巴特种部队和哈马斯卡桑旅列入制裁名单。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7767300.d.html</link>
-            <guid>3575299</guid>
-            <pubDate>Fri, 12 Apr 2024 13:34:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川省阿坝州原一级巡视员葛宁被双开：妄图当官发财两不误】经查，葛宁理想信念丧失，纪法意识淡薄，对党不忠诚不老实，处心积虑对抗组织审查；无视中央八项规定精神，大肆收受礼品、礼金；妄图当官发财两不误，将手中的权力作为攫取利益的工具，利用职权为自己和亲友谋利，违规借用管理和服务对象车辆；大搞权钱交易，片面追求政绩，与不法商人勾结，利用职务上的便利，为他人在项目承揽、资金拨付等方面谋取利益并收受财物，数额特别巨大；肆意妄为，超越职权任性决策，给国家造成巨大损失。（中央纪委国家监委）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7767224.d.html</link>
-            <guid>3575298</guid>
-            <pubDate>Fri, 12 Apr 2024 13:34:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川省原经济和信息化委员会党组成员、副巡视员钟吕坤被开除党籍】经查，钟吕坤理想信念丧失，纪法意识淡薄，对党不忠诚不老实，对抗组织审查；贪财逐利，退而不休，违规从事营利活动，大肆放贷收息；大搞权钱交易，将权力异化为攫取私利的工具，利用职务上的便利为他人在企业经营、资格证办理等方面谋取利益并收受财物，数额特别巨大。（中央纪委国家监委）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7767061.d.html</link>
-            <guid>3575297</guid>
-            <pubDate>Fri, 12 Apr 2024 13:33:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁波出口集装箱运价指数较上周上涨0.7%】4月6日至4月12日，宁波航运交易所发布的海上丝绸之路指数之宁波出口集装箱运价指数(NCFI)报收于1257.6点，较上周上涨0.7%。21条航线中有14条航线运价指数上涨，7条航线运价指数下跌。“海上丝绸之路”沿线地区主要港口中，12个港口运价指数上涨，3个港口运价指数下跌，1个港口运价指数基本持平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtus6835634.d.html</link>
-            <guid>3575296</guid>
-            <pubDate>Fri, 12 Apr 2024 13:32:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【民航局召开国际民航组织航空安保审计总结会议：持续深入整治“机闹”，提高安检查控能力】民航局局长宋志勇强调，要提升治理能力，强化空防安保各项工作机制建设，切实落实空防安全“四个责任”，加快推进空防安全治理现代化。要主动防控风险，抓好民航安保和反恐防范风险排查，持续深入整治“机闹”，提高安检查控能力，提升航空器消防救援水平，加强境外风险管控，切实强化重大风险防范应对。要持续改革创新，与时俱进优化规章制度体系，稳步推进新技术新设备应用，加强配套政策供给，以高水平空防安全保障民航高质量发展。]]></title>
-            <guid>3575295</guid>
-            <pubDate>Fri, 12 Apr 2024 13:32:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多国专家：美日菲会议“危害亚太和平稳定”】美国、日本、菲律宾三国领导人11日在华盛顿举行会议，声称在防务等领域将出台多项合作举措。多国专家指出，美日菲三边会议及其军事合作的本质是域外势力拉帮结派，这种搞小政治集团的做法“非常冒险”，危害亚太地区的和平与稳定。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-04-12/detail-inarqtun7766791.d.html</link>
-            <guid>3575294</guid>
-            <pubDate>Fri, 12 Apr 2024 13:32:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
