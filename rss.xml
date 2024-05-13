@@ -4,13 +4,151 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 13 May 2024 18:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 21:05:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[亚马逊自动驾驶RoboTaxi部门因两起车尾撞车事故而被美国调查。]]></title>
+            <title><![CDATA[市场消息：美国证交会收到美国工业铝公司诺威利斯（NOVELIS INC.）的IPO申请。]]></title>
+            <guid>3616433</guid>
+            <pubDate>Mon, 13 May 2024 20:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国国务卿布林肯本周将前往乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhc1669606.d.html</link>
+            <guid>3616430</guid>
+            <pubDate>Mon, 13 May 2024 20:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国参议院多数党领袖舒默将于本周宣布人工智能监管路线图。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4012406.d.html</link>
+            <guid>3616426</guid>
+            <pubDate>Mon, 13 May 2024 20:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线(AMC.N)美股盘后涨幅扩大至21%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4012309.d.html</link>
+            <guid>3616424</guid>
+            <pubDate>Mon, 13 May 2024 20:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC院线美股盘后暂时涨超12.1%，游戏驿站（GME）涨3.6%，黑莓涨2.7%，Koss涨2.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhc1669168.d.html</link>
+            <guid>3616421</guid>
+            <pubDate>Mon, 13 May 2024 20:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音公司：拓展工人培训并新增工具，以期化解工厂生产活动中暴露出来的质量问题】波音公司表示，拓展工人培训并新增工具，以期化解工厂生产活动中暴露出来的质量问题。制造和质量检测环节的工人人均增加大约20-50个小时的额外培训时间。在商用飞机项目领域投放超过7000台工具和其他设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrfz4891996.d.html</link>
+            <guid>3616420</guid>
+            <pubDate>Mon, 13 May 2024 20:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美官员：美国在加速部署给乌克兰的军事援助】美国总统国家安全事务助理杰克·沙利文当地时间5月13日在当天的白宫简报会上表示，美国正在努力将更多“爱国者”导弹防御系统运送到乌克兰。沙利文称，目前美国为乌克兰提供的军事援助已经在前线发挥作用，另一批军事援助物资也将在未来几天内运抵乌克兰。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrfw1796703.d.html</link>
+            <guid>3616413</guid>
+            <pubDate>Mon, 13 May 2024 20:26:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹喀土穆州政府宣布实施宵禁】当地时间13日，苏丹首都喀土穆所在的喀土穆州政府宣布自即日起在该州实施宵禁。自晚上10时至次日凌晨5时禁止商业活动和其他公共活动，自晚上11时至次日凌晨5时禁止人员流动和车辆交通。2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，随后蔓延至其他地区，并持续至今。目前，喀土穆州呈割据状态，快速支援部队占据大约70%的区域，苏丹武装部队控制剩余的30%区域，喀土穆州政府在此区域内行使管辖权。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrfw1796520.d.html</link>
+            <guid>3616411</guid>
+            <pubDate>Mon, 13 May 2024 20:25:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【半导体概念股涨跌各异，芯片制造报道带动Arm涨约8%，超微电脑跌约2%】 Arm控股收涨7.71%，媒体报道称，软银将在Arm推出芯片研发团队，将交由外包公司量产；格芯涨超3%，安森美半导体、英特尔、芯科实验室至少涨2%，苹果、泰瑞达、凌云半导体、美光科技、高通至少涨1.17%——其中高通创收盘历史新高，英伟达两倍做多ETF涨1.15%，英伟达涨0.58%，Tower半导体则收跌超0.6%，AMD跌0.9%，阿斯麦ADR跌1.4%，应用材料跌约1.5%，台积电ADR跌超1.9%脱离收盘历史最高位，超微电脑跌1.97%，纳微半导体跌3.17%，万机仪器MKSI跌9.03%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4011179.d.html</link>
+            <guid>3616408</guid>
+            <pubDate>Mon, 13 May 2024 20:23:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[知乎(ZH.N)美股盘后上涨近5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4011168.d.html</link>
+            <guid>3616407</guid>
+            <pubDate>Mon, 13 May 2024 20:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Fisker(FSR.N)从现有投资者那里筹集了346万美元，（总资金）可能达到750万美元。]]></title>
+            <guid>3616403</guid>
+            <pubDate>Mon, 13 May 2024 20:21:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及苏伊士运河管理局：红海紧张局势导致近3400艘船改变航线】苏伊士运河管理局（SCA）主席奥萨马•拉比表示，自2023年11月以来，由于红海紧张局势加剧，近3400艘船只被迫改变航线，没有进入苏伊士运河。拉比在埃及议会发表讲话时表示：“红海的不稳定局势导致3395艘船驶往好望角（南非），而不是驶往苏伊士运河。”他提请注意，通过好望角的航程需要的时间长很多，他并强调，苏伊士运河是国际贸易的理想路线。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4010677.d.html</link>
+            <guid>3616396</guid>
+            <pubDate>Mon, 13 May 2024 20:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄紧急情况部：一客轮在阿尔汉格尔斯克港发生火灾】据俄罗斯紧急情况部5月13日消息，正在阿尔汉格尔斯克港进行维修的“罗蒙诺索夫”号客轮当天发生火灾，起火面积近1000平方米。据初步消息，火灾未造成人员伤亡。当地媒体报道称，“罗蒙诺索夫”号客轮长78米、宽14.5米、高12.5米，建成于1962年，2005年进行了全面现代化改造。去年5月，该船在维修期间也曾发生过火灾。（央视新闻）]]></title>
+            <guid>3616394</guid>
+            <pubDate>Mon, 13 May 2024 20:10:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[斯泰兰蒂斯Stellantis洽谈投资印尼镍冶炼厂。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhc1668122.d.html</link>
+            <guid>3616390</guid>
+            <pubDate>Mon, 13 May 2024 20:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新策略可提升无铅钙钛矿太阳能电池转换效率】记者13日从中国科学技术大学获悉，该校微电子学院特任研究员胡芹课题组在无铅钙钛矿太阳能电池研究中取得新进展。课题组针对非铅锡基钙钛矿半导体存在的自掺杂严重、缺陷密度高、非辐射复合损失大等问题，成功构建钙钛矿同质结，以促进光生载流子的分离和提取。这证明了同质结构筑策略在锡基钙钛矿太阳能电池领域的应用潜力，也为其他钙钛矿光电器件的结构优化提供了新思路。该成果日前发表于国际知名期刊《纳米快报》，并被选为封面论文。（科技日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrfw1794498.d.html</link>
+            <guid>3616382</guid>
+            <pubDate>Mon, 13 May 2024 19:56:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称在别尔哥罗德州拦截火箭弹等目标】俄罗斯国防部通报称，当地时间5月13日约19时30分，俄军防空系统在别尔哥罗德州拦截了乌方1架无人机、2枚火箭弹和6枚航空制导炸弹。乌克兰官方暂未对此事件作出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcrhh4007569.d.html</link>
+            <guid>3616361</guid>
+            <pubDate>Mon, 13 May 2024 19:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[白宫国家安全顾问沙利文：周一与国防部长和乌克兰官员进行了交谈。美国对乌克兰的一部分军事援助已经到达战场，未来几天将有另一批次的装备交付计划。]]></title>
+            <guid>3616338</guid>
+            <pubDate>Mon, 13 May 2024 18:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[赫斯公司(Hess Corp.)最大股东之一HBK资本管理公司(HBK Capital Management)计划对雪佛龙公司以530亿美元收购赫斯公司的交易投弃权票。]]></title>
+            <guid>3616328</guid>
+            <pubDate>Mon, 13 May 2024 18:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【委内瑞拉持续干旱高温致林火多发 农作物减产】目前，委内瑞拉的高温干旱天气已经持续超过400天。这不仅给当地旅游和民众生活带来了冲击，还造成了森林火灾多发和农作物减产。一般在正常年份，进入5月后，委内瑞拉首都加拉加斯及周边地区的降雨就会变得频繁起来，但是受厄尔尼诺现象影响，近两周来，当地只出现了一次短暂的降雨，而最高气温已经连续一周突破30摄氏度，比往年同期平均气温高出了2摄氏度左右。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1914833.d.html</link>
+            <guid>3616327</guid>
+            <pubDate>Mon, 13 May 2024 18:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家安全顾问沙利文：美国正紧急努力寻求停火和人质协议的达成，世界应呼吁哈马斯回到谈判桌并接受协议。无法预测停火协议何时或是否能够达成。预计与以色列官员的面对面会议将在几天内举行，而非几周内。]]></title>
+            <guid>3616323</guid>
+            <pubDate>Mon, 13 May 2024 18:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AMC ENTERTAINMENT涨幅扩大至78%，触及盘中高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4129481.d.html</link>
+            <guid>3616322</guid>
+            <pubDate>Mon, 13 May 2024 18:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【Meta新AI设备紧锣密鼓：探索开发AI耳机，带摄像头、能翻译】 Meta公司探索搭载摄像头的AI辅助耳机，内部人士透露，该产品设计尚未决定，而且仍有技术和隐私问题未解决。分析认为，目前已有多家公司有意开发AI耳机，Meta在这条拥挤的赛道启动并不算早，能否成功仍是未知之数。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyc5012753.d.html</link>
+            <guid>3616321</guid>
+            <pubDate>Mon, 13 May 2024 18:40:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【随着AI能源需求激增，美国电网新规将提振电力】 美国监管机构最终敲定了旨在加快建设未来电网的规定，批准了至少10年来最大规模的改革，以实现能源转型，满足飙升的需求，并提供抵御极端天气的保护。美国联邦能源管理委员会(FERC)将要求电网规划者进行为期20年的评估，并批准相关规定，以允许在美国能源部(US Energy Department)建立的国家走廊内铺设高压电线。他们还制定了分配数十亿美元电网检修成本的指导方针。而且，开发商将首次被要求在开发过程的早期与部落和环境正义团体进行接触。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4125652.d.html</link>
+            <guid>3616311</guid>
+            <pubDate>Mon, 13 May 2024 18:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【业绩分化补血难，民营银行直面“成长的烦恼”】 2024年，是民营银行在国内运行的第10个年头。作为立足服务民营经济、小微企业和居民消费的一支金融队伍，民营银行在近年来的发展中依然面临着不少“成长的烦恼”。过去一年，民营银行经营业绩延续“马太效应”，盈利能力和规模增速表现出较大的分化——头部民营银行发展迅速、盈利稳健，队伍中的“腰部”“尾部”机构仍承受经营压力、资本补充压力以及监管压力。有业内分析人士指出，民营银行应找准战略定位，提升持续创新和错位竞争能力，逐渐形成自己的差异化发展特色。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1910232.d.html</link>
+            <guid>3616310</guid>
+            <pubDate>Mon, 13 May 2024 18:09:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【车辆连续发生追尾 美监管机构对亚马逊旗下自动驾驶公司发起调查】美国安全监管机构对亚马逊旗下的自动驾驶出租车企业Zoox展开了调查，此前该公司的两辆自动驾驶SUV突然刹车，然后被摩托车手追尾。美东时间周一，美国国家公路交通安全管理局(NHTSA)宣布，缺陷调查办公室(ODI)已收到两起涉及装有Zoox自动驾驶系统(ADS)车辆的事故通知，这些车辆意外突然刹车，导致追尾碰撞，两起事故均发生在日间照明条件下，两起事故均造成轻伤。NHTSA表示，通过对这两起事故的初步调查，ODI已确认，每辆Zoox车辆在发生碰撞的前一刻都在使用ADS。ODI已启动初步评估，对事发车辆上配备的Zoox自动驾驶系统进行调查。]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1909906.d.html</link>
             <guid>3616308</guid>
             <pubDate>Mon, 13 May 2024 18:07:02 GMT</pubDate>
@@ -100,250 +238,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4116979.d.html</link>
             <guid>3616282</guid>
             <pubDate>Mon, 13 May 2024 17:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞典央行行长特登成为巴塞尔银行监管委员会新主席。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4115506.d.html</link>
-            <guid>3616277</guid>
-            <pubDate>Mon, 13 May 2024 17:02:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国驻德国大使将于七月辞职。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1900543.d.html</link>
-            <guid>3616276</guid>
-            <pubDate>Mon, 13 May 2024 17:02:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[克里姆林宫发言人：俄罗斯安全理事会秘书谢尔盖·绍伊古将监督联邦军事技术合作局的工作，但不会成为该局的负责人。]]></title>
-            <guid>3616273</guid>
-            <pubDate>Mon, 13 May 2024 16:59:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国国会议员们敦促美国总统拜登利用行政权力降低食品价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1898838.d.html</link>
-            <guid>3616270</guid>
-            <pubDate>Mon, 13 May 2024 16:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行CEO：作为美银的首席执行官，有很多工作要做，财政部长职位适合其他人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1897954.d.html</link>
-            <guid>3616268</guid>
-            <pubDate>Mon, 13 May 2024 16:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【集运市场淡季不淡 多条航线运价上涨】 尽管目前尚处于集装箱海运市场传统淡季，但近期马士基、达飞、赫伯罗特等头部船运公司纷纷披露航线运价上调信息，涨价覆盖亚洲至欧洲、北美洲、南美洲等多个方向的航线。具体来看，5月份以来，船运公司纷纷涨价。以达飞为例，自5月15日起，其亚洲至北欧航线上调至2700美元/TEU（长20英尺集装箱）、5000美元/FEU（长40英尺集装箱），分别上涨500美元/TEU、1000美元/FEU，涨幅分别为23%、25%。除了亚洲至北欧航线运价大幅攀升之外，同样涨价的还有亚洲至美国航线。5月10日，上海港出口至美西和美东基本港的海运及海运附加费分别为4393美元/FEU和5562美元/FEU，较一周前分别上涨22%、19%。5月13日上午，深圳市宝通达国际货运代理有限公司工作人员颜先生向记者表示：“全球主要海运航线进入全面涨价，其中一些航线涨价已经生效。”推动集装箱海运航线涨价的原因来自多方面，科方得智库研究负责人张新原在接受记者采访时表示：“一是需求端边际向好，二是红海绕行在提升成本的同时导致供应链紧张，三是部分航线进入长期协议签约的关键时期，促使船公司上调价格。”（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4112263.d.html</link>
-            <guid>3616266</guid>
-            <pubDate>Mon, 13 May 2024 16:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【古特雷斯强烈谴责联合国工作人员在拉法遇袭】当地时间5月13日，联合国秘书长古特雷斯通过发言人办公室发表声明称，联合国安全和安保部工作人员当天上午前往拉法一家医院时，其车辆遇袭，造成1人死亡、1人受伤。古特雷斯深感悲痛。古特雷斯谴责所有针对联合国人员的袭击，并呼吁进行全面调查。他向遇难工作人员的家人表示哀悼。古特雷斯在声明中重申，呼吁立即实现人道主义停火并释放所有被扣押人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4111959.d.html</link>
-            <guid>3616265</guid>
-            <pubDate>Mon, 13 May 2024 16:40:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI算力竞争加剧 散热技术向液冷革新已成趋势】 据证券日报，AI产业持续迭代更新，对算力设备和承载算力的数据中心均提出了更高的要求，在此背景下，液冷需求显著提升，液冷产业也受到越来越多的关注。分析人士认为，全球热管理市场规模增速显著，散热技术向液冷革新已成趋势，算力需求增长促使AI芯片厂商布局液冷方案，未来液冷技术有望进一步渗透到智算中心、数据中心等诸多领域，液冷产业规模将持续扩大。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1896430.d.html</link>
-            <guid>3616263</guid>
-            <pubDate>Mon, 13 May 2024 16:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国银行CEO：美银在法国巴黎拥有750名员工，这是一个“不错的体验”。预计美国经济增长放缓，但支出仍保持积极态势。]]></title>
-            <guid>3616262</guid>
-            <pubDate>Mon, 13 May 2024 16:36:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称控制哈尔科夫多个定居点 乌称地区作战形势快速变化】过去两年，俄军进攻的主要目标基本在东线；近期，俄军发动新的军事行动，大批俄军装甲部队从北部发动猛攻，目标直指乌克兰第二大城市哈尔科夫。当地时间12日，俄罗斯国防部发布消息称，俄军控制了位于哈尔科夫地区的4个定居点；乌克兰总参谋部13日凌晨称俄军猛攻边境城镇沃尔昌斯克，俄军在战术上获得了成功。乌克兰国家通讯社13日报道称，沃尔昌斯克市军政管理局局长塔马兹称，沃尔昌斯克市周围建造了防御工事，但由于该市距离边境很近，不断遭受俄军炮击，因此建造防御工事并不容易。乌克兰总参谋部13日凌晨在社交媒体发表消息称，哈尔科夫地区的作战形势正在快速变化，目前俄军在战术上获得了成功。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckyk4111185.d.html</link>
-            <guid>3616261</guid>
-            <pubDate>Mon, 13 May 2024 16:35:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta公司探索搭载摄像头的AI辅助耳机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavckxy1896003.d.html</link>
-            <guid>3616259</guid>
-            <pubDate>Mon, 13 May 2024 16:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，德国大众汽车考虑未来数周对Traton SE（8TRA.GR）股票套现。]]></title>
-            <guid>3616257</guid>
-            <pubDate>Mon, 13 May 2024 16:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌总统解除乌对外情报局第一副局长职务】当地时间5月13日，乌克兰总统泽连斯基解除了乌克兰对外情报局第一副局长安德烈·阿列克申科的职务，任命奥列格·卢霍夫斯基为副局长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesi1904591.d.html</link>
-            <guid>3616256</guid>
-            <pubDate>Mon, 13 May 2024 16:20:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度孟买铁制广告牌倒塌事故已致8人死亡】当地时间5月13日，据印度媒体报道，印度孟买当日发生的铁制广告牌倒塌事故死亡人数上升至8人。]]></title>
-            <guid>3616253</guid>
-            <pubDate>Mon, 13 May 2024 16:17:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华发股份拟开展租赁住房资产支持专项计划】华发股份公告称，为进一步盘活存量资产、丰富融资渠道，提高公司资金使用效率，公司拟以拥有的租赁住房作为底层资产，聘请华金证券股份有限公司（简称“华金证券”）作为计划管理人，发起设立“华金-华发租赁住房三号资产支持专项计划”，并通过专项计划发行资产支持证券进行融资。总发行额不超过50亿元，其中发行优先级资产支持证券不超过45亿元，次级资产支持证券不低于5亿元（最终的发行额度将以上海证券交易所审批为准）;融资期限拟定为18年。其中优先级拟定为2×9年或3×6年，每2年或3年设票面利率调整权和投资者退出选择，同时公司有权选择提前终止专项计划;次级拟定为18年，随优先级证券结束而结束。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesi1904144.d.html</link>
-            <guid>3616252</guid>
-            <pubDate>Mon, 13 May 2024 16:17:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AMC院线上涨50%，创2021年以来最大盘中涨幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4238843.d.html</link>
-            <guid>3616251</guid>
-            <pubDate>Mon, 13 May 2024 16:15:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谷歌：2024年6月起，谷歌将限制被暂停账户的部分功能使用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4236737.d.html</link>
-            <guid>3616250</guid>
-            <pubDate>Mon, 13 May 2024 16:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[梅琳达·盖茨表示辞去微软联合创始人比尔·盖茨基金会联合主席职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-14/detail-inavcesn4236073.d.html</link>
-            <guid>3616249</guid>
-            <pubDate>Mon, 13 May 2024 16:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉重新雇佣了上个月被解雇的一些超级充电站员工，特斯拉充电总监Max de Zegher也已回归公司。]]></title>
-            <guid>3616248</guid>
-            <pubDate>Mon, 13 May 2024 16:01:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[诺和诺德：MIM8 Frontier 2临床试验实现共同的主要终点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5123233.d.html</link>
-            <guid>3616247</guid>
-            <pubDate>Mon, 13 May 2024 15:55:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度孟买铁制广告牌倒塌事故已致4人死亡】当地时间5月13日，据印度媒体报道，印度孟买当日发生的铁制广告牌倒塌事故死亡人数上升至4人。（央视新闻）]]></title>
-            <guid>3616246</guid>
-            <pubDate>Mon, 13 May 2024 15:52:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所向包钢股份下发监管工作函】 上交所向包钢股份下发监管工作函，就公司关联交易相关议案被否决明确监管要求。公告显示，公司于5月13日召开2023年年度股东大会决议，关于2023年度关联交易执行情况及2024年度日常关联交易预测的议案审议结果为不通过。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesa2018528.d.html</link>
-            <guid>3616243</guid>
-            <pubDate>Mon, 13 May 2024 15:48:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄总统与玻利维亚总统通话 同意加强各层级接触】 据克里姆林宫当地时间13日发布消息，当天俄罗斯总统普京与玻利维亚总统阿尔塞通电话。两国领导人讨论了进一步发展双边关系问题，重点是实施经贸和能源领域互利合作项目。双方同意加强各层级接触。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5122571.d.html</link>
-            <guid>3616241</guid>
-            <pubDate>Mon, 13 May 2024 15:45:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【匈牙利汉学家：习近平主席访问为匈中关系发展注入新动力】匈牙利国际事务研究院研究员、帕兹马尼·彼得天主教大学中文系主任盖尔盖伊·绍拉特日前在布达佩斯接受新华社记者专访时说，习近平主席访问匈牙利为匈中双边关系发展注入新动力。“这次访问是一个里程碑。”盖尔盖伊·绍拉特说，“匈中关系正走在正确轨道上，为合作开辟了新前景。”习近平主席访问匈牙利期间，两国领导人共同宣布，将中匈关系提升为新时代全天候全面战略伙伴关系。在盖尔盖伊·绍拉特看来，匈中关系驶入“黄金航道”，离不开两国领导人的战略引领、定向把舵。（新华社）]]></title>
-            <guid>3616239</guid>
-            <pubDate>Mon, 13 May 2024 15:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【猩球崛起新世界票房破9000万】据猫眼专业版数据，电影《猩球崛起：新世界》上映4天 ，总票房破9000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4232607.d.html</link>
-            <guid>3616238</guid>
-            <pubDate>Mon, 13 May 2024 15:41:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【维护产业链供应链稳定畅通 24年全球贸易投资促进峰会北京倡议发布】2024年全球贸易投资促进峰会在北京举行，峰会以“互信与合作：变局中的选择”为主题，呼吁各国工商界为维护全球产业链供应链稳定顺畅、促进全球经济循环、增进各国人民福祉作出贡献。在2024年全球贸易投资促进峰会上，中国贸促会代表与会工商界发布了《2024年全球贸易投资促进峰会北京倡议》。《倡议》提出，全球工商界要加快推动世界经济复苏，坚定维护以世贸组织为核心的多边贸易体制，完善全球经济治理。维护产业链供应链稳定畅通，加强国际产业分工协作，推动产业链供应链优化升级。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1898948.d.html</link>
-            <guid>3616235</guid>
-            <pubDate>Mon, 13 May 2024 15:34:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国跑酷队夺得首枚世界杯金牌】当地时间12日，2024年跑酷世界杯（蒙彼利埃站）比赛中，中国选手商春松夺得女子自由式冠军，这是中国跑酷队的首枚世界杯金牌。商春松1996年出生，曾在2016年里约奥运会上获女子体操团体季军。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesa2016640.d.html</link>
-            <guid>3616234</guid>
-            <pubDate>Mon, 13 May 2024 15:33:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部驻港公署：强烈谴责英方滥用国安名义捏造事端】5月13日，外交部驻港公署发表声明，强烈谴责英方罗织罪名，任意逮捕中国公民，污蔑香港特区政府。声明全文如下：
-
-5月13日，英国警方以涉嫌向香港特区情报部门提供协助为借口，宣布起诉包括中国公民在内的三名人员。中方对英方违背国际法原则和国际关系基本准则，罗织罪名，编造所谓案件，对香港特区政府进行无中生有的污蔑抹黑表示强烈不满和坚决反对。
-
-英国《国家安全法》条款定义模糊、执法部门授权宽泛已被世人诟病。英方滥用国安名义，无视基本人权保障，任意逮捕羁押，不仅违背法治精神，更是赤裸裸的政治操弄，其干预香港事务、包庇勾连反中乱港分子的险恶用心昭然若揭。
-
-我们强烈敦促英方切实保障相关人员合法权益，立即停止打着国安旗号炮制案件、制造事端、亵渎法治精神的卑劣行径。我们正告英方，立即悬崖勒马、纠正错误，停止对中国公民采取任何有罪推定的恶意诋毁，停止干预香港事务和中国内政，否则必将遭到中方坚决有力反击！（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4231415.d.html</link>
-            <guid>3616231</guid>
-            <pubDate>Mon, 13 May 2024 15:32:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅同韩国外长赵兑烈举行会谈】中共中央政治局委员、外交部长王毅同韩国外长赵兑烈在北京举行会谈，王毅指出，中韩之间没有根本利害冲突，双方要相互理解尊重，加强沟通交往，消除误解，增进互信。希望韩方恪守一个中国原则，妥善慎重处理涉台问题，夯实两国关系的政治基础。中韩经贸合作规模大，互补性强，去年贸易额突破3100亿美元。双方应深化互利合作，在彼此发展进程中做可靠和长期伙伴，共同反对贸易保护主义，维护国际自由贸易体系，保障产供链稳定畅通。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesa2015730.d.html</link>
-            <guid>3616228</guid>
-            <pubDate>Mon, 13 May 2024 15:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲投资银行行长卡尔维诺：欧洲投资银行准备在支持欧洲防务方面发挥作用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5121175.d.html</link>
-            <guid>3616226</guid>
-            <pubDate>Mon, 13 May 2024 15:24:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国能源信息署（EIA）表示，美国二叠纪盆地石油产量预计将在6月份上升至自2023年12月以来的最高水平。美国主要页岩油产区的石油产量将在6月份增至2023年12月以来的最高水平。]]></title>
-            <guid>3616225</guid>
-            <pubDate>Mon, 13 May 2024 15:24:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎方称以军向黎南部村镇投掷燃烧弹】据黎巴嫩国家通讯社报道，黎南部纳库拉、拉布内赫和阿尔玛沙阿卜当天遭以军军机空袭，以军在袭击中投掷了多枚燃烧弹。以色列方面对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1897980.d.html</link>
-            <guid>3616220</guid>
-            <pubDate>Mon, 13 May 2024 15:21:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【哥伦比亚总统呼吁国际刑事法院对以总理发逮捕令，内塔尼亚胡激烈回击】 综合《以色列时报》和法新社等外媒报道，在哥伦比亚宣布与以色列断绝外交关系后，以总理内塔尼亚胡与哥总统佩特罗最近几天在社交平台发帖相互抨击。 当地时间5月10日，佩特罗呼吁国际刑事法院对内塔尼亚胡发出逮捕令，理由是以色列领导人在实施“种族灭绝”。他在社交平台X上发帖谈及巴以冲突时称，“内塔尼亚胡不会停止搞种族灭绝。这意味着国际刑事法院要发出国际逮捕令。”他补充说，联合国安理会“必须开始考虑在加沙地带建立一支维和部队”。 内塔尼亚胡11日在X平台上发帖称，“以色列不会接受一个支持哈马斯的反犹太主义者的说教”，他还指控巴勒斯坦伊斯兰抵抗运动（哈马斯）是一个“种族灭绝恐怖组织”，并在帖文中写道：“佩特罗总统真可耻！”针对这条帖文，哥伦比亚外交部11日发表声明，批评内塔尼亚胡对该国总统佩特罗的虚假指控，要求内塔尼亚胡尊重佩特罗总统，并且呼吁加沙地带立即停火。声明强调了佩特罗对多边主义的支持，以及他对尊重国际人道主义法的承诺。与此同时，哥伦比亚强烈谴责哈马斯等组织的暴力行为，并要求释放人质。佩特罗12日在X平台上发帖回复内塔尼亚胡称：“向数千名无辜的儿童、妇女和老人投掷炸弹并不能让你成为英雄。你仍与在欧洲杀害数百万犹太人的那些人被归为一类……无论宗教信仰如何，种族灭绝就是种族灭绝。至少要尝试阻止大屠杀。”（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4229648.d.html</link>
-            <guid>3616217</guid>
-            <pubDate>Mon, 13 May 2024 15:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2024全球繁荣峰会在港启动】香港首个民间聚焦讨论地缘政治议题的国际论坛——2024全球繁荣峰会13日晚正式启动。峰会由“香港全球繁荣峰会”、汇贤智库政策研究中心和上海国际问题研究院共同举办，活动将持续至15日。香港特区行政长官李家超在13日举行的欢迎晚宴上致辞表示，香港相信合作。合作，而不是去全球化，是全球经济乃至全球发展的唯一现实出路。“我们会继续竭尽所能，促进对话、协作和共同繁荣。”（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1897551.d.html</link>
-            <guid>3616214</guid>
-            <pubDate>Mon, 13 May 2024 15:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[纳斯达克考虑出售投资组合管理软件与服务Solovis。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1897481.d.html</link>
-            <guid>3616213</guid>
-            <pubDate>Mon, 13 May 2024 15:16:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英称俄将老式巡航导弹变为精确武器】英国防部日前称，俄军改造了国产Kh-101巡航导弹，使之可以搭载两枚独立的弹头 。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4228853.d.html</link>
-            <guid>3616212</guid>
-            <pubDate>Mon, 13 May 2024 15:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【温控小设备撬动千亿级市场：广州地铁40个车站节能率超40%】目前，国内重点领域和行业节能降碳专项行动正在推进。近期，广州地铁进行通风空调设备更新，通过温控设备实现车站环境参数的精准控制。目前，广州地铁40个车站已完成改造，节能率超过40%。初步测算，全国已运营地铁线路约1万公里，通风空调设备更新潜在市场规模达到700亿元左右。业内人士表示，温控小设备可撬动千亿级大市场。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5120314.d.html</link>
-            <guid>3616211</guid>
-            <pubDate>Mon, 13 May 2024 15:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【最新研究显示贝多芬生前铅中毒】德国著名作曲家贝多芬生前饱受疾病困扰。一项新研究显示，贝多芬头发中的铅含量很高，表明这位作曲家生前铅中毒。这可能是他一生中饱受耳聋等病痛折磨的原因。美国哈佛大学医学院等机构的研究人员日前在美国《临床化学》杂志上发表的一篇文章中指出，两绺独立且经鉴定确认的贝多芬头发中的铅含量都很高。“贝尔曼样本”的铅含量是参考区间上限的64倍，“哈尔姆-泰尔样本”则高达95倍。最新研究结果还显示，在这位作曲家去世近200年后，他的头发中仍残留着砷和汞。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesn4228515.d.html</link>
-            <guid>3616210</guid>
-            <pubDate>Mon, 13 May 2024 15:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安表示，哈马斯是保护土地的抵抗组织；如果希腊总理称哈马斯为“恐怖组织”，他会感到不悦。土耳其医院治疗了1000多名哈马斯成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1897091.d.html</link>
-            <guid>3616206</guid>
-            <pubDate>Mon, 13 May 2024 15:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【“在华外资及港澳台企业ESG先锋20”正式发布】5月13日，中央广播电视总台财经节目中心《在华外企ESG行动报告》正式对外发布。《在华外企ESG行动报告》通过系统评价在华外资及港澳台企业ESG表现，遴选出“在华外资及港澳台企业ESG先锋20”企业，并在活动现场进行发布，中国三星、中国松下、现代汽车集团（中国）、台达、SK中国、中国浦项、Apple、鸿海、广汽本田、中国LG等20家企业入选。同时，《报告》围绕在华外企如何进一步提升ESG工作水平提出四点建议。第一，加强实施中国本土化战略，深入开展中国特色ESG实践；第二，加强与中国本土企业的交流合作，构建合作共赢的ESG生态体系；第三，提升在华ESG管理效能，搭建完善ESG治理顶层设计；第四，提高在华ESG信息披露率，积极面向本土利益相关方披露履责信息。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesi1896993.d.html</link>
-            <guid>3616205</guid>
-            <pubDate>Mon, 13 May 2024 15:11:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[希腊总理：希腊和土耳其需要在未来继续并加强双边联系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-13/detail-inavcesf5119615.d.html</link>
-            <guid>3616204</guid>
-            <pubDate>Mon, 13 May 2024 15:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
