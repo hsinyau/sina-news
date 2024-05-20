@@ -4,11 +4,282 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 20 May 2024 15:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 18:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美联储梅斯特：我不考虑潜在的降息时间问题】美联储梅斯特表示，货币政策具有限制性；通胀回落进展曾在前三个月停滞不前；现在判断通胀走向为时尚早；劳动力市场再平衡将对通胀施加下行压力；第一季度经济强于我的预期；通胀风险仍偏向上行；我不考虑潜在的降息时间问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhve7458875.d.html</link>
+            <guid>3625631</guid>
+            <pubDate>Mon, 20 May 2024 18:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗副总统公布莱希葬礼安排】当地时间5月20日，伊朗副总统曼苏里表示，将于当地时间21日上午在东阿塞拜疆省大不里士举行莱希遗体告别仪式。21日下午将于伊朗库姆省库姆市举行莱希遗体告别仪式。22日，将在德黑兰举行相关纪念仪式，随后莱希的遗体将被转移至马什哈德，并于23日在马什哈德举行葬礼。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4694273.d.html</link>
+            <guid>3625630</guid>
+            <pubDate>Mon, 20 May 2024 18:03:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OpenAI从机器人聊天工具ChatGPT删除Johansson Soundalike Sky的语音功能。用户们认为，该语音听起来太像女演员Scarlett Johansson的嗓音。]]></title>
+            <guid>3625628</guid>
+            <pubDate>Mon, 20 May 2024 18:01:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一种牛奶凝胶可快速缓解酒精中毒】根据新一期《自然·纳米技术》发表的一篇论文，包括瑞士、西班牙和中国科学家在内的联合小组通过动物实验发现，一种口服的、基于牛奶蛋白的水凝胶或可作为急性酒精中毒的有效解毒剂。为了催化酒精氧化，研究人员生产出纳米级的单位点铁锚定β-乳球蛋白原纤维，以模拟天然辣根过氧化物酶的配位结构，这种酶能分解体内的酒精。他们在小鼠中测试了这种凝胶，发现它能保持稳定、耐受消化环境并持续降低动物血液中的酒精水平，同时避免额外积累有毒的乙醛。 (科技日报)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6032662.d.html</link>
+            <guid>3625627</guid>
+            <pubDate>Mon, 20 May 2024 17:58:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国实验室举报葛兰素史克，在诉讼中指控该公司对美国隐藏药品Zantac存在的风险】葛兰素史克面临与来自实验室举报相关的官司，相关实验室爆料称，Zantac（善胃得，为组织胺H2-受体拮抗剂）存在风险。Wisner和Moore将作为Valisure的代理律师，在案件中与葛兰素史克对立。独立实验室Valisure指控称，在美国为Zantac买单期间，葛兰素史克隐藏了该药品存在的诸多风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4693083.d.html</link>
+            <guid>3625626</guid>
+            <pubDate>Mon, 20 May 2024 17:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国务院对伊朗总统莱希遇难表示哀悼】美国国务院发言人马修·米勒发表声明称，美国对伊朗总统莱希、外交部长阿卜杜拉希扬以及其他随行人员在直升机事故中罹难表示哀悼。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4692162.d.html</link>
+            <guid>3625624</guid>
+            <pubDate>Mon, 20 May 2024 17:55:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌国家电力公司宣布21日全境限电】当地时间5月20日，乌克兰国家电力公司宣布，21日0时起将对乌克兰全境工业和家庭消费实行计划限电。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4691762.d.html</link>
+            <guid>3625623</guid>
+            <pubDate>Mon, 20 May 2024 17:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通股价延续跌势，下跌3%，创盘中低点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4691047.d.html</link>
+            <guid>3625620</guid>
+            <pubDate>Mon, 20 May 2024 17:48:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁中南部地区发生4.6级地震】根据秘鲁地球物理研究所国家地震中心报告，当地时间5月20日12时23分，该国中南部阿亚库乔大区发生4.6级地震，震源深度95公里。目前暂无人员伤亡及财产损失报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6030382.d.html</link>
+            <guid>3625619</guid>
+            <pubDate>Mon, 20 May 2024 17:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯临时恢复汽油出口】俄罗斯政府当地时间5月20日发布公告称，在2024年6月30日之前允许汽油生产厂家恢复出口汽油。同时，7月1日至8月31日期间，将继续限制汽油出口。政府公告称，临时恢复汽油出口是考虑到俄罗斯国内车用燃油市场的饱和，防止某些炼油厂因车用汽油库存过多而减少炼油量，以及避免港口积压过多油料。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6030093.d.html</link>
+            <guid>3625618</guid>
+            <pubDate>Mon, 20 May 2024 17:46:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“伊斯兰国呼罗珊分支”称对阿富汗巴米扬省枪击事件负责】当地时间20日，极端组织“伊斯兰国呼罗珊分支”宣称对17日阿富汗巴米扬省发生的枪击事件负责。当地时间17日晚，阿富汗巴米扬省首府巴米扬市一个市场发生枪击事件，造成6人死亡、8人受伤。警方已逮捕7名嫌疑人。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6029716.d.html</link>
+            <guid>3625617</guid>
+            <pubDate>Mon, 20 May 2024 17:43:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【斯洛伐克总理伤情趋于稳定 已可以进行交流】当地时间5月20日，负责治疗斯洛伐克总理菲佐的罗斯福大学医院在社交媒体发表声明称，当天的会诊结果表明菲佐的伤情已经稳定，可以进行交流，他的炎症也在慢慢消退。斯洛伐克副总理兼国防部长卡利尼亚克向斯总统恰普托娃说明了菲佐目前的健康状况。恰普托娃表示，很高兴看到总理的健康状况正在好转，并衷心祝愿他早日康复，希望在方便的时间去医院探望总理。菲佐15日在斯洛伐克中部特伦钦地区遭枪击受伤，随后被直升机送往罗斯福大学医院，并先后接受了两次手术。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6029311.d.html</link>
+            <guid>3625616</guid>
+            <pubDate>Mon, 20 May 2024 17:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔科技在年度会议上围绕优化AI任务发布个人电脑新品，采用高通AI芯片。 电脑将可以一键召唤微软的AI Copilot服务。]]></title>
+            <guid>3625615</guid>
+            <pubDate>Mon, 20 May 2024 17:40:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：土耳其总统埃尔多安宣布就伊朗总统莱西遇难哀悼一天。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6028554.d.html</link>
+            <guid>3625614</guid>
+            <pubDate>Mon, 20 May 2024 17:35:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国宣布延续针对伊拉克的国家紧急状态一年】当地时间5月20日，美国总统拜登宣布就伊拉克问题延续国家紧急状态。声明称，2003年5月22日，美国签署针对伊拉克的国家紧急状态。拜登决定在2024年5月22日之后将其再延续一年。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4684803.d.html</link>
+            <guid>3625606</guid>
+            <pubDate>Mon, 20 May 2024 17:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软称OpenAI GPT-4o将“很快”应用于Copilot。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6023918.d.html</link>
+            <guid>3625605</guid>
+            <pubDate>Mon, 20 May 2024 17:10:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【力拓就澳洲两家氧化铝工厂的发货问题宣布不可抗力】力拓集团就澳大利亚Yarwun冶炼厂和昆士兰氧化铝有限公司这两家冶炼厂的氧化铝发货宣布不可抗力因素，称用于发电的天然气库存/供应短缺。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvh4683439.d.html</link>
+            <guid>3625602</guid>
+            <pubDate>Mon, 20 May 2024 17:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[微软宣布推出新类别的人工智能专用计算机，微软表示新款人工智能PC比MACBOOK AIR M3速度提升58%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6022773.d.html</link>
+            <guid>3625601</guid>
+            <pubDate>Mon, 20 May 2024 17:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装冲突双方在多地继续激烈交火】苏丹武装冲突双方当地时间5月20日在多地继续激烈交火。苏丹快速支援部队发表声明称，当天上午，苏丹武装部队继续对苏丹首都圈的喀土穆炼油厂展开空袭，并轰炸了炼油厂内的仓库。据悉，喀土穆炼油厂是苏丹最大的炼油厂，苏丹武装冲突爆发后被快速支援部队控制。快速支援部队19日曾表示，苏丹武装部队空袭轰炸了喀土穆炼油厂内的输油管道。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6022764.d.html</link>
+            <guid>3625600</guid>
+            <pubDate>Mon, 20 May 2024 17:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯政府：暂停汽油出口禁令至6月30日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhuz6022635.d.html</link>
+            <guid>3625599</guid>
+            <pubDate>Mon, 20 May 2024 17:01:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯政府告知俄罗斯天然气工业股份公司2023年不支付股息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxhvc0674412.d.html</link>
+            <guid>3625596</guid>
+            <pubDate>Mon, 20 May 2024 16:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美以高级官员讨论加沙军事行动及安全防务合作等问题】当地时间20日，以色列国防部长加兰特在位于特拉维夫的以国防部总部会见了到访的美国总统国家安全事务助理沙利文一行。双方就目前以军军事行动进展、促使以方遭扣押人员获释的努力、针对加沙的人道主义计划、以色列与黎巴嫩真主党的冲突以及美以安全防务合作等问题进行了讨论。加兰特称，目前以色列面对黎巴嫩真主党的袭击仍难以达成外交解决方案，可能会导致局势进一步升级。同一天，沙利文还分别会见了以色列战时内阁成员甘茨和战时内阁观察员加艾森科特等以方高级官员。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapc6151604.d.html</link>
+            <guid>3625595</guid>
+            <pubDate>Mon, 20 May 2024 16:50:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：俄罗斯总统普京召开能源部门会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxaph7579946.d.html</link>
+            <guid>3625592</guid>
+            <pubDate>Mon, 20 May 2024 16:35:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥瓦哈卡州发生5.1级地震】据墨西哥国家地震监测局最新信息，当地时间5月20日凌晨1时17分17秒，墨西哥瓦哈卡州的克鲁塞西塔市东南方向约89公里处发生5.1级地震，震源深度约24.5公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失的报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapk4807122.d.html</link>
+            <guid>3625588</guid>
+            <pubDate>Mon, 20 May 2024 16:27:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【王毅会见吉尔吉斯斯坦外长库鲁巴耶夫】当地时间2024年5月20日，中共中央政治局委员、外交部长王毅在阿斯塔纳出席上海合作组织外长会议期间会见吉尔吉斯斯坦外长库鲁巴耶夫。王毅表示、面对百年变局，中吉应相互支持，做彼此发展振兴的坚强后盾。中方支持吉方维护国家独立，走符合本国国情的发展道路。赞赏吉方恪守一个中国原则，在中国台湾地区选举后，第一时间发声支持中方立场。中方愿同吉方扩大经贸合作，拓展互联互通，密切人文交流，以实际行动构建中吉命运共同体。（外交部官网）]]></title>
+            <guid>3625587</guid>
+            <pubDate>Mon, 20 May 2024 16:27:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称约95万人撤离拉法】以色列军方消息人士当地时间20日称，随着军队在拉法地区持续的军事行动，已经有大约95万巴勒斯坦人从拉法撤离。目前拉法仍有大约30至40万民众，主要集中在拉法市中心和拉法以西的沿海地区。以军认为，由于以军此次没有在民众撤离的途中设立军事检查站，可能会有部分武装人员和民众一起撤离，但仍有很多武装人员留在拉法与以军作战。截至目前，以军军事行动的范围仍限于拉法市中心以东地区，同时控制着与埃及接壤的拉法口岸加沙一则，并沿着分隔埃及和加沙的“费城走廊”持续展开军事行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxaph7578591.d.html</link>
+            <guid>3625586</guid>
+            <pubDate>Mon, 20 May 2024 16:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京解除亚历山德拉·列维茨卡娅俄总统顾问职务】当地时间5月20日，俄罗斯总统普京签署命令，解除亚历山德拉·列维茨卡娅的俄总统顾问职务。列维茨卡娅自2013年起任俄总统顾问，此前她曾在俄联邦政府办公厅及经济发展部等任职。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapc6145204.d.html</link>
+            <guid>3625584</guid>
+            <pubDate>Mon, 20 May 2024 16:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以总理称国际刑事法院检察官逮捕申请不会阻止以色列继续行动】当地时间20日，国际刑事法院检察官就以色列总理内塔尼亚胡和国防部长加兰特涉嫌战争罪申请逮捕令。当天，内塔尼亚胡在其领导的利库德集团会议上表示，该决定是“可耻的”，并称这一决定不会阻止其个人和以色列继续行动。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapk4805215.d.html</link>
+            <guid>3625583</guid>
+            <pubDate>Mon, 20 May 2024 16:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：乌克兰将于周二对工业和家庭实施电力配给。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapk4803811.d.html</link>
+            <guid>3625579</guid>
+            <pubDate>Mon, 20 May 2024 16:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【沙特未来航空论坛开幕 聚焦航空业未来发展】当地时间20日，为期3天的沙特未来航空论坛在沙特首都利雅得开幕。30多位各国政府部长、77位民航总局和国际航空公司负责人以及来自120多个国家和地区的5000多名航空领域专家和从业者参加此次论坛。沙特交通和物流服务大臣萨利赫在开幕致辞中表示，此次论坛将重点关注航空业未来发展的关键问题，包括可持续发展，技术创新，扩大商业机会等。国际民用航空组织理事会主席萨尔瓦多·夏基塔诺表示，航空业在支持经济增长和实现可持续发展方面具有重要作用。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxaph7576618.d.html</link>
+            <guid>3625578</guid>
+            <pubDate>Mon, 20 May 2024 16:11:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁一面包车坠河 致8死7伤】当地时间5月19日夜间，秘鲁安卡什大区一高速公路上发生一起交通事故，一辆从安卡什大区山区开往利马大区瓦乔市的面包车坠河，造成8人死亡、7人受伤。救援工作一直持续到20日凌晨。伤者已被送往当地医院治疗。目前，当局已经展开相关调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapk4802151.d.html</link>
+            <guid>3625576</guid>
+            <pubDate>Mon, 20 May 2024 16:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【GameStop连续第四个交易日下跌 市值蒸发88亿美元】GameStop股价周一再度跌超10%，势将连续第四个交易日下跌，Roaring Kitty回归社交媒体以来该股增加的96亿美元市值即将被抹去，该股在四个交易日里下跌了约59%，市值蒸发88亿美元。此前网名Roaring Kitty的Keith Gill回归社交媒体引发了该股近期的一波涨势，推动股价在两个交易日内上涨近180%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-21/detail-inavxapf0798822.d.html</link>
+            <guid>3625575</guid>
+            <pubDate>Mon, 20 May 2024 16:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特斯拉跌幅扩大至2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0796731.d.html</link>
+            <guid>3625574</guid>
+            <pubDate>Mon, 20 May 2024 15:55:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通短线下挫，跌幅1.5%，此前公司CEO戴蒙称不会在当前价格下大量回购股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxaph7573452.d.html</link>
+            <guid>3625572</guid>
+            <pubDate>Mon, 20 May 2024 15:50:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗官方通讯社称莱希直升机事故系因“技术故障”】伊朗总统莱希经确认罹难后，伊朗官方媒体伊斯兰共和国通讯社（IRNA，伊通社）英文版20日在一篇回顾报道中将直升机事故归咎于“技术故障”（technical failure）。美国《纽约时报》称，这似乎是伊朗媒体方面首次指出事故原因。报道配文写道，莱希2021年在伊朗第13届大选中当选，成为该国第八任总统。“2024年5月19日，莱希在从霍达阿法林大坝（Khoda Afarin Dam）返回大不里士炼油厂（Tabriz Oil Refinery）途中，因技术故障导致的直升机坠毁而殉难。”（观察者网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0796342.d.html</link>
+            <guid>3625571</guid>
+            <pubDate>Mon, 20 May 2024 15:49:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：著名的华尔街交易员伊凡·博斯基(Ivan Boesky)去世，享年87岁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0796141.d.html</link>
+            <guid>3625570</guid>
+            <pubDate>Mon, 20 May 2024 15:48:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[摩根大通CEO戴蒙：“现阶段”不会大规模回购股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapk4797294.d.html</link>
+            <guid>3625569</guid>
+            <pubDate>Mon, 20 May 2024 15:48:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[明晟公司MSCI北欧国家指数上涨0.6%，报405.70点。成分股安百拓集团（Epiroc AB，瑞典上市的建筑和采矿机械研发制造公司）涨6.6%，领跑其他成分股。]]></title>
+            <guid>3625568</guid>
+            <pubDate>Mon, 20 May 2024 15:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外交部副部长马朝旭同伊朗代理外长巴盖里通电话】2024年5月20日晚，外交部副部长马朝旭同伊朗代理外长巴盖里通电话。马朝旭表示，莱希总统不幸遇难，中方深感震惊和悲痛。习近平主席已向穆赫贝尔代理总统致唁电表示哀悼，强调中国政府和人民十分珍视中伊传统友谊，相信在双方共同努力下，中伊全面战略伙伴关系一定会不断巩固和发展。王毅外长也就阿卜杜拉希扬外长遇难向你致唁电。在这个艰难时刻，中国人民同伊朗人民坚定站在一起。巴盖里表示，习近平主席就莱希总统遇难发来唁电，伊朗领导人向习近平主席致以衷心谢意和崇高敬意，衷心感谢中方在这一艰难时刻给予伊方宝贵支持。伊方始终高度重视伊中关系发展，十分珍视伊中传统友谊，相信在两国共同努力下，伊中全面战略伙伴关系将不断取得新的发展。（外交部）]]></title>
+            <guid>3625563</guid>
+            <pubDate>Mon, 20 May 2024 15:30:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【普京任命奥列格·萨韦利耶夫为俄国防部副部长】当地时间20日，俄罗斯总统普京签署命令，免除了尤里·萨多文科的国防部副部长职务，任命奥列格·萨韦利耶夫为俄国防部副部长兼国防部办公厅主任。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0794039.d.html</link>
+            <guid>3625561</guid>
+            <pubDate>Mon, 20 May 2024 15:25:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊朗组建高级别调查组调查事故原因】当地时间20日凌晨，伊朗武装部队总参谋长巴盖里组建了一个由伊朗武装力量副协调员阿里·阿卜杜拉希负责的高级别调查组，其中包括伊朗技术专家。该调查组已经抵达东阿塞拜疆省直升机事故现场，正在对事故原因展开调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapc6130296.d.html</link>
+            <guid>3625560</guid>
+            <pubDate>Mon, 20 May 2024 15:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚媒体：叙中部两地遭袭至少4人死亡】据叙利亚媒体20日报道，叙中部霍姆斯省两处地点当日遭袭击，造成至少4人死亡、4人受伤。当地媒体未报道上述袭击的更多细节。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0793001.d.html</link>
+            <guid>3625554</guid>
+            <pubDate>Mon, 20 May 2024 15:16:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【捷克央行行长：最新数据不支持更快地进行降息】捷克央行行长表示，捷克4月通胀加速超出预期；最新数据不支持更快地进行降息；现在判断6月是否需要放缓降息为时过早。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapc6128521.d.html</link>
+            <guid>3625553</guid>
+            <pubDate>Mon, 20 May 2024 15:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际刑事法院检察官申请逮捕以色列和哈马斯领导人】国际刑事法院检察官卡里姆·汗20日发表声明说，他正在向国际刑事法院申请对包括以色列总理内塔尼亚胡在内的两名以政府高官和三名巴勒斯坦伊斯兰抵抗运动（哈马斯）领导人的逮捕令。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapf0792536.d.html</link>
+            <guid>3625552</guid>
+            <pubDate>Mon, 20 May 2024 15:11:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据俄罗斯央行：俄罗斯至4月末黄金储备价值1759亿美元，3月末为1660亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapk4787722.d.html</link>
+            <guid>3625551</guid>
+            <pubDate>Mon, 20 May 2024 15:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，俄罗斯伏尔加格勒炼油厂上周重启了被无人机损坏的CDU-1装置。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapc6127180.d.html</link>
+            <guid>3625550</guid>
+            <pubDate>Mon, 20 May 2024 15:09:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【恺英网络：子公司运营的《百工灵》取得版号】5月20日，国家新闻出版署官方公示了2024年5月份国产网络游戏审批信息，共有96款游戏获批。恺英网络旗下上海恺英网络科技有限公司、上海恺英软件技术有限公司运营的《百工灵》顺利取得版号。《百工灵》是恺英网络旗下全资子公司杭州恺英网络科技有限公司自主研发的以中华传统手工艺为主题的动漫游戏IP。]]></title>
             <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavxapk4785993.d.html</link>
@@ -78,257 +349,6 @@
             <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6248539.d.html</link>
             <guid>3625530</guid>
             <pubDate>Mon, 20 May 2024 14:32:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外媒：伊朗总统莱希在直升机事故中遇难，印度内政部宣布21日为全国哀悼日】综合伊朗迈赫尔通讯社等多家媒体报道，伊朗总统莱希乘坐的直升机19日发生事故，莱希及其随行人员在事故中遇难。综合印度新德里电视台、《经济时报》等多家媒体20日报道，印度内政部宣布5月21日为全国哀悼日，悼念莱希。 新德里电视台报道称，根据印度内政部发布的消息，5月21日，印度将禁止举行任何官方娱乐活动，印度全国所有经常悬挂国旗的建筑物将降半旗。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6247458.d.html</link>
-            <guid>3625526</guid>
-            <pubDate>Mon, 20 May 2024 14:29:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【正元智慧：福建省近40所高校保卫负责人到公司考察交流】 据正元智慧消息，5月20日，福建省近40所高校保卫处的负责人到正元智慧参观考察、交流学习。正元智慧集团副总裁李战鹏详细介绍了公司的发展概况、业务矩阵、解决方案、典型案例以及转型升级策略，重点讲解了公司在高校智慧校园、K12基础教育、智慧园区、政府机关通刷、电力行业、智慧军营、智慧安防、智慧养老及运营服务等多个领域的业务布局和技术实力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0917910.d.html</link>
-            <guid>3625524</guid>
-            <pubDate>Mon, 20 May 2024 14:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国秘书长对伊朗总统及外长遇难表示哀悼】当地时间5月20日，联合国秘书长古特雷斯发表声明，对伊朗总统莱希、外交部长阿卜杜拉希扬及其同事于5月19日在直升机事故中遇难表示哀悼。古特雷斯还向遇难者家属以及伊朗伊斯兰共和国政府和人民表示诚挚哀悼。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0917204.d.html</link>
-            <guid>3625519</guid>
-            <pubDate>Mon, 20 May 2024 14:20:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【高德将打造首个时空智能城市】 5月20日，在AI Day技术开放日活动上，高德地图旗下高德云图宣布将逐步开放云睿时空融合大模型和云境AI三维重建平台，打造时空智能体应用生态，助力智慧城市向时空智能城市进化。高德地图董事长刘振飞表示，技术和开放是高德迎接AI时代的坚定之选，高德将助力构筑AI时代的时空智能新基建。（全天候科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7693975.d.html</link>
-            <guid>3625518</guid>
-            <pubDate>Mon, 20 May 2024 14:18:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【5家上市公司股票获重要股东增持，红棉股份增持金额最高】Wind数据显示，按变动截止日期为基准，5月20日，3家上市公司股票遭重要股东减持，共同药业遭重要股东减持164.57万股，减持金额为3401.41万元。5股获重要股东增持，红棉股份获重要股东增持862.47万股，增持金额为2733.32万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6244200.d.html</link>
-            <guid>3625517</guid>
-            <pubDate>Mon, 20 May 2024 14:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：津巴布韦将启动黄金追踪系统以遏制走私。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0916664.d.html</link>
-            <guid>3625516</guid>
-            <pubDate>Mon, 20 May 2024 14:16:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【开开实业：拟向控股股东定增募资不超2.06亿元 用于补充流动资金】 开开实业(600272)5月20日晚间公告，公司拟向特定对象发行募集资金总额不超过2.06亿元，扣除发行费用后的募集资金净额拟用于补充流动资金。发行对象为公司控股股东开开集团，开开集团拟以现金认购本次发行的全部股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4904370.d.html</link>
-            <guid>3625515</guid>
-            <pubDate>Mon, 20 May 2024 14:16:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【恒大汽车：5月17日起短暂停牌，有待刊发涉内幕消息的公告】恒大汽车在港交所公告，本公司股份由2024年5月17日上午十时五十六分起于香港联合交易所有限公司短暂停止买卖，有待公司刊发有关内幕消息的公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7693402.d.html</link>
-            <guid>3625513</guid>
-            <pubDate>Mon, 20 May 2024 14:14:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列时报：以色列国防军估计有95万人已经撤离拉法，哈马斯仍有能力向以色列中部发射火箭弹。]]></title>
-            <guid>3625511</guid>
-            <pubDate>Mon, 20 May 2024 14:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议院银行委员会主席布朗呼吁联邦存款保险公司更换领导层。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0916019.d.html</link>
-            <guid>3625510</guid>
-            <pubDate>Mon, 20 May 2024 14:12:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁通信B：公司股票可能被终止上市】宁通信B公告，公司2024年5月20日股票收盘价为1.46港元/股，按深证综指采用的上周最后一个交易日2024年5月17日外管局对外公布的汇率中间价100港元兑人民币91.057元计算，公司股票2024年5月20日收盘市值为人民币2.86亿元，首次低于人民币3亿元。根据《深圳证券交易所股票上市规则》（2024年修订）第9.2.1条第一款第（七）项的规定，在深圳证券交易所仅发行B股股票的公司，连续二十个交易日在深圳证券交易所的股票收盘市值均低于3亿元，将被终止股票上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4902240.d.html</link>
-            <guid>3625509</guid>
-            <pubDate>Mon, 20 May 2024 14:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[鲍比·贾恩（Bobby Jain）的新对冲基金计划将募集资产的15%-20%配置大宗商品。]]></title>
-            <guid>3625507</guid>
-            <pubDate>Mon, 20 May 2024 14:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[全球最大另类资产管理公司之一的Millennium Management前高管鲍比·贾恩（Bobby Jain）的新对冲基金计划大举进军大宗商品。]]></title>
-            <guid>3625506</guid>
-            <pubDate>Mon, 20 May 2024 14:08:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【普路通：拟定增募资不超5.49亿元 用于补充流动资金及偿还银行贷款】 普路通(002769)5月20日晚间公告，公司拟向特定对象发行股票募集资金总额不超过5.49亿元，扣除发行费用后拟全部用于补充流动资金及偿还银行贷款，发行对象为公司控股股东广东省绿色投资运营有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6241014.d.html</link>
-            <guid>3625505</guid>
-            <pubDate>Mon, 20 May 2024 14:08:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以媒：伊朗总统莱希在直升机事故中遇难，以色列前外长称“我们不会流一滴眼泪”】综合伊朗迈赫尔通讯社等多家媒体报道，伊朗总统莱希乘坐的直升机19日发生事故，莱希本人和随行人员在事故中遇难。据《以色列时报》20日报道，对于这起事故，以色列前外长、极右翼政党“以色列是我们的家园”领导人利伯曼对媒体表示，“我们不会流一滴眼泪”。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6238658.d.html</link>
-            <guid>3625502</guid>
-            <pubDate>Mon, 20 May 2024 14:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【理想CFO：相信毛利压力将逐渐缓解 Q2将成今年最艰难季度】在Q1业绩会上被问及今年20%毛利的目标时，理想汽车CFO李铁表示，随着产品销量的回暖，相信毛利率压力将逐渐缓解。李铁表示，随着理想L6的推出，公司产品结构也在不断优化，这同样会对毛利率带来影响。另外，理想还通过一系列决策提高了公司的组织效率，此举同样有助于毛利恢复。李铁称，考虑到三月份我们经历的严峻挑战，二季度将成为公司今年经历的最艰难的季度。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0914199.d.html</link>
-            <guid>3625501</guid>
-            <pubDate>Mon, 20 May 2024 14:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据俄罗斯卫星网：国际原子能机构在声明中指出，经公正调查，并未发现乌克兰核电站和扎波罗热核电站有核泄漏。]]></title>
-            <guid>3625499</guid>
-            <pubDate>Mon, 20 May 2024 13:56:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宏川智慧：拟使用2500万元-3500万元回购公司股份】宏川智慧公告，公司拟使用自有资金以集中竞价交易方式回购公司发行的人民币普通股A股部分股票用于减少注册资本，本次回购股份总金额不低于2500.00万元且不超过3500.00万元，回购价格不超过17元/股，对应测算回购股份约147万股至205万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4897369.d.html</link>
-            <guid>3625498</guid>
-            <pubDate>Mon, 20 May 2024 13:54:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雀巢中国回应“南京阿姨”事件】 雀巢中国就“南京阿姨”事件回应：雀巢进入中国市场已37年。感谢消费者几十年如一日对雀巢品牌和产品的信任和喜爱。公司将一如既往地做好品控，为消费者带来优质、营养、健康及可放心使用的产品。 近日南京一家“韩老太甘蔗汁”店主阿姨因冲泡速溶咖啡售卖而在社交网络走红，甚至吸引不少消费者“猎奇”前往门店排队购买。短视频中显示，该阿姨使用3条雀巢速溶咖啡倒进杯子冲泡并塑封，售价10元。根据扬子晚报/紫牛新闻5月19日报道，店主韩阿姨今年已经74岁，卖了30多年甘蔗汁和20多年咖啡。韩阿姨称，以前每天只卖一二十杯咖啡，昨天（5月18日）忙到深夜11点，卖了100多杯，今天（5月19日）预计卖了四五百杯。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4896235.d.html</link>
-            <guid>3625497</guid>
-            <pubDate>Mon, 20 May 2024 13:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：终止对伟星光学首次公开发行股票并在创业板上市审核】深交所公告，因浙江伟星光学股份有限公司、保荐人撤回发行上市申请，根据《深圳证券交易所股票发行上市审核规则（2024年修订）》第六十二条，深交所决定终止其发行上市审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4895273.d.html</link>
-            <guid>3625496</guid>
-            <pubDate>Mon, 20 May 2024 13:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Hims推出减肥药，比诺和诺德低85%】平价医疗保健公司Hims & Hers Health Inc.首发减肥药，每针较诺和诺德Wegovy低85%，较礼来制药也提供大约一五折。Hims美股盘初涨幅扩大至将近19%，礼来涨超1.1%，罗氏ADR涨约0.6%，诺和诺德ADR涨0.3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0912511.d.html</link>
-            <guid>3625493</guid>
-            <pubDate>Mon, 20 May 2024 13:48:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【陆慷已任中联部副部长】据中共中央对外联络部官网“部领导”栏目显示，陆慷已任中联部副部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4894666.d.html</link>
-            <guid>3625492</guid>
-            <pubDate>Mon, 20 May 2024 13:48:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST中润：公司主要银行账户被冻结 触及其他风险警示】*ST中润公告，公司近日发现公司银行账户因多起小额诉讼被山东省济南市中级人民法院冻结，本次被冻结的银行账户有基本户、一般户，对公司的资金运营、经营管理等造成了一定的影响。经慎重判断，公司基于谨慎原则认为，属于主要银行账户被冻结的情形，触及深交所《股票上市规则（2023年8月修订）》第9.8.1条第（六）项的规定，公司股票交易将被叠加实施其他风险警示。本次叠加其他风险警示后，公司股票简称仍为“*ST中润”，公司股票代码仍为“000506”，公司股票交易日涨跌幅限制仍为5%。本次叠加其他风险警示，公司股票不停牌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4894286.d.html</link>
-            <guid>3625491</guid>
-            <pubDate>Mon, 20 May 2024 13:46:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【摩根大通高管Erdoes：新员工都将接受人工智能培训】摩根大通在对每一位新入职的员工进行人工智能培训，让他们做好准备迎接这项被CEO戴蒙比作将带来印刷机和蒸汽机一般影响的技术。“今年每个来这里的人都将接受及时的工程培训，为未来的人工智能做好准备，”摩根大通资产和财富管理主管Mary Erdoes周一在公司的投资者日上表示。Erdoes表示，人工智能在两个方面为其部门提供帮助：节省时间和增加收入。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6233271.d.html</link>
-            <guid>3625490</guid>
-            <pubDate>Mon, 20 May 2024 13:44:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【数字货币资产管理公司灰度首席执行官辞职】 5月20日消息，数字货币资产管理公司灰度（Grayscale Investments）首席执行官Michael Sonnenshein辞职，Peter Mintzberg将于8月成为该公司的首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4893363.d.html</link>
-            <guid>3625489</guid>
-            <pubDate>Mon, 20 May 2024 13:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞安航空CEO：波音正在采取措施逐步提高产量】 据界面新闻援引彭博消息，瑞安航空CEO迈克尔·奥利里在采访中表示，波音正在采取措施逐步提高产量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0910237.d.html</link>
-            <guid>3625484</guid>
-            <pubDate>Mon, 20 May 2024 13:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所终止东方科脉沪市主板上市审核】 上交所5月20日晚间披露，因浙江东方科脉电子股份有限公司及其保荐人撤回发行上市申请，上交所终止其首次公开发行股票并在沪市主板上市的审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6229489.d.html</link>
-            <guid>3625483</guid>
-            <pubDate>Mon, 20 May 2024 13:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总统赫尔佐格：国际刑事法院检察官的声明显示出国际司法体系面临崩溃的程度。这一单方面行动代表了一个单边政治步骤，助长了全球恐怖分子的气焰。]]></title>
-            <guid>3625481</guid>
-            <pubDate>Mon, 20 May 2024 13:29:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴基斯坦总理会见土耳其外交部长 讨论地区局势】当地时间5月20日，巴基斯坦总理办公室发表声明称，当天巴总理夏巴兹·谢里夫在首都伊斯兰堡会见到访的土耳其外交部长哈坎·菲丹。双方讨论了双边关系及地区局势等。夏巴兹·谢里夫表示，巴基斯坦致力于在贸易、投资、技术和国防等领域进一步扩大与土耳其的合作。欢迎土耳其公司进一步扩大在巴基斯坦的投资。双方讨论了地区和全球局势，尤其是加沙地带不断恶化的人道主义局势。双方还重申在国家核心利益问题上对彼此的支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7686170.d.html</link>
-            <guid>3625479</guid>
-            <pubDate>Mon, 20 May 2024 13:25:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【如何看待特斯拉FSD？小鹏自动驾驶负责人李力耘：欢迎入华，也对小鹏智驾有信心】在今日的小鹏汽车520 AI DAY上，对于小鹏智驾与特斯拉FSD对比，小鹏自动驾驶负责人李力耘表示，对其入华是拥抱的，会带来鲶鱼效应，带动国内整个智能驾驶行业的发展。同时他强调也对小鹏的智驾有信心。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfi0908855.d.html</link>
-            <guid>3625478</guid>
-            <pubDate>Mon, 20 May 2024 13:24:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航锦科技与网宿科技签署战略合作协议】 5月20日，航锦科技与网宿科技在上海举行战略合作协议签约仪式。双方就最新一代的NVIDIA L20 Cluster AIDC项目的相关事宜，建立战略合作关系。合作范围包括但不限于基于Infini-band和RoCE网络的NVIDIA最新一代万卡算力集群（L20 cluster）、基于智算算力的绿色数据中心服务运维、千行百业垂类模型用户的高性能算力集群及算力云服务、面向应用端基于分布式部署的AIDN服务等方面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7685855.d.html</link>
-            <guid>3625477</guid>
-            <pubDate>Mon, 20 May 2024 13:23:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【终止审查IPO企业达157家 单周增长12家】上交所企业上市服务信息显示，沪深北三家交易所本期（5月13日至19日）无新增申报企业，沪深北三家交易所今年新增申报企业仍为2家，且均为北交所；各板块在审企业共526家，较上周统计时减少13家；已公布终止审查企业157家，较上周统计时增加12家，该终审数量是去年同期的1.6倍，去年同期终止数量为98家；今年以来，上市企业37家，融资合计270.66亿元。周环比来看，上周无新增企业完成上市。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6226462.d.html</link>
-            <guid>3625474</guid>
-            <pubDate>Mon, 20 May 2024 13:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际种业竞争优劣势何在？巴西粮价低迷如何应对？隆平高科回应】 据澎湃新闻，中国种业龙头隆平高科最新举行的业绩说明会上，“两隆”（即隆平高科和隆平发展）融合发展以及未来在巴西市场的竞争成为投资者关注的焦点。隆平高科回应表示，去年公司完成“两隆”整合，隆平巴西是隆平高科和中信农业共同投资的，中国和巴西农业的互补性强。一方面，“两隆”整合可以减少同质化、同业竞争和低水平的重复建设，也可以共享科研、生产、管理、育种站等方面的资源，便于统筹国内外两个市场。另一方面，公司在巴西有南美最先进、最大的生物育种分子实验室，拥有具有核心竞争力的科研管理团队，整合是1+1大于2的效应。隆平高科方面强调，“两隆”整合使得公司进一步夯实国际化进程，对于公司的发展是一个跨越式、标志性的大事件，也符合中信集团提出的“一个中信，一个隆平”的发展理念。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4886688.d.html</link>
-            <guid>3625472</guid>
-            <pubDate>Mon, 20 May 2024 13:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【约旦将撤离该国在加沙地带的医护人员】当地时间5月20日，约旦外交与侨务部表示，该部门正在关注以色列军队占领拉法口岸后滞留在加沙地带的约旦籍医生和护士的状况。约旦外交与侨务部还表示，正在努力确保这些医护人员尽快撤离加沙、返回约旦。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7685027.d.html</link>
-            <guid>3625470</guid>
-            <pubDate>Mon, 20 May 2024 13:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【如何看待与小米竞争？何小鹏：现在卖得好不代表能力强，汽车行业是长线竞争】在今日的小鹏汽车520 AI DAY上被问及与小米汽车的潜在竞争时，小鹏汽车董事长CEO何小鹏表示，新能源汽车行业从蓝海到红海再到血海，小鹏是经过磨练的。他强调，现在卖得好的，不代表能力强，汽车行业是个长线的竞争，而不是短期一两个月的销量。（新浪科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4885409.d.html</link>
-            <guid>3625469</guid>
-            <pubDate>Mon, 20 May 2024 13:16:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【亚世光电：公司不涉及玻璃基板的制造】 亚世光电5月20日在互动平台表示，公司主要从事液晶显示器件及电子纸显示模组的研发、生产和销售。不涉及玻璃基板的制造。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfn4883432.d.html</link>
-            <guid>3625464</guid>
-            <pubDate>Mon, 20 May 2024 13:11:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石化机械：控股股东的一致行动人承诺两年内不减持公司股份】石化机械公告，公司控股股东的一致行动人中国石化集团资本有限公司自愿承诺所持有的股份自上市流通之日起（即自2024年5月23日起）两年内不以任何方式减持。]]></title>
-            <guid>3625461</guid>
-            <pubDate>Mon, 20 May 2024 13:07:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家数据局：新质生产力是推进数字中国高质量建设的内在动能】5月20日，国家数据局举行专题新闻发布会，国家数据局副局长陈荣辉回答上海证券报记者提问时表示，《指导意见》全面落实数字中国建设“2522”框架要求与任务布局。推进城市全域数字化转型，强化数字化在城市现代化中的引领作用，统筹推动数字经济、数字政府、数字社会、数字生态、数字文化等“五位一体”协同发展，夯实城市数字化转型基础支撑，构建可持续发展生态，全面提升城市数字化发展的整体性、系统性和可持续性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7683309.d.html</link>
-            <guid>3625460</guid>
-            <pubDate>Mon, 20 May 2024 13:06:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST同洲：终止发行股份及支付现金购买资产事项】 *ST同洲(002052)5月20日晚间公告，公司此前公告，拟发行股份及支付现金购买朱丹、柳明兴等17名交易对方持有的厦门靠谱云股份有限公司100%股权，同时向福建腾旭实业有限公司发行股份募集配套资金。交易各方对本次重大资产重组交易方案进行了多次论证和协商，交易各方认为现阶段继续推进重大资产重组事项不确定性较大。经审慎研究，公司和交易各方协商终止本次交易事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7682860.d.html</link>
-            <guid>3625458</guid>
-            <pubDate>Mon, 20 May 2024 13:05:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美锦能源：旗下飞驰科技也成功向马来西亚出口了公交车】美锦能源在业绩说明会上表示，公司目前与国际机构保持密切沟通，并一直关注国际氢能市场的发展情况。公司旗下飞驰科技也成功向马来西亚出口了公交车，为国内首批对外出口的燃料电池车辆。条件成熟的情况下，公司将启动国际布局与发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwfk7682825.d.html</link>
-            <guid>3625457</guid>
-            <pubDate>Mon, 20 May 2024 13:05:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IT基础设施提供商Kyndryl与英伟达(NVDA.O)合作开发生成式AI解决方案。]]></title>
-            <guid>3625454</guid>
-            <pubDate>Mon, 20 May 2024 13:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【星河控股集团董事长黄楚龙的放贷生意：奉行“三不做”原则 】在行业内，星河控股较为低调，背后实控人黄楚龙算得上是地产圈的一位隐形富豪。星河的业务版图涉足地产、商业、产业、金融等领域，资产超千亿。黄楚龙奉行“三不做”原则——控制不了不做，支付不了不做，变现不了不做。“低负债、高利润、不上市”是星河最明显的三个标签。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6219571.d.html</link>
-            <guid>3625452</guid>
-            <pubDate>Mon, 20 May 2024 13:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国大桥坍塌事件：货船“达利”号将从事故现场移出】 据美国有线电视新闻网报道，当地时间5月20日，在巴尔的摩港，“达利”号货船将从与弗朗西斯·斯科特·基大桥发生撞击的地点移出。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-20/detail-inavwwff6219468.d.html</link>
-            <guid>3625451</guid>
-            <pubDate>Mon, 20 May 2024 13:01:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
