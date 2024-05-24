@@ -4,328 +4,492 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 23 May 2024 21:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 00:32:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【伊朗已故总统莱希被安葬在其家乡】伊朗23日正式将已故总统莱希安葬在其家乡伊朗东北部城市马什哈德。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqh7706093.d.html</link>
-            <guid>3630395</guid>
-            <pubDate>Thu, 23 May 2024 21:02:20 GMT</pubDate>
+            <title><![CDATA[英国首相苏纳克周三意外宣布将于7月4日提前举行全国选举后的首份民调显示，反对党工党领先苏纳克领导的保守党17个百分点。]]></title>
+            <guid>3630537</guid>
+            <pubDate>Fri, 24 May 2024 00:30:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞银集团分析师Lefkowitz上调标普500指数目标至5500点，称企业业绩强劲。]]></title>
-            <guid>3630394</guid>
-            <pubDate>Thu, 23 May 2024 20:59:09 GMT</pubDate>
+            <title><![CDATA[【马斯克承认Grok不如ChatGPT，但今年能赶上】马斯克在巴黎举行的VivaTech大会上表示，诚实是最好的人工智能政策，“重要的是，人工智能被训练成诚实的，而不是政治正确的。”马斯克说，他的人工智能初创公司xAI的聊天机器人Grok将“尽最大努力做到严谨，追求真相，做到最有趣。”但他承认，在Grok能与OpenAI或谷歌的Gemini竞争之前，还有“很多追赶要做”。他说，这可能在今年年底前实现。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0825356.d.html</link>
+            <guid>3630536</guid>
+            <pubDate>Fri, 24 May 2024 00:29:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中方在世贸组织的发展相关提案引发多方共鸣】世界贸易组织总理事会会议22日至23日在瑞士日内瓦举行。中方在会上提出提案，呼吁成员反思并改进世贸组织发展议题工作方法，为长期未决问题赋予新内涵、新动力，为解决气候变化、粮食安全和数字鸿沟等当前挑战提供务实可行的解决方案。这是中方在世贸组织落实全球发展倡议的一次具体实践，提案引发各方共鸣。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqf0928264.d.html</link>
-            <guid>3630391</guid>
-            <pubDate>Thu, 23 May 2024 20:54:28 GMT</pubDate>
+            <title><![CDATA[【三星股价下跌 报道称其HBM芯片因发热问题未通过英伟达的测试】 三星电子股价一度下跌3.3%，创4月19日以来最大跌幅。路透此前的报道称，由于发热和功耗问题，该公司最新的HBM芯片尚未通过英伟达的测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7064952.d.html</link>
+            <guid>3630535</guid>
+            <pubDate>Fri, 24 May 2024 00:29:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西班牙一餐厅屋顶倒塌 已致4死27伤】当地时间5月23日20时30分左右，西班牙马略卡岛一家餐厅屋顶倒塌。最新消息显示，该事故已造成4人死亡，27人不同程度受伤。当地警方表示，事故造成的伤亡人数可能将继续上升。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqc7126061.d.html</link>
-            <guid>3630390</guid>
-            <pubDate>Thu, 23 May 2024 20:54:18 GMT</pubDate>
+            <title><![CDATA[【以军称对黎真主党武装多个目标进行空袭】 以色列国防军当地时间23日表示，以军当天对黎巴嫩南部的黎真主党武装多座军事建筑进行了空袭。此外，以军在黎巴嫩纳巴提耶地区进行的无人机袭击造成一名负责武器制造与采购的黎真主党武装重要成员死亡。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7064714.d.html</link>
+            <guid>3630533</guid>
+            <pubDate>Fri, 24 May 2024 00:28:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【再次受阻 美国参议院未通过两党边境安全法案】当地时间5月23日，美国国会参议院以43票赞成、50票反对的投票结果否决了两党边境安全法案，这是该法案近几个月第二次在参议院受阻。2月7日，美国参议院就一项边境和军援法案进行程序性投票，以50票反对、49票赞成的投票结果，否决了该项囊括美国边境管控和对外军事援助的1180亿美元法案。参议院多数党领袖、民主党人查克·舒默5月宣布，计划将边境安全法案以独立法案重新提交。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqc7124233.d.html</link>
-            <guid>3630380</guid>
-            <pubDate>Thu, 23 May 2024 20:39:21 GMT</pubDate>
+            <title><![CDATA[【韩国政府宣布对7名朝鲜个人实施制裁】 当地时间24日，韩国政府宣布对7名朝鲜个人实施制裁。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0824890.d.html</link>
+            <guid>3630530</guid>
+            <pubDate>Fri, 24 May 2024 00:26:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【河南省小麦陆续开镰收获】从河南省农业农村厅获悉，截至23日17时，全国产粮大省河南省已收获小麦405万亩，约占全省种植面积的4.75%，目前河南南阳、驻马店、信阳等地小麦已开始收获。当日河南全省投入联合收割机数量达2.95万台。（新华网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqc7123788.d.html</link>
-            <guid>3630376</guid>
-            <pubDate>Thu, 23 May 2024 20:36:46 GMT</pubDate>
+            <title><![CDATA[【大禹节水：联合体中标51.45亿元江西省平江灌区工程特许经营项目】 大禹节水5月24日公告，公司、公司全资子公司甘肃大禹节水集团水利水电工程有限责任公司与中铁十八局集团有限公司（联合体牵头人）、中交第四航务工程局有限公司、中水北方勘测设计研究有限责任公司、广东省建筑工程集团股份有限公司组成的联合体中标江西省平江灌区工程特许经营项目并收到本项目成交通知书。中标金额51.45亿元。未来本项目顺利中标并实施将有利于公司提高在大中型灌区现代化建设与节水改造项目的技术水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7063997.d.html</link>
+            <guid>3630529</guid>
+            <pubDate>Fri, 24 May 2024 00:26:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国至5月18日当周外国央行持有美国国债 -39.4亿美元，前值-191.64亿美元。]]></title>
-            <guid>3630371</guid>
-            <pubDate>Thu, 23 May 2024 20:32:38 GMT</pubDate>
+            <title><![CDATA[【阿里披露对月之暗面投资详情：8亿美元购入约36%股权】 5月24日，据阿里巴巴财报披露，该公司于2024财年向人工智能初创公司月之暗面（Moonshot AI）投资合共约8亿美元，购入约36%股权，为于月之暗面的优先股投资。阿里巴巴集团主席蔡崇信和首席执行官吴泳铭在股东信中写道，该公司“将AI作为改变和加速业务增长的最强大变量”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5722826.d.html</link>
+            <guid>3630528</guid>
+            <pubDate>Fri, 24 May 2024 00:24:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：05月24日04时17分在新疆阿克苏地区拜城县（北纬41.78度，东经82.43度）发生3.4级地震，震源深度18千米。]]></title>
-            <guid>3630365</guid>
-            <pubDate>Thu, 23 May 2024 20:29:00 GMT</pubDate>
+            <title><![CDATA[【《庆余年2》平均每集9个广告，媒体：打破观众心理预期与底线】最近《庆余年2》热播，除了对剧情的讨论，很多人吐槽的就是广告太多。据媒体报道，《庆余年2》平均每集9个广告，时长达136秒。有观众表示：“《庆余年》前面的广告真多！啊！我是尊贵的极光会员都不能跳过。”相关吐槽甚至一度冲上微博热搜榜单第一，引发不少网友的共鸣：“大早上我爸也吐槽了，说广告太多了。”“前面有广告可以理解，放到一半插一个真出戏。”这不禁让人思考：热播剧加入那么多广告，观众还能买账吗？或者说，广告以什么方式介入影视剧才合适？（中国青年报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5722672.d.html</link>
+            <guid>3630527</guid>
+            <pubDate>Fri, 24 May 2024 00:24:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【西班牙一餐厅屋顶倒塌 已致2死12伤】西班牙巴利阿里大区紧急事务部门报告称，当地时间5月23日20时30分左右，西班牙马略卡岛一家餐厅屋顶倒塌，目前已造成2人死亡、12人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqk5781005.d.html</link>
-            <guid>3630349</guid>
-            <pubDate>Thu, 23 May 2024 20:18:05 GMT</pubDate>
+            <title><![CDATA[【金融街：出售惠州喜来登酒店、出售津门置业股权及债权】 金融街(000402)5月24日早间公告，公司及公司全资子公司天津置业拟将持有的金融街津门（天津）置业有限公司（简称“津门置业”）100%股权及公司对津门置业的全部债权转让给关联方金昊公司，转让价格不低于股权评估价值。此次转让有利于回笼资金，提升公司资产周转效率和偿债能力，对公司当期归母净利润影响约-1.45亿元。另外，公司控股子公司惠州置业拟将持有的惠州喜来登酒店转让给关联方金昊公司，此次转让对公司当期归母净利润影响约-5931万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7600449.d.html</link>
+            <guid>3630525</guid>
+            <pubDate>Fri, 24 May 2024 00:20:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[财捷（Intuit）第三财季调整后EPS为9.88美元，分析师预期9.38美元。第三财季净营收67.4亿美元，分析师预期66.4亿美元。预计全年调整后EPS为16.79-16.79美元，分析师预期16.42美元。预计全年营收161.6亿-162.0亿美元，公司原本预计158.9亿-161.1亿美元。预计第四财季营收将增长大约13%-14%。]]></title>
-            <guid>3630339</guid>
-            <pubDate>Thu, 23 May 2024 20:08:37 GMT</pubDate>
+            <title><![CDATA[【阿克苏城市公共算力平台产业生态正式启动】 据华孚时尚消息，5月22日，华为技术有限公司在新疆乌鲁木齐市举办“华为数字中国行2024·新疆新质生产力峰会暨阿克苏城市公共算力平台产业生态启动仪式”。华孚时尚董事长孙伟挺受邀参加仪式，围绕数字经济和算力领域热点问题，共同为新疆提升新质生产力献计献策。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7058563.d.html</link>
+            <guid>3630524</guid>
+            <pubDate>Fri, 24 May 2024 00:18:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【捷克总统骑摩托车受伤入院观察】捷克总统府23日晚发布消息说，捷克总统帕维尔在骑摩托车时受伤，需要在布拉格军事大学附属医院接受短暂观察。总统府说，帕维尔伤势并不严重。总统府未披露更多细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqk5779324.d.html</link>
-            <guid>3630338</guid>
-            <pubDate>Thu, 23 May 2024 20:07:27 GMT</pubDate>
+            <title><![CDATA[【OpenAI更新离职流程，就离职文件中的限制向员工道歉】OpenAI更新了员工的离职流程，向员工就离职文件中的限制问题表示道歉。此前媒体曝光文件显示，离职员工一旦签署保密协议，就意味着他们在无限期内无法发声批评OpenAI，若不签署协议，他们可能被收回股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7057856.d.html</link>
+            <guid>3630522</guid>
+            <pubDate>Fri, 24 May 2024 00:16:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[液化天然气（LNG）建设公司Zachry Holdings在Golden Pass LNG（位于美国得州沿海地带）裁员超3000人。]]></title>
-            <guid>3630336</guid>
-            <pubDate>Thu, 23 May 2024 20:05:51 GMT</pubDate>
+            <title><![CDATA[【人民时评：加快推进医疗检查检验结果互认】推进检查检验结果互认是惠民之举。据不完全统计，各类检查检验费用在患者医疗费用中占比约三成。可见，开展检查检验结果互认，可以明显减轻患者就医负担。此外，患者不用做重复检查，也可节约就医时间，提高就诊效率，改善就医体验。推进检查检验结果互认是回应群众诉求、践行“以患者为中心”服务宗旨的重要体现，也是推动医疗卫生体制改革往深水区挺进的必然要求。加强信息数据共享，进一步打通难点、堵点，积极推进医疗检查检验结果互认，将为健康中国建设提供有力支撑。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5718113.d.html</link>
+            <guid>3630521</guid>
+            <pubDate>Fri, 24 May 2024 00:16:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音公司收跌7.6%，创最近四个月最差单日表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqk5778765.d.html</link>
-            <guid>3630329</guid>
-            <pubDate>Thu, 23 May 2024 20:03:03 GMT</pubDate>
+            <title><![CDATA[富士电机下跌 7.3%，创两年来最大跌幅。东证指数下跌 1.2%，MSCI 亚太指数下跌 0.8%。]]></title>
+            <guid>3630519</guid>
+            <pubDate>Fri, 24 May 2024 00:15:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【罗斯百货第一财季每股收益高于预期】罗斯百货第一财季每股收益为1.46美元，分析师预期1.35美元；第一财季同店销售增长3%，分析师预期增长3.44%；第一财季运营利润率12.2%，分析师预期11.4%；预计第二财季每股收益1.43-1.49美元，分析师预期1.46美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqc7118225.d.html</link>
-            <guid>3630327</guid>
-            <pubDate>Thu, 23 May 2024 20:02:21 GMT</pubDate>
+            <title><![CDATA[【市场消息：美国副总统哈里斯与肯尼亚总统将讨论数字包容性问题】美国副总统兼参议院议长哈里斯和肯尼亚总统鲁托将于美东时间今日11:35（北京时间23:35）讨论数字包容性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5717221.d.html</link>
+            <guid>3630518</guid>
+            <pubDate>Fri, 24 May 2024 00:14:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Workday一季度营收19.9亿美元，分析师预期19.7亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqf0922751.d.html</link>
-            <guid>3630326</guid>
-            <pubDate>Thu, 23 May 2024 20:02:16 GMT</pubDate>
+            <title><![CDATA[【越南河内一处5层建筑起火 已致14人死亡】当地时间5月24日凌晨0时30分左右，越南河内纸桥区一处5层建筑发生火灾，已造成14人死亡、3人受伤。目前大火已被扑灭。据了解，事发地街道狭窄，对灭火和救援工作造成困难。至凌晨3时30分，救援人员才得以运出遇难者遗体。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5716724.d.html</link>
+            <guid>3630517</guid>
+            <pubDate>Fri, 24 May 2024 00:13:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[英伟达收涨9.3%，市值增加2180亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhkqh7699850.d.html</link>
-            <guid>3630325</guid>
-            <pubDate>Thu, 23 May 2024 20:02:08 GMT</pubDate>
+            <title><![CDATA[【印尼塞梅鲁火山喷发 火山灰柱达900米】据印尼地质研究机构（PVMBG）消息，当地时间5月24日6时12分，印尼塞梅鲁火山发生喷发，火山灰柱达900米，喷发持续137秒。 （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7598889.d.html</link>
+            <guid>3630516</guid>
+            <pubDate>Fri, 24 May 2024 00:12:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：美联储不会考虑政治日历来确定政策决策时间。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7830101.d.html</link>
-            <guid>3630318</guid>
-            <pubDate>Thu, 23 May 2024 19:58:12 GMT</pubDate>
+            <title><![CDATA[【外媒：马斯克新表态反对美国对中国电动汽车征收关税，称不赞成“扭曲市场”措施】 据路透社报道，美国特斯拉公司首席执行官（CEO）埃隆·马斯克当地时间23日通过视频连线参加了在法国巴黎举办的“欧洲科技创新展览会”，他在活动中对科技投资者表示，他反对美国对中国电动汽车征收关税。路透社提到，本月，拜登政府对包括电动汽车在内的一系列中国进口商品征收新关税，其中对中国进口电动汽车征收的关税从25%提高到100%。在23日举办的活动上，马斯克表示，他不赞成扭曲市场的措施。(环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7598788.d.html</link>
+            <guid>3630515</guid>
+            <pubDate>Fri, 24 May 2024 00:11:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年以来逾50家公司或其高管被立案调查】截至5月23日，2024年以来A股已有53家上市公司或其高管被立案调查，其中5月以来就有21家，释放出明确的强监管信号。具体看立案事由，对于上市公司而言，因涉嫌信息披露违法违规是被立案的首要原因。2024年以来，因涉嫌信息披露问题被立案的上市公司多达30家。涉嫌未按时披露年报是被立案的另一主因。对于高管而言，立案事由则涉及信息披露违法违规、操纵市场、内幕交易、共同职务违法等多种情况。2023年A股共有103家上市公司或其高管被立案调查，信息披露违法违规亦是主要案由。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7829734.d.html</link>
-            <guid>3630314</guid>
-            <pubDate>Thu, 23 May 2024 19:53:25 GMT</pubDate>
+            <title><![CDATA[联想集团(00992.HK)：杨元庆先生不再担任企业管治委员会主席，但仍留任该委员会成员。]]></title>
+            <guid>3630514</guid>
+            <pubDate>Fri, 24 May 2024 00:10:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国艾奥瓦州遭龙卷风袭击 超200所房屋被毁】美国气象学家当地时间5月23日表示，美国艾奥瓦州于21日遭遇了三场龙卷风袭击，龙卷风在艾奥瓦州上空形成了长达约209公里的长路径。艾奥瓦州州长金·雷诺兹表示，该州有至少202所房屋被龙卷风摧毁。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7829250.d.html</link>
-            <guid>3630312</guid>
-            <pubDate>Thu, 23 May 2024 19:47:31 GMT</pubDate>
+            <title><![CDATA[澳大利亚S&P/ASX 200指数下跌1.1%至7,724.20点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7054254.d.html</link>
+            <guid>3630513</guid>
+            <pubDate>Fri, 24 May 2024 00:10:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以总理否认在新一轮巴以冲突前收到哈马斯袭击的警告】以色列总理办公室当地时间23日晚间发表声明，否认以总理内塔尼亚胡在去年10月7日前曾收到有关巴勒斯坦伊斯兰抵抗运动（哈马斯）可能发动袭击的警告。声明称，内塔尼亚胡不仅未收到以军情报部门任何有关哈马斯计划袭击以色列的警告，而且其收到的相关情报文件多次指出，哈马斯不希望从加沙发动对以色列的袭击，并且对升级冲突不感兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehf7246931.d.html</link>
-            <guid>3630311</guid>
-            <pubDate>Thu, 23 May 2024 19:46:34 GMT</pubDate>
+            <title><![CDATA[【晶科能源CEO陈康平接待沙特NEOM CEO一行】NEOM-Oxagon CEO Vishal Wanchoo一行23日来到晶科能源上海总部参观交流，晶科能源CEO陈康平出席会谈。此次会谈进一步探讨了晶科能源与NEOM项目的合作，重点聚焦在光伏、储能、氢能等领域，携手共同打造一个100%由可再生能源供电的未来智慧之城。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7054176.d.html</link>
+            <guid>3630512</guid>
+            <pubDate>Fri, 24 May 2024 00:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[喜达屋房地产收入信托：将减免20%的管理费，将其降低至1%，直到回购限制完全恢复到每月资产净值的2%和每季资产净值的5%。]]></title>
-            <guid>3630310</guid>
-            <pubDate>Thu, 23 May 2024 19:46:16 GMT</pubDate>
+            <title><![CDATA[【长实香港项目折价出售 李泽钜：楼盘定价不可一概而论，因市场环境而厘定】5月23日下午，长实集团举行2024年度股东大会，集团主席兼董事总经理李泽钜表示，作为上市公司，长实集团的责任是要为股东争取回报，集团作出的每一项投资最重要的考虑因素是项目质素、稳健性及回报，最紧要是“计到数”。“我们不是选择投资地点，而是选择投资项目，只要有理想回报的优质资产，无论在香港、内地或其他地方，都会考虑。”李泽钜表示，“楼盘的定价不可一概而论，定价是因按照每个物业的不同条件，包括所在位置、交通、周边环境，以及当时市场环境而厘定。”他认为，香港本地楼市一直有刚性需求，长远发展依然得到支持，“撤辣”之后，本地楼市将继续由房屋政策及利率走向主导。（每经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5713633.d.html</link>
+            <guid>3630511</guid>
+            <pubDate>Fri, 24 May 2024 00:08:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗法尔斯省发生4.7级地震】当地时间5月23日20时37分，伊朗法尔斯省南部拉默尔德市阿赫勒县发生4.7级地震，震源深度10公里。目前暂无财产损失或人员伤亡报告。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehn5907206.d.html</link>
-            <guid>3630309</guid>
-            <pubDate>Thu, 23 May 2024 19:44:41 GMT</pubDate>
+            <title><![CDATA[【阿里巴巴：发行利率为0.50％的可转换优先票据】阿里巴巴在港交所公告，45亿美元可转换优先票据按0.50%的年利率计算利息，票据发行预计将于2024年5月29日交割。票据发行所得募集资金净额将约为44.36亿美元，拟将票据发行所得用于回购美国存托股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7050071.d.html</link>
+            <guid>3630510</guid>
+            <pubDate>Fri, 24 May 2024 00:04:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克民兵武装称袭击多处以色列目标】当地时间5月23日，伊拉克民兵武装“伊斯兰抵抗组织”发表声明称，该组织当天使用巡航导弹对以色列最大的港口海法港发动了袭击，并对位于戈兰高地的一处以色列军事目标发动了无人机袭击。以色列方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehi1051795.d.html</link>
-            <guid>3630307</guid>
-            <pubDate>Thu, 23 May 2024 19:42:40 GMT</pubDate>
+            <title><![CDATA[【三菱电机和爱信拟成立电动汽车零部件合资企业】 据悉，三菱电机和日本汽车零部件供应商爱信计划成立一家电动汽车和混合动力汽车零部件合资企业，在价格竞争加剧的情况下，利用双方的综合规模提高研发效率。该公司将开发和生产节能逆变器等零部件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0820206.d.html</link>
+            <guid>3630509</guid>
+            <pubDate>Fri, 24 May 2024 00:04:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国海上贸易行动办公室：收到也门荷台达以南海域发生事件的报告】当地时间5月23日，英国海上贸易行动办公室通报称，收到也门荷台达以南98海里处发生事件的报告。一艘商船称遭遇袭击，一枚导弹落入靠近左舷的水中，未造成人员伤亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7828422.d.html</link>
-            <guid>3630306</guid>
-            <pubDate>Thu, 23 May 2024 19:37:23 GMT</pubDate>
+            <title><![CDATA[【科大讯飞首推永久免费大模型 讯飞星火API能力向全球用户开放】从天津港保税区企业天津智汇谷科技服务有限公司获悉，日前，讯飞星火API（应用接口）能力面向全球用户正式免费开放。这也是科大讯飞在业界首推永久免费大模型。讯飞星火API是讯飞星火的一部分，可以帮助开发者快速获取应用接口tokens（数据中的基本单元）额度。此次调整定价后，讯飞星火除了永久免费的版本，顶配版价格也低至0.21元/万tokens。在讯飞星火，1token相当于1.5个中文汉字，因此，2.1元就足够调用讯飞星火顶配版生成一部余华长篇小说《活着》的内容量。（天津日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7049464.d.html</link>
+            <guid>3630508</guid>
+            <pubDate>Fri, 24 May 2024 00:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克表示，美国降通胀所需时间可能比欧洲要长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehi1050747.d.html</link>
-            <guid>3630298</guid>
-            <pubDate>Thu, 23 May 2024 19:29:50 GMT</pubDate>
+            <title><![CDATA[【东部战区持续位台岛周边演习】 东部战区新闻发言人李熹海军大校表示，今天，中国人民解放军东部战区持续位台岛周边开展“联合利剑—2024A”演习，岛链内外一体联动，检验联合夺权、联合打击、要域占控能力。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7596799.d.html</link>
+            <guid>3630507</guid>
+            <pubDate>Fri, 24 May 2024 00:01:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带3.58万人死亡】根据加沙地带卫生部门数据，截至23日下午，在过去1天，以军在加沙地带的军事行动造成91名加沙民众死亡，210人受伤。而自去年10月7日本轮巴以冲突爆发以来，加沙地带死亡人数已达35800人，受伤人数达80200人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehi1050601.d.html</link>
-            <guid>3630294</guid>
-            <pubDate>Thu, 23 May 2024 19:28:20 GMT</pubDate>
+            <title><![CDATA[【美国监管机构称摩根大通未能监控数十亿份客户订单，对其罚款2亿美元】 美国商品期货交易委员会（CFTC）5月23日表示，摩根大通在2014年至2021年期间未能妥善监控数十亿份客户订单，将因其交易监控计划存在漏洞支付2亿美元罚款。CFTC指出，摩根大通今年3月与银行监管机构达成的协议将涵盖部分罚款。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7047663.d.html</link>
+            <guid>3630506</guid>
+            <pubDate>Fri, 24 May 2024 00:01:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：经济没有回落的危险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7826829.d.html</link>
-            <guid>3630288</guid>
-            <pubDate>Thu, 23 May 2024 19:19:19 GMT</pubDate>
+            <title><![CDATA[【北化股份：公司硝化棉系列产品国内市场占有率50%以上】 北化股份(002246)在互动平台表示，公司硝化棉系列产品国内市场占有率50%以上，全球市场占有率保持15%左右，公司出口业务收入占营业收入的14.94%。另外，根据市场传闻，公司稍早前也表示，5月23日，公司未出具产品涨价函件，不涉及每吨硝化棉涨价3000元的事项，公司硝化棉产品定价机制灵活，根据市场需求适时调整，随行就市。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7046293.d.html</link>
+            <guid>3630504</guid>
+            <pubDate>Thu, 23 May 2024 23:59:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储博斯蒂克：我们不会陷入更加紧缩的环境。就业增长强劲，使我对保持更为紧缩的利率水平感到安心。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7826624.d.html</link>
-            <guid>3630286</guid>
-            <pubDate>Thu, 23 May 2024 19:17:22 GMT</pubDate>
+            <title><![CDATA[【美光首席执行官Mehrotra报告行使期权和出售股份】美光科技首席执行官兼总裁Sanjay Mehrotra向美国证券交易委员会报告了一系列内幕股票交易。美光股价过去一个月上涨12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7046245.d.html</link>
+            <guid>3630503</guid>
+            <pubDate>Thu, 23 May 2024 23:59:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[波音持续走低，现跌超7%，此前标普分析师称波音的现金流状况比他们的预期“逐渐恶化”。]]></title>
-            <guid>3630284</guid>
-            <pubDate>Thu, 23 May 2024 19:15:41 GMT</pubDate>
+            <title><![CDATA[【人民日报评论员：推进“台独”倒行逆施，必遭严惩】台湾地区领导人在5月20日的讲话中，大肆宣扬所谓“主权独立”“两岸互不隶属”“台湾住民自决”等分裂谬论，极力乞求外部势力撑腰打气，妄图推动“台湾问题国际化”，继续“倚外谋独”“以武谋独”。这样一篇彻头彻尾的“台独自白”，充斥着敌意与挑衅、谎言与欺骗，态度极为猖狂，主张更加激进，如此倒行逆施，必遭严惩，加速“台独”分裂势力覆灭。]]></title>
+            <guid>3630501</guid>
+            <pubDate>Thu, 23 May 2024 23:56:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美联储博斯蒂克：对2023年通胀下降速度的快速感到惊讶】美联储博斯蒂克表示，对2023年通胀下降速度的快速感到惊讶；最近的通胀数据表明通胀率将回落至2%，但速度较慢；在通胀达到2%之前，我们不会讨论调整美联储的通胀目标；预计将于2025年开始对美联储框架展开新的讨论；在调整政策利率之前，我们可能需要更加耐心，并对通胀达到2%的路径保持确定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehn5902354.d.html</link>
-            <guid>3630274</guid>
-            <pubDate>Thu, 23 May 2024 19:07:56 GMT</pubDate>
+            <title><![CDATA[【合肥新能源汽车主题商城宜车城预计今年12月开业】 5月23日，据安徽合肥包河区消息，位于龙川路与徽州大道交口东南侧、总建筑面积约10.45万平方米的绿地中央广场西大茂将“变身”宜车新能源汽车创新城（简称“宜车城”）。目前正围绕新能源汽车主题进行装修调改，预计今年12月正式开业。宜车城将落户40余家新能源车企品牌，目前已有20家品牌初步达成合作意向，其中包括华为、小米、蔚来、smart、智己等品牌。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7043577.d.html</link>
+            <guid>3630499</guid>
+            <pubDate>Thu, 23 May 2024 23:52:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：投资公司Starwood的房地产投资信托基金在申报文件中披露了更严格的赎回限制。]]></title>
-            <guid>3630272</guid>
-            <pubDate>Thu, 23 May 2024 19:04:26 GMT</pubDate>
+            <title><![CDATA[【日本两家能源企业据悉同谷歌达成协议，将建厂为后者数据中心供电】 据悉，谷歌近期同日本可再生能源供应商Clean Energy Connect（CEC）和自然电力签署企业购电协议，这是该公司首次在日本本土签署此类合同。根据协议，日本企业将建设太阳能发电场，专门为谷歌在日本的数据中心供电。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7043158.d.html</link>
+            <guid>3630498</guid>
+            <pubDate>Thu, 23 May 2024 23:51:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称在拉法打死数十名武装人员】以色列国防军发言人丹尼尔·哈加里当地时间23日下午就以军在加沙地带南部城市拉法的行动发表讲话。哈加里称，截至目前，以军已经在拉法打死数十名武装人员，发现了数十条地下隧道，摧毁包括火箭弹发射阵地在内的大量军事基础设施。哈加里称，以军目前仍未大规模进攻拉法，而是谨慎地采取有针对性的精准行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehn5901603.d.html</link>
-            <guid>3630271</guid>
-            <pubDate>Thu, 23 May 2024 19:03:14 GMT</pubDate>
+            <title><![CDATA[【中钢协：5月中旬钢材社会库存1113万吨 环比下降3.6%】中国钢铁工业协会披露，5月中旬，21个城市5大品种钢材社会库存1113万吨，环比减少42万吨，下降3.6%，库存持续下降；比年初增加384万吨，上升52.7%；比上年同期增加19万吨，上升1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7042597.d.html</link>
+            <guid>3630497</guid>
+            <pubDate>Thu, 23 May 2024 23:50:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理柏：美国市政债券基金最近一周遭遇2.18亿美元资金外流。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7825103.d.html</link>
-            <guid>3630268</guid>
-            <pubDate>Thu, 23 May 2024 19:00:23 GMT</pubDate>
+            <title><![CDATA[瑞士奢侈手表公司斯沃琪集团租下香港铜锣湾商铺。（香港经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7041705.d.html</link>
+            <guid>3630494</guid>
+            <pubDate>Thu, 23 May 2024 23:47:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全球25%食材由我国生产 2023年我国食材消费市场超9万亿元】中国物流与采购联合会23日发布《中国食材供应链发展报告（2024）》。根据报告，我国食材消费需求持续稳定增长，食材供应链企业链条逐渐向上游延伸。中国物流与采购联合会副会长崔忠付表示，我国是全球最大的食材消费市场，食材的产量约占全球的四分之一。在全球食材贸易放缓的大背景下，2023年我国食材消费市场达到9.37万亿元，同比增长10.31%，需求持续稳步地增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7824753.d.html</link>
-            <guid>3630267</guid>
-            <pubDate>Thu, 23 May 2024 18:57:48 GMT</pubDate>
+            <title><![CDATA[美国众议院议长约翰逊：我们将很快举办以色列总理内塔尼亚胡在国会的联席会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0816989.d.html</link>
+            <guid>3630493</guid>
+            <pubDate>Thu, 23 May 2024 23:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国各省份实现国家和省级集采药品数超450种】记者23日从国家卫生健康委获悉，我国药品耗材集中带量采购工作提速扩面，国家层面已开展9批374个药品和4批医用耗材集中带量采购，各省份均实现国家和省级集采药品数合计超过450种。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7823644.d.html</link>
-            <guid>3630263</guid>
-            <pubDate>Thu, 23 May 2024 18:43:07 GMT</pubDate>
+            <title><![CDATA[【看图：日本通胀降温 日本央行密切关注日元贬值的影响】日本的通胀连续第二个月降温，同时保持在日本央行的价格目标之上，因为日元最近的贬值加剧了人们对成本推动通胀压力可能会持续下去的担忧。日本内务省周五表示，4月份不包括新鲜食品在内的消费者价格较上年同期上涨2.2%，符合分析师的预期。该指数连续第25个月保持在或高于日本央行2%的目标水平。加工食品价格上涨放缓至3.5%，部分原因是一年前这些价格飙升后的基本影响，这表明企业越来越愿意将不断上涨的成本转嫁给消费者。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7041388.d.html</link>
+            <guid>3630492</guid>
+            <pubDate>Thu, 23 May 2024 23:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：谷歌和Meta Platforms出价数百万美元与好莱坞在人工智能领域合作。]]></title>
-            <guid>3630262</guid>
-            <pubDate>Thu, 23 May 2024 18:42:48 GMT</pubDate>
+            <title><![CDATA[【特斯拉去年收到590万份工作申请，同比增逾六成】当地时间5月23日，特斯拉发布《2023年影响力报告》。其中提到，特斯拉在2023年收到创纪录的590万份工作申请，较2022年增加64%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5701487.d.html</link>
+            <guid>3630490</guid>
+            <pubDate>Thu, 23 May 2024 23:44:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国阿拉斯加州附近海域发生翻船事故 已致1人死亡】当地时间5月23日，美国海岸警卫队表示，一艘船于22日早上在美国阿拉斯加州埃利克湾附近倾覆，造成1人死亡，另有3人下落不明。美国海岸警卫队已派遣直升机、飞机和船只协助搜寻。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehi1043059.d.html</link>
-            <guid>3630254</guid>
-            <pubDate>Thu, 23 May 2024 18:17:53 GMT</pubDate>
+            <title><![CDATA[【三星电子HBM芯片据悉尚未通过英伟达测试，涉及发热和功耗问题】 知情人士称，由于发热和功耗问题，三星电子最新的高带宽内存（HBM）芯片尚未通过英伟达的测试，无法用于后者的人工智能处理器。据悉，这些问题涉及三星电子的HBM和HBM3E产品。三星电子在一份声明中表示，HBM是一种定制的内存产品，需要根据客户的需求进行优化，“我们正通过与客户的密切合作优化产品”。该公司拒绝就具体客户发表评论。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7040914.d.html</link>
+            <guid>3630489</guid>
+            <pubDate>Thu, 23 May 2024 23:44:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰总统与挪威首相通话 讨论防务合作】当地时间5月23日，乌克兰总统泽连斯基在其官方社交平台上宣布，当天他与挪威首相斯特勒进行了电话会谈。泽连斯基表示，乌克兰与挪威已经完成了双边安全协议的制定工作，并将尽快签署该协议。此外，双方还就前线形势和防务合作进行了讨论。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7820129.d.html</link>
-            <guid>3630253</guid>
-            <pubDate>Thu, 23 May 2024 18:17:34 GMT</pubDate>
+            <title><![CDATA[【竞速出海赛道 医疗设备公司共话发展机遇】近日，在上交所举办的科创板新质生产力行业沙龙上，联影医疗、奕瑞科技、惠泰医疗和山外山4家医疗设备代表企业聚焦中国医疗设备产业发展动态、大规模医疗设备更新、出海等热门话题，深入探讨了中国医疗设备产业发展的机遇与挑战。业内人士认为，作为先进制造业的重要一环，中国医疗设备行业已发展形成较完善的产业链。随着国产医疗设备龙头企业出海的动作不断开展，国产品牌效应和产品口碑也将不断提升，形成更具鲜明特色的产业集群，从而形成海外竞争优势，支撑国产医疗设备企业的快速发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5699600.d.html</link>
+            <guid>3630488</guid>
+            <pubDate>Thu, 23 May 2024 23:39:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌方称哈尔科夫遭空袭 已致7人死亡】乌克兰国家紧急情况服务局当地时间23日表示，当天俄罗斯对哈尔科夫市的导弹袭击导致该市一家企业起火，目前大火已被扑灭。袭击导致7人死亡、21人受伤。俄方对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehi1043019.d.html</link>
-            <guid>3630252</guid>
-            <pubDate>Thu, 23 May 2024 18:17:17 GMT</pubDate>
+            <title><![CDATA[【韩国央行称芯片业上行周期或至少持续至明年上半年】韩国央行周五发布报告称，芯片制造业的上行周期可能会持续到明年上半年，甚至更长时间，从而提振韩国的出口。报告称，在人工智能蓬勃发展的推动下，全球芯片制造行业去年年初出现反弹，其上升周期可能比预期的要长。服务器、手机和个人电脑领域对半导体的需求可能会继续增加，但供应可能相对有限。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7592943.d.html</link>
+            <guid>3630486</guid>
+            <pubDate>Thu, 23 May 2024 23:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【也门胡塞武装称荷台达机场遭美英战机袭击】据也门胡塞武装消息，当地时间5月23日，也门荷台达国际机场遭到美英战机袭击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehf7229827.d.html</link>
-            <guid>3630251</guid>
-            <pubDate>Thu, 23 May 2024 18:12:03 GMT</pubDate>
+            <title><![CDATA[【66.89亿元市值限售股今日解禁】Wind数据显示，周五（5月24日），共有10家公司限售股解禁，合计解禁量为5.08亿股，按最新收盘价计算，合计解禁市值为66.89亿元。从解禁量来看，4家公司解禁股数超千万股。玉马遮阳、德尔玛、航天软件解禁量居前，解禁股数分别为2.05亿股、1.75亿股、9902万股。从解禁市值来看，4家公司解禁股数超亿元。玉马遮阳、德尔玛、航天软件解禁市值居前，解禁市值分别为23.61亿元、18.96亿元、15.6亿元。从解禁股数占总股本比例来看，4家公司解禁比例超10%。玉马遮阳、德尔玛、航天软件解禁比例居前，解禁比例分别为66.52%、37.85%、24.76%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0815605.d.html</link>
+            <guid>3630484</guid>
+            <pubDate>Thu, 23 May 2024 23:36:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：05月24日01时38分在新疆阿克苏地区拜城县（北纬41.77度，东经82.45度）发生3.4级地震，震源深度17千米。]]></title>
-            <guid>3630246</guid>
-            <pubDate>Thu, 23 May 2024 17:46:22 GMT</pubDate>
+            <title><![CDATA[【日本4月核心CPI同比上涨2.2% 预估为上涨2.2%】日本统计局周五在东京发布数据显示，不包括能源、生鲜食品的CPI同比上涨2.4%，预估为上涨2.4%。总体CPI同比上涨2.5%，预估为上涨2.4%。核心CPI剔除了价格波动较大的生鲜食品。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7592659.d.html</link>
+            <guid>3630483</guid>
+            <pubDate>Thu, 23 May 2024 23:36:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：马斯克旗下的人工智能初创公司xAI寻求筹集近60亿美元的融资轮，估值达到180亿美元。]]></title>
-            <guid>3630245</guid>
-            <pubDate>Thu, 23 May 2024 17:46:15 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、“引领全球新能源产业健康发展”；
+2、加强合作，释放新能源汽车产业减排潜力（国际论坛）；
+3、“全球绿色转型不可或缺的力量”；
+4、西藏聚焦稳定、发展、生态、强边四件大事 推动长治久安和高质量发展行稳致远（推动高质量发展·权威发布）；
+5、网络拍卖领域首个规范性文件印发 坚持线上线下监管制度一致；
+6、前四月我国对外非金融类直接投资增18.7%；
+7、抢抓机遇，完善现代化产业体系（评论员观察）——因地制宜发展新质生产力⑤；
+8、第六届中国西部国际贸易投资洽谈会开幕；
+9、广东中山持续健全社会信用体系，不断拓展应用场景 信用红利更好惠及千行百业（经济聚焦）；
+10、多部门明确——今年降成本重点落实七方面任务；
+11、全国累计发电装机容量已超30亿千瓦 将推进三批大型风电光伏基地建设；
+12、中东地区多国大力发展制造业（国际视点）；
+13、智利一季度经济延续增长势头；
+14、首届全球供应链论坛在巴巴多斯举行；
+15、澳大利亚发布电池发展战略；
+16、斯洛伐克推动电动汽车产业发展；
+17、中国—中东欧国家联合商会第八次会议在浙江宁波举行。]]></title>
+            <guid>3630482</guid>
+            <pubDate>Thu, 23 May 2024 23:34:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰总统召开最高统帅部会议 讨论哈尔科夫局势】当地时间23日，乌克兰总统泽连斯基召开了最高统帅部会议，主要就目前战场局势、俄军情况及乌军急需的武器和援助等进行了讨论。泽连斯基表示，当天乌武装部队总司令瑟尔斯基、国防部长乌梅罗夫、国防部情报总局局长布达诺夫分别进行了汇报。他称，瑟尔斯基近期一直在哈尔科夫地区指挥进攻和防御工作。乌方已掌握哈尔科夫地区和顿巴斯地区的整体战局形势。此外，乌国家边防局局长代涅科在线进行了汇报。他表示，将继续在切尔尼戈夫州、苏梅州和哈尔科夫州的边境地区开展实地工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhehk7816669.d.html</link>
-            <guid>3630243</guid>
-            <pubDate>Thu, 23 May 2024 17:42:23 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：05月24日07时27分在新疆阿克苏地区拜城县（北纬41.82度，东经82.43度）发生3.0级地震，震源深度21千米。]]></title>
+            <guid>3630479</guid>
+            <pubDate>Thu, 23 May 2024 23:34:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第二十届文博会开幕】为期5天的第二十届中国（深圳）国际文化产业博览交易会23日在深圳开幕。本届文博会共设粤港澳大湾区文化产业创新展、非遗·老字号·工艺美术展、国际文化贸易展等8个展馆。本届文博会共有超6000家政府组团、文化机构和企业参展；全国31个省区市及港澳台地区全部参展；来自60个国家和地区的300多家海外展商参展；展出文化产品超过12万件。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyq6010968.d.html</link>
-            <guid>3630242</guid>
-            <pubDate>Thu, 23 May 2024 17:40:53 GMT</pubDate>
+            <title><![CDATA[耶伦将于欧洲中部夏令时间14:15会见欧洲央行行长拉加德。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7037572.d.html</link>
+            <guid>3630478</guid>
+            <pubDate>Thu, 23 May 2024 23:33:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【X射线激光器发射有史以来最强脉冲，有望为分子内部电子“拍电影”】据英国《新科学家》网站22日报道，美国SLAC国家加速器实验室的直线加速器相干光源（LCLS）发出有史以来最强X射线脉冲。该脉冲仅持续4.4万亿分之一秒，产生的功率却接近1太瓦（100亿兆瓦），为普通核电站年产量的1000倍。这些超快X射线可用于更详细地拍摄分子内部情况，促进基础物理和材料科学领域发展。相关研究论文发表于最新一期《自然·光子学》杂志。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxym1169328.d.html</link>
-            <guid>3630240</guid>
-            <pubDate>Thu, 23 May 2024 17:31:20 GMT</pubDate>
+            <title><![CDATA[【耶伦将会见法国财长、欧洲央行行长】美国财长耶伦将于欧洲中部时间今日下午1:30（北京时间19:30）与法国财长会面，将于欧洲中部时间下午2:15（北京时间20:15）与欧洲央行行长拉加德会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7037318.d.html</link>
+            <guid>3630476</guid>
+            <pubDate>Thu, 23 May 2024 23:33:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿富汗北部多地发生洪水 造成至少15人死亡】总台记者23日获悉，发生在当地时间22日晚的洪水造成阿富汗北部法里亚布省、萨里普尔省和巴格兰省至少15人死亡，死者包括妇女和儿童。当地官员表示，洪水给当地民众造成了重大经济损失，呼吁阿富汗临时政府和国际援助组织向灾民提供人道主义援助。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyq6006676.d.html</link>
-            <guid>3630239</guid>
-            <pubDate>Thu, 23 May 2024 17:27:59 GMT</pubDate>
+            <title><![CDATA[【智能网联汽车驶入快车道 测试范围加速“连点成片”】 随着政策推动，上海、杭州、苏州等长三角城市的机场、高铁站等智能驾驶场景正在逐步开放。近日，特斯拉推动FSD入华更是掀起业界对自动驾驶的关注热潮。在业内看来，加快推动自动驾驶商业化落地，“车路云一体化”缺一不可，市场呼唤聪明的车、智慧的路，更呼唤协同的云。从整个长三角来看，上海、杭州、合肥等城市的智能网联汽车测试与应用范围也在不断拓展，道路测试范围“连点成片”趋势渐显。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7036212.d.html</link>
+            <guid>3630473</guid>
+            <pubDate>Thu, 23 May 2024 23:30:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【扎波罗热核电站主供电线路恢复】当地时间5月23日，扎波罗热核电站称，750千伏主供电线路已于当天16时49分恢复，目前主备两条线路均运转正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyq6005970.d.html</link>
-            <guid>3630238</guid>
-            <pubDate>Thu, 23 May 2024 17:26:02 GMT</pubDate>
+            <title><![CDATA[日本4月份整体消费物价同比上涨2.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5696624.d.html</link>
+            <guid>3630472</guid>
+            <pubDate>Thu, 23 May 2024 23:30:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌称击落一架俄苏-25战机 俄暂无回应】乌克兰第110机械化旅当地时间5月23日通过社交媒体发布消息称，成功击落一架俄罗斯苏-25战机。对此，俄罗斯方面尚未作出回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyq6003140.d.html</link>
-            <guid>3630235</guid>
-            <pubDate>Thu, 23 May 2024 17:17:12 GMT</pubDate>
+            <title><![CDATA[日本4月份核心消费物价同比上涨2.2%，预期2.2%，前值2.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5696534.d.html</link>
+            <guid>3630471</guid>
+            <pubDate>Thu, 23 May 2024 23:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【扎波罗热核电站：扎波罗热核电站在输电线断电后不存在安全风险】扎波罗热核电站在电报频道发布消息，通往扎波罗热核电站的“第聂伯罗夫斯卡亚”输电线被切断。没有超出安全阈值的危险。正在调查断开原因。国际原子能机构总干事格罗西表示，5月23日，因出现短路，扎波罗热核电站与站外仅存的一条输电线断开连接，核电站目前只能依靠一条备用供电线。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyn7944458.d.html</link>
-            <guid>3630231</guid>
-            <pubDate>Thu, 23 May 2024 17:11:47 GMT</pubDate>
+            <title><![CDATA[【京东完成发行20亿美元可转换优先票据】京东集团5月24日早间在港交所公告，于5月23日完成本金总额20亿美元、2029年到期可转换优先票据的发行。其中包括初始买方全额行使选择权，增购本金总额2.5亿美元的票据。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7591731.d.html</link>
+            <guid>3630470</guid>
+            <pubDate>Thu, 23 May 2024 23:30:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝壳跌幅扩大至10%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyq6000851.d.html</link>
-            <guid>3630229</guid>
-            <pubDate>Thu, 23 May 2024 17:10:17 GMT</pubDate>
+            <title><![CDATA[【政策产业链形成合力，低空经济万亿级市场规模可期】 “低空经济”今年被首次写入政府工作报告，已成为卖方高度聚焦的投资新赛道。从券商的中期策略会来看，多数研究所开设了低空经济专项分论坛或者有关分享环节，深入探讨新的发展趋势下低空经济产业面临的机遇与挑战，并挖掘对应的投资机会。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7035806.d.html</link>
+            <guid>3630469</guid>
+            <pubDate>Thu, 23 May 2024 23:29:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【被控滥用职权 俄国防部一名官员被捕】 俄罗斯联邦侦查委员会当地时间23日发布消息称，俄罗斯国防部国防订单保障司司长弗拉基米尔·维尔捷列茨基被指控在执行国防订单时滥用职权。据悉，他于2022年在执行国防订单接收工作时，接收了并未实际完成的订单，致使俄罗斯遭受了7000余万卢布的损失。俄罗斯联邦侦查委员会称法院已对维尔捷列茨基进行羁押候审。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyn7943629.d.html</link>
-            <guid>3630226</guid>
-            <pubDate>Thu, 23 May 2024 17:04:53 GMT</pubDate>
+            <title><![CDATA[【聚焦下沉市场 休闲零食行业打响新一轮渠道之争】 过去一周，休闲零食行业上市公司密集召开业绩说明会或相关的投资者调研活动。为应对日益激烈的休闲零食市场竞争，不少上市公司表示，正在规划未来3至5年的中长期经营战略，其中一个重要的组成部分是不断强化在头部零食量贩渠道体系的渗透，同时重视对下沉市场的高质量开拓。在业内专家看来，从大型商超起步，到线上品牌兴起，再到零食量贩潮流到来，每一轮销售渠道的变革实际上都酝酿着新的机会。但在成本上升、消费意向改变、零食销售渠道变化等多因素作用的当下，相关上市公司需要积极应对，并拿出行之有效的针对性措施。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5696163.d.html</link>
+            <guid>3630468</guid>
+            <pubDate>Thu, 23 May 2024 23:29:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【埃及消息人士：以色列当前立场不足以达成停火协议】当地时间5月23日，一位埃及高层消息人士称，以色列目前的立场不足以就停火和释放被扣押人员达成协议。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyi7336760.d.html</link>
-            <guid>3630222</guid>
-            <pubDate>Thu, 23 May 2024 16:59:44 GMT</pubDate>
+            <title><![CDATA[【英伟达打造“新锚点” AI浪潮方兴未艾】 AI热潮持续强劲，英伟达刚刚发布的第一财季报告各项数据超预期。从A股AI相关标的来看，今年一季度，受益AI发展，相关上市公司业绩不俗。工业富联、中际旭创、沪电股份等AI领域龙头股价在近期均创下历史新高，北向资金和融资资金也积极加仓AI相关个股。分析人士表示，英伟达的超预期财报和积极的市场信号，为A股英伟达产业链以及AI、算力等细分领域带来了正面影响，AI正由海外的创新热潮与资本开支逐渐转化为产业链核心上市公司的业绩。（中国证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5695674.d.html</link>
+            <guid>3630465</guid>
+            <pubDate>Thu, 23 May 2024 23:26:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【增强投资者获得感 多家上市券商拟中期分红】上市券商积极响应号召，正在有序推进中期分红，以增加分红频次提高投资者获得感。5月22日晚间，财通证券发布2023年年度股东大会决议公告显示，审议通过2023年度利润分配方案及授权2024年中期分红的议案。近日，已有多家券商提请股东大会授权董事会决定2024年中期分红的相关议案获审议通过。与此同时，上市券商2023年年度分红方案也在陆续兑现中。受访专家表示，券商积极推行年度分红和中期分红，展示了对股东利益的重视，有利于提高投资者回报水平，同时能够向市场传递积极信号，提高其市场竞争力。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyi7335810.d.html</link>
-            <guid>3630221</guid>
-            <pubDate>Thu, 23 May 2024 16:57:07 GMT</pubDate>
+            <title><![CDATA[日本汽车零部件供应商爱信：与三菱电机洽谈成立新公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5695283.d.html</link>
+            <guid>3630463</guid>
+            <pubDate>Thu, 23 May 2024 23:25:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本大发工业公司紧急召回超10万辆汽车】当地时间23日，日本大发工业公司向日本国土交通省报告，由于车辆前部的减震装置（稳定杆）存在缺陷，将对两种车型（生产于2019年6月至2020年1月）共104471辆汽车进行召回。目前已收到123起缺陷报告。国土交通省称，由于生产过程管理不善，装置内部残留了用于防锈等的液体，导致强度降低。车辆在行驶过程中，这些部件有可能出现断裂。大发工业公司将通过更换相关部件来解决问题。大发公司是日本丰田汽车公司旗下子公司，1907年创立于日本大阪，专注于小型车制造。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawfxyi7334051.d.html</link>
-            <guid>3630219</guid>
-            <pubDate>Thu, 23 May 2024 16:51:51 GMT</pubDate>
+            <title><![CDATA[【苹果公司供应商，专精特新“小巨人”今日申购 】5月24日，可申购创业板上市的汇成真空，该公司是国内领先的真空镀膜设备厂商，也是工信部授予的第三批专精特新“小巨人”企业。据介绍，汇成真空主营业务为真空镀膜设备以及配套服务，产品主要为PVD真空镀膜单体机和连续线设备，满足客户定制化的镀膜需求，主要客户包括苹果公司、富士康、比亚迪、捷普等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7034488.d.html</link>
+            <guid>3630462</guid>
+            <pubDate>Thu, 23 May 2024 23:24:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bowhead Specialty Holdings Inc.美国IPO首日开盘上涨超35.29%，报23美元，此前给出的IPO发行价为每股17美元。]]></title>
-            <guid>3630218</guid>
-            <pubDate>Thu, 23 May 2024 16:49:20 GMT</pubDate>
+            <title><![CDATA[【美国FAA局长或下月初向美众议院通报波音解决质量控制问题的计划】 知情人士称，美国联邦航空管理局局长惠特克将在6月初向美国众议院通报波音解决质量控制问题的计划。惠特克日前接受采访表示，波音公司在改善其安全文化和制造流程方面还有很长的路要走。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7591066.d.html</link>
+            <guid>3630461</guid>
+            <pubDate>Thu, 23 May 2024 23:23:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年以来逾50家公司或其高管被立案调查】 据记者不完全统计，截至5月23日，2024年以来A股已有53家上市公司或其高管被立案调查，其中5月以来就有21家，释放出明确的强监管信号。具体看立案事由，对于上市公司而言，因涉嫌信息披露违法违规是被立案的首要原因。2024年以来，因涉嫌信息披露问题被立案的上市公司多达30家。涉嫌未按时披露年报是被立案的另一主因。对于高管而言，立案事由则涉及信息披露违法违规、操纵市场、内幕交易、共同职务违法等多种情况。（上海证券报）]]></title>
+            <guid>3630460</guid>
+            <pubDate>Thu, 23 May 2024 23:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今日财经日历大事件提醒】
+
+经济数据关注：
+07:30：日本4月消费者价格指数同比（预估为2.4%，前值为2.7%）
+07:30：日本4月不含生鲜食品的消费者价格指数同比（预估为2.2%，前值为2.6%）
+14:00：英国4月零售销售环比（预估为-0.5%，前值为0.0%）
+14:00：德国第一季度GDP季调后环比终值（预估为0.2%，初值为0.2%）
+20:30：加拿大3月零售销售环比（预估为-0.1%，前值为-0.1%）
+20:30：美国4月耐用品订单环比初值（预估为-0.8%，前值为0.9%）
+22:00：美国5月密歇根大学消费者信心指数终值（预估为67.7，初值为67.4）
+
+全球央行和政府动态关注：
+15:00：欧洲央行执委Schnabel讲话
+17:15：欧洲央行管委、德国央行行长Nagel讲话
+18:15：欧洲央行管委、西班牙央行行长Hernandez de Cos讲话
+21:35：美联储理事Waller讲话
+23:25：欧洲央行管委、葡萄牙央行行长Centeno讲话]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5694378.d.html</link>
+            <guid>3630459</guid>
+            <pubDate>Thu, 23 May 2024 23:22:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【涤纶长丝供需格局或改善 相关公司盈利有望增厚】 据百川盈孚消息，位于浙江桐乡、江苏的涤纶长丝头部企业近日联合减产，幅度在10%左右，减产结束时间未定。此前，已有两家大型企业因装置改造停车，涉及长丝产能超过100万吨/年。“这次减产的主要目的是要将产品价格恢复到合理的利润空间。”有在桐乡从事涤纶生产的业内人士对记者表示。隆众资讯分析，现阶段涤纶长丝行业主动、被动去库存，行业整体产能利用率已降至86%附近，整体库存水平降至半个月左右，企业轻装上阵，短期来看涤纶长丝市场下行风险不大。另有行业研究员对记者表示，今年涤纶长丝新增产能大幅降低，并且不排除为负增长。在供给减少、下游需求回暖的情况下，行业景气度有望回升，相关上市公司盈利能力有望得到改善。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7590945.d.html</link>
+            <guid>3630458</guid>
+            <pubDate>Thu, 23 May 2024 23:22:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克：SpaceX不需要额外的资金，实际上SpaceX将回购股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7590824.d.html</link>
+            <guid>3630457</guid>
+            <pubDate>Thu, 23 May 2024 23:21:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超70城推住房以旧换新：更多城市鼓励国企收购二手房，南京已有52组成交】据不完全统计，截至目前至少71城推出“以旧换新”的相关政策，随着“517”楼市新政出台，越来越多的城市加速推进“以旧换新”的落地细则，多城明确鼓励或推动国企收购购房者手中的二手住房。以江苏省南京为例，据微信公众号“宜居南京”5月22日消息，南京存量房“以旧换新”，首批52组确认成交。平安证券房地产团队表示，以旧换新有利于畅通一二手房置换链条、协助缩短交易周期、促进新房销售去化。收购模式由地方国资或开发商直接收购居民旧房，在卖房环节更具效率，成为主流。对于收购二手房的现状，光大证券房地产团队首席分析师何缅南表示，目前收购目标规模较大的城市有郑州（24年预计5000套）、南京（24年预计2000套）等，其余城市整体属于百套级别的试点，且旧房收购主体基本为地方国企，短期内因各地试点规模较小、意向认购率尚不高，或对新房以及二手房成交影响有限。（澎湃新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5693871.d.html</link>
+            <guid>3630456</guid>
+            <pubDate>Thu, 23 May 2024 23:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克：xAI的目标是成为最有趣的人工智能】当地时间周四，马斯克在巴黎举行的Viva技术大会上接受了远程采访，谈到了旗下人工智能初创公司xAI“尽可能寻求真相”的目标。他批评Alphabet旗下的谷歌和OpenAI开发的其他AI模型是在“迎合”政治正确。他补充说，xAI的另一个目标是“努力成为最有趣的人工智能”。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5693686.d.html</link>
+            <guid>3630455</guid>
+            <pubDate>Thu, 23 May 2024 23:20:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【因投诉处理内部控制不严行为，光大银行被金融监管总局罚款20万】5月23日，国家金融监督管理总局网站披露的罚单显示，中国光大银行因投诉处理内部控制不严行为，被罚款20万元。金融监管总局作出上述处罚的时间为2024年5月14日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5693654.d.html</link>
+            <guid>3630454</guid>
+            <pubDate>Thu, 23 May 2024 23:20:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【实地探访部分省会城市：新政后楼市暖意渐现】 在房地产行业迎来一揽子支持性政策之后，全国各地相继推出了落地细则，部分省会城市的楼市活跃度有所回升，暖意渐现。近日，记者走访武汉、长沙、郑州、西安、沈阳等地部分楼盘时发现，在政策托底下，潜在购房者加快了入市的脚步。不过，楼市新政后续效应、持续效应尚待进一步观察。（上海证券报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7032667.d.html</link>
+            <guid>3630453</guid>
+            <pubDate>Thu, 23 May 2024 23:19:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美印芯片人才流动受签证制约，移民政策限制美国获得芯片劳动力】 《日本经济新闻》网站22日报道称，印度被吹捧为缓解美国芯片业劳动力缺口的选择，两国希望在美国移民限制的情况下加强半导体合作。事实上，美国移民政策正在限制美印双方芯片人才流动。全球芯片竞争如火如荼，芯片人才也成为稀缺的资源，美国各界正在寻找破解途径。报道提到，印度人才可能有助于解决美国芯片供应链中预期的工人短缺问题，但随着两国寻求加强关键技术合作，移民政策仍然是一个障碍。与此同时，预计美国将面临大量芯片劳动力短缺。美国半导体行业协会（SIA）的一份报告估计，到2030年，该行业将增加近11.5万个工作岗位，但其中有58%面临着空缺的风险。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7032611.d.html</link>
+            <guid>3630452</guid>
+            <pubDate>Thu, 23 May 2024 23:18:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【西班牙一海滨餐馆坍塌致4死16伤】西班牙旅游胜地马略卡岛一家餐馆23日晚发生坍塌事故，造成至少4人死亡、16人受伤。 据当地媒体报道，这起事故发生在当晚8时30分左右，一些顾客正在这家位于马略卡岛帕尔马市的海滨餐馆用餐。事发时该建筑二楼的玻璃露台倒塌后砸向一楼，在重力冲击下波及地下室。目前，死者国籍和身份尚不清楚。急救和消防部门人员正在搜寻废墟下的生还者。警方说，死亡人数可能增加。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0813248.d.html</link>
+            <guid>3630451</guid>
+            <pubDate>Thu, 23 May 2024 23:17:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【新型黏合剂可防植入手术形成疤痕】当人体内被植入像起搏器这样的医疗设备后，通常会引发免疫反应，导致植入物周围形成疤痕组织。纤维化的疤痕可能会干扰设备的功能。据22日发表在《自然》杂志上的一项研究，美国麻省理工学院工程师找到了一种简单通用的方法：在设备上涂一层水凝胶黏合剂，就可以避免纤维化，防止设备出现故障。这种方法不仅可用于起搏器，还可用于输送药物或进行细胞治疗的植入设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5692125.d.html</link>
+            <guid>3630449</guid>
+            <pubDate>Thu, 23 May 2024 23:16:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国已有超6000万人开通个人养老金账户】作为我国养老金保险体系“第三支柱”的重要制度设计，个人养老金制度在36个城市和地区先行实施已将近一年半的时间。记者从人力资源和社会保障部了解到，目前，已有6000多万人开通了个人养老金账户。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7031086.d.html</link>
+            <guid>3630447</guid>
+            <pubDate>Thu, 23 May 2024 23:15:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【麦格纳中国首个电动汽车电池壳体项目落户长春新工厂】 5月23日，麦格纳（Magna）宣布，已扩建其位于长春的制造装备工厂，以支持与某德系高端汽车品牌所签订的电动车电池壳体新合同。这是麦格纳在中国的首个电动汽车电池壳体项目。新工厂位于长春市汽车产业开发区中心地带，建成后占地面积约为3.95万平方米。工厂建设将分两期进行，占地面积约1.6万平方米的一期厂房已经完工并全面投入运营。当下该工厂电动车电池壳体年产能约20万套。(界面)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5690814.d.html</link>
+            <guid>3630445</guid>
+            <pubDate>Thu, 23 May 2024 23:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克的xAI据悉接近完成近60亿美元融资，公司估值有望达180亿美元】英国《金融时报》援引知情人士称，马斯克的人工智能初创公司xAI接近完成一轮近60亿美元融资，使该公司估值达到180亿美元。知情人士称，该轮融资得到安德里森·霍罗威茨、光速创投、红杉资本和Tribe Capital等风投公司的投资承诺。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7589532.d.html</link>
+            <guid>3630444</guid>
+            <pubDate>Thu, 23 May 2024 23:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家安全部：海底光缆已成个别国家眼中窃取情报信息的工具】 国家安全部微信公众号5月24日发文，海底光缆隐藏于深海之下，承载着政治、军事、经济、社会等各领域重要敏感信息，远离视线、难以防护，一旦遭到破坏或渗透，一方面会带来严重的数据安全风险，另一方面需要大量时间和资源进行恢复，势必对国家安全和社会发展造成难以估量的重大损失。近年来，海底光缆已成为个别国家眼中窃取情报信息，甚至谋求地缘政治利益的工具。特别是美情报部门前雇员斯诺登曝光的材料显示，美国家安全局早已建立了与“棱镜”计划并行的“上游”计划，凭借带宽优势对全球海底光缆实施全时段、大规模的监控窃听活动达数十年，严重削弱了全球网络通信基础设施的可靠性，对世界各国信息安全造成巨大威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7029317.d.html</link>
+            <guid>3630443</guid>
+            <pubDate>Thu, 23 May 2024 23:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国消费者信心延续复苏势头】英国消费者信心连续第二个月回升，主要得益于经济前景向好以及通胀率创下近三年新低后家庭预算增加。5月Gfk消费者信心指数上升至-17，为2021年12月以来最高水平。GfK客户战略总监Joe Staton说：“随着最新总体通胀率的下降和适时降息的前景，在经历了长期的停滞不前之后，这一趋势无疑是积极的。消费者明显感觉到经济形势正在好转，这预示着未来几个月的信心将进一步增长。”GfK的个人财务前景、储蓄和总体经济前景指标均有所上升，但追踪家庭在大件商品上消费意愿的指数却降至-26，Staton表示，“这进一步说明生活成本危机仍然是所有人每天都要面对的现实”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7589129.d.html</link>
+            <guid>3630442</guid>
+            <pubDate>Thu, 23 May 2024 23:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：三星HBM芯片因散热和功耗问题未能通过英伟达的测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwc0812004.d.html</link>
+            <guid>3630441</guid>
+            <pubDate>Thu, 23 May 2024 23:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“钢铁侠”马斯克：X公司（原社交媒体推特）月活用户数达到6亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqvz7028428.d.html</link>
+            <guid>3630440</guid>
+            <pubDate>Thu, 23 May 2024 23:06:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多地开展设备更新 政府“搭台”助力供需精准对接】自《推动大规模设备更新和消费品以旧换新行动方案》于今年3月13日正式对外发布后，各地纷纷积极响应，推出地方方案。据记者梳理，截至5月23日，甘肃、山东、四川、天津等27个省份发布与设备更新相关的方案。中国社会科学院国家经济发展与经济风险研究中心主任邓洲对记者表示，各地积极推动大规模设备更新工作落地，有利于释放更大的市场空间，助力信息技术、数字技术、智能技术等蓬勃发展，增强我国工业发展动力，对工业经济持续回升形成强力支撑。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5688287.d.html</link>
+            <guid>3630438</guid>
+            <pubDate>Thu, 23 May 2024 23:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克称不支持对中国产电动汽车征收关税】特斯拉CEO马斯克表示，他不支持美国政府最近宣布的对中国制造的电动汽车征收关税的决定。当地时间周四，在VivaTech大会的问答环节中，马斯克在回答提问时说:“特斯拉和我都没有要求征收这些关税。事实上，当他们宣布的时候，我很惊讶。”马斯克说:“特斯拉在没有关税和优惠支持的情况下，在中国市场竞争得很好。我赞成不征收关税。”马斯克还说:“我赞成对电动汽车或石油和天然气不征收关税，也不采取激励措施。”（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwh5688249.d.html</link>
+            <guid>3630437</guid>
+            <pubDate>Thu, 23 May 2024 23:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：Meta Platforms正在开发其AI助手的付费版本。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-05-24/detail-inawhqwe7588449.d.html</link>
+            <guid>3630436</guid>
+            <pubDate>Thu, 23 May 2024 23:02:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
