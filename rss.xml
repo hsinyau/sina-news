@@ -4,269 +4,150 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 12 Jun 2024 18:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 21:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美联储决策者预计2024年底PCE物价指数上升2.6%，3月份的预测为2.4%；预计核心PCE物价指数上升2.8%，3月时预计2.6%。]]></title>
-            <guid>3654565</guid>
-            <pubDate>Wed, 12 Jun 2024 18:09:22 GMT</pubDate>
+            <title><![CDATA[微软季度派息75美分/股，与此前持平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqup6929579.d.html</link>
+            <guid>3654728</guid>
+            <pubDate>Wed, 12 Jun 2024 21:06:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储公布决议后，墨西哥比索兑美元下跌0.62%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknq2644094.d.html</link>
-            <guid>3654563</guid>
-            <pubDate>Wed, 12 Jun 2024 18:07:53 GMT</pubDate>
+            <title><![CDATA[市场消息：美国众议院共和党投票决定以藐视国会罪名对美国司法部长加兰进行起诉。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqup6925020.d.html</link>
+            <guid>3654723</guid>
+            <pubDate>Wed, 12 Jun 2024 20:47:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：06月13日01时47分在西藏那曲市尼玛县（北纬34.11度，东经86.37度）发生3.1级地震，震源深度10千米。]]></title>
-            <guid>3654551</guid>
-            <pubDate>Wed, 12 Jun 2024 18:01:23 GMT</pubDate>
+            <title><![CDATA[【秘鲁中南部发生4.5级地震】 据秘鲁地球物理研究所国家地震中心报告，当地时间6月12日15时18分，该国中南部库斯科地区发生4.5级地震，震源深度120公里。目前暂无人员伤亡和财产损失报告。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqun2542207.d.html</link>
+            <guid>3654721</guid>
+            <pubDate>Wed, 12 Jun 2024 20:43:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【马斯克被控性别歧视和不公平解雇】当地时间周三，火箭制造商SpaceX及其首席执行官埃隆·马斯克被八名工程师起诉，他们表示，他们因提出对涉嫌性骚扰和歧视女性的担忧而被非法解雇。这四名工程师——四女四男——声称，因为他们发布了一封信函，称这位亿万富翁是“令人分心和尴尬的人”并敦促高管们否认他在社交媒体上发表的充满性意味的言论，马斯克下令在2022年解雇他们。这起诉讼是在洛杉矶州法院提起的。诉讼称，马斯克的行为在 SpaceX 营造了一种 "普遍的性别歧视文化"，女工程师经常遭受骚扰以及性别歧视的评论，她们对工作场所文化的担忧也被忽视。SpaceX 已否认有不当行为，称 2022 年的信件具有破坏性，工人因违反公司政策而被解雇是正当做法。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7151734.d.html</link>
-            <guid>3654538</guid>
-            <pubDate>Wed, 12 Jun 2024 17:44:27 GMT</pubDate>
+            <title><![CDATA[摩根大通CEO戴蒙和美国银行CEO Moynihan将出席前美国总统特朗普的非公开CEO会议。]]></title>
+            <guid>3654718</guid>
+            <pubDate>Wed, 12 Jun 2024 20:41:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[阿根廷总统米莱将于周五在G7会议上会见法国总统马克龙和IMF总裁格奥尔基耶娃。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2768359.d.html</link>
-            <guid>3654534</guid>
-            <pubDate>Wed, 12 Jun 2024 17:38:05 GMT</pubDate>
+            <title><![CDATA[【SpaceX推迟猎鹰9号火箭发射】当地时间6月12日，美国太空探索技术公司（SpaceX）表示，推迟原定于当天晚间的猎鹰9号火箭发射尝试，暂定于13日进行发射。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqut4411588.d.html</link>
+            <guid>3654710</guid>
+            <pubDate>Wed, 12 Jun 2024 20:34:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯里兰卡外交部长： 国际货币基金组织批准了对斯里兰卡29亿美元救助计划的第二次审查 。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2767792.d.html</link>
-            <guid>3654532</guid>
-            <pubDate>Wed, 12 Jun 2024 17:36:06 GMT</pubDate>
+            <title><![CDATA[辉瑞制药针对杜氏肌营养不良症（Duchenne muscular dystrophy，DMD）的第三阶段临床试验未能实现主要终点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqup6922276.d.html</link>
+            <guid>3654707</guid>
+            <pubDate>Wed, 12 Jun 2024 20:32:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿盟秘书长呼吁苏丹各方宰牲节期间立即停战】当地时间12日，阿拉伯国家联盟（阿盟）秘书长盖特向苏丹交战各方发出呼吁，要求苏丹各方在宰牲节期间立即停火，保持理性并避免一切可能导致苏丹局势恶化的行动，维护苏丹未来及其领土完整。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7148836.d.html</link>
-            <guid>3654530</guid>
-            <pubDate>Wed, 12 Jun 2024 17:31:09 GMT</pubDate>
+            <title><![CDATA[Virgin Galactic宣布按1-20反向拆股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqup6922191.d.html</link>
+            <guid>3654704</guid>
+            <pubDate>Wed, 12 Jun 2024 20:31:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：06月13日01时01分在印尼塔劳群岛（北纬4.35度，东经126.75度）发生5.7级地震，震源深度30千米。]]></title>
-            <guid>3654528</guid>
-            <pubDate>Wed, 12 Jun 2024 17:28:01 GMT</pubDate>
+            <title><![CDATA[派拉蒙全球告知员工：公司将侧重于流媒体业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqun2539549.d.html</link>
+            <guid>3654702</guid>
+            <pubDate>Wed, 12 Jun 2024 20:27:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国证券交易委员会表示， Terraform Labs应承担44.7亿美元的民事罚款和不当收益的返还责任。]]></title>
-            <guid>3654527</guid>
-            <pubDate>Wed, 12 Jun 2024 17:26:50 GMT</pubDate>
+            <title><![CDATA[【博通第二财季收入和全年业绩指引好于预期，宣布拆股计划，股价盘后涨超8%】 博通第二财季调整后净营收124.9亿美元，分析师预期120.6亿美元。第二财季半导体解决方案营收72亿美元，预期71.2亿美元。第二财季AI产品营收31亿美元。按10-1拆股，季度股票分红5.25美元。预计全年营收大约510亿美元，分析师预期505.8亿美元。博通（AVGO）美股盘后涨超8%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqun2537205.d.html</link>
+            <guid>3654699</guid>
+            <pubDate>Wed, 12 Jun 2024 20:17:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总统泽连斯基与沙特王储讨论了在瑞士举行的乌克兰峰会。乌克兰总统泽连斯基表示，乌克兰与沙特阿拉伯在合作方面取得进展。]]></title>
-            <guid>3654526</guid>
-            <pubDate>Wed, 12 Jun 2024 17:26:13 GMT</pubDate>
+            <title><![CDATA[【也门胡塞武装称再次袭击红海货轮】当地时间12日晚间，也门胡塞武装军事发言人叶海亚·萨里阿发表讲话称，胡塞武装通过无人快艇、无人机和弹道导弹对红海上的“TUTOR”号货轮进行了袭击，导致船只严重受损、面临沉没的危险。叶海亚表示胡塞武装还同伊拉克伊斯兰抵抗运动合作，对以色列的海法和阿什杜德展开了袭击。此外叶海亚还表示，胡塞武装将继续展开相关袭击行动，支持巴勒斯坦人民，直到针对巴勒斯坦的侵略行动停止，针对巴勒斯坦人民的封锁解除，否则胡塞武装不会停止相关军事行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypqut4409199.d.html</link>
+            <guid>3654698</guid>
+            <pubDate>Wed, 12 Jun 2024 20:16:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一艘货轮在也门荷台达附近遭袭 1名船员失踪】也门政府海岸警卫队一名官员12日对新华社记者说，一艘货轮当天在也门红海主要港口城市荷台达附近海域遭到胡塞武装袭击，造成船体进水、1名船员失踪。 这名不愿透露姓名的官员说，遭袭货轮名为“导师号”，由一家希腊船运公司运营。货轮在距离荷台达约67.7海里处遭到一艘装有炸药的小船撞击。小船在货轮尾部发生爆炸，造成货轮船体破裂进水。目前该货轮已失去动力，在海上漂流。该货轮报告说，1名船员在爆炸后失踪，船上有来自不同国家的21名船员。 英国海上贸易行动办公室12日证实一艘货轮在荷台达附近海域遭到袭击。该办公室说，一艘长约5至7米的白色小船与货轮船尾发生碰撞。货轮进水，且已“不受控制”。货轮在遭到小船袭击后又被“不明飞行物”击中。 也门胡塞武装尚未就此事发表声明。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7146667.d.html</link>
-            <guid>3654522</guid>
-            <pubDate>Wed, 12 Jun 2024 17:20:40 GMT</pubDate>
+            <title><![CDATA[民调显示，64%的人认为英国工党领袖斯塔默表现更佳，36%的受访者认为英国首相苏纳克表现更佳。]]></title>
+            <guid>3654697</guid>
+            <pubDate>Wed, 12 Jun 2024 20:15:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国防部：国防部长奥斯汀在与以色列同行的通话中敦促使地区紧张局势降级。不希望以色列和黎巴嫩之间的局势升级为区域冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeev7872104.d.html</link>
-            <guid>3654520</guid>
-            <pubDate>Wed, 12 Jun 2024 17:19:03 GMT</pubDate>
+            <title><![CDATA[【阿富汗北部一交通事故致11死4伤】阿富汗官员12日说，阿北部法里亚布省当天发生一起严重交通事故，造成至少11人死亡、4人受伤。 法里亚布省信息和文化部门负责人沙姆苏丁·穆罕默迪告诉媒体，这起事故发生在该省首府迈马纳市，一辆小型面包车行驶中突然偏离道路，撞向一栋民宅。死者中包括妇女与儿童，事故具体原因仍在调查。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknr7048373.d.html</link>
+            <guid>3654694</guid>
+            <pubDate>Wed, 12 Jun 2024 20:06:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国军方表示，不希望以色列和黎巴嫩之间的局势升级为地区冲突。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7146100.d.html</link>
-            <guid>3654518</guid>
-            <pubDate>Wed, 12 Jun 2024 17:18:57 GMT</pubDate>
+            <title><![CDATA[Meta Platforms考虑减少副总裁人数。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknr7046840.d.html</link>
+            <guid>3654684</guid>
+            <pubDate>Wed, 12 Jun 2024 19:56:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两种液态金属间热电效应首次测到】来自法国索邦大学的3名物理学家，在室温下将两种类型的液态金属放在一起，并对其进行热梯度处理，首次成功观测到两种液体材料之间的热电效应。这一最新研究有望对新型电池的开发产生影响。相关论文发表在10日出版的《美国国家科学院院刊》上。 (科技日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7145554.d.html</link>
-            <guid>3654517</guid>
-            <pubDate>Wed, 12 Jun 2024 17:17:04 GMT</pubDate>
+            <title><![CDATA[也门胡塞武装声称与在伊拉克的伊斯兰抵抗组织共同发动两次军事行动，瞄准以色列阿什杜德和海法的两个目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknq2664453.d.html</link>
+            <guid>3654682</guid>
+            <pubDate>Wed, 12 Jun 2024 19:54:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印尼北苏拉威西省西北海域发生6.0级地震】据印尼气象、气候和地球物理局消息，当地时间6月13日0时01分，印尼北苏拉威西省梅龙瓜内镇西北40公里处发生6.0级地震，震中位于北纬4.36度，东经126.65度，震源深度30公里。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7145462.d.html</link>
-            <guid>3654515</guid>
-            <pubDate>Wed, 12 Jun 2024 17:16:31 GMT</pubDate>
+            <title><![CDATA[利比亚和突尼斯内政部长同意重新开放主要过境点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknr7046527.d.html</link>
+            <guid>3654681</guid>
+            <pubDate>Wed, 12 Jun 2024 19:54:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【用海藻收集稀土或开辟生物采矿新路】从化石燃料到清洁能源的转型正席卷全球，势不可挡。在这场波澜壮阔的能源革命中，全球对于制造电池、太阳能电池板等绿色技术所需的新矿物资源的争夺愈发激烈。现在，一条绿色的开采道路出现在科学家眼前——用海藻收集稀土。英国《新科学家》网站近日刊文称，某些海藻品种拥有一种特殊能力——能够大量积聚海水中的稀土元素。目前，多个国际研究小组正在探索如何从海藻中收集这些珍贵的稀土元素，这一创新思路在“生物采矿”领域尚属前沿。 (科技日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4648911.d.html</link>
-            <guid>3654514</guid>
-            <pubDate>Wed, 12 Jun 2024 17:16:09 GMT</pubDate>
+            <title><![CDATA[也门胡塞武装称在红海瞄准了训练船只。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknq2664382.d.html</link>
+            <guid>3654680</guid>
+            <pubDate>Wed, 12 Jun 2024 19:53:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国相关机构要求Alphabet旗下自动驾驶汽车公司Waymo在8月6日之前提供所有涉及无人驾驶汽车事件的新细节。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4648842.d.html</link>
-            <guid>3654513</guid>
-            <pubDate>Wed, 12 Jun 2024 17:15:27 GMT</pubDate>
+            <title><![CDATA[【中方代表安理会当场回应美方发言】当地时间6月12日上午，北京时间昨晚，联合国安理会举行朝鲜人权问题公开会。中国常驻联合国副代表耿爽在会上先后两轮发言，强调中方希望美方停止说一套做一套。 耿爽首轮发言指出，如果美国等国家真的关心地区和平稳定、关心朝鲜人权状况、关心朝鲜人民福祉，就应该采取切实行动、推动重启对话，就应该放弃挑衅行为，争取局势早日转圜，就应该支持安理会调整有关制裁措施、特别是人道民生领域规定，同时立即取消加剧朝鲜人道局势恶化的单边强制措施。 对于美方代表再次发言中的涉我内容，耿爽当场回应说，“我们听到美国代表无数次说，他们愿无条件与朝鲜方面开展对话，愿维护半岛和平稳定，愿推动半岛问题政治解决。这些话我们听过很多遍了，但是美方实际在做什么？政治上，持续向朝鲜施压，包括利用人权问题对朝施压。军事上，持续举行大规模、高强度军事演习，甚至派遣战略武器到半岛。经济上，持续实施非常残酷、残忍的单边制裁措施，不断加剧朝鲜的人道危机”。 耿爽表示，希望美方停止说一套做一套，拿出实际行动，体现政治意愿，停止挑衅行为，同中方以及其他有关各方一道，为维护半岛和平稳定作出切实努力。 （CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknt7760404.d.html</link>
+            <guid>3654679</guid>
+            <pubDate>Wed, 12 Jun 2024 19:53:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，巴西警方指控卢拉腐败。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7144162.d.html</link>
-            <guid>3654510</guid>
-            <pubDate>Wed, 12 Jun 2024 17:08:49 GMT</pubDate>
+            <title><![CDATA[【东地中海发生4.8级地震 希腊东部部分岛屿有震感】据欧洲地中海地震中心测定，当地时间6月12日22时19分，东地中海发生里氏4.8级地震，震中位于东经28.03度，北纬35.90度，震源深度62.4千米。希腊东部靠近土耳其的部分岛屿有震感，暂无人员伤亡报告。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknq2663304.d.html</link>
+            <guid>3654672</guid>
+            <pubDate>Wed, 12 Jun 2024 19:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄称用精确制导武器及无人机打击乌目标】俄罗斯国防部当地时间12日发布战报称，俄军当天使用机载和陆基精确制导武器以及无人机，对乌军空军基地、外国雇佣军驻地、无人艇部署区域以及乌军弹药库发动联合打击，所有预定目标均被击中。乌克兰武装部队总参谋部12日发布战报信息称，在哈尔科夫地区，俄军继续对沃尔昌斯克发动攻势，目前局势已得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4647529.d.html</link>
-            <guid>3654509</guid>
-            <pubDate>Wed, 12 Jun 2024 17:04:20 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：06月13日03时22分在西藏那曲市双湖县（北纬34.77度，东经88.12度）发生3.4级地震，震源深度10千米。]]></title>
+            <guid>3654665</guid>
+            <pubDate>Wed, 12 Jun 2024 19:39:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[非政府组织称，在加那利群岛航线上死亡的移民数量空前。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4647433.d.html</link>
-            <guid>3654508</guid>
-            <pubDate>Wed, 12 Jun 2024 17:03:47 GMT</pubDate>
+            <title><![CDATA[游戏驿站（GME）下跌13%，刷新日低。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknv4536263.d.html</link>
+            <guid>3654664</guid>
+            <pubDate>Wed, 12 Jun 2024 19:38:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[SpaceX前雇员以性骚扰起诉马斯克和该公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4646980.d.html</link>
-            <guid>3654503</guid>
-            <pubDate>Wed, 12 Jun 2024 17:00:08 GMT</pubDate>
+            <title><![CDATA[【游戏驿站美股尾盘跌超10%】 游戏驿站美股尾盘跌超10%，此前一度涨超10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknr7042816.d.html</link>
+            <guid>3654657</guid>
+            <pubDate>Wed, 12 Jun 2024 19:30:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[坎贝尔：北约不可能在印度太平洋地区执行新任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7141664.d.html</link>
-            <guid>3654502</guid>
-            <pubDate>Wed, 12 Jun 2024 16:58:59 GMT</pubDate>
+            <title><![CDATA[【捷克政府就购买豹式主战坦克达成协议】 当地时间6月12日，捷克总理菲亚拉在新闻发布会上表示，根据捷克国防部长切尔诺霍娃的提议，政府决定采购豹式主战坦克，其目的是取代苏式旧装备。这项决定意味着捷克将与德国为首的几个欧洲国家联合采购坦克，捷克将花费520亿捷克克朗（约合人民币165亿元）购买77辆豹2A8坦克。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknv4534312.d.html</link>
+            <guid>3654651</guid>
+            <pubDate>Wed, 12 Jun 2024 19:21:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【连接器市场需求回暖 行业龙头推进高端产品布局】“目前通讯连接器及其组件需求逐渐回暖，订单有所增加。公司正在不断研发连接器相关产品，产品技术也不断提升。”6月12日下午，在鼎通科技业绩说明会上，公司董事长、总经理王成海表示。随着连接器市场需求回暖，相关企业经营情况也在好转。电连技术、瑞可达、意华股份、鸿日达等连接器行业头部企业，今年一季度净利润实现同比正增长。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7141437.d.html</link>
-            <guid>3654499</guid>
-            <pubDate>Wed, 12 Jun 2024 16:57:54 GMT</pubDate>
+            <title><![CDATA[【江西抚州市发布暴雨红色预警】江西抚州市气象台2024年06月13日02时03分变更暴雨红色预警信号：预计未来3小时内，黎川县的局部地方累计雨量可达100毫米以上，并伴有短时强降水、雷电等强对流天气，请注意防范强降雨可能引发的城乡内涝、中小河流洪水、山洪和地质灾害。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypknv4533651.d.html</link>
+            <guid>3654643</guid>
+            <pubDate>Wed, 12 Jun 2024 19:14:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Terraform Labs同意在与美国证券交易委员会（SEC）的诉讼中支付44.7亿美元。]]></title>
-            <guid>3654497</guid>
-            <pubDate>Wed, 12 Jun 2024 16:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合国荒漠化主席表示，非洲绿色长城无法实现2030年目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2757964.d.html</link>
-            <guid>3654496</guid>
-            <pubDate>Wed, 12 Jun 2024 16:50:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国海军：也门附近船只再次遭到炮弹攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7140061.d.html</link>
-            <guid>3654495</guid>
-            <pubDate>Wed, 12 Jun 2024 16:50:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦能源监管委员会（FERC）：众多氢生产商应当根据5月份敲定的转型制度参与长期电网计划，以避免潜在地抑制电网（运营）。]]></title>
-            <guid>3654493</guid>
-            <pubDate>Wed, 12 Jun 2024 16:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国常务副国务卿坎贝尔：下周将与美国国家安全顾问沙利文一同访问印度。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7137913.d.html</link>
-            <guid>3654489</guid>
-            <pubDate>Wed, 12 Jun 2024 16:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国驻古巴大使马辉离任回国】 6月12日，驻古巴大使马辉离任回国。古共中央国际关系部部长洛萨达与马辉大使在机场话别，使馆主要外交官前往机场送行。近日，马大使通过各种方式向古巴党政军高层、各界友好人士，以及在古中资企业代表、华侨华人等分别辞行。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2755306.d.html</link>
-            <guid>3654487</guid>
-            <pubDate>Wed, 12 Jun 2024 16:37:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多地规划发放算力券 助力中小企业数字化发展】为加快盘活和促进数据要素创新性配置，越来越多城市加入筹备、规划算力券的队伍。年初至今，已有南京、青岛、郑州等多地发布与算力券相关的政策举措。“算力券降低了企业使用高性能计算资源的成本，促进了AI（人工智能）技术在各类市场主体中的普及与创新应用，提升企业生产效率的同时也促进了新质生产力的培育。”中国移动通信联合会区块链与数据要素专业委员会主任陈晓华表示。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2754919.d.html</link>
-            <guid>3654484</guid>
-            <pubDate>Wed, 12 Jun 2024 16:35:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【缅甸警方在掸邦查获700公斤毒品】缅甸毒品泛滥管控中央委员会12日说，缅甸警方近日在掸邦查获500公斤冰毒和200公斤氯胺酮。 缅甸毒品泛滥管控中央委员会说，缅甸缉毒警察接到线报后8日在掸邦景栋镇一辆车上查获这批毒品，并逮捕2名犯罪嫌疑人。相关部门已依法起诉犯罪嫌疑人，并对案件展开进一步调查。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2754400.d.html</link>
-            <guid>3654483</guid>
-            <pubDate>Wed, 12 Jun 2024 16:33:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[英国石油公司炼油和石油产品交易主管SVEN BOSS-WALKER辞职，寻求另一个工作机会。]]></title>
-            <guid>3654481</guid>
-            <pubDate>Wed, 12 Jun 2024 16:32:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【平谷打造全国首个空中直播基地】6月12日，“供销村播·首都有约”——国农港智慧云供销村播产业园正式揭牌成立，北京市村播产业园万兆应用试点项目同步启动，这是继4月29日平谷区启动中国乐谷·村播学院总部基地以来，平谷区在加快建设北京（平谷）直播电商产业功能区方面又一新举措。记者获悉，该产业园拥有供销系统华北地区最大的户外直播基地、全国首例商业化运营的万兆光纤村播产业园，以及全国首个空中直播基地。未来三年，产业园计划引进直播电商企业300家以上、服务机构30家以上、合作企业100家以上，实现总产值超百亿、企业税收3500万以上的目标。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4642978.d.html</link>
-            <guid>3654480</guid>
-            <pubDate>Wed, 12 Jun 2024 16:30:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京筹集11.9万套优惠房供毕业生选租】又到毕业季，6月12日，由市住房和城乡建设委、团市委指导北京房地产中介行业协会联合市律师协会、市学联、清华大学党委研工部等单位举办的2024年“毕业季租房服务进校园”首场活动在清华大学正式启动。记者从现场获悉，本次活动面向本市2024年应届毕业生、2023年离校未就业的毕业生以及异地来京就业的2024年高校毕业生。活动前期针对毕业生们开展租房需求调研，共筹集优惠房源11.9万套（间），将向毕业生提供多元化租房服务优惠措施；活动将持续至9月底。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeev7865546.d.html</link>
-            <guid>3654479</guid>
-            <pubDate>Wed, 12 Jun 2024 16:29:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京今天或迎今年第四个高温日】北京仍在高温橙色预警中。记者从气象部门了解到，6月12日代表“北京温度”的南郊观象台最高气温为36.3℃，这是北京6月的第三个高温日，也是今年第三个高温日。据北京市气象台预报，今日最高气温为37℃，或将打破北京常年6月的高温日数纪录。（新京报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeev7865274.d.html</link>
-            <guid>3654478</guid>
-            <pubDate>Wed, 12 Jun 2024 16:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄称利用“柳叶刀”无人机摧毁乌战机】 俄乌冲突延续至今，双方不断加大在无人作战武器方面的较量。11日，俄国防部称利用无人机摧毁了乌军战机并公布了相关的视频。同一天，乌军无人系统部队在乌克兰首都基辅亮相。俄国防部当天公布的视频显示，在对乌军一处空军基地的袭击中，俄军的一架“柳叶刀”无人机击中了一架乌克兰苏-25战机，这个过程被俄军的一架高空无人侦察机拍摄下来。俄国防部没有说明事件发生的具体时间。11日早些时候，俄国防部提到，俄军在过去24小时内摧毁了乌军的一架苏-27战机和一架苏-25战机。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4642137.d.html</link>
-            <guid>3654475</guid>
-            <pubDate>Wed, 12 Jun 2024 16:25:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：赞比亚结束近四年美元债券违约状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2752303.d.html</link>
-            <guid>3654473</guid>
-            <pubDate>Wed, 12 Jun 2024 16:24:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：北约的核态势并不新鲜，它已存在多年。我们的行动非常可预测，但我们也明确表示，核态势是我们的最终威慑力量。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7134326.d.html</link>
-            <guid>3654472</guid>
-            <pubDate>Wed, 12 Jun 2024 16:24:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本东芝公司将在大阪附近的兵库县扩建一家半导体工厂，并在泰国普拉钦武里省扩建一家加工厂。]]></title>
-            <guid>3654468</guid>
-            <pubDate>Wed, 12 Jun 2024 16:20:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：我们已经看到来自俄罗斯方面的危险核言论，我们也看到俄罗斯方面进行了更多的核演习。]]></title>
-            <guid>3654467</guid>
-            <pubDate>Wed, 12 Jun 2024 16:17:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[东芝将在日本中部石川县的一家制造子公司开设一条新的生产线。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeet7132174.d.html</link>
-            <guid>3654466</guid>
-            <pubDate>Wed, 12 Jun 2024 16:16:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：东芝在截至2027年3月的3年中，预计集团资本支出总额约为4000亿日元。]]></title>
-            <guid>3654465</guid>
-            <pubDate>Wed, 12 Jun 2024 16:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：东芝计划在未来3年投入约1000亿日元的资本，以发展其半导体业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypees2749557.d.html</link>
-            <guid>3654464</guid>
-            <pubDate>Wed, 12 Jun 2024 16:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰总统泽连斯基在吉达会见沙特王储。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeev7862872.d.html</link>
-            <guid>3654463</guid>
-            <pubDate>Wed, 12 Jun 2024 16:14:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京解除大风蓝色预警信号】目前，本市大部分地区风力已减弱，市气象台2024年6月12日23时56分解除大风蓝色预警信号。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-13/detail-inaypeex4639959.d.html</link>
-            <guid>3654462</guid>
-            <pubDate>Wed, 12 Jun 2024 16:13:43 GMT</pubDate>
+            <title><![CDATA[广西恭城县气象台13日2时53分将暴雨橙色预警信号提升为红色：我县嘉会、西岭、栗木等乡镇未来3小时将出现大暴雨，请注意防范。]]></title>
+            <guid>3654641</guid>
+            <pubDate>Wed, 12 Jun 2024 19:12:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
