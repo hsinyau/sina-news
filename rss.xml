@@ -4,11 +4,157 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 17 Jun 2024 18:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 21:06:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国国家飓风中心：潜在的热带气旋1号位于德克萨斯州布朗斯维尔东南约755公里处，最大持续风速为每小时65公里。预计潜在的热带气旋周二晚上或周三将向西北方向转向，可能在周三晚些时候靠近西部墨西哥湾海岸。]]></title>
+            <guid>3660145</guid>
+            <pubDate>Mon, 17 Jun 2024 20:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[宣布裁员后，Chegg 股价盘后上涨 7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazauct9099002.d.html</link>
+            <guid>3660144</guid>
+            <pubDate>Mon, 17 Jun 2024 20:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国出售委内瑞拉在美石油公司 委政府：强盗行径】当地时间6月17日，委内瑞拉政府发表声明，强烈谴责美国启动司法程序，强制出售委内瑞拉国家石油公司在美子公司雪铁戈石油公司，并称这一行为违反法律，是对委内瑞拉财产的掠夺。此前，委内瑞拉总统马杜罗曾于去年5月份就对美政府拟出售雪铁戈石油公司予以谴责，称这是“掠夺”行为，拒绝接受。委内瑞拉政府发表的声明表示，美国将委内瑞拉政府排除在回购雪铁戈石油公司股份的竞标之外，且让委方无法在美国通过司法途径捍卫自己的权利，是一种强盗行径。委内瑞拉将继续采取一切措施，防止雪铁戈石油公司被剥夺，同时保留对任何收购、协助购买该公司股份和参与相关谈判的公司或个人采取措施的权力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9732442.d.html</link>
+            <guid>3660140</guid>
+            <pubDate>Mon, 17 Jun 2024 20:28:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paradox Interactive：取消发布游戏“Life by You”的原定计划，二季度计提2.08亿瑞典克朗（偏负面的）费用。]]></title>
+            <guid>3660132</guid>
+            <pubDate>Mon, 17 Jun 2024 19:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：就全美汽车工人联合会（UAW）与Ultiium Cells达成协议表示祝贺。]]></title>
+            <guid>3660131</guid>
+            <pubDate>Mon, 17 Jun 2024 19:44:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马拉维已故副总统奇利马被安葬在其家乡】利隆圭消息：马拉维17日将因飞机失事遇难的副总统奇利马安葬在其家乡恩切乌地区的恩西佩村。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9724968.d.html</link>
+            <guid>3660130</guid>
+            <pubDate>Mon, 17 Jun 2024 19:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以方消息人士称本轮巴以冲突前以军曾收到警示性报告】当地时间6月17日，据以色列安全部门消息人士称，以色列国防军和情报系统在去年10月7日前曾收到警示性报告。报告称，巴勒斯坦伊斯兰抵抗运动（哈马斯）当时正在为大规模袭击以色列以及扣押以色列人进行训练。以色列安全部门消息人士称，该警示性报告由以色列国防军军事情报局在去年10月7日袭击发生前三周的时间完成，概述了巴勒斯坦加沙地带武装组织举行的一系列演习，称其模拟对以色列城镇和以军哨所进行袭击，并计划扣押大约200至250名以方人员返回加沙。但该报告未能引起以色列相关高级领导人的重视。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9724352.d.html</link>
+            <guid>3660129</guid>
+            <pubDate>Mon, 17 Jun 2024 19:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[马斯克表示，正致力于特斯拉宏图第四篇章（Master Plan Part 4）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazauct9093775.d.html</link>
+            <guid>3660128</guid>
+            <pubDate>Mon, 17 Jun 2024 19:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【时隔一年 苹果宣布将关闭先买后付服务Pay Later】苹果公司周一表示将不再通过Pay Later提供新的贷款，该服务允许用户分四期支付最高1000美元的款项。在此之前苹果宣布来自Affirm Holdings Inc.和花旗等的第三方服务将被纳入即将推出的iOS 18软件。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9723581.d.html</link>
+            <guid>3660127</guid>
+            <pubDate>Mon, 17 Jun 2024 19:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：百事公司在俄克拉荷马州的员工加入国际卡车司机工会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9723434.d.html</link>
+            <guid>3660126</guid>
+            <pubDate>Mon, 17 Jun 2024 19:36:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国产游戏《黑神话》卖爆了：110万人预约抢购，全球销售超过1亿元】名为《黑神话：悟空》（简称《黑神话》）的游戏，今年6月8日开启预购，计划于8月20日正式上线。而该游戏的实体收藏版，最近也在京东平台开启预售。6月8日的首轮预售有约70万人预约抢购。而6月17日的第二轮预售，已有45万人预约。《黑神话》的开发商为游戏科学公司（深圳市游科互动科技有限公司），这是一家游戏行业创业公司。企查查显示，腾讯旗下广西腾讯创业投资有限公司持有该公司5%股权。除了实体版，该游戏的数字版本近日也在Steam、腾讯WeGame、Epic等平台预售。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucw4113095.d.html</link>
+            <guid>3660125</guid>
+            <pubDate>Mon, 17 Jun 2024 19:28:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯海军舰队驶离哈瓦那港口 结束对古巴访问】当地时间17日下午，由三艘舰艇和一艘核潜艇组成的俄罗斯海军舰队结束对古巴的访问，驶离哈瓦那港口。古巴革命武装力量部在其社交媒体账号发文表示，这是一次富有成果的友好会晤。访问期间，古巴国家主席迪亚斯-卡内尔参观了“戈尔什科夫海军上将”号护卫舰的内部和“喀山”号核潜艇的甲板；古巴革命武装力量部的军校生和古巴民众也参观了护卫舰。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9721670.d.html</link>
+            <guid>3660124</guid>
+            <pubDate>Mon, 17 Jun 2024 19:27:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【获顶级ETF发行商青睐 超百亿美元将从苹果流入英伟达】英伟达强劲的走势获得了基金公司更多的青睐。股票型基金“科技行业精选指数ETF”（XLK）将在本周五后迎来季度权重调整。SPDR Americas Research主管Matthew Bartolini告诉媒体，新的比例显示，微软仍将是首选股票，其次是英伟达，再然后是苹果。目前，微软和苹果原来各占XLK约22%的权重，英伟达为6%；根据Bartolini的说法，在周五调整后，英伟达将和微软各占21%，苹果则只有4.5%。对于英伟达来说，15%的变化意味着基金将增持其逾100亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9720691.d.html</link>
+            <guid>3660121</guid>
+            <pubDate>Mon, 17 Jun 2024 19:22:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【聚焦主赛道、开拓新业务 多家上市公司更名“焕新颜”】二季度以来，因专注主营业务、开拓创新业务等原因，已有十余家上市公司主动变更证券简称或公司名称。上市公司变更证券简称有具体的规范性要求，通常公司经营或业务发生较大变化，需要根据新的业务主体或行业属性变更证券简称。公司发展阶段或定位发生变化，也会根据新的战略方向等变更证券简称。而更名申请提出后，交易所也会对其变更证券简称的理由、意义，以及是否存在违规等行为进行审核。近年来，上市公司证券简称的变化，也逐渐成为投资者观察上市公司专注主业、谋划新局的一个窗口。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9719626.d.html</link>
+            <guid>3660119</guid>
+            <pubDate>Mon, 17 Jun 2024 19:16:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织周一表示：阿根廷将把实际利率上调至正区间，并放松货币管制，因为这个容易发生危机的国家寻求继续放缓物价上涨并保护其外汇储备。]]></title>
+            <guid>3660118</guid>
+            <pubDate>Mon, 17 Jun 2024 19:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波音CEO周二将对美国参议院委员会表示，他们正在就其安全文化采取行动并取得进展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucw4107367.d.html</link>
+            <guid>3660111</guid>
+            <pubDate>Mon, 17 Jun 2024 19:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球最大家装零售商发行100亿美元投资级公司债】家得宝（HD）于美国投资级市场发行价值100亿美元的债券——为美国蓝筹债市场2024年迄今最大的债务融资规模，以支持其收购建材分销商SRS Distribution Inc.的交易。据知情人士透露，家得宝销售九种到期时间的债券，久期最长为40年，收益率将较可比美债的收益率溢价110个基点，原来讨论的目标是溢价大约137.5个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucw4104472.d.html</link>
+            <guid>3660107</guid>
+            <pubDate>Mon, 17 Jun 2024 18:47:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高温持续 北马其顿蜂农遭遇产业危机】今年初夏以来，全球多地遭遇高温炙烤。在位于北马其顿西部的一个被群山环绕的小山村，今年6月的气温已经超过30摄氏度，比往年高出3摄氏度。持续高温给当地蜜蜂的生存带来了不利影响，也让蜂农们遭遇到了产业危机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucw4104195.d.html</link>
+            <guid>3660106</guid>
+            <pubDate>Mon, 17 Jun 2024 18:46:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【仅8%火势得到控制 美国加州山火持续蔓延】当地时间17日，受山火蔓延影响，美国加州仍有数千人处于撤离警告状态。根据加州林业和消防局网站的报告，目前山火过火面积已超过80平方公里，仅8%的火势得到控制。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9711816.d.html</link>
+            <guid>3660104</guid>
+            <pubDate>Mon, 17 Jun 2024 18:40:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苹果将关闭Apple Pay Later分期付款服务】知名科技记者Mark Gurman称，苹果公司将关闭其Apple Pay Later分期付款计划，标志着该公司放弃了在内部提供更多金融服务的努力。苹果表示，将不再为Apple Pay Later提供贷款。此前，苹果宣布第三方服务，如Affirm Holdings和花旗集团的服务，将被整合到即将推出的iOS 18软件中。苹果发言人在一份声明中表示：“从今年晚些时候开始，全球用户在使用Apple Pay结账时，将能够通过信用卡、借记卡以及贷方获得分期付款贷款。”“随着这项新的全球分期贷款服务的推出，我们将不再在美国提供Apple Pay Later服务。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9710400.d.html</link>
+            <guid>3660103</guid>
+            <pubDate>Mon, 17 Jun 2024 18:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【游戏驿站股价在年度股东大会后暴跌】游戏驿站的首席执行官Ryan Cohen表示，这家陷入困境的视频游戏零售商将在周一的年度股东大会上专注于削减成本和长期盈利能力。科恩补充说，这将涉及一个“较小的商店网络”，这表明可能会有更多的商店关闭。没有立即提供进一步的削减细节。在会议后，游戏驿站的股价下跌了12%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucw4100600.d.html</link>
+            <guid>3660099</guid>
+            <pubDate>Mon, 17 Jun 2024 18:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：波音公司发出CEO岗位招聘意向，但被多位潜在的候选人拒绝。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaucr9708803.d.html</link>
+            <guid>3660097</guid>
+            <pubDate>Mon, 17 Jun 2024 18:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧盟官员们表示：法国大选将让欧洲防务面临风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazapvy4229416.d.html</link>
+            <guid>3660096</guid>
+            <pubDate>Mon, 17 Jun 2024 18:21:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国务卿曾向以总理承诺将取消美对以供武限制】记者当地时间17日获悉，以色列总理内塔尼亚胡此前在会见到访的美国国务卿布林肯时，要求美国恢复和扩大对以色列的武器供应。而布林肯则承诺美国将在短期内取消对以色列的武器供应限制。今年5月，美国总统拜登表示，如果以色列对加沙南部城市拉法发动大规模入侵，美国将停止向以色列大规模供应武器，并在随后推迟了向以色列交付部分武器。(央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazapvt9837714.d.html</link>
+            <guid>3660095</guid>
+            <pubDate>Mon, 17 Jun 2024 18:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【津巴布韦一客车起火至少6人死亡】津巴布韦警方17日说，一辆客车16日晚在该国东部马尼卡兰省行驶途中起火，造成6人死亡、多人受伤，另有2人失踪。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazapvv9214317.d.html</link>
+            <guid>3660094</guid>
+            <pubDate>Mon, 17 Jun 2024 18:13:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【主流航司5月运力投入提升 国际客运表现最为抢眼】6月17日晚间，多家航空公司披露了5月主要运营数据。从披露情况来看，国际客运运力投入和旅客周转量的大幅变动最为亮眼，多家航司相关指标增幅超100%。出境游延续快速恢复态势成为重要牵引因素。国际航线增速明显，部分航司增加了新航线，或者优化了频率。有机构预计，随着未来国际客流量加速回归，国内航司国际航线将逐渐恢复，行业宽体机有望更多投向国际市场，从而缓解国内供给过剩的局面，带动各航司飞机利用率上行，航司业绩弹性有望进一步释放。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazapvv9212629.d.html</link>
@@ -19,11 +165,6 @@
             <title><![CDATA[EOG资源COO Leitzell：得益于OPEC石油减产，原油市场（供需关系）是平衡的。]]></title>
             <guid>3660089</guid>
             <pubDate>Mon, 17 Jun 2024 17:53:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西里约热内卢发生枪击事件 造成2死1伤】当地时间6月17日上午，巴西东南部里约热内卢的卡通比地区发生枪击事件，造成2人死亡、1人受伤。据悉，当地黑帮组织因争抢地盘发生交火，两名黑帮组织成员在枪战中死亡，一名5岁女童受伤。目前，伤者已被送医接受治疗，当地警方已加强在事发地区的巡逻力度。（央视新闻）]]></title>
-            <guid>3660088</guid>
-            <pubDate>Mon, 17 Jun 2024 17:53:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【巴西里约热内卢发生枪击事件 造成2死1伤】当地时间6月17日上午，巴西东南部里约热内卢的卡通比地区发生枪击事件，造成2人死亡、1人受伤。据悉，当地黑帮组织因争抢地盘发生交火，两名黑帮组织成员在枪战中死亡，一名5岁女童受伤。目前，伤者已被送医接受治疗，当地警方已加强在事发地区的巡逻力度。(央视新闻)]]></title>
@@ -189,207 +330,6 @@
             <link>https://finance.sina.cn/7x24/2024-06-18/detail-inazaipv9930495.d.html</link>
             <guid>3660047</guid>
             <pubDate>Mon, 17 Jun 2024 16:01:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ST凯撒：申请撤销退市风险警示并继续实施其他风险警示】ST凯撒公告，公司向深交所提交的撤销退市风险警示及部分其他风险警示情形的申请已获得审核同意。公司股票将于6月18日停牌一天，6月19日复牌并撤销退市风险警示，继续被实施其他风险警示，股票简称由“*ST凯撒”变更为“ST凯撒”，股票代码不变。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9928703.d.html</link>
-            <guid>3660046</guid>
-            <pubDate>Mon, 17 Jun 2024 15:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【香港机场管理局：受货机故障事件影响，6月17日累计450班客机延误】据香港无线新闻，香港机场管理局6月17日晚间表示，受货机降落后轮胎爆裂及油压系统故障事件影响，预计由早上7时至晚上23时59分，机场共处理932航班，累计这段期间约450班客机延误，估计凌晨时分将疏导今日延误离港及抵港的航班；机铁、机场巴士午夜后将加强服务。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipz6097956.d.html</link>
-            <guid>3660044</guid>
-            <pubDate>Mon, 17 Jun 2024 15:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储：非银行金融机构的增长取决于银行】根据美国纽约联储在Liberty Street Economics博客上发布的一篇文章，非银行金融机构高度依赖银行，因为前者的增长似乎有很大一部分是由银行支持的。“非银行金融机构并非独立于银行发展，”纽约大学金融学教授Viral Acharya和Bruce Tuckman、以及纽约联储员工Nicola Cetorelli写道，“事实上，在很大程度上，它们的增长取决于银行——银行为非银行金融机构提供必要的资金和流动性支持，以提供中介服务。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4316662.d.html</link>
-            <guid>3660040</guid>
-            <pubDate>Mon, 17 Jun 2024 15:45:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海南省长刘小明调研海南商业航天发射首发准备工作】6月17日，省长刘小明到文昌市调研海南商业航天发射首发准备工作，并主持召开座谈会。刘小明来到海南商业航天发射场，详细了解首发准备、2号发射工位建设和任务组织实施情况，观摩智慧发射场数字孪生、数字伴飞及指显软件功能演示。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipz6096220.d.html</link>
-            <guid>3660038</guid>
-            <pubDate>Mon, 17 Jun 2024 15:40:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国贸促会副会长陈建安率团访问斯洛文尼亚】6月13日至15日，中国贸促会副会长陈建安率团访问斯洛文尼亚，拜会斯洛文尼亚投资署署长卡普尔、斯洛文尼亚工商会斯中商务委员会主席瓦波蒂奇斯，组织中斯企业对话交流，大力宣介中国式现代化为世界发展带来新的更大机遇，就提升中斯经贸合作水平、深化两国工商界务实合作等深入交换意见，并推介第二届中国国际供应链促进博览会。此外，代表团还拜会了我驻斯洛文尼亚大使王顺卿，并调研了海信古洛尼工厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4314659.d.html</link>
-            <guid>3660036</guid>
-            <pubDate>Mon, 17 Jun 2024 15:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉就商业机密起诉前供应商马修斯电动汽车电池】特斯拉在加州联邦法院起诉其前供应商马修斯国际公司，指控其窃取与特斯拉电池制造过程相关的商业机密，并将其与这家电动汽车巨头的竞争对手分享。这起诉讼于周五在美国加州北区地方法院提出，称马修斯因滥用与干电极电池制造技术相关的公司商业机密而欠特斯拉“保守估计超过10亿美元”的赔偿金。马修斯的发言人、特斯拉的律师和发言人当地时间周一没有立即回应置评请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9922603.d.html</link>
-            <guid>3660035</guid>
-            <pubDate>Mon, 17 Jun 2024 15:34:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：德国金属工人工会在谈判前寻求加薪7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4313791.d.html</link>
-            <guid>3660034</guid>
-            <pubDate>Mon, 17 Jun 2024 15:34:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：得克萨斯州、路易斯安那州和密西西比州起诉美国政府，旨在阻止一项规定，该规定要求石油行业支付70亿美元以拆除海上油井。]]></title>
-            <guid>3660033</guid>
-            <pubDate>Mon, 17 Jun 2024 15:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲杯带火出境游 赴欧洲旅游订单暴增】欧洲杯正在火热进行，而暑期的脚步也越来越近，观赛热情带旺了出境游，国内赴欧洲旅游热度大增。某在线旅游平台数据显示，近一周，欧洲相关搜索量环比前一周热度增长4成，德国相关搜索量环比前一周增长3成。6月15日至7月15日欧洲杯比赛期间，国内游客赴欧洲旅游预订订单同比增长8成，赴德国旅游预订订单同比增长9成。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9921654.d.html</link>
-            <guid>3660030</guid>
-            <pubDate>Mon, 17 Jun 2024 15:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[因隐性费用问题，美国联邦贸易委员会（FTC）对Adobe及其高管采取行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipz6094545.d.html</link>
-            <guid>3660029</guid>
-            <pubDate>Mon, 17 Jun 2024 15:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防总针对3省启动防汛四级应急响应】当前，华南、江南强降雨持续。据应急管理部17日消息，国家防总当日10时针对广东、湖南、江西3省启动防汛四级应急响应，维持针对福建、广西、浙江、贵州4省份的防汛四级应急响应，并加派1个工作组赴广东一线协助指导防汛工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9921218.d.html</link>
-            <guid>3660028</guid>
-            <pubDate>Mon, 17 Jun 2024 15:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：赞比亚将削减100兆瓦的电力出口以增加国内供应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9920355.d.html</link>
-            <guid>3660027</guid>
-            <pubDate>Mon, 17 Jun 2024 15:25:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特大暴雨持续 广西柳州继续发布暴雨橙色预警信号】广西柳州市气象台6月17日22时47分继续发布暴雨橙色预警信号：目前强降雨云团仍在影响柳州市区，预计未来3小时，柳州市区仍将出现30至50毫米以上的强降雨，并可能伴有雷电、短时大风等，城区积涝气象风险较大。柳州市气象台及各县区气象台，陆续发布了暴雨红色、雷雨大风黄色等预警。其中，融水、三江发布暴雨红色预警，柳州市区、柳城、鹿寨等地发布暴雨橙色预警。由于本轮强降雨天气过程具有暴雨范围广、局地强度大等特点，融水、三江等地河水上涨，部分道路受淹。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4310907.d.html</link>
-            <guid>3660025</guid>
-            <pubDate>Mon, 17 Jun 2024 15:23:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京西城与国投健康签署战略合作框架协议，聚焦养老服务】6月17日，北京市西城区人民政府与国投健康产业投资有限公司（国投健康）签署战略合作框架协议。按照合作协议，双方将提升西城区政府养老服务综合实力，满足老年人京内外的多层次健康养老需求，丰富养老服务和产品供给，推动机构、社区、居家联动服务模式创新，打造智慧健康养老新业态。（界面）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9315593.d.html</link>
-            <guid>3660024</guid>
-            <pubDate>Mon, 17 Jun 2024 15:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厄瓜多尔暴雨已致7人死亡 中部一城市进入紧急状态】当地时间6月17日，厄瓜多尔国家风险管理秘书处报告称，该国强降雨已导致全国10省发生54起山体滑坡、河水泛滥和泥石流等事故，共造成7人死亡，另有22人受伤。据悉，厄瓜多尔钦博拉索省、通古拉瓦省和纳波省是受灾最严重的三个省份，其中，中部钦博拉索省的佩尼佩市已进入紧急状态。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4307431.d.html</link>
-            <guid>3660023</guid>
-            <pubDate>Mon, 17 Jun 2024 15:11:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国最高法院将审理英伟达要求撤销股东诉讼的请求】美国最高法院周一同意听取英伟达提出的撤销证券欺诈诉讼的请求，该诉讼指控这家人工智能芯片制造商误导投资者，使其销售额流向了动荡的加密货币行业。最高法院受理了英伟达的上诉，此前下级法院重启了加州股东对该公司及其首席执行官黄仁勋提起的集体诉讼。该诉讼由位于瑞典斯德哥尔摩的投资管理公司 E. Ohman J:or Fonder AB 牵头，要求赔偿未指定的金额。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9314292.d.html</link>
-            <guid>3660022</guid>
-            <pubDate>Mon, 17 Jun 2024 15:10:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄重新成为欧洲天然气最大供应国】据英国《金融时报》6月16日援引英国大宗商品数据提供商“安迅思”公司的数据显示，受“一次性因素”影响，今年5月，欧洲从俄罗斯进口的天然气近两年来首次超过美国天然气，俄罗斯重新成为欧洲天然气最大供应国。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4306958.d.html</link>
-            <guid>3660021</guid>
-            <pubDate>Mon, 17 Jun 2024 15:09:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：法国舆论研究所（Ifop）民调显示，法国左翼联盟获得28%的支持率，法国总统马克龙所在阵营支持率为18%，勒庞阵营为33%。]]></title>
-            <guid>3660019</guid>
-            <pubDate>Mon, 17 Jun 2024 15:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国泰君安副总裁陈忠义兼任国泰君安研究所所长】 据上证报，继今年3月1日国泰君安宣布原研究所所长黄燕铭改任国泰君安金融学院院长之后，国泰君安研究所所长职务已空缺超过3个月。今日，记者独家获悉，国泰君安证券已内部宣布：决定聘任陈忠义兼任研究所所长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9312581.d.html</link>
-            <guid>3660017</guid>
-            <pubDate>Mon, 17 Jun 2024 15:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国航天科技集团星载高精度长寿命纳型星敏感器首台突破项目通过验收】 中国航天科技集团消息，近日，中国航天科技集团有限公司八院控制所承担的上海市促进产业高质量发展专项高端智能装备首台突破项目——星载高精度长寿命纳型星敏感器首台突破项目顺利通过了现场验收。该项目突破了星敏感器小型化设计、动态条件下稳健的星跟踪、复杂背景中星点提取和定位等关键技术，成功研制了具有国际先进水平的纳型星敏产品。目前，该所已向用户单位成功交付了100余台（套）产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4303889.d.html</link>
-            <guid>3660016</guid>
-            <pubDate>Mon, 17 Jun 2024 15:00:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四维图新旗下杰发科技通过ASPICE CL2终审评估】四维图新消息，6月15日，四维图新旗下杰发科技宣布，公司车规级MCU芯片AC7840x系列的底层软件顺利通过ASPICE CL2终审评估。通过CL2级评估，代表杰发科技不仅具备出色的产品研发能力，还在软件开发项目的进度和质量管理方面实现科学有效地控制。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9912192.d.html</link>
-            <guid>3660015</guid>
-            <pubDate>Mon, 17 Jun 2024 14:58:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁总理：秘鲁2024年GDP可以同比增长3.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4302695.d.html</link>
-            <guid>3660013</guid>
-            <pubDate>Mon, 17 Jun 2024 14:56:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【云南贝特瑞20万吨负极智能一体化项目一期投产】贝特瑞消息，6月16日，子公司云南贝特瑞负极智能一体化工厂一期项目在大理祥云县正式投产。贝特瑞云南基地规划建设“年产20万吨锂电池负极材料一体化基地项目”，项目计划分3期建设。一期项目建设年产5万吨负极材料一体化项目。该项目采用MES全生命周期管理系统赋能全线石墨化产线，采用的石墨化炉是目前国内最先进、产能最大之一，并拥有国内顶尖容量的整流变压器等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9311236.d.html</link>
-            <guid>3660010</guid>
-            <pubDate>Mon, 17 Jun 2024 14:53:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【年内股价跌超20%，抛出回购计划，上峰水泥回应：为了维护公司价值】6月17日晚间，上峰水泥（000672.SZ）发布公告称，公司拟使用自有资金，以1亿元至2亿元回购股份，本次回购股份价格不超过10.40元/股。若全部以最高价回购，预计回购股份约占上峰水泥目前已发行总股本0.99%~1.98%。记者以投资者身份致电上峰水泥，相关工作人员对记者表示，“（回购股份）主要还是（为了）维护公司价值。”年初至今，上峰水泥股价已从7.68元/股下跌至6.05元/股，跌幅超20%。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9910369.d.html</link>
-            <guid>3660009</guid>
-            <pubDate>Mon, 17 Jun 2024 14:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【江西236国道山体塌方现场无人员伤亡 该路段临时封闭】6月17日15时43分，江西236国道发生山体塌方，有两辆社会车辆及一辆工程车被埋，经过初步测算，该处塌方体积达9000至10000立方米。塌方发生后，总台记者第一时间赶赴现场。总台记者从现场了解到，17日上午10时许宜黄县东陂镇境内的236国道三溪村入口附近发生一起山体塌方，宜黄县公路部门接报后第一时间派出了一台挖掘机一台铲车在塌方点进行双向抢修作业，同时，宜黄县相关部门也赶到现场查看情况，16时10分左右，现场人员发现山顶有部分土方有滑落迹象，立即大声呼喊，随后铲车司机立即跳车并将等待通行的两辆社会车辆共4人全部带离现场，离开现场几秒后，山体就出现了大面积坍塌。截至17日22时，当地仍有时断时续降雨，附近山体小规模塌方仍时有发生，现场没有造成人员伤亡，同时，也不具备抢修条件，当地已将此路段临时封闭，并制定了绕行方案，公安、应急和自然资源、公路等部门正在加紧研判，确保该路段及时恢复通车。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4300559.d.html</link>
-            <guid>3660006</guid>
-            <pubDate>Mon, 17 Jun 2024 14:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【*ST富润：拟以2000万元~4000万元回购股份】6月17日，*ST富润公告，公司拟通过集中竞价交易方式回购部分公司股份。本次回购股份拟用于员工持股计划或股权激励。本次回购资金总额不低于人民币2000万元（含）且不超过4000万元（含），按回购资金总额上限人民币4000万元、回购股份价格上限人民币1.50元/股（含）测算，若全部以最高价回购，预计回购股份总数为1333.33万股至2666.66万股，约占公司目前已发行总股本的2.63%至5.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9908239.d.html</link>
-            <guid>3660003</guid>
-            <pubDate>Mon, 17 Jun 2024 14:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广东省启动地质灾害Ⅲ级应急响应】6月13日以来，韶关、河源、梅州、惠州、汕尾、阳江、肇庆、清远等市发生强降雨，部分山区土壤含水量高度饱和，引发多起地质灾害灾情险情并造成人员伤亡和经济损失。鉴于当前广东省地质灾害防范应对工作形势，根据《广东省突发地质灾害应急预案》有关规定，广东省突发地质灾害应急指挥部决定于6月17日18时启动地质灾害Ⅲ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4299278.d.html</link>
-            <guid>3660002</guid>
-            <pubDate>Mon, 17 Jun 2024 14:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部相关负责人：工业领域设备更新工作已转入全面组织实施阶段】工业和信息化部规划司副司长张建华今日在第十六届中国国际机床工具展览会（CIMES 2024）相关研讨会上表示，总的来看，工业领域设备更新工作已基本从前期谋划部署阶段转入全面组织实施阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaiqa4299165.d.html</link>
-            <guid>3660001</guid>
-            <pubDate>Mon, 17 Jun 2024 14:46:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【所罗门群岛首都以东海域发生5.7级地震】据欧洲地中海地震中心测定，当地时间6月18日1时9分，所罗门群岛首都霍尼亚拉以东721公里处海域发生5.7级地震，震源深度67公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9309704.d.html</link>
-            <guid>3660000</guid>
-            <pubDate>Mon, 17 Jun 2024 14:46:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安徽桐城和浙江龙港签署支持包装产业互动互融发展合作协议】 安徽日报消息，近日，安徽桐城市市场监管局和浙江龙港市市场监管局签署支持包装产业互动互融发展合作协议。安徽桐城和浙江龙港两地塑包产业聚集，在产业转型升级的大背景下，两地开启“一体化联动发展 助推新质生产力”合作，共同促进传统产业互补互融发展。（安徽日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9907546.d.html</link>
-            <guid>3659997</guid>
-            <pubDate>Mon, 17 Jun 2024 14:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【哈马斯称以军试图烧毁拉法口岸建筑设施】哈马斯发表声明称，以军试图烧毁拉法口岸加沙地带一侧的离境大楼等建筑和设施，使其完全无法使用。声明称，以军这一行动将切断加沙民众与外界的联系，剥夺数千名加沙伤者病患前往外界接受治疗的机会。相关消息尚未得到以色列方面的证实。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9906092.d.html</link>
-            <guid>3659995</guid>
-            <pubDate>Mon, 17 Jun 2024 14:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[提醒：6月17日，美国法庭继续审理涉及Bill Hwang及其破产的家族理财室Archegos案件。]]></title>
-            <guid>3659993</guid>
-            <pubDate>Mon, 17 Jun 2024 14:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王小洪在河南调研时强调 依法严厉打击涉农违法犯罪 以更高水平保障国家粮食安全】6月17日，中共中央书记处书记、国务委员王小洪在河南调研粮食安全工作，看望慰问基层一线工作人员。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署要求，坚持以人民为中心，深入实施国家粮食安全战略，密切公安机关与有关部门的协作配合，依法严厉打击涉农违法犯罪，以更高水平保障国家粮食安全。 王小洪来到河南省农业科学院，调研种业创新、保障粮食安全相关工作，与育种专家、科研人员深入交流，并观看河南公安机关打击危害粮食安全违法犯罪、服务“三农”工作展板，向省公安厅有关部门负责同志了解具体情况。王小洪指出，粮食安全是关乎国计民生的头等大事、是国家安全的重要基础，任何时候都不能麻痹大意，必须把准要害、盯住环节、守住红线，全方位夯实粮食安全根基，确保中国人的饭碗牢牢端在自己手中。河南是全国重要的农业大省、粮食大省，肩负着扛稳国家粮食安全的重任。公安机关要健全与有关部门信息共享、联合执法、行刑衔接等机制，组织开展好“昆仑”等专项行动，依法严厉打击制售假劣农资、破坏耕地资源等违法犯罪，加强种业知识产权保护，共同强化行业监管、源头治理和重点地区整治，有力保护耕地良田，有效保障农业生产。 王小洪强调，近期，河南等地持续高温干旱，对粮食安全造成不利影响。公安机关要在地方党委领导下，同有关部门形成合力，想全想细想万一，全力抓好抗旱防汛、应急处置等工作，最大限度防灾减灾。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipx9307678.d.html</link>
-            <guid>3659990</guid>
-            <pubDate>Mon, 17 Jun 2024 14:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉日内涨幅扩大至3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-17/detail-inazaipv9903829.d.html</link>
-            <guid>3659989</guid>
-            <pubDate>Mon, 17 Jun 2024 14:34:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
