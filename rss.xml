@@ -4,341 +4,526 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 22 Jun 2024 00:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jun 2024 06:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【蚂蚁mPaaS开发平台已有超200APP启动鸿蒙开发测试】在华为开发者大会主论坛上，作为鸿蒙生态三方共建伙伴，蚂蚁数科mPaaS公布了三方生态共建进展：华夏银行、广发银行、中石油、中国移动等200余App启动鸿蒙开发测试。此前，该产品已全量适配鸿蒙100余个SDK，并提供20余项安全能力，在实际开发场景中实现一站式开发速度快1倍、成本降低40%，高效助力App开发走入快车道。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcm1167012.d.html</link>
-            <guid>3666353</guid>
-            <pubDate>Sat, 22 Jun 2024 00:31:31 GMT</pubDate>
+            <title><![CDATA[【除故宫国博等之外 北京全市旅游景区全面取消预约】记者从北京市文旅局获悉，暑期旅游旺季将至，为持续提升旅游景区基本服务，除故宫、国博等旅游景区和对外开放单位外，北京全市旅游景区已全面取消预约要求。  （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvyz4046822.d.html</link>
+            <guid>3666488</guid>
+            <pubDate>Sat, 22 Jun 2024 06:07:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年以来新基金发行规模超6300亿元 同比增长24%】 截至2024年6月21日，年内全市场新成立基金595只，发行规模合计6316.56亿元，较去年同期分别增长1.54%和24%。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4389701.d.html</link>
-            <guid>3666352</guid>
-            <pubDate>Sat, 22 Jun 2024 00:31:19 GMT</pubDate>
+            <title><![CDATA[【马斯克X平台将限制直播功能】马斯克正积极提高X平台的营收，计划向新用户收取小额费用之后，即将限制直播功能，只有购买了 Premium订阅的用户才能享受该权益。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvyz4046545.d.html</link>
+            <guid>3666487</guid>
+            <pubDate>Sat, 22 Jun 2024 06:05:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【政策支持再加码 保障性住房“以购代建”模式范围扩大】 6月20日，住房和城乡建设部召开收购已建成存量商品房用作保障性住房工作视频会议，提出推动县级以上城市有力有序有效开展收购已建成存量商品房用作保障性住房工作。当前，消化存量房产和优化增量住房成为构建房地产发展新模式过程中的“关键词”。地方收购已建成存量商品房用作保障性住房这一保障性住房“以购代建”模式，一方面有利于推动已建成存量商品房去库存；另一方面有助于扩大保障性住房供给，正成为统筹“消化存量”和“优化增量”过程中的重要举措。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcm1166649.d.html</link>
-            <guid>3666351</guid>
-            <pubDate>Sat, 22 Jun 2024 00:28:46 GMT</pubDate>
+            <title><![CDATA[【印度一工厂发生爆炸 已致9人死亡】当地时间22日，印度首都新德里附近古尔岗地区的一家工厂发生爆炸，已造成9人死亡，多名工人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2650046.d.html</link>
+            <guid>3666486</guid>
+            <pubDate>Sat, 22 Jun 2024 06:04:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：日本首相岸田文雄将于8月访问哈萨克斯坦。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2937531.d.html</link>
-            <guid>3666349</guid>
-            <pubDate>Sat, 22 Jun 2024 00:21:04 GMT</pubDate>
+            <title><![CDATA[【报告：部分6G新技术已开始正式应用】《全球传播生态蓝皮书：全球传播生态发展报告(2023)》21日发布。报告指出，当前全球社会对6G抱有技术期许和应用期待，部分6G新技术已经开始正式应用。例如，杭州亚运会已经率先应用6G关键技术。杭州市智能亚运重点项目“基于智能超表面(RIS)的新型移动通信技术”在亚运场馆进行了示范应用，在赛事期间提供全天候实时通信保障，这是6G新技术首次在全球范围内的大型赛事中规模应用亮相。此外，全球移动通信标准化组织3GPP正在考虑将RIS指定为“标准6G技术”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvze0373995.d.html</link>
+            <guid>3666485</guid>
+            <pubDate>Sat, 22 Jun 2024 05:59:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【实探显示“灯塔”：智能技术“照亮”制造全程】 全球每四块显示屏就有一块来自京东方，这样的体量优势背后，是精益化数智制造能力的深度支撑。作为中国大陆显示行业首家也是唯一一家“灯塔工厂”，京东方福州第8.5代半导体显示生产线在数智化转型方面有着行业领先的探索和经验。福州京东方总经理周贺近日接受记者采访时介绍称，得益于人工智能、大数据等技术赋能，在不增加设备投资的情况下，其产线在两年内实现单位成本降低34%；同时，效率大幅提升，智能排产平台让原本5个人8小时才能完成的工作由1位工程师在1小时内就能完成。数智技术赋能案例在京东方还有很多。如今，京东方也正在进一步开放自身的智能化运营管理经验，助力更多行业实现数智化转型升级。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4388452.d.html</link>
-            <guid>3666348</guid>
-            <pubDate>Sat, 22 Jun 2024 00:20:47 GMT</pubDate>
+            <title><![CDATA[【预计未来7天长江干流南部有持续性强降水过程】记者从水利部长江水利委员会了解到，据长江流域雨情滚动分析，6月21日，长江中下游干流及洞庭湖水系北部有大到暴雨、局地大暴雨，乌江、三峡区间有大雨、局地暴雨。预计未来7天，长江干流南部有持续性强降水过程，强降水中心位于陆水、青弋江、水阳江、长江下游干流及两湖水系北部。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvze0373227.d.html</link>
+            <guid>3666484</guid>
+            <pubDate>Sat, 22 Jun 2024 05:57:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【端云融合助力，L4级自动驾驶落地限定场景】随着Robotaxi（自动驾驶出租车）成为市场热点，L4级自动驾驶技术再次走入大众视野。而在乘用车之外，矿山、农田等限定场景中的L4级自动驾驶已提前一步进入到规模化应用阶段。中科慧拓、东风悦享、中科原动力等企业通过端云融合的技术手段，力图解决矿山、港口、农田等不同场景中自动驾驶面临的痛点。（中国证券报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2937434.d.html</link>
-            <guid>3666347</guid>
-            <pubDate>Sat, 22 Jun 2024 00:20:39 GMT</pubDate>
+            <title><![CDATA[【北京预计2031年进入重度老龄化社会 老人将超30%】据北京市民政局在北京养老服务行业发展论坛上发布的数据，截至2023年底，北京市常住老年人共有494.8万人，占常住人口的22.6%，比2022年底增加29.7万人，平均每天净增800人。预计到2031年，常住老年人口比例将超过30%，进入重度老龄化社会。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvyz4045148.d.html</link>
+            <guid>3666483</guid>
+            <pubDate>Sat, 22 Jun 2024 05:56:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[文件显示，英伟达首席财务官Colette Kress出售价值1,270万美元的股票。]]></title>
-            <guid>3666344</guid>
-            <pubDate>Sat, 22 Jun 2024 00:13:38 GMT</pubDate>
+            <title><![CDATA[【渝湘高铁控制性工程中兴隧道顺利贯通】记者从渝黔铁路公司获悉，6月22日，随着最后一次爆破，历经1400天，渝湘高铁重庆至黔江段全线控制性工程中兴隧道顺利贯通，为全线早日通车奠定了坚实基础。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2646965.d.html</link>
+            <guid>3666482</guid>
+            <pubDate>Sat, 22 Jun 2024 05:55:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【经济日报：刹住直播带货虚夸风】直播带货从业人员不得以介绍健康养生知识等形式变相发布保健品、不得以“全网最低价”等不实表述误导消费者、直播带货平台经营者应当记录保存平台上发布的直播带货信息及历史直播公示信息……近日，北京市市场监督管理局发布《北京市直播带货合规指引（征求意见稿）》，对直播带货平台管理责任不到位、商业营销行为不规范等问题进行制约和管理。直播带货已成为普通消费者购物比价的一个重要渠道，与此同时，夸大宣传、货不对板、误导消费者等问题也在困扰着消费者。在相关部门明确规则指引、督促直播带货各方参与主体合规经营的同时，直播平台也应压实管理责任，限制不规范的直播行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcn0661017.d.html</link>
-            <guid>3666343</guid>
-            <pubDate>Sat, 22 Jun 2024 00:12:00 GMT</pubDate>
+            <title><![CDATA[【广东西江全线水位缓慢回落 预计22日退出警戒水位】6月21日，广东境内西江干流全线先后出现洪峰。其中，西江高要站于当天19时35分出现10.54米的洪峰水位，超警戒水位0.54米，相应流量41900立方米每秒。当前，广东境内西江全线水位缓慢回落，请相关部门和沿河民众继续做好退水期间的洪水防御工作。水文部门预计22日西江全线退出警戒水位。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2646603.d.html</link>
+            <guid>3666481</guid>
+            <pubDate>Sat, 22 Jun 2024 05:54:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【基辅拉响防空警报】当地时间22日，乌克兰首都基辅拉响防空警报。（央视新闻）]]></title>
-            <guid>3666342</guid>
-            <pubDate>Sat, 22 Jun 2024 00:07:53 GMT</pubDate>
+            <title><![CDATA[中国地震台网正式测定：06月22日13时43分在新疆阿克苏地区库车市（北纬41.17度，东经83.34度）发生3.4级地震，震源深度17千米。]]></title>
+            <guid>3666480</guid>
+            <pubDate>Sat, 22 Jun 2024 05:53:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国航空航天局（NASA）：NASA和波音调整了“星际飞船”的返回时间表。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4386868.d.html</link>
-            <guid>3666341</guid>
-            <pubDate>Sat, 22 Jun 2024 00:07:33 GMT</pubDate>
+            <title><![CDATA[【新版《安徽省测绘地理信息条例》发布 7月1日起正式施行】6月20日，记者从省自然资源厅获悉，经修订后的新版《安徽省测绘地理信息条例》将于7月1日起正式施行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2644996.d.html</link>
+            <guid>3666479</guid>
+            <pubDate>Sat, 22 Jun 2024 05:48:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海峡时评：惩“独”刑事利剑高悬 合情合法大快人心】6月21日，最高人民法院、最高人民检察院、公安部、国家安全部、司法部联合发布《关于依法惩治“台独”顽固分子分裂国家、煽动分裂国家犯罪的意见》，自发布之日起施行。在当日国务院台办会同相关部门举办的专题发布会上，国台办发言人陈斌华强调，依法惩治“台独”顽固分子分裂国家、煽动分裂国家犯罪，合情合理合法。对于涉“独”言行恶劣、谋“独”活动猖獗的顽固分子，大陆决不容忍、决不姑息，必须反制、必须惩戒。在当前台海形势复杂严峻、赖清德当局谋“独”挑衅的背景下，《意见》发布施行，惩“独”刑事利剑高悬，正当其时，大快人心！（看台海）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4386374.d.html</link>
-            <guid>3666340</guid>
-            <pubDate>Sat, 22 Jun 2024 00:04:41 GMT</pubDate>
+            <title><![CDATA[【重庆市加快建设深化集体林权制度改革先行区】6月21日，记者从《重庆市建设深化集体林权制度改革先行区行动方案》解读新闻发布会上获悉，重庆市将加快建设全国深化集体林权制度改革先行区，力争到2025年先行区建设初见成效、2027年实现先行区基本建成的分段式目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvze0370638.d.html</link>
+            <guid>3666477</guid>
+            <pubDate>Sat, 22 Jun 2024 05:48:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本、中国台湾和韩国成为越南劳务输出三大主力市场】据商务部网站，今年上半年，越南全国劳务输出人数7.8万多名，达年计划的62.4%（全年目标为12.5万人）。日本、中国台湾和韩国是上半年越南劳务输出的三大主力市场。其中，日本以4.06万名劳工（其中15%以上为女性）居首位。其次是中国台湾，上半年接收超2.7万名越南劳工。目前，在台越南劳工总数已超过28万人，主要从事制造业、建筑业等行业。韩国上半年接收超过5500名越南劳工，排名第三。赴韩劳工主要通过韩国政府的外国劳工许可计划（EPS计划）和技术劳务合作（E7签证）前往韩国。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcn0656960.d.html</link>
-            <guid>3666336</guid>
-            <pubDate>Fri, 21 Jun 2024 23:58:39 GMT</pubDate>
+            <title><![CDATA[广东防汛应急响应等级调整为Ⅳ级。（南方PLUS）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzc0821129.d.html</link>
+            <guid>3666476</guid>
+            <pubDate>Sat, 22 Jun 2024 05:48:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小米副董事长林斌回应减持股票】6月22日清晨，小米集团联合创始人、副董事长、执行董事林斌通过个人微博对近期“减持套现”相关传闻作进一步的说明。林斌表示，其基金会是2019年设立的，按照当初设立的法律规定，基金会的全部资产，只能用于慈善公益和教育科研相关的捐赠项目，不得用于任何个人享受。2020年林斌把1.2亿股小米股票捐赠到基金会(其中6000万股后来捐给了小米基金会)，全部都只能用于慈善公益。因为这个原因，当初承诺5年不再减持，并不包含这个基金会的股票。至于这次减持的金额，除了捐赠母校中山大学的部分，未来还会有更多公益捐赠。林斌本月连续三个交易日减持引起投资者关注。据披露易网站显示信息计算，林斌共减持1000万股股份，合计套现约1.79亿港元，约合人民币1.665亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4385282.d.html</link>
-            <guid>3666335</guid>
-            <pubDate>Fri, 21 Jun 2024 23:56:36 GMT</pubDate>
+            <title><![CDATA[【2024世界新能源汽车大会将于9月底在海口举办】记者从省工业和信息化厅获悉，2024世界新能源汽车大会（WNEVC）将于9月27日至29日在海口举办，业内人士将共聚椰城，探讨当前新能源汽车产业面临的挑战及热点话题，展望产业未来发展趋势。（海南日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2644703.d.html</link>
+            <guid>3666475</guid>
+            <pubDate>Sat, 22 Jun 2024 05:48:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【AI拉动先进封装市场需求 产业链公司抢抓机遇】 “现在主要封装厂的产能利用率都比较高了。更重要的是，AI带动高性能计算芯片、存储等需求快速增长，使得半导体封装技术的重要性提升至前所未有的高度，给芯片封测厂商带来新发展机遇。”有半导体业内人士接受记者采访，透露了半导体封装产业复苏的最新动向。半导体市场研究机构TechInsights最新公布的2024年第一季度先进封装设备市场数据显示，2024年用于先进封装的晶圆厂设备预计将同比增长6%，达到31亿美元。随着先进封装市场持续增长，A股半导体封装产业链上的公司也迎来发展新机遇，国内几大封装公司纷纷通过技术研发、并购等方式，提升先进封装水平和市场份额。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcn0655093.d.html</link>
-            <guid>3666334</guid>
-            <pubDate>Fri, 21 Jun 2024 23:50:43 GMT</pubDate>
+            <title><![CDATA[市场消息：尼古拉耶夫地下网络协调员谢尔盖·列别捷夫称，俄罗斯军队袭击了乌克兰西部的乌克兰军事设施和仓库。]]></title>
+            <guid>3666474</guid>
+            <pubDate>Sat, 22 Jun 2024 05:45:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【iOS18将推出iPhone镜像功能】苹果发言人弗雷德・塞恩斯（Fred Sainz）表示，苹果公司计划下周一（6月24日）发布 iOS / iPadOS 18 Beta 2 更新，并确认会推出 iPhone 镜像和增强 SharePlay 屏幕共享两项功能。 iPhone 镜像就是能让给 Mac 用户将 iPhone 的屏幕镜像到 Mac 设备上，实现与 iPhone 互动、在 Mac 上接收 iPhone 通知，以及在 Mac 和 iPhone 之间无缝拖放等等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2928278.d.html</link>
-            <guid>3666331</guid>
-            <pubDate>Fri, 21 Jun 2024 23:46:56 GMT</pubDate>
+            <title><![CDATA[【美国关闭俄罗斯在华盛顿和纽约的签证中心】总台记者获悉，当地时间6月22日，俄罗斯在华盛顿和纽约的签证中心收到了美方要求关闭的通知。俄罗斯驻美国大使阿纳托利·安东诺夫表示，对关闭俄在美签证中心的决定，美方没有提供任何解释，但俄方仍将继续提供领事服务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvzi2640770.d.html</link>
+            <guid>3666472</guid>
+            <pubDate>Sat, 22 Jun 2024 05:33:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：加拿大亿万富翁詹姆斯·欧文 (James K. Irving) 去世，享年96岁。]]></title>
-            <guid>3666330</guid>
-            <pubDate>Fri, 21 Jun 2024 23:45:59 GMT</pubDate>
+            <title><![CDATA[【围绕多项重点议题 中德达成5项气候变化和绿色转型合作成果】据央视新闻，记者从国家发展改革委了解到，6月22日，中德气候变化和绿色转型对话合作机制首次高级别对话在国家发展改革委举行。对话达成5项重要合作成果。
+
+中德双方相关部门就能效与循环经济、气候多边进程及中德双边气候合作、工业减碳和能源转型等重点议题进行对话交流，双方宣布对话达成5项重要成果，分别是：
+
+双方在机制框架下启动绿色转型中德省州合作，国家发展改革委、德国联邦经济和气候保护部将共同支持江苏省和德国巴符州之间、四川省和德国北威州之间在相关领域开展交流合作。
+国家发展改革委与德国联邦经济和气候保护部达成中德能效工作组2024年工作计划。
+国家发展改革委与德国联邦环境、自然保护、核安全和消费者保护部达成《落实〈中德循环经济和资源效率对话行动计划〉的近期活动要点》。
+工业和信息化部与德国联邦经济和气候保护部成立中德工业减碳工作组。
+国家节能中心和德国国际合作机构（GIZ）启动中德重点领域能效提升示范项目合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqvze0365284.d.html</link>
+            <guid>3666471</guid>
+            <pubDate>Sat, 22 Jun 2024 05:29:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特汽车回应CDK故障：由于我们的经销商可以使用替代流程，许多福特和林肯的客户能够获得销售和服务支持。]]></title>
-            <guid>3666328</guid>
-            <pubDate>Fri, 21 Jun 2024 23:42:58 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心表示，未来48小时内，佛罗里达州杰克逊维尔附近的气旋形成的可能性为0。]]></title>
+            <guid>3666470</guid>
+            <pubDate>Sat, 22 Jun 2024 05:25:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[福特汽车：一些使用CDK的经销商出现了全行业范围的系统中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcn0652612.d.html</link>
-            <guid>3666327</guid>
-            <pubDate>Fri, 21 Jun 2024 23:42:13 GMT</pubDate>
+            <title><![CDATA[【验资1000万元！深圳“网红豪宅盘”获批预售】 6月21日，深圳“网红豪宅盘”——中海深湾玖序花园获批预售。该批次毛坯备案均价为13.3万元/平米，户型建面约196平方米—328平方米。深湾玖序楼盘销售人员告诉记者，目前楼盘已开放售楼处及样板房，但需验资1000万元方可看房。正式开盘时间预计为6月底或7月初，届时价格将有一定折扣优惠。该楼盘之所以备受关注，是由于其位于南山深圳湾超级总部基地。（中证金牛座）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2766179.d.html</link>
+            <guid>3666467</guid>
+            <pubDate>Sat, 22 Jun 2024 05:14:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哥伦比亚警方在执行扫毒任务时误入雷区 6人受伤】当地时间6月21日，哥伦比亚警方在该国北部加勒比海沿岸的玻利瓦尔省打击毒品犯罪的行动时，6名警察因进入雷区触发地雷受伤。伤者已被送往医院救治。哥伦比亚部分贩毒组织为了保护其非法作物种植，经常在种植区周边埋设地雷。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2926454.d.html</link>
-            <guid>3666326</guid>
-            <pubDate>Fri, 21 Jun 2024 23:40:59 GMT</pubDate>
+            <title><![CDATA[【科威特呼吁在黎巴嫩的该国公民尽快离开】当地时间6月21日晚，科威特外交部发表声明称，鉴于地区安全局势不断发展，科威特外交部呼吁该国公民目前不要前往黎巴嫩，并呼吁所有在黎巴嫩国内的该国公民尽快离开。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0947203.d.html</link>
+            <guid>3666464</guid>
+            <pubDate>Sat, 22 Jun 2024 05:11:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百时美施贵宝KRAS抑制剂再获FDA批准】 据美国食品药品管理局（FDA），百时美施贵宝（Bristol Myers Squibb）的重磅KRAS G12C抑制剂Krazati（adagrasib）再获加速批准，与西妥昔单抗（cetuximab）联合使用，治疗经美国FDA批准的检测确定为KRAS G12C突变的局部晚期或转移性结直肠癌（CRC）成年患者，这些患者之前曾接受过氟嘧啶、奥沙利铂和伊立替康为基础的化疗。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2925683.d.html</link>
-            <guid>3666324</guid>
-            <pubDate>Fri, 21 Jun 2024 23:38:25 GMT</pubDate>
+            <title><![CDATA[乌克兰空军：乌克兰防空系统击落了俄罗斯在周六夜间发动的12枚导弹和13架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0946991.d.html</link>
+            <guid>3666463</guid>
+            <pubDate>Sat, 22 Jun 2024 05:09:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：阿拉斯加航空空乘人员工会达成初步协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2924857.d.html</link>
-            <guid>3666322</guid>
-            <pubDate>Fri, 21 Jun 2024 23:35:36 GMT</pubDate>
+            <title><![CDATA[【日本公布对俄新制裁名单，俄警告：将采取最严厉反制措施】 俄罗斯卫星社网站6月22日报道，俄罗斯外交部表示，俄罗斯方面通知日本政府关于日本的新制裁对双边关系所具有的危害性，并警告说会进一步对日本采取非常严厉的反制措施。俄外交部新闻稿说：“日本政府6月21日采取的又一个、即第24个‘一揽子’非法的单方面反俄制裁是向彻底破坏两国关系迈出的又一步。我们警告，在这种情况下，我们将完全以我们自己的国家利益为指导，继续对东京采取最严厉的反制措施。”（参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrth0489779.d.html</link>
+            <guid>3666462</guid>
+            <pubDate>Sat, 22 Jun 2024 05:06:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯官员称，乌克兰无人机摧毁了两座变电站。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2923150.d.html</link>
-            <guid>3666320</guid>
-            <pubDate>Fri, 21 Jun 2024 23:29:12 GMT</pubDate>
+            <title><![CDATA[【美信科技：一体成型电感产线目前处于设备调试阶段】 美信科技6月22日在互动平台回复投资者称，公司一体成型电感产线已建好，目前处于设备调试阶段，待初期产线运作成熟后再进一步扩大。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2758866.d.html</link>
+            <guid>3666460</guid>
+            <pubDate>Sat, 22 Jun 2024 04:48:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新技术可发现基因突变初期迹象】发表于《自然》杂志在线版的一项最新研究介绍了一种名为HiDEF-seq的创新技术，它可准确检测出突变前DNA代码中的早期分子变化。该技术能以极高准确率检测双链突变，可在DNA字母代码变化仅出现在DNA双链中的一条链上时，就检测到这些变化。估计每分析100万亿个碱基对，才会出现一次错误。该研究由美国纽约大学朗格尼医学中心研究小组牵头，旨在厘清DNA突变发生的最初步骤。（科技日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4381028.d.html</link>
-            <guid>3666319</guid>
-            <pubDate>Fri, 21 Jun 2024 23:28:30 GMT</pubDate>
+            <title><![CDATA[【物美张文中：零售业智能化切忌穿新鞋走老路】“亚布力中国企业家论坛第十届创新年会”于6月21日-22日在深圳召开。物美集团创始人、多点Dmall创始人张文中表示，今天智能化数字化还面临着挑战，切忌穿新鞋走老路。中国零售业的未来要全面实现数智化，彻底回归商业之本，在存量竞争格局下，围绕消费者需求，建构极致的商品力，极致的商品差异化，极简作业、极高效率下的极致性价比。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrth0482337.d.html</link>
+            <guid>3666459</guid>
+            <pubDate>Sat, 22 Jun 2024 04:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄称发起大规模打击 乌称一天近百次战斗】俄罗斯国防部21日通报称，在过去的一周，俄军使用远程精确制导武器和攻击型无人机对乌军部队和外国雇佣军临时部署点、乌军用机场、武器装备仓库、燃料仓库以及无人艇和无人机设施发起了14轮大规模打击；击落乌军397架无人机；在克里米亚地区击沉6艘乌军无人艇。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2917978.d.html</link>
-            <guid>3666318</guid>
-            <pubDate>Fri, 21 Jun 2024 23:13:55 GMT</pubDate>
+            <title><![CDATA[【中企承建的莱索托莫塞公路完成竣工交接】由中国青建集团股份公司承建的莱索托莫塞公路项目竣工交接仪式6月21日在该国哈马特拉利举行。据青建集团相关负责人介绍，莫塞公路全长91.48公里。项目建成通车极大改善了该地区的基础设施水平，预计全线出行时间将由4个小时缩短至1.5小时。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtc4165847.d.html</link>
+            <guid>3666457</guid>
+            <pubDate>Sat, 22 Jun 2024 04:38:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
-1、李强将出席第十五届夏季达沃斯论坛；
-2、“2024·上合组织国家文明对话”在哈萨克斯坦举行；
-3、第七届进博会推介会在英国举行；
-4、中国—瑞士企业对话会暨第二届链博会瑞士推介会在苏黎世举办；
-5、中央组织部从代中央管理党费中划拨1.38亿元用于支持福建、广东、河南等地防汛抗旱工作（扎实做好防汛抗旱、抢险救灾各项工作）；
-6、扎实推动共同富裕论坛在杭州举行；
-7、《公平竞争审查条例》将于8月1日起施行 为各类经营主体公平竞争营造良好环境（权威发布）；
-8、前5月国开行发放绿色贷款超2000亿元。]]></title>
-            <guid>3666317</guid>
-            <pubDate>Fri, 21 Jun 2024 23:11:25 GMT</pubDate>
+            <title><![CDATA[【澳大利亚墨尔本一购物中心发生枪击事件】当地时间21日晚，澳大利亚墨尔本北部一购物中心发生枪击事件。据警方介绍，一群人发生冲突后持刀对峙，随后有人开枪。维多利亚州政府发言人表示，这群人在警方到达前已经逃离。警方对现场进行了搜查，发现有使用过枪支的证据，目前调查仍在进行中。两名男子随后自行前往医院，伤势不危及生命，据悉是被利器所伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtc4165725.d.html</link>
+            <guid>3666456</guid>
+            <pubDate>Sat, 22 Jun 2024 04:37:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江西鄱阳湖水位上涨突破17米 多座水库开闸放水腾库容】受近期强降雨影响，鄱阳湖水位持续回涨。截至6月21日8时，共青站水位上涨至17.22米，鄱阳湖标志性水文站星子站水位上涨至17.09米，与去年同期相比上涨5.34米，目前距离警戒水位1.91米。湖区通江水体面积3180平方公里，比去年同期增加1810平方公里。为应对新一轮的降水天气，赣州、九江等地水库开闸放水，腾出库容。修河上游的九江市武宁、修水等地从6月20日开始，陆续开启下坊水电站、龙潭峡水库、三都水电站等多座水库和电站闸门，进行预泄洪，腾出库容，确保安全度汛。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfcr2915695.d.html</link>
-            <guid>3666315</guid>
-            <pubDate>Fri, 21 Jun 2024 23:06:04 GMT</pubDate>
+            <title><![CDATA[【上海浦东：建筑师负责制改革已实现各项目类型全覆盖】近日，位于上海市浦东新区金桥金湾新材料产业园项目作为浦东新区新一批建筑师负责制试点项目签约，这是浦东新区纳入新一轮建筑师负责制扩大试点的22个项目之一。目前，浦东新区建筑师负责制改革已实现各项目类型的全覆盖。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2755255.d.html</link>
+            <guid>3666455</guid>
+            <pubDate>Sat, 22 Jun 2024 04:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【红十字国际委员会在加沙地带的办事处遭袭 致大量人员伤亡】当地时间6月21日，红十字国际委员会发布声明称，当天，有多枚炮弹落在该组织位于加沙地带的办事处附近数米范围内，导致该办事处建筑“结构”受损。声明表示，当时有数百名流离失所者居住在该办事处周围搭建的帐篷中。事件发生后，有22名遇难者遗体和45名伤者被送往附近的红十字会野战医院，并有报道称还有更多伤亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4374935.d.html</link>
-            <guid>3666313</guid>
-            <pubDate>Fri, 21 Jun 2024 22:55:25 GMT</pubDate>
+            <title><![CDATA[【应对暴雨天气 安徽安庆、六安两地提前转移5430人避险】记者获悉，安徽省防汛抗旱指挥部于6月21日晚对安庆、六安市发布指挥部1号令。1号令要求，对山洪灾害危险区、地质灾害隐患点、沿河低洼地带、高坡脚房屋、危旧房屋、水库溢洪道下游、涉山涉水旅游景区景点、城乡内涝点等危险部位人员果断提前转移，落实“关停撤”措施；强化短临预报预警，落实预警“叫应”机制。据悉，截至6月22日上午6时，安庆、六安市已提前组织群众5430人转移避险。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2755056.d.html</link>
+            <guid>3666454</guid>
+            <pubDate>Sat, 22 Jun 2024 04:34:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚马逊据悉将推出AI版Alexa 每月收费5到10美元】据知情人士透露，亚马逊正计划对其亏损十年之久的语音助手Alexa服务进行重大改造，将AI聊天机器人纳入其中，并提供两个级别的服务，每月收取5到10美元的费用。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqfci4372230.d.html</link>
-            <guid>3666310</guid>
-            <pubDate>Fri, 21 Jun 2024 22:40:09 GMT</pubDate>
+            <title><![CDATA[【李小加：绿灯不能给的时候，不要轻易亮红灯】 “亚布力中国企业家论坛第十届创新年会”于6月21日-22日在深圳召开。亚布力中国企业家论坛联席轮值主席、滴灌通创始人李小加表示，企业家精神首先是对今天不满足，对未来有期许，愿意努力实现自己想做的事，对所做事情充满热爱，这样才会有动力；其次需要充满好奇，永远在问为什么，想要改变一些事情，永远希望学习新东西。谈及政策环境，李小加建议，为了鼓励创新和发展，赶超世界前列，绿灯不能给的时候不轻易亮红灯，尽量不要建立太多红灯，让企业家有更多信心，不是必须拿到绿灯才能往前走，不要让大家去排队去拿绿灯，这样才能有创新和发展。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrth0480252.d.html</link>
+            <guid>3666453</guid>
+            <pubDate>Sat, 22 Jun 2024 04:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美FDA首次批准薄荷醇调味电子烟】美国食品和药物管理局（FDA）周五批准了第一批薄荷醇调味电子烟，允许其在美国销售，这也是该机构首次批准烟草口味以外的调味电子烟。获批的4款产品都来自于NJOY，这家公司去年被生产万宝路品牌香烟的烟草巨头奥驰亚集团以约27.5亿美元收购。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvq0760636.d.html</link>
-            <guid>3666309</guid>
-            <pubDate>Fri, 21 Jun 2024 22:26:27 GMT</pubDate>
+            <title><![CDATA[【成渝高铁璧山站至重庆西站间发生设备故障，部分列车将晚点】6月22日8时15分左右，成渝高铁璧山站至重庆西站间发生设备故障，铁路部门立即启动应急预案，组织人员紧急抢修。受此影响，途经该区段的旅客列车将不同程度晚点，同时可能影响接续的始发列车晚点。由此给您的出行带来不便，请您谅解，并关注列车时刻变化，具体情况详见站车公告或拨打12306铁路客服中心电话咨询。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2754365.d.html</link>
+            <guid>3666452</guid>
+            <pubDate>Sat, 22 Jun 2024 04:32:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以外长称将很快对黎真主党的袭击行动做出相应决定】当地时间6月21日，以色列外长卡茨通过社交媒体发表声明称，以色列不允许“黎巴嫩真主党继续袭击该国领土和人民”，以方将很快对此做出必要的决定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvm4500019.d.html</link>
-            <guid>3666307</guid>
-            <pubDate>Fri, 21 Jun 2024 22:21:52 GMT</pubDate>
+            <title><![CDATA[驻洪都拉斯大使于波出席拉美和加勒比国家共同体第六届能源部长会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2753166.d.html</link>
+            <guid>3666451</guid>
+            <pubDate>Sat, 22 Jun 2024 04:28:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中央气象台6月22日06时继续发布强对流天气黄色预警】预计6月22日08时至23日08时，内蒙古东南部、吉林中东部、辽宁中北部和西部、安徽南部、湖南北部、江西北部、浙江北部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，辽宁中北部、安徽南部等地的部分地区将有10级以上雷暴大风，最大风力可达11级以上；黑龙江东南部、吉林中东部、辽宁中北部、安徽南部、江苏中南部、上海北部、湖北东部和南部、湖南中北部、江西北部、浙江北部和西部、四川南部、重庆东南部、贵州中西部和东北部、云南西南部和东部等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，安徽南部、湖北东部和南部、湖南北部、江西北部等地的部分地区将有小时雨量大于50毫米，最大可达80毫米以上。预计，强对流的主要影响时段为今天白天至夜间。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvq0754090.d.html</link>
-            <guid>3666302</guid>
-            <pubDate>Fri, 21 Jun 2024 22:04:16 GMT</pubDate>
+            <title><![CDATA[【中国国际数字出版博览会将于9月在海南举行】从日前在京举行的推介会上获悉，中国国际数字出版博览会将于9月20日至22日在海南省海口市举办。本届数博会由国家新闻出版署、海南省委、海南省人民政府、中国外文局等指导，中国新闻出版研究院、海南省委宣传部、海口市委、海口市人民政府等主办，将通过展览展示、开幕式暨主论坛、专题论坛和多场现场活动等，围绕数字产品创作、生产和运营、传播与发行全产业链，以及电子书、有声书、数据库、数字教育、网络文学、游戏等全业态，开展交流研讨、业务合作、互动体验。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2752948.d.html</link>
+            <guid>3666450</guid>
+            <pubDate>Sat, 22 Jun 2024 04:27:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中央气象台6月22日06时继续发布暴雨黄色预警】预计，6月22日08时至23日08时，贵州中部、湖南北部、湖北东南部、江西北部、安徽南部、江苏南部、上海北部、浙江西部及黑龙江东部和南部等地有大到暴雨，其中，湖南东北部、湖北东南部、江西北部、安徽西南部等地部分地区有大暴雨（100～180毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvq0753982.d.html</link>
-            <guid>3666301</guid>
-            <pubDate>Fri, 21 Jun 2024 22:03:47 GMT</pubDate>
+            <title><![CDATA[【气象干旱指数达到重旱 山西临汾发布干旱橙色预警】6月22日上午，山西省临汾市气象台变更干旱橙色预警信号，预警区域：洪洞县、尧都区、蒲县、隰县、吉县、永和县。预计预警区域未来一周综合气象干旱指数达到重旱。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtc4164220.d.html</link>
+            <guid>3666449</guid>
+            <pubDate>Sat, 22 Jun 2024 04:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国阿肯色州超市枪击事件已致3死10伤】据央视记者消息，当地时间21日发生的美国阿肯色州超市枪击事件已造成3人死亡，另有10人受伤，伤者中包括两名警察。阿肯色州一家超市于当地时间6月21日中午12时左右发生枪击事件，造成人员伤亡。当地警方表示，枪手已被警方开枪击中并受伤，目前已被拘留。警方称，枪击事件的动机尚不清楚，该案还在进一步调查中。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvt3023409.d.html</link>
-            <guid>3666298</guid>
-            <pubDate>Fri, 21 Jun 2024 21:44:36 GMT</pubDate>
+            <title><![CDATA[【上海发布雷电黄色预警，注意防范雷雨大风天气】上海中心气象台6月22日11时05分发布雷电黄色预警信号：预计今天半夜以前上海大部地区将发生雷电活动，可能会造成雷电灾害事故，并伴有一小时20~40毫米的短时强降水和8~10级雷雨大风天气，请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtc4163754.d.html</link>
+            <guid>3666448</guid>
+            <pubDate>Sat, 22 Jun 2024 04:23:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卡桑旅称袭击以军在加沙地带的多个军事目标】当地时间6月21日晚，巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅发表声明称，当天卡桑旅武装人员使用大口径迫击炮摧毁了加沙中央省东部地区一处以军集结地。声明还表示，卡桑旅武装人员向位于加沙市扎伊图恩街区以东“内察里姆走廊”的以军指挥部和车辆发射了迫击炮弹，导致2名以军士兵死亡。截至目前，以色列方面对此暂未做出回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvq0745639.d.html</link>
-            <guid>3666296</guid>
-            <pubDate>Fri, 21 Jun 2024 21:30:39 GMT</pubDate>
+            <title><![CDATA[【中国光伏产业助推欧洲绿色转型进入“快车道”】 2024年欧洲国际太阳能展于6月19日至21日在德国慕尼黑举行，吸引了来自160个国家和地区约3000家企业参展。作为世界太阳能产业的重要展会，今年展会吸引了近1000家中国企业参展，数量超过东道主德国。自展会创办以来，中国首次成为参展规模最大的国家。参加展会的中外企业代表和行业专家认为，中国光伏产业在技术创新、成本控制和价值链整合等方面具有显著优势。近年来，中国向包括德国在内的欧洲国家提供有竞争力的优质光伏产品，有力推动欧洲能源转型进程，实现真正的“双赢”局面。隆基绿能科技股份有限公司副总裁佘海峰在展会期间告诉记者，他对中国企业在欧洲可再生能源市场的持续参与和贡献持乐观态度。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0940356.d.html</link>
+            <guid>3666447</guid>
+            <pubDate>Sat, 22 Jun 2024 04:19:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【古巴宣布加入起诉以色列的国家行列】古巴外交部21日发表公告说，古巴决定加入南非的行列，向联合国国际法院起诉以色列在加沙地带犯下“种族灭绝罪”。 (新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvp1266025.d.html</link>
-            <guid>3666289</guid>
-            <pubDate>Fri, 21 Jun 2024 21:06:44 GMT</pubDate>
+            <title><![CDATA[【叶军吐槽百度搜索：10条结果全是广告】钉钉总裁叶军在亚布力论坛创新年会表示，OpenAIt推出ChatGPT，百度可能就没什么用了。“因为百度搜出来的结果是10条记录，甚至是10条差不多的广告，但ChatGPT出来一条就是准确答案，没有广告，我当时第一感觉是这个交互要变了”。“我如果买了一个设备不知道怎么用，你去视频号搜，人家会告诉你大量的结果，这个结果跟百度就不一样，估计百度出来的前10条结果没有一条是你想要的，这就是有了智能化的能力之后，交互的感觉就完全不一样”，叶军说。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2749830.d.html</link>
+            <guid>3666446</guid>
+            <pubDate>Sat, 22 Jun 2024 04:17:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈尼亚：哈马斯对结束加沙冲突的任何倡议均持开放态度】当地时间6月21日，巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局领导人哈尼亚向外界表示，哈马斯对结束加沙冲突的任何倡议均持开放态度，这些倡议包括实现加沙永久停火、以色列撤军、加沙地带重建进程、交换被扣押人员以及为加沙人民提供救济等内容。他强调，目前首要任务是“制止（以色列）对巴勒斯坦人民的战争”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvq0737693.d.html</link>
-            <guid>3666286</guid>
-            <pubDate>Fri, 21 Jun 2024 20:54:32 GMT</pubDate>
+            <title><![CDATA[【江苏结束淮河以南地区防汛Ⅳ级应急响应】江苏省防汛抗旱指挥部决定，2024年6月22日12时，结束江苏沿淮及淮河以南地区防汛Ⅳ级应急响应。（交汇点新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2748019.d.html</link>
+            <guid>3666445</guid>
+            <pubDate>Sat, 22 Jun 2024 04:11:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【土耳其东南部火灾死亡人数增至12人】当地时间21日，土耳其卫生部长法赫尔丁·科贾在社交媒体上表示，土耳其东南部村庄发生的火灾已致12人死亡、78人受伤，其中5人仍在医院接受治疗。当地时间20日夜间，土耳其东南部城市迪亚巴克尔和马尔丁之间的几个村庄发生火灾，火势随强风快速蔓延至山林及多个居民区，致数十人伤亡。此前有消息称，目前火势已基本得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpyvp1262554.d.html</link>
-            <guid>3666283</guid>
-            <pubDate>Fri, 21 Jun 2024 20:37:52 GMT</pubDate>
+            <title><![CDATA[当地军事管理局局长表示，俄罗斯军队对利沃夫地区关键能源基础设施发动导弹袭击，并引发火灾。]]></title>
+            <guid>3666444</guid>
+            <pubDate>Sat, 22 Jun 2024 04:11:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国证券交易委员会（SEC）数据显示：谷歌母公司Alphabet的CEO Sundar Pichai于6月20日（周四）卖出2.25万股谷歌股票，套现399万美元。]]></title>
-            <guid>3666281</guid>
-            <pubDate>Fri, 21 Jun 2024 20:29:12 GMT</pubDate>
+            <title><![CDATA[6月份沪牌拍卖结果公布：中标率15.4%，最低成交价93700元，平均成交价为93747元，比上个月93029元增加了718元。（看看新闻）]]></title>
+            <guid>3666443</guid>
+            <pubDate>Sat, 22 Jun 2024 04:07:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称袭击黎巴嫩南部多个黎真主党军事目标】当地时间6月21日晚，以色列国防军发表声明称，当天，以军出动战机和无人机袭击了黎巴嫩南部多个地区隶属于真主党的军事目标，其中包括位于基亚姆（Khiam）地区的一栋军事建筑、位于梅斯贾巴尔（Mays al-Jabal）地区的一个军事哨所以及位于泰贝（Taybeh）和塔卢萨（Tallouseh）地区的军事基础设施。黎巴嫩真主党方面对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupr1390822.d.html</link>
-            <guid>3666277</guid>
-            <pubDate>Fri, 21 Jun 2024 20:14:48 GMT</pubDate>
+            <title><![CDATA[【上海发布大风蓝色预警】上海中心气象台6月22日11时50分发布大风蓝色预警信号：受雷暴云团影响，预计今天半夜以前本市大部地区将出现风力7-9级的雷雨大风，请注意防范大风对高空作业、交通出行、设施农业等的不利影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0938458.d.html</link>
+            <guid>3666442</guid>
+            <pubDate>Sat, 22 Jun 2024 04:06:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[本田汽车将于2025年停止生产小型电动摩托Mopeds。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3134334.d.html</link>
-            <guid>3666276</guid>
-            <pubDate>Fri, 21 Jun 2024 20:13:43 GMT</pubDate>
+            <title><![CDATA[【光鉴科技朱力：ChatGPT大幅提升管理效率，公司直接裁掉了10个人】光鉴科技CEO朱力在亚布力论坛创新年会表示，光鉴科技是一家创业公司，因此自己的工作职能非常广泛，公司哪里有漏洞，自己就得去填，但有了ChatGPT之后，发现自己有了一个极其好的顾问。“原来我可能需要找各种人脉问的问题，现在ChatGPT能给我八九不离十的答案，它通常做的是一个完整性检查，比如我要跟律师开一个专利的会，或者跟同事开一个市场的会，我通过跟AI对话5分钟，就能把我需要讨论的问题涉及到的各个方面整理得比较完整”，朱力说，“这导致的结果就是，我身边原来需要一些职能部门的人，全部都被我砍掉了，去年ChatGPT出来，我就砍了5到10个人，我给还剩的个别人的压力是，你要么把工具用好，要么我找能用好工具的人”。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0938229.d.html</link>
+            <guid>3666441</guid>
+            <pubDate>Sat, 22 Jun 2024 04:05:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴基斯坦西北部爆炸袭击致5名军人死亡】巴基斯坦军方21日说，该国西北部开伯尔-普什图省当天发生一起爆炸袭击事件，造成5名军人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0859829.d.html</link>
-            <guid>3666275</guid>
-            <pubDate>Fri, 21 Jun 2024 20:11:54 GMT</pubDate>
+            <title><![CDATA[【新研究：加热牛奶可显著降低有传染性H5N1禽流感病毒数量】美国一项实验室研究显示，生牛奶经过热处理，其中具有传染性的H5N1型高致病性禽流感病毒数量会急剧下降。但是病毒含量较高的生牛奶样品在巴氏灭菌法常用温度72摄氏度下处理20秒后，仍可检测到少量有传染性的病毒。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0937522.d.html</link>
+            <guid>3666440</guid>
+            <pubDate>Sat, 22 Jun 2024 04:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[武田制药（Takeda Pharmaceutical）用于治疗某些结肠直肠癌症的Fruzagla获得欧盟批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0858506.d.html</link>
-            <guid>3666274</guid>
-            <pubDate>Fri, 21 Jun 2024 20:04:39 GMT</pubDate>
+            <title><![CDATA[【中国长城与中电惠融签署协议 将在供应链金融服务多领域开展合作】 记者从中国长城获悉，近日，中国长城与中电惠融商业保理（深圳）有限公司（简称“中电惠融”）在深圳签署合作协议。根据协议内容，双方将结合自身资源优势与统筹能力，在供应链金融服务多个领域开展广泛而深入的合作，助力计算产业与系统装备两大核心主业发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2744425.d.html</link>
+            <guid>3666439</guid>
+            <pubDate>Sat, 22 Jun 2024 04:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AMC院线与贷款人启动债务削减和延长债券久期的磋商。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3130928.d.html</link>
-            <guid>3666269</guid>
-            <pubDate>Fri, 21 Jun 2024 19:55:41 GMT</pubDate>
+            <title><![CDATA[【河北发布高温橙色预警信号】河北省气象台2024年06月22日11时01分继续发布高温橙色预警信号：预计今天下午，保定南部、石家庄、沧州西部、衡水西部最高气温可达37～38℃，请注意防范。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrth0467949.d.html</link>
+            <guid>3666438</guid>
+            <pubDate>Sat, 22 Jun 2024 03:52:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[礼来制药下跌4.1%，该公司公布针对Apnea的研究数据。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupr1388757.d.html</link>
-            <guid>3666268</guid>
-            <pubDate>Fri, 21 Jun 2024 19:55:04 GMT</pubDate>
+            <title><![CDATA[【广东梅州灾情保险业已赔付超4000万元】6月16日以来，广东省梅州市多地出现大暴雨局部特大暴雨，全市多地受灾严重，部分县、镇发生山洪、山体滑坡等地质灾害。记者了解到，广东金融监管局联动梅州金融监管分局指导保险公司全力配合开展灾害救助和灾后理赔工作，切实发挥好保险业经济“减震器”和社会“稳定器”作用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2741205.d.html</link>
+            <guid>3666437</guid>
+            <pubDate>Sat, 22 Jun 2024 03:49:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[礼来制药：Tirzepatide临床试验实现所有主要终点和关键的次要终点。Tirzepatide有助于减轻阻塞性睡眠呼吸暂停严重程度。]]></title>
-            <guid>3666267</guid>
-            <pubDate>Fri, 21 Jun 2024 19:54:13 GMT</pubDate>
+            <title><![CDATA[【福建上杭6名因暴雨失联人员已遇难】记者从当地搜救指挥部获悉，6月16日，福建上杭县太拔镇清源山，因暴雨影响导致的山体滑坡中失联的6名人员，经连日来全力搜救，今日已全部找到。经确认，均已无生命体征。  （央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2740309.d.html</link>
+            <guid>3666436</guid>
+            <pubDate>Sat, 22 Jun 2024 03:46:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特斯拉今年已经裁员14%】特斯拉内部记录显示，截至6月17日，该公司全球员工总数为12.1万多名，其中包括临时工。特斯拉去年第四季度的一份文件显示，截至去年12月31日，特斯拉在全球拥有140473名员工，其中包括小时工和受薪员工。这表明该汽车制造商今年迄今为止已经裁员14%以上。特斯拉CEO马斯克今年4月表示，特斯拉将在全球裁员10%以上。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0850621.d.html</link>
-            <guid>3666263</guid>
-            <pubDate>Fri, 21 Jun 2024 19:27:55 GMT</pubDate>
+            <title><![CDATA[【海通证券助力郑州银行成功发行2024年绿色金融债券】 近日，海通证券作为联席主承销商，助力郑州银行股份有限公司成功发行2024年绿色金融债券，发行规模20亿元，期限3年，票面利率2.25%。本期债券募集资金全部用于《绿色债券支持项目目录（2021年版）》规定的绿色项目，助力河南省绿色产业高质量发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0934955.d.html</link>
+            <guid>3666435</guid>
+            <pubDate>Sat, 22 Jun 2024 03:43:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受暴雨影响 厄瓜多尔三大主要城市停电7小时】当地时间6月21日，厄瓜多尔国家电力运营商公布，受暴雨影响，当天该国最重要的发电设施辛克莱发电厂关闭，厄瓜多尔三大主要城市，首都基多、瓜亚基尔和昆卡从当天上午9时至下午4时停电。厄国家电力运营商表示，受能源短缺及暴雨影响，预计厄瓜多尔全国电力供应紧张的情况可能会持续到2025年2 月。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0849212.d.html</link>
-            <guid>3666262</guid>
-            <pubDate>Fri, 21 Jun 2024 19:21:21 GMT</pubDate>
+            <title><![CDATA[礼来：已向美国申请批准其减肥药Zepbound用于治疗最常见的与睡眠有关的呼吸障碍，并预计监管机构最早将于今年年底做出决定。]]></title>
+            <guid>3666432</guid>
+            <pubDate>Sat, 22 Jun 2024 03:33:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【瑞士央行再次降息】瑞士国家银行20日再次宣布降息25个基点至1.25%。这是瑞士央行今年第二次降息。瑞士央行行长托马斯·乔丹表示，瑞士通货膨胀压力略有放缓，瑞郎走强，全球不确定性增加，鉴于当前环境，瑞士央行决定降息25个基点。瑞士央行同样准备好在必要时干预外汇市场。此前，瑞士央行3月21日宣布降息25个基点至1.50%，成为今年首个宣布降息的发达经济体。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupp4607101.d.html</link>
-            <guid>3666261</guid>
-            <pubDate>Fri, 21 Jun 2024 19:16:53 GMT</pubDate>
+            <title><![CDATA[【TCL创始人李东生：虽然东南亚制造实力在提高，但中国仍然最有优势】“亚布力中国企业家论坛第十届创新年会”于6月21日-22日在深圳召开。TCL 创始人、董事长李东生表示，中国制造业的比较优势很明显，虽然东南亚、印度等地区随着时间的发展，基础设施越来越完善，制造业实力在提高，但综合各方面因素，中国制造业仍然是竞争力最强的，整体的制造成本在中国是最有优势的。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2733992.d.html</link>
+            <guid>3666431</guid>
+            <pubDate>Sat, 22 Jun 2024 03:27:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国阿肯色州一超市发生枪击事件 已致2死8伤】据央视记者消息，美国阿肯色州一家超市于当地时间21日中午12时左右发生枪击事件，造成至少2人死亡、8人受伤，伤者中包括一名警察。据悉，枪击事件中至少有四名枪手。警方表示，该事件已得到控制。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0847468.d.html</link>
-            <guid>3666260</guid>
-            <pubDate>Fri, 21 Jun 2024 19:14:01 GMT</pubDate>
+            <title><![CDATA[【通威集团刘汉元：中国新能源产业已在全球遥遥领先，一骑绝尘】 “亚布力中国企业家论坛第十届创新年会”于6月21日-22日在深圳召开。通威集团董事局主席刘汉元出席并演讲。刘汉元称，发展光伏系统是“小能源”换“大能源”的过程，1kw光伏系统的生产全过程电耗为300kwh，年发电量为1500kwh。制造光伏系统全过程的能耗，在电站建成后半年内即可全部收回，系统可稳定运行25年以上，电力是投入的50倍以上。（睿见）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0931952.d.html</link>
+            <guid>3666430</guid>
+            <pubDate>Sat, 22 Jun 2024 03:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【古特雷斯警告中东地区冲突有扩大危险】联合国秘书长古特雷斯21日表示，中东地区存在冲突进一步扩大的危险，这种情况必须避免。古特雷斯当天在新闻发布会上对以色列与黎巴嫩真主党武装人员之间的冲突不断升级深表关切。他说，以黎军事冲突进一步升级只会给两国带来更多苦难，造成更多破坏，并给地区带来灾难性后果。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0846716.d.html</link>
-            <guid>3666259</guid>
-            <pubDate>Fri, 21 Jun 2024 19:10:09 GMT</pubDate>
+            <title><![CDATA[【菲律宾一火山喷发 羽流高度达2400米】据菲律宾火山地震研究所消息，6月22日1时30分至7时55分，塔阿尔火山出现排气活动，喷发出高达2400米的羽流。自2021年3月以来，塔阿尔火山一直在排出大量火山气体。2024年6月20日测量到的二氧化硫总量为4641吨/天。目前塔阿尔火山的预警等级仍然维持在最低的一级。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2732535.d.html</link>
+            <guid>3666429</guid>
+            <pubDate>Sat, 22 Jun 2024 03:23:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国司法部：仍未就是否将起诉波音公司做出决定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0846152.d.html</link>
-            <guid>3666258</guid>
-            <pubDate>Fri, 21 Jun 2024 19:07:59 GMT</pubDate>
+            <title><![CDATA[【中美洲三国遭暴雨袭击 死亡人数升至30人】据中美洲三国萨尔瓦多、危地马拉、洪都拉斯的官方消息，截至6月21日，在目前的雨季中，暴雨造成的死亡人数已达30人。萨尔瓦多国家民防部门官员表示，暴雨已造成19人死亡。此外，灾害天气还导致700多棵树木倒伏，500多条道路受阻，超2000人被迫撤离。危地马拉国家减灾部门官员表示，截至21日上午9时，暴雨造成该国至少10人死亡，5人受伤，超过300人避难。洪都拉斯风险和应急管理秘书处的记录显示，迄今该国已有一人因暴雨死亡，6000多人遭受灾害天气影响，超过900人被迫疏散。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtc4153026.d.html</link>
+            <guid>3666427</guid>
+            <pubDate>Sat, 22 Jun 2024 03:15:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国总统拜登将于6月28日至29日在纽约和新泽西进行竞选活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0845633.d.html</link>
-            <guid>3666257</guid>
-            <pubDate>Fri, 21 Jun 2024 19:05:21 GMT</pubDate>
+            <title><![CDATA[【中国代表：安理会应支持同阿富汗临时政府的对话接触】中国常驻联合国副代表耿爽21日在安理会阿富汗问题公开会上表示，安理会应支持同阿富汗临时政府的对话接触，支持阿富汗应对人道困难。耿爽表示，国际社会应当尊重阿塔执政的政治现实，通过耐心沟通推动阿临时政府逐步增强对外界的信任。作为建立信任的重要一步，安理会应尽快重启对阿临时政府有关人员旅行禁令的一揽子豁免，并根据形势发展及时调整安理会第1988号决议设立的制裁机制，为阿临时政府同国际社会接触交往提供便利。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtf0930206.d.html</link>
+            <guid>3666426</guid>
+            <pubDate>Sat, 22 Jun 2024 03:14:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国爱达荷州两架农用飞机相撞 致1死1伤】据总台记者消息，美国爱达荷州两架农用喷粉飞机于美国东部时间20日14时30分左右在空中相撞并坠机，导致一架飞机的飞行员死亡，另一架飞机的飞行员受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpups0845558.d.html</link>
-            <guid>3666256</guid>
-            <pubDate>Fri, 21 Jun 2024 19:04:59 GMT</pubDate>
+            <title><![CDATA[【中国通号城交公司获颁《民用无人驾驶航空器运营合格证》】 中国通号消息，近日，中国通号城交公司收到中国民用航空局签发的《民用无人驾驶航空器运营合格证》，标志着城交公司具备正式开展无人机经营性飞行活动的资格，为企业发展低空经济业务奠定了坚实基础。中国通号将以此为契机，加快推进低空经济产业布局，努力探索应用场景及实施路径，为低空经济高质量发展贡献更多力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrth0455281.d.html</link>
+            <guid>3666425</guid>
+            <pubDate>Sat, 22 Jun 2024 03:14:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：Stability AI公司获得投资集团注资。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupv3115614.d.html</link>
-            <guid>3666252</guid>
-            <pubDate>Fri, 21 Jun 2024 18:46:16 GMT</pubDate>
+            <title><![CDATA[【今年第3号台风正在酝酿，下周广东或又有暴雨局部大暴雨】据中央气象台中期预报，未来10天，西北太平洋和南海热带扰动趋于活跃；23日前后，可能有1个台风生成并影响华南沿海等地。预计24日至26日，海南岛、广西、广东西南部，甚至云南南部等地都有大到暴雨，局地有大暴雨。 目前华南的龙舟水已结束，接下来天气将转变为以闷热桑拿为主，23日前后这“土”台风给华南地区带来的风雨只是暂时的，风雨过后华南的闷热还是会继续。  （大湾区之声）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2728803.d.html</link>
+            <guid>3666424</guid>
+            <pubDate>Sat, 22 Jun 2024 03:11:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【突尼斯总统解除宗教事务部长职务】突尼斯总统府21日发表声明说，总统赛义德当天解除了宗教事务部长易卜拉欣·沙伊比的职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazpupp4601949.d.html</link>
-            <guid>3666249</guid>
-            <pubDate>Fri, 21 Jun 2024 18:32:39 GMT</pubDate>
+            <title><![CDATA[【新东方董事长俞敏洪：“卷”会降低中国企业创新能力和空间】 2024亚布力论坛创新年会在深圳市举行。在开幕致辞环节，亚布力中国企业家论坛轮值主席、新东方教育科技集团董事长俞敏洪表示：“中国人追求新鲜事物的热情（都很高），任何一种新鲜事都会出现‘卷’的情况。”“‘卷’是大家希望追求新的发展，但是也降低了中国企业创新的能力和空间。原因是一旦‘卷’，尤其是面对老百姓的产品‘卷’，（就会导致）价格下降，研发费用减少。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2728726.d.html</link>
+            <guid>3666423</guid>
+            <pubDate>Sat, 22 Jun 2024 03:11:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【刘建超访问巴基斯坦】 6月20日至22日，中共中央对外联络部部长刘建超率中共代表团访问巴基斯坦，分别同巴基斯坦穆斯林联盟（谢里夫派）领导人、政府总理夏巴兹，政府副总理兼外长达尔，陆军参谋长穆尼尔等会见交流，并与巴各界人士座谈，出席中巴政党论坛暨中巴经济走廊政党共商机制第三次会议并致辞。双方一致认为，中巴是全天候战略合作伙伴，中巴友谊牢不可破。要落实好两国领导人新的重要共识，加强党际交往，深化治国理政经验交流互鉴，促进高质量共建中巴经济走廊，推动构建新时代更加紧密的中巴命运共同体。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2728003.d.html</link>
+            <guid>3666422</guid>
+            <pubDate>Sat, 22 Jun 2024 03:08:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河南解除抗旱四级应急响应】6月20日夜里至21日，河南出现一次大范围降水过程，安阳、鹤壁、三门峡南部、洛阳南部、商丘、周口东部、南阳北部、驻马店南部、信阳等地出现大到暴雨，洛阳南部、驻马店南部、信阳局地大暴雨，全省平均降水量17.7毫米。受前期降雨、人工增雨和浇灌共同影响，河南全省旱情已基本解除。6月22日9时，河南省气象局解除干旱橙色预警，经会商研判，根据《河南省抗旱应急预案》有关规定，河南省防汛抗旱指挥部决定于22日10时解除抗旱四级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqrtm2727702.d.html</link>
+            <guid>3666421</guid>
+            <pubDate>Sat, 22 Jun 2024 03:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【推动数据经济高质量发展，临港新片区签约一批国际数据合重点项目】6月21日下午，由上海临港新片区跨境数据科技有限公司主办的临港新片区高水平开放大会系列活动——高水平国际数据合作推动数据经济高质量发展论坛在临港中心举办。 当天，跨境数科、AQ Compute、Morrow Consultant、B4B、Aifinity Plus、Australia-China Expo和Bilvio多家国际企业和机构共同参与共建国际数据合作交流工作站项目签约。未来，多方将围绕国际数据合作交流、促进数字经济产业发展开展深层次合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2858436.d.html</link>
+            <guid>3666420</guid>
+            <pubDate>Sat, 22 Jun 2024 03:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国总理Srettha Thavisin在上任后的首次月度电视讲话提到了赌场合法化、建设核电站等计划。]]></title>
+            <guid>3666419</guid>
+            <pubDate>Sat, 22 Jun 2024 03:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌克兰24小时内发布三次全境防空警报】据俄新社22日报道，据乌克兰数字转型部在线地图显示，乌克兰全境已发出防空警报。消息人士透露，防空警报于当地时间2时56分在乌克兰所有地区响起。据报道，过去24小时内，乌克兰已发布三次全境防空警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmf4281910.d.html</link>
+            <guid>3666418</guid>
+            <pubDate>Sat, 22 Jun 2024 03:01:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡巴斯基Next新品系列发布 支持自动化防御】近日，知名网络安全公司卡巴斯基发布了新安全产品系列——“卡巴斯基新一代安全产品（卡巴斯基Next）”。该产品系列不仅能有效抵御及侦测响应各种已/未知恶意软件攻击，还提供了丰富的威胁可见性和快速的响应能力，为企业安全管理员发现并应对网络威胁、确保数据安全提供保障。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2855940.d.html</link>
+            <guid>3666416</guid>
+            <pubDate>Sat, 22 Jun 2024 03:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[礼来：在两项后期试验中，公司颇受欢迎的减肥药Zepbound帮助高达52%的患者缓解了中度至重度阻塞性睡眠呼吸暂停（症状）。]]></title>
+            <guid>3666414</guid>
+            <pubDate>Sat, 22 Jun 2024 02:59:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加速落地！“双通道”国谈药品已扩充到430种】 “国谈药”通常是指协议期内国家医保谈判药品，也就是医保部门与药品生产企业进行价格谈判，并被纳入医保目录报销的药品。一般协议期是两年。国家医保局成立以来，连续六年开展医保药品目录准入谈判，累计有700余种救急救命的好药、创新药进入国家医保目录。但是实践中，一些治疗重特大疾病的谈判药虽然进入医保药品目录，却没有真正进到医院。为了推进这一问题的解决，国家医保部门联合卫健委印发文件，一条新通道出现。简言之，就是将零售药店纳入谈判药品的供应保障体系，让暂时进不了医院的“国谈药”先进药店，与医疗机构实行相同报销政策，简称“双通道”模式。国家医保局表示，实施3年来，“双通道”国谈药品从221种已经扩充到430种。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2853974.d.html</link>
+            <guid>3666412</guid>
+            <pubDate>Sat, 22 Jun 2024 02:53:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卧龙电驱：广西百色储能项目并网 卧龙储能提供储能解决方案】 卧龙电驱消息，近日，广西百色京耀综合能源服务有限公司与浙江卧龙储能系统有限公司（简称“卧龙储能”）共同宣布，位于广西百色的50MW/100MWh磷酸铁锂储能电站项目已顺利完成并正式并网运行。卧龙电驱子公司卧龙储能作为项目的核心供方和技术支持方，为该储能电站提供了基于磷酸铁锂电池的组串式储能解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmf4280292.d.html</link>
+            <guid>3666411</guid>
+            <pubDate>Sat, 22 Jun 2024 02:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首届中法教育发展论坛在巴黎举办】当地时间6月21日，中国教育部与法国高等教育和科研部在巴黎共同举办首届中法教育发展论坛。中国教育部部长怀进鹏与法国高等教育和科研部部长西尔维·勒塔约出席论坛并致辞。 怀进鹏表示，今年是中法建交60周年，习近平主席5月成功对法国进行国事访问，同马克龙总统就开启中法关系下一个60年新征程达成一系列重要共识，引领两国未来前进方向。举办中法教育发展论坛，旨在通过搭建新的平台，促进两国高校深入交流，扩大教育与科研合作，强化教育界与产业界协同，推动中法教育合作迈向更高水平、实现更大发展。（教育部）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmf4279961.d.html</link>
+            <guid>3666409</guid>
+            <pubDate>Sat, 22 Jun 2024 02:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：内塔尼亚胡再次发声，称发布公开批评“美扣留援以武器”的视频“绝对有必要”】据美国广播公司（ABC）21日报道，以色列总理内塔尼亚胡告诉美国Punchbowl News新闻网，在与美国进行“几个月私下对话但没解决问题”后，他发布公开批评拜登政府“扣留援以武器”的视频“绝对有必要”。报道称，内塔尼亚胡说，“几个月前，我们开始发现出现了一些重大问题。事实上，在我们（以色列）的官员和美国官员间，以及我和总统（拜登）之间进行过多次私下对话，试图解决供应减少的问题，但问题一直未能解决”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0577575.d.html</link>
+            <guid>3666406</guid>
+            <pubDate>Sat, 22 Jun 2024 02:47:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[农业农村部、中国气象局6月21日联合发布早稻“雨洗禾花”风险提示。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0577284.d.html</link>
+            <guid>3666405</guid>
+            <pubDate>Sat, 22 Jun 2024 02:46:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中央气象台6月22日10时继续发布暴雨黄色预警】预计，6月22日14时至23日14时，苏皖南部、上海、浙江北部、湖北东部、江西北部、湖南中北部、贵州大部、云南东北部、四川南部，以及黑龙江东部、吉林中东部、辽宁中部等地部分地区有大到暴雨，其中，安徽南部、江西北部、湖北东部等地部分地区有大暴雨（100～220毫米）。上述部分地区伴有短时强降水（最大小时降雨量30～50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0577030.d.html</link>
+            <guid>3666404</guid>
+            <pubDate>Sat, 22 Jun 2024 02:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全球首台套6000米级智能电驱深海重载采矿车辆平台装备研制成功】 6月21日获悉，中国五矿集团有限公司所属长沙矿冶研究院有限责任公司牵头的“深海矿产资源开采关键装备技术研究与示范应用”项目，日前通过综合验收。该项目研发出全球首台套6000米级智能电驱动深海重载采矿车辆平台。（中国能源报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2850473.d.html</link>
+            <guid>3666402</guid>
+            <pubDate>Sat, 22 Jun 2024 02:43:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【又有千亿基金公司“换帅”，华商基金任命苏金奎为新董事长】 华商基金发布《关于董事长变更的公告》，公告显示，因董事会换届，原董事长陈牧原离任，公司任命苏金奎为新董事长，任职日期为2024年6月21日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2849042.d.html</link>
+            <guid>3666401</guid>
+            <pubDate>Sat, 22 Jun 2024 02:38:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国联邦副总理访华】 6月22日上午，国家发展改革委主任郑栅洁在京会见德国联邦副总理兼经济和气候保护部部长哈贝克。今年3月，双方曾以视频形式会见，并正式启动中德政府间气候变化和绿色转型对话合作机制。（玉渊谭天）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmf4277899.d.html</link>
+            <guid>3666400</guid>
+            <pubDate>Sat, 22 Jun 2024 02:36:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【20名摩洛哥公民在沙特朝觐期间死亡】摩洛哥政府21日发布声明说，在今年参加官方朝觐的摩洛哥公民中，已确认有20人在沙特阿拉伯朝觐期间死亡。 摩洛哥宗教基金和伊斯兰事务部在声明中说，这些死亡的摩洛哥公民来自官方组织的朝觐团和旅行团体，均为“自然死亡”。 声明说，在过去20年里，每年摩洛哥朝觐者的死亡人数约在30至45人之间。今年的摩洛哥朝觐者中有15%年龄超过80岁。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmi1054804.d.html</link>
+            <guid>3666398</guid>
+            <pubDate>Sat, 22 Jun 2024 02:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【四会富仕：汽车电子类PCB产品有间接应用于车路云协同系统中的电子设备】 有投资者在互动平台对四会富仕提问： 公司的产品在车路协同方面有哪些应用？四会富仕回复，汽车电子是公司近年来增速较快的下游应用领域，公司汽车电子类PCB产品有间接应用于车路云协同系统中的雷达、传感器、天线、车载卫星定位导航系统等电子设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0572740.d.html</link>
+            <guid>3666397</guid>
+            <pubDate>Sat, 22 Jun 2024 02:32:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国工商界期待通过参与链博会促进法中合作创新】2024年中国-法国经贸合作论坛暨第二届中国国际供应链促进博览会法国路演21日在巴黎举办。法国工商界人士表示，期待通过参与链博会促进法中合作创新。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0571941.d.html</link>
+            <guid>3666396</guid>
+            <pubDate>Sat, 22 Jun 2024 02:29:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳连发3份优化营商环境工作方案 提升市场化法治化国际化水平】昨日，《深圳市2024年优化市场化营商环境工作方案》《深圳市2024年优化法治化营商环境工作方案》《深圳市2024年优化国际化营商环境工作方案》正式印发，围绕激发经营主体活力、增强深圳对全球优质要素资源的强大吸引力和国际竞争力等方面，提出105项主要任务，助力深圳提升市场化法治化国际化水平。（深圳特区报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0570347.d.html</link>
+            <guid>3666395</guid>
+            <pubDate>Sat, 22 Jun 2024 02:24:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美媒：美国向以色列保证，若以色列和真主党爆发全面战争，美政府支持其盟友】据美国有线电视新闻网（CNN）6月21日报道，美国高级官员向本周访问华盛顿的以色列高级官员代表团保证，如果以色列和真主党在以色列北部边境爆发全面战争，美国政府已做好充分准备支持其盟友。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2844535.d.html</link>
+            <guid>3666394</guid>
+            <pubDate>Sat, 22 Jun 2024 02:24:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国芝加哥郊区发生枪击事件 4人受伤】当地时间6月21日，美国伊利诺伊州芝加哥郊区蓝岛发生一起枪击案，造成4人受伤，其中1人伤势严重。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2843217.d.html</link>
+            <guid>3666392</guid>
+            <pubDate>Sat, 22 Jun 2024 02:20:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：乌克兰空军警告称，俄罗斯可能在乌克兰多个地区发动导弹袭击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2842948.d.html</link>
+            <guid>3666391</guid>
+            <pubDate>Sat, 22 Jun 2024 02:20:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【懂车帝：未来一年将投入8亿现金扶持优质内容】懂车帝宣布未来一年将投入8亿现金和1000亿流量，从内容生产、流量分发、商业化等多个维度，最大力度支持优质汽车内容产出。懂车帝方面公布的数据显示，过去一年，懂车帝汽车内容创作者规模同比增长78%，变现人数增长6倍，汽车领域80%的活跃创作者都在懂车帝发布过内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2840311.d.html</link>
+            <guid>3666390</guid>
+            <pubDate>Sat, 22 Jun 2024 02:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴称以军空袭加沙多地导致超40人死亡】巴勒斯坦通讯社称，以军21日对加沙地带多个地区实施密集空袭，已造成超过40人死亡，另有多人受伤。同一天，以色列国防军称对巴勒斯坦加沙地带多个地区的巴勒斯坦武装目标实施了空袭，以军还称，以色列南部当天遭到从加沙地带发射的火箭弹袭击。  （CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2839250.d.html</link>
+            <guid>3666388</guid>
+            <pubDate>Sat, 22 Jun 2024 02:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大也准备对中国电动汽车加征关税？专家：该国电动汽车市场并不发达】有报道称，熟悉内情人士透露，加拿大政府正在准备对中国制造的电动汽车征收新关税，与美国和欧盟的行动保持一致。当地时间20日，加拿大安大略省省长福特(Doug Ford)在社交媒体上表示，希望特鲁多政府至少对中国电动车征收与美国同等的关税。全国乘用车市场信息联席会秘书长崔东树对记者表示，加拿大的地理位置导致其大部分地区气温寒冷，该国国内电动汽车市场本身并不发达。（第一财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmf4273301.d.html</link>
+            <guid>3666387</guid>
+            <pubDate>Sat, 22 Jun 2024 02:07:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【重庆18个区县出现暴雨 8条河流一度超警】据重庆市水文监测总站监测，昨天（21日）8时至今天（22日）8时，重庆大部地区中到大雨，局地暴雨、大暴雨。江津、涪陵、垫江、石柱、梁平、忠县、丰都、万州、云阳、奉节、开州、巫山、巫溪、武隆、彭水、秀山、酉阳、黔江等18个区县出现暴雨，其中万州、云阳、奉节、梁平等4个区县出现大暴雨。最大日降雨量出现在万州区新田镇金山村，为125.0毫米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2838458.d.html</link>
+            <guid>3666386</guid>
+            <pubDate>Sat, 22 Jun 2024 02:06:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【马斯克第12个孩子曝光：与女下属又生了一个孩子】今年早些时候，马斯克悄悄地与其脑机接口公司Neuralink的女下属希冯·齐里斯再生一孩，他现在至少是12个孩子的父亲。 2021年，两人已经生下了一对双胞胎。 现在，马斯克至少已拥有12个孩子，其中6个是在过去五年生下的，3个是和音乐家格莱姆斯(Grimes)生的，另外3个是和齐里斯生的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmk0563774.d.html</link>
+            <guid>3666385</guid>
+            <pubDate>Sat, 22 Jun 2024 02:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中央气象台6月22日10时继续发布强对流天气黄色预警。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2837023.d.html</link>
+            <guid>3666384</guid>
+            <pubDate>Sat, 22 Jun 2024 02:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【建发股份与东湖高新区签署合作协议 共建自贸供应链服务平台】 建发股份消息，6月20日，建发股份与东湖高新区（又称“中国光谷”）签署合作协议。根据协议，武汉东湖综合保税区建设投资有限公司将与建发股份全资子公司建发高科成立合资公司，搭建专业化的光电子信息产业供应链平台，为东湖高新区企业提供市场调研、销售与分销、物流与供应链管理等专业化服务，实现生产性服务业与制造业的融合发展。以此次合作为契机，未来建发股份将持续布局新能源及半导体行业，不断优化芯屏等全产业链运营体系，提供优质、高效、可靠的供应链解决方案。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2835613.d.html</link>
+            <guid>3666383</guid>
+            <pubDate>Sat, 22 Jun 2024 01:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥东南部发生5.1级地震】根据墨西哥国家地震监测局的信息，当地时间6月21日19时06分59秒，墨西哥东南部瓦哈卡州萨琳娜科鲁兹市东南方向约123公里处发生5.1级地震，震源深度约16.2公里。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-22/detail-inazqmmp2832246.d.html</link>
+            <guid>3666382</guid>
+            <pubDate>Sat, 22 Jun 2024 01:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
