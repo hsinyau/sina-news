@@ -4,369 +4,460 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 25 Jun 2024 15:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jun 2024 18:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【礼来宣布与OpenAI合作以开发新药物】据礼来官网，礼来表示正在与OpenAI合作以开发新药物。]]></title>
-            <guid>3670164</guid>
-            <pubDate>Tue, 25 Jun 2024 15:03:54 GMT</pubDate>
+            <title><![CDATA[美国雅宝：锂价偏低，无法支持本公司在众多新工厂的开支。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6598263.d.html</link>
+            <guid>3670274</guid>
+            <pubDate>Tue, 25 Jun 2024 18:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【秘鲁总统博鲁阿尔特首次访华 惊呼“中国高铁好快！”】6月25日傍晚，乘坐广深港高铁从香港抵达深圳后，秘鲁总统惊呼中国高铁好快。博鲁阿尔特总统6月25日至29日对中国进行国事访问。在深圳期间，她将参访华为、比亚迪等多家中国企业。随后将前往上海、苏州、北京等地，探寻更深层次的合作机会。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6817092.d.html</link>
-            <guid>3670163</guid>
-            <pubDate>Tue, 25 Jun 2024 15:03:15 GMT</pubDate>
+            <title><![CDATA[肯尼亚总统：正在部署安全部队以恢复秩序。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxv0675741.d.html</link>
+            <guid>3670273</guid>
+            <pubDate>Tue, 25 Jun 2024 18:09:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加沙北部一处联合国近东救济工程处学校遭袭致12人死亡】 当地时间6月25日，近东救济工程处主任专员菲利普·拉扎里尼表示，加沙地带北部隶属于该机构的一所学校于前一天夜里遭到袭击，造成12人死亡，另有22人受伤。]]></title>
-            <guid>3670162</guid>
-            <pubDate>Tue, 25 Jun 2024 15:02:35 GMT</pubDate>
+            <title><![CDATA[【肯尼亚首都示威活动引发冲突 古特雷斯呼吁各相关方保持克制】当地时间6月25日，在回答记者提问时，联合国秘书长发言人表示，秘书长古特雷斯在密切关注肯尼亚局势的发展，对报道中提到的暴力行为感到震惊。发言人表示，古特雷斯呼吁肯尼亚当地警察及安全部队保持克制，并呼吁民众和平抗议。肯尼亚首都内罗毕25日爆发反对增税的游行示威活动，其间警察与示威人群发生冲突，造成多人死伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6598056.d.html</link>
+            <guid>3670272</guid>
+            <pubDate>Tue, 25 Jun 2024 18:08:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【王毅同匈牙利外长西雅尔多通电话】中共中央政治局委员、外交部长王毅应约同匈牙利外长西雅尔多通电话。王毅说，中方愿同匈方一道，落实好两国领导人重要共识，推动中匈关系继续走在中欧关系前列。王毅祝贺匈方即将担任欧盟轮值主席国，强调中方一贯支持欧洲一体化，支持欧盟战略自主，视欧方为实现中国式现代化的重要合作伙伴。中国对欧政策保持高度稳定性和连续性，希望欧方奉行理性务实对华政策，秉持开放立场，同中方相向而行，确保中欧关系健康稳定发展，相信匈方将为中欧良性互动发挥积极建设性作用。西雅尔多表示，匈方愿以担任欧盟轮值主席国为契机，推动欧中增进理解，提升合作效能，反对保护主义，坚持通过对话协商解决贸易摩擦。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4137243.d.html</link>
-            <guid>3670161</guid>
-            <pubDate>Tue, 25 Jun 2024 15:00:58 GMT</pubDate>
+            <title><![CDATA[【联合国官员：平均每天每10名加沙儿童失去一条或两条腿】当地时间6月25日，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员菲利普·拉扎里尼表示：新一轮巴以大规模冲突爆发以来，加沙地带已有14000名儿童死亡，4000名儿童或因被埋在废墟下而失踪，17000名儿童因无人陪伴、与家人失散而下落不明，每天平均每10名加沙儿童失去一条或两条腿，这还不算上那些被截去胳膊或手的孩子，因在冲突中受伤而截肢的加沙儿童人数根本无法统计。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxw1100354.d.html</link>
+            <guid>3670271</guid>
+            <pubDate>Tue, 25 Jun 2024 18:05:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国内期货主力合约涨跌不一】国内期货主力合约涨跌互现，棉纱、纸浆、焦煤、棉花涨超1%，燃油涨近1%。跌幅方面，20号胶跌超2%，橡胶跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6816251.d.html</link>
-            <guid>3670160</guid>
-            <pubDate>Tue, 25 Jun 2024 15:00:44 GMT</pubDate>
+            <title><![CDATA[【摩根大通：美国国债市场流动性好于交易员担心的水平】对于关注美国国债动荡迹象的投资者，摩根大通有一些建议：别担心，全球最大债券市场的流动性正在好转。Jay Barry等摩根大通利率策略师表示，得益于波动性下降，广泛流动性指标的改善趋势延续到了2024年。策略师们表示，从摩根大通首选指标“市场深度”看，过去一年“一直在稳步改善”。不过策略师补充指出，现在的“市场深度”仍然比十年平均水平低50%左右，因为国债市场流动性仍然对不确定性高度敏感。2023年7月美联储结束加息后，市场对今年降息的预期陡然增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6597301.d.html</link>
+            <guid>3670270</guid>
+            <pubDate>Tue, 25 Jun 2024 18:05:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[先进硅负极锂离子电池开发商和生产商Enovix Corporation（ENVX）涨33.9%，报16.25美元，创2023年8月份以来盘中新高，该公司与美国加州某家科技公司达成一份协议，将向对方供应适用于一款混合头显的硅电池和电池包。摩根大通和William Blair的分析师们表示，协议验证了Enovix的电池技术，估计客户可能会是苹果公司或“元宇宙公司”Meta Platforms。]]></title>
-            <guid>3670158</guid>
-            <pubDate>Tue, 25 Jun 2024 14:59:54 GMT</pubDate>
+            <title><![CDATA[【淡水河谷出售10亿美元公司债】淡水河谷附属公司Vale Overseas Ltd.发行10亿美元新的30年期美元债券。据知情人士透露，淡水河谷公司债较可比美债收益率溢价210个基点，一开始讨论的大约溢价250个基点。这是淡水河谷时隔一年再次于国际债券市场融资，该公司6月25日宣布高达5亿美元债券回购计划，涉及2034、2036、2039年到期的债券。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6595846.d.html</link>
+            <guid>3670268</guid>
+            <pubDate>Tue, 25 Jun 2024 17:57:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多地水体检出高浓度有害物 日本政府发布首份评估报告】鉴于日本多地水体检出高浓度全氟和多氟烷基物质（PFAS），日本内阁府食品安全委员会25日发布有关PFAS对人体健康影响的首份评估报告。]]></title>
-            <guid>3670157</guid>
-            <pubDate>Tue, 25 Jun 2024 14:59:36 GMT</pubDate>
+            <title><![CDATA[市场资讯：派拉蒙全球与众多潜在的国际流媒体合作伙伴们洽谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6594309.d.html</link>
+            <guid>3670267</guid>
+            <pubDate>Tue, 25 Jun 2024 17:50:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【圣贝拉向港交所递交申请 有望成为全球家庭品质护理第一股】中国最大综合家庭护理品牌集团圣贝拉正式向港交所递交招股书，有望成为全球家庭品质护理第一股。招股书显示，2021年至2023年，圣贝拉集团销售额分别为3.90亿元、5.89亿元、7.75亿元，涨幅99 %，营收已从2021年的人民币2.59亿元增至2023年的5.60亿元，涨幅达116%，2023年经调整的利润为人民币2,077万元，首次实现扭亏为盈，集团毛利方面，由2021年的人民币7,929万元增长至2023年的人民币2.05亿元，涨幅158%, 毛利率由2021年的30.6%增长至2023年的36.5%。据悉，圣贝拉集团成立于2017年，以场景化服务+新零售产品拓展其业务版图，包括产后护理中心、家庭护理服务和女性健康功能性食品等，业务覆盖中国内地多个一二线城市、中国香港、美国以及新加坡。后续还将涉足养老领域。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4137060.d.html</link>
-            <guid>3670156</guid>
-            <pubDate>Tue, 25 Jun 2024 14:59:24 GMT</pubDate>
+            <title><![CDATA[【丹麦减肥药生产商Zealand三天涨超37%】减肥药概念股Zealand制药公司丹麦哥本哈根股价（ZEAL.DC）收涨9.49%，报888.00（丹麦克朗），连续三个交易日创收盘历史新高，期间累计上涨37.25%。欧洲芯片概念股中，意法半导体（STMPA.FP）收跌1.42%，BE半导体实业公司（BESI.NA）收涨2.60%，荷兰半导体设备制造商ASM International NV（ASM.NA）收涨0.69%，半导体公司Soitec（SOI.FP）收跌0.09%，英飞凌（IFX.GY）收涨0.19%，爱思强股份（AIXA.GR）收跌0.43%。在法国奢侈品公司中，除了欧莱雅、LVMH之外，开云集团（KER.FP）收涨0.29%，保乐力加（RI.FP）收涨0.45%，爱马仕（RMS.FP）收涨1.42%，人头马君度（RCO.FP）收涨1.13%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxw1097061.d.html</link>
+            <guid>3670266</guid>
+            <pubDate>Tue, 25 Jun 2024 17:49:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国NTSB召开会议以确定去年诺福克南方列车脱轨事故原因】美国国家运输安全委员会(NTSB)周二召开会议，以确定2023年2月在俄亥俄州东巴勒斯坦发生的诺福克南方列车脱轨事故的可能原因，并提出加强铁路安全的建议。列车在该州与宾夕法尼亚州交界处起火并释放出超过一百万加仑的危险材料和污染物，脱轨事故迫使居民暂时放弃家园。上个月，诺福克南方公司同意支付1500万美元的民事罚款和5710万美元的过去清理费用，以及数百万美元的未来费用，以解决美国政府的诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6815444.d.html</link>
-            <guid>3670154</guid>
-            <pubDate>Tue, 25 Jun 2024 14:57:39 GMT</pubDate>
+            <title><![CDATA[肯尼亚国防部长：肯尼亚军队将被部署以支援警方处理安全紧急情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxw1096935.d.html</link>
+            <guid>3670265</guid>
+            <pubDate>Tue, 25 Jun 2024 17:49:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据港交所文件，广联科技控股有限公司通过港交所上市聆讯。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4136306.d.html</link>
-            <guid>3670151</guid>
-            <pubDate>Tue, 25 Jun 2024 14:52:53 GMT</pubDate>
+            <title><![CDATA[【美国2年期国债中标收益率符合预期 需求良好】美国财政部发行的690亿美元两年期国债中标收益率报4.706%，较美东时间下午1点投标截止时的发行前交易水平持平。美国国债对招标结果反应平淡。2年期国债收益率仍接近盘中高点，较周一收盘水平高出约2个基点。2s10s利差日间仍略微收窄。一级交易商获配13.5%，低于前次；间接投标人获配比例升至65.6%，直接投标人获配比例降至20.9%。投标倍数2.75倍，为9月以来最高，而前六次的投标倍数均值为2.57倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxv0673146.d.html</link>
+            <guid>3670264</guid>
+            <pubDate>Tue, 25 Jun 2024 17:48:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列卫生部称该国至少42人感染西尼罗河病毒，已有3人死亡】 当地时间6月25日，以色列卫生部表示，该国感染西尼罗河病毒的人数至少达42人。其中36人已住院，死亡病例已达3例。西尼罗河病毒可以导致人类罹患神经系统疾病甚至死亡。西尼罗河病毒常通过蚊虫叮咬传播，人类、马和其他哺乳动物都可能被感染，在非洲、欧洲、中东、北美和西亚等地很常见。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6813677.d.html</link>
-            <guid>3670150</guid>
-            <pubDate>Tue, 25 Jun 2024 14:51:24 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩总理会见德国外长 讨论“蓝线”局势问题】当地时间6月25日，黎巴嫩看守政府总理纳吉布·米卡提与来访的德国外交部长安娜莱娜·贝尔伯克在贝鲁特举行会谈。米卡提强调恢复黎南部和平的前提是以色列停止冲突行为并执行联合国安理会第1701号决议。贝尔伯克表示“蓝线”（黎以临时边界）局势存在风险，各方必须合作阻止局势进一步升级，并促成在加沙地带达成停火，这有助于在黎南部实现停火。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxw1096274.d.html</link>
+            <guid>3670263</guid>
+            <pubDate>Tue, 25 Jun 2024 17:45:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【时代新材聚氨酯汽车减振产品实现批量交付】 时代新材消息，近日，时代新材自主设计的后螺旋弹簧上下垫圈总成、聚氨酯缓冲块等汽车减振产品通过客户路试考核，实现批量交付，标志着时代新材又一个自主正向设计的聚氨酯汽车缓冲块类产品得到批量应用。该项目服务于国内某头部新能源车企，预计全生命周期销售超1500万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1316177.d.html</link>
-            <guid>3670149</guid>
-            <pubDate>Tue, 25 Jun 2024 14:50:18 GMT</pubDate>
+            <title><![CDATA[市场资讯：卢克石油公司美国交易部门董事总经理马修·尼利(Matthew Neeley)在该公司工作三年后离职。尼利一年前被任命为董事总经理，此前三年他一直担任风险管理主管。]]></title>
+            <guid>3670262</guid>
+            <pubDate>Tue, 25 Jun 2024 17:41:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：加拿大重申呼吁公民离开黎巴嫩，称此地安全局势变得越来越不稳定和不可预测。]]></title>
-            <guid>3670148</guid>
-            <pubDate>Tue, 25 Jun 2024 14:49:32 GMT</pubDate>
+            <title><![CDATA[花旗：日本当局干预日元“几乎具有无限的可能”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxw1095050.d.html</link>
+            <guid>3670261</guid>
+            <pubDate>Tue, 25 Jun 2024 17:38:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【重庆物流集团董事长曾勇到访力帆科技】 据力帆科技消息，6月25日，重庆物流集团党委书记、董事长曾勇带队到访力帆科技参观交流，双方就未来合作方向进行深入的交流和探讨。曾勇在交流中表示，重庆物流集团愿意提供全面的物流供应链解决方案，以满足力帆科技各业务板块产品的采购、生产及出口的物流需求。重庆物流集团期待与力帆科技携手合作，共同推动重庆乃至西部地区的产业升级和发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1315434.d.html</link>
-            <guid>3670147</guid>
-            <pubDate>Tue, 25 Jun 2024 14:48:17 GMT</pubDate>
+            <title><![CDATA[【欧盟与乌克兰和摩尔多瓦启动入盟谈判】当地时间6月25日，欧盟在卢森堡分别与乌克兰和摩尔多瓦举行首次部长级政府间会议，标志着两国入盟谈判正式启动。欧盟当天向乌克兰和摩尔多瓦分别提交了一份总体谈判框架，为其入盟谈判制定指导方针和原则。欧盟委员会主席冯德莱恩在社交媒体上说，入盟谈判的开启对乌克兰、摩尔多瓦乃至整个欧盟的民众而言都是非常好的消息。“未来的道路面临挑战，但充满机遇。”（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyuxx6591843.d.html</link>
+            <guid>3670260</guid>
+            <pubDate>Tue, 25 Jun 2024 17:37:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【SK On向埃克森美孚寻求锂供应，用于电动汽车电池生产】 6月25日消息，SK On向埃克森美孚寻求多达10万吨的锂供应，用于美国的电动汽车电池生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4135083.d.html</link>
-            <guid>3670146</guid>
-            <pubDate>Tue, 25 Jun 2024 14:45:13 GMT</pubDate>
+            <title><![CDATA[惠誉：全球范围内，住房价格增长和拖欠款项的轻微增加将持续整个2024年；预计各国2024年房价将适度上涨，除了法国和日本等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1224973.d.html</link>
+            <guid>3670259</guid>
+            <pubDate>Tue, 25 Jun 2024 17:35:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【加沙北部一处联合国近东救济工程处学校遭袭致12人死亡】当地时间6月25日，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）主任专员菲利普·拉扎里尼表示，加沙地带北部隶属于该机构的一所学校于前一天夜里遭到袭击，造成12人死亡，另有22人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4135052.d.html</link>
-            <guid>3670145</guid>
-            <pubDate>Tue, 25 Jun 2024 14:44:58 GMT</pubDate>
+            <title><![CDATA[【欧股“十一罗汉”｜诺和诺德收涨超4%，创收盘历史新高，欧莱雅则跌约1.3%】周二（6月25日），阿斯麦控股荷兰阿姆斯特丹股价（ASML.NA）收涨0.18%，报950.20欧元。诺和诺德哥本哈根股价（NOVOB.DC）收涨4.01%，创3月7日（美国非农前夜）以来最大单日涨幅（当天涨约8.33%），报1028.00（丹麦克朗），创收盘历史新高。LVMH集团收涨1.42%，德国思爱普Sap涨1.26%，阿斯利康涨0.58%，赛诺菲涨0.56%；诺华则跌0.12%，罗氏跌0.78%，葛兰素史克跌0.84%，雀巢跌0.84%，欧莱雅跌1.27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1224243.d.html</link>
+            <guid>3670257</guid>
+            <pubDate>Tue, 25 Jun 2024 17:31:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[圣贝拉（SAINT BELLA）向港交所提交上市申请书，联席保荐人为瑞银集团、中信证券。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1312529.d.html</link>
-            <guid>3670140</guid>
-            <pubDate>Tue, 25 Jun 2024 14:39:17 GMT</pubDate>
+            <title><![CDATA[【知名投资者Steve Eisman力挺英伟达 认为无需担忧高估值】路博迈高级投资组合经理Steve Eisman表示，英伟达三天内市值跌去4300亿美元不是什么大不了的事情。Eisman以在金融危机前做空次级抵押贷款而被广为人知，他周二在接受采访时说，自己持有“大量”的英伟达股票，而且将其当作一个长期投资，相信在未来几年都有意义。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1224174.d.html</link>
+            <guid>3670256</guid>
+            <pubDate>Tue, 25 Jun 2024 17:30:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【礼来宣布与OpenAI合作以开发新药物】 礼来公司6月25日表示，正在与OpenAI合作以开发新药物。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6809511.d.html</link>
-            <guid>3670139</guid>
-            <pubDate>Tue, 25 Jun 2024 14:39:12 GMT</pubDate>
+            <title><![CDATA[市场消息：一名美国官员在行业会议上表示，美国能源部将在劳动力、电池和能源部门的工业基础计划中部署超过200亿美元的额外资金。]]></title>
+            <guid>3670255</guid>
+            <pubDate>Tue, 25 Jun 2024 17:27:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天工开放平台面向OpenAl API用户推出“一键搬家计划”】 据天工AI智能助手公众号，为了助力开发者高效切换至国内大模型，天工开放平台第一时间面向OpenAl API用户推出“一键搬家计划”，并提供1.5亿Tokens的API调用资源（包括天工2.0及天工3.0大模型）。开发者还将享受专属的天工迁移服务技术支持。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1312373.d.html</link>
-            <guid>3670137</guid>
-            <pubDate>Tue, 25 Jun 2024 14:38:46 GMT</pubDate>
+            <title><![CDATA[【哈马斯领导人称不会改变要求以军全面撤军和加沙停火的立场】当地时间6月25日，巴勒斯坦伊斯兰抵抗运动（哈马斯）政治局领导人伊斯梅尔·哈尼亚向外界表示，任何不能保证加沙停火和以军全面撤军的协议都是“被拒绝的协议”，哈马斯的立场“在任何阶段都不会改变”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1223599.d.html</link>
+            <guid>3670254</guid>
+            <pubDate>Tue, 25 Jun 2024 17:27:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰全境拉响防空警报】当地时间6月25日，乌克兰基辅拉响防空警报。随后，乌克兰全境均发布防空警报。（央视新闻）]]></title>
-            <guid>3670136</guid>
-            <pubDate>Tue, 25 Jun 2024 14:36:33 GMT</pubDate>
+            <title><![CDATA[【美国银行：对冲基金和机构客户卖出美股 而散户买入】美国银行表示，客户上周净卖出美股，为一个月来首次，资金外流以对冲基金和机构资金为主，而散户投资者买入。报告表示，截至6月21日当周，美国银行客户资金净流出总计16亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6719923.d.html</link>
+            <guid>3670253</guid>
+            <pubDate>Tue, 25 Jun 2024 17:24:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【恺英网络：《蒸汽堡垒》取得游戏版号】 6月25日，国家新闻出版署官方公示了2024年6月份国产网络游戏审批信息，共有104款游戏获批。杭州浮云网络科技有限公司出版，恺英网络投资企业杭州树枝互动网络科技有限公司研发，恺英网络发行的《蒸汽堡垒》顺利取得版号。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6807917.d.html</link>
-            <guid>3670135</guid>
-            <pubDate>Tue, 25 Jun 2024 14:34:12 GMT</pubDate>
+            <title><![CDATA[【美国库存和天气前景改善 玉米价格下滑】芝加哥玉米期货连续第四个交易日下滑，因为交易商关注定于周五发布的美国报告，该报告预计将显示供应激增。美国农业部将在一份季度报告中公布截至6月1日的粮食和油籽库存情况。分析师预计，今年的供应量将达到48.74亿蒲式耳，同比增长19%，为2020年以来的最高水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1222463.d.html</link>
+            <guid>3670252</guid>
+            <pubDate>Tue, 25 Jun 2024 17:22:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【贾跃亭：FF与中东合作伙伴达成加强未来合作力度计划】 6月25日，法拉第未来创始人兼首席产品及用户生态官贾跃亭在微博表示，很荣幸在洛杉矶总部接待了中东合作伙伴Master投资集团CEO、阿联酋皇室成员谢赫·阿卜杜拉·本·穆罕默德·阿勒卡西米。FF CEO Matthias和我，与谢赫·阿卜杜拉一起带领FF团队进行了战略会议，达成了加强未来合作力度的计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1310236.d.html</link>
-            <guid>3670134</guid>
-            <pubDate>Tue, 25 Jun 2024 14:32:16 GMT</pubDate>
+            <title><![CDATA[【雨雪天气影响智利多地 三千余人受困】根据智利国家灾难预防和响应服务中心当地时间24日发布的最新报告，过去一周影响智利10个大区的新一轮雨雪天气已造成3255人受困，1864人受灾，11855栋房屋不同程度受损。智利农业部门表示，预计将有近8000名农民务农作业受到暴雨影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrx0800388.d.html</link>
+            <guid>3670251</guid>
+            <pubDate>Tue, 25 Jun 2024 17:18:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国财政部表示，美国将打击为伊朗军方转移数十亿美元资金的影子银行网络。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6806807.d.html</link>
-            <guid>3670133</guid>
-            <pubDate>Tue, 25 Jun 2024 14:31:05 GMT</pubDate>
+            <title><![CDATA[市场消息：联合国将派遣选举专家小组监督委内瑞拉选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrx0800340.d.html</link>
+            <guid>3670250</guid>
+            <pubDate>Tue, 25 Jun 2024 17:18:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【多地水体检出高浓度有害物 日本政府发布首份评估报告】鉴于日本多地水体检出高浓度全氟和多氟烷基物质（PFAS），日本内阁府食品安全委员会25日发布有关PFAS对人体健康影响的首份评估报告。 就PFAS是否可能导致新生儿低体重、影响人体免疫系统的问题，报告称“无法否认”其相关性，但因目前对PFAS可能造成的健康影响所知尚少，报告认为PFAS致癌“证据有限”。 据日本媒体报道，今年5月下旬起，日本政府在全国范围启动自来水水质调查，要求47个都道府县于9月底前上报自来水中PFAS含量等相关信息。日本环境省2022年在38个都道府县开展的河流和地下水水质调查发现，16个都府县的水体中PFAS含量超标，且问题水体周边居民血液检测结果异常。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4132505.d.html</link>
-            <guid>3670129</guid>
-            <pubDate>Tue, 25 Jun 2024 14:27:01 GMT</pubDate>
+            <title><![CDATA[法庭文件显示，美国法官终止美国前总统特朗普封口令案件中的部分限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1221137.d.html</link>
+            <guid>3670249</guid>
+            <pubDate>Tue, 25 Jun 2024 17:17:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【博晖创新：目前有7家浆站处于待执业许可或待验收阶段】 博晖创新(300318)6月25日接受机构调研时表示，公司目前在营浆站16家，有7家浆站处于待执业许可或待验收阶段，新浆站采浆量爬坡期通常3年左右。此外，广东卫伦当前接近产能上限。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1308460.d.html</link>
-            <guid>3670128</guid>
-            <pubDate>Tue, 25 Jun 2024 14:26:33 GMT</pubDate>
+            <title><![CDATA[调查显示：在接受调查的20位分析师中，有15位认为墨西哥央行周四将把基准利率维持在11.00%不变，5位分析师预计墨西哥央行将把主要利率下调25个基点至10.75%。]]></title>
+            <guid>3670247</guid>
+            <pubDate>Tue, 25 Jun 2024 17:15:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰基辅拉响防空警报】当地时间6月25日，乌克兰基辅拉响防空警报。]]></title>
-            <guid>3670127</guid>
-            <pubDate>Tue, 25 Jun 2024 14:26:23 GMT</pubDate>
+            <title><![CDATA[加拿大总理特鲁多就补选失利发表声明，称要取得实质性进展还有更多工作要做。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6717342.d.html</link>
+            <guid>3670246</guid>
+            <pubDate>Tue, 25 Jun 2024 17:13:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【Trump Media股价延续涨势 两日内上升逾30%】Trump Media股价周二一度上涨12%，上周五晚间该公司宣布预计将获得逾6940万美元的现金行权权证引发的涨势得以延续。该股周一飙升21%，市值增加约10亿美元；截至周二上午，该股两天内涨幅达36%。这波涨势帮助该股部分上收复了6月的失地，使该股的月内迄今跌幅收窄至26%左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykiz0909242.d.html</link>
-            <guid>3670126</guid>
-            <pubDate>Tue, 25 Jun 2024 14:23:57 GMT</pubDate>
+            <title><![CDATA[美国两年期国债收益率在竞拍后下跌，现上涨1.5个基点至4.749%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6717028.d.html</link>
+            <guid>3670245</guid>
+            <pubDate>Tue, 25 Jun 2024 17:11:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汉莎航空集团将在机票价格中增加环境费用附加费】汉莎航空集团将征收环境费用附加费，该附加费旨在支付部分因监管环境要求而上升的额外成本。附加费金额因航线和票价而异，在1欧元至72欧元之间，确切金额显示在预订页面的价格详情中。环境成本附加费适用于从27个欧盟国家以及英国、挪威和瑞士出发的航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6804251.d.html</link>
-            <guid>3670124</guid>
-            <pubDate>Tue, 25 Jun 2024 14:23:05 GMT</pubDate>
+            <title><![CDATA[【原计划延期至2024年举行的莫斯科航展被正式取消】俄罗斯政府当地时间6月25日颁布决定，原定于2023年举行、后延期至2024年的莫斯科国际航空航天展览会正式取消。莫斯科航展于1993年首次举办，之后每两年举办一次。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1219908.d.html</link>
+            <guid>3670244</guid>
+            <pubDate>Tue, 25 Jun 2024 17:11:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港故宫文化博物馆“法国百年时尚”展览今日正式开幕】香港故宫文化博物馆特别展览“法国百年时尚——巴黎装饰艺术博物馆服饰与珠宝珍藏，1770-1910年”开幕典礼今天（25日）在香港故宫文化博物馆举行。 “法国百年时尚”展览是香港西九文化区为庆祝中法建交60周年而推出的四个重要展览之一，为亚洲首度展出巴黎装饰艺术博物馆全面的法国历史服饰藏品，涵盖近400件华丽精美的法国服装、珠宝与配饰。 展览由巴黎装饰艺术博物馆与香港故宫文化博物馆联合主办，并于2024年6月26日至10月14日在展厅9向公众开放。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykiz0909089.d.html</link>
-            <guid>3670123</guid>
-            <pubDate>Tue, 25 Jun 2024 14:22:58 GMT</pubDate>
+            <title><![CDATA[【肯尼亚首都示威活动引发冲突至少4人死亡】肯尼亚首都内罗毕25日爆发反对增税的游行示威活动，其间警察与示威人群发生冲突，造成至少4名示威者死亡，另有多人受伤。在示威活动中，数百名抗议者越过警方设置的路障，制服现场安保人员，并冲进肯尼亚国民议会大厦实施纵火和破坏活动。警方向示威者投掷催泪瓦斯并开枪射击。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1218396.d.html</link>
+            <guid>3670241</guid>
+            <pubDate>Tue, 25 Jun 2024 17:03:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【博晖创新：受行业批签发下降影响 静丙需求处于较高水平】 博晖创新(300318)6月25日接受机构调研时表示，白蛋白目前整体供应相对稳定，因6—9月为白蛋白消耗淡季等因素，终端需求略微下滑，但供需整体符合市场规律。受行业批签发下降的影响，静丙需求较其他血制品处于较高水平。公司因子类产品，目前能满足原有客户、终端的使用，供需平衡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6803772.d.html</link>
-            <guid>3670120</guid>
-            <pubDate>Tue, 25 Jun 2024 14:21:43 GMT</pubDate>
+            <title><![CDATA[【美“毒火车”事故听证会上调查人士称“没有必要”燃烧车载有毒气体】当地时间6月25日，美国国家运输安全委员会就俄亥俄州火车脱轨事故原因举行听证会，并将就最终调查结果和建议进行投票。据悉，美国国家运输安全委员会的完整最终报告将在几周后公布。该委员会调查人员在会议上表示，诺福克南方铁路公司及其承包商燃烧五节脱轨火车车厢中的有毒化学物质的做法“没有必要”，是基于对情况的误解。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1217863.d.html</link>
+            <guid>3670237</guid>
+            <pubDate>Tue, 25 Jun 2024 17:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【水利部：全国35条河流发生超警以上洪水 太湖周边河网区有14站水位超警】记者从水利部了解到，截至今天（25日）8时，受降雨影响，江西、湖南、浙江、安徽、广西、黑龙江等地35条河流发生超警以上洪水，其中3条河流超过保证水位；太湖周边河网区有14站水位超警。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6803483.d.html</link>
-            <guid>3670119</guid>
-            <pubDate>Tue, 25 Jun 2024 14:20:46 GMT</pubDate>
+            <title><![CDATA[【赛诺菲有意出售旗下消费者保健部门 要求竞购者7月中旬前提出第一轮报价】据知情人士透露，法国制药巨头赛诺菲(Sanofi SA)已对其价值200亿美元的消费者保健部门发起了初步竞购。与此同时，这家法国制药巨头正在为该部门可能的上市做准备。知情人士称，这家总部位于巴黎的制药商已要求潜在竞购者在7月中旬之前提出第一轮报价。收购公司Advent International和法国的PAI Partners被视为热衷买家，黑石集团、CD&R、CVC和TPG据称也有意竞标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1217271.d.html</link>
+            <guid>3670234</guid>
+            <pubDate>Tue, 25 Jun 2024 16:57:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第一批安全支助特派团抵达海地】当地时间6月25日，肯尼亚派遣的第一批安全支助特派团乘坐肯尼亚航空公司的航班抵达海地首都太子港。2023年10月，联合国批准向海地派遣一支由肯尼亚领导的多国安全支助特派团，帮助海地局势恢复稳定。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6802591.d.html</link>
-            <guid>3670116</guid>
-            <pubDate>Tue, 25 Jun 2024 14:17:32 GMT</pubDate>
+            <title><![CDATA[【巴勒斯坦总理与亚美尼亚外长通电话 希望建立全面外交关系】当地时间6月25日，巴勒斯坦总理兼外交和侨民事务部长穆罕默德·穆斯塔法与亚美尼亚外交部长米尔佐扬通电话。在通话中，穆斯塔法对亚美尼亚承认巴勒斯坦国表示赞赏，并希望在巴勒斯坦和亚美尼亚之间建立全面的外交和双边关系。穆斯塔法还感谢亚美尼亚支持联合国安理会最近通过关于加沙地带立即停火的决议。6月21日，亚美尼亚外交部宣布该国承认巴勒斯坦国。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrv4020531.d.html</link>
+            <guid>3670233</guid>
+            <pubDate>Tue, 25 Jun 2024 16:57:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称袭击黎真主党多个军事目标并拦截可疑空中目标】当地时间6月25日下午，以色列国防军发布声明称，当天早些时候，以军出动战机空袭了黎巴嫩南部希亚姆（Khiam）、奥代塞（Odaisseh）地区的多个黎真主党军事目标。此外，以军防空系统成功拦截了2个从黎巴嫩南部进入以色列北部的可疑空中目标，未造成人员伤亡。黎巴嫩真主党方面对此暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6802457.d.html</link>
-            <guid>3670115</guid>
-            <pubDate>Tue, 25 Jun 2024 14:17:12 GMT</pubDate>
+            <title><![CDATA[【7月1日起沙特将正式成为中国公民出境团队游目的地】近日，沙特旅游部宣布，从7月1日起，沙特将正式成为中国公民出境团队游目的地国家。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6711156.d.html</link>
+            <guid>3670228</guid>
+            <pubDate>Tue, 25 Jun 2024 16:41:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【李强出席2024年夏季达沃斯论坛外国工商界代表座谈会】国务院总理李强6月25日下午在大连出席2024年夏季达沃斯论坛外国工商界代表座谈会。在听取与会工商界代表发言后，李强介绍了当前中国经济形势和经济政策。他指出，我们坚持稳中求进、以进促稳、先立后破，强化宏观政策逆周期和跨周期调节，既立足当前精准施策，解决经济运行中的突出矛盾和问题，巩固和增强经济回升向好态势，又着眼长远集中政策资源推动高质量发展，推动经济结构优化升级，增强经济发展后劲。这些政策举措的效果正在显现。我们有信心实现全年经济社会发展预期目标，也有能力保持中国经济长期向好。李强指出，中国产品之所以有竞争力，绝不是“补”出来、“保”出来的，而是包括外企在内的各类企业在公平竞争的赛道上一步步拼出来、干出来的。我们愿与各国企业携手努力，更好推动全球经济创新发展。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6801866.d.html</link>
-            <guid>3670114</guid>
-            <pubDate>Tue, 25 Jun 2024 14:15:22 GMT</pubDate>
+            <title><![CDATA[布伦特原油日内跌幅达1.00%，现报84.41美元/桶；WTI原油日内跌0.96%，现报80.75美元/桶。]]></title>
+            <guid>3670227</guid>
+            <pubDate>Tue, 25 Jun 2024 16:40:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中银绒业：收到深交所终止上市事先告知书】 中银绒业(000982)6月25日晚间公告，公司6月25日收到深交所《事先告知书》，公司股票在5月24日至6月21日期间，通过深交所交易系统连续20个交易日的股票收盘价均低于1元，触及股票终止上市情形，深交所拟决定终止公司股票上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4130699.d.html</link>
-            <guid>3670113</guid>
-            <pubDate>Tue, 25 Jun 2024 14:15:11 GMT</pubDate>
+            <title><![CDATA[【百川智能宣布推出OpenAI零成本迁移计划！免费赠送1千万token】6月26日凌晨消息，Open AI今日宣布将终止对中国提供API服务，百川智能今日宣布特别推出OpenAI零成本迁移计划，将为参与用户免费赠送1千万token，同时宣布Assitants API免费使用。据介绍，目前百川智能开放平台接口已完全兼容OpenAI API，支持零成本迁移，功能更丰富。借助百川技术专家随时答疑，开发者五分钟即可完成API迁移。（新浪科技）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6710733.d.html</link>
+            <guid>3670226</guid>
+            <pubDate>Tue, 25 Jun 2024 16:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【陈文清会见非洲首席大法官代表团】中共中央政治局委员、中央政法委书记陈文清25日在京会见非洲首席大法官代表团。 陈文清说，近年来，习近平主席同非方领导人围绕发展中非全面战略合作伙伴关系、构建更加紧密的中非命运共同体达成了许多共识，为中非关系长远发展擘画蓝图。中方愿同非方一道，落实中非领导人共识，就中非关系特别是司法领域合作深入交换意见，开展更高质量法律和司法合作，以实实在在成果造福中非人民。 代表团成员表示，将促进非中司法文明在交流互鉴中不断发展。 张军参加会见。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykiz0907396.d.html</link>
-            <guid>3670107</guid>
-            <pubDate>Tue, 25 Jun 2024 14:10:40 GMT</pubDate>
+            <title><![CDATA[【联合国机构：加沙地带近50万人正经历“灾难性”饥饿】 联合国机构6月25日公布的一项报告显示，加沙地带有近50万人正在经历“灾难性”饥饿。联合国世界粮食计划署“粮食安全阶段综合分类”倡议项目公布的报告称，约49.5万人、也就是加沙地带22%的人口，正在面临粮食安全最严重的第五阶段，即“灾难级别的粮食不安全”状况。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1213271.d.html</link>
+            <guid>3670225</guid>
+            <pubDate>Tue, 25 Jun 2024 16:37:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯中央银行表示，将6月26日的官方卢布汇率定为87.2770卢布/美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4129864.d.html</link>
-            <guid>3670106</guid>
-            <pubDate>Tue, 25 Jun 2024 14:08:14 GMT</pubDate>
+            <title><![CDATA[美联储理事库克：预计各国央行的政策会有所不同。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1213240.d.html</link>
+            <guid>3670224</guid>
+            <pubDate>Tue, 25 Jun 2024 16:37:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国人寿副总裁赵国栋调任瑞众人寿，拟任董事长】首任总裁退休后，瑞众人寿董事长也进行调整。记者获悉，赵国栋已调任瑞众人寿保险有限责任公司，拟任董事长，其任职资格待国家金融监督管理总局核准后生效。此前，赵国栋为中国人寿保险股份有限公司副总裁、董事会秘书。（澎湃）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6798681.d.html</link>
-            <guid>3670103</guid>
-            <pubDate>Tue, 25 Jun 2024 14:04:11 GMT</pubDate>
+            <title><![CDATA[前巴勒斯坦总理哈尼亚表示，我们仍然认为，任何不保证停火和结束侵略的协议都不是协议。]]></title>
+            <guid>3670223</guid>
+            <pubDate>Tue, 25 Jun 2024 16:37:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【湖南湘江将出现超警戒洪水过程】记者从长沙市水文局了解到，目前，湘江流域长沙站以上干支流及下游洞庭湖均在上涨。湘江湘潭境内一级支流涓水射埠站、株洲境内一级支流渌水潼塘站、大溪滩站出现超警戒洪水。根据湘江流域当前雨水情，预计湘江长沙站于26日凌晨4时达到警戒水位36.0米。27日上午出现洪峰，洪峰水位36.5米左右。目前全市177个山洪灾害监测站点均运行正常，长沙市水文局将密切关注水利测雨雷达监测成果，及时发布水情预测预警预报。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6798401.d.html</link>
-            <guid>3670101</guid>
-            <pubDate>Tue, 25 Jun 2024 14:03:14 GMT</pubDate>
+            <title><![CDATA[市场消息：肯尼亚总统府安排于格林尼治时间18：00（北京时间凌晨2:00）举行新闻发布会，以回应暴力抗议活动。]]></title>
+            <guid>3670222</guid>
+            <pubDate>Tue, 25 Jun 2024 16:36:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[礼来制药与OpenAI达成合作关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4128853.d.html</link>
-            <guid>3670100</guid>
-            <pubDate>Tue, 25 Jun 2024 14:02:05 GMT</pubDate>
+            <title><![CDATA[美联储理事库克：仍有大量工作岗位空缺，有一些疲软的迹象，政策行动需要一些时间来减缓活动；美联储仍然依赖数据，政策滞后性是真实存在的，但我们不只是回顾过去。]]></title>
+            <guid>3670221</guid>
+            <pubDate>Tue, 25 Jun 2024 16:35:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2023财年香港迪士尼收入达57亿港元，同比增长156%】香港迪士尼乐园度假区公布2023财政年度业绩及度假区最新发展动态。财报显示，2023财年（2022年10月1日—2023年9月30日），香港迪士尼收入达57亿港元，同比增长156%；净亏损收窄至3.56亿港元；同时，香港迪士尼总入场人数为640万人次，同比增长87%；人均消费同比增长54%。财报还显示，2023财年，香港迪士尼年度酒店使用率为77%，整体入住率达到47%，同比上升23%。香港迪士尼乐园度假区行政总裁莫伟庭表示，2024年一季度，香港迪士尼创下开园以来最佳业绩。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6797482.d.html</link>
-            <guid>3670095</guid>
-            <pubDate>Tue, 25 Jun 2024 13:59:34 GMT</pubDate>
+            <title><![CDATA[【岸田内阁支持率跌至17% 日本自民党出现要求岸田下台呼声】日本最新发布的一项调查数据显示，首相岸田文雄所领导内阁的民意支持率跌至17%。在日本政坛，内阁支持率低于30%被舆论视为进入“危险水域”，若进一步跌破20%，则被视为陷入“下台水域”。在调查中，78%的受访者“不认为”岸田文雄在围绕政治资金的一系列问题上发挥了作为自民党总裁的领导能力，多数受访者不希望岸田连任首相。面对惨淡的支持率，不仅在野党阵营要求岸田下台，自由民主党内部也出现了同样呼声。日本前首相菅义伟近日在一档节目上批评岸田文雄因为自民党派阀的“黑金事件”失去民众信任。共同社评论指出，菅义伟此次发言“事实上是要求岸田下台”。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1212271.d.html</link>
+            <guid>3670220</guid>
+            <pubDate>Tue, 25 Jun 2024 16:33:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【璞泰来：拟以1.5亿元-3亿元回购公司股份】璞泰来公告，拟以1.5亿元-3亿元回购公司股份，回购价格不超过24元/股，本次回购股份的目的系为维护公司价值及股东权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6797186.d.html</link>
-            <guid>3670093</guid>
-            <pubDate>Tue, 25 Jun 2024 13:57:46 GMT</pubDate>
+            <title><![CDATA[【加码中国！投资信心持续增加，多个跨国公司持续加大对华投资规模】6月24日，“投资中国·央视财经CBD跨国公司对话”在北京启动。在活动现场，不少深耕中国市场多年的跨国公司负责人在对话交流中表示，因为看好中国市场的发展，所以持续加大对华投资规模，并布局技术合作和研发环节。“看好中国、加码中国。”这是市场的信念和决定，也是对未来的洞见和把握。多位跨国公司负责人称，近一年以来，他们加大了对华投资规模。跨国公司代表表示，中国既是全球最大的单一消费市场，又有着完备的产业链供应链，基础优势非常显著，这得益于中国政府提供的稳定有利的发展环境。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6708796.d.html</link>
+            <guid>3670219</guid>
+            <pubDate>Tue, 25 Jun 2024 16:31:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[瑞昌国际控股有限公司通过港交所上市聆讯，第一上海为独家保荐人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6797160.d.html</link>
-            <guid>3670092</guid>
-            <pubDate>Tue, 25 Jun 2024 13:57:40 GMT</pubDate>
+            <title><![CDATA[美联储理事库克：住房通胀存在挑战，将业主等价租金纳入CPI是合理的；住房短缺问题由来已久，长期存在的住房短缺正在推高房价；充分证据表明货币政策具有限制性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6707956.d.html</link>
+            <guid>3670218</guid>
+            <pubDate>Tue, 25 Jun 2024 16:27:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【重庆发布暴雨Ⅲ级预警 未来三天局地持续强降雨】重庆市气象局发布暴雨Ⅲ级预警，受切变线和低空急流影响，预计26日夜间至28日夜间，重庆大部地区有持续强降雨天气。中西部和东南部地区过程累计雨量90～150毫米，局地220～280毫米，东北部地区30～70毫米，最大小时雨量50～70毫米，降雨时伴有短时强降水、局地阵性大风、雷电等强对流天气。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6796882.d.html</link>
-            <guid>3670088</guid>
-            <pubDate>Tue, 25 Jun 2024 13:56:35 GMT</pubDate>
+            <title><![CDATA[意大利候选人料将担任欧盟高等职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6707635.d.html</link>
+            <guid>3670217</guid>
+            <pubDate>Tue, 25 Jun 2024 16:26:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总理表示启动欧盟加入谈判标志着迈向“我们共同胜利”的重要一步。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4127739.d.html</link>
-            <guid>3670086</guid>
-            <pubDate>Tue, 25 Jun 2024 13:53:30 GMT</pubDate>
+            <title><![CDATA[【巴克莱银行CEO：银行对油气行业的投资“不可能突然停止”】巴克莱银行CEO表示，气候活动人士不断呼吁金融业放弃化石燃料客户，巴克莱银行认为这一呼吁是不现实的，银行对油气行业的投资“不可能突然停止”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1210526.d.html</link>
+            <guid>3670216</guid>
+            <pubDate>Tue, 25 Jun 2024 16:25:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家电网5项成果获国家科学技术奖】6月24日，全国科技大会、国家科学技术奖励大会、两院院士大会在京召开。国家电网有限公司共5个项目获2023年度国家科学技术奖。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6795364.d.html</link>
-            <guid>3670085</guid>
-            <pubDate>Tue, 25 Jun 2024 13:51:45 GMT</pubDate>
+            <title><![CDATA[埃克森美孚石油(XOM.N)：对少数罢工工人的行为感到非常失望，如果其封锁持续下去，我们可能别无选择，只能暂停炼油厂的生产。]]></title>
+            <guid>3670215</guid>
+            <pubDate>Tue, 25 Jun 2024 16:24:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西零售巨头与速卖通达成合作】 速卖通AliExpress与巴西本土零售巨头Magalu达成合作。速卖通的跨境商品将在Magalu上同步售卖，速卖通上的中国跨境商家新增一个超百万活跃用户的销售渠道。同时，Magalu也将入驻速卖通开店，售卖本地商品。（全天候科技）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykiz0904538.d.html</link>
-            <guid>3670083</guid>
-            <pubDate>Tue, 25 Jun 2024 13:50:08 GMT</pubDate>
+            <title><![CDATA[【浙江将水旱灾害防御应急响应提升至二级】根据《浙江省水利厅水旱灾害防御应急工作预案》，省水利厅决定于25日23时将水旱灾害防御应急响应调整至Ⅱ级（二级）。请各地水利部门继续保持高度警惕，密切监视水情工情，毫不放松做好水旱灾害防御各项工作，坚决守牢不出现大江大河水库决堤决坝，不出现城市大面积长时间积水、不出现群死群伤“三条底线”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1209080.d.html</link>
+            <guid>3670214</guid>
+            <pubDate>Tue, 25 Jun 2024 16:20:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【增加25%可用运力 达飞开通French Peak Service亚欧航线】记者6月25日从达飞集团获悉，达飞集团开通新航线French Peak Service。这一特殊的季节性航线服务，旨在满足亚洲、北欧和地中海之间旺盛的海运需求。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6794606.d.html</link>
-            <guid>3670082</guid>
-            <pubDate>Tue, 25 Jun 2024 13:48:53 GMT</pubDate>
+            <title><![CDATA[【卡马乔离职，摩根大通重组私人银行高层】摩根大通任命萨诺克•维斯瓦纳坦(Sanoke Viswanathan)负责其国际财富业务，这是其高管迈克•卡马乔离职后更广泛的领导层重组的一部分。内部备忘录显示，维斯瓦纳坦除了担任新职务外，还将继续负责该行的国际消费者业务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrv4015395.d.html</link>
+            <guid>3670213</guid>
+            <pubDate>Tue, 25 Jun 2024 16:18:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国贸促会副会长于健龙出席2024中国农业国际经贸合作会议】2024中国农业国际经贸合作会议在北京成功举办。中国贸促会副会长、中国国际商会副会长于健龙出席开幕式并致辞。于健龙表示，面对世界粮食安全挑战，中国工商界愿继续同各国工商界共享发展机遇，维护农业国际供应链韧性。他建议坚持合作理念，持续深化全球农业经贸合作；坚持创新驱动，加快农业科技进步、绿色发展；坚持践行真正的多边主义，积极参与全球粮农治理。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4127056.d.html</link>
-            <guid>3670081</guid>
-            <pubDate>Tue, 25 Jun 2024 13:48:32 GMT</pubDate>
+            <title><![CDATA[【6月26日起南铁管内沪昆高铁旅客列车恢复开行】6月25日18时，中央气象台继续发布暴雨红色预警，预计6月25日夜间至27日，江西中北部部分地区仍有暴雨到大暴雨，局地特大暴雨。记者从中国铁路南昌局集团有限公司了解到，铁路部门根据风速雨情动态调整列车运行方案，于6月26日0时起恢复管内沪昆高铁旅客列车运行秩序，途经合福高铁、杭昌高铁、九景衢铁路的部分旅客列车仍受影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrv4015313.d.html</link>
+            <guid>3670212</guid>
+            <pubDate>Tue, 25 Jun 2024 16:17:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【法拉第未来大跌近29% 董事会已提出反向拆股建议】法拉第未来(FFIE.US)大跌近29%，报0.23美元。消息面上，法拉第未来宣布，董事会已提出反向拆股建议，以提高公司股价以减轻被纳斯达克要求退市的风险，建议会在即将召开的周年股东大会上提交予股东审批。法拉第提出的普通股反向拆股方案，比例区间为已发行普通股的2合1至90合1之间，但若股价自然达到长期合规水平，公司可能会选择延后或不实施反向拆股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6792867.d.html</link>
-            <guid>3670078</guid>
-            <pubDate>Tue, 25 Jun 2024 13:43:51 GMT</pubDate>
+            <title><![CDATA[市场资讯：十多个西方国家对肯尼亚的抗议暴力表示深切关注。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1208141.d.html</link>
+            <guid>3670211</guid>
+            <pubDate>Tue, 25 Jun 2024 16:16:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【双飞集团：股东拟减持290万股】 双飞集团公告，持有公司5.1101%股份的股东顺飞投资计划在公告披露后15个交易日内的3个月内减持不超过170万股，占总股本的0.7788%；持有公司4.0496%股份的股东腾飞投资计划在同一时间段内减持不超过120万股，占总股本的0.5497%。减持原因均为自身资金需求，减持方式为大宗交易或集中竞价。此次减持不会对公司治理结构、股权结构及未来持续经营产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4125745.d.html</link>
-            <guid>3670076</guid>
-            <pubDate>Tue, 25 Jun 2024 13:40:32 GMT</pubDate>
+            <title><![CDATA[【两年期英债收益率涨超2个基点，数据显示加拿大通胀意外加速】 周二（6月25日）欧市尾盘，德国10年期国债收益率跌0.7个基点，报2.411%，盘中交投于2.419%-2.380%区间，全天绝大部分时间处于下跌状态。两年期德债收益率涨0.4个基点，报2.809%，盘中交投于2.883%-2.780%区间；30年期德债收益率跌1.5个基点，报2.601%。2/10年期德债收益率利差跌1.409个基点，报-40.349个基点。英国10年期国债收益率跌0.2个基点，报4.079%；两年期英债收益率涨2.2个基点，30年期英债收益率跌0.9个基点，50年期英债收益率跌0.6个基点。2/10年期英债收益率利差跌2.299个基点，报-13.378个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqry1207813.d.html</link>
+            <guid>3670210</guid>
+            <pubDate>Tue, 25 Jun 2024 16:15:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【海特高新：公司认为eVTOL培训用模拟机市场空间很大】 海特高新(002023)在投资者关系活动记录表中表示，旗下安胜公司在2021年就针对eVTOL进行了前瞻性的布局，在2021年已申请相关专利技术，因此安胜具有先发优势和技术优势。参照固定翼飞机与相关培训模拟机的比例，公司认为eVTOL培训用的模拟机市场空间很大。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6791255.d.html</link>
-            <guid>3670074</guid>
-            <pubDate>Tue, 25 Jun 2024 13:39:32 GMT</pubDate>
+            <title><![CDATA[美国总统拜登：美国将继续通过外交努力支持海地。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrx0791950.d.html</link>
+            <guid>3670209</guid>
+            <pubDate>Tue, 25 Jun 2024 16:13:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊Prime Day 2024将于7月16日至17日举行。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1292937.d.html</link>
-            <guid>3670072</guid>
-            <pubDate>Tue, 25 Jun 2024 13:35:56 GMT</pubDate>
+            <title><![CDATA[【乌内阁批准解除文尼察州军政管理局局长职务】乌克兰内阁当地时间6月25日批准了解除文尼察州军政管理局局长谢尔盖·博尔佐夫职务。记者获悉，博尔佐夫因健康问题辞职。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrx0790642.d.html</link>
+            <guid>3670208</guid>
+            <pubDate>Tue, 25 Jun 2024 16:04:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【和辉光电：2024年度的经营目标为营业收入预计较上年增长30%以上】 和辉光电在接受调研时表示，2023年四季度以来，产品价格和公司业绩呈现企稳回升态势。根据目前产品价格和在手订单情况，公司2024年度的经营目标为营业收入预计较上年增长30%以上，净利润预计较上年保持稳定增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6789250.d.html</link>
-            <guid>3670071</guid>
-            <pubDate>Tue, 25 Jun 2024 13:33:59 GMT</pubDate>
+            <title><![CDATA[【深圳打造前海-蛇口低空经济先导区】 前海-蛇口低空经济先导区发布会6月25日在深圳市南山区举行，各方将协力规划布局重点功能区域、专业基地、数字化塔台等低空示范项目，推动低空经济的创新与实践。南山区政府相关负责人介绍，南山区集聚了大疆创新、道通智能等一批无人机领军企业，拥有低空经济企业超500家，形成了集研发、制造、运营、服务于一体的完整无人机产业链。南山区将以前海-蛇口低空经济先导区为重要抓手，探索建设新型低空基础设施，布局多元应用场景，在政策、资金、服务等方面为先导区建设提供支持。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrz6700807.d.html</link>
+            <guid>3670207</guid>
+            <pubDate>Tue, 25 Jun 2024 16:01:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普媒体集团（Trump Media）开涨8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6789163.d.html</link>
-            <guid>3670070</guid>
-            <pubDate>Tue, 25 Jun 2024 13:33:38 GMT</pubDate>
+            <title><![CDATA[【美联储理事库克：明年通胀将大幅放缓】美联储理事库克表示，就业和通胀目标面临的风险更加平衡；劳动力市场紧张，但不过热；预计年度通胀率将在今年余下时间保持稳定，明年通胀将大幅放缓；当前政策“处于良好位置”以应对经济前景。任何政策调整的时机将取决于经济数据及其对前景、风险平衡的影响；我们非常关注通胀预期，通胀预期上升意味着需要更长时间保持货币政策的限制性；政策还需要对经济和就业市场比预期更严重的疲软做出反应，我们全力以赴实现2%的通胀目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-26/detail-inazyqrv4012411.d.html</link>
+            <guid>3670206</guid>
+            <pubDate>Tue, 25 Jun 2024 16:00:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山鹰国际：若完成江东集团股权转让事项，将为公司回笼约20亿元往来款】山鹰国际在近日的电话会议上表示，江东控股集团有限责任公司系马鞍山市国有资本投资运营控股集团有限公司全资子公司，本次股权转让交易需履行国有资产交易程序，在对标的公司进行尽职调查、审计、评估等必要的工作后，履行国资监管审批流程进行交易。鉴于前期为支持全资子公司祥恒创意包装股份公司的发展，公司为其提供了约20亿元左右的往来借款，若公司最终完成本次股权转让事宜，除股权转让款外，将为公司回笼约20亿元往来款。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6789114.d.html</link>
-            <guid>3670069</guid>
-            <pubDate>Tue, 25 Jun 2024 13:33:30 GMT</pubDate>
+            <title><![CDATA[【马兴瑞艾尔肯·吐尼亚孜会见吉尔吉斯斯坦总理阿·扎帕罗夫】自治区党委书记马兴瑞、自治区主席艾尔肯·吐尼亚孜6月25日在乌鲁木齐会见了来新疆出席第八届中国—亚欧博览会的吉尔吉斯斯坦总理阿·扎帕罗夫一行。（新疆发布）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrx0789385.d.html</link>
+            <guid>3670204</guid>
+            <pubDate>Tue, 25 Jun 2024 15:57:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【久吾高科：“班戈错盐湖BOT项目”正开展采购、生产相关工作】久吾高科在互动平台上表示，“班戈错盐湖BOT项目”正开展采购、生产相关工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6789037.d.html</link>
-            <guid>3670068</guid>
-            <pubDate>Tue, 25 Jun 2024 13:33:19 GMT</pubDate>
+            <title><![CDATA[Glen Point的Neil Phillips在外汇操纵指控上逃脱美国牢狱之灾。]]></title>
+            <guid>3670203</guid>
+            <pubDate>Tue, 25 Jun 2024 15:52:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沃尔玛百货股价开盘下跌2.5%，为两个月来最大单日盘中跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4124490.d.html</link>
-            <guid>3670065</guid>
-            <pubDate>Tue, 25 Jun 2024 13:31:45 GMT</pubDate>
+            <title><![CDATA[丹麦减肥药生产商Zealand Pharma通过非公开配售方式增发710万股股票，融资大约62.6亿丹麦克朗（折合约9亿美元股票），以支持减肥药的研发。]]></title>
+            <guid>3670202</guid>
+            <pubDate>Tue, 25 Jun 2024 15:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST步高：公司及其十三家子公司债权人会议已表决通过《重整计划（草案）》】 *ST步高6月25日公告，公司及其十三家子公司债权人会议已表决通过《重整计划（草案）》，公司及管理人将及时向法院申请裁定批准各家公司《重整计划》。泸州步步高再次表决的结果存在不确定性，如果泸州步步高经再次表决仍无法通过《重整计划（草案）》，且未获得法院裁定批准，泸州步步高将宣告破产，但不影响步步高股份等已经表决通过重整计划的十四家公司申请裁定批准重整计划、执行重整计划等工作的推进。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1291300.d.html</link>
-            <guid>3670064</guid>
-            <pubDate>Tue, 25 Jun 2024 13:31:12 GMT</pubDate>
+            <title><![CDATA[埃克森美孚石油(XOM.N)计划在圭亚那推出新石油项目，以求在2030年前提高产量。]]></title>
+            <guid>3670201</guid>
+            <pubDate>Tue, 25 Jun 2024 15:43:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【信达生物/礼来减肥药玛仕度肽展现显著改善患者脂肪肝效果】在一项中国Ⅲ期实验中，中国信达生物制药与美国礼来公司共同开发的新减肥药展现出受试者体重显著降低，同时肝脂肪含量显著下降的效果。根据公告，GLP-1R/GCGR双重激动剂玛仕度肽在中国超重或肥胖成人受试者的首个III期临床研究（GLORY-1）中，高剂量组的受试者在48周内减轻了15%的体重，同时在基线肝脂肪含量≥10%的受试者中，经过48周6mg玛仕度肽治疗后，患者肝脂肪含量较基线平均降幅达80.2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1290864.d.html</link>
-            <guid>3670062</guid>
-            <pubDate>Tue, 25 Jun 2024 13:30:00 GMT</pubDate>
+            <title><![CDATA[明晟公司MSCI北欧国家指数涨0.5%，报418.07点，创6月12日以来收盘新高。诺和诺德涨4.0%，领跑其他成分股。]]></title>
+            <guid>3670199</guid>
+            <pubDate>Tue, 25 Jun 2024 15:40:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【陈吉宁会见波兰总统杜达】上海市委书记陈吉宁今天（6月25日）会见了波兰总统杜达。陈吉宁代表上海市委、市政府和全市人民，对杜达总统的到访表示热烈欢迎。他说，今年是中波建交75周年，习近平主席同总统阁下在北京举行会谈，为两国深化友好合作指明了方向。上海作为中国的经济中心城市和改革开放的前沿窗口，当前正深化建设国际经济、金融、贸易、航运和科技创新中心。我们始终坚持以人民为中心的发展思想，把最好的资源留给人民，用优质的供给服务人民，让老百姓过上更好的日子。上海愿同波方一道，在两国元首战略指引下，进一步加强经贸合作和人文交流，为推动中波全面战略伙伴关系发展作出地方的积极贡献。欢迎波兰企业通过进博会这个开放大平台，把更多优质产品引入中国市场。我们将持续营造市场化、法治化、国际化一流营商环境，为波兰企业来沪投资展业提供高效对接、便利服务。杜达感谢上海的热情接待。他说，此次对中国进行国事访问，与习近平主席举行会谈，达成重要共识，签署合作协议，为波中双边关系发展注入了新动力。上海是一座具有国际影响力的经贸中心城市，每次到访都能感受到经济社会发展的新变化新气象。期待双方进一步加强经贸、农业、消费等各领域务实合作，围绕科技创新、人才培养及培育发展新质生产力等拓展合作新空间，更好实现共赢发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykix4123838.d.html</link>
-            <guid>3670060</guid>
-            <pubDate>Tue, 25 Jun 2024 13:27:15 GMT</pubDate>
+            <title><![CDATA[【俄称击落79架无人机 乌称摧毁俄防空系统】6月25日，俄罗斯国防部发布战况信息称，过去一天，俄军摧毁乌军弹药库、军备库、雷达及其他装备设施。俄防空部队击落乌军79架无人机、4枚“海马斯”火箭弹。乌克兰国民警卫队同日发布消息称，乌军在哈尔科夫方向发现了俄军两套“铠甲-S1”防空系统的位置，乌克兰导弹部队击中了这两套防空系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrz6695227.d.html</link>
+            <guid>3670198</guid>
+            <pubDate>Tue, 25 Jun 2024 15:37:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大皇家银行将特斯拉Q2交付预期下调23%】加拿大皇家银行资本市场分析师Tom Narayan将特斯拉第二季度交付预期从53.3万辆下调至41万辆。该分析师表示，根据注册数据和应用程序下载量释放的信号而下调了预估，应用程序下载量暗示美国和欧洲本季度末表现强劲。预计特斯拉将在7月第一周公布交付情况。维持“跑赢”评级，目标价227美元。根据汇编数据，分析师对第二季度交付量的平均预期为44.1374万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrx0787641.d.html</link>
+            <guid>3670197</guid>
+            <pubDate>Tue, 25 Jun 2024 15:35:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【肯尼亚内罗毕示威抗议蔓延至其他地区】当地时间6月25日，肯尼亚首都内罗毕的示威抗议开始向其他地区蔓延。在基库尤郡，抗议者纵火焚烧了一名郡议员的办公室。抗议者还在埃尔多雷特镇举行了示威活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrx0787547.d.html</link>
+            <guid>3670195</guid>
+            <pubDate>Tue, 25 Jun 2024 15:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[沪银主力合约日内跌超2.00%，现报7669.00元/千克。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqry1197193.d.html</link>
+            <guid>3670194</guid>
+            <pubDate>Tue, 25 Jun 2024 15:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBOT小麦期货下跌2%，报541.25美分/蒲式耳。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrz6693684.d.html</link>
+            <guid>3670192</guid>
+            <pubDate>Tue, 25 Jun 2024 15:30:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股主要指数收盘普跌】德国DAX 30指数初步收跌0.88%，报18163.76点。法国股指初步收跌0.65%，意大利股指初步收跌0.36%，英国股指初步收跌0.36%。]]></title>
+            <guid>3670191</guid>
+            <pubDate>Tue, 25 Jun 2024 15:30:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲STOXX 600指数初步收跌0.27%，报517.49点。欧元区STOXX 50指数初步收跌0.35%，报4933.43点。富时泛欧绩优300指数初步收跌0.23%，报2054.94点。]]></title>
+            <guid>3670190</guid>
+            <pubDate>Tue, 25 Jun 2024 15:30:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西班牙和法国运营商签署氢气管道协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqry1195931.d.html</link>
+            <guid>3670188</guid>
+            <pubDate>Tue, 25 Jun 2024 15:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拜登政府接触Alphabet旗下谷歌公司、普华永道、麦肯锡原来的产品经理和工程师们，要求就人工智能（AI）和安全提供意见。]]></title>
+            <guid>3670186</guid>
+            <pubDate>Tue, 25 Jun 2024 15:25:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯谴责美国军援加剧俄乌冲突伤亡 】针对黑海港口城市塞瓦斯托波尔日前遭导弹袭击，俄罗斯方面24日指认美国与这次袭击有直接关联，谴责美国对乌克兰军援加剧俄乌冲突伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrv4009172.d.html</link>
+            <guid>3670184</guid>
+            <pubDate>Tue, 25 Jun 2024 15:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[民调显示，以玛丽娜·勒庞为代表人物的国民联盟将以34.5%的得票率赢得法国议会选举在周日的首轮投票。]]></title>
+            <guid>3670183</guid>
+            <pubDate>Tue, 25 Jun 2024 15:22:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海启动防汛防台Ⅳ级响应】根据气象预报，受梅雨带影响，上海市25日夜到27日夜有持续暴雨过程，并伴有雷电、短时强降水及7~9级大风。上海市防汛指挥部决定于6月25日22时30分启动全市防汛防台Ⅳ级响应行动。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazyqrz6691430.d.html</link>
+            <guid>3670182</guid>
+            <pubDate>Tue, 25 Jun 2024 15:22:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财政部宣布制裁与伊朗有关的50个实体及个人】当地时间25日，美国财政部海外资产控制办公室（OFAC）宣布，对与伊朗国防和武装部队后勤部及伊朗伊斯兰革命卫队有关的50个实体及个人进行制裁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykka1324278.d.html</link>
+            <guid>3670181</guid>
+            <pubDate>Tue, 25 Jun 2024 15:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naspers于6月17-21日期间回购0.5260亿美元公司股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6820918.d.html</link>
+            <guid>3670179</guid>
+            <pubDate>Tue, 25 Jun 2024 15:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[埃克森美孚：法国Gravenchon炼油厂仍然因罢工而受到封堵。罢工问题妨碍炼油厂所需材料的交付工作。如果罢工持续，公司可能不得不暂停炼油厂的运营。]]></title>
+            <guid>3670178</guid>
+            <pubDate>Tue, 25 Jun 2024 15:15:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际清算银行：央行必须为人工智能的深远影响做好准备】国际清算银行（BIS）表示，央行应该利用人工智能（AI）的好处，但强调在制定利率时，该技术不应取代人类。在其关于快速发展的人工智能世界的第一份重要报告中，该组织表示，政策制定者需要利用其巨大的能力来实时监控数据，以“提高”他们的通胀预测能力。这项技术还可能彻底重塑劳动力市场，影响生产力和经济增长。广泛采用可能会使企业更快地调整价格以应对宏观经济变化，从而影响通胀。此外，该组织警告称，人工智能还带来了风险，例如新型网络攻击，并可能加剧现有风险，例如从众行为、银行挤兑和金融资产抛售。]]></title>
+            <guid>3670176</guid>
+            <pubDate>Tue, 25 Jun 2024 15:14:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国总统之子亨特·拜登在华盛顿特区的律师执照被吊销】当地时间6月25日，根据美国哥伦比亚特区律师协会规定，美国总统之子亨特·拜登因涉嫌“严重犯罪”而被“立即吊销”在华盛顿哥伦比亚特区的律师执照。之后将举行正式程序，以确定是否维持吊销令。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykiz0916200.d.html</link>
+            <guid>3670175</guid>
+            <pubDate>Tue, 25 Jun 2024 15:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部长奥斯汀：真主党的挑衅有可能将以色列-黎巴嫩人民拖入战争。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-06-25/detail-inazykkc6820020.d.html</link>
+            <guid>3670174</guid>
+            <pubDate>Tue, 25 Jun 2024 15:13:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
