@@ -4,487 +4,354 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 26 Jul 2024 12:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 15:07:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【中国重工：中船天津拟40.44亿元购买港船重工临港厂区部分资产】中国重工公告，为进一步优化造修船基地能力布局，提升高端船舶生产建造能力，公司全资子公司大连船舶重工集团有限公司之全资子公司中船（天津）船舶制造有限公司拟以自有资金40.44亿元（不含税）购买天津新港船舶重工有限责任公司临港厂区部分资产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1883573.d.html</link>
-            <guid>3713095</guid>
-            <pubDate>Fri, 26 Jul 2024 12:12:27 GMT</pubDate>
+            <title><![CDATA[智利国家铜业公司（Codelco）二季度营收43.4亿美元，2023年同期36.3亿美元。上半年铜产量同比下滑8.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1807276.d.html</link>
+            <guid>3713288</guid>
+            <pubDate>Fri, 26 Jul 2024 15:05:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【罗博特科：拟以发行股份及支付现金的方式购买斐控泰克、FSG和FAG股权】罗博特科公告，上市公司拟以发行股份及支付现金的方式购买境内交易对方建广广智、苏园产投、永鑫融合、超越摩尔、尚融宝盈、常州朴铧、能达新兴合计持有的斐控泰克81.18%股权；拟以支付现金方式购买境外交易对方ELAS持有的FSG和FAG各6.97%股权。上市公司目前通过斐控晶微持有境内标的公司18.82%股权，境内标的公司通过境外SPV持有FSG和FAG各93.03%股权。本次发行股份及支付现金购买资产完成后上市公司将直接和间接持有斐控泰克、FSG和FAG各100%股权。上市公司拟向不超过35名特定对象非公开发行股票募集配套资金，募集配套资金总额不超过3.84亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1883374.d.html</link>
-            <guid>3713094</guid>
-            <pubDate>Fri, 26 Jul 2024 12:12:00 GMT</pubDate>
+            <title><![CDATA[【中信建投实习生称未被告知资料保密 网上其家人信息系谣言】7月26日，中信建投一实习生被指泄露客户IPO项目引关注。26日晚间，记者联系上事件当事人。当事人称，视频中出现的材料为正式员工以学习资料名义发放，并未告知系保密材料。网传其家人信息均系谣言，视频中的车系合法购买。7月26日，中信建投证券回应媒体称，视频内容涉及公司客户敏感信息，违反了公司合规管理规定。目前，公司已责令该学生终止研学，并按照公司相关规定对有关责任人启动问责程序。（新京报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1807008.d.html</link>
+            <guid>3713286</guid>
+            <pubDate>Fri, 26 Jul 2024 15:04:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【土耳其希望在2025年签署新建两座核电站的协议】土耳其能源和自然资源部长阿尔帕尔斯兰∙巴伊拉克塔尔表示，土方希望在2025年签署新建两座核电站的协议。巴伊拉克塔尔称：“谈判在持续进行，我们希望尽快结束，就在今年或明年。签署协议后，应进入建设的下一阶段。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1883353.d.html</link>
-            <guid>3713093</guid>
-            <pubDate>Fri, 26 Jul 2024 12:11:55 GMT</pubDate>
+            <title><![CDATA[德国总理朔尔茨：谴责法国铁路破坏行为，希望法国当局能够尽快确定肇事者。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1806684.d.html</link>
+            <guid>3713285</guid>
+            <pubDate>Fri, 26 Jul 2024 15:03:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧盟拒绝批准卫材和百健的阿尔茨海默病药物】欧盟药品监管机构周五拒绝了日本卫材药业（Eisai）和百健(BIIB.O) 的早期阿尔茨海默病突破性疗法，这对两家制药公司构成打击，因为该药物在美国的推广速度低于预期。该机构的人用药品委员会表示，他们建议不批准授权，因为观察到该药物的益处无法抵消严重副作用的风险，尤其是脑肿胀、出血或微出血。这种药物，即仑卡奈单抗，在美国以Leqembi的名称出售，本应成为欧洲首个治疗这种神经退行性疾病的药物。该药物自 2023年1月起在欧盟接受审查，并于去年在美国获得传统批准。它还在其他国家获得批准。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7318136.d.html</link>
-            <guid>3713089</guid>
-            <pubDate>Fri, 26 Jul 2024 12:08:35 GMT</pubDate>
+            <title><![CDATA[【受台风“格美”影响，18条河流发生超警以上洪水】7月26日20时，第3号台风“格美”中心位于江西省鹰潭市境内，将以每小时20公里左右的速度向北偏西方向移动，强度逐渐减弱。受“格美”影响，7月25日20时至26日20时，浙江东部、福建、广东东部等地降雨量30～60毫米；福建交溪、浙江南官河、广东蕉州河等18条河流发生超警以上洪水。据预报，7月26日20时至27日20时，福建北部东部、广东东部、江西东部南部、湖南东南部等地将出现强降雨过程；福建闽江上游沙溪及富屯溪可能发生超警洪水，广东韩江可能发生编号洪水，部分中小河流可能发生较大洪水。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4020209.d.html</link>
+            <guid>3713283</guid>
+            <pubDate>Fri, 26 Jul 2024 15:01:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华为哈勃入股格林比特科技公司】天眼查App显示，近日，北京格林比特科技有限责任公司发生工商变更，股东新增华为旗下深圳哈勃科技投资合伙企业（有限合伙），公司注册资本由10万人民币增至约11.4万人民币，同时新增两位董事。该公司成立于2023年12月，法定代表人为杨浩进，经营范围含人工智能应用软件开发、信息技术咨询服务、5G通信技术服务、信息系统运行维护服务、网络设备销售、计算器设备销售等，现由杨浩进、北京比特智创科技中心（有限合伙）、深圳哈勃科技投资合伙企业（有限合伙）、上海比特智享科技中心（有限合伙）共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5104697.d.html</link>
-            <guid>3713088</guid>
-            <pubDate>Fri, 26 Jul 2024 12:08:15 GMT</pubDate>
+            <title><![CDATA[【NIPG美国IPO首日开盘涨超45%】电子竞技组织NIP Group Inc.（NIPG）美国IPO首日开盘上涨45.66%，报13.11美元，此前给出的IPO发行价为每股9.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1805878.d.html</link>
+            <guid>3713280</guid>
+            <pubDate>Fri, 26 Jul 2024 15:00:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【武汉市人大常委会党组成员、副主任陈新垓接受纪律审查和监察调查】据湖北省纪委监委消息：武汉市人大常委会党组成员、副主任陈新垓涉嫌严重违纪违法，目前正接受湖北省纪委监委纪律审查和监察调查。（中央纪委国家监委网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1881338.d.html</link>
-            <guid>3713085</guid>
-            <pubDate>Fri, 26 Jul 2024 12:06:58 GMT</pubDate>
+            <title><![CDATA[【赛力斯携手重庆一中举办校企交流活动】7月25日，赛力斯携手重庆一中举办校企交流活动。赛力斯集团轮值总裁张正萍表示，问界位列中国汽车市场豪华品牌销量第六，赛力斯的事业靠创新驱动，持续创新靠人才推动。此前，赛力斯先后与重庆大学、重庆邮电大学达成战略合作协议，通过合作共建联合实验室，培育卓越工程师，强化人才资源合作与科技成果转化。未来，赛力斯还将持续深化与各大高校的合作，积极探索人才培养新模式。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5027810.d.html</link>
+            <guid>3713279</guid>
+            <pubDate>Fri, 26 Jul 2024 14:56:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广东省广州市委原常委、黄埔区委原书记周亚伟接受纪律审查和监察调查】据广东省纪委监委消息：广东省广州市委原常委、黄埔区委原书记周亚伟涉嫌严重违纪违法，目前正接受广东省纪委监委纪律审查和监察调查。（中央纪委国家监委网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5103835.d.html</link>
-            <guid>3713084</guid>
-            <pubDate>Fri, 26 Jul 2024 12:06:27 GMT</pubDate>
+            <title><![CDATA[【金砖国家第十四次经贸部长会议在俄罗斯莫斯科举行】7月26日，金砖国家第十四次经贸部长会议在俄罗斯莫斯科举行。会议由俄罗斯联邦经济发展部部长列舍特尼科夫主持，金砖成员贸易部长或代表参会。商务部副部长兼国际贸易谈判副代表凌激出席会议并发言。与会各方一致认为，要积极推动落实世贸组织第十三届部长级会议（MC13）共识和授权。应加强在全球价值链、数字技术、特殊经济区等新兴领域交流合作，开展绿色产品标准、电子单证、电子商务等领域务实合作，通过加强政策交流、能力建设和最佳实践分享等方式，深挖经贸合作潜力，打造金砖国家合作新增长点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1804965.d.html</link>
+            <guid>3713278</guid>
+            <pubDate>Fri, 26 Jul 2024 14:55:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯央行行长纳比乌琳娜：俄罗斯经济仍然过热。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5103351.d.html</link>
-            <guid>3713083</guid>
-            <pubDate>Fri, 26 Jul 2024 12:05:19 GMT</pubDate>
+            <title><![CDATA[【CrowdStrike：超过97%受IT故障影响的系统以重新上线】CrowdStrike(CRWD.O)表示，截至周四，超过97%受IT故障影响的系统以重新上线。近一周前，一场全球性的IT故障给全球企业、政府机构和航空旅行造成了严重影响。CrowdStrike首席执行长库尔茨(George Kurtz)说，该公司仍有更多工作要做，以修复上周五网络中断造成的影响。CrowdStrike在本周早些时候的一份事故报告中说，该公司用于检查系统更新错误的质量控制工具存在一个漏洞，导致一个严重缺陷被推送到数百万台运行Windows机器上。约有850万台设备受到此次宕机的影响，其中许多机器是更广泛的企业IT系统的一部分，这意味着受到影响的范围更广。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4019077.d.html</link>
+            <guid>3713277</guid>
+            <pubDate>Fri, 26 Jul 2024 14:55:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泰禾智能：拟将派联智能55%股权转让给左涛等人】泰禾智能公告，为进一步整合资源，优化资产结构，公司将持有的派联智能55%股权转让给派联智能股东左涛、股东胡俊、股东吕兴光。本次交易完成后，公司将持有派联智能的股权比例由65%降至10%，派联智能将不再纳入公司合并报表的范围。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5103112.d.html</link>
-            <guid>3713082</guid>
-            <pubDate>Fri, 26 Jul 2024 12:04:36 GMT</pubDate>
+            <title><![CDATA[【中国—东盟外长会在万象举行】2024年7月26日，中国—东盟外长会在老挝万象举行，中共中央政治局委员、外交部长王毅同中国东盟关系协调国代表共同主持，东盟各国外长及东盟秘书长与会。王毅指出，中国东盟对话合作走过33个年头，迈入成熟稳定期，也成为亚太合作最富有成果和活力的典范，其中有四条重要经验值得重视：一是坚持亲仁善邻，二是坚持以诚相待，三是坚持共同发展，四是坚持开放包容。中方将继续坚定支持东盟战略自主，支持做大做强以东盟为中心的区域合作机制，建设好中国东盟“五大家园”。全力支持老挝履职东盟轮值主席国，愿推动中国东盟实现高水平互联互通，为更为紧密的中国—东盟命运共同体注入新动力。双方要加快中国—东盟自贸区3.0版谈判，推进区域产供链融合发展，加快形成具有全球竞争力的新兴产业集群。挖掘人工智能等新兴产业和金融合作潜力，扩大本币结算规模。办好“中国—东盟人文交流年”活动，为更多东盟国家青年赴中国留学创造机会。中方愿率先签署《东南亚无核武器区条约》议定书，以实际行动支持东南亚无核武器区建设。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7240895.d.html</link>
+            <guid>3713275</guid>
+            <pubDate>Fri, 26 Jul 2024 14:51:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加纳将基准利率维持在29%，符合预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5102570.d.html</link>
-            <guid>3713080</guid>
-            <pubDate>Fri, 26 Jul 2024 12:03:14 GMT</pubDate>
+            <title><![CDATA[电子竞技组织NIP Group Inc.（NIPG）美国IPO首日开盘上涨超45.66%，报13.11美元，此前给出的IPO发行价为每股9.00美元。]]></title>
+            <guid>3713273</guid>
+            <pubDate>Fri, 26 Jul 2024 14:49:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科大讯飞：讯飞医疗拟首次公开发行境外上市外资股（H股）获得中国证监会备案】科大讯飞公告，控股子公司讯飞医疗科技股份有限公司拟发行不超过2310万股境外上市普通股并在香港联合交易所上市。此外，讯飞医疗14名股东拟将所持合计7026万股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。该事项已获得中国证监会备案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1879693.d.html</link>
-            <guid>3713079</guid>
-            <pubDate>Fri, 26 Jul 2024 12:02:42 GMT</pubDate>
+            <title><![CDATA[【FDA就“减肥神药”的错误用量发出提醒】美国食品药品监督管理局（FDA）在周五发出警告，患者和医生应注意诺和诺德(NVO.N)减肥和糖尿病药物复方制剂的剂量错误。该监管机构表示，他们收到了关于不良事件的报告，其中一些需要住院治疗，这些事件可能与患者错误地自行服用复方药物以及医疗保健提供者错误计算剂量导致的过量服用有关。诺和诺德的减肥药物Wegovy以一次性预填充注射笔的形式提供，每周给药一次，提供预设剂量。其糖尿病药物Ozempic以多剂量预填充注射笔的形式提供，供单一患者使用，设计为每周注射一次。FDA敦促医疗保健提供者和复方药剂师为患者提供适合预期剂量大小的注射器，并指导患者如何使用注射器测量剂量。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4017714.d.html</link>
+            <guid>3713272</guid>
+            <pubDate>Fri, 26 Jul 2024 14:47:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【研奥股份：不存在应披露而未披露的重大事项】研奥股份发布股票交易异常波动公告，公司近期经营情况及内外部经营环境不存在发生或预计将发生重大变化的情形。公司、控股股东及实际控制人不存在关于公司的应披露而未披露的重大事项或处于筹划阶段的重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1879666.d.html</link>
-            <guid>3713078</guid>
-            <pubDate>Fri, 26 Jul 2024 12:02:38 GMT</pubDate>
+            <title><![CDATA[【国家防总针对四省份启动防汛四级应急响应】据应急管理部消息，今年第3号台风“格美”25日晚在福建莆田秀屿沿海登陆，之后深入内陆北上。国家防总26日将针对辽宁的防汛四级应急响应提升至三级，针对广东、山东、河南、湖北四省份启动防汛四级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1802550.d.html</link>
+            <guid>3713270</guid>
+            <pubDate>Fri, 26 Jul 2024 14:44:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【林海股份：不存在应披露而未披露的重大信息】林海股份发布股票交易异常波动公告，经公司自查，并向公司控股股东中国福马及实际控制人国机集团书面征询核实，公司、控股股东及实际控制人均不存在涉及本公司应披露而未披露的重大信息，包括但不限于并购重组、股份发行、债务重组、业务重组、资产剥离和资产注入、买卖股票等重大事项。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5102280.d.html</link>
-            <guid>3713077</guid>
-            <pubDate>Fri, 26 Jul 2024 12:02:25 GMT</pubDate>
+            <title><![CDATA[印度政府：将电动出行推广计划的预算从50亿卢比提高至77.8亿卢比。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5024380.d.html</link>
+            <guid>3713268</guid>
+            <pubDate>Fri, 26 Jul 2024 14:40:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汇川技术：2024年半年度业绩预计净利润同比增长-5%至5%】汇川技术公告，2024年1月1日至6月30日期间，公司预计营业收入为155.6亿元至161.9亿元，同比增长25%至30%。归属于上市公司股东的净利润预计为19.73亿元21.81亿元，同比增长-5%至5%。业绩增长主要得益于新能源汽车业务和通用自动化业务收入的快速增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5102067.d.html</link>
-            <guid>3713076</guid>
-            <pubDate>Fri, 26 Jul 2024 12:02:01 GMT</pubDate>
+            <title><![CDATA[欧洲地中海地震中心：将西得克萨斯州地震的震级从5.4级修订为4.8级。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5024026.d.html</link>
+            <guid>3713267</guid>
+            <pubDate>Fri, 26 Jul 2024 14:38:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【欧洲央行：银行在网络安全方面仍有改进空间】欧洲央行周五表示，欧元区各银行在网络安全方面仍有“改进空间”，首先要从遭遇黑客攻击后如何保持业务运行开始。欧洲央行首次发起网络风险压力测试，是为了应对网络攻击激增。测试结果出炉一周前，一场全球IT故障扰乱了包括金融在内的多个行业。作为演习的一部分，109家银行被要求详细说明他们将如何应对并从一次成功的网络攻击中恢复过来，比如启动紧急程序和恢复正常运营。随后，欧洲央行审查了它们提交的文件，并向每家银行提出了具体建议，作为其年度监管评估的一部分。这不会影响资本要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1879340.d.html</link>
-            <guid>3713075</guid>
-            <pubDate>Fri, 26 Jul 2024 12:01:54 GMT</pubDate>
+            <title><![CDATA[淡水河谷高管：不考虑在巴西的镍业并购机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7236823.d.html</link>
+            <guid>3713265</guid>
+            <pubDate>Fri, 26 Jul 2024 14:35:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国SEC起诉香橼创始人AndrewLeft和香橼资本，指控他们利用社交媒体和研究报告做空股票】美国证券交易委员会（SEC）起诉香橼创始人Andrew Left和香橼资本（CitronCapital），指控他们利用社交媒体帖子和研究报告进行股票交易。美国证交会指控Andrew Left和香橼犯有欺诈罪，并非法获利。监管机构将此案提交给加州联邦法院。]]></title>
-            <guid>3713074</guid>
-            <pubDate>Fri, 26 Jul 2024 12:01:10 GMT</pubDate>
+            <title><![CDATA[据港交所文件：讯飞医疗科技股份有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7235539.d.html</link>
+            <guid>3713261</guid>
+            <pubDate>Fri, 26 Jul 2024 14:32:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【匈牙利政府：乌克兰停止石油运输违反欧盟协议】匈牙利总理府部长盖尔盖伊·古雅什表示，乌克兰切断石油运输违反了2022年夏天签署的欧盟条约，根据该条约，在制裁例外措施框架内，匈牙利被允许进口俄罗斯石油。他指出：“乌克兰从匈牙利进口电力、天然气和天然气油，布达佩斯不愿意以此要挟基辅，并坚持履行协议。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5101436.d.html</link>
-            <guid>3713073</guid>
-            <pubDate>Fri, 26 Jul 2024 12:00:15 GMT</pubDate>
+            <title><![CDATA[【北京口岸出入境旅客量大增至日均近6万人次 同比飙升160%】进入暑期以来，北京口岸出入境客流增长明显，学生团、家庭团比例持续加大。北京出入境边防检查总站数据显示，7月以来，口岸日均出入境旅客量近6万人次，是去年同期的1.6倍。今年以来经北京口岸来华的外国人达117万人次，较2023年同期增长2.18倍。外国人来华以旅游观光最多，占到近四成。北京边检总站边防检查处科长王广鑫称，截至7月24日，北京口岸共办理免签入境外国旅客35万人次，为3.6万人次符合入境条件的外籍旅客签发144小时过境免签临时入境许可，分别是去年同期的10倍和6.2倍。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5020949.d.html</link>
+            <guid>3713257</guid>
+            <pubDate>Fri, 26 Jul 2024 14:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澳大利亚阻止力拓子公司开采铀矿】澳大利亚政府阻止力拓(RIO.N)旗下一家子公司在该国偏远的北部开采一处巨大的铀矿，为长达数十年的资源争端关上了大门。澳大利亚北领地政府周五说，将不再续签贾比鲁卡矿的租约。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5100803.d.html</link>
-            <guid>3713070</guid>
-            <pubDate>Fri, 26 Jul 2024 11:57:57 GMT</pubDate>
+            <title><![CDATA[【世纪恒通：参股子公司深圳市云宏达科技有限公司暂无网约车牌照】世纪恒通7月26日在互动平台表示，公司于2024年6月投资设立了深圳市云宏达科技有限公司，该参股子公司目前尚在前期筹备和起步阶段，拟主要开展围绕新能源网约车公司及城际小型物流车公司的综合运营服务，如提供车务管理系统等运营管理一体化、数字化解决方案，暂无网约车牌照。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1798177.d.html</link>
+            <guid>3713256</guid>
+            <pubDate>Fri, 26 Jul 2024 14:26:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天晟新材：公司监事刘保群的配偶短线交易公司股票】天晟新材公告，公司监事刘保群的配偶陈翠萍存在短线交易公司股票的行为。刘保群及其配偶已将本次交易所得收益2424元上交公司。刘保群及其配偶已深刻认识到本次事项的严重性，对本次短线交易造成的不良影响向广大投资者致以诚挚的歉意。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7314451.d.html</link>
-            <guid>3713069</guid>
-            <pubDate>Fri, 26 Jul 2024 11:57:49 GMT</pubDate>
+            <title><![CDATA[【钙钛矿电池取得新突破 未来几年将迎来高速增长】从西湖大学获悉，该校工学院王睿实验室研发出一种新分子——Py3，它有望显著提升钙钛矿太阳能电池（以下简称“钙钛矿电池”）光电转化效率，并将其使用寿命延长约2倍。相关成果于7月24日在线发表于《自然》杂志。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5020750.d.html</link>
+            <guid>3713255</guid>
+            <pubDate>Fri, 26 Jul 2024 14:26:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【部分江河站点超警戒水位 广东启动防汛Ⅲ级应急响应】记者从广东省应急管理部了解到，受台风“格美”外围环流影响，7月26日白天，河源、梅州和粤东市县出现了暴雨到大暴雨，潮州和揭阳出现了局部特大暴雨。部分江河站点超过警戒水位。鉴于当前雨情水情，根据《广东省防汛防旱防风防冻应急预案》和省防总有关规定，广东省防汛防旱防风总指挥部已于7月26日19时启动防汛Ⅲ级应急响应并维持防风Ⅳ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1877413.d.html</link>
-            <guid>3713068</guid>
-            <pubDate>Fri, 26 Jul 2024 11:55:46 GMT</pubDate>
+            <title><![CDATA[美国白宫：苹果公司已签署自愿承诺，旨在管理人工智能风险。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1797778.d.html</link>
+            <guid>3713254</guid>
+            <pubDate>Fri, 26 Jul 2024 14:25:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人社部：推进企业职工基本养老保险全国统筹】人力资源社会保障部部长王晓萍表示，推进企业职工基本养老保险全国统筹。积极发展第二、第三支柱养老保险，全面推开个人养老金制度，健全城乡居民养老保险制度。健全灵活就业人员、农民工、新就业形态人员社保制度，扩大新就业形态就业人员职业伤害保障试点。完善社保关系转移接续制度。推动以社会保障卡为载体的“一卡通”民生管理服务新模式。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5099373.d.html</link>
-            <guid>3713065</guid>
-            <pubDate>Fri, 26 Jul 2024 11:53:10 GMT</pubDate>
+            <title><![CDATA[【7家上市公司股票获重要股东增持 运机集团增持金额最高】数据显示，按变动截止日期为基准，7月26日，3家上市公司股票遭重要股东减持，金诚信遭重要股东减持336.52万股，减持金额为1.54亿元。7股获重要股东增持，运机集团获重要股东增持468.14万股，增持金额为1.24亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5019599.d.html</link>
+            <guid>3713251</guid>
+            <pubDate>Fri, 26 Jul 2024 14:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京金融监管局：上半年辖内小麦完全成本保险提供风险保障超5600万元】记者7月26日从国家金融监督管理总局北京监管局获悉，2024年上半年，北京辖内小麦完全成本保险承保18.76万亩，提供风险保障5632.63万元；玉米完全成本保险承保3.44万亩，提供风险保障688.97万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4090443.d.html</link>
-            <guid>3713064</guid>
-            <pubDate>Fri, 26 Jul 2024 11:52:19 GMT</pubDate>
+            <title><![CDATA[市场消息：伊朗方面否认以色列关于其参与法国列车破坏事件的指控。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5019060.d.html</link>
+            <guid>3713246</guid>
+            <pubDate>Fri, 26 Jul 2024 14:20:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国重工：武昌造船拟购买武船航融100%股权】中国重工公告，公司全资子公司武昌船舶重工集团有限公司(“武昌造船”)拟以自有资金10.44亿元购买武汉武船投资控股有限公司(“武船投资”)持有的武汉武船航融重工装备有限公司(“武船航融”)100%股权。同日公告，公司全资子公司大连船舶重工集团有限公司拟将所持有的渤海船舶重工有限责任公司100%股权以1.14亿元的价格协议转让给公司关联股东中国船舶集团渤海造船有限公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5098700.d.html</link>
-            <guid>3713063</guid>
-            <pubDate>Fri, 26 Jul 2024 11:51:26 GMT</pubDate>
+            <title><![CDATA[【江西万年县委书记毛奇接受纪律审查和监察调查】江西省纪委省监委网站消息，万年县委书记毛奇涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委省监委纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7229358.d.html</link>
+            <guid>3713243</guid>
+            <pubDate>Fri, 26 Jul 2024 14:15:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海浦东机场四期扩建飞行区主体工程正式开工】浦东机场四期扩建飞行区主体工程开工仪式在西南远客机坪施工现场举行。浦东机场四期扩建工程是上海国际航空枢纽建设的关键性工程，建成后可保障浦东机场年旅客吞吐量1.3亿人次的需求。浦东机场四期扩建飞行区工程作为四期工程“2+6”项目群中的重要组成部分，以保障T3航站楼按期建成投运为目标，同步建成机坪、绕滑道及其他附属设施等项目。根据整体时序安排及相互制约关系，本工程按两批次分阶段实施，预计于2027年12月主体建成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5097753.d.html</link>
-            <guid>3713061</guid>
-            <pubDate>Fri, 26 Jul 2024 11:49:01 GMT</pubDate>
+            <title><![CDATA[【国资委：1—6月地方监管企业完成固定资产投资2.9万亿元】7月25日至26日，国务院国资委在京举办地方国资委负责人研讨班。会议指出，地方监管企业经营发展有序推进，1—6月实现营业总收入19.2万亿元、利润总额8267.8亿元，完成固定资产投资2.9万亿元，存量资产有效盘活，重点领域风险防范有力有效；科技创新能力加快提升，1—6月地方监管企业研发经费投入2495.7亿元，同比增长10.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7228801.d.html</link>
+            <guid>3713241</guid>
+            <pubDate>Fri, 26 Jul 2024 14:14:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【3M公司第二财季销售额62.55亿美元】3M公司7月26日公布2024年第二季度财报显示，净销售额62.55亿美元，同比下降0.5%，调整后销售额60.19亿美元，有机增长1.2%。按美国通用会计准则（GAAP）计算的每股收益为2.17美元，同比增长117%。3M公司调整2024年全年调整后每股收益预测，由6.80美元至7.30美元上调至7.00美元至7.30美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1875011.d.html</link>
-            <guid>3713060</guid>
-            <pubDate>Fri, 26 Jul 2024 11:48:53 GMT</pubDate>
+            <title><![CDATA[【国资委：加快发展新质生产力 强化国有企业科技创新主体地位】7月25日至26日，国务院国资委在京举办地方国资委负责人研讨班。会议强调，要紧紧围绕加快推动国资国企高质量发展，扎实抓好下半年各项重点工作。要突出抓好高质量的稳增长，指导企业紧盯年初制定的生产经营目标，压实稳增长责任，加快转变发展模式，积极主动优化调整经营策略，切实把发展重心转换到依靠创新的内涵型增长上来，严肃财经纪律，加大应收款项清收力度，带头偿清拖欠中小企业的欠款，助力产业链上中下游企业融通发展，全力推动经济运行持续回升向好。要大力推动科技创新和产业创新深度融合，加快发展新质生产力，强化国有企业科技创新主体地位，以更大力度强化科技创新、培育壮大战略性新兴产业和未来产业、推动传统产业高端化智能化绿色化发展，更好助力现代化产业体系建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7228737.d.html</link>
+            <guid>3713240</guid>
+            <pubDate>Fri, 26 Jul 2024 14:14:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家发展改革委振兴司组织召开生态保护补偿基金专题座谈会】为深入贯彻落实《生态保护补偿条例》，完善市场化生态保护补偿机制，7月25日，国家发展改革委振兴司组织召开生态保护补偿基金专题座谈会。会上，国家开发银行、中国农业发展银行、三峡集团、国投集团、中咨公司等中央企业交流了对基金募资、管理、投向等方面的考虑和建议，国家绿色发展基金、中国绿化基金会、蚂蚁森林生态绿色发展基金会等基金主体介绍成熟基金设立和运作的典型经验做法，中央财经大学、华中师范大学、北京绿色金融研究院、生态环境部环境规划院等高校和科研院所专家学者从绿色金融、生态保护补偿等方面对基金设立的思路提出意见建议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1874896.d.html</link>
-            <guid>3713059</guid>
-            <pubDate>Fri, 26 Jul 2024 11:48:23 GMT</pubDate>
+            <title><![CDATA[【中国电竞第一股星竞威武挂牌上市】美东时间7月26日，星竞威武集团在纳斯达克证券交易所挂牌上市，股票代码“NIPG”，中国电竞第一股正式诞生。星竞威武集团董事长兼联席CEO何猷君、星竞威武集团联席CEO Hicham Chahine、星竞威武集团总裁孙力伟等出席纳斯达克敲钟仪式。在本次IPO中，星竞威武集团共发售225万股ADS（美国存托股份），发行价定为9美元/ADS，总募资规模2025万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4005432.d.html</link>
+            <guid>3713238</guid>
+            <pubDate>Fri, 26 Jul 2024 14:11:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泰国将为混合动力汽车制造商提供投资激励】泰国投资委员会 (BOI) 周五表示，作为区域汽车制造中心的泰国将为混合动力汽车制造商提供投资激励措施，从2028年到2032年，混合动力汽车的消费税将降低。BOI秘书长表示，“泰国有能力成为混合动力汽车的主要生产国……支持混合动力汽车生产将保护汽车零部件制造业，”并补充说，这些措施预计将吸引500亿泰铢（13.9亿美元）的投资。BOI表示，在未来四年内投资至少30亿泰铢并使用本地零部件的混合动力汽车制造商，其消费税将在五年内得到降低。车辆还需要配备先进的驾驶员辅助系统才能获得资格。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4088672.d.html</link>
-            <guid>3713057</guid>
-            <pubDate>Fri, 26 Jul 2024 11:46:46 GMT</pubDate>
+            <title><![CDATA[巴西财长Haddad：希望刺激私营部门对清洁能源的投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4004535.d.html</link>
+            <guid>3713237</guid>
+            <pubDate>Fri, 26 Jul 2024 14:09:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【科陆电子：全资子公司签订105MW储能业务合同】科陆电子公告，公司全资子公司科陆美国公司与智利Transelec的子公司GEA签订了电池储能系统设备采购协议。根据合同，科陆美国公司将向GEA销售105MW/420MWh的集装箱式电池储能系统，预计2025年交付。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5096869.d.html</link>
-            <guid>3713056</guid>
-            <pubDate>Fri, 26 Jul 2024 11:46:29 GMT</pubDate>
+            <title><![CDATA[【生态环境部：健全生态环境治理体系 协同推进降碳、减污、扩绿、增长】生态环境部召开会议传达学习党的二十届三中全会精神。会议指出，坚定不移深化生态文明体制改革，健全生态环境治理体系，协同推进降碳、减污、扩绿、增长，扎实推动党中央决策部署不折不扣落到实处。会议强调，部系统要把学习宣传贯彻全会精神作为当前和今后一个时期的一项重大政治任务，精心组织学习培训，广泛开展集中宣讲，切实做好新闻宣传，深化理论研究阐释，积极开展对外宣介，迅速兴起学习宣传贯彻全会精神热潮。要切实加强领导，把握正确政治方向，坚持密切联系实际，扎实推进改革任务落实，不断提升抓改革的能力和本领，将全会部署转化为推进人与自然和谐共生现代化的强大力量。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1792000.d.html</link>
+            <guid>3713236</guid>
+            <pubDate>Fri, 26 Jul 2024 14:07:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业银行：上半年业务经营质效持续改善 高质量发展迈出坚实步伐】上证报获悉，农业银行近日召开2024年年中党建和经营工作会议，总结上半年工作，部署下半年重点任务。会议指出，上半年农业银行积极推进“三稳两进”重点任务，全行党建和经营工作取得较好成效，“三农”和“五篇大文章”金融服务再上新台阶，业务经营质效持续改善，高质量发展迈出坚实步伐。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4088338.d.html</link>
-            <guid>3713055</guid>
-            <pubDate>Fri, 26 Jul 2024 11:45:53 GMT</pubDate>
+            <title><![CDATA[【印尼两座火山发生多次喷发 附近村庄受影响】据印度尼西亚火山与地质灾害研究机构（PVMBG）消息，当地时间7月26日16时57分，印尼勒沃托比火山发生喷发，持续时间为145秒。印尼抗灾署官员阿韦利娜·哈兰称，勒沃托比火山近期持续喷发，附近7个村庄受到影响。该火山观察站负责人赫尔曼称，勒沃托比火山的喷发预警等级仍维持在3级，建议附近居民和游客不要在距火山口3公里半径范围内进行任何活动。此外，印尼塞梅鲁火山当天发生多次喷发，喷发持续时间均在50秒以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5014342.d.html</link>
+            <guid>3713235</guid>
+            <pubDate>Fri, 26 Jul 2024 14:06:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【英国政府将在未来几天批准公共部门加薪】知情人士称，在对进一步的罢工行动感到担忧之际，英国政府势将最早下周同意提供给所有公共部门员工高于通胀水平的加薪幅度。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1873721.d.html</link>
-            <guid>3713054</guid>
-            <pubDate>Fri, 26 Jul 2024 11:45:29 GMT</pubDate>
+            <title><![CDATA[【我国科研团队提出实时监测鼻咽癌治疗疗效的新方法】中山大学肿瘤防治中心宣布，该中心研究团队利用一种血浆中的生物标志物，实现鼻咽癌治疗效果和复发转移风险的实时动态监测，有望为鼻咽癌个体化治疗提供新策略。相关论文日前发表于国际医学期刊《癌细胞》。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7225314.d.html</link>
+            <guid>3713233</guid>
+            <pubDate>Fri, 26 Jul 2024 14:05:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中捷资源：拟回购2000万至4000万元股份】中捷资源公告，公司计划使用自有资金通过集中竞价交易方式回购股份，回购资金总额不低于2000万元且不超过4000万元，回购价格不超过2.96元/股，回购股份将用于注销以减少注册资本。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4087864.d.html</link>
-            <guid>3713053</guid>
-            <pubDate>Fri, 26 Jul 2024 11:44:40 GMT</pubDate>
+            <title><![CDATA[【恒大汽车：潜在买卖方与公司之间的讨论仍在进行中】恒大汽车港交所公告称，于本公告日期，潜在卖方、潜在买方及本公司之间的讨论仍在进行中，但潜在卖方与潜在买方尚未订立买卖协议，潜在买方及本公司尚未订立授信协议。本公司及或潜在买方将于适当时候或需遵守上市规则及或收购守则（视情况而定）时作出进一步公告]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5013531.d.html</link>
+            <guid>3713232</guid>
+            <pubDate>Fri, 26 Jul 2024 14:04:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST 华铁：收到终止上市事先告知书】*ST 华铁公告，公司于2024年7月26日收到深圳证券交易所的《事先告知书》，因公司股票在2024年4月22日至7月25日期间连续二十个交易日每日收盘价均低于1元，触及终止上市情形。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1872818.d.html</link>
-            <guid>3713051</guid>
-            <pubDate>Fri, 26 Jul 2024 11:43:11 GMT</pubDate>
+            <title><![CDATA[美国7月一年期通胀率预期终值 2.9%，预期2.90%，前值2.90%。
+美国7月五至十年期通胀率预期终值 3%，预期2.90%，前值2.90%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx4001103.d.html</link>
+            <guid>3713228</guid>
+            <pubDate>Fri, 26 Jul 2024 14:00:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中邮消金回应被罚：整改工作已完成，将全面加强征信合规管控】7月26日，中国人民银行广东省分行官网显示，中邮消金因违反征信异议处理规定，被罚78万元。对此，中邮消金回应称，公司高度重视中国人民银行广东省分行本次征信专项执法检查，诚恳接受处罚与监督，对相关问题开展深入分析，举一反三，不折不扣落实整改，现已完成整改工作，杜绝征信合规的风险隐患。未来将更加严格落实监管要求，全面加强征信合规管控，推进公司高质量发展。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5095474.d.html</link>
-            <guid>3713050</guid>
-            <pubDate>Fri, 26 Jul 2024 11:43:06 GMT</pubDate>
+            <title><![CDATA[美国7月密歇根大学消费者信心指数终值 66.4，预期66，前值66。
+美国7月密歇根大学预期指数终值 68.8，预期67.5，前值67.2。
+美国7月密歇根大学现况指数终值 62.7，预期64.4，前值64.1。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5012078.d.html</link>
+            <guid>3713227</guid>
+            <pubDate>Fri, 26 Jul 2024 14:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万朗磁塑：拟以2.5亿受让国太阳科技34.48%股权】万朗磁塑公告，公司计划以5000万元受让国太阳科技34.48%股权，并对后者增资1.8亿元，认购新增注册资本13.78亿元，增资完成后将持有国太阳科技51%股权，合计投资金额达2.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5095298.d.html</link>
-            <guid>3713049</guid>
-            <pubDate>Fri, 26 Jul 2024 11:42:39 GMT</pubDate>
+            <title><![CDATA[【公司登记管理实施办法公开征求意见】市场监管总局7月26日消息，为落实《中华人民共和国公司法》《国务院关于实施〈中华人民共和国公司法〉注册资本登记管理制度的规定》的要求，完善中国特色现代企业制度，打造诚信有序营商环境，市场监管总局研究起草了《公司登记管理实施办法（征求意见稿）》，现向社会公开征求意见，意见反馈截止日期为2024年8月26日。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1789158.d.html</link>
+            <guid>3713226</guid>
+            <pubDate>Fri, 26 Jul 2024 13:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广东中山启动防汛Ⅲ级应急响应 多个镇街发布暴雨红色预警】7月26日，总台记者从广东省中山市三防指挥部获悉，中山市黄圃镇、三角镇、南头镇、阜沙镇暴雨红色预警信号已于2024年7月26日18时06分生效，中山市三防指挥部同时启动防汛（防暴雨）Ⅲ级应急响应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5095267.d.html</link>
-            <guid>3713048</guid>
-            <pubDate>Fri, 26 Jul 2024 11:42:34 GMT</pubDate>
+            <title><![CDATA[【日本东北地区暴雨致2人死亡2人失联】据日本广播协会26日报道，日本东北地区山形县和秋田县连日来遭暴雨袭击，已造成2人死亡，另有2人下落不明。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1787768.d.html</link>
+            <guid>3713220</guid>
+            <pubDate>Fri, 26 Jul 2024 13:55:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金明精机：截至目前中雷电科尚未盈利 预计对公司2024年度业绩不会产生重大影响】金明精机发布异动公告，公司关注到有媒体将公司列为“商业航天概念”相关股票，公司全资子公司广州明远投资有限公司于2022年1月以自有资金1000万元参股广州中雷电科科技有限公司，现持股比例9.99%，中雷电科主营业务为气象雷达天线、相控阵天线、芯片化相控阵系统等，可应用于地面、车载、机载相控阵雷达等领域。公司对中雷电科参股比例较小，其会计处理作为“长期股权投资”按权益法核算，2023年公司该项长期股权投资期末余额为12,065,418.31元，2023年度该项投资收益为-730,335.09元；截至目前，中雷电科尚未盈利，预计对公司2024年度业绩不会产生重大影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5094963.d.html</link>
-            <guid>3713046</guid>
-            <pubDate>Fri, 26 Jul 2024 11:41:37 GMT</pubDate>
+            <title><![CDATA[【新华联：2024年上半年净利润同比增长103.97%】新华联公告，公司2024年上半年实现营业收入15.75亿元，同比下降8.62%；实现归属于上市公司股东的净利润4850.87万元，同比增长103.97%；实现归属于上市公司股东的扣除非经常性损益的净利润2761.88万元，同比增长101.97%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1787544.d.html</link>
+            <guid>3713219</guid>
+            <pubDate>Fri, 26 Jul 2024 13:54:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【农业农村部：开发民俗体验等民族民俗特色产品，举办“村晚”联欢及亲子研学等活动】农业农村部办公厅发布《关于做好2024年中国农民丰收节有关工作的通知》，其中提出，始终坚持带农富民，活跃线上线下市场促进城乡消费。切实组织好丰收节金秋消费季活动，广泛动员社会各方面力量参与，展示绿色、有机、名特优新和地理标志农产品，强化绿色健康消费科普宣传，促进大豆及豆制品、牛奶及乳制品消费。开展“菜篮子”产品消费促进行动，支持在大中城市开展丰富多彩的专题促销、集中采购等活动。鼓励各地依托乡村资源，开展乡宿、乡游、乡食、乡购、乡娱等综合体验，开发乡村美食、民俗体验、村落观光等民族民俗特色产品，举办村歌传唱、“村晚”联欢及亲子研学等活动，吸引居民望山见水忆乡愁。鼓励推动各类线上平台设立丰收频道、丰收专馆，给予流量支持或费用减免等政策，带动农民群众直播带货，开展网上丰收节农产品促销活动。优先支持脱贫地区结合产业发展需要，组织和参与产销对接、品牌推广等各类促消费活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4086754.d.html</link>
-            <guid>3713045</guid>
-            <pubDate>Fri, 26 Jul 2024 11:41:28 GMT</pubDate>
+            <title><![CDATA[【闲鱼拟向全体卖家收取0.6%的基础软件服务费】7月26日，闲鱼发布公示，宣布将面向全体卖家收取0.6%的基础软件服务费（单笔最高收取60元）。同时仅针对同一自然月内，产生的成交订单数量大于10件且累计成交金额大于10000元的卖家，超出后的每一笔订单实际成交额的1%收取软件服务费。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5009817.d.html</link>
+            <guid>3713218</guid>
+            <pubDate>Fri, 26 Jul 2024 13:52:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中瓷电子：拟以支付现金的方式收购国联万众5.3971%股权】中瓷电子公告，公司拟以支付现金的方式收购国联之芯持有的国联万众5.3971%股权。国联万众为公司前次重大资产重组的标的公司之一，且为配套募集资金投资项目“第三代半导体工艺及封测平台建设项目”及“碳化硅高压功率模块关键技术研发项目”的实施主体。本次交易完成后，国联万众将成为公司的全资子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5094726.d.html</link>
-            <guid>3713044</guid>
-            <pubDate>Fri, 26 Jul 2024 11:41:00 GMT</pubDate>
+            <title><![CDATA[【青岛国信集团60亿元小公募债项目状态更新为“已反馈”】上交所公司债券项目信息平台显示，青岛国信发展（集团）有限责任公司60亿元小公募债项目状态更新为“已反馈”，更新日期为2024年7月26日。募集说明书反馈回复稿显示，本次公司债券募集资金扣除发行费用后，拟将60亿元用于偿还到期债务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3997174.d.html</link>
+            <guid>3713216</guid>
+            <pubDate>Fri, 26 Jul 2024 13:49:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国交通部长布蒂吉格：对在谈论副总统时自己被提及感到受宠若惊。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1871990.d.html</link>
-            <guid>3713043</guid>
-            <pubDate>Fri, 26 Jul 2024 11:40:53 GMT</pubDate>
+            <title><![CDATA[【国家防总将针对辽宁的防汛应急响应提至三级】今年第3号台风“格美”登陆福建莆田秀屿沿海后深入内陆北上，据气象部门预报，未来三天，辽宁将出现强风雨天气，山东、河南、湖北省部分地区有强降雨。根据《国家防汛抗旱应急预案》及有关规定，国家防汛抗旱总指挥部7月26日20时将针对辽宁的防汛四级应急响应提升至三级，针对山东、河南、湖北三省启动防汛四级应急响应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1785889.d.html</link>
+            <guid>3713215</guid>
+            <pubDate>Fri, 26 Jul 2024 13:49:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【福建调整防台风应急响应至Ⅲ级 维持防暴雨Ⅱ级应急响应】根据《福建省防汛抗旱防台风应急预案》，福建省人民政府防汛抗旱指挥部于26日17时调整防台风应急响应至Ⅲ级，维持防暴雨Ⅱ级应急响应。福建省防指要求，各地各部门密切关注风雨潮的影响，及时启动或调整响应，周密部署防范措施，务必坚决果断组织转移避险，扎实做好应对工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5093162.d.html</link>
-            <guid>3713040</guid>
-            <pubDate>Fri, 26 Jul 2024 11:36:24 GMT</pubDate>
+            <title><![CDATA[北京讯众通信技术股份有限公司向港交所递交上市申请，独家保荐人为星展银行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5008171.d.html</link>
+            <guid>3713214</guid>
+            <pubDate>Fri, 26 Jul 2024 13:47:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【同济科技：子公司拟收购同济检测55%股权】同济科技公告，全资子公司同灏管理拟通过上海联合产权交易所，以公开摘牌方式收购同济控股持有的同济检测55%股权。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5093047.d.html</link>
-            <guid>3713039</guid>
-            <pubDate>Fri, 26 Jul 2024 11:36:09 GMT</pubDate>
+            <title><![CDATA[【科思科技：持股5%以上股东梁宏建拟减持不超过2%股份】科思科技公告，持股5%以上股东、核心技术人员梁宏建先生计划自公告披露之日起十五个交易日后的三个月内，通过集中竞价或大宗交易方式减持不超过2%的公司股份，即不超过2141.5万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7218567.d.html</link>
+            <guid>3713212</guid>
+            <pubDate>Fri, 26 Jul 2024 13:46:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上交所上市委8月2日审议思看科技首发】上海证券交易所上市审核委员会定于2024年8月2日召开2024年第18次上市审核委员会审议会议，审议思看科技(杭州)股份有限公司(首发)。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1870251.d.html</link>
-            <guid>3713038</guid>
-            <pubDate>Fri, 26 Jul 2024 11:35:57 GMT</pubDate>
+            <title><![CDATA[【江西发布暴雨橙色预警 多地降水在50毫米以上】江西省气象台2024年7月26日20时11分发布暴雨橙色预警信号：预计未来3小时内，南昌、赣州两市中部和吉安市西南部及宜春市东部的部分地区降水可达50毫米以上，并伴有短时强降水、雷电、雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3995302.d.html</link>
+            <guid>3713211</guid>
+            <pubDate>Fri, 26 Jul 2024 13:44:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德铁：德—法长途铁路网络将受到干扰】在巴黎奥运会前夕，法国铁路基础设施遭到袭击，德国联邦铁路公司周五警告称，其长途铁路网络将受到干扰，并要求乘客在出行前留意连接状况。德铁在其网站上的一份通知中说：“由于破坏行为造成的损害，德国联邦铁路公司在法国和德国之间的长途服务在短期内可能会取消和延误。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4085082.d.html</link>
-            <guid>3713037</guid>
-            <pubDate>Fri, 26 Jul 2024 11:35:53 GMT</pubDate>
+            <title><![CDATA[【深交所：终止对鹰峰电子首次公开发行股票并在创业板上市审核】因上海鹰峰电子科技股份有限公司、保荐人撤回发行上市申请，根据《深圳证券交易所股票发行上市审核规则（2024年修订）》第六十二条，深交所决定终止其发行上市审核。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5006026.d.html</link>
+            <guid>3713209</guid>
+            <pubDate>Fri, 26 Jul 2024 13:41:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【*ST深天：收到终止上市事先告知书】*ST深天公告，公司于2024年7月26日收到深交所下发的《事先告知书》。因公司股票在2024年6月27日至7月24日期间连续二十个交易日的收盘市值均低于3亿元，触及终止上市情形，深交所拟决定终止公司股票上市交易。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7307490.d.html</link>
-            <guid>3713036</guid>
-            <pubDate>Fri, 26 Jul 2024 11:35:43 GMT</pubDate>
+            <title><![CDATA[【香港将强化对新质生产力发展资金支持】由智库“治港新政”等主办的香港新质生产力研讨会26日举行。香港特区政府财政司司长陈茂波出席研讨会时表示，香港将积极用好国际金融中心的优势，强化对新质生产力发展的全方位资金支持。陈茂波表示，发展新质生产力是推动高质量发展的内在要求和重要着力点。接下来特区政府将推进几个方面工作，为香港新质生产力的培育提供更成熟有利土壤。除加强资金支持外，还将把握机遇，加强企业和人才的汇聚，并不断深化与粤港澳大湾区其他城市的协作，为大湾区的新质生产力和高质量发展增添动能，为中国式现代化作出新的、更大的贡献。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3994268.d.html</link>
+            <guid>3713208</guid>
+            <pubDate>Fri, 26 Jul 2024 13:41:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万马股份：股东拟减持不超过0.69%】万马股份公告，持股5.66%的股东智能科技集团及其一致行动人计划在公告披露之日起15个交易日后的3个月内，以集中竞价和大宗交易方式合计减持不超过700万股，占总股本的0.69%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4084699.d.html</link>
-            <guid>3713035</guid>
-            <pubDate>Fri, 26 Jul 2024 11:34:59 GMT</pubDate>
+            <title><![CDATA[【美国两名宇航员归期仍未确定 龙飞船或将替波音接回美宇航员】当地时间25日，美国国家航空航天局（NASA）表示，在工程师完成波音公司“星际客机”问题修复工作之前，两名美国宇航员将留在国际空间站，且尚未确定返回日期。截至25日当天，他们已经在太空中停留了大约50天。相关负责人承认，万一波音飞船故障一直修不好，美国国家航空航天局也有备用方案，那就是让美国太空探索技术公司的“龙”飞船将这两名宇航员接回。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7216601.d.html</link>
+            <guid>3713207</guid>
+            <pubDate>Fri, 26 Jul 2024 13:41:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江南化工：1-6月新签或开始执行的爆破服务工程类日常经营合同金额合计74.33亿元】江南化工公告，2024年1-6月新签或开始执行的爆破服务工程类日常经营合同金额合计74.33亿元。]]></title>
-            <guid>3713034</guid>
-            <pubDate>Fri, 26 Jul 2024 11:33:41 GMT</pubDate>
+            <title><![CDATA[【卡塔尔航空接近收购Airlink股份】卡塔尔航空即将达成收购南非最大支线航空公司Airlink股份的交易。据知情人士透露，双方已就卡塔尔航空的投资进行了详细谈判，但尚未达成最终协议。这项投资将加强卡塔尔航空在南非的网络。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1783093.d.html</link>
+            <guid>3713206</guid>
+            <pubDate>Fri, 26 Jul 2024 13:40:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【芯源微：股东拟询价转让200.4万股 转让价格为64.72元/股】芯源微公告，股东沈阳先进制造技术产业有限公司通过询价转让200.4万股，转让价格为64.72元/股。此次转让后，先进制造持股比例由10.52%降至9.52%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7306699.d.html</link>
-            <guid>3713033</guid>
-            <pubDate>Fri, 26 Jul 2024 11:33:28 GMT</pubDate>
+            <title><![CDATA[【交控科技：股东基石基金拟减持不超过1.83%股份】交控科技公告，股东基石基金因自身经营需要，计划通过集中竞价或大宗交易方式减持所持公司股份，减持数量不超过453.45万股，占公司总股本的1.83%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1782153.d.html</link>
+            <guid>3713202</guid>
+            <pubDate>Fri, 26 Jul 2024 13:37:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中锐股份：拟回购1088万股-2175万股股份】中锐股份公告，公司拟使用自有资金通过集中竞价交易方式回购A股股票，回购数量不低于公司总股本的1%（约1088万股），不超过公司总股本的2%（约2175万股），回购价格不超过2.6元/股，回购资金总额不超过5657.36万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1868996.d.html</link>
-            <guid>3713031</guid>
-            <pubDate>Fri, 26 Jul 2024 11:32:49 GMT</pubDate>
+            <title><![CDATA[【禾川科技：5%以上股东拟减持不超过1%股份】禾川科技公告，公司股东龙游联龙因基金分配需要，计划通过集中竞价或大宗交易方式减持不超过1%股份。减持将在2024年8月19日至11月18日之间进行，减持价格将根据市场价格确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3992721.d.html</link>
+            <guid>3713200</guid>
+            <pubDate>Fri, 26 Jul 2024 13:37:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国政府将在未来几天批准公共部门加薪事宜。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1868511.d.html</link>
-            <guid>3713029</guid>
-            <pubDate>Fri, 26 Jul 2024 11:31:21 GMT</pubDate>
+            <title><![CDATA[3M涨幅扩大至近15%，公司二季度净销售额高于预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7214506.d.html</link>
+            <guid>3713198</guid>
+            <pubDate>Fri, 26 Jul 2024 13:35:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【敏芯股份：华芯创投拟减持不超过1.4995%股份】敏芯股份公告，华芯创投拟通过大宗交易方式减持公司股份数量不超过83.93万股，即不超过公司总股本的1.4995%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5091191.d.html</link>
-            <guid>3713028</guid>
-            <pubDate>Fri, 26 Jul 2024 11:31:14 GMT</pubDate>
+            <title><![CDATA[【丰田拟在日本九州岛新建电动汽车电池工厂】丰田汽车计划在日本九州岛福冈县建造一家电动汽车电池工厂。这家日本汽车制造商希望将九州岛定位为其电动汽车供应链的中心部分，以及对亚洲地区的出口基地。丰田的目标是，到2030年前每年在全球销售350万辆电动汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5003641.d.html</link>
+            <guid>3713196</guid>
+            <pubDate>Fri, 26 Jul 2024 13:35:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【思特威：股东询价转让定价为44.18元/股】思特威公告，公司股东Brizan Holdings、Forebright Smart Eyes和共青城思智威通过询价转让方式转让股份，初步确定的转让价格为44.18元/股，为收盘价的86.54%。参与报价的机构投资者15家，有效认购股份数量为844.5万股，对应有效认购倍数约1.1倍。初步确定受让方为14家，拟受让股份总数为800.02万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1868372.d.html</link>
-            <guid>3713027</guid>
-            <pubDate>Fri, 26 Jul 2024 11:31:03 GMT</pubDate>
+            <title><![CDATA[【通业科技：公司地铁逻辑控制单元产品等有用到部分地铁无人驾驶项目中】通业科技7月26日在互动平台表示，公司的主营业务是轨道交通机车车辆电气产品的研发、生产、销售和维保服务，产品主要应用于轨道交通行业。公司地铁逻辑控制单元产品以及风机产品有运用到部分地铁无人驾驶相关项目中，已签订单已基本于往年度完成交付，后续订单需根据具体项目开展情况而定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxs5003584.d.html</link>
+            <guid>3713195</guid>
+            <pubDate>Fri, 26 Jul 2024 13:34:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山东章鼓：上半年实现净利润6429.67万元 同比增长0.30%】山东章鼓发布2024年半年度报告，实现营业收入9.33亿元，同比下降2.48%；归属于上市公司股东的净利润6429.67万元，同比增长0.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5090709.d.html</link>
-            <guid>3713026</guid>
-            <pubDate>Fri, 26 Jul 2024 11:30:05 GMT</pubDate>
+            <title><![CDATA[【2024年7月票房破45亿】据灯塔专业版，截止7月26日21时32分，2024年7月总票房（含预售）突破45亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxv7213956.d.html</link>
+            <guid>3713193</guid>
+            <pubDate>Fri, 26 Jul 2024 13:34:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【湖北荆门掇刀区：年底前买新建商品住房，多子女家庭最高给予6万元补贴】据湖北省荆门市高新区管委会掇刀区人民政府网站消息，7月23日，掇刀区人民政府办公室发布《关于优化政策促进掇刀区房地产市场平稳健康发展的通知》，《通知》主要内容共分3条，涉及园区产业工人购房补贴、多孩家庭购房补贴和高校毕业生购房补贴。文件提出，给予多孩家庭购房补贴。自本通知印发之日起至2024年12月31日，符合生育条件政策，二孩在2016年1月1日后出生，三孩在2021年5月31日后出生，在中心城区购买新建普通商品住房的二孩、三孩家庭，网签商品房买卖合同，在取得不动产契税完税凭证6个月内申请的，分别给予一次性4万元、6万元的购房补贴。掇刀区住建局解释称，本区在市级政策基础上，提高二孩三孩家庭和高校毕业生购房补贴标准，对申请购买新建普通商品住房的二孩家庭、三孩家庭分别给予4万元、6万元购房补助，相比市级政策，本区额外给予二孩家庭2万元、三孩家庭2万元的购房补贴。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1867426.d.html</link>
-            <guid>3713024</guid>
-            <pubDate>Fri, 26 Jul 2024 11:28:17 GMT</pubDate>
+            <title><![CDATA[【佳缘科技：公司已研发特种领域的AI安全产品】佳缘科技7月26日在互动平台表示，公司已研发特种领域的AI安全产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1780452.d.html</link>
+            <guid>3713192</guid>
+            <pubDate>Fri, 26 Jul 2024 13:33:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【因产量增加 法国电力公司上半年利润录得增长】法国电力公司 （EDF） 周五公布，该公司上半年利润增长20.7%，原因是这家法国国有公用事业公司提高了其核电站和水力发电站的电力产量。该公司的净利润从去年同期的58亿欧元上升至70亿欧元。作为全球最大的核电站运营商，EDF近年来在其核电站遇到了问题，包括应力腐蚀，影响了其产量并使其背负更多债务。这家公司在一年前被重新国有化，已经能够让这些反应堆中的很大一部分恢复生产，同时其可再生能源资产也得到了改善。法国电力公司今年上半年的总发电量为259太瓦时。核电产量从去年同期的158.1太瓦时上升至177.4太瓦时。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1867372.d.html</link>
-            <guid>3713023</guid>
-            <pubDate>Fri, 26 Jul 2024 11:28:10 GMT</pubDate>
+            <title><![CDATA[3M(MMM.N)首席执行官：今年将看到一些逐步改善的价格走势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1780414.d.html</link>
+            <guid>3713191</guid>
+            <pubDate>Fri, 26 Jul 2024 13:33:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联泓新科：上半年净利1.41亿元 同比降56.82%】联泓新科发布2024年半年度报告，实现营业收入33.13亿元，同比增长3.31%；归属于上市公司股东的净利润1.41亿元，同比下降56.82%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5089999.d.html</link>
-            <guid>3713022</guid>
-            <pubDate>Fri, 26 Jul 2024 11:27:58 GMT</pubDate>
+            <title><![CDATA[【印度药企称其斑秃新药已通关美国FDA Ⅲ期试验效果喜人】印度最大的制药公司太阳药业（Sun Pharmaceutical Industries Limited）发布新闻稿称，美国食品药品监督管理局（FDA）已批准了其药物“deuruxolitinib”。据介绍，deuruxolitinib是8毫克口服片剂，每日服用两次，用于治疗患有严重斑秃的成年人。在作为FDA批准依据的Ⅲ期实验中，原先平均患者头皮毛发覆盖率仅为13%。24周后，超过30%服用LEQSELVI的患者头皮毛发覆盖率达到 80%或更高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3991172.d.html</link>
+            <guid>3713190</guid>
+            <pubDate>Fri, 26 Jul 2024 13:33:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沃尔玛或斥资2亿美元购买自动驾驶叉车】7月26日消息，知情人士称，作为更广泛的仓库自动化运营努力的一部分，沃尔玛计划斥资2亿美元购买自动驾驶叉车，沃尔玛希望使用自动驾驶叉车在其配送中心搬运货盘，为沃尔玛门店补货。知情人士称，沃尔玛打算从美国自动驾驶叉车初创公司Fox Robotics购买数百台叉车，并向这家初创公司投资了2500万美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1867173.d.html</link>
-            <guid>3713021</guid>
-            <pubDate>Fri, 26 Jul 2024 11:27:28 GMT</pubDate>
+            <title><![CDATA[3M(MMM.N)开盘上涨11%，为2020年3月以来最大涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxu1780317.d.html</link>
+            <guid>3713189</guid>
+            <pubDate>Fri, 26 Jul 2024 13:33:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈里斯呼吁结束加沙战争 以色列官员开声批评】以色列官员批评了美国副总统哈里斯。哈里斯此前说，鉴于加沙战争造成的苦难，现在是结束加沙战争的时候了。哈里斯预计将成为民主党总统候选人。一位不愿透露姓名的以色列官员表示，希望哈里斯的言论不会被哈马斯解读为表明美国和以色列之间存在分歧，“从而将停火协议推向遥远的未来”。以色列财政部长斯莫特里赫和以色列国家安全部长本-格维尔也都谴责了哈里斯的言论，他们是两个强硬的宗教民族主义政党的领导人，他们的支持对内塔尼亚胡的右翼联盟至关重要。“候选人女士，敌对行动不会停止，”本-格维尔在社交媒体平台X上写道。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1866630.d.html</link>
-            <guid>3713020</guid>
-            <pubDate>Fri, 26 Jul 2024 11:26:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【同济科技：拟回购3000万元至5000万元股份】同济科技公告，公司计划以集中竞价交易方式回购股份，回购金额不低于3000万元，不超过5000万元，资金来源为公司自有资金。回购价格不超过10.44元/股，预计回购股份数量为287.36万股至478.93万股，占公司总股本的0.46%至0.77%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5088354.d.html</link>
-            <guid>3713017</guid>
-            <pubDate>Fri, 26 Jul 2024 11:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海：加快培育发展新质生产力 着力壮大集成电路、生物医药、人工智能三大先导产业】上海市委常委会今天（7月26日）下午举行会议，会议指出，要认真抓好党的二十届三中全会精神的贯彻落实，坚定信心、保持定力，把握规律、积极作为，不断提高领导经济工作的本领水平。切实激发“奋力一跳”的精气神，更加深入、主动、系统、精细抓工作，打好稳增长、促转型主动仗，努力在高质量发展上走在前列。深入抓好进一步全面深化改革，聚焦“五个中心”建设抓紧形成一批改革开放新举措，围绕激发市场活力持续优化营商环境。在提振有潜力的消费、加大有效益的投资上下功夫，加快推动商旅文体展深度融合，大力谋划更多大项目好项目，全力保持重点行业向稳向好势头。坚持长短结合，持续深入做好科技创新大文章，加快培育发展新质生产力，着力壮大集成电路、生物医药、人工智能三大先导产业。抢抓数字化、智能化、绿色化发展机遇，推动重点行业加快转型升级。要加强政策动态评估，提高政策供给质量，完善项目招商和企业服务机制，改进企业扶持方式，更好稳预期、强信心。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7303101.d.html</link>
-            <guid>3713016</guid>
-            <pubDate>Fri, 26 Jul 2024 11:22:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【强达电路审核状态变更为提交注册】深圳市强达电路股份有限公司审核状态变更为提交注册，公司拟登录创业板，预计融资金额6亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4080379.d.html</link>
-            <guid>3713015</guid>
-            <pubDate>Fri, 26 Jul 2024 11:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列外交部长称伊朗计划对以色列（奥运会）代表团发动攻击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5087445.d.html</link>
-            <guid>3713013</guid>
-            <pubDate>Fri, 26 Jul 2024 11:21:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见欧盟外交与安全政策高级代表博雷利】当地时间2024年7月26日，中共中央政治局委员、外交部长王毅在万象会见欧盟外交与安全政策高级代表博雷利。王毅说，中国共产党二十届三中全会就进一步全面深化改革、推进中国式现代化擘画了新蓝图；中国高质量发展、高水平开放也将为中欧合作带来新机遇。中欧共识远大于分歧，健康稳定可持续的中欧关系符合双方根本利益，也是国际社会的普遍期待。中欧应坚持伙伴定位，坚持合作主基调，尊重各自人民的意愿和选择，平等对话、增进理解，以中欧关系的稳定性应对国际局势的不确定性。中方将一如既往支持欧洲一体化进程，支持欧盟坚持战略自主。希望新一届欧盟机构奉行理性务实对华政策，客观友善看待中国发展，实现中欧关系平稳过渡。王毅表示，欧盟对中国电动汽车反补贴调查是典型的贸易保护主义，也不利于全球绿色转型。希望双方通过对话协商，找到合理解决办法，共同维护自由贸易体制和经济全球化。(外交部网站)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1864549.d.html</link>
-            <guid>3713012</guid>
-            <pubDate>Fri, 26 Jul 2024 11:20:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 【英国央行首次降息是否8月落地仍充满悬念】英国央行下周是否宣布2020年以来的首次降息仍充满悬念，由于7月4日大选前的规定，主要决策官员已经有两个多月没有公开发言，因此不确定性比往常更大。近期高于预期的服务通胀是否足以阻止央行将利率从5.25%的16年高点下调，投资人只能各自猜测。利率期货显示，8月1日降息25个基点的可能性为50%。虽然路透调查显示大多数经济学家仍预计会降息，但如果英国央行等到9月19日的下一次会议再降息，许多人也不会太惊讶。英国央行行长贝利称决策官员 "需要确定通胀率将保持在低位"，然后才会降息。英国2024年1—5月经济增长意外强劲，可能会降低央行降息的紧迫感。加拿大皇家银行预计，英国央行下周将把2024年经济增长预测从5月时的0.4%上调至1%，而在此之前的2023年，英国经济增长仅为0.1%。不过，荷兰国际经济学家James Smith认为，委员会过度坚持确定通胀压力已被压低将是很有风险的。"2024年剩余时间要取得像样的增长表现，部分依赖于这些降息能够兑现，英国央行官员不会忽视这一事实，"他说。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4079694.d.html</link>
-            <guid>3713011</guid>
-            <pubDate>Fri, 26 Jul 2024 11:20:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澜起科技披露股东询价转让结果：受让方包括兴证全球、摩根士丹利等】澜起科技披露股东询价转让结果，本次询价转让的价格为57.72元/股，兴证全球等12家投资者获配。其中，兴证全球受让839万股，摩根士丹利受让175万股，摩根大通受让162万股，UBS AG受让142万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7302093.d.html</link>
-            <guid>3713010</guid>
-            <pubDate>Fri, 26 Jul 2024 11:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超捷股份：股东计划合计减持1.48%股份】超捷股份公告，公司股东泰州誉威投资有限公司和泰州文超投资有限公司计划分别减持公司股份不超过1.25%和0.23%，减持期间自公告披露之日起15个交易日后的3个月内。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5086382.d.html</link>
-            <guid>3713009</guid>
-            <pubDate>Fri, 26 Jul 2024 11:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人力资源社会保障部副部长李忠会见吉尔吉斯斯坦社保基金会代表团】7月25日，人力资源社会保障部副部长李忠会见吉尔吉斯斯坦社保基金会副主席祖玛塔耶娃一行，就加强两国社会保障领域合作、推动商签双边社会保障协定事进行交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4079005.d.html</link>
-            <guid>3713008</guid>
-            <pubDate>Fri, 26 Jul 2024 11:17:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航天晨光：公司应用于商业航天领域的产品主要是保障发射任务配套使用的金属软管 收入占比相对较小】航天晨光发布股票交易异常波动公告，公司关注到近日市场上商业航天概念走强，板块内包括公司在内的部分上市公司涨幅较大。经公司核查，公司应用于商业航天领域的产品主要是保障发射任务配套使用的金属软管，2023年该部分收入约2700万元，收入占比相对较小。公司收入结构短期内不会发生重大变化。]]></title>
-            <guid>3713007</guid>
-            <pubDate>Fri, 26 Jul 2024 11:16:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【金龙汽车：无人驾驶客车市场目前总体尚处于探索阶段 尚不成熟】金龙汽车发布异动公告，公司关注到近期公共传媒报道了公司涉及“无人驾驶汽车概念股”的相关内容。公司现有主营业务以需人员驾驶的普通客车为主，无人驾驶客车2023年的销售收入占公司营业收入比例不超过0.3%，占比极小，且自2017年相关产品研发投产至今，销售规模始终未出现较大变化。无人驾驶客车市场目前总体尚处于探索阶段，尚不成熟。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7300974.d.html</link>
-            <guid>3713005</guid>
-            <pubDate>Fri, 26 Jul 2024 11:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国商务部拟授予Amkor多至4亿美元，支持其半导体工厂建设】美国半导体产品封装和测试服务提供商Amkor于7月26日宣布，已与美国商务部签署了一份不具约束力的初步条款备忘录，以接收拟议的《芯片和科学法案》激励资金，美国商务部拟议直接资助多至4亿美元。Amkor于2023年11月宣布，计划在亚利桑那州建设首个美国国内外包半导体封装和测试（OSAT）工厂。Amkor计划在新工厂投资约20亿美元并雇用约2000名员工。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1862848.d.html</link>
-            <guid>3713004</guid>
-            <pubDate>Fri, 26 Jul 2024 11:15:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中船科技：子公司拟转让部分在运营风光电场产品股权】中船科技公告，子公司中船风电下属全资子公司北京科技公司和新疆海为拟以不低于评估值的首次挂牌价格在产权交易所挂牌转让持有的部分在运营风光电场产品股权，其中包括尚处重大资产重组承诺期资产。根据评估报告，本次转让的风光电场产品股权评估价值合计9.92亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5085180.d.html</link>
-            <guid>3713002</guid>
-            <pubDate>Fri, 26 Jul 2024 11:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山东章鼓：上半年净利润同比增长0.30%】山东章鼓公告，公司2024年上半年实现营业收入93272万元，同比下降2.48%；归属于上市公司股东的净利润6430万元，同比增长0.30%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5085143.d.html</link>
-            <guid>3713001</guid>
-            <pubDate>Fri, 26 Jul 2024 11:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国中水务：2023年年度确认北京汇源投资收益0.83亿元】国中水务回复上交所年报监管函，公司2023年年度确认对北京汇源投资收益0.83亿元，占归母净利润比例为275.77%。公司先后三次共出资9.3亿元受让文盛资产持有的文盛汇36.49%的股份，间接持有北京汇源21.89%股份。北京汇源2023年营业收入27.45亿元，净利润4.24亿元，扣非净利润3.93亿元。北京汇源目前采用轻资产运营模式，主要将80%的生产线回租给原汇源集团，并向其采购产成品。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7300137.d.html</link>
-            <guid>3713000</guid>
-            <pubDate>Fri, 26 Jul 2024 11:13:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见挪威外交大臣艾德】王毅表示，中国共产党二十届三中全会聚焦进一步全面深化改革，确定了三百多项改革任务，展现了将改革进行到底的坚定决心。中国建设更高水平开放型经济新体制将为中国式现代化提供新的动力。欢迎挪威企业继续深耕中国市场，分享中国发展红利，中方愿同挪方加强绿色转型合作，携手维护经济全球化和多边贸易体系。艾德表示，很高兴前不久成功访华。挪威高度重视对华关系，愿同中方加强沟通，筹备好下阶段高层往来。挪威奉行一个中国政策，这一立场不会改变，理解任何国家都不能允许分裂。挪威同中国经济高度互补，不赞成对电动车加征关税，愿同中方加强气变等合作，打造绿色伙伴。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrx7299891.d.html</link>
-            <guid>3712999</guid>
-            <pubDate>Fri, 26 Jul 2024 11:13:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【吉林省发布暴雨橙色预警】吉林省气象台7月26日18时31分将暴雨黄色预警升级为暴雨橙色预警：目前辽源、吉林南部、延边西部、通化中北部已出现暴雨或大暴雨，预计未来24小时上述地区仍将有30-70毫米降水。请注意做好预防工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1861752.d.html</link>
-            <guid>3712998</guid>
-            <pubDate>Fri, 26 Jul 2024 11:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧盟将15亿欧元俄罗斯资产利润转至乌克兰】欧盟委员会主席冯德莱恩周五在社交媒体平台X上表示，欧盟将把被冻结的俄罗斯资产所产生的15亿欧元利润转移给乌克兰。“今天，我们将从俄罗斯固定资产中提取15亿欧元用于乌克兰的国防和重建。对于克里姆林宫的钱来说，没有比让乌克兰和整个欧洲成为一个更安全的居住地更好的象征或用途了。”此前有报道称，根据一份欧盟文件草案和外交官的声明，欧盟成员国一直在讨论延长对俄罗斯央行资产制裁的延长期限，以便为乌克兰获得G7的一笔重要贷款。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5084323.d.html</link>
-            <guid>3712997</guid>
-            <pubDate>Fri, 26 Jul 2024 11:12:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卓越新能：欧盟委员会对中国生物柴油产品反倾销调查初裁预披露结果】卓越新能7月26日晚间公告，欧盟委员会于2024年7月19日公布了反倾销调查初裁预披露信息，拟对中国生物柴油征收临时反倾销税。在反倾销调查初裁结果正式生效后，公司及子公司厦门卓越生物质能源有限公司生物柴油产品将被征收25.4%的临时反倾销税。2023年，公司生物柴油主要销往欧洲市场，占外销比重的90%以上。若欧委会对公司出口的生物柴油产品执行临时措施，将给公司2024年下半年经营带来压力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1861417.d.html</link>
-            <guid>3712996</guid>
-            <pubDate>Fri, 26 Jul 2024 11:12:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其安全部队在伊叙打死数名库尔德成员】土耳其国防部当地时间26日发表声明称，土安全部队在伊拉克北部哈库克、阿索斯、加拉等地区打死11名库尔德工人党成员，在叙利亚北部“幼发拉底河之盾”行动地区打死4名库尔德工人党和“人民保护部队”成员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrz4076836.d.html</link>
-            <guid>3712995</guid>
-            <pubDate>Fri, 26 Jul 2024 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【勘设股份：拟以2000万元至3500万元回购股份】勘设股份公告，公司计划使用自有资金以集中竞价交易方式回购股份，回购资金总额预计在2000万元至3500万元之间，回购价格不超过7.74元/股。回购股份将用于注销并减少注册资本。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkrw1861231.d.html</link>
-            <guid>3712994</guid>
-            <pubDate>Fri, 26 Jul 2024 11:11:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本最大电力公司启动新的燃气发电厂以避免电力短缺】日本最大的电力公司JERA周五表示，将于8月1日在东京千叶县五井地区启动一座2.34吉瓦(GW)燃气发电站，以避免夏季用电高峰期间的电力短缺。尽管全球都在为应对气候变化而放弃使用化石燃料，但由于2011年福岛灾难后关闭的核电站难以重启，以及采用可再生能源的缓慢进展，作为世界第五大二氧化碳排放国的日本，最近仍在建设新的火力发电厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5083911.d.html</link>
-            <guid>3712993</guid>
-            <pubDate>Fri, 26 Jul 2024 11:11:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【派格生物港股发行上市及境内未上市股份“全流通”获证监会备案】中国证监会国际合作司发布关于派格生物医药（苏州）股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过140,558,000股境外上市普通股并在香港联合交易所上市，公司57名股东拟将所持合计259,880,839股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnkru5083836.d.html</link>
-            <guid>3712992</guid>
-            <pubDate>Fri, 26 Jul 2024 11:11:09 GMT</pubDate>
+            <title><![CDATA[百时美施贵宝股价上涨6.6%，创2022年9月以来最大涨幅。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-07-26/detail-incfnqxx3990649.d.html</link>
+            <guid>3713187</guid>
+            <pubDate>Fri, 26 Jul 2024 13:32:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
