@@ -4,11 +4,390 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 02 Aug 2024 15:07:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 18:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[美国特勤局代理局长：特勤局对特朗普刺杀未遂事件当天的所有情况承担全部责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1829029.d.html</link>
+            <guid>3723775</guid>
+            <pubDate>Fri, 02 Aug 2024 17:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈里斯锁定美民主党总统候选人提名】美国民主党全国委员会主席当地时间8月2日宣布，美国现任副总统哈里斯已经获得了足够的党代表票，以锁定民主党总统候选人提名。该委员会预计在当地时间8月5日结束线上投票，并正式宣布结果。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1496566.d.html</link>
+            <guid>3723773</guid>
+            <pubDate>Fri, 02 Aug 2024 17:54:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美光科技（MU）下跌9.8%，创最近四年来最差盘中表现，报91.36美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3427194.d.html</link>
+            <guid>3723771</guid>
+            <pubDate>Fri, 02 Aug 2024 17:52:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储古尔斯比：需要在短期内平衡政策与经济，一系列数据显示出更接近于“黄金路径”的趋势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1495536.d.html</link>
+            <guid>3723770</guid>
+            <pubDate>Fri, 02 Aug 2024 17:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[洲际交易所ICE：上周布伦特原油期货投机性净多头头寸减少68359手至77990手，上周汽油期货投机性净多头头寸减少11422手合约至14040手合约。]]></title>
+            <guid>3723769</guid>
+            <pubDate>Fri, 02 Aug 2024 17:39:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储古尔斯比：如果通胀和就业市场继续降温，美联储应降息】美联储古尔斯比表示，就业数据显示劳动力市场降温趋势持续，通胀在过去几个月表现良好，且基础是广泛的。如果通胀和就业市场继续降温，美联储应降息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3424941.d.html</link>
+            <guid>3723768</guid>
+            <pubDate>Fri, 02 Aug 2024 17:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：目前正在穿越古巴东部的热带扰动预计将给佛罗里达半岛部分地区带来热带风暴天气和强降雨。]]></title>
+            <guid>3723767</guid>
+            <pubDate>Fri, 02 Aug 2024 17:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国近东救济工程处：甲型肝炎正在加沙蔓延】联合国近东救济工程处主任专员菲利普·拉扎里尼8月2日表示，自巴以冲突爆发以来，近东救济工程处已记录了其庇护所中近4万例甲型肝炎病例，而战前同期仅有85例。拉扎里尼警告说，由于加沙的污水处理系统崩溃以及缺乏清洁水和卫生条件，甲型肝炎正在迅速蔓延。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1824341.d.html</link>
+            <guid>3723766</guid>
+            <pubDate>Fri, 02 Aug 2024 17:31:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国民主党全国委员会（DNC）将于周一结束对哈里斯提名的投票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1824131.d.html</link>
+            <guid>3723765</guid>
+            <pubDate>Fri, 02 Aug 2024 17:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国数据分析公司邓白氏（DUN & BRADSTREET）在上涨23%后因波动性被暂停交易。知情人士称该公司正在探索包括出售在内的各种可能选择。]]></title>
+            <guid>3723764</guid>
+            <pubDate>Fri, 02 Aug 2024 17:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【由于中东紧张局势加剧，荷兰皇家航空公司、希腊爱琴海航空公司等主要航空公司纷纷取消飞往特拉维夫的航班】法航集团的荷兰子公司荷兰皇家航空公司(KLM)表示，在中东紧张局势不断升级之际，该公司取消了10月26日之前往返特拉维夫的所有航班。据希腊媒体报道，爱琴海航空公司也取消了往返以色列的航班。最近几天，汉莎航空、达美航空、美联航和其他航空公司也采取了类似的行动。以色列一名高级航空官员昨日辩称，该国的领空是安全的，如果形势确实需要，当局将主动关闭领空。]]></title>
+            <guid>3723762</guid>
+            <pubDate>Fri, 02 Aug 2024 17:23:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯：我很荣幸成为预期的民主党总统提名人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1491242.d.html</link>
+            <guid>3723761</guid>
+            <pubDate>Fri, 02 Aug 2024 17:21:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[委内瑞拉选举委员会主席阿莫罗索：目前已清点了96.87%的选票，马杜罗在选举中获得51.95%的选票。]]></title>
+            <guid>3723760</guid>
+            <pubDate>Fri, 02 Aug 2024 17:21:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国消费者金融保护局（CFPB）局长罗希特·乔普拉：担心信用卡发卡机构提高了利率，高利率环境对美国家庭造成了影响。]]></title>
+            <guid>3723759</guid>
+            <pubDate>Fri, 02 Aug 2024 17:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列国防军表示，今天早些时候，以军战机在黎巴嫩南部的Ayta ash-Shab的一栋恐怖组织使用的建筑中击毙了真主党特工。]]></title>
+            <guid>3723758</guid>
+            <pubDate>Fri, 02 Aug 2024 17:18:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【卡塔尔埃米尔与伊朗副总统举行会谈，讨论地区局势】当地时间8月2日，卡塔尔埃米尔（国家元首）塔米姆在多哈与伊朗副总统穆罕默德-礼萨·阿里夫举行会谈，重点就巴勒斯坦伊斯兰抵抗运动（哈马斯）领导人哈尼亚遇袭身亡事件和当前地区局势进行了讨论。双方对哈尼亚遭遇政治暗杀表示强烈谴责，称这是非法的犯罪行为。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1490341.d.html</link>
+            <guid>3723756</guid>
+            <pubDate>Fri, 02 Aug 2024 17:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：靠近加沙边界的以色列南部社区苏法再次响起火箭弹警报声。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1821852.d.html</link>
+            <guid>3723755</guid>
+            <pubDate>Fri, 02 Aug 2024 17:15:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国消费者金融保护局（CFPB）局长罗希特·乔普拉：正在审查贝莱德及其他公司是否采取了被动投资策略。]]></title>
+            <guid>3723754</guid>
+            <pubDate>Fri, 02 Aug 2024 17:13:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印度食品部长Sanjeev Chopra：专注于降低价格，打击企业价格操控。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3421949.d.html</link>
+            <guid>3723753</guid>
+            <pubDate>Fri, 02 Aug 2024 17:12:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列防长：美以合作对抗伊朗“对地区稳定至关重要”】据以色列时报，以色列国防部长加兰特对美国国防部长奥斯汀说，“以色列和美国之间针对伊朗及其代理人的前所未有的安全合作，对地区安全与稳定至关重要。”根据国防部发布的一份新闻稿，加兰特向奥斯汀提供了“根据最近安全事态发展的形势评估，并讨论了面对伊朗及其代理人构成的威胁，以色列和美国之间重要的防务合作。”加兰特的办公室说，他们还讨论了加沙战争和“与人质问题有关的关键时机，以及他确保人质返回的承诺”。声明还说：“部长强调，以色列致力于迅速达成协议，并确保人质返回以色列。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1489518.d.html</link>
+            <guid>3723752</guid>
+            <pubDate>Fri, 02 Aug 2024 17:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【电影《从21世纪安全撤离》票房破5000万】据灯塔专业版实时数据，截至8月3日0时0分，影片《从21世纪安全撤离》票房突破5000万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3421395.d.html</link>
+            <guid>3723751</guid>
+            <pubDate>Fri, 02 Aug 2024 17:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【李越任川航集团党委书记、董事长，王飞任总经理】8月2日上午，四川航空集团有限责任公司召开干部大会，宣布省委、省政府关于公司党委书记、董事长及公司总经理的任免决定：李越同志任四川航空集团有限责任公司党委书记、董事长；石祖义同志不再担任四川航空集团有限责任公司党委书记、董事长职务；王飞同志任四川航空集团有限责任公司党委副书记、副董事长、总经理。相关职务任免，按有关法律和章程的规定办理。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1820453.d.html</link>
+            <guid>3723749</guid>
+            <pubDate>Fri, 02 Aug 2024 17:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部：美国国防部长向以色列通报了美军在该地区正在进行和未来的变化。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1820118.d.html</link>
+            <guid>3723748</guid>
+            <pubDate>Fri, 02 Aug 2024 17:05:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军：加沙地带向以色列南部发射了至少10枚火箭弹】据以色列时报，以色列军方表示，不久前，加沙地带向以色列南部发射了至少10枚火箭弹，苏法和尼尔伊扎克边境社区拉响了警报。以色列国防军称，其中一枚火箭弹被“铁穹”拦截，而其他火箭弹则落在开阔地区。没有人员伤亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1487817.d.html</link>
+            <guid>3723744</guid>
+            <pubDate>Fri, 02 Aug 2024 17:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国至8月2日当周总钻井总数 586口，前值589口。美国至8月2日当周天然气钻井总数 98口，前值101口。美国至8月2日当周石油钻井总数 482口，前值482口。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtar6643028.d.html</link>
+            <guid>3723743</guid>
+            <pubDate>Fri, 02 Aug 2024 17:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：奥巴马时期的美国白宫通讯主任及2012年副竞选经理斯蒂芬妮·卡特加入了美国副总统哈里斯的竞选团队。]]></title>
+            <guid>3723742</guid>
+            <pubDate>Fri, 02 Aug 2024 16:59:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【61家非上市人身险公司上半年盈利显著分化】截至8月2日，已有61家人身险公司披露了二季度偿付能力报告。今年上半年，共有31家人身险公司盈利，合计净利润为199.5亿元；有30家人身险公司亏损，总计亏损108.35亿元。61家人身险公司合计净利润为91.15亿元，同比上升41.3%。受访专家表示，今年上半年，上述61家人身险公司合计净利润受去年同期基数较低、投资收益提振等多因素影响，出现较快增长，预计下半年人身险公司盈利情况有望持续好转。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1487433.d.html</link>
+            <guid>3723740</guid>
+            <pubDate>Fri, 02 Aug 2024 16:58:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中驰车福向美国证交会提交IPO申请】AUTOZI INTERNET TECHNOLOGY（中驰车福互联科技）向美国证交会提交IPO申请。据悉，该公司申请在纳斯达克上市，股票代码为“AZI”，拟发行250万股A类股票，预计IPO定价将在每股4至5美元之间。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1818208.d.html</link>
+            <guid>3723738</guid>
+            <pubDate>Fri, 02 Aug 2024 16:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：大卫·普劳夫（David Plouffe）以高级顾问的身份加入美国民主党总统参选人哈里斯的竞选团队。注：此人曾任美国前总统奥巴马的竞选经理。]]></title>
+            <guid>3723736</guid>
+            <pubDate>Fri, 02 Aug 2024 16:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士：美国炼油商CVR能源，债权人和投资者集团正在争夺Citgo石油的母公司。]]></title>
+            <guid>3723735</guid>
+            <pubDate>Fri, 02 Aug 2024 16:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普拒绝承诺与哈里斯辩论 理由是自己民调领先】特朗普对与卡玛拉·哈里斯辩论态度冷淡，称自己在民调中处于领先，而且选民已经知道他和哈里斯各自的立场。特朗普周五表示，“我想辩论，但是现在我会说，辩论的意义何在？我的民调数据领先于她，大家都认识她，大家也都认识我”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3417844.d.html</link>
+            <guid>3723733</guid>
+            <pubDate>Fri, 02 Aug 2024 16:39:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【看图：泰勒法则显示美联储在降息方面“慢七拍”】 经典的“泰勒法则”模型表明，当前美联储基准利率比合理水平高约1.7个百分点，这相当于降息七次，每次25基点。最新发布的7月非农就业数据显示失业率升至4.3%。最新的通胀数据显示美联储青睐的指标——剔除食品和能源项目的所谓核心个人消费支出（PCE）价格指数6月份同比上涨2.6%。美联储官员假设“中性实际利率”为0.8%，长期失业率为4.2%。综合以上因素，该模型计算得出的利率水平为3.65%，而当前的联邦基金有效利率约为5.3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1484247.d.html</link>
+            <guid>3723732</guid>
+            <pubDate>Fri, 02 Aug 2024 16:38:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：加密借贷公司Genesis完成重组，开始向债权人分配款项。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3417384.d.html</link>
+            <guid>3723731</guid>
+            <pubDate>Fri, 02 Aug 2024 16:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[花旗：青睐买入欧元/挪威克朗，预计高贝塔货币面临逆风。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3417023.d.html</link>
+            <guid>3723729</guid>
+            <pubDate>Fri, 02 Aug 2024 16:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列时报：加沙附近的以色列社区响起了火箭弹警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1482438.d.html</link>
+            <guid>3723728</guid>
+            <pubDate>Fri, 02 Aug 2024 16:29:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【乌土两国防长举行会谈 讨论防务合作等事宜】当地时间8月2日，乌克兰国防部长乌梅罗夫与土耳其国防部长亚沙尔·居莱尔在土耳其举行了会谈。乌梅罗夫当天在其官方社交平台上宣布了这一消息，并表示双方讨论了两国防务合作的一系列问题，会议达成了具体的协议。此外，双方还就黑海地区安全进行了磋商。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3408831.d.html</link>
+            <guid>3723725</guid>
+            <pubDate>Fri, 02 Aug 2024 16:16:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储古尔斯比：美国经济增速在放缓】美联储古尔斯比表示，美国经济正在增长，但增速正在放缓，经济仍面临多重交叉影响。小企业违约和逾期情况正在上升，处于“警示信号”阶段。希望看到充分就业，而不是超越正常水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1478622.d.html</link>
+            <guid>3723724</guid>
+            <pubDate>Fri, 02 Aug 2024 16:12:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际货币基金组织考虑新增一个执行董事会席位，旨在服务撒哈拉以南的非洲地区。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtav1809381.d.html</link>
+            <guid>3723723</guid>
+            <pubDate>Fri, 02 Aug 2024 16:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储古尔斯比：整体趋势不会因一个月的数字而改变】美联储古尔斯比表示，法律规定美联储必须对高失业率作出回应，数据的整体趋势不会因一个月的数字而改变，我们已经看到了我们所期望的通胀改善，完全理解为什么市场想要结束一种趋势。决定降息幅度或是否采取行动的将是经济状况，在下次会议之前将获取大量信息，我们不想现在束缚自己的手脚。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1476840.d.html</link>
+            <guid>3723721</guid>
+            <pubDate>Fri, 02 Aug 2024 16:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美联储古尔斯比：不要对一个月的数据做出过度反应】美联储古尔斯比表示，不要对一个月的数据做出过度反应，央行的职责是以稳定的方式行动。我一直在警告我们目前的政策是紧缩和限制性的；如果我们保持过长时间的紧缩政策，就必须考虑就业任务。如果失业率上升到4.1%以上，美联储就必须对这种情况做出反应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtar6628086.d.html</link>
+            <guid>3723720</guid>
+            <pubDate>Fri, 02 Aug 2024 16:03:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄罗斯举行非战略核力量第三阶段演习】 俄罗斯国防部8月1号表示，俄罗斯非战略核力量演习第三阶段正在进行，俄军进行了接收训练弹药和部署到指定地区的演习。俄国防部指出，本次演习旨在检验非战略核力量执行战斗任务的战备状态，确保俄主权和领土完整，是对西方官员挑衅性言论和威胁的回应。(CCTV国际时讯)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtat3405416.d.html</link>
+            <guid>3723719</guid>
+            <pubDate>Fri, 02 Aug 2024 16:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈里斯竞选团队称7月筹得3.1亿美元 超特朗普团队逾一倍】美国副总统卡玛拉·哈里斯的竞选团队表示在7月筹得3.1亿美元，使这位民主党推定候选人比共和党人唐纳德·特朗普更具有现金优势。哈里斯的筹款是共和党总统候选人特朗普7月筹集的1.387亿美元的两倍多。她在8月初手头握有3.77亿美元现金，超过了特朗普报告的3.27亿美元。哈里斯的竞选团队表示，7月的筹款得益于“总统选举历史上最好的草根筹款月”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1475898.d.html</link>
+            <guid>3723718</guid>
+            <pubDate>Fri, 02 Aug 2024 16:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据以色列时报：以色列靠近黎巴嫩边境的北部城镇响起了火箭警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-03/detail-inchhtaq1475524.d.html</link>
+            <guid>3723717</guid>
+            <pubDate>Fri, 02 Aug 2024 16:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方：这个星期成功地完成了一款远程拦截防空系统的测试。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtaq1475110.d.html</link>
+            <guid>3723716</guid>
+            <pubDate>Fri, 02 Aug 2024 15:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：英国金融科技初创公司Revolut告诉员工，将以450亿美元的估值发行股票。据悉，该公司将出售高达5亿美元的现有股份。]]></title>
+            <guid>3723715</guid>
+            <pubDate>Fri, 02 Aug 2024 15:58:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧盟为特朗普上台恐再度引发贸易战未雨绸缪】 欧洲媒体近日预测，美国共和党总统候选人特朗普若在大选中获胜，将推进“美国优先”议程，或引发美欧重启贸易战。为此，欧盟应制定“胡萝卜加大棒”的应对策略。据英国《金融时报》日前报道，欧盟计划第一步抛出“胡萝卜”。如特朗普胜选，欧盟谈判人员将立即与其接触，寻求尽快达成贸易协议，增加进口特定美国商品，避免特朗普对欧盟产品加征关税。如果第一步落空，欧盟将挥舞“大棒”，通过对美国商品加征关税的方式予以反制。据透露，欧盟正在拟定一份从美国进口商品的清单，清单内商品可能被征收50%甚至更高的关税。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtav1806166.d.html</link>
+            <guid>3723714</guid>
+            <pubDate>Fri, 02 Aug 2024 15:54:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【开工率出现下降，碳酸锂有望止跌】随着期现货价格均跌至8万，若短期供给压力如期减弱，则碳酸锂跌幅或将收窄，维持低位窄幅震荡。而若需求端能有超预期表现，则价格行至低位，仍有阶段性反弹可能。对短期碳酸锂期货运行区间下调至[7.5，8.5]。后续关注锂盐厂开工情况，及8月材料厂排产数据。长期来看，碳酸锂供应过剩格局暂难改善，矿端仍有下降空间，矿价下跌带动成本曲线下移，短期成本支撑并未夯实。市场仍需要更低、更持久的低价才能使得过剩产能出清，整体价格下行趋势仍然未改，策略上仍以反弹沽空更为稳妥。（财信期货）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtaq1474307.d.html</link>
+            <guid>3723713</guid>
+            <pubDate>Fri, 02 Aug 2024 15:52:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙(CVX.N)首席执行官：美国境内油田服务的成本正在减缓。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtar6625789.d.html</link>
+            <guid>3723711</guid>
+            <pubDate>Fri, 02 Aug 2024 15:52:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【非农大爆冷 华尔街投行火速大改降息剧本】1. 高盛：将今年美联储降息25基点的预期增加到三次，不排除9月降息50个基点。2. 花旗：美联储将在9、11、12月分别降息50/50/25个基点，此前预期均为25个基点。3. 美国银行：预计美联储将在9月份开始降息25个基点，而之前的预期为12月份。4. 摩根大通：美联储料将在9月和11月各降息50个基点，此后每次会议均降息25个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtat3403214.d.html</link>
+            <guid>3723710</guid>
+            <pubDate>Fri, 02 Aug 2024 15:51:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：意大利政府没有研究对公司利润征收新税。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhtav1805455.d.html</link>
+            <guid>3723709</guid>
+            <pubDate>Fri, 02 Aug 2024 15:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[雪佛龙(CVX.N)首席执行官：公司正在密切关注委内瑞拉的政治局势。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1604370.d.html</link>
+            <guid>3723707</guid>
+            <pubDate>Fri, 02 Aug 2024 15:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东完成受让德邦控股100%股份，创始人崔维星股权清零】京东卓风企业管理有限公司已按照相关交易文件安排，完成受让崔维星先生持有的德邦控股剩余2.7249%股份，过户登记手续已在广州产权交易所有限公司办理完成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1935880.d.html</link>
+            <guid>3723706</guid>
+            <pubDate>Fri, 02 Aug 2024 15:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【雷军驾驶小米SU7 Ultra测试车亮相纽北赛道】8月2日晚，小米创办人、董事长兼CEO雷军在微博发文透露，今天在纽北赛道，他驾驶小米SU7 Ultra测试车跑了三圈，还获得了纽北赛道驾驶认证。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1604133.d.html</link>
+            <guid>3723705</guid>
+            <pubDate>Fri, 02 Aug 2024 15:45:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国近东救济工程处：约旦河西岸局势日益恶化】当地时间8月2日，联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）表示，约旦河西岸的局势日益恶化。当地难民营正遭受缺水和断电的困扰。近东救济工程处称以色列国防军的行动继续对约旦河西岸造成破坏并威胁约旦河西岸公民的生命，强调这场“战争”必须结束。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1935359.d.html</link>
+            <guid>3723704</guid>
+            <pubDate>Fri, 02 Aug 2024 15:44:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国财政部颁发与俄相关金融清算交易通用许可证】当地时间8月2日，美国财政部当日宣布颁发与俄罗斯有关的通用许可证，授权与俄罗斯主要金融机构进行特定的清算相关交易，其中包括莫斯科交易所、俄罗斯国家清算中心和俄罗斯国家结算存管机构。据悉，此举是美国更广泛制裁和监管行动的一部分。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1603456.d.html</link>
+            <guid>3723703</guid>
+            <pubDate>Fri, 02 Aug 2024 15:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【欧股收盘多数下跌】德国DAX 30指数初步收跌2.49%，报17632.83点，本周累计下跌约4.2%。法国股指初步收跌1.92%，本周累跌约3.8%。意大利股指初步收跌2.78%，本周累跌约5.4%。英国股指初步收跌1.44%，本周累跌约1.4%。欧洲STOXX 600指数初步收跌2.79%，报497.46点，本周累计下跌大约3%。欧元区STOXX 50指数初步收跌2.75%，报4634.51点，本周累跌约4.7%。富时泛欧绩优300指数初步收跌2.80%，报1971.47点，本周累跌约3%。欧元区蓝筹股中，阿斯麦控股初步收跌11.3%，Adyen、英飞凌、施耐德电气、桑坦德至少跌超5.2%，裕信银行跌4.9%，在收涨的十只成分股中，百威英博涨2.6%表现第二，达能股份涨2.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1602738.d.html</link>
+            <guid>3723701</guid>
+            <pubDate>Fri, 02 Aug 2024 15:36:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【外媒：伊以局势紧张之际 美议员提出法案建议在两种情况下授权拜登对伊使用武力】综合俄罗斯卫星通讯社、以色列《耶路撒冷邮报》等媒体报道，在以色列与黎巴嫩真主党以及伊朗之间的紧张局势加剧之际，美国共和党议员林赛·格雷厄姆近日提出两项与伊朗有关的法案。据俄罗斯卫星通讯社8月2日报道，其中一项法案提议在两种情况下授权美国总统拜登对伊朗使用武力，其中一种情况是“总统认定伊朗正获得对美国国家安全利益构成威胁的核武器”，另一种情况是“总统认定伊朗拥有武器级浓缩铀、核弹头或拥有能够搭载威胁美国国家安全利益的核弹头的运载工具”。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1602144.d.html</link>
+            <guid>3723698</guid>
+            <pubDate>Fri, 02 Aug 2024 15:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波罗的海干散货运价指数终结十日连跌】波罗的海干散货运价指数周五终结十个交易日连跌走势，受海岬型船运价指数走升推动。波罗的海干散货运价指数上涨7点或0.4%，至1675点，周四曾触及自4月10日以来最低水平；本周该指数累计下跌7.7%。海岬型船运价指数上涨38点或1.7%，至2327点，终结十日连跌局面。海岬型船日均获利上涨313美元，至19299美元。巴拿马型船运价指数下降8点或0.5%，至1705点，触及逾两周最低水平。巴拿马型船日均获利下降73美元，至15.345美元。超灵便型散货船运价指数下滑10点或0.7%，至1342点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3529337.d.html</link>
+            <guid>3723696</guid>
+            <pubDate>Fri, 02 Aug 2024 15:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【地区紧张局势升级 法国敦促本国公民尽快离开伊朗】在哈马斯和真主党高级领导人相继遇袭导致战争风险加剧后，法国敦促在伊朗的本国公民尽快离开。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1600475.d.html</link>
+            <guid>3723694</guid>
+            <pubDate>Fri, 02 Aug 2024 15:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美银美林将英特尔评级下调至落后大盘，目标价23美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6750743.d.html</link>
+            <guid>3723693</guid>
+            <pubDate>Fri, 02 Aug 2024 15:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高樟资本：旗下基金为“闪光少女斯斯”唯一投资人】8月2日，深圳高樟资本投资有限公司发布声明称，近日收到多方反映，有人以“闪光少女斯斯”（即北京好梦现场文化传播有限公司）投资人身份，开展培训、咨询、投资、参股等商业活动。截至目前，高樟资本旗下基金为北京好梦现场文化传播有限公司及“闪光少女斯斯”唯一投资人，此外任何自称是投资人的，均为不实信息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3527952.d.html</link>
+            <guid>3723692</guid>
+            <pubDate>Fri, 02 Aug 2024 15:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国银行调整美联储政策预测 预计9月首次降息】美国银行经济学家在报告中称，基于周五公布的疲软的7月就业数据，经济学家调整了对美联储政策的预测，称预计降息将从9月开始。此前，他们预计12月会降息，但同时也承认提早降息的可能性已变得更大。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1599794.d.html</link>
+            <guid>3723691</guid>
+            <pubDate>Fri, 02 Aug 2024 15:18:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8月2日欧盘美盘重要新闻汇总
+国际新闻：
+1. 亚洲股市创2022年以来最大跌幅 一度下跌3%。
+2. 7月非农爆冷，失业率意外升至4.3%，美国总统承认就业增长放缓。
+3. 现货黄金在非农公布后一度飙升，随后暴跌至日内低点，较日高回落近50美元。
+4. 英国两年期与十年期国债收益率差扩大至20.5个基点，为2022年以来最高水平。
+5. 美股大跌，纳斯达克100指数较7月高点下跌10%，势将进入修正阶段。
+6. 多家投行机构下调英特尔目标价，其股价盘中暴跌26%，创下至少自1982年以来的最大跌幅。
+7. 调查：欧佩克7月份原油产量下降6万桶/日，降至2699万桶/日。]]></title>
+            <guid>3723684</guid>
+            <pubDate>Fri, 02 Aug 2024 15:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【下周594.33亿元市值限售股解禁，华勤技术解禁超77亿元居首】Wind数据统计显示，下周（8月5日-8月9日）共有51家公司限售股陆续解禁，合计解禁36.81亿股，按8月2日收盘价计算，解禁总市值为594.33亿元。从解禁市值来看，8月5日是解禁高峰期，23家公司解禁市值合计304.87亿元，占下周解禁规模的51.3%。按8月2日收盘价计算，解禁市值居前三位的是：华勤技术（77.09亿元）、复旦微电（68.91亿元）、海通证券（67.42亿元）。从个股的解禁量看，解禁股数居前三位的是：海通证券（7.81亿股）、重庆银行（5.79亿股）、申达股份（2.56亿股）。从解禁股份类型来看，首发原股东限售股份有24家，股权激励限售股份有8家，定向增发机构配售股份有6家，首发战略配售股份有5家，首发原股东限售股份,首发战略配售股份有3家，首发机构配售股份有3家，股权激励一般股份有2家。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1597934.d.html</link>
+            <guid>3723682</guid>
+            <pubDate>Fri, 02 Aug 2024 15:08:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【欧美议员共同谴责委内瑞拉对选举的处理方式】美国国会外交事务委员会和欧洲各国立法机构的领导人联合谴责委内瑞拉政府对上周末有争议的选举的处理，这是一次前所未有的团结，旨在向加拉加斯施压，要求其公布全部选票。声明中表示，美欧政府正在密切关注委内瑞拉的局势，如果马杜罗继续无视委内瑞拉选民的民主意愿，再次窃取选举，他们将共同努力追究他的责任。据知情人士透露，周五早些时候，来自亚美尼亚、摩尔多瓦、拉脱维亚、意大利、波兰、立陶宛、德国、爱沙尼亚、芬兰、爱尔兰、丹麦和罗马尼亚的外交事务委员会领导人签署了一份声明。]]></title>
             <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1929119.d.html</link>
@@ -25,211 +404,6 @@
             <title><![CDATA[【雷电微力：公司已有处于预研阶段的无人机相关应用项目】雷电微力8月2日在互动平台表示，公司不直接生产雷达，主要产品为毫米波微系统。毫米波微系统作为一项核心技术，在飞行汽车、无人驾驶汽车通信连接、避障防撞等方面有应用场景，公司已有处于预研阶段的无人机相关应用项目。]]></title>
             <guid>3723676</guid>
             <pubDate>Fri, 02 Aug 2024 15:02:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国和欧洲议员联合谴责委内瑞拉政府对有争议选举的处理。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1596429.d.html</link>
-            <guid>3723675</guid>
-            <pubDate>Fri, 02 Aug 2024 15:00:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[墨西哥总统洛佩斯：美国国务卿布林肯在关于委内瑞拉的言论中越界。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1925479.d.html</link>
-            <guid>3723667</guid>
-            <pubDate>Fri, 02 Aug 2024 14:50:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[苹果(AAPL.O)股价逆市上涨2.4%，此前其第三财季总营收、iPhone业务营收均高于预期。]]></title>
-            <guid>3723665</guid>
-            <pubDate>Fri, 02 Aug 2024 14:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【威迈斯：公司暂未涉及商业航天板块】 威迈斯8月2日在互动平台表示，目前公司客户中未包含军工领域客户，公司的车载电源产品可以应用于飞行汽车中，目前已获得小鹏汇天的定点，暂未涉及商业航天板块。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1592589.d.html</link>
-            <guid>3723660</guid>
-            <pubDate>Fri, 02 Aug 2024 14:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雪佛龙计划将总部从加州迁往得州】石油巨头雪佛龙（Chevron）正在将其总部从加利福尼亚州迁至得克萨斯州，成为最新一家将总部迁出加州的公司。该公司周五宣布，计划将公司总部从加州圣拉蒙（San Ramon）迁至得州休斯顿。在此之前，雪佛龙公司的总部长期设在圣拉蒙。雪佛龙公司在声明中表示：“公司预计所有旗下职能部门将在未来五年内迁移到休斯顿。但支持公司加州业务的职位将继续留在圣拉蒙。”(环球市场播报)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1592534.d.html</link>
-            <guid>3723659</guid>
-            <pubDate>Fri, 02 Aug 2024 14:42:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深圳一小汽车与电动自行车发生碰撞致2死5伤，交警：汽车司机突发身体不适】 深圳市公安局交警支队发布情况通报：8月2日20时40分许，龙岗区龙岗大道吉祥路口发生一起小汽车与电动自行车碰撞交通事故，造成2人死亡，小汽车司机李某某（男，36岁）等5人受伤，伤者均已送医救治。经初步调查，司机李某某驾驶车辆过程中突发身体不适，导致发生事故。目前，事故正在进一步调查处理中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1592275.d.html</link>
-            <guid>3723658</guid>
-            <pubDate>Fri, 02 Aug 2024 14:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【奇德新材：已开展商业航天产业产品相关研究与业务接洽】 奇德新材(300995)在互动平台表示，公司已开展商业航天产业产品相关研究与业务接洽，公司目前未正式向商业航天的客户供应产品，公司的产品研究及市场开拓如有进展将依照有关法律法规进行公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3519478.d.html</link>
-            <guid>3723657</guid>
-            <pubDate>Fri, 02 Aug 2024 14:40:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日本海水浴场发现毒水母】近日，在日本和歌山县的两处海水浴场发现剧毒僧帽水母，当地已禁止民众下水。专家称，僧帽水母的特点是浮囊部分长约5-10厘米，呈蓝青色，因形似僧侣的帽子而得名。人被蜇伤后会产生类似触电般的强烈痛感，几分钟后便会全身无力。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1590470.d.html</link>
-            <guid>3723648</guid>
-            <pubDate>Fri, 02 Aug 2024 14:30:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天力锂能：回购127.62万股股份，占公司总股份1.0462%】天力锂能公告，截至2024年7月31日，公司通过回购专用证券账户以集中竞价交易的方式 回购股份，回购股份的数量为1,276,200股，占公司股份总数1.0462%，最高成交价为27.986 元/股，最低成交价为21.97元/股，成交总金额为32,382,433.90元(不含交易费用)。本次回购符合相关法律法规的要求及公司既定的回购股份方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1590323.d.html</link>
-            <guid>3723647</guid>
-            <pubDate>Fri, 02 Aug 2024 14:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渤海租赁：Vertical Aerospace仍在推进飞机研发及取证工作】 渤海租赁8月2日在互动平台表示，2021年6月，渤海租赁控股子公司Avolon通过联营公司Avolon E与英国电动垂直起降飞机制造商Vertical Aerospace（NY:EVTL）达成了500架电动垂直起降飞机（eVTOL）的意向订单和股权投资合作，截至2023年末，公司共持有Vertical Aerospace555.76万股，约占其已发行股本的2.5%。目前Vertical Aerospace仍在推进飞机研发及取证工作，尚未投入商业运营，相关时间表尚无法预计，敬请广大投资者谨慎决策，注意投资风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1590133.d.html</link>
-            <guid>3723646</guid>
-            <pubDate>Fri, 02 Aug 2024 14:28:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【完美世界：公司旗舰端游《诛仙世界》公测筹备工作正在加速进行中】完美世界在互动平台表示，公司旗舰端游《诛仙世界》近日发布了阶段性汇报视频，内含游戏实机录制，包括战斗、经济等模块的调优进度、首次放出的新内容等，目前公测筹备工作正在加速进行中，该游戏将于2024年公测。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1588342.d.html</link>
-            <guid>3723642</guid>
-            <pubDate>Fri, 02 Aug 2024 14:20:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华孚时尚：公司上虞华尚数智中心AIGC智算中心项目其他客户订单正在走相关流程】华孚时尚在互动平台表示，完整的合同签订步骤一般分为意向客户洽谈、合同条款商定、设备商用测试、合同评审、合同签章生效等阶段，各阶段耗费时长因具体项目而异。公司上虞华尚数智中心AIGC智算中心项目其他客户订单正在走相关的流程。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6737635.d.html</link>
-            <guid>3723641</guid>
-            <pubDate>Fri, 02 Aug 2024 14:19:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北汽蓝谷：北京高端智能生态工厂项目获准备案的年产能为12万辆】北汽蓝谷在互动平台表示，北京新能源汽车股份有限公司收到北京市发展和改革委员会出具的《项目备案证明》（京发改（备）[2024]329 号），北京高端智能生态工厂项目获准备案的年产能为12万辆。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1588205.d.html</link>
-            <guid>3723640</guid>
-            <pubDate>Fri, 02 Aug 2024 14:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗：预测美联储将在九月和十一月各降息50个基点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3514219.d.html</link>
-            <guid>3723635</guid>
-            <pubDate>Fri, 02 Aug 2024 14:16:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[离岸人民币兑美元升值902点，现报7.1591，在岸人民币现报7.1762。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1918918.d.html</link>
-            <guid>3723634</guid>
-            <pubDate>Fri, 02 Aug 2024 14:15:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【DoorDash发布财报后股价上涨7%】美版“饿了么”DoorDash股票在周五早间上涨超过7%。公司第二财季收入26.3亿美元，分析师预期25.4亿美元；第二财季订单6.35亿，分析师预期6.2729亿。美东时间周五上午10：11，DoorDash股价上涨7.95，涨幅为7.35%，报116.15美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1587133.d.html</link>
-            <guid>3723632</guid>
-            <pubDate>Fri, 02 Aug 2024 14:14:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【科林电气：第一大股东海信网能收到警示函】 科林电气公告，公司第一大股东海信网能因在《详式权益变动报告书（二次修订稿）》中披露的资金来源信息存在瑕疵，收到河北证监局出具的警示函。海信网能已提交自查报告并发布三次修订稿，向投资者致歉并承诺加强法规学习，规范信息披露。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6735693.d.html</link>
-            <guid>3723629</guid>
-            <pubDate>Fri, 02 Aug 2024 14:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃克森美孚二季度净利润92.4亿美元，同比增加17.3%】 8月2日，埃克森美孚公布2024年第二季度业绩：收入及其他收益930.60亿美元，上年同期为829.14亿美元；归属于公司的净利润为92.40亿美元，上年同期为78.80亿美元；调整后每股收益2.14美元，上年同期为1.94美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3512877.d.html</link>
-            <guid>3723627</guid>
-            <pubDate>Fri, 02 Aug 2024 14:10:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【张国清赴吉林慰问受灾群众检查指导防汛救灾工作时强调 全力守护人民群众生命安全 切实做好受灾群众生活保障】根据习近平总书记重要指示和李强总理要求，中共中央政治局委员、国务院副总理张国清1日至2日率有关部门赶赴吉林慰问受灾群众，检查指导防汛救灾工作。他强调，要坚决贯彻习近平总书记重要指示批示精神，落实李强总理要求，始终把保障人民生命安全放在第一位，毫不松懈抓好防汛救灾工作，千方百计安置好受灾群众基本生活，尽最大努力降低灾害损失。（新华社）]]></title>
-            <guid>3723619</guid>
-            <pubDate>Fri, 02 Aug 2024 14:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[埃克森美孚石油(XOM.N)将继续努力重启于7月中旬停产的乔利埃炼油厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3510376.d.html</link>
-            <guid>3723614</guid>
-            <pubDate>Fri, 02 Aug 2024 14:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧盟委员会副主席东布罗夫斯基斯：乌克兰已确认，只要卢克石油公司不是石油的所有者，正在进行的运往匈牙利和斯洛伐克的石油运输业务就不会受到制裁的影响。]]></title>
-            <guid>3723613</guid>
-            <pubDate>Fri, 02 Aug 2024 13:59:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【又一厂家车辆起火后盖黑布，官方客服称：为救援过程】继北汽极狐车辆起火厂家第一时间撬车标、盖黑布后，赛力斯产品起火后也盖起了黑布。8月2日，一辆白色赛力斯SF5与蔚来汽车一起起火的视频在网络流传。目击者称，事发地点是一个单位的门口，赛力斯（白色电动车）先自燃，然后引燃了旁边的蔚来汽车。在消防人员进行灭火后，白色车辆被盖上了黑布。赛力斯客服回应表示：“暂时没有该事件的反馈，现场盖黑布可能是救援的一个过程，因为涉及用户隐私，所以若有结果也不方便反馈，但是大事件会公布的。”（第一财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6732235.d.html</link>
-            <guid>3723609</guid>
-            <pubDate>Fri, 02 Aug 2024 13:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【容百科技：上半年实现净利润1027.79万元 同比下降97.29%】容百科技公告，公司2024年上半年实现营业收入68.88亿元，同比下降46.58%；归属于上市公司股东的净利润为1027.79万元，同比下降97.29%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnuv3509144.d.html</link>
-            <guid>3723604</guid>
-            <pubDate>Fri, 02 Aug 2024 13:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[斯洛伐克外长：斯洛伐克收到克罗地亚的来信，表示愿意确保石油供应，但不清楚价格和产能。斯洛伐克希望欧盟委员会对通过乌克兰的石油供应采取行动，但同时也在寻找其他解决方案。]]></title>
-            <guid>3723603</guid>
-            <pubDate>Fri, 02 Aug 2024 13:52:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【深交所：终止对新麦机械首次公开发行股票并在创业板上市审核】因新麦机械（中国）股份有限公司、保荐人撤回发行上市申请，根据《深圳证券交易所股票发行上市审核规则（2024年修订）》第六十二条，深交所决定终止其发行上市审核。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1913931.d.html</link>
-            <guid>3723602</guid>
-            <pubDate>Fri, 02 Aug 2024 13:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中基协将注销2家机构私募基金管理人登记】 8月2日，中国证券投资基金业协会公告，根据相关规定，山东厚实私募基金管理有限公司等2家机构不能持续符合管理人登记要求。协会将注销上述2家机构的私募基金管理人登记。已注销的私募基金管理人和相关当事人，应当根据法律法规、证监会规定以及协会相关自律规则、基金合同约定，妥善处置在管基金财产，依法保障投资者的合法利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1913745.d.html</link>
-            <guid>3723600</guid>
-            <pubDate>Fri, 02 Aug 2024 13:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雷电微力：公司已有处于预研阶段的无人机相关应用项目】雷电微力在互动平台表示，公司不直接生产雷达，主要产品为毫米波微系统。毫米波微系统作为一项核心技术，在飞行汽车、无人驾驶汽车通信连接、避障防撞等方面有应用场景，公司已有处于预研阶段的无人机相关应用项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6730267.d.html</link>
-            <guid>3723596</guid>
-            <pubDate>Fri, 02 Aug 2024 13:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【航行警告 南海海域军事训练】 据中国海事局网站消息，清澜海事局发布航行警告，8月3日0时至17时，南海部分海域进行军事训练，禁止驶入。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1581264.d.html</link>
-            <guid>3723595</guid>
-            <pubDate>Fri, 02 Aug 2024 13:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【胜蓝股份：控股股东计划减持公司股份不超过1%】胜蓝科技股份有限公司公告，公司控股股东胜蓝投资控股有限公司计划自公告披露之日起15个交易日后3个月内，以集中竞价的方式减持公司股份不超过150万股，占公司总股本的1.00%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1581157.d.html</link>
-            <guid>3723594</guid>
-            <pubDate>Fri, 02 Aug 2024 13:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大众公用：公司为大众交通第一大股东】大众公用在互动平台表示，公司为大众交通第一大股东。公司持有大众出行3500万股，占大众出行总股份的13.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1912510.d.html</link>
-            <guid>3723592</guid>
-            <pubDate>Fri, 02 Aug 2024 13:45:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【飞凯材料：液体封装材料LMC已经量产并形成少量销售】飞凯材料在互动平台表示，公司环氧塑封材料已形成稳定营收，部分高阶产品研发工作正在稳步推进中，液体封装材料LMC已经量产并形成少量销售，颗粒填充封装料GMC尚处于研发送样阶段。公司环氧塑封材料下游主要用于半导体封装领域，不直接应用于光通信模块。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6729854.d.html</link>
-            <guid>3723591</guid>
-            <pubDate>Fri, 02 Aug 2024 13:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中基协发布《资产证券化业务报价内部约束指引》，9月1日起实施】 中基协发布《资产证券化业务报价内部约束指引》。其中提到，管理人应当建立资产证券化业务报价的内部约束制度，加强业务报价内部管理；不得以明显低于项目平均成本等不正当竞争方式招揽业务，不得存在其他违反公平竞争、破坏市场秩序的行为。投标报价与非投标报价均应当执行资产证券化业务报价内部约束制度。指引自2024年9月1日起实施，9月1日后参与报价或签署协议的项目纳入内部约束管理。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnut6729836.d.html</link>
-            <guid>3723590</guid>
-            <pubDate>Fri, 02 Aug 2024 13:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“美联储传声筒”Nick Timiraos：鲍威尔周三表示，美联储官员不希望从降息50个基点开始。但他表示，“看起来更严重的衰退……是我们想要作出回应的事情。”]]></title>
-            <guid>3723586</guid>
-            <pubDate>Fri, 02 Aug 2024 13:44:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国参议员沃伦：鲍威尔不降息犯了一个严重错误。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnus1580369.d.html</link>
-            <guid>3723585</guid>
-            <pubDate>Fri, 02 Aug 2024 13:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美股苹果逆势上涨2%】 美股苹果逆势上涨2%，连续六个季度营收和盈利均超预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-02/detail-inchhnux1911708.d.html</link>
-            <guid>3723584</guid>
-            <pubDate>Fri, 02 Aug 2024 13:42:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
