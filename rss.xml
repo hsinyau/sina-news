@@ -4,528 +4,434 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 13 Aug 2024 12:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 15:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【皓元医药再融资获上交所上市委审议通过】上交所上市审核委员会2024年第19次审议会议于2024年8月13日召开，会议审议情况公告如下：上海皓元医药股份有限公司(再融资)符合发行条件、上市条件和信息披露要求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8445701.d.html</link>
-            <guid>3736122</guid>
-            <pubDate>Tue, 13 Aug 2024 12:13:10 GMT</pubDate>
+            <title><![CDATA[Prosus于8月5-9日期间回购1.196亿欧元股票，7月29日至8月2日期回购370万股（均价31.8353欧元）。]]></title>
+            <guid>3736315</guid>
+            <pubDate>Tue, 13 Aug 2024 15:06:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网自动测定：08月13日20时09分在四川凉山州木里县附近（北纬28.20度，东经100.67度）发生3.3级左右地震，最终结果以正式速报为准。]]></title>
-            <guid>3736121</guid>
-            <pubDate>Tue, 13 Aug 2024 12:11:36 GMT</pubDate>
+            <title><![CDATA[以色列军方：过去几天在拉法击毙了100名武装分子。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5132527.d.html</link>
+            <guid>3736314</guid>
+            <pubDate>Tue, 13 Aug 2024 15:05:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[哈马斯政治领袖辛瓦尔：只有以色列停止在加沙的军事行动，哈马斯才会参加停火谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5222463.d.html</link>
-            <guid>3736120</guid>
-            <pubDate>Tue, 13 Aug 2024 12:11:09 GMT</pubDate>
+            <title><![CDATA[据沙特国家新闻社：沙特王储穆罕默德·本·萨勒曼主持内阁会议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8355144.d.html</link>
+            <guid>3736313</guid>
+            <pubDate>Tue, 13 Aug 2024 15:04:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【刷新世界记录，美国团队宣布高温超导新突破】当地时间8月7日，纽约州立大学布法罗分校的研究团队在最新一期《自然·通讯》报告了一项基于稀土钡铜氧化物(REBCO)的超高性能超导线材的制备成果，为世界上性能最高的高温超导线段，同时性价比指标显著提高。纽约州立大学布法罗分校在8月10日的新闻稿中表示，这是迄今为止报告的所有磁场和工作温度下，临界电流密度和钉扎力的最高值。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5222041.d.html</link>
-            <guid>3736119</guid>
-            <pubDate>Tue, 13 Aug 2024 12:09:45 GMT</pubDate>
+            <title><![CDATA[【波音：7月交付了43架商用飞机】波音公司表示，7月交付了43架商用飞机，与去年同月持平，其中包括31架737 MAX。截至7月31日的总飞机订单为228架。7月份共收到72架飞机的总订单，其中包括57架737 MAX订单。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5131879.d.html</link>
+            <guid>3736311</guid>
+            <pubDate>Tue, 13 Aug 2024 15:02:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[星巴克任命BRIAN NICCOL为董事长兼首席执行官。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3405793.d.html</link>
-            <guid>3736117</guid>
-            <pubDate>Tue, 13 Aug 2024 12:06:54 GMT</pubDate>
+            <title><![CDATA[美国生物科技公司Illumina披露最新战略，以期到2027年实现销售增长8%-9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8354237.d.html</link>
+            <guid>3736309</guid>
+            <pubDate>Tue, 13 Aug 2024 15:00:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【最新信托公司监管评级结果出炉，首次分为1—6级】记者获悉，监管部门日前向信托公司口头通知了最新的监管评级结果，这是2023年11月《信托公司监管评级与分级分类监管暂行办法》（简称《办法》）下发之后首年执行。此次监管评级设置公司治理、资本要求、风险管理、行为管理和业务转型五大评级模块，分别赋予权重20%、20%、20%、30%和10%；将信托公司的监管评级结果分为1—6级，数值越大反映机构风险越大，需要越高程度的监管关注。值得一提的是，信托公司监管评级和系统性影响评估结果原则上仅供监管机构内部使用，不得对外公布。（券中社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5220706.d.html</link>
-            <guid>3736116</guid>
-            <pubDate>Tue, 13 Aug 2024 12:05:19 GMT</pubDate>
+            <title><![CDATA[【青岛文达通科技股份有限公司向港交所提交上市申请书】据港交所文件：青岛文达通科技股份有限公司向港交所提交上市申请书。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8353050.d.html</link>
+            <guid>3736304</guid>
+            <pubDate>Tue, 13 Aug 2024 14:53:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小鹏汽车：收购滴滴智能汽车开发业务资产的SOP交割】小鹏汽车(09868.HK)公告，董事会欣然宣布，本公司已于2024年7月30日开始生产量产车辆Mona以向普通客户销售和交付，因此股份购买协议项下的SOP里程碑已达成。自2024年8月1日起，智能纯电掀背轿跑小鹏MONAM03的首批展车已陆续抵达全国的小鹏汽车展厅。相应地，SOP交割已于2024年8月13日发生。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0170159.d.html</link>
-            <guid>3736115</guid>
-            <pubDate>Tue, 13 Aug 2024 12:03:48 GMT</pubDate>
+            <title><![CDATA[美股英伟达持续上涨，现涨超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5129489.d.html</link>
+            <guid>3736302</guid>
+            <pubDate>Tue, 13 Aug 2024 14:48:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【比亚迪郑州基地宣布启动年内第二次大规模招聘】新车型上市获得大量订单后，进入8月份，比亚迪郑州基地也宣布启动年内第二次大规模招聘，单月直聘规模达到4000人，岗位薪资最高可达9000元/月。按照8月初比亚迪郑州发布的招聘信息，郑州港区需招聘操作工2900人，技工1100人，安阳瓦店和济南也另有2700人的岗位，合计招聘规模达6700人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0170066.d.html</link>
-            <guid>3736114</guid>
-            <pubDate>Tue, 13 Aug 2024 12:03:19 GMT</pubDate>
+            <title><![CDATA[【福岛核电站核燃料残渣冷却池泄漏25吨含放射性物质水】据日本广播协会（NHK）今天（8月13日）报道称，工作人员发现东京电力公司福岛第一核电站2号机组的核燃料残渣冷却池有“25吨含放射性物质的水泄漏”。东电公司方面称，“含放射性物质的水没有流至外部环境，核燃料的冷却不存在问题”。(CCTV国际时讯)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8351892.d.html</link>
+            <guid>3736300</guid>
+            <pubDate>Tue, 13 Aug 2024 14:46:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航旅纵横：暑运以来出入境航线旅客量同比增长超70%】8月13日，航旅纵横大数据显示，暑运以来（7.1—8.12），国内航线的民航旅客量超8296万人次，同比增长约6%；出入境航线的民航旅客量超996万人次，同比增长约71%；出入境航线机票平均价格（经济舱）同比下降约18%，同比2019年增长约13%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0169573.d.html</link>
-            <guid>3736112</guid>
-            <pubDate>Tue, 13 Aug 2024 12:01:49 GMT</pubDate>
+            <title><![CDATA[波音：波兰签署意向书，采购96架波音AH-64E阿帕奇直升机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8351833.d.html</link>
+            <guid>3736299</guid>
+            <pubDate>Tue, 13 Aug 2024 14:46:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【内蒙古赤峰市松山区老哈河一处堤防发生溃口 宽度10余米】记者从内蒙古赤峰市防汛抗旱指挥部获悉，8月13日12时40分许，赤峰市松山区太平地镇八台营子村老哈河左岸段堤防发生溃口险情，溃口宽度10余米，平均水深2.5米。险情发生后，赤峰市立即启动防汛Ⅳ级应急响应，迅速调集力量，开展群众转移和应急抢险工作，提前将周边的2个自然村112户、820余名群众采取投亲靠友、集中安置等方式全部转移，洪水未进入村庄，未造成人员伤亡，过水农田约7000余亩。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8441876.d.html</link>
-            <guid>3736110</guid>
-            <pubDate>Tue, 13 Aug 2024 12:01:19 GMT</pubDate>
+            <title><![CDATA[【中印尼举行外长防长“2+2”对话机制首次高官会】2024年8月13日，外交部副部长孙卫东和中央军委国际军事合作办公室副主任张保群在雅加达同印尼外交部亚太非总司长卡迪尔、国防部战略总司秘书长奥克塔罗共同主持召开中印尼外长防长“2+2”对话机制首次高官会。双方就中印尼关系、外交和国防等战略性合作深入交换意见并达成一系列共识。同日，孙卫东副部长还会见了印尼外长蕾特诺、副外长帕哈拉。双方认为，中印尼外长防长“2+2” 对话机制在两国元首关心下建立，是中国对外建立的首个部长级“2+2”机制，充分体现了中印尼关系的高水平和战略性，此次高官会标志着两国“2+2”机制正式启动，也标志着两国战略互信迈上新台阶。双方高度评价中印尼关系发展，表示愿坚持元首战略引领，加强沟通协作，持续提升两国政治安全合作和友好互信，推动中印尼命运共同体建设不断取得新进展。（外交部）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3311647.d.html</link>
+            <guid>3736296</guid>
+            <pubDate>Tue, 13 Aug 2024 14:44:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国天楹：副总裁李军辞职】中国天楹8月13日公告，公司董事会近日收到公司副总裁李军的书面辞职报告。李军因个人原因申请辞去公司副总裁职务，辞职后将不再担任公司任何职务。截至公告披露日，李军直接持有公司股票15.43万股，占公司总股本的0.0061%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8441676.d.html</link>
-            <guid>3736109</guid>
-            <pubDate>Tue, 13 Aug 2024 12:00:44 GMT</pubDate>
+            <title><![CDATA[英伟达美股上涨4.6%，接近两周高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5128028.d.html</link>
+            <guid>3736294</guid>
+            <pubDate>Tue, 13 Aug 2024 14:40:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰从欧盟获得42亿欧元财政援助】当地时间8月13日，乌克兰总理什梅加尔在其官方社交平台上宣布，乌克兰从欧盟获得了42亿欧元财政援助。该资金将用于维护乌克兰宏观金融稳定、公共行政运作以及人道主义领域。什梅加尔表示，自今年年初以来，欧盟已向乌克兰提供了超过120亿欧元的预算支持。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5218714.d.html</link>
-            <guid>3736108</guid>
-            <pubDate>Tue, 13 Aug 2024 12:00:26 GMT</pubDate>
+            <title><![CDATA[【彩讯股份：与华为在协同办公领域将有更多机会开展合作】彩讯股份近日在电话会议中表示，作为华为的生态合作伙伴，在鸿蒙生态企业应用领域有一定的布局。同时，公司也在推广销售昇腾服务器产品。此外，公司也是华为企业办公领域的核心合作伙伴之一，由于华为针对B端企业办公领域的鸿蒙升级非常重视，公司与其在协同办公领域将有更多机会开展合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3310587.d.html</link>
+            <guid>3736293</guid>
+            <pubDate>Tue, 13 Aug 2024 14:38:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【携程集团与新疆维吾尔自治区人民政府开启三年全面战略合作】8月12日，携程集团与新疆维吾尔自治区人民政府签署战略合作框架协议，未来三年，双方将在引客入疆、交旅融合、产业布局、乡村振兴、人才培育、数字治理六大方面开展全面合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0168726.d.html</link>
-            <guid>3736105</guid>
-            <pubDate>Tue, 13 Aug 2024 11:58:27 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩南部一汽车遭袭 已致2人死亡】当地时间8月13日，黎巴嫩公共卫生部通报，黎南部巴拉奇特镇（Baraachit）一辆汽车当天遭以军无人机袭击，目前已造成2人死亡。对此，以色列方面暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8350380.d.html</link>
+            <guid>3736292</guid>
+            <pubDate>Tue, 13 Aug 2024 14:38:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【星网宇达：恢复参加军队采购活动的资格】星网宇达公告，公司于2024年8月13日起恢复参加军队采购活动的资格。此前，公司因涉嫌违规失信行为被暂停采购资格。经调查，公司在参与某器材项目采购活动中存在违规行为，已被给予书面警告处理。资格恢复后，公司可全面参与军队采购活动，预计将对公司正常经营和发展带来积极影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3403290.d.html</link>
-            <guid>3736104</guid>
-            <pubDate>Tue, 13 Aug 2024 11:56:04 GMT</pubDate>
+            <title><![CDATA[美国联邦贸易委员会：在陪审团裁定谷歌非法垄断应用商店后，已概述了补救措施。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3310232.d.html</link>
+            <guid>3736291</guid>
+            <pubDate>Tue, 13 Aug 2024 14:37:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[蓝盾信息：应于2024年8月13日支付的“蓝盾退债”可转债本息无法按期兑付。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8439689.d.html</link>
-            <guid>3736103</guid>
-            <pubDate>Tue, 13 Aug 2024 11:52:03 GMT</pubDate>
+            <title><![CDATA[【星巴克中国回应换帅：总部的人事调整不涉及中国市场】星巴克今天发布公告，Brian Niccol已被任命为董事长兼首席执行官，将于2024年9月9日开始担任新职务。星巴克首席财务官 Rachel Ruggeri 将担任临时首席执行官直至该任命生效。针对新的人事变动，星巴克中国有关人士向记者表示，总部的人事调整不涉及中国市场。“我们对中国市场的信心和承诺一如既往，并将继续专注于中国业务的长期发展”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0074664.d.html</link>
+            <guid>3736289</guid>
+            <pubDate>Tue, 13 Aug 2024 14:33:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【1月至7月澳门入境国际旅客同比增122.0%】澳门特区政府旅游局13日提供的临时数据显示，1月至7月澳门入境国际旅客约134.16万人次，按年增加122.0%，恢复至2019年同期的68.1%。另据特区政府统计暨普查局公布的资料，澳门今年上半年入境旅客超过1600万人次，较去年同期上升43.6%。其中国际旅客近117万人次，同比上升146.3%。今年上半年的随团入境旅客有96.8万人次，按年上升1.7倍；国际团客增加8.4倍至10.2万人次，显示团队游对旅客具吸引力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3402518.d.html</link>
-            <guid>3736102</guid>
-            <pubDate>Tue, 13 Aug 2024 11:51:23 GMT</pubDate>
+            <title><![CDATA[【航天科技：目前公司业务尚不涉及机器人和机器狗】航天科技在互动平台表示，目前公司业务尚不涉及机器人和机器狗。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0074091.d.html</link>
+            <guid>3736288</guid>
+            <pubDate>Tue, 13 Aug 2024 14:30:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[必和必拓：由于智利Escondida铜矿发生罢工，已启动“应急计划”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0167395.d.html</link>
-            <guid>3736101</guid>
-            <pubDate>Tue, 13 Aug 2024 11:50:28 GMT</pubDate>
+            <title><![CDATA[TD Cowen将星巴克评级上调至买进，目标价105美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8348701.d.html</link>
+            <guid>3736287</guid>
+            <pubDate>Tue, 13 Aug 2024 14:28:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁德时代：下半年需求旺盛，预计产能利用率将进一步提升】宁德时代8月13日在互动平台表示，公司产能利用率一直处于行业较高水平，下半年需求旺盛，预计产能利用率将进一步提升。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0167263.d.html</link>
-            <guid>3736100</guid>
-            <pubDate>Tue, 13 Aug 2024 11:49:45 GMT</pubDate>
+            <title><![CDATA[【波兰国防部与美国制造商签署“阿帕奇”直升机购买合同】当地时间8月13日，波兰国防部与美国制造商签署了价值约100亿美元的“阿帕奇”直升机购买合同。据悉，波兰副总理兼国防部长科西尼亚克-卡梅斯当天签署了一份为波兰陆军交付96架“阿帕奇”直升机以及后勤和训练服务的合同。这些飞机将提供给波兰陆军第一航空旅，以替代老旧的米-24直升机。除供应直升机外，合同还包括一揽子后勤服务，提供直升机维修设备、技术和培训支持，包括机组人员和地面人员培训以及模拟器、弹药和备件供应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5125472.d.html</link>
+            <guid>3736285</guid>
+            <pubDate>Tue, 13 Aug 2024 14:26:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【云从科技：与中科大脑组成的联合体中标9648万元智慧城市项目】云从科技今日在互动平台回应有关项目中标的提问时表示，经查实，公司全资子公司四川云从天府人工智能科技有限公司与中关村科学城城市大脑股份有限公司（中科大脑）组成的联合体中标荥经县智慧城市建设项目设备采购/标段。该项目经评审的投标价为9648.185万元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0166790.d.html</link>
-            <guid>3736099</guid>
-            <pubDate>Tue, 13 Aug 2024 11:47:07 GMT</pubDate>
+            <title><![CDATA[【新疆国际旅游收入暴增250%】今年上半年，新疆入境旅游的人次和旅游收入均实现了大幅增长，越来越多的外国游客前来感受开放、美丽的新疆。除了乌鲁木齐，从南疆的喀什古城到北疆的高山、草原，新疆以其独特魅力“圈粉”无数外国游客。最新公布的数据显示，今年上半年，新疆接待入境游客229.33万人次，同比增长120.49%；实现国际旅游收入17.68亿美元，同比增长252.43%。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8347603.d.html</link>
+            <guid>3736284</guid>
+            <pubDate>Tue, 13 Aug 2024 14:24:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国机构：加沙地带超八成地区曾被以军下达疏散警告】联合国近东巴勒斯坦难民救济和工程处13日发布消息称，加沙地带流离失所的情况从未结束，近84%的地区（约305平方公里）被以军下达过疏散警告。自去年10月7日本轮巴以冲突爆发以来，以军在加沙地带的军事行动已导致39929名巴勒斯坦人死亡、92240人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5215246.d.html</link>
-            <guid>3736098</guid>
-            <pubDate>Tue, 13 Aug 2024 11:45:52 GMT</pubDate>
+            <title><![CDATA[【中信万科消费基础设施Pre-REIT基金成立，万科实现多业态不动产基金突破】8月14日，万科发布公告，已与中信金石基金管理有限公司（简称“中信金石”）和中信证券投资有限公司（简称“中证投资”）及泰康人寿签署合作协议，共同设立万信金石（南京）商业投资合伙企业（有限合伙）（以下简称“中信万科消费基础设施Pre-REIT基金”），投资万科旗下深圳龙岗万科广场、北京旧宫万科广场项目。去年以来，万科相继在公寓Pre-REIT、商业REIT、商业Pre-REIT基金上实现突破，有助于万科进一步打通经营性资产的商业模式闭环，盘活存量资产和现金流，更好地实现资产的良性循环发展。同时，能够在长租、综合住区的商业板块实现多业态、多层次不动产基金的突破，也体现了市场对万科主业能力的高度认可。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0072247.d.html</link>
+            <guid>3736282</guid>
+            <pubDate>Tue, 13 Aug 2024 14:21:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美丽生态：第一大股东将变更为深圳宝立盛】美丽生态公告，佳源创盛持有的公司4883.76万股限售流通股因无人出价，本次司法拍卖流拍。竞买人李彬彬以5304万竞得佳源创盛持有的4000万股限售股。若本次司法拍卖完成过户，佳源创盛持有公司股份减少至9316.52万股，占公司总股本的8.1%，深圳宝立盛实业发展合伙企业持有公司1亿股，将成为公司第一大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5214939.d.html</link>
-            <guid>3736097</guid>
-            <pubDate>Tue, 13 Aug 2024 11:44:42 GMT</pubDate>
+            <title><![CDATA[【伊朗官员：如果加沙达成停火协议，可能会取消报复计划】据报道，三名伊朗官员周二表示，伊朗对以色列的袭击可能会推迟，因为本周晚些时候有望就加沙人质释放和停火协议进行谈判。这表明，如果协议取得成功，伊朗可能不会对以色列进行直接报复。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8346824.d.html</link>
+            <guid>3736281</guid>
+            <pubDate>Tue, 13 Aug 2024 14:20:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息人士：加沙达成永久停火可能会推迟伊朗对以色列的报复行动】据报道，三名伊朗高级官员表示，只有本周双方有望达成加沙停火协议，才能阻止伊朗对以色列在其领土上暗杀哈马斯领导人哈尼亚的事件进行直接报复。此前伊朗誓言要对哈尼亚上个月底访问德黑兰时被暗杀一事作出严厉回应，并将此事归咎于以色列。以色列既没有证实也没有否认参与其中。其中一位消息人士是伊朗高级安全官员，他表示，如果加沙谈判失败，或者伊朗认为以色列在拖延谈判，伊朗将与真主党等盟友一起发动直接攻击。消息人士没有透露伊朗在做出回应之前会让谈判进行多长时间以取得进展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8437595.d.html</link>
-            <guid>3736096</guid>
-            <pubDate>Tue, 13 Aug 2024 11:44:25 GMT</pubDate>
+            <title><![CDATA[珠宝公司潘多拉CEO Alexander Lacik：钻石市场恐将在未来十年受到干扰。潘多拉（实验室）人造钻石（的产量）超过其他珠宝生产线。未来十年内，消费者对人造钻石的购买将超过从矿场开采的钻石。因为，消费者越来越在意（购买）成本和气候影响。]]></title>
+            <guid>3736280</guid>
+            <pubDate>Tue, 13 Aug 2024 14:19:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中信万科消费基础设施Pre-REIT基金成立 投向北京与深圳两广场项目】记者获悉，万科在今天宣布，已与中信金石、中证投资及泰康人寿签署合作协议，共同设立中信万科消费基础设施Pre-REIT基金。投资万科旗下深圳龙岗万科广场、北京旧宫万科广场项目。根据公告显示，此次Pre-REIT基金总规模为22.34亿元人民币，其中泰康人寿认缴35.00%，中证投资及中信金石认缴8.95%，万科集团暂认缴56.05%，后续将把36.05%的认缴份额转让给其他机构。截至今年7月，国内REITs已合计融资规模超千亿，当下REITs市场发展仍有巨大空间，多层次REITs市场建设有待推进，Pre-REIT基金将成为重要组成部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8437462.d.html</link>
-            <guid>3736095</guid>
-            <pubDate>Tue, 13 Aug 2024 11:44:05 GMT</pubDate>
+            <title><![CDATA[俄罗斯外交部：俄罗斯召见摩尔多瓦特使，就西方向乌克兰提供的F-16战斗机将在摩尔多瓦驻扎的报道表达关切。]]></title>
+            <guid>3736279</guid>
+            <pubDate>Tue, 13 Aug 2024 14:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【再升科技：上半年净利润同比下降6.3% 拟10派0.3元】再升科技8月13日晚间发布半年报，上半年实现营业收入7.51亿元，同比下降8.67%；归属于上市公司股东的净利润7615.48万元，同比下降6.3%。拟向全体股东每10股派发现金股利0.3元（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5214665.d.html</link>
-            <guid>3736094</guid>
-            <pubDate>Tue, 13 Aug 2024 11:43:52 GMT</pubDate>
+            <title><![CDATA[【中石科技：公司柔性石墨等产品可以应用于折叠屏手机中】中石科技在互动平台表示，公司柔性石墨等产品可以应用于折叠屏手机中。公司散热材料产品在不同尺寸的折叠屏手机中均可应用，产品技术本身没有差异化。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8345685.d.html</link>
+            <guid>3736278</guid>
+            <pubDate>Tue, 13 Aug 2024 14:15:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【凯雷将以38亿美元收购百特肾脏护理子公司Vantive】百特公司与全球投资公司凯雷管理的基金8月13日宣布，双方已签署最终协议，凯雷将以38亿美元收购百特的肾脏护理子公司Vantive。根据最终协议的条款，在某些交易完成调整后，百特将获得约35亿美元现金，目前估计税后净收益约为30亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5214574.d.html</link>
-            <guid>3736093</guid>
-            <pubDate>Tue, 13 Aug 2024 11:43:32 GMT</pubDate>
+            <title><![CDATA[官方数据显示，截至8月11日，欧盟2024/25年大豆进口量为121万吨，而去年同期为152万吨。]]></title>
+            <guid>3736277</guid>
+            <pubDate>Tue, 13 Aug 2024 14:11:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁德时代：M3P电池已落地奇瑞与华为合作车型】宁德时代在互动平台表示，公司M3P电池已落地奇瑞与华为合作的车型，也在推进与其他客户的项目合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0165692.d.html</link>
-            <guid>3736092</guid>
-            <pubDate>Tue, 13 Aug 2024 11:42:32 GMT</pubDate>
+            <title><![CDATA[美国汽车工人联合会（UAW）：已对美国前总统特朗普和特斯拉CEO马斯克提起联邦劳动指控，指控二人“试图恐吓和威胁工人”。]]></title>
+            <guid>3736275</guid>
+            <pubDate>Tue, 13 Aug 2024 14:11:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金力永磁：拟向全资子公司增资不超过1.5亿元】金力永磁公告，公司拟以H股募集资金向全资子公司金力宁波投资增资不超过1.5亿元，并通过金力宁波投资以本次增资款参与投资成都基金和赣州富海基金。增资完成后，金力宁波投资注册资本将由2亿元增加至3.5亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3400265.d.html</link>
-            <guid>3736091</guid>
-            <pubDate>Tue, 13 Aug 2024 11:41:23 GMT</pubDate>
+            <title><![CDATA[ PIPER SANDLER：将星巴克目标价格从85美元上调至103美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0070244.d.html</link>
+            <guid>3736273</guid>
+            <pubDate>Tue, 13 Aug 2024 14:10:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【宁德时代：天行电池为液态电池 实现8年80万公里超长寿命】有投资者问，公司的天行电池是液态电池还是固态电池。宁德时代在互动平台表示，公司推出了商用动力电池品牌——“宁德时代天行”，发布的天行轻型商用车（L）超充版和长续航版可分别实现4C超充能力和500公里超长续航，均实现了8年80万公里超长寿命，是液态电池。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5213658.d.html</link>
-            <guid>3736089</guid>
-            <pubDate>Tue, 13 Aug 2024 11:40:26 GMT</pubDate>
+            <title><![CDATA[法拉第未来美股一度跌逾7%，10年累计交付13辆汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5121298.d.html</link>
+            <guid>3736272</guid>
+            <pubDate>Tue, 13 Aug 2024 14:08:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【剑桥科技：浙江基地规划100G、400G、800G高速光模块 产品良率已达预期】剑桥科技在互动平台表示，浙江剑桥光电子技术智造基地项目规划的产品方案包括了100G、400G、800G等高速光模块产品。目前，该项目的基建工作正按施工计划有条不紊地推进中。关于高端光模块产品良率，公司从研发端到生产端都进行了大量的投入和反复的验证测试，当前各规格产品的良率达到产品设计的预期，公司也在不断从过程中总结经验教训，以持续提升良率。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0164969.d.html</link>
-            <guid>3736088</guid>
-            <pubDate>Tue, 13 Aug 2024 11:39:59 GMT</pubDate>
+            <title><![CDATA[【最高补贴2万元 4.31万湖北人喜换新车】截至8月8日，湖北省共有4.31万人申请汽车以旧换新补贴，完成家电以旧换新26.1万台，带动新车和家电产品销售超92亿元。今年5月底，湖北安排3亿元补贴汽车置换更新；6月，安排3.5亿元补贴家电家居以旧换新。省商务厅消费处处长刘默介绍，在全国范围内，省级政府自主单列资金用于汽车置换更新补贴的举措较少见，此举将加快推动居民汽车消费潜力释放。（湖北日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8343770.d.html</link>
+            <guid>3736270</guid>
+            <pubDate>Tue, 13 Aug 2024 14:07:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据消息人士：信实集团和迪士尼为赢得印度媒体合并的反垄断批准而提出让步。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8436047.d.html</link>
-            <guid>3736087</guid>
-            <pubDate>Tue, 13 Aug 2024 11:39:20 GMT</pubDate>
+            <title><![CDATA[【特斯拉涨超3.2% 两款Cybertruck车型各涨价2万美元】特斯拉涨超3.2%，报203.92美元。消息面上，特斯拉电动皮卡Cybertruck迎来重大调整，官方配置器已下架原本计划于2025年交付、售价60990美元(约合43.8万元人民币)的后轮驱动入门版车型。与此同时，全轮驱动版车型的售价从79990美元涨至99990美元(约合71.8万元)，顶配性能版Cyberbeast的售价从99990美元涨至119990美元(约合86.1万元人民币)，涨幅均为2万美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0069264.d.html</link>
+            <guid>3736265</guid>
+            <pubDate>Tue, 13 Aug 2024 14:05:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国轮船损坏波罗的海天然气管道？外交部回应】8月13日，外交部发言人林剑答记者问。路透社记者：据报道，中国承认去年10月一艘悬挂香港特区旗帜的中国轮船损坏了爱沙尼亚和芬兰间的波罗的海天然气管道，但这是一起意外事故。中方对事故开展了内部调查，并于近期向有关国家通报了调查结果，称事故由强风暴导致。发言人能否证实中方开展了调查并得出了结论？调查结果与报道是否一致？调查结果是否明确了中方的下步行动？（法新社、彭博社记者亦问及）林剑：中方一贯主张国际社会应当加强合作，共同维护海底基础设施安全。中方正在根据事实和法律推进调查，并同相关国家保持密切沟通。希望各方继续以专业、客观、合作态度推进调查工作，共同确保事件得到稳妥处置。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3399314.d.html</link>
-            <guid>3736086</guid>
-            <pubDate>Tue, 13 Aug 2024 11:37:31 GMT</pubDate>
+            <title><![CDATA[【雷电微力：星间链路毫米波微系统已应用于北斗导航卫星】雷电微力在互动平台表示，公司开发的星间链路毫米波微系统已成功应用于北斗导航卫星，卫星通信领域也是我们的重要发展方向，未来公司会结合自身优势，积极进行相关产品的开发及应用。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3304069.d.html</link>
+            <guid>3736264</guid>
+            <pubDate>Tue, 13 Aug 2024 14:05:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[执掌《财经》杂志26年后，王波明宣布辞去总编辑职务：已到退休年龄。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5211633.d.html</link>
-            <guid>3736084</guid>
-            <pubDate>Tue, 13 Aug 2024 11:34:28 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：尽管政府做出了努力，但市场预计未来几年的财政前景将充满挑战。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8343089.d.html</link>
+            <guid>3736263</guid>
+            <pubDate>Tue, 13 Aug 2024 14:05:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【通威股份：拟收购润阳股份控股权】通威股份公告，公司拟与润阳股份、上海悦达新实业集团新能源有限公司等相关股东签订《增资意向协议》。根据协议，江苏悦达集团有限公司将对润阳股份进行现金增资10亿元，并在通威股份完成尽职调查和审计评估后，通威股份将以自有或自筹资金向润阳股份进行现金增资，同时现金收购悦达集团前述10亿元增资取得的润阳股份股权，合计取得润阳股份不低于51%的股权。该交易总金额不超过50亿元，交易完成后，润阳股份将成为通威股份的控股子公司。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3398168.d.html</link>
-            <guid>3736083</guid>
-            <pubDate>Tue, 13 Aug 2024 11:33:16 GMT</pubDate>
+            <title><![CDATA[【上海：构建科技成果转移转化的主阵地 建设农业农村现代化的新高地】上海市委副书记、市长龚正今天（13日）在调研嘉定区时指出，要进一步激发产业潜力、发展动力和乡村活力，打造培育发展新质生产力的承载区，构建科技成果转移转化的主阵地，建设农业农村现代化的新高地，锻造上海增长新引擎，让人民群众有更大的获得感、幸福感、安全感。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5120272.d.html</link>
+            <guid>3736262</guid>
+            <pubDate>Tue, 13 Aug 2024 14:05:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江南化工：收到控股股东特能集团2024年中期分红提议】江南化工公告，公司于2024年8月13日收到控股股东特能集团出具的《关于提议安徽江南化工股份有限公司实施2024年中期分红的函》。特能集团提议公司实施2024年中期分红，建议以公司实施权益分派股权登记日登记的公司股份总数为基数，向全体股东每10股派发现金红利0.10元（含税），不送红股，不以资本公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3398120.d.html</link>
-            <guid>3736082</guid>
-            <pubDate>Tue, 13 Aug 2024 11:33:04 GMT</pubDate>
+            <title><![CDATA[【广东多城收购商品房用作保障性住房：肇庆市优先考虑中心城区已建成存量商品房】8月12日，广东省肇庆市住房和城乡建设局发布《关于征集商品房用作保障性住房的公告》，征集时间截至2024年8月30日。根据公告，房源征集拟在肇庆市各县（市、区）中心区域，优先考虑中心城区已建成存量商品房。以同地段重置价格为参考上限，即划拨土地成本和建安成本加不超过5%的利润。一线城市深圳、广州已加入开展收购商品房用作保障性住房活动行列。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0068848.d.html</link>
+            <guid>3736261</guid>
+            <pubDate>Tue, 13 Aug 2024 14:03:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部：日方应认真倾听国内外的正义呼声 正确认识并深刻反省日本军国主义侵略历史】2024年8月13日外交部发言人林剑答记者问。总台央视记者：据报道，近日，原侵华日军第七三一部队成员清水英男一行前往位于哈尔滨的731部队罪证陈列馆、731部队旧址指认731部队罪行。报道称，清水英男是目前唯一在世、愿意公开揭露日本细菌部队罪恶的731部队成员。中方对此有何评论？林剑：第二次世界大战期间，侵华日军公然违反国际法，对中国人民发动了令人发指的细菌战，进行了惨无人道的人体活体试验，犯下了反人类的滔天罪行。日本军国主义发动细菌战的事实铁证如山，不容否认和抵赖。我们赞赏清水英男先生揭露和直面历史真相的勇气。日方应认真倾听国内外的正义呼声，正确认识并深刻反省日本军国主义侵略历史，切实尊重中国等亚洲受害国人民的感情，以史为鉴，消除遗毒，不要重蹈历史旧辙。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8433579.d.html</link>
-            <guid>3736081</guid>
-            <pubDate>Tue, 13 Aug 2024 11:31:49 GMT</pubDate>
+            <title><![CDATA[【拼多多推出技术服务费可退权益】8月13日获悉，拼多多将向报名参与站内资源位活动的商家，推出技术服务费可退权益。用户在活动期间取消、退款的订单，以及确认收货后的退款订单，商家均可享受技术服务费退返权益，这也进一步降低了商家的经营成本。（界面新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5119700.d.html</link>
+            <guid>3736260</guid>
+            <pubDate>Tue, 13 Aug 2024 14:02:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部：中方正告菲方立即停止在黄岩岛的侵权挑衅行径 不得肆意妄为】2024年8月13日外交部发言人林剑答记者问。法新社记者：据报道，10日菲律宾武装部队总参谋长布劳纳称，两架中国空军战机8日在飞越黄岩岛时采取危险动作。11日，菲总统马科斯谴责中方行为“非法且鲁莽”。中方对此有何回应？能否提供更多细节？中菲是否将举行会谈缓和局势？林剑：黄岩岛是中国固有领土，中国对黄岩岛及其附近海空域拥有无可争辩的主权。8月7日、8日，菲方军机两次侵闯黄岩岛邻近空域，严重侵犯中方主权，严重违反国际法和国际关系基本准则。中国军队依法采取必要处置措施，现场操作专业规范，符合中国国内法和国际法。需要指出的是，菲方是在伙同美国、澳大利亚、加拿大开展所谓南海联合巡航期间派军机侵闯中国黄岩岛空域，是别有用心的恶意挑衅。中方正告菲方立即停止在黄岩岛的侵权挑衅行径，不得肆意妄为。中方将继续依法采取坚决措施，坚定维护国家领土主权和海洋权益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8433172.d.html</link>
-            <guid>3736080</guid>
-            <pubDate>Tue, 13 Aug 2024 11:30:34 GMT</pubDate>
+            <title><![CDATA[【李如东获批出任中信消金董事长，曾为百信银行首任行长】8月12日，国家金融监督管理总局北京监管局披露的任职资格批复显示，核准李如东中信消费金融有限公司（下称中信消金）董事长的任职资格。与此同时，北京金融监管局还核准了邵冰、朱立群两人中信消金董事的任职资格。李如东于1996年进入中信银行，此前为中信百信银行首任行长，于今年5月因工作调整辞职。从公开信息可见，辞任百信银行行长后，李如东即入职中信消金，其在今年6月还曾考察西部金融法律服务中心。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5119181.d.html</link>
+            <guid>3736258</guid>
+            <pubDate>Tue, 13 Aug 2024 14:00:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国天楹：上半年净利润同比增长118.93%】中国天楹公告，上半年营业收入2,648,838,297.03元，同比增长10.92%。归属于上市公司股东的净利润为360,070,015.53元，同比增长118.93%。公司的主要业务包括环保业务和新能源业务。在环保业务方面，公司主要从事垃圾焚烧发电、城乡环境卫生服务和环保装备制造。在新能源业务方面，公司主要从事新能源发电和风光储氢氨醇一体化业务。公司的核心竞争力包括人才优势、创新优势、品牌优势、制造优势和资本优势。此外，公司还计划不派发现金红利，不送红股，不以公积金转增股本。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8432969.d.html</link>
-            <guid>3736079</guid>
-            <pubDate>Tue, 13 Aug 2024 11:29:51 GMT</pubDate>
+            <title><![CDATA[【浙江省政府出台意见：高水平建设民航强省，打造低空经济发展高地】近日，浙江省人民政府印发《关于高水平建设民航强省 打造低空经济发展高地的若干意见》，提出到2027年，基本建成航空服务全省覆盖、航线网络全球通达、空港枢纽多式便捷、航空产业高能集聚、低空经济先行引领、行业治理顺畅高效的高水平民航强省和低空经济发展高地；到2035年，全面建成高水平民航强省和低空经济发展高地。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0067952.d.html</link>
+            <guid>3736257</guid>
+            <pubDate>Tue, 13 Aug 2024 13:59:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中毅达：拟定增募资不超2.1亿元】中毅达公告，公司拟以向特定对象发行股票的方式向天津信璟发行境内上市人民币普通股（A股）股票，募集资金不超过2.1亿元，扣除发行费用后的募集资金净额拟全部用于补充流动资金及偿还借款。天津信璟为公司控股股东、实际控制人控制的关联方。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8432908.d.html</link>
-            <guid>3736078</guid>
-            <pubDate>Tue, 13 Aug 2024 11:29:23 GMT</pubDate>
+            <title><![CDATA[海外投资者8月13日净买入583亿印度卢比（约合6.94亿美元）的印度股票衍生品。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8341602.d.html</link>
+            <guid>3736256</guid>
+            <pubDate>Tue, 13 Aug 2024 13:58:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【越共中央总书记、国家主席苏林将于本月18日开始访华？外交部回应】有记者提问：据消息人士称，越共中央总书记、国家主席苏林正在为访华做准备。据悉苏将于本月18日开始访华，并可能在下周初与中国领导人举行会谈。中方能否证实并进一步介绍有关情况？外交部发言人林剑表示，中越是具有战略意义的命运共同体，不久前，习近平总书记致电祝贺苏林当选越共中央总书记。中方愿同越方一道，以两党两国最高领导人战略共识为引领，推动中越命运共同体建设走深走实。关于你提到的问题，目前我没有可以提供的信息。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3396929.d.html</link>
-            <guid>3736077</guid>
-            <pubDate>Tue, 13 Aug 2024 11:28:21 GMT</pubDate>
+            <title><![CDATA[英特尔上涨3.13%，报19.965美元/股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8341426.d.html</link>
+            <guid>3736255</guid>
+            <pubDate>Tue, 13 Aug 2024 13:57:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伟星股份：2024年上半年净利润增长37.79%】伟星股份公告，2024年上半年公司实现营业收入22.96亿元，较上年同期增长25.57%；归属于上市公司股东的净利润为4.16亿元，同比增长37.79%；此外，董事会通过了2024年中期现金分红方案，每10股派发现金红利2元，不送红股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8432589.d.html</link>
-            <guid>3736076</guid>
-            <pubDate>Tue, 13 Aug 2024 11:27:57 GMT</pubDate>
+            <title><![CDATA[受因欧佩克下调石油需求前景，布油期货下跌超过1美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3302018.d.html</link>
+            <guid>3736254</guid>
+            <pubDate>Tue, 13 Aug 2024 13:55:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【风投圈大消息 国风投基金领投成立航空】据国新基金8月13日消息，近日，中国国有资本风险投资基金（简称国风投基金）所属国风投（北京）智造转型升级基金领投成立航空股份有限公司（简称成立航空）过亿元融资。据了解，成立航空成立于2015年，是国内极少数专注于喷嘴制造工艺并具备两机燃烧室整体生产能力的民营两机热端静止部件供应商。公司是高新技术企业和国家级专精特新“小巨人”企业，具备以验证设计开发、系统工程制造、试验调试检测技术为核心的竞争力，成功研制批产了燃油喷射系统、燃烧室其他部件及单元体，现已成为国内航空发动机、燃气轮机领域龙头客户的主要供应商。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8432044.d.html</link>
-            <guid>3736075</guid>
-            <pubDate>Tue, 13 Aug 2024 11:26:18 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：劳动力市场一直非常乐观，工资水平也是如此。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8340667.d.html</link>
+            <guid>3736252</guid>
+            <pubDate>Tue, 13 Aug 2024 13:53:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【ST旭电：连续十九个交易日均低于1元 面临退市风险】东旭光电公告，截至2024年8月13日，公司A、B股股票收盘价格已连续十九个交易日均低于1元，存在可能因股价低于面值被终止上市的风险。根据深交所规定，若公司A、B股股票收盘价连续二十个交易日均低于1元，将终止其股票上市交易。公司已多次发布风险提示公告。此外，公司还面临其他风险，包括被证监会立案调查、股票被实施其他风险警示、收到行政监管措施决定等。公司正积极督促相关方筹措资金偿还占用资金，并改善经营状况。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0160994.d.html</link>
-            <guid>3736074</guid>
-            <pubDate>Tue, 13 Aug 2024 11:24:11 GMT</pubDate>
+            <title><![CDATA[【以色列遭哈马斯火箭弹袭击】综合外媒最新消息，哈马斯下属武装派别称，向以色列特拉维夫发射了两枚远程火箭弹。以色列国防军还证实，哈马斯从加沙方向发射的火箭弹落入以色列中部海岸附近海域，但第二枚火箭弹未能越过边界，落在加沙境内。以色列当地媒体报道称，在特拉维夫听到了爆炸声，暂无人员伤亡的报告。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0066805.d.html</link>
+            <guid>3736251</guid>
+            <pubDate>Tue, 13 Aug 2024 13:53:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【舒泰神：香塘集团拟减持不超过1%】舒泰神公告，持有公司4147.27万股的香塘集团有限公司计划在公告披露之日起15个交易日后的3个月内，通过集中竞价方式减持不超过477.77万股。（占总股本的1%）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0160799.d.html</link>
-            <guid>3736073</guid>
-            <pubDate>Tue, 13 Aug 2024 11:23:17 GMT</pubDate>
+            <title><![CDATA[【江苏：到2025年分布式光伏接网能力将扩容至50GW以上】 江苏省发改委印发《省发展改革委关于高质量做好全省分布式光伏接网消纳的通知》，未来将重点提升电网综合承载能力，到2025年分布式光伏接网能力将扩容至50GW以上，到2030年将不低于80GW。在具体措施方面，部分资源条件较好的地区可适当放宽新能源消纳利用率条件，分布式光伏渗透率超过50%，则及时启动专项配电网规划工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5117728.d.html</link>
+            <guid>3736250</guid>
+            <pubDate>Tue, 13 Aug 2024 13:52:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北路智控：2024年上半年净利润同比下降16.81%】北路智控公告，2024年上半年实现营业收入4.97亿元，同比增长17.14%。归属于上市公司股东的净利润为8314.93万元，同比下降16.81%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5208141.d.html</link>
-            <guid>3736072</guid>
-            <pubDate>Tue, 13 Aug 2024 11:22:11 GMT</pubDate>
+            <title><![CDATA[【1—7月新疆通行中欧（中亚）班列9175列】从中国铁路乌鲁木齐局集团有限公司获悉：1—7月，新疆通行中欧（中亚）班列9175列，同比增长8.4%。今年以来，新疆铁路部门优化中欧（中亚）班列运输组织，提升中欧（中亚）班列开行质量，吸引了越来越多的中欧（中亚）班列在新疆汇聚、通关。阿拉山口和霍尔果斯铁路口岸通行班列数量稳定增长，霍尔果斯铁路口岸进出境中欧（中亚）班列比去年提前3天突破4000列大关，阿拉山口铁路口岸进出境中欧班列比去年提前28天突破4000列大关。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0066675.d.html</link>
+            <guid>3736249</guid>
+            <pubDate>Tue, 13 Aug 2024 13:52:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【剑桥科技：与华为在光模块领域保持良好合作关系】剑桥科技在互动平台表示，公司与华为在光模块领域保持着良好的合作关系。受限于与客户签订的保密协议，恕公司不便透露相关信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5207296.d.html</link>
-            <guid>3736071</guid>
-            <pubDate>Tue, 13 Aug 2024 11:18:57 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：巴西CPI数据令人担忧。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0066477.d.html</link>
+            <guid>3736248</guid>
+            <pubDate>Tue, 13 Aug 2024 13:51:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华海诚科：多年前已布局汽车电子行业 多款产品已实现批量销售】有投资者问华海诚科，公司产品可以用于汽车芯片生产吗？ 华海诚科在互动平台表示，公司的常规产品和无硫EMC可以用于汽车电子的封装。公司多年前已布局汽车电子行业，多款产品已实现批量销售。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3394535.d.html</link>
-            <guid>3736070</guid>
-            <pubDate>Tue, 13 Aug 2024 11:18:45 GMT</pubDate>
+            <title><![CDATA[【香港金管局及数码港推出GenA.I.沙盒，推动金融业应用人工智能】 香港金管局与数码港宣布推出新的生成式人工智能（GenA.I.）沙盒，并通过与业界交流合作，参考GenA.I.沙盒经验，分享良好做法，同时确保有相关和适切监管指引，以配合最新发展。香港金管局总裁余伟文表示，新的GenA.I.沙盒属突破性举措，目的为促进银行业负责任地创新发展GenA.I.。沙盒将协助银行在风险可控框架内测试各种GenA.I.创新用例，并提供所需技术支持和针对性监管意见。金管局鼓励银行充分利用沙盒，以发挥GenA.I.在提升风险管理、反诈骗及客户体验方面的潜力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0066338.d.html</link>
+            <guid>3736247</guid>
+            <pubDate>Tue, 13 Aug 2024 13:51:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【康拓医疗：上半年度净利润增长24.53%】康拓医疗公告，2024年半年度营业收入为1.53亿元，同比增长13.48%。归属于上市公司股东的净利润为4879.22万元，同比增长24.53%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8429654.d.html</link>
-            <guid>3736069</guid>
-            <pubDate>Tue, 13 Aug 2024 11:17:11 GMT</pubDate>
+            <title><![CDATA[【埃利奥特投资管理公司：欢迎星巴克新任CEO，将继续与星巴克保持沟通】 埃利奥特投资管理公司（Elliott Investment Management）8月13日就星巴克任命CEO一事发表声明称，埃利奥特已成为星巴克最大的投资者之一，因为对星巴克的长期价值创造机会充满信心。在过去的两个月里，埃利奥特一直与星巴克董事会就埃利奥特对公司关键问题的看法进行沟通，埃利奥特认为今天的公告是公司向前迈出的转型性一步。埃利奥特欢迎Brian Niccol的任命，将继续与星巴克董事会保持接触。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3300930.d.html</link>
+            <guid>3736246</guid>
+            <pubDate>Tue, 13 Aug 2024 13:50:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【鹏鼎控股：2024年上半年净利润7.84亿元 同比下降3.4%】鹏鼎控股公告，2024年上半年，公司实现营业收入131.26亿元，同比增长13.79%。归属于上市公司股东的净利润为7.84亿元，同比下降3.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0159061.d.html</link>
-            <guid>3736068</guid>
-            <pubDate>Tue, 13 Aug 2024 11:16:09 GMT</pubDate>
+            <title><![CDATA[【中国民航局：预计今年全年旅客运输量将达7亿人次】从今天上午举行的2024年亚太航空安全研讨会上了解到，今年上半年，中国民航运输总周转量、旅客运输量、货邮运输量分别比2019年同期增长11.9%、9%和18.7%，预计全年旅客运输量达7亿人次，创历史最高水平。民航局数据显示，我国民航运输规模连续18年位居全球第二，对全球航空运输增长的贡献率超过20%。目前，中国运输飞机4335架，运输机场262个，机场总容量达16亿人次，无人机年飞行达到千万小时量级，新注册无人机总数正在以月均10万架的速度增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5117138.d.html</link>
+            <guid>3736245</guid>
+            <pubDate>Tue, 13 Aug 2024 13:50:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【普京与到访的阿巴斯举行会谈 讨论双边合作及中东局势】当地时间8月13日，俄罗斯总统普京与到访的巴勒斯坦总统阿巴斯在莫斯科举行会谈。据克里姆林宫消息，会谈计划讨论双边合作发展和中东局势。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5206364.d.html</link>
-            <guid>3736067</guid>
-            <pubDate>Tue, 13 Aug 2024 11:15:37 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：核心通胀指标正在上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3300743.d.html</link>
+            <guid>3736244</guid>
+            <pubDate>Tue, 13 Aug 2024 13:49:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国元证券投行元老被带走调查 知情人士：或与违规入股IPO项目有关】日前，国元证券总裁助理、投资银行部总经理王晨被带走调查。记者从熟悉王晨的知情人士处了解到，王晨被查或与违规入股IPO项目有关。不过截至发稿，上述信息未能得到国元证券确认。（21财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5206021.d.html</link>
-            <guid>3736066</guid>
-            <pubDate>Tue, 13 Aug 2024 11:14:42 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：市场正在为巴西加息定价。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8339429.d.html</link>
+            <guid>3736243</guid>
+            <pubDate>Tue, 13 Aug 2024 13:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【德恩精工：控股股东拟减持不超过2%股份】德恩精工公告，控股股东、实际控制人之一雷永强计划在公告披露之日起15个交易日后的3个月内，以集中竞价方式减持公司股份不超过146.67万股，以大宗交易方式减持公司股份不超过146.33万股，合计减持不超过293万股。高级管理人员李锡云计划减持不超过16.8万股，合计拟减持不超过2%股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5336584.d.html</link>
-            <guid>3736065</guid>
-            <pubDate>Tue, 13 Aug 2024 11:14:01 GMT</pubDate>
+            <title><![CDATA[【8股特大单净流入超亿元】今日，8股特大单净流入超1亿元，金龙汽车特大单净流入3.45亿元，净流入资金规模居首；星网宇达特大单净流入资金1.82亿元，位列第二；净流入资金居前的还有宁德时代、西藏天路、中际旭创等。特大单净流出股中，香雪制药特大单净流出资金2.05亿元，净流出资金最多；长安汽车、以岭药业特大单净流出资金分别为2.02亿元、1.20亿元，净流出资金规模位列第二、第三。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3300205.d.html</link>
+            <guid>3736242</guid>
+            <pubDate>Tue, 13 Aug 2024 13:47:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克总理同美国务卿通电话 讨论地区局势】当地时间8月13日，伊拉克总理媒体办公室发表声明称，伊拉克总理苏达尼12日晚与美国国务卿布林肯通电话。双方在通话期间讨论了地区局势最新发展以及伊拉克支持地区和国际稳定的努力，这是8月以来双方第二次就地区局势进行通话。苏达尼在通话中重申伊拉克对破坏地区稳定行为的原则立场，指出针对加沙地带的侵略行为是导致地区局势不稳定的根源。他呼吁大国和国际组织必须充分发挥作用，制止针对巴勒斯坦人民的残暴行径，停止对该地区国家主权的侵犯。苏达尼称，伊美双方将继续沟通，以结束“国际联盟”在伊拉克的存在。布林肯在通话中重申美方将继续与伊拉克方面就地区问题保持磋商。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyne0289213.d.html</link>
-            <guid>3736064</guid>
-            <pubDate>Tue, 13 Aug 2024 11:13:50 GMT</pubDate>
+            <title><![CDATA[SYROS制药公司股价下跌59.3%，此前中期数据显示，该公司的罕见血癌治疗不太可能在研究中取得成功。]]></title>
+            <guid>3736241</guid>
+            <pubDate>Tue, 13 Aug 2024 13:45:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【禾川科技成立人形机器人公司 注册资本5000万】天眼查App显示，近日，浙江禾川人形机器人有限公司成立，法定代表人为王志斌，注册资本5000万人民币，经营范围含服务消费机器人制造、智能机器人的研发、服务消费机器人销售、输配电及控制设备制造、智能输配电及控制设备销售、人工智能硬件销售、人工智能应用软件开发、信息咨询服务等。股东信息显示，该公司由禾川科技（688320）、王志斌分别持股60%、40%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5336066.d.html</link>
-            <guid>3736063</guid>
-            <pubDate>Tue, 13 Aug 2024 11:12:27 GMT</pubDate>
+            <title><![CDATA[【希腊首都东北郊山火得到控制】希腊政府13日宣布，蔓延至首都雅典东北郊的山火当天凌晨得到控制。大火目前已造成一人死亡、18人受伤，大量林地和房屋被毁。 在高温干燥和强风天气共同作用下，11日下午发生于雅典东北40多公里处的山火12日加速蔓延，雅典东北郊多座房屋和商铺被焚毁，部分地区电力中断。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8338545.d.html</link>
+            <guid>3736240</guid>
+            <pubDate>Tue, 13 Aug 2024 13:45:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国天楹：签署48.5亿元绿氢项目投资协议】中国天楹公告，公司全资子公司辽源天楹制氢科技有限公司与辽源高新技术产业开发区管委会签署《绿氢项目投资合作协议书》，计划在辽源高新区化工园区投资、建设与运营年产15万吨绿氢项目，项目总投资48.5亿元。首期建设年产4万吨绿氢产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyne0288294.d.html</link>
-            <guid>3736061</guid>
-            <pubDate>Tue, 13 Aug 2024 11:10:19 GMT</pubDate>
+            <title><![CDATA[CXAPP股价上涨84.3%，此前该公司宣布与谷歌云达成战略协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzy0064515.d.html</link>
+            <guid>3736239</guid>
+            <pubDate>Tue, 13 Aug 2024 13:44:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【得造科技获数亿元A轮投资】近日，得造科技宣布获数亿元A轮投资，投资方包括顺为资本、小米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8558143.d.html</link>
-            <guid>3736060</guid>
-            <pubDate>Tue, 13 Aug 2024 11:10:14 GMT</pubDate>
+            <title><![CDATA[Elliott对星巴克任命Brian NICCOL为董事长兼首席执行官表示欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5115442.d.html</link>
+            <guid>3736237</guid>
+            <pubDate>Tue, 13 Aug 2024 13:42:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊朗消息人士：加沙达成永久停火可能会推迟伊朗对以色列的报复行动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5335281.d.html</link>
-            <guid>3736059</guid>
-            <pubDate>Tue, 13 Aug 2024 11:09:44 GMT</pubDate>
+            <title><![CDATA[【何小鹏直播“光电测试”，建议业内卷能耗，不要卷续航】 8月13日，何小鹏宣布开启直播挑战，亲测小鹏G6电耗表现。在直播中，何小鹏强调，电池大不一定续航长。何小鹏建议行业内不要再卷续航里程了，建议大家卷能耗。公开数据显示，2024年7月，小鹏汽车共交付新车11145台，同比增长1%，环比增长4%。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5114900.d.html</link>
+            <guid>3736234</guid>
+            <pubDate>Tue, 13 Aug 2024 13:40:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第一三共/阿斯利康明星ADC肿瘤药在华获批第三个适应证】第一三共和阿斯利康共同宣布，由双方共同开发和商业化的针对 HER2 靶向抗体偶联药物（ADC）德曲妥珠单抗（商品名：优赫得）获国家药品监督管理局附条件批准单药用于治疗既往接受过两种或两种以上治疗方案的局部晚期或转移性HER2阳性成人胃或胃食管结合部腺癌患者。优赫得是由第一三共研制的靶向HER2抗体偶联药物，并在全球范围内由第一三共和阿斯利康联合开发和商业化。此前，该药已在中国已经获批用于乳腺癌相关的两个适应证，此次获批的第三个新适应证意味该药正式拓展至第二个实体肿瘤领域。此次附条件获批是基于在中国人群中进行的DESTINY-Gastric06 二期临床研究的积极结果。该适应证能否完全批准，将取决于正在进行的随机对照确证临床试验能否证明该人群的临床获益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8557779.d.html</link>
-            <guid>3736058</guid>
-            <pubDate>Tue, 13 Aug 2024 11:09:01 GMT</pubDate>
+            <title><![CDATA[土耳其基准股指跌1.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3298314.d.html</link>
+            <guid>3736233</guid>
+            <pubDate>Tue, 13 Aug 2024 13:39:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【秘鲁南部山区发生4.7级地震】据美国地质调查局发布的报告，当地时间8月13日凌晨1时36分，秘鲁南部安第斯山区发生里氏4.7级地震。震中位于乌尔科斯市以西10公里，震源深度57.9公里。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyne0287833.d.html</link>
-            <guid>3736057</guid>
-            <pubDate>Tue, 13 Aug 2024 11:08:20 GMT</pubDate>
+            <title><![CDATA[巴西央行行长：央行越独立，通货膨胀率就越低。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3298277.d.html</link>
+            <guid>3736232</guid>
+            <pubDate>Tue, 13 Aug 2024 13:39:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中信国安：多个股民向公司提起证券虚假陈述责任纠纷之诉】中信国安8月13日晚间公告，公司于近日收到北京市第三中级人民法院陆续送达的《民事起诉状》等相关法律文件，多个股民向公司提起证券虚假陈述责任纠纷之诉，请求法院判令公司赔偿其投资损失，金额合计为2641.34万元。截至目前，上述案件已立案，尚未开庭审理。截至本公告日，公司未达到披露标准的以公司或子公司为被告的诉讼、仲裁事项累计金额为1.09亿元，主要为证券虚假陈诉责任纠纷及劳动争议等案件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3521211.d.html</link>
-            <guid>3736055</guid>
-            <pubDate>Tue, 13 Aug 2024 11:03:57 GMT</pubDate>
+            <title><![CDATA[高盛将Ascendis Pharma目标股价从170.00美元上调至195.00美元。]]></title>
+            <guid>3736231</guid>
+            <pubDate>Tue, 13 Aug 2024 13:38:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国务院、中央军委公布实施新修订的《军人抚恤优待条例》】国务院、中央军委日前公布新修订的《军人抚恤优待条例》，自2024年10月1日起施行。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5333048.d.html</link>
-            <guid>3736054</guid>
-            <pubDate>Tue, 13 Aug 2024 11:03:25 GMT</pubDate>
+            <title><![CDATA[【腾讯音乐美股大跌17%】 腾讯音乐美股大跌17%，公司二季度总收入71.6亿元，同比下降1.7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3297845.d.html</link>
+            <guid>3736230</guid>
+            <pubDate>Tue, 13 Aug 2024 13:37:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【万科A：与专业投资机构合作投资基金】万科A公告，公司下属子公司万聚盈通、深圳万科与中信金石等公司共同投资设立中信万科消费基础设施基金，募集规模为人民币22.34亿元，主要用于收购万科的北京旧宫万科广场和深圳龙岗万科广场资产。万聚盈通认缴出资1,000万元，深圳万科认缴出资124,215.70万元，合计占基金比例为56.05%。此次投资旨在落实公司“一揽子方案”，有助于公司聚焦主业、瘦身健体，构建可持续的资产证券化平台。同时，公司提醒存在基金投资实施中可能因政策调整等因素导致无法达成投资目的的风险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8555281.d.html</link>
-            <guid>3736053</guid>
-            <pubDate>Tue, 13 Aug 2024 11:01:34 GMT</pubDate>
+            <title><![CDATA[德国内政部长法瑟：边境管制将在必要时继续实施，必要时甚至会延续至12月15日之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipkzw3297357.d.html</link>
+            <guid>3736229</guid>
+            <pubDate>Tue, 13 Aug 2024 13:35:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年我国快递业务量突破千亿件 月均快递业务收入超1000亿元】国家邮政局数据显示，截至8月13日，今年我国快递业务量已突破1000亿件。今年以来我国邮政快递业持续快速发展，月均快递业务量超130亿件，月均快递业务收入超1000亿元，均创历史新高。截至目前，我国已累计建成1200多个县级公共寄递服务中心、超30万个村级寄递物流综合服务站，建成了较为完善的农村寄递物流体系。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5332523.d.html</link>
-            <guid>3736052</guid>
-            <pubDate>Tue, 13 Aug 2024 11:01:23 GMT</pubDate>
+            <title><![CDATA[【星巴克大涨超20%，总市值站上1000亿美元】 星巴克在美股盘初大涨超20%，总市值站上1000亿美元。此前公司任命来自Chipotle的BrianNiccol担任首席执行官兼董事长。Baird将星巴克的目标价从81美元上调至110美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8336452.d.html</link>
+            <guid>3736228</guid>
+            <pubDate>Tue, 13 Aug 2024 13:35:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【波兰华沙一客车撞上公交车站 致1死9伤】当地时间8月13日，波兰华沙市区沃罗尼察街，一辆客车撞上公交车站，造成1人死亡、9人受伤。警方发言人称，肇事司机神志清醒，事故原因正在调查中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8554664.d.html</link>
-            <guid>3736050</guid>
-            <pubDate>Tue, 13 Aug 2024 10:59:21 GMT</pubDate>
+            <title><![CDATA[特朗普接受马斯克采访后，特朗普传媒科技集团股价下跌4.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5113209.d.html</link>
+            <guid>3736226</guid>
+            <pubDate>Tue, 13 Aug 2024 13:33:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【底价20.35万元，这家基金子公司60%股权被转让 工作人员：标的公司已无基金牌照】记者注意到，信达新兴财富（北京）资产管理有限公司（称“信达新兴资产”）60%股权被挂牌转让，转让底价为20.35万元。据了解，信达新兴资产是信达澳亚基金旗下全资子公司。记者以意向方的身份致电交易机构进行询问，相关工作人员表示，信达新兴资产目前已无基金牌照，只是一家普通的商业公司。其转让的原因主要是出于业务发展战略，清理相关无效资产。（21财经）]]></title>
-            <guid>3736049</guid>
-            <pubDate>Tue, 13 Aug 2024 10:58:41 GMT</pubDate>
+            <title><![CDATA[【 沃尔核材：目前航空领域的销售额占公司整体销售额的比例较小】8月13日，沃尔核材在互动平台表示，公司产品可广泛应用于核电及航空等众多领域。在核电领域，公司为国内首家获批K1类（适用于安全壳内）电缆附件许可证、同时获批K1类和K3类（适用于安全壳外）电缆附件许可证的厂家，已签订的合同金额累计超2亿元；在航空领域，公司CEHS、CELB系列热缩绝缘套管已应用在ARJ21、C919国产机型，目前航空领域的销售额占公司整体销售额的比例较小。]]></title>
+            <guid>3736225</guid>
+            <pubDate>Tue, 13 Aug 2024 13:32:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沈阳：加快布局低空经济新赛道 培育壮大产业集群】据沈阳发布8月13日消息，沈阳市委于8月12日召开专题会议，研究部署低空经济高质量发展工作。辽宁省委副书记、沈阳市委书记王新伟在会上表示，沈阳低空经济产业结构比较完整、发展要素基本齐全、空域条件良好、技术积累及人才储备坚实，发展潜力巨大。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3518746.d.html</link>
-            <guid>3736047</guid>
-            <pubDate>Tue, 13 Aug 2024 10:54:49 GMT</pubDate>
+            <title><![CDATA[【中企投建博茨瓦纳最大规模光伏电站】博茨瓦纳电力公司12日与中博绿能有限公司签署供电采购协议，正式启动博茨瓦纳朱瓦能百兆瓦级光伏电站项目的建设。 博茨瓦纳总统马西西当天在签字仪式上说，该项目是博茨瓦纳实现能源转型的关键项目，“符合博茨瓦纳能源政策目标，即为可持续发展提供负担得起、可靠和充足的能源供应”。 该项目为博茨瓦纳规模最大光伏电站项目，由中博绿能有限公司投建和运营，供电采购协议持续25年。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmae5112867.d.html</link>
+            <guid>3736224</guid>
+            <pubDate>Tue, 13 Aug 2024 13:32:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东方电气于威海2亿元成立新能源公司】企查查APP显示，近日，东方电气（威海）新能源有限公司成立，法定代表人为文利，注册资本为2亿元，经营范围包含：发电业务、输电业务、供（配）电业务；电气安装服务；建设工程设计；风电场相关装备销售；太阳能发电技术服务；光伏发电设备租赁等。企查查股权穿透显示，该公司由东方电气下属东方电气风电股份有限公司、东方电气集团东方汽轮机有限公司、东方电气集团智慧光能有限公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5330420.d.html</link>
-            <guid>3736046</guid>
-            <pubDate>Tue, 13 Aug 2024 10:54:03 GMT</pubDate>
+            <title><![CDATA[【多地调整应届生认定政策：缴了社保也可以是应届生】 近日，山东、湖南、贵州、广西等多个省份人社部门发文，调整应届生身份的认定标准，明确在省内事业单位招考中，不再审核其是否有工作经历和缴纳社保的情况，放宽了应届生的认定标准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8335485.d.html</link>
+            <guid>3736223</guid>
+            <pubDate>Tue, 13 Aug 2024 13:31:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金龙鱼：上半年净利润同比增长13.57%】金龙鱼公告，公司2024年上半年实现营业收入109.5亿元，同比下降7.78%；归属于上市公司股东的净利润10.97亿元，同比增长13.57%；报告期内，公司厨房食品和饲料原料及油脂科技产品的销量均有所增长，但产品价格下降影响了整体营收表现。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5330385.d.html</link>
-            <guid>3736045</guid>
-            <pubDate>Tue, 13 Aug 2024 10:53:53 GMT</pubDate>
+            <title><![CDATA[【哈马斯下属武装派别卡桑旅称袭击以色列特拉维夫】总台记者从以色列方面获悉，当地时间13日下午，以色列古什丹地区传出爆炸声，但未拉响防空警报。巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅随后宣称用两枚M90导弹袭击了特拉维夫市及周边地区。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipmaa8335238.d.html</link>
+            <guid>3736221</guid>
+            <pubDate>Tue, 13 Aug 2024 13:30:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汉森制药：2024年上半年净利润增长10.84%】汉森制药公告，公司2024年上半年实现营业收入4.8亿元，同比增长1.86%。归属于上市公司股东的净利润为1亿元，同比增长10.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8552663.d.html</link>
-            <guid>3736044</guid>
-            <pubDate>Tue, 13 Aug 2024 10:52:20 GMT</pubDate>
+            <title><![CDATA[【亿达中国：前7月集团合约销售金额约5.02亿元】 亿达中国8月13日在港交所公告，于2024年7月，集团的合约销售金额约为0.70亿元及集团的权益合约销售金额约为0.70亿元。同期，集团的销售面积为7636平方米及权益销售面积为7636平方米，集团的销售均价约为每平方米9121元及权益销售均价约为每平方米9121元。截至2024年7月31日止7个月，集团的合约销售金额约为5.02亿元及集团的权益合约销售金额约为4.97亿元。同期，集团的销售面积为42001平方米及权益销售面积为40649平方米，集团的销售均价约为每平方米11952元及权益销售均价约为每平方米12222元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5242951.d.html</link>
+            <guid>3736219</guid>
+            <pubDate>Tue, 13 Aug 2024 13:28:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【建筑钢材钢厂检修规模扩大至79家 影响产量超581万吨】据Mysteel不完全统计，截至8月12日，共有79家钢厂相继启动了检修计划，初步计算，减产检修共计影响建筑钢材产量约581万吨。与上一期相比（7月31日），检修钢厂增加41家，影响产量246万吨。其中，绝大部分钢厂减产检修集中在7月下旬至8月底（该时间段预计日产量下降超12.5万吨）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8552341.d.html</link>
-            <guid>3736043</guid>
-            <pubDate>Tue, 13 Aug 2024 10:51:05 GMT</pubDate>
+            <title><![CDATA[【福特因高田安全气囊问题持续存在而发出“请勿驾驶”警告】 福特汽车周二针对仍受高田气囊召回影响的部分车辆发布了“请勿驾驶”警告，并敦促司机立即联系经销商进行维修。此次召回的车型包括Ranger卡车、Mustang和GT跑车、Fusion轿车和一些SUV车型。自2009年以来，高田安全气囊已造成30多人死亡，其中美国至少有26人死亡，数百人受伤。过去十年间，全球召回了1亿多辆安装了高田安全气囊的汽车。高田公司曾是世界领先的安全气囊供应商，在丑闻发生后，于2017年申请破产。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeue8465447.d.html</link>
+            <guid>3736218</guid>
+            <pubDate>Tue, 13 Aug 2024 13:27:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[乌克兰总理：乌克兰已从欧盟获得42亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3517324.d.html</link>
-            <guid>3736042</guid>
-            <pubDate>Tue, 13 Aug 2024 10:49:48 GMT</pubDate>
+            <title><![CDATA[家得宝首席财务官：客户正在等待利率下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeuh5242663.d.html</link>
+            <guid>3736217</guid>
+            <pubDate>Tue, 13 Aug 2024 13:27:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【必和必拓最大铜矿的工人在谈判失败后罢工】必和必拓智利Escondida铜矿的工人在未能达成薪资协议后，将于周二开始罢工，为世界上最大的铜矿企业的停工奠定了基础。2400多名工会成员将从上午8点开始罢工。该工会在一份声明中表示，经过五天的调解谈判，工会拒绝了必和必拓提出的新劳动合同。这一决定导致该矿停产，该矿的铜产量约占全球铜总产量的5%。这将扰乱总部位于墨尔本的必和必拓的金属运输，同时可能缓解近几个月来因全球经济前景黯淡而暴跌的铜期货价格的压力。Escondida铜矿每年生产100多万吨铜，是迄今为止最大的铜供应商。一些分析师曾预计，必和必拓集团今年将取代Codelco成为全球最大的铜生产商。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5328985.d.html</link>
-            <guid>3736041</guid>
-            <pubDate>Tue, 13 Aug 2024 10:49:02 GMT</pubDate>
+            <title><![CDATA[【“价格战”打到了重卡市场】 “目前J6P经典版480马力 6×4 LNG牵引车降价5万元，之前的优惠大概在2万元。近期店内已对多款牵引车的售价进行了下调，目前降幅普遍在5万元左右。”日前在走访市场时，一位一汽解放经销商告诉记者。多款重卡大幅降价背后，商用车企、经销商意在争夺国三重卡置换市场。今年7月底，国家发展改革委、财政部发布的《关于加力支持大规模设备更新和消费品以旧换新的若干措施》中提到，“持报废国三及以下排放标准营运类柴油货车，加快更新为低排放货车。报废并更新购置符合条件的货车，平均每辆车补贴8万元”。降价叠加补贴，重卡市场亟待被进一步激活。有数据显示，7月，国内重卡市场销量为5.9万辆，环比下降17%，已连续4个月下滑。（每日经济新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipeua0190427.d.html</link>
+            <guid>3736216</guid>
+            <pubDate>Tue, 13 Aug 2024 13:24:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[145家钢厂下调废钢采购价10-150元。 (我的钢铁网)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3517015.d.html</link>
-            <guid>3736040</guid>
-            <pubDate>Tue, 13 Aug 2024 10:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[第二季度业绩公布后，Sea公司股价下跌6.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8550860.d.html</link>
-            <guid>3736037</guid>
-            <pubDate>Tue, 13 Aug 2024 10:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【晶合集成：上半年度净利润.87亿元 同比扭亏为盈】晶合集成公告，2024年上半年公司本期营业收入为43.98亿元，同比增长48.09%。归属于上市公司股东的净利润为1.87亿元，同比扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3516205.d.html</link>
-            <guid>3736036</guid>
-            <pubDate>Tue, 13 Aug 2024 10:46:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带39929人死亡】当地时间13日，加沙地带卫生部门发表声明称，在过去24小时中，以军在加沙地带开展的军事行动共导致32人死亡、88人受伤。自去年10月7日本轮巴以冲突爆发以来，以军在加沙地带的军事行动已导致39929名巴勒斯坦人死亡、92240人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8550269.d.html</link>
-            <guid>3736035</guid>
-            <pubDate>Tue, 13 Aug 2024 10:45:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中岩大地中标光伏项目 助力清洁能源基地建设】近日，北京中岩大地科技股份有限公司（简称“中岩大地”）旗下全资子公司北京中岩大地新能源科技有限公司（简称“中岩新能源”）成功中标内蒙古能源达拉特旗100万千瓦矿区光伏+储能项目光伏场区V标段建筑安装工程。该项目坐落于内蒙古自治区鄂尔多斯市达拉特旗，是国家大力扶持的清洁能源重点工程。整个项目规划装机容量达100万千瓦，融合了光伏发电与升压站两项技术。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5327054.d.html</link>
-            <guid>3736034</guid>
-            <pubDate>Tue, 13 Aug 2024 10:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：巴勒斯坦总统阿巴斯在克里姆林宫与俄罗斯总统普京会面。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5326988.d.html</link>
-            <guid>3736033</guid>
-            <pubDate>Tue, 13 Aug 2024 10:43:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚中部地区地震引发恐慌导致65人受伤】叙利亚卫生部13日发表声明说，叙中部城市哈马附近12日夜发生的地震引发恐慌导致踩踏和跌倒事件，共造成65人受伤。声明说，地震引发的恐慌导致踩踏和跌倒事件发生，共造成65人轻度或中度受伤，其中3人需接受手术治疗，医疗机构已向所有伤者提供了必要救助。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyne0280395.d.html</link>
-            <guid>3736032</guid>
-            <pubDate>Tue, 13 Aug 2024 10:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈萨克斯坦表示将考虑自2015年以来首次发行美元债券。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynh8549443.d.html</link>
-            <guid>3736031</guid>
-            <pubDate>Tue, 13 Aug 2024 10:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[青岛市纺织总公司原党委书记、董事长、总经理闫勇严重违纪违法被开除党籍。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5326215.d.html</link>
-            <guid>3736030</guid>
-            <pubDate>Tue, 13 Aug 2024 10:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【济南市市场监管局集中约谈电动自行车品牌区域代理和销售单位】8月13日，济南市市场监管局组织召开全市电动自行车品牌区域代理产品质量约谈会议，集中约谈全市89家品牌区域代理商和销售单位。深入推进电动自行车安全隐患全链条专项整治行动，进一步推动电动自行车销售单位质量安全主体责任落地见效，从流通环节杜绝非法销售、改装加装等违法行为。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3514416.d.html</link>
-            <guid>3736029</guid>
-            <pubDate>Tue, 13 Aug 2024 10:40:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特朗普媒体科技集团(DJT.O)美股盘前下跌2.9%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyna3514335.d.html</link>
-            <guid>3736028</guid>
-            <pubDate>Tue, 13 Aug 2024 10:40:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【东岳硅材：股东新华联部分股份被冻结】东岳硅材公告，持股13.35%的股东新华联本次被冻结股份数量为1522.74万股，占其所持股份的9.5%，占公司总股本的1.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinyne0279309.d.html</link>
-            <guid>3736027</guid>
-            <pubDate>Tue, 13 Aug 2024 10:40:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华电国际：参股公司福城矿业被列为被执行人 2024半年报投资收益科目减少6.97亿元】华电国际公告，公司的参股公司内蒙古福城矿业被内蒙古自治区鄂托克前旗人民法院列为被执行人。福城矿业列为被执行人影响本公司2024半年度财务报告中“长期股权投资”、“投资收益”科目均减少6.97亿元，“长期股权投资”的账面价值已减记至0。本公司将根据事件进展情况，依据有关会计准则的要求进行相应会计处理，最终会计处理及影响金额以会计师事务所沟通确认后的结果为准。本次执行不影响本公司的正常生产经营和业务发展，不会对本公司的持续经营产生不利影响。]]></title>
-            <guid>3736026</guid>
-            <pubDate>Tue, 13 Aug 2024 10:39:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新台风叫悟空 预计不影响中国】今年第8号台风“悟空”（热带风暴级，英文名称：Wukong；名字来源：中国；名字意义：孙悟空）已于今天下午在西北太平洋洋面生成，下午5点钟其中心位于日本东京东南方向约1290公里的洋面上，8级（18米/秒），七级风圈半径100-350公里。预计，“悟空”将以每小时10-15公里的速度向北偏西方向移动，强度变化不大，逐渐向日本以东洋面靠近，15日前后在日本以东洋面减弱消散，未来对我国海域无影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5325512.d.html</link>
-            <guid>3736025</guid>
-            <pubDate>Tue, 13 Aug 2024 10:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【彩讯股份： 彩讯数字员工已成功商用于客户项目】彩讯股份在互动平台表示，彩讯股份基于Rich AI超级工厂孵化的数字员工，以其智能化、个性化的特点，为各行各业提供了全新的服务体验，其中三款产品最为亮眼：企微导购助手、不动产智能助手及办公助手。 目前，彩讯数字员工已成功商用于客户项目，助力某大型运营商构建数字化员工导购助手，以及助力某地市国土资源局打造不动产智能顾问。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incinynk5325425.d.html</link>
-            <guid>3736024</guid>
-            <pubDate>Tue, 13 Aug 2024 10:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美股Sea公司2024年Q2营收38.07亿美元，同比增长23%；净利润7991.1万美元，同比下滑75.9%。]]></title>
-            <guid>3736023</guid>
-            <pubDate>Tue, 13 Aug 2024 10:36:53 GMT</pubDate>
+            <title><![CDATA[花旗集团将KeyCorp目标价从18.00美元上调至19.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-13/detail-incipety3425240.d.html</link>
+            <guid>3736215</guid>
+            <pubDate>Tue, 13 Aug 2024 13:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
