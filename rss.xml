@@ -4,11 +4,141 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 17 Aug 2024 15:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 18:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【根据零售销售和就业数据，高盛下调美国经济衰退风险】高盛集团的经济学家引用本周的零售销售和失业救济申请数据，将明年美国经济衰退的可能性从25%下调至20%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyvzu0922049.d.html</link>
+            <guid>3741560</guid>
+            <pubDate>Sat, 17 Aug 2024 17:45:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄罗斯国防部发布消息称，俄罗斯“南部”集团军炮兵部队炮击了乌克兰武装部队在谢韦尔斯克州的阵地，并摧毁了一门英制AS-90自行榴弹炮。]]></title>
+            <guid>3741554</guid>
+            <pubDate>Sat, 17 Aug 2024 17:37:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄称击退乌进攻 乌称扩大占领面积】俄罗斯国防部17日通报，俄军继续在库尔斯克州一线击退乌军进攻，摧毁乌军装甲车等。俄罗斯紧急情况部信息政策司副司长沙罗夫17日表示，过去24小时内，有3000多人从库尔斯克州的边境地区疏散，前往安全地区。目前，在俄罗斯24个地区的172个临时收容中心已安置从该州撤离的约1万人。乌克兰总统泽连斯基17日表示，乌方加强了在库尔斯克州的防御工事并扩大了所占俄领土的面积。他表示，乌方正努力从合作伙伴那里获取新的援助，以限制俄罗斯的进攻潜力和提升乌远程作战能力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyruc1381219.d.html</link>
+            <guid>3741551</guid>
+            <pubDate>Sat, 17 Aug 2024 17:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构表示，该机构总干事格罗西准备对局势进行评估并将到访库尔斯克核电站。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyruc1379854.d.html</link>
+            <guid>3741548</guid>
+            <pubDate>Sat, 17 Aug 2024 17:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列内塔尼亚胡办公室：接受美国新休战提议的部分内容。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyruc1378813.d.html</link>
+            <guid>3741544</guid>
+            <pubDate>Sat, 17 Aug 2024 17:09:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：以色列表示对加沙停火谈判持“谨慎乐观”态度。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrtw1047086.d.html</link>
+            <guid>3741543</guid>
+            <pubDate>Sat, 17 Aug 2024 17:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：以色列各地举行抗议活动，要求达成人质协议和重新选举。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrtw6273278.d.html</link>
+            <guid>3741538</guid>
+            <pubDate>Sat, 17 Aug 2024 17:01:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【埃及总统与法国外长代表团就缓解地区紧张局势等问题举行会谈】当地时间17日，埃及总统塞西会见了到访的法国外长塞茹尔内及其随行代表团一行。埃及外长阿卜杜勒阿提出席了会见活动。塞茹尔内在会谈中表示，其此次区域访问旨在推动地区紧张局势缓解、推动加沙停火协议达成。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrtw1044137.d.html</link>
+            <guid>3741532</guid>
+            <pubDate>Sat, 17 Aug 2024 16:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹多地遭遇暴雨和洪水袭击 已致11.7万人流离失所】当地时间8月17日，国际移民组织就苏丹局势发布报告称，自今年6月以来，苏丹全国18个州的12个州遭遇约60起暴雨和洪水袭击事件，共导致11.7万人流离失所，数万栋建筑部分或完全被摧毁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrty3035833.d.html</link>
+            <guid>3741529</guid>
+            <pubDate>Sat, 17 Aug 2024 16:43:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队总司令：不会就新停火协议进行谈判】当地时间8月17日，苏丹主权委员会主席兼武装部队总司令布尔汗表示，苏丹政府不会就新的苏丹武装冲突停火协议进行谈判，斡旋方应该向苏丹快速支援部队施加压力，使其遵守双方之前签署的《吉达声明》和安理会有关结束对苏丹西部城市法希尔市围困的相关决议。布尔汗还表示，苏丹政府要求与斡旋方沙特和美国举行会谈，旨在讨论《吉达声明》的落实。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyruc1374128.d.html</link>
+            <guid>3741528</guid>
+            <pubDate>Sat, 17 Aug 2024 16:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：德国政治家呼吁联邦议院成立北溪事件调查委员会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrty3035152.d.html</link>
+            <guid>3741526</guid>
+            <pubDate>Sat, 17 Aug 2024 16:38:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波兰总理回应“波兰参与破坏北溪管道”指责】对于德国情报局前局长本周表示北溪管道破坏事件“得到乌克兰和波兰最高层批准”一事，波兰总理唐纳德·图斯克周六在社交媒体上回应称：致北溪1号和2号的所有发起人和赞助人，你们今天唯一应该做的就是道歉并保持沉默。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyrtw6268379.d.html</link>
+            <guid>3741515</guid>
+            <pubDate>Sat, 17 Aug 2024 16:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《重生》上映3天 ，总票房破7000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-18/detail-inciyruc1370650.d.html</link>
+            <guid>3741514</guid>
+            <pubDate>Sat, 17 Aug 2024 16:19:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据猫眼专业版数据，电影《名侦探柯南：百万美元的五棱星》上映3天 ，总票房破9000万。]]></title>
+            <guid>3741513</guid>
+            <pubDate>Sat, 17 Aug 2024 16:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【保时捷同意投资拯救陷入困境的电池制造商瓦尔塔公司】保时捷公司同意成为瓦尔塔公司的股东，为这家陷入困境的德国电池制造商提供新的资金，作为其与债权人债务重组协议的一部分。根据该计划，保时捷和目前的大股东Michael Tojner在参与6000万欧元(6600万美元)的增资后，将分别持有瓦尔塔公司约32%的股份。现有贷款人将通过所谓的价值回收工具持有该公司36%的股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciyrtw1034477.d.html</link>
+            <guid>3741512</guid>
+            <pubDate>Sat, 17 Aug 2024 15:55:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伦敦萨默塞特宫发生火灾，100名消防员赶到现场】伦敦著名的斯特兰德街萨默塞特宫（Somerset House）发生火灾，这座庄严的宅邸被改建成博物馆和文化活动中心。火势波及部分屋顶。英国紧急服务部门宣布了这一消息，并补充说出动了约100 名消防队员和15辆消防车。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciyrtw1034075.d.html</link>
+            <guid>3741511</guid>
+            <pubDate>Sat, 17 Aug 2024 15:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【秘鲁今年已确诊71例猴痘病例】根据秘鲁卫生部统计，截至8月10日，秘鲁今年共报告71例猴痘确诊病例。猴痘是一种病毒性人畜共患病。人感染猴痘的初期症状包括发烧、头痛、肌肉酸痛、背痛、淋巴结肿大，之后可发展为面部和身体大范围皮疹。多数感染者会在几周内康复，但也有感染者病情严重甚至死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciyrtw6261120.d.html</link>
+            <guid>3741509</guid>
+            <pubDate>Sat, 17 Aug 2024 15:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2024暑期档电影票房破100亿】据网络平台实时数据，2024年暑期档（6月至8月）档期电影总票房（含预售）突破100亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciyrtw1031830.d.html</link>
+            <guid>3741508</guid>
+            <pubDate>Sat, 17 Aug 2024 15:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【殷勇调度部署强降雨应对工作】据北京日报消息，8月17日晚，市委副书记、市长殷勇调度部署强降雨应对工作。他强调，当前，本市仍处于汛期，要坚决贯彻落实习近平总书记关于防汛救灾工作的重要指示精神，坚决克服麻痹思想、松劲心态，发扬连续作战精神，始终绷紧防汛这根弦，落实落细各项防范措施，慎终如始扎实抓好防汛工作，确保人民生命财产安全和城市运行平稳。殷勇来到市应急指挥中心，听取市气象局、市防汛办关于此次降雨最新趋势预测分析、防范应对工作等汇报，视频连线水务、地质灾害防汛专项分指，丰台、通州、大兴、怀柔等区防汛指挥部，详细了解降雨应对准备工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciyrtw6260319.d.html</link>
+            <guid>3741507</guid>
+            <pubDate>Sat, 17 Aug 2024 15:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【俄外交部呼吁国际原子能机构和联合国谴责乌克兰准备挑衅俄核电站一事】俄罗斯外交部发言人扎哈罗娃表示：“根据得到的信息显示基辅政权开始筹备袭击库尔斯克核电站。我们呼吁国际组织，尤其是联合国和国际原子能机构立刻谴责基辅政权所筹备的挑衅行为，这种行为可能会造成欧洲大规模的人为灾难。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciymmy6390671.d.html</link>
+            <guid>3741505</guid>
+            <pubDate>Sat, 17 Aug 2024 15:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【杠杆资金本周重仓股曝光 宝钢股份居首】Wind统计显示，本周共有1598只个股获融资净买入，净买入金额在千万元以上的有263只，共有3只融资净买入额超1亿元。宝钢股份本周获融资净买入居首，净买入额为1.80亿元。保利发展、五粮液、宁德时代净买入居前，金额分别为1.04亿元、1.02亿元、0.91亿元；航锦科技、科大讯飞、招商银行遭净卖出额居前，金额分别为1.56亿元、1.51亿元、1.33亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciymmy6390155.d.html</link>
+            <guid>3741504</guid>
+            <pubDate>Sat, 17 Aug 2024 15:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本周活跃度前十个股名单出炉，39股累计换手率超100%】本周有39只个股换手率超过100%。其中，腾达科技排名居首，周换手率达到240.85%；此外，冠龙节能本周换手率也超过200%。按照申万一级行业分类看，本周换手率100%以上的个股中，所属机械设备、医药、环保、电子的个股居多。从一周涨跌幅来看，本周换手率超过100%的个股中，博士眼镜、清研环境、星星科技、凯旺科技涨幅居前，均超50%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciymmy1160807.d.html</link>
+            <guid>3741502</guid>
+            <pubDate>Sat, 17 Aug 2024 15:09:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【一周牛熊股丨两只AI眼镜概念股斩获四连板，8股累计跌幅超20%】Wind数据显示，本周（8月12日至8月16日）共有25只个股涨幅超30%，其中博士眼镜涨幅达148.59%居首，清研环境本周累计涨幅也超100%；此外，星星科技、凯普生物本周累计涨幅超70%。本周AI眼镜概念强势上涨，概念股博士眼镜、亚世光电均走出四连板行情，博士眼镜15日发布公告提示，公司提供智能眼镜镜片的验配服务，暂未涉及智能眼镜的研发；此外，本周环保概念股也走强，清研环境16日晚间也发布异动公告提示，公司股价可能存在大幅上涨后回落的风险。跌幅榜中，本周8股累计跌幅超20%，欣天科技跌幅达33.70%居首，该股上周周涨幅达78.29%居两市之首， 其中8月7日-9日连续三天20CM涨停。]]></title>
             <link>https://finance.sina.cn/7x24/2024-08-17/detail-inciymmy1160437.d.html</link>
@@ -429,134 +559,6 @@
             <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywm1713729.d.html</link>
             <guid>3741402</guid>
             <pubDate>Sat, 17 Aug 2024 10:28:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海关总署署长俞建华一行访问南非 并会见世界海关组织（WCO）理事会主席爱德华·基斯维特】 8月15日至17日，海关总署署长俞建华一行访问南非，与南非农业部部长约翰·斯汀霍森，世界海关组织（WCO）理事会主席、南非税务署署长爱德华·基斯维特分别举行双边会谈。 在与约翰·斯汀霍森的会谈中，双方共同主持召开中国—南非第八次卫生与植物卫生措施（SPS）部长级会议，就南非农食产品输华、口岸检验检疫风险防控、进出口农食产品安全监管等议题交换意见，并对双方在9月中非合作论坛峰会期间的相关合作成果达成一致。在与爱德华·基斯维特的会谈中，双方就智慧海关建设、税收征管、“经认证的经营者”（AEO）、风险管理、人员交流和能力建设、世界海关治理体系改革等领域合作交换意见。会后，双方签署了《中华人民共和国海关总署与南非共和国税务署关于加强供应链互联互通合作的谅解备忘录》。 期间，实地调研南非海关监控中心。中国驻南非大使吴鹏参加有关活动。（海关发布）]]></title>
-            <guid>3741401</guid>
-            <pubDate>Sat, 17 Aug 2024 10:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【万兴科技：公司天幕多媒体音视频大模型及相关算法技术已在Filmora、喵影等产品中实现部分接入】 万兴科技近日在线上电话会议中表示，公司自有的天幕多媒体音视频大模型及相关算法技术已在Filmora、喵影等产品中实现部分接入，如音效生成、图像生成等，同时也引入了第三方大模型能力，力求为用户提供更好的使用体验，当然也会在成本效益和长期发展之间保持一个平衡。]]></title>
-            <guid>3741400</guid>
-            <pubDate>Sat, 17 Aug 2024 10:20:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据以色列时报：以色列国防军称真主党向北部社区发射了55枚火箭弹，袭击中没有人员伤亡。]]></title>
-            <guid>3741399</guid>
-            <pubDate>Sat, 17 Aug 2024 10:16:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【山西发布地质灾害黄色预警】山西省自然资源厅和山西省气象局2024年8月17日17时05分联合发布地质灾害气象风险预警：受较强降水影响，预计2024年8月17日20时至18日20时，阳泉市郊区、平定县；长治市潞城区、平顺县、黎城县、壶关县、武乡县；晋中市左权县、和顺县、昔阳县；运城市垣曲县；忻州市五寨县、岢岚县、河曲县、保德县；临汾市吉县、乡宁县；吕梁市离石区、兴县、临县等地的部分区域地质灾害气象风险预警等级为三级黄色，有较高地质灾害气象风险。请相关部门做好地质灾害防治工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe1378832.d.html</link>
-            <guid>3741398</guid>
-            <pubDate>Sat, 17 Aug 2024 10:10:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【惠城环保：公司废塑料裂解项目正在按规划加紧建设中】 惠城环保8月17日在互动平台表示，公司废塑料裂解项目正在按规划加紧建设中，该项目的主要产品为干气、液化气、石脑油等。未来可销售给石油化工及相关企业。公司正在积极与潜在客户商谈，如有进展公司会发布公告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe1378656.d.html</link>
-            <guid>3741397</guid>
-            <pubDate>Sat, 17 Aug 2024 10:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部副部长马朝旭同俄罗斯副外长里亚布科夫举行磋商】2024年8月16日，外交部副部长马朝旭同俄罗斯副外长里亚布科夫在北京举行磋商。双方就中俄关系、全球战略稳定、金砖合作等问题深入交换意见。双方表示，将以两国元首重要共识为根本遵循，深化全面战略协作，为加强全球战略稳定、促进世界和平与安全作出贡献。双方强调，金砖国家是新兴市场和发展中国家团结合作的重要平台，中俄将继续密切沟通协作，共同推动喀山金砖领导人会晤取得成功。（外交部）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6601145.d.html</link>
-            <guid>3741396</guid>
-            <pubDate>Sat, 17 Aug 2024 10:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[当地时间17日，乌克兰基辅拉响防空警报。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6600168.d.html</link>
-            <guid>3741395</guid>
-            <pubDate>Sat, 17 Aug 2024 10:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台8月17日18时继续发布暴雨蓝色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6599700.d.html</link>
-            <guid>3741394</guid>
-            <pubDate>Sat, 17 Aug 2024 10:01:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北启动重大气象灾害（暴雨）Ⅳ级应急响应】经会商研判，8月17日17时，河北省气象灾害防御指挥部启动重大气象灾害（暴雨）Ⅳ级应急响应。 河北省气象台预计，8月17日至21日，河北省多降雨天气，降雨过程持续时间长、影响范围广、局地强度大，并伴有局地强对流，加之前期强降水频繁，致灾风险高。 河北省气象灾害防御指挥部要求，相关地区和单位坚决克服麻痹思想和侥幸心理，聚焦高风险区域和重点行业，结合本地本部门实际及时排查整治安全隐患，适时启动灾害应急响应，按照预案要求全力做好防御应对工作。]]></title>
-            <guid>3741392</guid>
-            <pubDate>Sat, 17 Aug 2024 10:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【成都到昆明3小时左右，渝昆高铁渝宜段开启运行试验】 据中国铁路成都局集团有限公司消息，今日新建重庆至昆明高速铁路重庆西至宜宾东段（以下简称渝昆高铁渝宜段）联调联试圆满结束，正式进入运行试验阶段。渝昆高铁建成通车后，将进一步完善国家综合立体交通网，强化成渝地区双城经济圈与滇中地区之间的联系，大幅压缩重庆至昆明的铁路旅行时间。此外，渝昆高铁后期将衔接成宜高铁，形成成都到昆明全程时速350公里的高铁大通道，届时，两地之间3小时左右可达，较目前高铁最短用时缩短一半左右。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe1376301.d.html</link>
-            <guid>3741391</guid>
-            <pubDate>Sat, 17 Aug 2024 09:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【斡旋方与以团队继续在多哈就加沙停火协议细节进行讨论】总台记者当地时间17日获悉，一个以色列技术团队当天继续在卡塔尔首都多哈与巴以冲突斡旋方团队就加沙停火协议的细节问题进行讨论，以弥合各方剩余分歧。以方的另一个技术团队将在近期前往埃及首都开罗，重点就埃及与加沙接壤地区的控制权问题进行商讨。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywm1707400.d.html</link>
-            <guid>3741388</guid>
-            <pubDate>Sat, 17 Aug 2024 09:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【内蒙古发布雷电黄色预警】内蒙古自治区气象台2024年08月17日17时20分发布雷电黄色预警信号：6小时内鄂尔多斯市北部、包头市东南部、呼和浩特市、乌兰察布市大部、锡林郭勒盟西部和南部、赤峰市西部和南部、呼伦贝尔市中西部可能发生雷电活动，局部地区伴有短时强降水、雷暴大风、冰雹等强对流天气，可能造成雷电、洪涝、城市内涝等灾害事故。请有关单位和人员做好防范准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywm1707106.d.html</link>
-            <guid>3741387</guid>
-            <pubDate>Sat, 17 Aug 2024 09:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【青海发布地质灾害黄色预警】青海省自然资源厅与青海省气象局联合发布地质灾害气象风险预警：根据过去48小时降水实况和未来24小时降水预报，结合地质灾害易发程度，预计2024年8月17日20时至8月18日20时海东市循化县，化隆县，民和县马营镇、大庄乡、杏儿乡、前河乡、总堡乡、中川乡、古鄯镇、官亭镇、甘沟乡、转导乡、满坪镇；黄南州尖扎县，同仁市黄乃亥乡、加吾乡、双朋西乡、兰采乡、扎毛乡、年都乎乡、曲库乎乡、隆务镇、保安镇等地区地质灾害气象风险预警等级为Ⅲ级（黄色预警），气象因素致地质灾害发生风险较高。请密切关注降水情况，加强巡查监测，做好地质灾害防范工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6597872.d.html</link>
-            <guid>3741386</guid>
-            <pubDate>Sat, 17 Aug 2024 09:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【松下据悉计划到2027年底前结束荧光灯生产】 知情人士称，松下公司拟到2027年底前停止所有荧光灯的生产，旨在响应2027年底前禁止制造和进出口荧光灯的国际措施。松下从1950年前后开始生产和销售荧光灯，将其作为主要产品之一，目前仍向住宅和办公室提供。据称，松下今后计划增加LED灯的生产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe1374513.d.html</link>
-            <guid>3741385</guid>
-            <pubDate>Sat, 17 Aug 2024 09:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【《名侦探柯南：百万美元的五棱星》票房破8000万】据猫眼专业版数据，电影《名侦探柯南：百万美元的五棱星》上映2天 ，总票房破8000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6596975.d.html</link>
-            <guid>3741384</guid>
-            <pubDate>Sat, 17 Aug 2024 09:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列北部遭数十枚火箭弹袭击 周边城镇拉响警报】当地时间17日，以色列北部城市采法特及周边几个城镇拉响火箭弹警报。据以色列当地媒体报道，黎巴嫩真主党向上加利利地区发射了数十枚火箭弹，在采法特地区被拦截。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywm1705862.d.html</link>
-            <guid>3741383</guid>
-            <pubDate>Sat, 17 Aug 2024 09:44:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【多地强降雨将至 水利部向河北等5省发出“一省一单”靶向预警】8月17日上午，水利部向北京、天津、河北、广东、广西、湖南等6省（自治区、直辖市）水利（水务）厅（局）发出通知，要求加强监测预报预警、水库安全度汛、中小河流洪水和山洪灾害防御等工作；向河北、山西、湖南、广东、陕西等5省发出“一省一单”靶向预警；根据短临降雨实况和预报，及时提醒有关地方做好监测预警和人员转移避险等工作。8月17日12时，水利部针对新疆维吾尔自治区、新疆生产建设兵团启动洪水防御Ⅳ级应急响应，指导地方全力做好强降雨防范应对工作。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe1372569.d.html</link>
-            <guid>3741382</guid>
-            <pubDate>Sat, 17 Aug 2024 09:34:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【打造国家级氢能及燃料电池汽车产业集群，武汉氢能科技产业园启动建设】 8月16日，武汉氢能科技产业园在武汉经开区军山新城启动建设，产业园规划同步发布，打造国家级氢能及燃料电池汽车产业集群基地，计划到2030年，总体投资规模达100亿元，引进30家氢能企业，推动3家氢能企业上市，新建5座加氢站，投放3000辆氢能示范运营车辆，实现营收总额500亿元。（湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6594555.d.html</link>
-            <guid>3741381</guid>
-            <pubDate>Sat, 17 Aug 2024 09:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【河北发布暴雨蓝色预警】河北省气象台2024年08月17日16时11分发布暴雨蓝色预警信号：预计未来6小时，保定中西部、石家庄、邢台中西部、邯郸中西部有中到大雨（累计雨量20-40毫米），个别地点有暴雨（累计雨量50-70毫米），降雨时局地伴有雷电、短时强降水、短时大风等强对流天气，请注意防范。（河北天气）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6594528.d.html</link>
-            <guid>3741380</guid>
-            <pubDate>Sat, 17 Aug 2024 09:31:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【天津市启动防洪四级应急响应】刚刚，天津市应急管理局网站发布通知，本市将于2024年8月17日（星期六）18时启动市防洪四级应急响应。（天津发布）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywm1703603.d.html</link>
-            <guid>3741379</guid>
-            <pubDate>Sat, 17 Aug 2024 09:31:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州市启动气象灾害（雷雨大风）Ⅳ级应急响应】广州市气象灾害应急指挥部办公室：据市气象台监测，广州市达到启动气象灾害（雷雨大风）Ⅳ级应急响应标准。市气象灾害应急指挥部决定从17日16时44分起启动广州市气象灾害（雷雨大风）Ⅳ级应急响应。请按照预案规定做好防御工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywh3359411.d.html</link>
-            <guid>3741378</guid>
-            <pubDate>Sat, 17 Aug 2024 09:30:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度对来自越南的部分钢铁产品发起反倾销调查】根据印度商务和工业部通知，印度对来自越南的部分钢铁产品发起反倾销调查。此次反倾销调查主要分析对印度国内钢铁产业的损害威胁。据大宗商品咨询公司BigMint数据，印度钢铁和原材料价格明显下降，进口增加、出口减少，导致价格跌至三年来的最低水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-17/detail-incixywe6593822.d.html</link>
-            <guid>3741377</guid>
-            <pubDate>Sat, 17 Aug 2024 09:27:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
