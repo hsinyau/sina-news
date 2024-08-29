@@ -4,11 +4,251 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 29 Aug 2024 18:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 21:06:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月30日04时48分在新疆巴音郭楞州且末县（北纬36.64度，东经86.95度）发生3.0级地震，震源深度20千米。]]></title>
+            <guid>3757256</guid>
+            <pubDate>Thu, 29 Aug 2024 21:04:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【信托机构谨慎配置城投债私募产品】 在经历了一波上行之后，债市迎来“点刹”。其中，在政府化债政策背景的加持下，城投债人气有所回落。此前青睐城投债配置策略的私募、信托机构的热情出现下降。在信托“非标转标”背景下，有主营债券业务的私募机构向中国证券报记者表示，由于当前信托行业仍处于转型期，自身建立严格的风控措施较难，当前部分信托资金选择性流入私募债基。但与此同时，由于监管方面严控新增产品，新发行的私募债基相较之前确实少了很多。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkivs0481229.d.html</link>
+            <guid>3757253</guid>
+            <pubDate>Thu, 29 Aug 2024 20:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【天文学家新发现：质量相当于100万个太阳的超大黑洞或在苏醒】前段时间，欧洲南方天文台和智利千禧天体物理研究所的天文学家报道称，人类可能首次观测到星系中心超大质量黑洞的苏醒过程。这个超大质量黑洞位于处女座上一个椭圆星系（SDSS 1335+0728）的中心，距离地球3亿光年，质量相当于100万个太阳。在此前几十年的观测中，它一直处于平静的休眠状态。从2019年12月开始，它变得异常活跃，并持续到现在。该发现以“SDSS 1335+0728：一个百万倍黑洞质量的苏醒”为题，刊登在《天文与天体物理学》（Astronomy & Astrophysics）科学杂志上。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkivs0481207.d.html</link>
+            <guid>3757252</guid>
+            <pubDate>Thu, 29 Aug 2024 20:57:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔科技：预计全年销售955亿-985亿美元。预计三季度销售240亿-250亿美元。预计利润率将在下半年提高。]]></title>
+            <guid>3757251</guid>
+            <pubDate>Thu, 29 Aug 2024 20:52:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登将于9月6日（星期五）前往密歇根州。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3830752.d.html</link>
+            <guid>3757246</guid>
+            <pubDate>Thu, 29 Aug 2024 20:44:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【AI服务器订单大增 戴尔财报交出超预期成绩】戴尔科技集团公布超过预期的营收，因其用于处理人工智能工作负载的服务器销量增加。该公司周四在声明中表示，第二财季人工智能优化服务器订单报32亿美元，超过上季的26亿美元。首席运营官Jeff Clarke说，该设备的积压销售在38亿美元，而潜在交易是这一数字的“好几倍”。戴尔营收在截至8月2日的季度中增长9%至250亿美元。媒体汇总的数据显示，分析师平均预估为245亿美元。包含服务器的部门销售为116亿美元，超过109亿美元的平均预测。戴尔在盘后交易中上涨约4%，当天在纽约市场收于110.74美元。截至周四收盘，该股今年上涨了45%。扣除某些项目的每股收益报1.89美元，分析师预期为1.71美元。更广为人知的电脑业务方面，戴尔销售同比下降4%报124亿美元，略低于预期。其中商用电脑销售基本持平，消费者个人电脑收入同比下降22%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0607761.d.html</link>
+            <guid>3757245</guid>
+            <pubDate>Thu, 29 Aug 2024 20:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【商品市场现趋势性行情 CTA策略业绩表现亮眼】7月以来，商品市场波动率抬升，管理期货策略（CTA）业绩得以提振。私募排排网数据显示，截至8月23日，私募证券投资基金近一个月来平均收益为负，前期领跑的债券策略亦有所回调，但CTA策略逆势获得正收益。值得一提的是，尽管今年以来债券策略领跑，但近期CTA策略却显现出“追赶之势”。业内人士表示，CTA策略表现往往具备一定周期性，经历过前三年的低迷期，该策略存在均值回归的可能性。与此同时，伴随着美联储货币政策调整预期逐步明朗，国内经济复苏政策持续发力，商品市场有望迎来趋势性行情，CTA策略也将有所表现。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3830174.d.html</link>
+            <guid>3757244</guid>
+            <pubDate>Thu, 29 Aug 2024 20:41:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[星链：本周早些时候，我们收到了巴西最高法院法官冻结星链财务的命令；团队正在尽一切可能确保在巴西的服务；我们打算合法地解决在巴西遇到的阻碍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3827417.d.html</link>
+            <guid>3757240</guid>
+            <pubDate>Thu, 29 Aug 2024 20:28:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储博斯蒂克：通胀仍远未达到美联储的目标；在上次预测中，将中性利率预期定为3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3827395.d.html</link>
+            <guid>3757239</guid>
+            <pubDate>Thu, 29 Aug 2024 20:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加拿大零售商Couche-Tard据悉联络大型养老金 助其收购柒和伊控股】知情人士称，加拿大零售商Alimentation Couche-Tard Inc.正在寻求来自当地一些大型养老金的资金支持，助力其对7-Eleven母公司柒和伊控股的收购计划。知情人士称，该零售商正在联络魁北克储蓄投资(Caisse de Depot et Placement du Quebec，CDPQ) 、加拿大年金计划投资委员会(CPPIB)和安大略省教师退休金计划(OTPP)等基金，评估他们对提供资本金的兴趣。知情人士称，该公司正寻求从此类联手投资者手中募集数十亿美元资金。知情人士称，Couche-Tard正在考虑从债务融资到发行股票等一系列融资方案。与加拿大养老基金的讨论仍在进行，尚未达成最终协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2589864.d.html</link>
+            <guid>3757238</guid>
+            <pubDate>Thu, 29 Aug 2024 20:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[华尔街日报民调显示，哈里斯的支持率为48%，而特朗普的支持率为47%；误差为正负2.5%。]]></title>
+            <guid>3757236</guid>
+            <pubDate>Thu, 29 Aug 2024 20:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[哥伦比亚国家石油公司的子公司报告了两起针对Cano Lemon - Covenas管道的袭击，该公司警告天然气供应面临风险。]]></title>
+            <guid>3757235</guid>
+            <pubDate>Thu, 29 Aug 2024 20:23:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[联合国核监督机构总干事希望尽快访问伊朗，与新当选的伊朗总统举行会谈。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2587825.d.html</link>
+            <guid>3757234</guid>
+            <pubDate>Thu, 29 Aug 2024 20:22:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恩智浦：董事会批准追加20亿美元股票回购。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0601232.d.html</link>
+            <guid>3757231</guid>
+            <pubDate>Thu, 29 Aug 2024 20:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[犹他美容二季度同店销售下滑1.2%，分析师预期增长1.32%。二季度净销售26亿美元，分析师预期26.1亿美元。预计全年净销售110亿-112亿美元，公司原本预计115亿-116亿美元。预计全年同店销售下滑2%至增长零，公司原本预计增长2%-3%，分析师预期增长1.89%。]]></title>
+            <guid>3757230</guid>
+            <pubDate>Thu, 29 Aug 2024 20:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【迈威尔科技第三财季净营收指引高于预期】迈威尔科技第二财季净营收12.7亿美元，分析师预期12.5亿美元；第二财季调整后每股收益为0.30美元，分析师预期0.29美元；预计第三财季调整后每股收益为0.35-0.45美元，分析师预期0.38美元；预计第三财季净营收14.5亿-14.6亿美元，分析师预期14.0亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2582834.d.html</link>
+            <guid>3757229</guid>
+            <pubDate>Thu, 29 Aug 2024 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹首都圈城市遭无人机袭击 造成至少12名平民死亡】当地时间8月29日，苏丹地方组织北喀土穆抵抗委员会表示，苏丹首都圈城市北喀土穆市北部地区当天凌晨遭遇无人机袭击，当地一个市场被无人机投掷的炸弹击中，造成至少12名平民死亡。该组织指责苏丹武装部队发动此次袭击。苏丹武装部队对此暂无回应。此外，首都圈另外一座城市恩图曼市的多个居民区29日遭遇炮击。当地居民表示，一条街道上的5家商店在炮击中受损严重，并造成人员伤亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2581768.d.html</link>
+            <guid>3757228</guid>
+            <pubDate>Thu, 29 Aug 2024 20:08:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[露露柠檬预计全年净营收103.8亿-104.8亿美元，公司原本预计107亿-108亿美元。]]></title>
+            <guid>3757227</guid>
+            <pubDate>Thu, 29 Aug 2024 20:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[戴尔(DELL.N)美股盘后涨5%，二季度营收和调整后每股收益超出预期。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3823027.d.html</link>
+            <guid>3757226</guid>
+            <pubDate>Thu, 29 Aug 2024 20:07:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【戴尔科技二季度总体净营收高于预期】戴尔科技二季度总体净营收250.3亿美元，分析师预期241.2亿美元；第二财季基础设施解决方案营收116.5亿美元，分析师预期105.8亿美元；第二财季调整后每股收益1.89美元，分析师预期1.71美元；第二财季调整后运营利润20.3亿美元，分析师预期18.5亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0599748.d.html</link>
+            <guid>3757225</guid>
+            <pubDate>Thu, 29 Aug 2024 20:06:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autodesk二季度调整后EPS为2.15美元，分析师预期2.01美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2579625.d.html</link>
+            <guid>3757224</guid>
+            <pubDate>Thu, 29 Aug 2024 20:02:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军轰炸加沙地带汗尤尼斯和拉法 28人死亡】总台记者当地时间8月29日获悉，以军当天对加沙地带汗尤尼斯和拉法的轰炸共造成28人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpx9344035.d.html</link>
+            <guid>3757222</guid>
+            <pubDate>Thu, 29 Aug 2024 20:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：用户报告社交媒体平台“X”出现问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2575250.d.html</link>
+            <guid>3757219</guid>
+            <pubDate>Thu, 29 Aug 2024 19:53:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列承认对世界粮食计划署车辆开火：沟通错误所致】美国驻联合国副代表表示，以色列告知美国，由于“以色列国防军单位之间的沟通错误”，在加沙地区向世界粮食计划署车辆开火。美国敦促以色列“立即纠正其系统内的问题”，以避免再次对联合国人员开火。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2571621.d.html</link>
+            <guid>3757217</guid>
+            <pubDate>Thu, 29 Aug 2024 19:45:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国防部批准在选举期间向候选人提供额外军事支持能力】当地时间8月29日，美国国防部副发言人萨布丽娜·辛格表示，美国国防部长奥斯汀已经批准了一项请求，为总统和副总统候选人在即将到来的选举中提供额外军事支持能力。辛格表示，奥斯汀已指示美国北方司令部在选举期间为特勤局在各个地点进行规划并提供支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0591997.d.html</link>
+            <guid>3757215</guid>
+            <pubDate>Thu, 29 Aug 2024 19:33:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯：下周将推出针对小型企业的税收抵免政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0591889.d.html</link>
+            <guid>3757214</guid>
+            <pubDate>Thu, 29 Aug 2024 19:32:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[诺基亚(NOK.N)：关于市场猜测暂无任何公告，不存在相关的内部项目。致力于移动网络业务的成功。移动网络部门今年取得了显著进展。（此前报道称诺基亚为移动网络资产考虑包括出售在内的多种选项。）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3814535.d.html</link>
+            <guid>3757213</guid>
+            <pubDate>Thu, 29 Aug 2024 19:31:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【OpenAI和Anthropic同意推出新模型前交给美国政府评估安全】美国AI安全研究院将对OpenAI和Anthropic的新AI模型进行安全评估，以确保技术进步不会带来社会风险。该研究院成立于2023年，是拜登-哈里斯政府行政命令的产物，旨在推动负责任的AI创新。OpenAI和Anthropic的高层均对合作表示支持，并强调了安全在AI发展中的重要性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3814233.d.html</link>
+            <guid>3757212</guid>
+            <pubDate>Thu, 29 Aug 2024 19:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【伊拉克减产石油以弥补欧佩克+配额】消息人士表示，伊拉克计划在9月将石油产量降至385万桶/日-390万桶/日之间，这是该国对产量超出欧佩克+配额的弥补计划的一部分。二手数据显示伊拉克7月石油产量约为425万桶/日。该国与欧佩克+商定的配额为400万桶/日。伊拉克石油部已向欧佩克提交了一份计划，在本月至明年9月期间对产量超出配额进行弥补。欧佩克上周表示，伊拉克在1月至7月期间累计产量超配额幅度为140万桶/日。消息人士称，伊拉克在8月取消了一艘100万桶的船货，以减少当月的出口量。已有买家出价，但这艘船货仍下市，还有两艘同样规模船货的销售将从8月推迟到9月。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2564458.d.html</link>
+            <guid>3757211</guid>
+            <pubDate>Thu, 29 Aug 2024 19:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧佩克：欧佩克秘书长圆满完成对伊拉克和哈萨克斯坦的访问任务。在此次访问中，两国重申了他们无条件履行在欧佩克框架下商定的补偿计划的承诺。伊拉克提出了明确且坚定的措施以弥补产量过剩，并保证未来将实现完全合规。]]></title>
+            <guid>3757210</guid>
+            <pubDate>Thu, 29 Aug 2024 19:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国官员敦促苏丹武装冲突双方寻找有效途径化解危机】当地时间8月29日，联合国常务副秘书长阿明娜·穆罕默德在苏丹东部港口城市苏丹港与苏丹主权委员会主席兼武装部队总司令布尔汉举行会谈。阿明娜·穆罕默德强调，苏丹武装冲突双方必须寻找到停止冲突、化解危机的有效途径，结束苏丹人民遭受的苦难。她呼吁国际社会采取紧急人道主义应对措施，帮助苏丹人民。她还欢迎苏丹政府开放该国与乍得之间的阿德雷边境口岸3个月，以确保人道主义援助物资进入苏丹。布尔汉向阿明娜·穆罕默德介绍了苏丹当前局势以及苏丹政府为保障人道主义准入所做的努力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3813439.d.html</link>
+            <guid>3757209</guid>
+            <pubDate>Thu, 29 Aug 2024 19:26:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国际原子能机构：总干事格罗西下周将前往乌克兰进行高层会谈，并评估扎波罗热核电站的最新进展。]]></title>
+            <guid>3757208</guid>
+            <pubDate>Thu, 29 Aug 2024 19:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：正在“尽最大努力”寻找总理（人选）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0588140.d.html</link>
+            <guid>3757207</guid>
+            <pubDate>Thu, 29 Aug 2024 19:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Secureworks恢复交易，涨幅一度扩大至27%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpx9320257.d.html</link>
+            <guid>3757205</guid>
+            <pubDate>Thu, 29 Aug 2024 19:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哥伦比亚东部石油管道遭袭发生原油泄漏 当地政府启动紧急计划】当地时间8月29日，哥伦比亚东部塞萨尔省和北桑坦德省交界地区的石油管道遭袭，发生大规模原油泄漏。当地政府启动紧急计划，以减轻对环境的影响。据悉，当天上午身份不明的人士在石油管道附近引爆爆炸物，袭击原油基础设施。本月19日，该国阿劳卡省曾发生过类似袭击事件。目前哥伦比亚东部的天然气供应处于戒备状态。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpu0586005.d.html</link>
+            <guid>3757204</guid>
+            <pubDate>Thu, 29 Aug 2024 19:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：戴尔(DELL.N)正在与财务顾问合作，探索出售美国网络安全公司Secureworks。Secureworks股票暂停交易，暂停前涨近17%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcps3807891.d.html</link>
+            <guid>3757203</guid>
+            <pubDate>Thu, 29 Aug 2024 19:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：并不知晓“电报”创始人杜罗夫抵达法国。并没有计划与杜罗夫会面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpx9314204.d.html</link>
+            <guid>3757199</guid>
+            <pubDate>Thu, 29 Aug 2024 18:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[世界卫生组织：呼吁迅速获得猴痘诊断测试，并邀请制造商进行紧急审查；更新了诊断检测指南，以检测新的猴痘毒株，并正在与各国合作推广该指南。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmkcpw2547196.d.html</link>
+            <guid>3757198</guid>
+            <pubDate>Thu, 29 Aug 2024 18:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：08月30日02时37分在新疆阿克苏地区温宿县（北纬42.24度，东经80.61度）发生3.1级地震，震源深度10千米。]]></title>
+            <guid>3757197</guid>
+            <pubDate>Thu, 29 Aug 2024 18:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[阿根廷小麦播种面积630万公顷，与此前预估持平。阿根廷玉米收割完成度99.3%。玉米产量预期为4650万吨，与此前预估持平。]]></title>
+            <guid>3757195</guid>
+            <pubDate>Thu, 29 Aug 2024 18:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国防部发言人：已批准国土安全部的请求，为总统和副总统候选人提供额外的军事支持能力。]]></title>
+            <guid>3757193</guid>
+            <pubDate>Thu, 29 Aug 2024 18:38:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国参议员桑德斯：国会必须调查洛克希德马丁(LMT.N)和雷神科技(RTX.N)的价格操纵行为。]]></title>
+            <guid>3757189</guid>
+            <pubDate>Thu, 29 Aug 2024 18:19:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据昆尼皮亚克全国民调：哈里斯以49%对48%的支持率领先特朗普。]]></title>
             <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfy2658933.d.html</link>
@@ -101,252 +341,6 @@
             <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfu3904010.d.html</link>
             <guid>3757158</guid>
             <pubDate>Thu, 29 Aug 2024 17:02:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲央行管委内格尔：核心通胀偏高，这是一大担忧；尽管2%的通胀目标在望，但尚未达到；经济复苏的风险可能会进一步对回归目标造成延迟；我们需要谨慎，不能过快降低政策利率。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfu3903166.d.html</link>
-            <guid>3757155</guid>
-            <pubDate>Thu, 29 Aug 2024 17:00:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行行长乔丹：瑞士央行的主要工具是利率，但也可以进行外汇市场干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfw0679502.d.html</link>
-            <guid>3757154</guid>
-            <pubDate>Thu, 29 Aug 2024 16:58:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，Couche-Tard接触CDPQ、CPPIB、OTPP，希望众多养老基金能支持其竞购连锁便利店Seven & I。]]></title>
-            <guid>3757147</guid>
-            <pubDate>Thu, 29 Aug 2024 16:50:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【实探比亚迪“万人招工”现场：产销旺、扩产忙、技术工人最吃香】8月29日下午，位于深汕合作区的深汕比亚迪汽车工业园的一期项目厂区招聘中心门口，先后有多批求职者正在等候进入厂区办理入职手续或进行体检。求职者大部分在20岁到30岁之间。在深汕比亚迪汽车工业园的二期项目厂区，一位比亚迪的人事负责人表示：“目前这边厂区的员工数已有两万多人，未来全部建设完成后，岗位需求达5万多人，因此，招聘更多人也是势在必行。”目前，深汕比亚迪汽车工业园二期小漠西地块厂房已实现达产，小漠东地块和鹅埠片区地块正在加快建设，需要大量技术工人扩大生产。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfz9385598.d.html</link>
-            <guid>3757146</guid>
-            <pubDate>Thu, 29 Aug 2024 16:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰军方确认周一发生F-16战斗机坠毁事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfz9383953.d.html</link>
-            <guid>3757144</guid>
-            <pubDate>Thu, 29 Aug 2024 16:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行行长乔丹：瑞士央行对近期通胀上升作出了早期反应，这帮助控制了通胀。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfu3897415.d.html</link>
-            <guid>3757143</guid>
-            <pubDate>Thu, 29 Aug 2024 16:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[化工巨头巴斯夫计划在路德维希港停止几家工厂的生产，工厂关闭将影响到大约180名工人。]]></title>
-            <guid>3757142</guid>
-            <pubDate>Thu, 29 Aug 2024 16:41:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[瑞士央行行长乔丹：瑞士央行的使命是维持价格稳定，这是社会和国家良好运作的关键前提。]]></title>
-            <guid>3757141</guid>
-            <pubDate>Thu, 29 Aug 2024 16:37:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据声明：伊拉克总理在与欧佩克秘书长会晤时强调，伊拉克承诺遵守欧佩克国家的石油产出政策计划或在欧佩克+协议框架内确定的计划。]]></title>
-            <guid>3757140</guid>
-            <pubDate>Thu, 29 Aug 2024 16:35:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【台风“珊珊”已致日本4人死亡】总台报道员当地时间30日获悉，台风“珊珊”目前在日本九州地区等地已造成4人死亡，另有94人受伤、1人失踪。据了解，死者中包括在27日爱知县蒲郡市山体滑坡中死亡的3人。另1名死者为德岛县上板町1名80多岁的老人，其因家中房屋损毁被压身亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmixfw0666754.d.html</link>
-            <guid>3757138</guid>
-            <pubDate>Thu, 29 Aug 2024 16:24:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brookfield洽谈与多家主权财富基金合作，加入竞购基立福（GRF.SM）的行列。]]></title>
-            <guid>3757137</guid>
-            <pubDate>Thu, 29 Aug 2024 16:23:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[世卫组织高级官员：以色列军方已同意在加沙的三个区域进行三次不同的人道主义停火，每次持续三天；以色列军方已经同意，如果有必要，将进行额外第四天的停火。]]></title>
-            <guid>3757136</guid>
-            <pubDate>Thu, 29 Aug 2024 16:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄罗斯前副防长被拘留 乌称新型导弹射程最远700公里】据塔斯社报道，俄罗斯前国防部副部长帕维尔·波波夫29日因涉嫌诈骗被拘留。乌克兰总统办公室顾问米哈伊洛·波多利亚克29日表示，乌方新型弹道导弹的射程可达600至700公里。塔斯社报道，俄罗斯侦查委员会代表表示，波波夫被捕与俄“爱国者公园”事件有关。2021年至2024年间，负责“爱国者公园”开发、维护和运营的波波夫涉嫌挪用公款、中饱私囊。辩护律师称，波波夫坚决否认与“爱国者公园”案件有关。俄总统普京曾于6月17日签署命令解除波波夫的职务，同时取消其现役军籍。乌克兰总统泽连斯基27日说，乌克兰成功试射新型弹道导弹，但未披露细节。乌总统办公室顾问波多利亚克29日在电视台直播节目中被问及导弹射程，回答说“600-700公里”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmisyc9500673.d.html</link>
-            <guid>3757134</guid>
-            <pubDate>Thu, 29 Aug 2024 16:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【诺基亚为移动网络资产考虑各种选项 据悉引起了三星的兴趣】知情人士称，诺基亚的移动网络资产吸引了来自竞购者的初步兴趣，其中包括三星电子。在电信设备行业陷入困境之际，公司找到新增长点的压力越来越大。知情人士称，这家芬兰公司一直在与顾问讨论针对其移动网络业务的潜在选项，这项业务数年来一直在艰难应对更大规模对手的竞争。知情人士称，诺基亚已考虑多种不同的方案，包括部分出售或全部出售，分拆或是与竞争对手合并等。商议仍处于早期阶段，诺基亚是否会决定进行任何交易尚不确定。因信息不公开而不愿具名的知情人士称，该项业务整体估值可能约在100亿美元。知情人士称，三星已初步表示有意收购部分诺基亚资产，因为其寻求在把手机连接到电信基础设施的无线接入网络方面扩大规模。知情人士表示，任何潜在的资产剥离可能也会吸引到来自其他竞争对手的兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmisxy0790492.d.html</link>
-            <guid>3757131</guid>
-            <pubDate>Thu, 29 Aug 2024 16:07:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[秘鲁政府最终确定2025年预算为671.2亿美元，同比增长45%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmisxy0789487.d.html</link>
-            <guid>3757130</guid>
-            <pubDate>Thu, 29 Aug 2024 16:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Codeium按12.5亿美元估值融资1.5亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-30/detail-incmisyc9492249.d.html</link>
-            <guid>3757129</guid>
-            <pubDate>Thu, 29 Aug 2024 16:03:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Sackville Capital挖角麦肯锡高管 寻求推动私募股权投资业务】前高盛高管创立的资金管理公司从麦肯锡招募了一位资深高管。这家资金管理公司正愈发专注于私募股权投资。根据Sackville Capital官网显示，麦肯锡私募股权投资咨询部门联合创始人Gary Pinkus最近加入了这家由Nasir Alsharif创建的公司，担任董事会成员和平台委员会主席。该平台为寻求发展自身投资业务的人士提供支撑。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0786216.d.html</link>
-            <guid>3757127</guid>
-            <pubDate>Thu, 29 Aug 2024 15:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millennium Management LLC追加10亿美元投资给Val Zlatev旗下科技对冲基金Analog Century Management。]]></title>
-            <guid>3757126</guid>
-            <pubDate>Thu, 29 Aug 2024 15:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒂森克虏伯CEO Osburg和监事会主管Gabriel离职。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw4008173.d.html</link>
-            <guid>3757125</guid>
-            <pubDate>Thu, 29 Aug 2024 15:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西潘塔纳尔湿地今年火灾过火面积达230万公顷】当地时间8月29日，根据巴西里约热内卢联邦大学环境卫星应用实验室最新数据，自2024年初以来，巴西潘塔纳尔湿地火灾过火面积达230万公顷，相当于潘塔纳尔地区总面积的15.61%，当地野生动物种群受到影响。潘塔纳尔湿地位于巴西西南地区，总面积达24.2万平方公里，是世界上最大的湿地。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0784162.d.html</link>
-            <guid>3757123</guid>
-            <pubDate>Thu, 29 Aug 2024 15:52:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【委内瑞拉西部发生4.5级地震】根据美国地质调查局消息，当地时间8月29日10时19分，委内瑞拉西部苏利亚州发生4.5级地震，震源深度14.6千米，震感明显。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0783317.d.html</link>
-            <guid>3757122</guid>
-            <pubDate>Thu, 29 Aug 2024 15:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：08月29日23时31分在新疆巴音郭楞州轮台县（北纬41.25度，东经84.10度）发生3.1级地震，震源深度15千米。]]></title>
-            <guid>3757118</guid>
-            <pubDate>Thu, 29 Aug 2024 15:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿根廷经济部：阿方将简化钢铁和铝进口程序。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw4003140.d.html</link>
-            <guid>3757117</guid>
-            <pubDate>Thu, 29 Aug 2024 15:39:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【安利股份：上半年净利润同比增长9821.08%】安利股份披露2024年半年度报告，公司实现营业收入11.26亿元，同比增长28.77%；归属于上市公司股东的净利润9240.78万元，同比增长9821.08%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw4002350.d.html</link>
-            <guid>3757116</guid>
-            <pubDate>Thu, 29 Aug 2024 15:36:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【15家白酒板块上市公司披露半年报 五粮液、山西汾酒和洋河股份等7股Q2净利环比降幅超五成】据Choice数据统计，截至发稿，包括贵州茅台、五粮液、山西汾酒、洋河股份、今世缘、迎驾贡酒、口子窖、舍得酒业、顺鑫农业、老白干酒、金徽酒、水井坊、伊力特、酒鬼酒和金种子酒在内的15家白酒板块上市公司披露2024年半年报。其中，顺鑫农业、金种子酒上半年净利润均实现同比扭亏为盈。环比方面，老白干酒Q2净利环比增长23.47%；五粮液、山西汾酒、洋河股份、舍得酒业、金徽酒、水井坊、伊力特Q2净利环比下降均超五成。]]></title>
-            <guid>3757115</guid>
-            <pubDate>Thu, 29 Aug 2024 15:32:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄乌在库尔斯克展开无人机攻防战】目前，在俄罗斯的库尔斯克地区，俄乌双方大量使用无人机展开攻防战。军事专家指出，乌军通常会使用“蜂群战术”干扰俄军电子战系统信号，随后动用自杀式无人机对俄军装备实施火力打击。俄军则频繁使用“柳叶刀”自杀式无人机打击乌方从北约国家接收的装甲车和火箭炮等装备，以“海鹰”系列为代表的侦察无人机则在发现目标、引导火炮方面扮演了重要角色。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw4000947.d.html</link>
-            <guid>3757112</guid>
-            <pubDate>Thu, 29 Aug 2024 15:31:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国伦敦一游泳池化学物质泄漏 11人被送医】当地时间8月29日，英国伦敦救护服务中心报告称，一游泳池化学物质泄漏，包括9名儿童在内共11人被送往医院。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw4000780.d.html</link>
-            <guid>3757111</guid>
-            <pubDate>Thu, 29 Aug 2024 15:31:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际原子能机构发布伊朗核保障季度报告。报告显示，伊朗高浓缩铀库存增加16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0777812.d.html</link>
-            <guid>3757110</guid>
-            <pubDate>Thu, 29 Aug 2024 15:30:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【俄副外长：美国参与乌军袭击俄库尔斯克是客观事实】当地时间8月29日，俄罗斯外交部副部长里亚布科夫表示，美国参与乌克兰军队对俄库尔斯克地区的袭击是一个客观事实。里亚布科夫说，这是对俄方掌握的数据进行分析的结果。他指出，目前正在进行一场“激烈的信息战”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0777696.d.html</link>
-            <guid>3757109</guid>
-            <pubDate>Thu, 29 Aug 2024 15:30:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【精研科技：上半年净利润5921.26万元 同比扭亏为盈】精研科技2024年半年度报告摘要显示，公司报告期内实现营业收入10.02亿元，同比增长28.04%；归属于上市公司股东的净利润5921.26万元，同比扭亏为盈。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3995786.d.html</link>
-            <guid>3757105</guid>
-            <pubDate>Thu, 29 Aug 2024 15:15:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部北美大洋洲司司长杨涛就美国总统国家安全事务助理沙利文访华向媒体吹风】8月29日晚，外交部北美大洋洲司司长杨涛就美国总统国家安全事务助理沙利文访华向媒体吹风。杨涛表示，应中共中央政治局委员、中央外办主任王毅邀请，美国总统国家安全事务助理沙利文于8月27日至29日访华，举行新一轮中美战略沟通。这是美国总统国家安全事务助理时隔八年再次访华，是沙利文助理任内首次访华，是双方落实中美元首共识的重要举措。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0772587.d.html</link>
-            <guid>3757104</guid>
-            <pubDate>Thu, 29 Aug 2024 15:14:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国常务副秘书长访问苏丹 重点讨论当地人道局势】当地时间8月29日，联合国常务副秘书长阿明娜·穆罕默德率领的联合国代表团访问苏丹东部港口城市苏丹港，并与苏丹主权委员会成员易卜拉欣·贾比尔举行会谈，重点就苏丹人道主义局势和保护平民等问题进行商讨。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3995437.d.html</link>
-            <guid>3757103</guid>
-            <pubDate>Thu, 29 Aug 2024 15:13:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家矿业公司：目标是在2025年3月正式建立公私合营伙伴关系。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0771083.d.html</link>
-            <guid>3757100</guid>
-            <pubDate>Thu, 29 Aug 2024 15:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[智利国家矿业公司：力拓集团、Eramet和比亚迪等公司符合Altoandinos锂项目的资格。]]></title>
-            <guid>3757099</guid>
-            <pubDate>Thu, 29 Aug 2024 15:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【空客成都全生命周期服务中心接收拆解回收利用业务的首架飞机】据空中客车官微，空中客车成都飞机全生命周期服务中心8月29日迎来进行拆解回收利用业务的首架飞机。该架A330-200飞机的所有者为横琴小翼飞机技术有限公司。此次飞机的拆解将由服务中心和空中客车中国研发和创新中心（ACRI）以及江苏亨睿碳纤维科技有限公司（HRC）合作完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisyc9463433.d.html</link>
-            <guid>3757098</guid>
-            <pubDate>Thu, 29 Aug 2024 15:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【贝达药业制定“质量回报双提升”行动方案 走创新发展道路】贝达药业8月29日晚间公告，公司结合发展战略、经营情况及财务情况，制定了“质量回报双提升”行动方案。具体举措包括：聚焦创新，做中国百姓吃得起的好药；深化合作，协同打造医药产业生态圈；规范运作，构建高效公司治理体系；重视回报，和投资者共享经营成果；深化沟通，积极有效传递公司价值。未来公司将继续坚定不移走创新发展道路，切实做好“质量回报双提升”，实现公司高质量、可持续发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0769356.d.html</link>
-            <guid>3757097</guid>
-            <pubDate>Thu, 29 Aug 2024 15:03:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉央行：委内瑞拉二季度GDP同比增长8.78%，连续第十三个季度扩张，前值增长8.4%。]]></title>
-            <guid>3757096</guid>
-            <pubDate>Thu, 29 Aug 2024 15:02:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【爱尔眼科制定“质量回报双提升”行动方案 推进数字眼科建设】爱尔眼科8月29日晚间公告，公司结合自身发展战略及经营、财务情况，制定“质量回报双提升”行动方案。具体举措包括：聚焦核心业务，全方位推动高质量发展；推进数字眼科建设，发展眼科新质生产力；公司发展与股东回报和谐统一，与投资者共享发展成果；践行可持续发展，积极履行社会责任；加强信息披露合规透明度，创新投资者关系模式，高效传递公司价值。展望未来，公司将继续以“使所有人，无论贫穷富裕，都享有眼健康的权利”为使命，严格履行上市公司责任和义务，持续强化核心竞争力，夯实公司治理，切实做好“质量回报双提升”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3991472.d.html</link>
-            <guid>3757094</guid>
-            <pubDate>Thu, 29 Aug 2024 15:00:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【许继电气制定“质量回报双提升”行动方案 紧抓新型电力系统建设机遇】许继电气8月29日晚间公告，为持续推动公司高质量发展和投资价值提升，切实履行上市公司责任，维护全体股东利益，共同促进资本市场平稳健康发展，制定了“质量回报双提升”行动方案，具体举措包括全面提升核心竞争力，实现高质量可持续发展 ；坚持规范运作，提升信息披露质量 ；加强投资者关系管理，提升投资者回报。未来，公司将紧抓“双碳”和新型电力系统建设机遇，推动公司聚焦主责主业，不断贴近客户需求，进一步优化产业布局，增强核心功能，提升竞争优势；积极落实“以投资者为本”的理念，通过良好的业绩表现、持续稳定的现金分红、规范的公司治理积极回报广大股东。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxy0768140.d.html</link>
-            <guid>3757093</guid>
-            <pubDate>Thu, 29 Aug 2024 14:59:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国官员表示，乌克兰的F-16战斗机于周一发生坠毁，但似乎并非由俄罗斯的军事行动所致。]]></title>
-            <guid>3757091</guid>
-            <pubDate>Thu, 29 Aug 2024 14:56:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三峡能源与隆基绿能座谈】据三峡能源消息，8月28日，三峡能源董事长、党委书记朱承军与隆基绿能创始人、总裁李振国一行在京举行座谈，双方就进一步深化新能源开发合作等方面进行交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3990262.d.html</link>
-            <guid>3757090</guid>
-            <pubDate>Thu, 29 Aug 2024 14:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【会计师事务所流水线生产虚假报告 出售4.7万份假报告】无审计程序，无真实材料，报告从何而来？警方锁定了北京一家会计师事务所，一走进这家事务所，发现所有人员不是在做审计工作，而是像流水线一样，以客户发给他们的审计报告打印、盖章、装订，俨然一个印刷工厂。事务所每月购买用于打印的纸张达30万元，邮寄费20万元。经调查，涉案事务所法人代表是左某，事务所还存在“人职分离”的违规情况。截至案发，左某实际掌控3家会计师事务所、1家资产评估事务所、7家淘宝店铺，累计销售虚假审计报告47000余份，涉及全国31个省市自治区，非法销售所得高达5100余万元。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3990056.d.html</link>
-            <guid>3757089</guid>
-            <pubDate>Thu, 29 Aug 2024 14:55:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大族激光制定“质量回报双提升”行动方案 将保持稳健的分红政策】大族激光8月29日晚间公告，为维护公司全体股东利益，增强投资者信心，公司制定“质量回报双提升”行动方案，具体举措包括坚持战略引领，实现高质量发展；不断夯实公司治理，积极履行社会责任；持续提升信息披露质量，不断强化投资者关系管理；以投资者为本，重视投资者回报。后续，公司将继续保持稳健的分红政策，充分利用股份回购、现金分红等多种措施与全体股东分享公司发展的红利。展望未来，公司将坚持“基础器件技术领先，行业装备深耕应用”的发展战略，持续提升核心竞争力，夯实公司治理，积极落实“质量回报双提升”行动方案。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-08-29/detail-incmisxw3988887.d.html</link>
-            <guid>3757085</guid>
-            <pubDate>Thu, 29 Aug 2024 14:52:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
