@@ -4,11 +4,413 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 05 Sep 2024 15:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 18:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【美国交通部对多家航空工作的薪酬发放行为展开调查】美国交通部对多家航空工作的薪酬发放行为展开调查，受调查的公司包括美国航空、达美航空、美联航及美国西南航空。调查将评估其薪酬制度是否公平且促进竞争。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvca5409168.d.html</link>
+            <guid>3765845</guid>
+            <pubDate>Thu, 05 Sep 2024 18:06:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际原子能机构：扎波罗热核电站火灾原因仍在调查中】国际原子能机构5日发表声明说，该机构总干事格罗西结束了本周在扎波罗热核电站的考察行程，该机构对扎波罗热核电站冷却塔8月11日发生火灾原因的调查仍将继续。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvay8654179.d.html</link>
+            <guid>3765844</guid>
+            <pubDate>Thu, 05 Sep 2024 18:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西8月份出口降至290.79亿美元，预估298.50亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvay8653805.d.html</link>
+            <guid>3765842</guid>
+            <pubDate>Thu, 05 Sep 2024 18:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【德国伊弗经济研究所：德国经济增长将陷入停滞】当地时间9月5日，德国伊弗经济研究所发布秋季经济预测报告指出，受到周期性因素和结构性因素的影响，德国经济仍将陷入危机。伊弗经济研究所在一份声明中表示，继去年经济萎缩0.3%后，今年经通胀调整后的国内生产总值预计将停滞不前。与该研究所发布的夏季经济预测相比，本年度的增长预期下调0.4个百分点，德国经济增长将陷入停滞。此外，2025年德国经济增长预期下调0.6个百分点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvca5407746.d.html</link>
+            <guid>3765841</guid>
+            <pubDate>Thu, 05 Sep 2024 17:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰武装总司令西尔斯基：库尔斯克地区的行动正在顺利进行，俄罗斯在乌克兰东部的波克罗夫斯克地区六天内没有取得进展。]]></title>
+            <guid>3765840</guid>
+            <pubDate>Thu, 05 Sep 2024 17:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[墨西哥副财政部长约里奥：墨西哥批准证券法的二级监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvce5248265.d.html</link>
+            <guid>3765839</guid>
+            <pubDate>Thu, 05 Sep 2024 17:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：俄罗斯外贸银行、俄罗斯联邦储蓄银行的CEO寻求采取行动提升人民币流动性。]]></title>
+            <guid>3765838</guid>
+            <pubDate>Thu, 05 Sep 2024 17:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴西财政部秘书Ceron：八月份的税收收入表现非常强劲。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvay8651987.d.html</link>
+            <guid>3765837</guid>
+            <pubDate>Thu, 05 Sep 2024 17:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[环球影业主席唐娜·兰利（Donna Langley）：票房将维持在2023年的区间内，电影市场无法回归2019年的水平。]]></title>
+            <guid>3765836</guid>
+            <pubDate>Thu, 05 Sep 2024 17:42:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：总统拜登不会为其子亨特赦免或减刑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvch2024138.d.html</link>
+            <guid>3765835</guid>
+            <pubDate>Thu, 05 Sep 2024 17:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫新闻秘书让·皮埃尔：美国外国投资委员会（CFIUS）对日本制铁与美国钢铁(X.N)的审查程序仍在继续。]]></title>
+            <guid>3765834</guid>
+            <pubDate>Thu, 05 Sep 2024 17:38:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国联邦调查局（FBI）突袭纽约市长埃里克·亚当斯高级助手的住所。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvay8650799.d.html</link>
+            <guid>3765833</guid>
+            <pubDate>Thu, 05 Sep 2024 17:34:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私募股权投资机构Vista Equity、黑石集团正在洽谈收购软件供应商Smartsheet。]]></title>
+            <guid>3765832</guid>
+            <pubDate>Thu, 05 Sep 2024 17:33:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白宫称以色列和哈马斯尚未就被扣押人员交换达成一致】当地时间9月5日，美国白宫国家安全委员会发言人约翰·柯比表示，以色列和巴勒斯坦伊斯兰抵抗运动（哈马斯）尚未就停火协议中的被扣押人员交换内容达成一致。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvch2022038.d.html</link>
+            <guid>3765831</guid>
+            <pubDate>Thu, 05 Sep 2024 17:28:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【比亚迪力争到2027年成为巴西第五大汽车销售商】比亚迪的巴西商务总监Henrique Antunes在圣保罗表示，该公司的目标是，到2027年，在巴西汽车市场整体销量榜上排名达到第五。如果Antunes的目标实现，根据2024年8月的数据，达到第五名的比亚迪将排在大众汽车、菲亚特、通用汽车和现代汽车之后。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvca5404257.d.html</link>
+            <guid>3765830</guid>
+            <pubDate>Thu, 05 Sep 2024 17:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列方面称，自约旦河西岸大规模袭击开始以来已有36名恐怖分子被杀。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvce5243930.d.html</link>
+            <guid>3765829</guid>
+            <pubDate>Thu, 05 Sep 2024 17:23:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈里斯在全国范围内以49%对47%的支持率领先特朗普】埃默森民调显示：哈里斯在全国范围内以49%对47%的支持率领先特朗普。上次调查中，哈里斯以50%对46%的支持率领先特朗普。此项调查于9月3日至4日进行，通过手机、固定电话和线上小组方式对1,000名有可能投票的选民进行调查，误差区间在正负3个百分点内。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvca5402256.d.html</link>
+            <guid>3765827</guid>
+            <pubDate>Thu, 05 Sep 2024 17:10:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国起诉俄罗斯情报机构成员密谋入侵乌克兰政府计算机系统。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvce5240994.d.html</link>
+            <guid>3765825</guid>
+            <pubDate>Thu, 05 Sep 2024 17:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【厄瓜多尔首都发生森林火灾 数十人被疏散】当地时间9月5日，厄瓜多尔首都基多发生森林火灾，火灾导致大片植被烧毁，数十人被疏散，还造成3万多只鸟类死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvch2018043.d.html</link>
+            <guid>3765824</guid>
+            <pubDate>Thu, 05 Sep 2024 17:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[派拉蒙股价涨幅扩大至1%，为盘中高点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvch2017681.d.html</link>
+            <guid>3765823</guid>
+            <pubDate>Thu, 05 Sep 2024 17:03:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总理米歇尔·巴尼耶：法国所有政治力量必须得到尊重。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvch2017565.d.html</link>
+            <guid>3765822</guid>
+            <pubDate>Thu, 05 Sep 2024 17:02:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：天空之舞传媒收购派拉蒙的交易完成后，甲骨文创始人拉里·埃里森将控制派拉蒙。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvax4908502.d.html</link>
+            <guid>3765821</guid>
+            <pubDate>Thu, 05 Sep 2024 17:01:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国银行：英伟达的股价大跌是买入机会。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvay8645940.d.html</link>
+            <guid>3765820</guid>
+            <pubDate>Thu, 05 Sep 2024 16:55:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国法官应共和党主导的各州的要求，暂时阻止了美国总统拜登的新学生债务减免计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncvav8129725.d.html</link>
+            <guid>3765815</guid>
+            <pubDate>Thu, 05 Sep 2024 16:51:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[瑞士金融市场监管局（FINMA）负责人斯特凡·沃尔特：强有力的监管对瑞士的繁荣至关重要，瑞银是瑞士的“独特集群风险”。]]></title>
+            <guid>3765813</guid>
+            <pubDate>Thu, 05 Sep 2024 16:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据澳门特区政府网站，根据气象局预料八号风球将在今日（9月6日）中午前维持，教青局与气象局会商宣布今日各教育阶段全日停课。]]></title>
+            <guid>3765811</guid>
+            <pubDate>Thu, 05 Sep 2024 16:29:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广西水利厅将洪水防御四级应急响应提升为三级】鉴于广西当前的台风防御形势，按照广西水利厅洪水防御工作预案，广西水利厅决定自9月5日18时将洪水防御四级应急响应提升为三级应急响应。请相关单位履行工作职责，落实好水库防汛安全、江河洪水、山洪灾害防御、在建水工程度汛等各项工作，确保安全。]]></title>
+            <guid>3765810</guid>
+            <pubDate>Thu, 05 Sep 2024 16:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【对价127亿，华泰证券完成AssetMark出售】9月5日晚间，华泰证券公告称，其出售所持统包资产管理平台AssetMark全部股权已完成交割，最终交易对价为17.93亿美元。该公司将不再持有AssetMark股权。华泰证券半年报显示，2014年上半年，AssetMark共实现净利润5.09亿元人民币。此前华泰证券就表示，此次出售所得现金，将用于补充营运资金以及其他一般公司用途。业内人士指出，该交易帮助华泰证券实现了较高的投资回报，一方面有利于公司利益和股东利益最大化，另一方面有利于其进一步优化资产和资源配置，拓展未来业务布局。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncqve5527548.d.html</link>
+            <guid>3765809</guid>
+            <pubDate>Thu, 05 Sep 2024 16:27:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英国要求银行就私募股权借款工具提供更多信息】英国监管机构正在审查世界上一些最大的银行，了解其如何帮助私募股权公司层层加杠杆，进入8.2万亿美元并购行业中一个有争议的领域一窥究竟。知情人士称，英国审慎监管局(PRA)已经要求银行提供更多关于向并购基金提供资产净值贷款的信息。该机构询问了一些银行他们为此投入了多少资本、他们为这些贷款向基金管理人提供了多少杠杆。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncqva8772699.d.html</link>
+            <guid>3765808</guid>
+            <pubDate>Thu, 05 Sep 2024 16:25:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普竞选团队高级顾问布赖恩·休斯：特朗普将与特斯拉CEO埃隆·马斯克合作，探讨实施政府效率委员会使命的方式。]]></title>
+            <guid>3765806</guid>
+            <pubDate>Thu, 05 Sep 2024 16:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe总法律顾问Dana Rao将离职，早前帮助确立公司AI战略。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncquz5031592.d.html</link>
+            <guid>3765805</guid>
+            <pubDate>Thu, 05 Sep 2024 16:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国总理府举行权力交接仪式】当地时间9月5日下午，北京时间今天（9月6日）凌晨，法国总理府马提尼翁宫举行权力交接仪式。新总理米歇尔·巴尼耶正式接替任看守政府总理阿塔尔，履新法国政府总理一职。稍早前，法国总统马克龙任命巴尼耶为新一任法国总理。巴尼耶现年73岁，曾在英国“脱欧”谈判中担任欧盟首席谈判代表，并在法国政府历任环境部长、欧洲事务部长、外交部长、农业部长等职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncqve5525074.d.html</link>
+            <guid>3765802</guid>
+            <pubDate>Thu, 05 Sep 2024 16:10:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【京东超市发布新战略：投入百亿助品牌持续增长】9月5日，京东超市迎来成立十周年庆典，今年上半年，京东超市持续高速增长，新用户增长20%，订单量增长超30%，收入实现高双位数增长。京东集团CEO许冉表示，京东超市是京东集团决胜下个十年的重要战场之一，站在新十年的起点，京东超市将继续发挥自身高效的供应链和全渠道能力，构筑起繁荣的开放生态，助力合作伙伴健康、可持续发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-06/detail-incncqve5523109.d.html</link>
+            <guid>3765797</guid>
+            <pubDate>Thu, 05 Sep 2024 16:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[今日重点关注的财经数据与事件：2024年09月06日 周五
+① 14:00 德国7月季调后工业产出月率
+② 14:00 德国7月季调后贸易帐
+③ 14:00 英国8月Halifax季调后房价指数月率
+④ 14:45 法国7月工业产出月率
+⑤ 14:45 法国7月贸易帐
+⑥ 15:00 瑞士8月消费者信心指数
+⑦ 17:00 欧元区第二季度GDP年率终值
+⑧ 17:00 欧元区第二季度季调后就业人数季率
+⑨ 20:30 加拿大8月就业人数
+⑩ 20:30 美国8月失业率
+⑪ 20:30 美国8月季调后非农就业人口
+⑫ 20:30 美国8月平均每小时工资年率
+⑬ 20:30 美国8月平均每小时工资月率
+⑭ 20:45 美联储威廉姆斯发表讲话
+⑮ 22:00 美国8月全球供应链压力指数
+⑯ 23:00 美联储理事沃勒就经济前景发表讲话
+⑰ 次日01:00 美国至9月6日当周石油钻井总数]]></title>
+            <guid>3765795</guid>
+            <pubDate>Thu, 05 Sep 2024 16:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大众工作委员会：大众汽车将在德国电池工厂进一步削减产能。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5027909.d.html</link>
+            <guid>3765794</guid>
+            <pubDate>Thu, 05 Sep 2024 15:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【白俄罗斯总统：白方重视与中国发展地方合作】白俄罗斯总统卢卡申科9月5日表示，白方重视与中国发展地方合作。卢卡申科是在会见中国驻白俄罗斯大使谢小用时作上述表述的。卢卡申科表示，地方合作在白中两国领导人的推动下发展良好。中国一些地方的人口和经济甚至超过一些国家，白俄罗斯正与中国地方展开紧密合作。卢卡申科还就中国对白俄罗斯加入上海合作组织以及白俄罗斯与金砖国家合作给予的支持表示感谢。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8768036.d.html</link>
+            <guid>3765793</guid>
+            <pubDate>Thu, 05 Sep 2024 15:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上合示范区“丝路电商”综合服务基地启用，五大中心揭牌成立】 中国—上海合作组织地方经贸合作示范区“丝路电商”综合服务基地5日在山东省青岛市胶州市启用，上合美谷“三美”产业发展中心等五大中心揭牌成立。目前，“丝路电商”综合服务基地已形成集保税仓储、物流运输、跨境支付、展览展销、共享直播、培训孵化等功能于一体的电商合作全链条生态体系。据介绍，五个中心将聚焦破解服务规则体系建设不完善、丝路产品进出口渠道少、缺少专业人才和交流载体等制约“丝路电商”国际合作堵点难点，搭建海陆空铁一体化国际物流服务网络，开展个性化贸易定制服务，助推“丝路电商”综合服务基地建设。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8767997.d.html</link>
+            <guid>3765792</guid>
+            <pubDate>Thu, 05 Sep 2024 15:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中马企业合作对接 签约一批榴莲进出口项目】2024年中马企业合作对接会5日启动，设吉隆坡、北京、南宁会场。启动仪式上，马来西亚国际榴莲产业发展联合会与顺丰速运(马来西亚)有限公司、广西北港物流有限公司等签署合作谅解备忘录，推进农产品运输。一批中马企业、商协会就榴莲产品进出口贸易签约。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8250253.d.html</link>
+            <guid>3765790</guid>
+            <pubDate>Thu, 05 Sep 2024 15:55:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【工信部拟对电动自行车进行锂离子电池健康评估】中国工信部5日公开征求对《电动自行车用锂离子电池健康评估工作指引》的意见，拟对已投入使用的电动自行车用锂离子电池开展健康评估。根据健康评估指引，在电动自行车安全隐患全链条整治行动期间，各地政府依托取得资质认定的检验检测机构、第三方实验室以及电动自行车、锂离子电池销售网点等，通过必要的程序确定健康评估网点，并将网点清单和地址通过政府网站等渠道向社会公布。目前各地政府正在按国务院电动自行车安全隐患全链条整治工作统一部署，积极建设锂离子电池回收体系，确保存在健康隐患的锂离子电池“应收尽收”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8767549.d.html</link>
+            <guid>3765788</guid>
+            <pubDate>Thu, 05 Sep 2024 15:53:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超强台风“摩羯”来袭 澳门发出八号东北风球】随着超强台风“摩羯”临近，澳门特区政府地球物理暨气象局9月5日22时发出八号东北风球。澳门气象部门预计“摩羯”将于6日凌晨进入澳门300公里范围，受其环流及雨带影响，届时澳门风力将显著增强，伴随频密的暴雨及雷暴。根据澳门特区民航局公布的最新资料，澳门国际机场紧急应变中心已启动运作。截至5日20时，澳门机场已取消178个航班。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5027034.d.html</link>
+            <guid>3765787</guid>
+            <pubDate>Thu, 05 Sep 2024 15:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“金比钻贵”：培育钻石跌至天然钻石1/20】走访培育钻石重要产销地河南了解到，目前培育钻石毛坯价格已从高点时的每克拉100美元，降至约15美元。而终端附带鉴定证书的一克拉裸钻价格，也不过一千多元即可到手。“金比钻贵”已成为当下培育钻石饰品销售商的普遍认知，因此市场也不再销售50分大小以下的培育钻石饰品。价格弱势下，如今培育钻石从原料生产到终端布局的热情均已降温。行业人士认为，培育钻石市场仍具备发展潜能，但行业准入机制、鉴定规则等均仍待尽快完善。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8249705.d.html</link>
+            <guid>3765786</guid>
+            <pubDate>Thu, 05 Sep 2024 15:50:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【安理会谴责阿富汗首都喀布尔发生的袭击事件】当地时间9月5日，联合国安理会发表声明，强烈谴责9月2日发生在阿富汗首都喀布尔的袭击事件。安理会成员向受害者家属表示同情和慰问，并祝愿伤者早日康复。当地时间9月2日，阿富汗首都喀布尔第6警区发生一起自杀式袭击。喀布尔警方发言人哈立德·扎德兰表示，爆炸导致6名平民死亡，另有13人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8766274.d.html</link>
+            <guid>3765782</guid>
+            <pubDate>Thu, 05 Sep 2024 15:42:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【油价大跌后 OPEC+商定将增产计划暂缓两个月实施】由于油价在需求脆弱和供应充沛的背景下下滑，石油输出国组织(OPEC)+同意将原计划的石油增产措施暂缓两个月实施。因讨论未公开而要求匿名的代表称，该联盟的关键成员国不会按原计划在10月份增产18万桶/天。油价上涨超过1%。早前公布的美国经济数据表现疲软，原油价格本周早些时候闻讯跌破73美元/桶，创2023年末以来的最低水平。在经历了多年的严重通胀后，消费者获得了些许喘息，但对于沙特和OPEC+的其他国家来说，却可能因为油价过低而难以覆盖国家支出。在沙特和俄罗斯牵头下的OPEC+在6月份同意了一份将2022年以来实施的减产规模逐步恢复的路线图。但计划公布后，OPEC+就开始摇摆不定，一再强调，如有必要，增产计划也可以“暂停或逆转”。利比亚严重的产出中断似乎给OPEC+按原计划行事提供了空间，但成员国目前倾向于谨慎行事。延迟增产或可避免出现国际能源署(IEA)和贸易巨头托克集团等市场观察者预计会在第四季度出现的供应过剩。相反，花旗集团警告称，“开闸”则可能令油价跌向50美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5025307.d.html</link>
+            <guid>3765780</guid>
+            <pubDate>Thu, 05 Sep 2024 15:41:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：美国抵押贷款利率正在下降，可能还会进一步下降。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8247820.d.html</link>
+            <guid>3765779</guid>
+            <pubDate>Thu, 05 Sep 2024 15:40:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：就业市场不再被视为通胀压力的来源。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8247735.d.html</link>
+            <guid>3765778</guid>
+            <pubDate>Thu, 05 Sep 2024 15:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[普华永道英国办事处减少远程办公，要求员工每周至少3天回办公室或见客户。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8765707.d.html</link>
+            <guid>3765777</guid>
+            <pubDate>Thu, 05 Sep 2024 15:39:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦在被问及美国钢铁和日本制铁问题时表示，美国欢迎外国直接投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5024583.d.html</link>
+            <guid>3765776</guid>
+            <pubDate>Thu, 05 Sep 2024 15:37:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：各种迹象表明消费支出和投资支出稳健。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5024391.d.html</link>
+            <guid>3765775</guid>
+            <pubDate>Thu, 05 Sep 2024 15:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特朗普竞选办公室被装窃听器？美警方：是恶作剧】据美国《纽约时报》9月3日报道，上周有传言称，美国前总统特朗普竞选团队在佛罗里达州西棕榈滩的办公室被安装了窃听装置。当地警方接到报警后抵达现场，关闭办公室进行搜查。最终发现了一个塑料的恶作剧装置，网上售价13.97美元。报道称，在警察在场的情况下，特朗普竞选团队的官员很快确定，这些装置很可能是有人在恶作剧。一名直接了解此事的消息人士透露，目前还没有人承认说是自己搞出的这场恶作剧。特朗普的发言人没有立即回应置评请求。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5024230.d.html</link>
+            <guid>3765774</guid>
+            <pubDate>Thu, 05 Sep 2024 15:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国财长耶伦：我们有一个良好、健康的就业市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8765126.d.html</link>
+            <guid>3765773</guid>
+            <pubDate>Thu, 05 Sep 2024 15:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈马斯重申应在保证全面停火前提下达成人员交换协议】当地时间9月5日下午，巴勒斯坦伊斯兰抵抗运动（哈马斯）发布哈马斯政治局成员兼加沙停火和人员交换协议谈判代表团团长哈利勒·哈亚的公开讲话，重申应在保证加沙地带全面停火的前提下达成交换被扣押人员协议。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5023760.d.html</link>
+            <guid>3765772</guid>
+            <pubDate>Thu, 05 Sep 2024 15:33:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[德国DAX 30指数初步收涨0.13%，报18615.44点。法国股指初步收跌0.65%，意大利股指初步收涨0.18%，英国股指初步收跌0.14%。]]></title>
+            <guid>3765769</guid>
+            <pubDate>Thu, 05 Sep 2024 15:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国机构：阿富汗人道主义资金缺口大，需增加支持】当地时间9月5日，联合国人道主义事务协调厅发布消息称，今年阿富汗人道主义应急计划仅获得25%的资金，迫切需要增加支持。据联合国数据，每两个阿富汗人中就有一人受贫困影响，80%的家庭每天生活费不到1美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5023273.d.html</link>
+            <guid>3765768</guid>
+            <pubDate>Thu, 05 Sep 2024 15:31:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗尔斯·罗伊斯：正配合欧洲航空安全部门EASA对空客A350机队的调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8244761.d.html</link>
+            <guid>3765767</guid>
+            <pubDate>Thu, 05 Sep 2024 15:25:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【福特8月美国汽车销量增长13.4% 称SUV和皮卡需求强劲】福特汽车周四表示，受SUV和皮卡需求强劲的推动，8月份美国汽车销量增长13.4%，至182,985辆。其中，电动汽车的销量增长了28.9%，而混合动力汽车的销量增长了近50%。根据Wards Intelligence周三公布的数据，整体而言，美国8月经季节调整后的年化销量约为1,513万辆。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5518115.d.html</link>
+            <guid>3765766</guid>
+            <pubDate>Thu, 05 Sep 2024 15:25:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国机构：也门暴雨和洪灾已致超56万人受灾】根据联合国国际移民组织当地时间9月5日发布的数据，也门暴雨和洪灾受灾人数达562000人。国际移民组织呼吁各方继续向受灾家庭提供支持和紧急援助。自今年7月下旬以来，也门多个地区遭遇暴雨和洪水袭击。因洪灾多发生在胡塞武装控制区，也门政府尚未公布洪灾导致的确切死亡、失踪、受伤和受灾人数。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8763360.d.html</link>
+            <guid>3765764</guid>
+            <pubDate>Thu, 05 Sep 2024 15:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【台风“摩羯”将正面袭击雷州半岛，广东多地采取“五停”措施】 广东省气象台预报，台风“摩羯”将于6日下午到夜间在广东阳江到海南琼海一带沿海登陆，正面袭击雷州半岛。广东省防汛防旱防风总指挥部于5日10时将防风应急响应提升至最高级别的Ⅰ级。阳江、湛江、茂名等地采取停课、停工、停运等措施积极防御。茂名市三防指挥部要求，自5日22时起，在全市范围内采取“五停”措施，即：停课、停工、停产、停运、停业，各地开放避险庇护场所供群众避风避险。阳江市三防指挥部也于5日发布了防台风“五停”措施。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8763271.d.html</link>
+            <guid>3765763</guid>
+            <pubDate>Thu, 05 Sep 2024 15:24:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adobe公司负责领导AI安全、对抗Figma的高管辞职。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5020780.d.html</link>
+            <guid>3765760</guid>
+            <pubDate>Thu, 05 Sep 2024 15:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【进入传统消费旺季 北京鸡蛋价格创年内新高，专家：上涨空间有限】8月份以来，北京市场的鸡蛋价格出现了一轮明显的上涨行情，月涨幅超过10%，8月鸡蛋批发价格也创下了年内新高。导致鸡蛋价格波动原因有哪些？鸡蛋进入传统消费旺季，整体需求比平常增加了20%左右，有力拉升了蛋价，批发价每斤5.4元也创出今年以来的最高价，今年春节后最低价时每斤仅为3.34元。另外，夏季强降雨天气对于鸡蛋等农产品的运输供应也造成一定的影响。数据显示，8月份北京新发地市场鸡蛋批发平均价为每公斤10.04元，比7月份上涨12.81%。北京新发地市场分析师刘通：鸡蛋价格的涨幅比较明显，主要是需求拉动的，从后期来看，蛋价暂时不会出现太明显的回落。专家表示，存栏量高，产蛋率提升，后期蛋价上涨空间有限。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8243453.d.html</link>
+            <guid>3765758</guid>
+            <pubDate>Thu, 05 Sep 2024 15:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国家防总联合工作组分赴广东海南协助指导防汛防台风工作】台风“摩羯”将以超强台风级正面登陆广东、海南沿海。5日从应急管理部获悉，由应急管理部、水利部、交通运输部和自然资源部四部门组成的国家防总联合工作组分赴广东、海南，协助指导防汛防台风工作。国家防总5日进行防汛防台风专题会商调度，组织自然资源部、住房城乡建设部、交通运输部、水利部、农业农村部、中国气象局、国家能源局等部门，分析台风“摩羯”发展变化，研判台风带来的暴雨、大风、风暴潮、洪水等灾害态势，调度广东、广西、海南、云南等省份，进一步安排部署重点地区防范应对工作。根据会商结果，台风“摩羯”可能成为2014年以来登陆华南沿海的最强台风，风雨潮浪极端性突出，破坏力极强，防汛防台风形势十分严峻。应急管理部有关负责人在会商中要求，有关方面要全面进入防御超强台风的应急状态，加强多部门会商研判，明确责任到岗到人。广东、海南等地要进一步抓好海上安全管控和上岸人员安全管理。要落实预警响应联动、预警“叫应”和跟踪反馈措施，及时采取停工、停业、停产、停课、休市等措施。要在重点地区、关键部位提前布防抢险救援和通信电力等力量装备，加强省内、省际间应急救援力量调配。此外，国家防总办公室、应急管理部加强与相关重点省份沟通对接，共预置工程抢险力量2178人、装备492台套、直升机5架、社会应急力量659人。国家防灾减灾救灾委员会办公室、应急管理部会同国家粮食和物资储备局向广东、海南两省紧急调拨折叠床、毛巾被、家庭应急包等7万件中央救灾物资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8243232.d.html</link>
+            <guid>3765757</guid>
+            <pubDate>Thu, 05 Sep 2024 15:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【检方提交新诉状 特朗普对指控不认罪】美国华盛顿联邦地区法院法官塔尼娅·丘特坎当地时间9月5日在法庭上表示，美国前总统特朗普的辩护律师约翰·劳罗称，特朗普对修改后的起诉书中的指控不认罪。丘特坎称其会考虑对特朗普进行传讯。美国司法部特别检察官杰克·史密斯8月27日提交修改后的起诉书，以便能在特朗普获得来自美国最高法院的“护身符”后，继续就特朗普涉嫌干预2020年大选案追究他的刑事责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8242424.d.html</link>
+            <guid>3765755</guid>
+            <pubDate>Thu, 05 Sep 2024 15:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【3连板东峰集团：半固态/固态电池相关业务目前处于测试打样的阶段 暂未产生利润贡献】东峰集团发布风险提示公告，公司布局的半固态/固态电池隔膜及基膜和涂布工艺等相关电池材料，投入多款产品的开发，配合合作方及下游研发半固态隔膜、全固态基膜并开展测试工作，但相关业务目前处于测试打样的阶段，暂未产生利润贡献。截至本公告披露日，上述业务板块对公司营业收入及净利润不会产生重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5019178.d.html</link>
+            <guid>3765754</guid>
+            <pubDate>Thu, 05 Sep 2024 15:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【东峰集团：控股股东提议5000万元-1亿元回购股份】东峰集团公告，公司控股股东香港东风投资提议公司以自有资金5000万元-1亿元回购股份，回购股份将全部用于注销并减少公司注册资本。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8241763.d.html</link>
+            <guid>3765753</guid>
+            <pubDate>Thu, 05 Sep 2024 15:12:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【英伟达投资数据中心运营商AppliedDigital】当地时间9月5日，美国数据中心运营商Applied Digital称，获得包括英伟达在内的投资人高达1.6亿美元的新融资，该公司当天美股开盘后股价飙涨超过66%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5515676.d.html</link>
+            <guid>3765752</guid>
+            <pubDate>Thu, 05 Sep 2024 15:11:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【ChatGPT企业版付费用户突破100万】OpenAI的ChatGPT企业版付费用户突破100万，这表明尽管竞争激烈，但企业对其聊天机器人的需求仍在增长。总部位于旧金山的OpenAI周四表示，该数字包括注册使用其ChatGPT Team和Enterprise服务的总人数，这些服务面向公司以及使用ChatGPT Edu产品的大学人员。这家初创公司曾在4月表示拥有60万企业ChatGPT用户，这不包括5月推出的Edu版本。OpenAI一年前推出了带有额外功能和隐私保护的企业版ChatGPT，以期提高收入并抵消研发AI产品的高成本。该公司在1月为小型公司推出了ChatGPT Team。许多AI竞争对手也推出了类似的企业服务。尽管OpenAI的付费企业用户今年大幅增加，但还不清楚有多少新企业注册。OpenAI表示，近一半的企业用户位于美国。在美国以外，该公司的聊天机器人最受德国、日本和英国企业用户的欢迎。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5018239.d.html</link>
+            <guid>3765750</guid>
+            <pubDate>Thu, 05 Sep 2024 15:09:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：人质被杀使达成加沙停火协议变得更加困难。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5515143.d.html</link>
+            <guid>3765749</guid>
+            <pubDate>Thu, 05 Sep 2024 15:08:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【持续高温天气令部分酒企延期开工，多家酒企回应：不会影响产量】今年，我国部分地区的高温天气持续到了9月，部分地区的白酒企业因为高温推迟了开工时间。不过，各地酒企也表示，这不会影响到整体产量。由于酿造工艺的不同，浓香型、清香型白酒企业一般会在夏天安排高温假期，待酷暑退去后恢复生产。酱酒企业也会根据生产工序安排轮休。虽然酒厂原定的暑期假已经结束，但确实有部分地区的白酒企业因为高温推迟了开工时间。不过，即便是表示受到天气一定影响的酒企，也明确回应，公司会采取相应措施确保生产顺利进行，对下半年生产任务不会产生影响。]]></title>
             <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5017298.d.html</link>
@@ -26,390 +428,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8239658.d.html</link>
             <guid>3765745</guid>
             <pubDate>Thu, 05 Sep 2024 15:03:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受台风“摩羯”影响 国铁南宁局部分列车停运】从中国铁路南宁局集团有限公司获悉，为确保旅客列车运行安全，国铁南宁局根据台风“摩羯”影响范围，将对途经黎湛线玉林至湛江、河茂线、玉铁线、防东铁路、钦防线、邕北线等线路、区段的旅客列车采取停运措施。截至9月5日18时，计划停运列车信息如下：9月6日停运途经黎湛线玉林至湛江、河茂线、玉铁线旅客列车；9月6日22时后至7日停运邕北、钦防、防东铁路动车；9月7日停运田靖线、湘桂线南宁至凭祥区段旅客列车；9月7日14时30分至9月8日0时停运南凭高铁南崇段动车。据了解，从5日20时起，国铁南宁局在沿海铁路、黎湛线、河茂线、益湛线梧州至马路圩等路段启动防洪、防御台风Ⅱ级应急响应。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8239411.d.html</link>
-            <guid>3765743</guid>
-            <pubDate>Thu, 05 Sep 2024 15:02:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国内商品期货夜盘收盘 菜粕涨超2%】国内商品期货夜盘收盘涨多跌少。菜粕涨超2%，棕榈油等涨超1%，豆油、PVC等小幅上涨；纯碱跌超1%，PX、焦炭等小幅下跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5016317.d.html</link>
-            <guid>3765741</guid>
-            <pubDate>Thu, 05 Sep 2024 15:01:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【韩正出席第九届东方经济论坛全会并致辞】第九届东方经济论坛全会9月5日下午在俄罗斯符拉迪沃斯托克市举行。中国国家副主席韩正出席并作了题为《深化团结合作共促繁荣发展》的致辞。韩正指出，中方愿同地区国家共同努力，深化团结合作，共同促进本地区和平稳定和繁荣发展。韩正对深化东北亚地区合作提出三点建议。一是秉持开放包容。中国坚定奉行互利共赢的开放战略，推动建设开放型世界经济，反对保护主义，反对“脱钩断链”，反对单边制裁、极限施压。二是深化互利合作。东北亚地区各国要积极寻找更多利益契合点，共同维护产供链稳定畅通，加强在人工智能、数字经济、绿色经济等领域合作，助力共同发展。三是统筹发展安全。反对冷战思维，反对干涉别国内政，反对搞双重标准。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8238407.d.html</link>
-            <guid>3765737</guid>
-            <pubDate>Thu, 05 Sep 2024 14:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：巴以停火协议中的人质交换尚未达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8758355.d.html</link>
-            <guid>3765736</guid>
-            <pubDate>Thu, 05 Sep 2024 14:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[乌克兰紧急服务部门：俄罗斯对乌克兰波尔塔瓦的袭击造成的死亡人数已上升至55人，受伤人数达到328人，救援行动已结束。]]></title>
-            <guid>3765735</guid>
-            <pubDate>Thu, 05 Sep 2024 14:56:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国服务业连续第二个月增长和缓 积压订单指标大降】美国8月份服务业连续第二个月增长和缓，一项就业指标略有回落，积压订单指标大幅下降。美国供应管理学会(ISM)服务业指数为51.5，与前月基本持平。读数高于50表明扩张。周四数据显示，8月就业指标下滑至50.2。继7月略有改善后，积压订单指标下跌近7个点，创一年以来最大降幅。虽然该指标波动较大，但过去三个月中有两个月的订单萎缩 ，这可能促使企业调整员工数量和工时。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5015298.d.html</link>
-            <guid>3765734</guid>
-            <pubDate>Thu, 05 Sep 2024 14:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【霍尼韦尔任命内部人士为新任首席财务官】霍尼韦尔当地时间周四任命内部人士Mike Stepniak为新任首席财务官，因为现任首席财务官Greg Lewis决定辞去这一职务。Stepniak目前担任霍尼韦尔航空航天技术公司副总裁兼财务主管，他将在这家美国企业集团公布2024年业绩后继任。Stepniak自2020年起一直在该公司任职。Lewis将出任霍尼韦尔加速器业务高级副总裁，并担任首席执行官的高级顾问。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5015002.d.html</link>
-            <guid>3765733</guid>
-            <pubDate>Thu, 05 Sep 2024 14:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[提醒：北京时间23:00，美国能源信息署（EIA）将发布政府版原油库存周报，因周一休市而延后一天发布。]]></title>
-            <guid>3765731</guid>
-            <pubDate>Thu, 05 Sep 2024 14:50:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴黎残奥会田径女子铅球F64级：姚娟夺冠】在巴黎残奥会田径女子铅球F64级决赛中，中国选手姚娟以12米53的成绩夺得冠军，中国选手杨月以11米77的成绩获得季军。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqux8237283.d.html</link>
-            <guid>3765730</guid>
-            <pubDate>Thu, 05 Sep 2024 14:50:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：俄罗斯总统普京应停止谈论美国选举。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5013952.d.html</link>
-            <guid>3765728</guid>
-            <pubDate>Thu, 05 Sep 2024 14:47:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：哈萨克斯坦能源部要求在巨型Kashagan油田的合作伙伴将该油田的维护工作推迟到明年。该油田原定于10月份进行为期四周的维护，关于推迟维护工作的决定将于9月10日作出。]]></title>
-            <guid>3765727</guid>
-            <pubDate>Thu, 05 Sep 2024 14:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【石化机械50万方高抗硫压缩机组在普光气田投运】石化机械消息，9月5日，由石化机械三机分公司自主研发的3台50万方高抗硫压缩机在中原油田普光气田采气厂1＃增压站顺利投产，进气压力6.0兆帕，排气压力7.7兆帕，为普光气田攻坚上产再添新动力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5511256.d.html</link>
-            <guid>3765725</guid>
-            <pubDate>Thu, 05 Sep 2024 14:44:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰军队作战指挥部负责人：目前我99%确信，8月26日没有任何物体进入波兰空域。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncquz5012814.d.html</link>
-            <guid>3765724</guid>
-            <pubDate>Thu, 05 Sep 2024 14:43:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【法国政治家：美国因特朗普赢得大选机会高而攻击俄媒】法国"爱国者党"领导人、政治家弗洛里安·菲利波认为，美国对俄罗斯的指控和对包括RT电视台在内的俄罗斯媒体的制裁，是出于对唐纳德·特朗普在总统大选中获胜机会很高的担忧。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8756253.d.html</link>
-            <guid>3765723</guid>
-            <pubDate>Thu, 05 Sep 2024 14:42:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西推出电动自行车以旧换新补贴活动】近日，广西发布新一轮支持消费品以旧换新政策。除了冰箱、洗衣机、电视机、空调等8类国家指定产品外，广西还新增了洗碗机、蒸烤一体机、扫地机器人、智能门锁、智能马桶等7类产品，补贴家电产品增至15类。此外，广西还首次推出电动自行车以旧换新补贴活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8755933.d.html</link>
-            <guid>3765720</guid>
-            <pubDate>Thu, 05 Sep 2024 14:41:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带40878人死亡】加沙地带卫生部门当地时间9月5日下午发布的消息显示，过去24小时，以军在加沙地带开展的军事行动共导致17人死亡、56人受伤。自去年10月7日新一轮巴以冲突爆发以来，以军在加沙地带的军事行动已导致40878名巴勒斯坦人死亡、94454人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5510334.d.html</link>
-            <guid>3765719</guid>
-            <pubDate>Thu, 05 Sep 2024 14:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9月5日欧盘美盘重要新闻汇总
-国内新闻
-1. 前7个月央企战略性新兴产业投资超1万亿元， 同比增长24%。
-2. 央行持有的特别国债“24续作特别国债01”在银行间市场首现卖单。
-3. 财政部等五部门：海南自由贸易港药品、医疗器械 “零关税”。
-4. 国内成品油迎年内第七降，加满一箱油将少花4元。
-5. 财政部就《境外会计组织境内业务活动管理办法（征求意见稿）》征求意见。
-6. 港交所：香港天文台已发出八号台风信号，收市后交易时段将暂停交易。
-7. 蔚来二季度营收和交付量双创新高。
-8. 马斯克“抄底”中国房产不实，特斯拉回应称“假消息”。
-9. 申万宏源证券承销保荐副总经理王昭凭被留置。
-国际新闻
-1. 普京：已准备好与乌谈判。
-2. 不到10万！“小非农”就业人数增幅为三年来最小。
-3. 就业数据互相“打架”，美国至8月31日当周初请失业金人数 22.7万人，预期23万人，前值由23.1万人修正为23.2万人。
-4. 法国总统任命米歇尔·巴尼耶为新任总理。
-5. 市场消息：利比亚Agoco石油公司将原油产量提高至23.2万桶/日。
-6. 代表们表示，欧佩克+就推迟增加石油供应达成协议。]]></title>
-            <guid>3765716</guid>
-            <pubDate>Thu, 05 Sep 2024 14:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧洲航空安全局将检查部分空客A350 此前国泰航空发现引擎故障】欧洲航空安全局(EASA)将要求对空客A350引擎进行一次性检查，此前国泰航空一架空客A350客机在飞行途中发现引擎故障，迫使该公司暂时停飞部分飞机。EASA一位发言人在电邮中表示，监管机构将于周四晚些时候发布紧急适航指令，概述燃油管道检查的详细要求。EASA的行动标志着官方首次确认本周初的事故中出现引擎起火，当时导致CX383航班在起飞前往苏黎世后不久折返香港。A350-1000型号搭载罗尔斯·罗伊斯控股生产的Trent XWB-97发动机，EASA表示并非所有A350都需要检查。EASA表示，检查将要求“识别并暂停使用任何潜在受损的高压燃油软管”。罗尔斯·罗伊斯股价一度下跌3.4%，延续了本周的跌势。空客股价下跌1.6%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5509329.d.html</link>
-            <guid>3765713</guid>
-            <pubDate>Thu, 05 Sep 2024 14:34:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【穆迪上调京东信用评级至A3 展望稳定】国际评级机构穆迪宣布将京东(09618.HK)的信用评级从Baa1上调至A3，展望稳定。这是穆迪自2016年以来第三次上调京东评级。穆迪预测，京东未来将继续保持核心零售业务的稳定增长，第三方商家的数量和业务增长也值得关注。此外，高效的成本管控、营运效率的提升和品类矩阵的进一步优化，也有助于京东维持健康的盈利水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqva8754194.d.html</link>
-            <guid>3765711</guid>
-            <pubDate>Thu, 05 Sep 2024 14:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上交所上市委9月12日审议安集科技再融资事项】上海证券交易所上市审核委员会定于2024年9月12日召开2024年第22次上市审核委员会审议会议，审议安集微电子科技(上海)股份有限公司(再融资)。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncqve5508191.d.html</link>
-            <guid>3765709</guid>
-            <pubDate>Thu, 05 Sep 2024 14:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广州地铁设计研究院与中建四局投资发展公司签订战略合作框架协议】9月5日，广州地铁设计研究院股份有限公司与中建四局投资发展公司举行战略合作框架协议签订仪式。双方将基于各自优势及资源，在新能源光伏、生态环保EOD项目、货运铁路设计、城市综合TOD开发等领域开展深入合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8362822.d.html</link>
-            <guid>3765708</guid>
-            <pubDate>Thu, 05 Sep 2024 14:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来涨超6% 二季度营收和交付量双创新高】蔚来美股涨超6%。该公司今日发布2024年二季度财报，营收和交付量双创新高：二季度营收174.5亿元，同比增长98.9%，环比增长76.1%；交付量5.74万台，同比增长143.9%，环比增长90.9%；整车毛利率12.2%，同比提升6个百分点，环比提升3个百分点；研发支出32.2亿元，现金储备416亿元，亏损同比大幅收窄16.7%。蔚来同时给出史上最强单季交付和营收指引：三季度交付指引为6.1万台至6.3万台；三季度营收指引为191.1亿元至196.7亿元，两项指引均创历史新高。财报发布后，资本市场予以正向反馈。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5139741.d.html</link>
-            <guid>3765707</guid>
-            <pubDate>Thu, 05 Sep 2024 14:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[花旗银行给予顺丰同城H股买进的初始评级，目标价16港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5637347.d.html</link>
-            <guid>3765703</guid>
-            <pubDate>Thu, 05 Sep 2024 14:21:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【OpenAI考虑为其推理AI模型推出订阅服务】OpenAI的高管已经讨论了即将推出的大型语言模型的订阅服务，比如OpenAI专注于推理的“草莓”和名为“猎户”的新旗舰LLM。客户愿意为人工智能聊天机器人支付多少钱，不仅关系到OpenAI，也关系到提供类似产品的竞争对手，包括谷歌、Anthropic等公司。一位直接了解相关数字的人士表示，在OpenAI早期的内部讨论中，每月最高2000美元的订阅价格已经被讨论过，不过一切都不是最终结果。最终订阅价格是否会如此高还是未知数。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8360949.d.html</link>
-            <guid>3765702</guid>
-            <pubDate>Thu, 05 Sep 2024 14:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大中矿业：公司与内蒙古亚新隆顺特钢有限公司合作良好 不存在货款拖欠情况】有投资者在互动平台向大中矿业提问，据传内蒙古亚新隆顺特钢放假2年，该公司欠贵公司货款达5亿元，该公司一旦爆雷，将会给公司造成巨大影响，请问属实否？大中矿业回复称，公司与内蒙古亚新隆顺特钢有限公司合作良好，暂未关注到该公司拟放假停产事宜；此外，公司货款回收全部采取款到发货的销售策略，不存在货款拖欠情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5137305.d.html</link>
-            <guid>3765701</guid>
-            <pubDate>Thu, 05 Sep 2024 14:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧航局成功发射“哨兵-2C”卫星】欧洲航天局5日宣布，欧洲“全球环境与安全监测系统”（又称哥白尼计划）框架下的“哨兵-2C”卫星于当地时间4日晚从法属圭亚那库鲁航天中心成功发射，并顺利进入预定轨道。此次发射任务由“织女星”运载火箭完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8881887.d.html</link>
-            <guid>3765700</guid>
-            <pubDate>Thu, 05 Sep 2024 14:16:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【四川杉杉新材料公司增资5亿】四川杉杉新材料有限公司发生工商变更，公司注册资本由20亿人民币增至25亿人民币，同时部分高管发生变更。该公司成立于2021年8月，法定代表人为吴志红，经营范围包括石墨及碳素制品制造、新材料技术研发、石墨及碳素制品销售、新材料技术推广服务、普通货物仓储服务、货物进出口等，由上海杉杉锂电材料科技有限公司全资持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5636137.d.html</link>
-            <guid>3765698</guid>
-            <pubDate>Thu, 05 Sep 2024 14:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【ISM：美国8月服务业活动连续第二个月扩张】美国供应管理协会（ISM）表示，8月份服务业的经济活动连续第二个月扩张。服务业PMI录得51.5，在2024年的8个月中有6个月出现扩张。本月的数据显示，该行业51个月来第48次出现扩张。ISM服务业商业调查委员会主席Steve Miller表示：“8月份服务业PMI的增长是由于所有直接影响指数(商业活动、新订单、就业和供应商交付)接近或高于50。供应商交付指数在8月处于温和收缩区域。许多行业都提到了缓慢到适度的增长，而持续的高成本和利率压力被认为对业务业绩产生负面影响，并导致销售和流量疲软。尽管库存指数在8月份上升了3.1个点，进入扩张区间，但许多受访者表示，公司仍在积极管理库存。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8359382.d.html</link>
-            <guid>3765697</guid>
-            <pubDate>Thu, 05 Sep 2024 14:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国电子云中标北京亦庄人工智能公共算力平台（愿璟园）项目】 近日，北京数字基建投资发展有限公司发布《北京人工智能应用创新产业园智能算力中心（愿璟园）项目》中标公示，桑达股份所属中国电子云中标北京亦庄人工智能公共算力平台（愿璟园）项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5635988.d.html</link>
-            <guid>3765696</guid>
-            <pubDate>Thu, 05 Sep 2024 14:13:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国钢铁涨超3.8% 澄清尚未收到有关收购交易的最新消息或行政命令】美国钢铁(X.US)涨超3.8%，报30.5美元。该股昨日大跌超17%。消息面上，知情人士透露，美国总统拜登准备阻止日本制铁141亿美元收购美国钢铁公司的交易。美国钢铁公司对此表示，尚未收到任何有关该交易的最新消息或行政命令，预计将寻求所有可能选项确保交易完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5136401.d.html</link>
-            <guid>3765695</guid>
-            <pubDate>Thu, 05 Sep 2024 14:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哈马斯表示，致力于美国总统拜登提出的最初方案，任何协议都应包括以色列从加沙撤军。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8358938.d.html</link>
-            <guid>3765694</guid>
-            <pubDate>Thu, 05 Sep 2024 14:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：乌克兰今年冬天每天停电时间或长达 20 小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8358440.d.html</link>
-            <guid>3765693</guid>
-            <pubDate>Thu, 05 Sep 2024 14:10:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【智利北部发生5.5级地震】根据智利大学全国地震中心报告，当地时间9月5日6时38分，该国北部科尔查内发生5.5级地震，震源深度245.6公里。目前暂无人员伤亡及财产损失报告。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8879763.d.html</link>
-            <guid>3765692</guid>
-            <pubDate>Thu, 05 Sep 2024 14:09:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：特朗普对修改后的2020年大选颠覆指控拒不认罪。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5634218.d.html</link>
-            <guid>3765691</guid>
-            <pubDate>Thu, 05 Sep 2024 14:08:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【超强台风“摩羯”逼近 海口分批启动“六停”措施】今年第11号台风“摩羯”已加强为超强台风，目前最大风力17级，并持续逼近海南岛。4日晚，海口市区电闪雷鸣。目前，海南省政府已发布台风一级预警，海南省防减救灾委已将防汛防风应急响应提升至I级。受其影响，海口决定自5日12时起，在全市范围内分批启动停课、停航等“六停”措施。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8357702.d.html</link>
-            <guid>3765690</guid>
-            <pubDate>Thu, 05 Sep 2024 14:07:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国工程机械工业：8月工程机械主要产品月开工率环比下降1.64%】据中国工程机械工业协会统计：2024年8月工程机械主要产品月平均工作时长为86.6小时，环比下降0.2%；工程机械主要产品月开工率为61.9%，环比下降1.64%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8878764.d.html</link>
-            <guid>3765688</guid>
-            <pubDate>Thu, 05 Sep 2024 14:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI目前有100万ChatGPT付费商业用户，OpenAI考虑将订阅价格提高至每月2000美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8878384.d.html</link>
-            <guid>3765687</guid>
-            <pubDate>Thu, 05 Sep 2024 14:06:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[标普500指数、纳斯达克100指数在ISM数据发布后创下盘中新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5631275.d.html</link>
-            <guid>3765682</guid>
-            <pubDate>Thu, 05 Sep 2024 14:02:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月ISM非制造业指数 51.5，预期 51.4，前值 51.4。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5132472.d.html</link>
-            <guid>3765679</guid>
-            <pubDate>Thu, 05 Sep 2024 14:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：OPEC+已经围绕石油供应问题达成共识。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5629360.d.html</link>
-            <guid>3765677</guid>
-            <pubDate>Thu, 05 Sep 2024 13:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[摩根大通将信义光能评级上调至超配，目标价4港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8354696.d.html</link>
-            <guid>3765676</guid>
-            <pubDate>Thu, 05 Sep 2024 13:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【捷蓝航空涨近6% 上调第三季度业绩指引】廉价航空公司捷蓝航空(JBLU.US)涨近6%，报5.33美元。消息面上，捷蓝航空更新第三季度业绩指引，该公司现预计营收下降2.5%至增长1%，而之前的指引是下降5.5%至下降1.5%；预计可供客座里程下降5%至3%，而之前的指引是下降6%至下降3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8872058.d.html</link>
-            <guid>3765674</guid>
-            <pubDate>Thu, 05 Sep 2024 13:53:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兴森科技：具备HDI多层贯通板的量产能力 】 兴森科技(002436)9月5日在互动平台表示，公司具备HDI多层贯通板的量产能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8353638.d.html</link>
-            <guid>3765673</guid>
-            <pubDate>Thu, 05 Sep 2024 13:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[波兰央行行长格拉平斯基：波兰央行将继续购买黄金。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5624075.d.html</link>
-            <guid>3765669</guid>
-            <pubDate>Thu, 05 Sep 2024 13:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【毕马威：产业链企业需要创新发展来培育新质生产力】 国际四大会计师事务所之一的毕马威表示，在新形势、新变化、新业态的环境中，产业链企业需要创新发展，充分发挥科技创新主导作用，来培育发展新质生产力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5623673.d.html</link>
-            <guid>3765668</guid>
-            <pubDate>Thu, 05 Sep 2024 13:47:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列驻慕尼黑总领馆附近发生枪击 枪手被击毙】据德新社9月5日报道，德国巴伐利亚州官员5日表示，一名持枪男子当天在慕尼黑市中心的以色列总领事馆附近被警方开枪击毙。 据报道，巴伐利亚州内政部长约阿希姆·赫尔曼说，这名男子当时向警察开枪，警察进行还击，此人随后被击毙。 赫尔曼表示，死者的身份尚未确认。 慕尼黑警方表示，警察是在看到此人“明显携带了一支枪”后才干预的。现场的五名警察都没有受伤，事件未造成其他伤亡。 警方还说，没有迹象表明还有其他嫌疑人。 报道提到，9月5日正是1972年慕尼黑奥运会恐怖事件发生的纪念日，这一事件当时造成11名以色列人丧生。 以色列外交部表示，以色列驻慕尼黑总领事馆5日因举行悼念活动而闭馆，因此没有工作人员在枪击事件中受伤。（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8351387.d.html</link>
-            <guid>3765667</guid>
-            <pubDate>Thu, 05 Sep 2024 13:46:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国8月标普全球服务业PMI终值 55.7，预期55，前值55.2。
-美国8月标普全球综合PMI终值 54.6，预期53.9，前值54.1。]]></title>
-            <guid>3765666</guid>
-            <pubDate>Thu, 05 Sep 2024 13:45:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[特斯拉涨幅一度扩大至4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8350614.d.html</link>
-            <guid>3765665</guid>
-            <pubDate>Thu, 05 Sep 2024 13:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加沙卫生部门：自10月7日以来，以色列对加沙的军事攻势导致40,878名巴勒斯坦人遇难，94,454人受伤。]]></title>
-            <guid>3765664</guid>
-            <pubDate>Thu, 05 Sep 2024 13:43:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国钢铁股周四早盘上涨1.8%，前一交易日收盘下跌17.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5126576.d.html</link>
-            <guid>3765663</guid>
-            <pubDate>Thu, 05 Sep 2024 13:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【粤港澳三方在澳门联合召开“湾区标准”工作协调会】近日，广东省市场监督管理局、香港特别行政区政府工业贸易署、澳门特别行政区政府经济及科技发展局在澳门联合召开“湾区标准”工作协调会。会议通报了“湾区标准”工作的最新进展，粤港澳三方围绕相关议题进行商议。广东省市场监督管理局代表粤方提出推进“湾区标准”工作的相关思路，一是粤港澳三方工作协同更加有力。三地牵头部门建立更加密切的沟通交流机制，共同推动三地行业主管部门、企业协会参与“湾区标准”工作。而是工作成果更加有效，围绕粤港澳三地政府工作部署，以及粤港澳三地业界需求的“最大公约数”，确定“湾区标准”的工作方向，提升“湾区标准”的针对性和有效性。三是让各方更加有感。以实实在在的工作成效赢得各方的同感和共鸣。（广东市场监管）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckph5619767.d.html</link>
-            <guid>3765662</guid>
-            <pubDate>Thu, 05 Sep 2024 13:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北约秘书长斯托尔滕贝格：在库尔斯克攻势中，乌克兰人取得了显著成就。关于库尔斯克攻势，难以预测其发展情况，未来的艰难选择将取决于乌克兰方面。（在被问及乌克兰使用远程导弹的问题时）乌克兰有权自卫，我们在北约内部就此事进行着持续的讨论。乌克兰能够打击俄罗斯境内军事目标至关重要。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5125478.d.html</link>
-            <guid>3765661</guid>
-            <pubDate>Thu, 05 Sep 2024 13:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【欧派家居：不赞成以“恶性内卷”的价格战方式开展竞争】9月5日，欧派家居发布投资者交流活动会议纪要，其中提到，欧派家居不赞成使用“扰乱行业生态和发展秩序，恶性内卷”的价格战方式来开展竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8347853.d.html</link>
-            <guid>3765660</guid>
-            <pubDate>Thu, 05 Sep 2024 13:36:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【蔚来李斌：2025年第三品牌萤火虫将交付】在今日举办的蔚来汽车2024年Q2财报电话会上，蔚来汽车董事长李斌表示，蔚来会有三个品牌覆盖14万-80万元区间，其中2025年第三品牌萤火虫将交付。从产能角度，蔚来将为2025-2026年全线产品做准备，F2工厂已经开始双班生产，9月底到10月会达到双班生产能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5124364.d.html</link>
-            <guid>3765659</guid>
-            <pubDate>Thu, 05 Sep 2024 13:35:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[C3.ai盘初下跌18%，创下自2023年9月以来最大跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8862767.d.html</link>
-            <guid>3765657</guid>
-            <pubDate>Thu, 05 Sep 2024 13:34:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【澳门宣布进入即时预防状态】根据澳门地球物理气象局的评估，受台风“摩羯”的影响，将于2024年9月5日22时发出八号风球，按照行政长官批示，为保障市民生命及财产安全，根据第11/2020号法律《民防法律制度》第八条、第九条第一款及第十一条第一款（七）项的规定，宣布自2024年9月5日22时起，澳门特别行政区进入实时预防状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8346221.d.html</link>
-            <guid>3765656</guid>
-            <pubDate>Thu, 05 Sep 2024 13:32:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【对冲基金Walleye聘请原城堡投资的Rory Murphy担任资本市场主管】据一位知情人士透露，对冲基金Walleye Capital聘请前城堡投资的投资组合经理Rory Murphy担任资本市场全球主管。知情人士表示，常驻迈阿密的Murphy将于10月上任，向Walleye首席执行官Will England汇报工作。Murphy的领英资料显示，他于2005年加入城堡投资。Walleye的一位代表不予置评；截至8月底，公司管理着68亿美元资产。Walleye的前股票资本市场主管Michael Martin等上月遭裁员。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5123091.d.html</link>
-            <guid>3765655</guid>
-            <pubDate>Thu, 05 Sep 2024 13:32:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[加拿大8月标普全球综合PMI 47.8，前值47。
-加拿大8月标普全球服务业PMI 47.8，前值47.3。]]></title>
-            <guid>3765653</guid>
-            <pubDate>Thu, 05 Sep 2024 13:30:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国机构：阿富汗人道主义资金缺口大 需增加支持】当地时间9月5日，联合国人道主义事务协调厅发布消息称，今年阿富汗人道主义应急计划仅获得25%的资金，迫切需要增加支持。据联合国数据，每两个阿富汗人中就有一人受贫困影响，80%的家庭每天生活费不到1美元。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incncknz8344076.d.html</link>
-            <guid>3765652</guid>
-            <pubDate>Thu, 05 Sep 2024 13:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【裕太微：4口2.5G网通以太网物理层芯片预计年底推出量产样片】4口2.5G网通以太网物理层芯片目前已经完成初步研发，预计将于2024年年底推出量产样片。10G网通以太网物理层芯片正在研发中，初步估计将于2025年年底将推出该产品的量产样片，2026年正式量产出货。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8857273.d.html</link>
-            <guid>3765651</guid>
-            <pubDate>Thu, 05 Sep 2024 13:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【9月6日2时起，各航司在三亚机场执飞的航班预计全部取消】受今年第11号台风“摩羯”影响，为保障广大旅客安全出行，9月6日2时起，各航空公司在三亚凤凰国际机场执飞的进出港航班预计全部取消。请各位旅客关注航空公司官方通知或及时联系航空公司获取航班最新动态信息，合理安排出行计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpc5119557.d.html</link>
-            <guid>3765648</guid>
-            <pubDate>Thu, 05 Sep 2024 13:22:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【李斌：新能源汽车市场渗透率2年内超过80%】9月5日晚间的第二季度财报电话会上，蔚来董事长、CEO李斌表示，目前国内新能源汽车市场渗透率已经超过50%，不管是纯电车还是插混车，会加快对于油车的替换。在2年内，中国新能源汽车市场渗透率能够超过80%。蔚来已布局3个品牌，能够覆盖从14万~80万元的售价区间，第三工厂已经开工，将在明年第三季度正式量产。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-05/detail-incnckpe8855888.d.html</link>
-            <guid>3765647</guid>
-            <pubDate>Thu, 05 Sep 2024 13:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
