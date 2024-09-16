@@ -4,546 +4,481 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 15 Sep 2024 21:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2024 00:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[美国国家飓风中心表示，卡罗莱纳州海岸附近可能出现热带气旋，预计将带来暴雨和沿海洪水。]]></title>
-            <guid>3778626</guid>
-            <pubDate>Sun, 15 Sep 2024 21:06:41 GMT</pubDate>
+            <title><![CDATA[据美国《纽约时报》和福克斯新闻当地时间9月15日援引匿名执法人员报道称，意图刺杀美国前总统、共和党总统候选人特朗普的嫌疑人名叫瑞安·韦斯利·劳思，来自夏威夷。不过目前美国联邦调查局拒绝就嫌疑人的身份发表评论，其他相关执法机构也没有回应置评请求。（CCTV国际时讯 ）]]></title>
+            <guid>3778732</guid>
+            <pubDate>Mon, 16 Sep 2024 00:38:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[9月16日04时“贝碧嘉”中心距离上海浦东南汇嘴约85公里，强度为强台风级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphutc0406049.d.html</link>
-            <guid>3778625</guid>
-            <pubDate>Sun, 15 Sep 2024 21:05:17 GMT</pubDate>
+            <title><![CDATA[美国总统拜登表示，他已指示他的团队确保特勤局有资源来确保特朗普的安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0324674.d.html</link>
+            <guid>3778731</guid>
+            <pubDate>Mon, 16 Sep 2024 00:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国佛罗里达州棕榈滩县执法官员：当地官员已在美国前总统特朗普高尔夫俱乐部枪击事件中逮捕了嫌疑人。官员们发现了一把AK-47型武器。]]></title>
-            <guid>3778624</guid>
-            <pubDate>Sun, 15 Sep 2024 21:03:46 GMT</pubDate>
+            <title><![CDATA[佛罗里达州州长Ron DeSantis在X上发帖称，佛罗里达州将对特朗普的意图进行自己的调查。]]></title>
+            <guid>3778730</guid>
+            <pubDate>Mon, 16 Sep 2024 00:36:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海南省气象台2024年09月16日04时57分继续发布海上雷雨大风黄色预警信号：北部湾北部海面04时58分到20时可能出现雷雨大风天气，风力达7～9级并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
-            <guid>3778623</guid>
-            <pubDate>Sun, 15 Sep 2024 21:03:08 GMT</pubDate>
+            <title><![CDATA[【中广核太平岭核电站1号机组热试完成】9月15日10时00分，中广核太平岭核电站1号机组完成一回路排水，标志着机组热态性能试验圆满结束，向着高质量投产目标再进一程，为后续装料、并网发电等工作奠定了坚实基础。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4040527.d.html</link>
+            <guid>3778729</guid>
+            <pubDate>Mon, 16 Sep 2024 00:34:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：FBI称特朗普显然是暗杀企图的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphusw7326342.d.html</link>
-            <guid>3778621</guid>
-            <pubDate>Sun, 15 Sep 2024 20:53:38 GMT</pubDate>
+            <title><![CDATA[【今年1-8月，北京接待游客和旅游收入均创历史同期新高】据介绍，今年1月至8月，北京共接待游客近2.5亿人次，实现旅游收入超过4500亿元，均创历史同期新高。同时，北京共接待入境游客超230万人次，比去年同期增长2倍多。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0323542.d.html</link>
+            <guid>3778728</guid>
+            <pubDate>Mon, 16 Sep 2024 00:31:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国联邦调查局（FBI）表示，他们正在调查“似乎是针对前总统特朗普的暗杀企图”。]]></title>
-            <guid>3778620</guid>
-            <pubDate>Sun, 15 Sep 2024 20:46:46 GMT</pubDate>
+            <title><![CDATA[【中国辅助生殖机构爱维艾夫医院管理集团申请香港IPO】 根据呈交香港交易所的文档，爱维艾夫医院管理集团向港交所提交了上市前文件。该公司是一家中国辅助生殖技术和服务提供商。中信证券为独家保荐人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0323311.d.html</link>
+            <guid>3778727</guid>
+            <pubDate>Mon, 16 Sep 2024 00:30:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普：枪响时正在打高尔夫】特朗普就其所在并拥有的高尔夫球场附近发生枪击事件表示，当枪声响起时，他正在打高尔夫球，之后他很快被送上高尔夫球车，并被带到俱乐部会所。特朗普称：“告诉大家我很好，特勤局做得很好。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphusy4073507.d.html</link>
-            <guid>3778619</guid>
-            <pubDate>Sun, 15 Sep 2024 20:45:58 GMT</pubDate>
+            <title><![CDATA[【哈马斯官员：有能力继续作战 希望各派实现联合治理】巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员奥萨马·哈姆丹15日在土耳其接受采访时表示，本轮巴以冲突爆发以来，尽管哈马斯武装人员有所损失，但哈马斯在战斗中积累了经验，并补充了新成员，有能力继续与以色列作战。针对加沙停火谈判问题，哈姆丹指责美国政府没有对以色列施加足够的压力，以制止以色列对加沙地带的军事行动。哈姆丹同时强调，哈马斯希望同巴勒斯坦各派别联合治理约旦河西岸和加沙地带，坚决反对以色列分裂巴勒斯坦的企图。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7100160.d.html</link>
+            <guid>3778726</guid>
+            <pubDate>Mon, 16 Sep 2024 00:30:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫发表声明称，总统和副总统已经听取了有关特朗普高尔夫球场安全事件的简报，前总统特朗普当时正在那里打高尔夫球。得知他平安无事， 总统与副总统都松了一口气。]]></title>
-            <guid>3778618</guid>
-            <pubDate>Sun, 15 Sep 2024 20:40:04 GMT</pubDate>
+            <title><![CDATA[麦格理通过发行资本票据筹集15亿澳元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0323043.d.html</link>
+            <guid>3778725</guid>
+            <pubDate>Mon, 16 Sep 2024 00:29:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国副总统哈里斯：我已经听取了有关前总统特朗普及其佛罗里达州高尔夫球场附近发生枪击的报告，我很高兴他是安全的。暴力在美国没有容身之地。]]></title>
-            <guid>3778617</guid>
-            <pubDate>Sun, 15 Sep 2024 20:38:13 GMT</pubDate>
+            <title><![CDATA[【宁波机场今天11时30分起有序恢复航班运行】根据台风目前情况和路径趋势，宁波机场计划从今天（16日）上午11时30分起有序恢复航班正常运行，全天计划执行航班158架次，其中进港97架次、出港61架次。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7287051.d.html</link>
+            <guid>3778724</guid>
+            <pubDate>Mon, 16 Sep 2024 00:27:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国方面于当地时间下午4:30（北京时间今日凌晨4:30）举行有关特朗普高尔夫球场枪击案的新闻发布会。]]></title>
-            <guid>3778616</guid>
-            <pubDate>Sun, 15 Sep 2024 20:31:25 GMT</pubDate>
+            <title><![CDATA[【受台风贝碧嘉影响，上海省际客运班线已停运127班】受台风“贝碧嘉”影响，本市出现强风暴雨天气，为避免因恶劣天气造成事故的发生，确保乘客安全，本市发往浙江、江苏方向的省际班线已停运127班，届时还将根据气象预警情况视情继续扩大停运范围至全部停运。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4037439.d.html</link>
+            <guid>3778723</guid>
+            <pubDate>Mon, 16 Sep 2024 00:27:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士称，特朗普打高尔夫球时，特勤局向一名携带武器的嫌疑人开枪。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphutc0398108.d.html</link>
-            <guid>3778615</guid>
-            <pubDate>Sun, 15 Sep 2024 20:26:28 GMT</pubDate>
+            <title><![CDATA[【受台风天气影响，黄山风景区最新发布】黄山风景区管理委员会发文称，据最新天气预报，受台风“贝碧嘉”影响，黄山风景区9月16日将有一次强降水及大风天气过程，对索道运行影响较大，天都峰、西海大峡谷和西大门等险要区域可能会临时关闭，实际执行中景区将根据天气变化情况动态调整管理措施。敬请广大游客朋友密切关注景区天气变化及台风预警信息，及时调整行程安排，已预约黄山风景区9月16日门票及景区内其他消费项目，若需改变游览计划的，请从原渠道退订或改期预约游览；确需进山游览的，请配合景区管理，共同做好安全防范工作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4037354.d.html</link>
+            <guid>3778722</guid>
+            <pubDate>Mon, 16 Sep 2024 00:27:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【特朗普所在高尔夫球场附近发生枪击 据悉枪手手持AK-47】综合多家媒体报道，当地时间15日，美国前总统特朗普所有的位于佛罗里达州西棕榈滩的高尔夫俱乐部附近发生枪击事件。据执法部门消息人士称，特工在特朗普的高尔夫球场附近发现一名携带AK-47的男子，特工在对该名男子开枪后，特朗普被特勤局紧急送往安全地带。当地时间周日下午2点左右，这位前总统正在其高尔夫球场打高尔夫球。据悉，枪手是在特朗普前面几个球洞被先遣队发现的。目前尚不清楚该男子是否在跑道上或附近。一名特工开了枪并开了好几枪。特朗普的总统竞选团队在事件发生后发表声明说，特朗普目前安全，该案的具体细节还在进一步调查中。另据知情人士透露，案发时有两人在俱乐部外交火，枪击的目标不是特朗普，特朗普的安全未受到威胁。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphute7173715.d.html</link>
-            <guid>3778613</guid>
-            <pubDate>Sun, 15 Sep 2024 20:18:55 GMT</pubDate>
+            <title><![CDATA[阿根廷总统米莱表示，我们将否决所有威胁财政平衡的项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0322242.d.html</link>
+            <guid>3778721</guid>
+            <pubDate>Mon, 16 Sep 2024 00:25:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第47届世界技能大赛闭幕 中国位居金牌榜和奖牌榜首位】当地时间9月15日晚，第47届世界技能大赛在法国里昂闭幕。中国代表团在本次大赛全部59个项目中，共获得了36枚金牌、9枚银牌、4枚铜牌和8个优胜奖，位居金牌榜、奖牌榜和团体总分首位。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqma4186104.d.html</link>
-            <guid>3778612</guid>
-            <pubDate>Sun, 15 Sep 2024 20:02:17 GMT</pubDate>
+            <title><![CDATA[【浙江省水利厅、浙江省气象台发布山洪灾害橙色预警】浙江省水利厅、浙江省气象局2024年09月16日07时32分联合发布山洪灾害橙色预警：预计09月16日8时至09月17日8时，长兴县发生山洪灾害可能性大（橙色预警），吴兴区发生山洪灾害可能性较大（黄色预警），临安区、德清县、安吉县、嵊泗县可能发生山洪灾害（蓝色预警）。请密切关注天气形势及雨水情变化，注意防范强降水引发的山洪灾害。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0321513.d.html</link>
+            <guid>3778719</guid>
+            <pubDate>Mon, 16 Sep 2024 00:22:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美军称摧毁也门胡塞武装控制区内一导弹系统】当地时间9月15日，美国中央司令部在社交媒体上发表声明称，过去24小时内，美国中央司令部部队成功摧毁了位于也门胡塞武装控制区的一个导弹系统。目前胡塞武装方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqmf0523681.d.html</link>
-            <guid>3778611</guid>
-            <pubDate>Sun, 15 Sep 2024 20:00:14 GMT</pubDate>
+            <title><![CDATA[【中原地产：香港十大屋苑周末成交量创下六个月来最高】中原地产称，香港十大屋苑周末录得15宗成交，较前一周猛增87.5%，创下3月末以来最高水平。该机构称，美联储降息前景吸引买家重返市场。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7098222.d.html</link>
+            <guid>3778717</guid>
+            <pubDate>Mon, 16 Sep 2024 00:20:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受飓风影响 美国墨西哥湾近20%原油和28%天然气停产】当地时间9月15日，美国海上能源监管机构表示，受飓风“弗朗辛”影响，美国墨西哥湾联邦水域近五分之一的原油和28%的天然气处于停产状态。美国安全与环境执法局根据生产商报告估计，能源生产商已停止美国墨西哥湾海域每天338690桶石油和近5.15亿立方英尺天然气的生产。近日，“弗朗辛”横扫了美国主要的海上石油和天然气产区，并于11日以2级飓风的强度登陆美国路易斯安那州，飓风还导致美国南部四个州停电。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqma4182034.d.html</link>
-            <guid>3778610</guid>
-            <pubDate>Sun, 15 Sep 2024 19:53:13 GMT</pubDate>
+            <title><![CDATA[【美媒：一男子在特朗普遭疑似暗杀未遂事件中被捕，拜登、哈里斯已听取简报】据美国有线电视新闻网（CNN）等媒体报道，在美国前总统、共和党总统候选人特朗普遭遇疑似暗杀未遂事件后，佛罗里达州马丁县警长斯奈德当地时间周日（15日）表示，一名男子被拘捕，且该嫌疑人在被捕时“相对平静”。报道称，斯奈德称，被捕男子“没有表露出太多情绪”。此前，CNN报道说，马丁县警长办公室拘捕了一名“据信与事件有关”的嫌疑人。另据路透社援引美国《纽约时报》和福克斯新闻网消息，两家美媒援引匿名执法官员的话称，嫌疑人是58岁的夏威夷人瑞安·韦斯利·劳思。对于特朗普遭遇疑似暗杀未遂一事，CNN报道称，美国白宫表示，美国总统拜登和副总统哈里斯已经听取相关事件简报，并在得知特朗普安全消息后都“松了一口气”。报道补充称，拜登和哈里斯周日都在华盛顿特区，没有公开活动，其团队将随时向他们通报最新情况。（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4034194.d.html</link>
+            <guid>3778716</guid>
+            <pubDate>Mon, 16 Sep 2024 00:19:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【荷兰一摩托车赛事中发生事故 致一死两伤】总台记者获悉，当地时间15日，在荷兰北布拉班特省海默特市（Gemert）的一场摩托车赛事中，发生车辆冲撞行人事故，造成一人死亡，另有两人受伤。消息显示，目前警方还未确认伤亡者是赛事观众还是工作人员，摩托车驾驶员未在事故中受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqmh7295540.d.html</link>
-            <guid>3778609</guid>
-            <pubDate>Sun, 15 Sep 2024 19:35:02 GMT</pubDate>
+            <title><![CDATA[【媒体：澳门酒店10月黄金周档期预订爆满】明报援引来自酒店业的数据报道称，10月1日至7日黄金周期间澳门酒店预订爆满。包括永利澳门、新葡京、JW万豪在内的12家酒店在此期间已全部预订一空。美高梅、摩珀斯、永利皇宫、澳门葡京人等其他酒店也几近客满。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7283085.d.html</link>
+            <guid>3778715</guid>
+            <pubDate>Mon, 16 Sep 2024 00:18:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第十八届榆林国际煤博会召开成果发布会】15日，第十八届榆林国际煤博会暨高端能源化工产业博览会召开成果发布会。据统计，本次大会期间共签约26个项目，其中合同项目13个，协议项目13个，引资额达278.76亿元，现场采购交易额达9.6亿元，投资项目涵盖煤炭清洁利用、煤电联产、智能化管理等多个领域。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqky7417894.d.html</link>
-            <guid>3778608</guid>
-            <pubDate>Sun, 15 Sep 2024 19:21:32 GMT</pubDate>
+            <title><![CDATA[【产品供不应求！多家上市公司回复投资者提问】 近期，多家上市公司在互动易或机构调研时回复投资者相关问题时提到，公司有产品出现供不应求的情况。①利民股份：公司大部分主导产品呈现了低位企稳且持续反弹态势，部分品种出现排单发货的情况，公司重点产品代森锰锌、百菌清、阿维菌素、甲维盐、吡蚜酮等产品价涨量增、供不应求。②璞泰来：公司自成立以来，始终致力于硅碳负极材料的研发与应用。截至目前，公司是国内少数具备CVD沉积硅碳负极量产能力的企业，公司新型硅碳负极材料具有高容量、低膨胀和长循环等高性能表现，除应用于高端消费类锂离子电池以外，亦可适配半固态/固态电池。目前公司CVD沉积硅碳负极产品在消费类客户导入顺利，中试线产能已供不应求。③壶化股份：第二条年产1500吨起爆具自动化生产线自3月份开工，已完成工房建设、防爆土地夯筑、生产线辅助设施预埋等相关配套工作，将于10月份全线试产，可有效解决公司起爆具产品供不应求、生产紧张现状。④美信科技：公司主营产品为网络变压器、功率磁性元器、绕线片式电感等。其中绕线片式电感供不应求，上半年出货量增长近1.5倍，但因目前在公司整体收入中的占比相对较小，所以对上半年业绩贡献较少。随着湾区总部工业园区将在今年内投产落地，一体成型电感、绕线片式电感、车规级网络变压器、新能源汽车用磁性元器件等项目扩产，将为公司后续业绩发力提供有力保障。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0320142.d.html</link>
+            <guid>3778714</guid>
+            <pubDate>Mon, 16 Sep 2024 00:16:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国特勤局表示正在调查涉及特朗普的事件。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqmf0511389.d.html</link>
-            <guid>3778607</guid>
-            <pubDate>Sun, 15 Sep 2024 19:01:13 GMT</pubDate>
+            <title><![CDATA[【国家海洋预报台继续发布海浪橙色警报】国家海洋预报台根据《海洋灾害应急预案》发布海浪橙色警报。受今年第13号台风“贝碧嘉”（强台风级）的影响，预计：9月16日白天，东海将出现4到6米的巨浪到狂浪区，近海海域海浪预警级别为黄色；上海、浙江北部近岸海域将出现3到5米的大浪到巨浪，该近岸海域海浪预警级别为橙色，江苏南部近岸海域将出现3到4米的大浪到巨浪，该近岸海域海浪预警级别为黄色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。预计16日夜间解除海浪警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7096856.d.html</link>
+            <guid>3778713</guid>
+            <pubDate>Mon, 16 Sep 2024 00:14:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰基辅拉响防空警报】当地时间9月15日，乌克兰基辅拉响防空警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqky7406693.d.html</link>
-            <guid>3778606</guid>
-            <pubDate>Sun, 15 Sep 2024 18:57:15 GMT</pubDate>
+            <title><![CDATA[【特朗普在佛州遭遇疑似未遂暗杀后安然无恙 FBI对此展开调查】美国特勤局特工周日在佛罗里达州西棕榈滩的高尔夫球场附近对一名持枪男子开火，特朗普安然无恙。联邦调查局(FBI)称这是针对这位共和党总统候选人的疑似未遂暗杀。联邦官员确认嫌疑人为58岁的Ryan Routh。据报道，他有八次被捕记录，都是轻微违法行为。这是两个月内第二次针对特朗普的未遂暗杀，联邦调查局表示正在对此展开调查。在特勤局特工对这名持枪男子开火后，特朗普的竞选团队和特勤局表示特朗普安然无恙。官员们估计该男子当时距离正在打高尔夫的特朗普约300到500码。棕榈滩县警长Ric Bradshaw在简报会上告诉记者，根据目击者对嫌疑人车辆的描述，警方在95号州际公路上将逃跑的嫌犯拦截并逮捕。“在这名男子藏身的灌木丛中发现了一把带有瞄准镜的AK-47式步枪、两个背包和一台GoPro相机，”Bradshaw说。“在场的特勤局特工表现得非常出色。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0319301.d.html</link>
+            <guid>3778712</guid>
+            <pubDate>Mon, 16 Sep 2024 00:12:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏丹中部一村庄遭炮击至少40人死亡】苏丹地方组织阿布古塔抵抗委员会15日说，该国中部杰济拉州一村庄当天遭苏丹快速支援部队炮击，造成至少40人死亡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqmf0507053.d.html</link>
-            <guid>3778603</guid>
-            <pubDate>Sun, 15 Sep 2024 18:42:55 GMT</pubDate>
+            <title><![CDATA[阿根廷总统米莱开始向国会提交2025年预算。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4031010.d.html</link>
+            <guid>3778711</guid>
+            <pubDate>Mon, 16 Sep 2024 00:11:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【孙颖莎、林诗栋WTT澳门冠军赛夺冠】世界乒乓球职业大联盟（WTT）澳门冠军赛决赛15日举行，孙颖莎4:2击败王艺迪夺得女单冠军，林诗栋4:0战胜德国选手邱党称雄男单。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqma4145202.d.html</link>
-            <guid>3778602</guid>
-            <pubDate>Sun, 15 Sep 2024 18:31:19 GMT</pubDate>
+            <title><![CDATA[澳大利亚S&P/ASX 200指数9月16日（周一）早盘上涨0.27%，至8122.00点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7279242.d.html</link>
+            <guid>3778710</guid>
+            <pubDate>Mon, 16 Sep 2024 00:08:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴基斯坦财政部下调15天期燃油价格。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqky7389675.d.html</link>
-            <guid>3778601</guid>
-            <pubDate>Sun, 15 Sep 2024 18:19:38 GMT</pubDate>
+            <title><![CDATA[国家海洋预报台16日08时发布风暴潮橙色警报：受今年第13号台风“贝碧嘉”（强台风级）的影响，预计：9月16日白天，江苏盐城到杭州湾北岸沿海将出现80到270厘米的风暴增水。上海市的风暴潮预警级别为橙色，江苏省南通市的风暴潮预警级别为蓝色。]]></title>
+            <guid>3778709</guid>
+            <pubDate>Mon, 16 Sep 2024 00:08:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【成都航空口岸首次进口马来西亚鲜食榴莲】9月14日，一批来自马来西亚的鲜食榴莲在成都天府国际机场完成通关。这是马来西亚鲜食榴莲首次经成都航空口岸入境，进入我国西部市场。（成都日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqmh7277981.d.html</link>
-            <guid>3778600</guid>
-            <pubDate>Sun, 15 Sep 2024 18:15:20 GMT</pubDate>
+            <title><![CDATA[【F级燃机发运！上海电气承制湖南省首个重型燃机联合循环项目启动】 9月10日，由上海电气负责制造的湘投国际衡东燃气发电项目#1燃机顺利发运，也标志着湖南省首个F级燃机联合循环项目正式启动。该发电项目为湖南省境内首个重型燃机发电项目，承载着湖南省能源结构优化、推动省内绿色低碳发展、提升电力调峰能力、保障电力供应安全的重任，对促进地方经济社会发展也将提供有力支撑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7095507.d.html</link>
+            <guid>3778708</guid>
+            <pubDate>Mon, 16 Sep 2024 00:07:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【土耳其萨卡里亚省工厂爆炸事故已致1死30伤】当地时间15日，土耳其萨卡里亚省亨迪克地区一家食品工厂发生爆炸并引发火灾。据萨卡里亚省省长亚沙尔·卡拉德尼兹发布的声明，在灭火过程中发现一具遗体，目前有30人受伤，其中6人伤势严重。另有3名消防员在灭火过程中受轻伤。萨卡里亚省省长在声明中表示，目前消防人员已控制住火势，正在进行降温工作。另一方面，警察以危险为由扩大了该地区的警戒范围。此外，亨迪克地区首席检察官办公室已启动司法调查，以确定爆炸原因和责任人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphqma4132741.d.html</link>
-            <guid>3778599</guid>
-            <pubDate>Sun, 15 Sep 2024 18:02:46 GMT</pubDate>
+            <title><![CDATA[【上海5万余名抢险人员整装待命】今天7时30分前后，贝碧嘉已登陆上海浦东。记者今早在上海奉贤区渔人码头景区看到：距海边不到50米，雨势和风速越来越大，海浪一阵阵袭来，乌云快速移动↓↓上海正受台风主体覆盖，进入风雨最强时段。 截至今天0时，上海全市已转移安置41.4万余人。今天1时起，上海对市内所有高速公路实施封闭管控。奉贤区今日所有公交线路采取临时停运措施。上海市2500余支抢险队伍、5.6万抢险人员、415个防汛物资仓库都已经整装待命，公安部门启动一级勤务，1.2万名消防救援指战员已集结待命。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7278799.d.html</link>
+            <guid>3778707</guid>
+            <pubDate>Mon, 16 Sep 2024 00:07:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国三人篮球U23国家女队获世界杯铜牌】中国篮协消息，2024年国际篮联三人篮球U23世界杯15日在蒙古国首都乌兰巴托落幕，中国女队获得季军。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkca7507144.d.html</link>
-            <guid>3778598</guid>
-            <pubDate>Sun, 15 Sep 2024 17:49:17 GMT</pubDate>
+            <title><![CDATA[【全流程全要素保障举措 推动山东沂蒙老区高质量发展】沂蒙革命老区山东临沂结合自身实际，制定先进工业强市战略，以新发展理念引领改革，培育优势产业，努力推进革命老区高质量发展。健全提升产业链供应链韧性和安全水平制度，需要科学布局规划关键产业，为了吸引能够带动高质量发展的大项目落地临沂，在新领域开辟新赛道，当地政府拿出了实招硬招，奔着落地一个项目、引来一个链条、做大一个产业的目标，通过助企帮包服务等全流程全要素保障举措，让项目顺利落地。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4028423.d.html</link>
+            <guid>3778706</guid>
+            <pubDate>Mon, 16 Sep 2024 00:05:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌称哈尔科夫遭袭已致41人受伤】当地时间15日，乌克兰哈尔科夫州军政管理局负责人西涅古博夫表示，截至目前哈尔科夫市当天遭袭所致受伤人数已增至41人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkci0621694.d.html</link>
-            <guid>3778597</guid>
-            <pubDate>Sun, 15 Sep 2024 17:32:27 GMT</pubDate>
+            <title><![CDATA[【特朗普疑似暗杀未遂事件嫌疑人为58岁的Ryan Routh 有多次被捕记录】 据美国联邦官员表示，疑似暗杀前总统唐纳德· 特朗普未遂的嫌疑人为现年58岁的Ryan Routh。据报道，Routh出生于1966年，一直居住在夏威夷州。他有八次被捕记录，都为轻微犯罪。另据报道，Routh经常发布关于政治的帖子，并专门向民主党候选人捐款，这些捐款可以追溯到2019年。他还在4月22日的一篇帖子中抨击特朗普，他在帖子中宣称，“民主在选票上，我们不能输。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0317528.d.html</link>
+            <guid>3778704</guid>
+            <pubDate>Mon, 16 Sep 2024 00:03:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泽连斯基称乌尚未获得美授权使用援乌武器打击俄境内目标】当地时间9月15日，乌克兰总统泽连斯基在接受美国媒体采访时表示，乌克兰试图说服美国领导层允许其使用美国武器打击俄罗斯领土内目标，但迄今为止尚未获得此类授权。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkck7397961.d.html</link>
-            <guid>3778596</guid>
-            <pubDate>Sun, 15 Sep 2024 17:28:43 GMT</pubDate>
+            <title><![CDATA[【巴菲特的主要副手之一贾恩意外抛售股票，什么信号？】一份最新的监管文件显示，巴菲特的主要副手之一，伯克希尔副主席、保险业务主管阿吉特·贾恩出售了其持有的伯克希尔A类股票的一半以上持仓，套现约1.39亿美元（折合人民币9.9亿元），占其持股的55%。文件未提及具体出售原因，但市场分析认为，这在一定程度上反映了伯克希尔的股票估值过高。此外还有猜测称，跟随巴菲特近40年，为伯克希尔的发展立下汗马功劳的阿吉特·贾恩，可能是在为离任做准备。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7093308.d.html</link>
+            <guid>3778702</guid>
+            <pubDate>Sun, 15 Sep 2024 23:55:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[截至9月15日23时，“贝碧嘉”距离上海市不足300公里。 (上观新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkce4245269.d.html</link>
-            <guid>3778595</guid>
-            <pubDate>Sun, 15 Sep 2024 17:22:26 GMT</pubDate>
+            <title><![CDATA[【美媒：疑似暗杀图谋发生后，特朗普再发声称“我的决心只会更加坚定”】 据美国有线电视新闻网（CNN）报道，美国前总统特朗普当地时间15日在第二封筹款电子邮件中透露，枪击事件发生后，他的“决心只会更坚定”。据美媒早些时候报道，美国特勤局挫败一起疑似针对特朗普的暗杀图谋。“在又一次针对我生命的（暗杀）企图发生后，我的决心只会更加坚定！”特朗普的邮件中写道，“我永远不会放慢脚步。我永远不会放弃。我永远不会投降！”（环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7092937.d.html</link>
+            <guid>3778701</guid>
+            <pubDate>Sun, 15 Sep 2024 23:54:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【耶路撒冷发生持刀袭击事件致一警察受伤 袭击者被击毙】总台记者获悉，当地时间15日晚，耶路撒冷老城大马士革门发生一起持刀袭击事件，一名以色列警察受轻伤，袭击者被当场击毙。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkck7395520.d.html</link>
-            <guid>3778594</guid>
-            <pubDate>Sun, 15 Sep 2024 17:18:22 GMT</pubDate>
+            <title><![CDATA[【提醒：周一日韩股市休市】周一日本股市因敬老节，休市一日。韩国股市因中秋节假期休市。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0315720.d.html</link>
+            <guid>3778700</guid>
+            <pubDate>Sun, 15 Sep 2024 23:53:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称袭击黎巴嫩真主党约20个军事目标】当地时间15日晚，以色列国防军发布声明称，稍早前，以军对黎南部约20个真主党火箭弹发射装置和军事基础设施展开空袭，以军称这些目标“对以色列平民构成了直接威胁”。声明同时证实，当天傍晚在上加利利地区拉响防空警报后，以军监测到两个从黎巴嫩方向发射的可疑空中目标，落在戈兰高地北部地区。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkck7394319.d.html</link>
-            <guid>3778593</guid>
-            <pubDate>Sun, 15 Sep 2024 17:12:49 GMT</pubDate>
+            <title><![CDATA[中国铁建将通过2027年到期票据融资人民币35亿元，票面利率2.6%，拟将票据募集资金用于偿还债务、满足营运资金需求。星展银行和工商银行为中国铁建发债提供顾问服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7092341.d.html</link>
+            <guid>3778699</guid>
+            <pubDate>Sun, 15 Sep 2024 23:50:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台风“贝碧嘉”来袭 上海已转移安置41.4万余人】记者从上海市防汛指挥部获悉，截至16日0时，上海全市已转移安置41.4万余人，疏散避风船舶811艘次。2500余支抢险队伍、5.6万抢险人员、81辆移动泵车、415个防汛物资仓库都已整装待命。公安部门启动一级勤务，加强交通组织管理、应急联动处置、治安秩序管控。1.2万名消防救援指战员已集结待命。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkck7392047.d.html</link>
-            <guid>3778592</guid>
-            <pubDate>Sun, 15 Sep 2024 17:02:44 GMT</pubDate>
+            <title><![CDATA[  【台风贝碧嘉已致菲律宾6死11伤，逾20万人受灾】据菲律宾国家减灾委15日通报，台风“贝碧嘉”已在菲律宾造成6人死亡、11人受伤，另有2人失踪，超过20万人受到灾害影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7271152.d.html</link>
+            <guid>3778698</guid>
+            <pubDate>Sun, 15 Sep 2024 23:48:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本茨城县南部发生4.1级地震】据日本气象厅消息，当地时间16日01时51分左右，日本茨城县南部发生里氏4.1级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkay3505259.d.html</link>
-            <guid>3778591</guid>
-            <pubDate>Sun, 15 Sep 2024 16:58:57 GMT</pubDate>
+            <title><![CDATA[【狂降75%！诺辉健康财务官辞任引发信任危机，公募基金削低公司估值】在财务官和审计机构双双选择“割袍断义”后，基金公司对医药股诺辉健康的不信任达到了一个顶点。 记者注意到，尽管2个月前基金公司对诺辉健康已给出6.62港元/股的估值调整价，并较停牌价腰斩50%，而此次首席财务官和审计机构双双辞任后，基金公司最新给出的估值目标价已来到3.54港元/股，较上一轮估值调整最低价降幅达50%，较停牌价降幅则为75%。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4020808.d.html</link>
+            <guid>3778697</guid>
+            <pubDate>Sun, 15 Sep 2024 23:46:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军否认也门胡塞武装所发射导弹为高超音速导弹】总台记者当地时间15日晚获悉，据以色列军方目前所进行的调查，当天也门胡塞武装袭击特拉维夫及周边地区所使用的弹道导弹曾被以方拦截器击中，但未被完全摧毁。据悉，该枚导弹当天凌晨从也门西北地区发射时就已被以色列防空系统识别，“箭”式反导系统随即启动进行拦截，当时多枚拦截导弹向目标发射，试图将该目标击落。调查发现，至少有一枚“箭”式拦截器击中了该导弹，虽未将其完全摧毁，但导致该目标在空中解体，弹头和其他碎片掉落至地面，在以色列一处森林引发火灾，并造成一个火车站轻微受损，拦截所产生碎片在以色列中部多地触发防空警报。以色列军方称，该枚导弹呈直线弹道，并非也门胡塞武装所声称的高超音速导弹。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkay3504371.d.html</link>
-            <guid>3778590</guid>
-            <pubDate>Sun, 15 Sep 2024 16:55:07 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心表示，潜在的热带气旋今晚/明天早上可能会变成热带风暴，在登陆前可能会有所增强。]]></title>
+            <guid>3778696</guid>
+            <pubDate>Sun, 15 Sep 2024 23:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【也门胡塞武装袭击政府军至少15人死伤】也门政府军人员15日说，胡塞武装近两日在南部达利阿省和拉赫季省袭击政府军，造成至少15人死伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkca0278555.d.html</link>
-            <guid>3778589</guid>
-            <pubDate>Sun, 15 Sep 2024 16:43:09 GMT</pubDate>
+            <title><![CDATA[据猫眼专业版数据，电影《出走的决心》上映2天 ，总票房破2000万。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7269557.d.html</link>
+            <guid>3778695</guid>
+            <pubDate>Sun, 15 Sep 2024 23:44:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黎巴嫩南部多地遭以军空袭】总台记者获悉，当地时间9月15日，黎巴嫩南部马哈茂迪亚（Mahmoudiyah）、埃塔沙阿布（Aita al-Shaab）、梅丝贾巴尔（Mays al-Jabal）、纳库拉（Naqoura）等地当天遭以军空袭或炮击。其中，以军军机在马哈茂迪亚向地面目标发射多枚空对地导弹，引发剧烈爆炸。截至目前，以色列方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkca0277462.d.html</link>
-            <guid>3778588</guid>
-            <pubDate>Sun, 15 Sep 2024 16:38:00 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心（NHC）表示，潜在的热带气旋在卡罗莱纳州海岸不规则移动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4019902.d.html</link>
+            <guid>3778694</guid>
+            <pubDate>Sun, 15 Sep 2024 23:44:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【本轮巴以冲突已致加沙地带173名记者死亡】当地时间15日，加沙地带媒体办公室发布声明称，当天一名阿拉伯媒体记者在以军对加沙地带发动的军事行动中身亡。自去年10月7日新一轮巴以大规模冲突爆发以来，加沙地带遇难记者人数已达173人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkce4222815.d.html</link>
-            <guid>3778587</guid>
-            <pubDate>Sun, 15 Sep 2024 16:31:24 GMT</pubDate>
+            <title><![CDATA[【796.1公斤 新疆创全国春小麦百亩方高产纪录】近日，经农业农村部测产专家组实地测产验收，新疆哈密市巴里坤哈萨克自治县奎苏镇的春小麦新品种“粮春1758”高产示范田实现了百亩方平均亩产796.1公斤的产量，创造了全国春小麦百亩方实打实收单产最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4019704.d.html</link>
+            <guid>3778693</guid>
+            <pubDate>Sun, 15 Sep 2024 23:43:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国前总统特朗普在社交媒体发帖称：“我恨泰勒·斯威夫特！”后者此前公开支持哈里斯。]]></title>
-            <guid>3778586</guid>
-            <pubDate>Sun, 15 Sep 2024 16:18:45 GMT</pubDate>
+            <title><![CDATA[【印度央行行长：印度中期可以实现至多8%的可持续经济增长】印度储备银行(印度央行)行长沙克蒂坎塔·达斯(Shaktikanta Das)在接受采访时表示，印度中期可以实现至多8%的可持续经济增长。达斯表示，该国未来几年的预期增长率为7.5%，有上行可能性。其并称，美联储降息不会影响印度央行。当被问及印度央行货币政策委员会是否会积极考虑在10月初降息时，达斯说:”不，我不能这么说。”达斯称，印度的增长势头依然良好。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7090487.d.html</link>
+            <guid>3778692</guid>
+            <pubDate>Sun, 15 Sep 2024 23:40:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【胡塞武装称用新型高超音速导弹打击以色列】以色列国防军15日称，也门胡塞武装当地时间当天凌晨向以色列中部发射了一枚地对地导弹。以色列救援机构称，9人在避难途中受伤。也门胡塞武装发言人叶海亚·萨雷亚15日称，胡塞武装当天使用新型导弹袭击了以色列腹地。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkay3494485.d.html</link>
-            <guid>3778585</guid>
-            <pubDate>Sun, 15 Sep 2024 16:13:46 GMT</pubDate>
+            <title><![CDATA[赛晶科技获得甘肃-浙江输电项目的电力电子元件供应合同， 合同价值6.24亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4017445.d.html</link>
+            <guid>3778691</guid>
+            <pubDate>Sun, 15 Sep 2024 23:38:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【泽连斯基：乌克兰有权决定如何使用援乌武器及经济援助】当地时间9月15日，乌克兰总统泽连斯基在接受美国媒体采访时表示，他打算向美国总统拜登提出的乌克兰“胜利计划”包含几个要点，其中包括乌克兰的安全问题和地缘政治地位问题。此外，乌克兰需要获得非常强大的军事援助，乌克兰有权决定如何使用援乌武器及对乌经济援助。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkce4214000.d.html</link>
-            <guid>3778584</guid>
-            <pubDate>Sun, 15 Sep 2024 16:10:52 GMT</pubDate>
+            <title><![CDATA[贝壳-W(02423)发布公告，于2024年9月13日该公司斥资约500万美元回购111.83万股，回购价格为每股4.43-4.52美元。]]></title>
+            <guid>3778690</guid>
+            <pubDate>Sun, 15 Sep 2024 23:37:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【野孩子票房破8000万】据猫眼专业版数据，电影 《野孩子》 上映4天 ，总票房破8000万。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphkay3491762.d.html</link>
-            <guid>3778583</guid>
-            <pubDate>Sun, 15 Sep 2024 16:02:37 GMT</pubDate>
+            <title><![CDATA[摩根士丹利将兆易创新评级下调至低配，目标价56元人民币。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7265870.d.html</link>
+            <guid>3778689</guid>
+            <pubDate>Sun, 15 Sep 2024 23:36:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“贝碧嘉”持续影响东海海域 上海风暴潮预警提升为橙色】截至15日16时，台风“贝碧嘉”已经进入到我国东海东部海域，强度为台风级，并将进一步加强，逐渐靠近浙、沪沿海。通过浮标监测，在15日12时前后，东海北部浪高达到3.5米左右。专家预计，海浪影响严重的时段将会出现在15日夜间到16日上午。对此，国家海洋预报台根据《海洋灾害应急预案》将风暴潮警报升级为橙色。受今年第13号台风“贝碧嘉”（台风级）的影响，预计9月16日凌晨至下午，江苏盐城到长江口沿海将出现100到270厘米的风暴增水，杭州湾到浙江宁波沿海将出现70到150厘米的风暴增水。上海市的风暴潮预警级别为橙色，江苏省南通市、浙江省嘉兴市和绍兴市的风暴潮预警级别为蓝色。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphkca7456726.d.html</link>
-            <guid>3778582</guid>
-            <pubDate>Sun, 15 Sep 2024 15:54:41 GMT</pubDate>
+            <title><![CDATA[市场消息： 据目击者，乌克兰首都基辅发生一系列爆炸。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7089248.d.html</link>
+            <guid>3778688</guid>
+            <pubDate>Sun, 15 Sep 2024 23:35:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国驻泰国使馆：中方近期并未向湄公河下游泄洪】9月15日，中国驻泰国使馆发言人澄清中方近期并未向湄公河下游泄洪。全文如下：9月15日，又有媒体报道称中国正在向湄公河泄洪。经向中国主管部门核实，中国驻泰国使馆再次澄清，为帮助下游地区应对洪灾，中方近来持续稳定和减少景洪水电站出库流量，不可能对下游地区抗洪救灾形成压力。中方愿继续与流域国家加强沟通合作，共同应对极端天气造成的影响。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphkca0266091.d.html</link>
-            <guid>3778581</guid>
-            <pubDate>Sun, 15 Sep 2024 15:46:02 GMT</pubDate>
+            <title><![CDATA[【今日财经日历大事件提醒】
+
+经济数据关注：
+20:30：美国9月纽约州制造业指数（预估为-4，前值为-4.7）
+
+全球央行和政府动态关注：
+15:00：欧洲央行执委Panetta讲话
+
+休市提醒
+今日A股因中秋节假期休市。日本股市因敬老节，休市一日。韩国股市因中秋节假期休市。香港交易所正常开市，南、北向交易关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0312075.d.html</link>
+            <guid>3778686</guid>
+            <pubDate>Sun, 15 Sep 2024 23:34:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军袭击加沙多地 已致8人死亡】以色列国防军当地时间15日下午在加沙地带北部和中部多地发动袭击，致8人死亡，另有多人受伤。在北部加沙城宰通社区，以军无人机袭击了一些巴勒斯坦民众，导致五人死亡。此外，在加沙城的爱资哈尔大学附近，以军对一群巴勒斯坦人发动袭击，导致两人死亡多人受伤。在加沙地带中部努赛赖特难民营以西地区，以军袭击了一辆运水车，导致一人死亡多人受伤。截至目前，以色列方面暂无回应。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphkca7451857.d.html</link>
-            <guid>3778580</guid>
-            <pubDate>Sun, 15 Sep 2024 15:41:39 GMT</pubDate>
+            <title><![CDATA[市场消息：DEGREES LTD获得高达470万美元的机构投资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7264685.d.html</link>
+            <guid>3778685</guid>
+            <pubDate>Sun, 15 Sep 2024 23:34:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克民兵武装称使用无人机袭击以色列海法一重要目标】当地时间9月15日，伊拉克民兵武装“伊斯兰抵抗组织”发表声明称，该组织当天使用无人机对以色列北部城市海法一处“重要目标”发动了袭击。声明称，针对以方的袭击行动将“以越来越快的速度进行”。截至目前，以色列方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0395890.d.html</link>
-            <guid>3778579</guid>
-            <pubDate>Sun, 15 Sep 2024 15:38:41 GMT</pubDate>
+            <title><![CDATA[海南省气象台2024年09月16日07时27分发布海上雷雨大风黄色预警信号：北部湾南部海面07时30分到20时可能出现雷雨大风天气，风力达7～9级并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
+            <guid>3778684</guid>
+            <pubDate>Sun, 15 Sep 2024 23:33:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌称哈尔科夫遭袭 已致35人受伤】当地时间9月15日，乌克兰哈尔科夫市市长捷列霍夫发布消息称，截至目前，哈尔科夫市当天遭到的袭击已造成35人受伤，其中包括3名儿童。当天稍早前，乌克兰总统泽连斯基发布消息称，哈尔科夫市遭到俄军空袭，住宅楼受损。目前俄罗斯方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0395775.d.html</link>
-            <guid>3778578</guid>
-            <pubDate>Sun, 15 Sep 2024 15:37:49 GMT</pubDate>
+            <title><![CDATA[【神树坪基地临时闭园】据卧龙大熊猫苑神树坪基地微信公众号，接【汶川县气象台】2024年09月16日04时24分通知，更新暴雨橙色预警信号为暴雨红色预警信号，耿达镇降雨强度已达25毫米/小时以上且降雨可能持续。为确保游客安全，按照地方政府要求，卧龙中华大熊猫苑神树坪基地09月16日临时闭园。已预约09月16日门票的游客请从原购票渠道办理退票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4013760.d.html</link>
+            <guid>3778682</guid>
+            <pubDate>Sun, 15 Sep 2024 23:31:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙江：各地电力部门积极防范台风“贝碧嘉”】据中央气象台预报，今年第13号台风“贝碧嘉”将于15日夜间至16日上午在浙江宁波到江苏启东一带沿海登陆。面对台风叠加天文大潮的情况，浙江电网14日15时起将防台风应急响应提升至Ⅲ级，各地电力部门积极准备，防范台风“贝碧嘉”带来的影响。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3617821.d.html</link>
-            <guid>3778577</guid>
-            <pubDate>Sun, 15 Sep 2024 15:32:00 GMT</pubDate>
+            <title><![CDATA[【特朗普两次遭遇明显暗杀企图 两党议员敦促加强其安全保护】据报道，周日，美国前总统特朗普遭到第二次明显的暗杀企图，两党国会议员都在敦促特勤局加强对他的保护。据悉，调查枪击事件的两党特别工作组已经在寻求对周日事件的简报。有众议员表示：“所有主要的总统候选人都应该得到最高水平的总统级别'保护'。任何不能提供最大程度保护的做法都是自我伤害，将我们国家的稳定置于严重风险之中。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4013445.d.html</link>
+            <guid>3778681</guid>
+            <pubDate>Sun, 15 Sep 2024 23:30:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【委内瑞拉拘捕14名涉嫌破坏该国稳定的外国人】委内瑞拉内政、司法与和平部部长卡韦略14日通报说，委执法部门拘捕了14名涉嫌破坏委国内稳定的外国人，其中包括一名美国人、两名西班牙人和一名捷克人。卡韦略说，被捕的外国人中有一名美国现役军人，此人曾参加伊拉克和阿富汗战争，是在委内瑞拉策划制造混乱的负责人，制订过暗杀委总统马杜罗等破坏计划。被捕的两名西班牙人属于西班牙国家情报中心，被捕的捷克人是一名雇佣兵。委方未披露其他人员的国籍。卡韦略还说，委执法部门在一次行动中缴获400多支来自美国的步枪。他要求美国政府就此做出解释。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3617765.d.html</link>
-            <guid>3778576</guid>
-            <pubDate>Sun, 15 Sep 2024 15:31:32 GMT</pubDate>
+            <title><![CDATA[【加拿大航空和飞行员工会达成四年期协议，避免罢工】加拿大航空(Air Canada)与代表5,000多名飞行员的工会周日早间达成一项为期四年的临时劳工协议，避免了该国最大航空公司发生一场可能扰乱国内和跨境旅行的罢工。加拿大航空和民航飞行员协会(Air Line Pilots Association)均未公布协议条款。该协议需要工会成员通过批准投票予以批准，并获得加拿大航空董事会的批准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7087791.d.html</link>
+            <guid>3778680</guid>
+            <pubDate>Sun, 15 Sep 2024 23:29:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌外长称乌克兰不会在领土问题上妥协让步】当地时间9月15日，乌克兰外交部长西比加在苏梅地区视察乌作战部队时表示，乌克兰不会在领土问题上妥协让步或进行“明斯克式”谈判。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcvh4328358.d.html</link>
-            <guid>3778575</guid>
-            <pubDate>Sun, 15 Sep 2024 15:28:37 GMT</pubDate>
+            <title><![CDATA[石四药集团(02005)发布公告，于2024年9月13日该公司斥资121.17万港元回购32万股，回购价格为每股3.77-3.80港元。]]></title>
+            <guid>3778679</guid>
+            <pubDate>Sun, 15 Sep 2024 23:28:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海发布暴雨黄色预警】上海中心气象台2024年09月15日23时00分发布暴雨黄色预警信号：受今年第13号台风“贝碧嘉”影响，预计今天下半夜到明天下午本市将出现小时雨强50毫米以上的短时强降水，请加强防范强降雨可能引发的城市积涝，并做好低洼、易受淹地区排水防涝工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0393477.d.html</link>
-            <guid>3778574</guid>
-            <pubDate>Sun, 15 Sep 2024 15:22:38 GMT</pubDate>
+            <title><![CDATA[【上海浦东、金山、奉贤、崇明实施“六停”措施】根据气象部门信息，9月15日晚，上海市浦东、金山、奉贤、崇明区已发布台风红色预警。按照《上海市气象灾害防御办法》《关于本市应对极端天气停课安排和误工处理的实施意见》等相关规定，以上四区，除政府机关和直接保障城市运行的企事业单位外，其他用人单位可采取临时停课、停工、停运、停航、停园、停业等措施。用人单位要根据上述规定，明确应当或无须上班的人员和情形条件并告知职工。对于应当上班而不能按时到岗的职工，要及时与本单位联系。职工因气象灾害红色预警造成误工的，用人单位不得作迟到、缺勤处理，不得扣减工资福利，不得用法定假日、休息日作补偿，不得以此理由对误工者给予纪律处分或解除劳动关系。]]></title>
+            <guid>3778678</guid>
+            <pubDate>Sun, 15 Sep 2024 23:27:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受台风影响 多地机场于15日晚起暂停航班运行】记者从中国民航局了解到，根据台风预报最新情况：虹桥机场15日20时至16日14时不安排航班运行；宁波机场已于15日16:35结束运行、16日预计11:30恢复运行；浦东机场15日晚间20时后不安排航班运行，16日14时后恢复运行；杭州机场计划15日晚间24时后不安排航班运行，16日10时后恢复运行。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcvh4321905.d.html</link>
-            <guid>3778573</guid>
-            <pubDate>Sun, 15 Sep 2024 15:12:09 GMT</pubDate>
+            <title><![CDATA[【67天！重庆今年高温天数 追平2011年最高纪录】9月15日，重庆市气象台再次发布高温橙色预警信号。当天，重庆市晴朗多云，22个区县最高气温超过37℃，最高达39.7℃。至此，今年以来重庆已出现67天高温天气，追平了2011年67天高温日数的最高纪录。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7086481.d.html</link>
+            <guid>3778677</guid>
+            <pubDate>Sun, 15 Sep 2024 23:25:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【美国国务院否认美国参与推翻委内瑞拉政府的活动】当地时间9月14日，美国国务院发言人在接受媒体询问时证实1名美国现役军官和2名美国公民在委内瑞拉被捕，同时表示，任何有关美国参与推翻委内瑞拉政府的活动的说法都是“错误的”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3612138.d.html</link>
-            <guid>3778572</guid>
-            <pubDate>Sun, 15 Sep 2024 14:58:04 GMT</pubDate>
+            <title><![CDATA[【上海今天气温28℃-30℃，贝碧嘉或以强台风级登陆浙江上海一带，大家非必要不外出！】 9月16日05时台风“贝碧嘉”中心距离上海浦东南汇约54公里，即将于早晨登陆浦东南汇新城，登陆时强度为强台风级，将是1949年以来第11个登录上海的台风。目前上海正受台风主体覆盖，进入风雨最强时段。 今天白天上海有暴雨到大暴雨，过程雨量60～90毫米，局部可达120～180毫米，主要强降水时段在今天凌晨至中午，半夜之后雨势减弱。目前本市大风还在维持，预计持续到今天傍晚，东北风转东南风，阵风11-13级，沿江沿海地区12-14级，傍晚起5-6级阵风7级，沿江沿海地区6-7级阵风8级。 台风“贝碧嘉”影响时间并不长，明天影响基本结束，以多云天气为主，局部地区阴有短时阵雨，对赏月影响不大。节后一周的工作日，上海以多云到阴的天气为主，伴有分散性阵雨或雷雨。（ @上海市天气 @看看新闻KNEWS ）]]></title>
+            <guid>3778676</guid>
+            <pubDate>Sun, 15 Sep 2024 23:23:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沃尔沃叫停汽车订阅业务】沃尔沃汽车宣布，将停止其在欧洲和美国市场的汽车订阅服务“Care by Volvo”。汽车订阅服务（Car subscriptions）允许客户按月支付费用来使用汽车，而不是购买或租赁汽车。汽车订阅服务提供多种好处，包括订阅者可以频繁更换汽车、订阅公司负责维护和保险、订阅者可以在短时间内终止订阅、订阅者可以在承诺购买之前“试驾”不同的车辆等。沃尔沃方面并没有明确给出停止订阅服务的原因，只是表示此举是为了“专注于核心客户服务、即将推出的新产品，以及提高运营效率”。该公司同时保留了未来重新推出订阅服务的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3610658.d.html</link>
-            <guid>3778571</guid>
-            <pubDate>Sun, 15 Sep 2024 14:50:00 GMT</pubDate>
+            <title><![CDATA[美国众议院议员寻求获得有关特朗普的特勤局简报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7085705.d.html</link>
+            <guid>3778675</guid>
+            <pubDate>Sun, 15 Sep 2024 23:22:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家防总将针对上海浙江的防汛防台风应急响应提升至三级】据气象部门预报，今年第13号台风“贝碧嘉”将于9月16日早晨至上午在浙江舟山到江苏启东一带沿海登陆(台风级或强台风级，13-14级，38-45米/秒)，最大可能以强台风级在浙江平湖到上海浦东一带沿海登陆(14级、42-45米/秒)，将给上海、浙江等地带来强风雨影响。根据《国家防汛抗旱应急预案》及有关规定，国家防汛抗旱总指挥部于9月15日21时将针对上海市、浙江省的防汛防台风四级应急响应提升至三级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0387447.d.html</link>
-            <guid>3778570</guid>
-            <pubDate>Sun, 15 Sep 2024 14:48:19 GMT</pubDate>
+            <title><![CDATA[【台风普拉桑生成路径与贝碧嘉相似】据上游新闻：台风“贝碧嘉”还没到，又一个台风来了！9月15日晚，今年第14号台风“普拉桑”生成，名字来源马来西亚，是一种在东南亚广受欢迎的甜美多汁的水果，未来“普拉桑”的路径像是要模仿“贝碧嘉”。 9月15日晚，中央气象台发布台风快讯，今年第14号台风“普拉桑”（热带风暴级，英文名称：Pulasan；名字来源：马来西亚；名字意义：一种在东南亚广受欢迎的甜美多汁的水果）已于今天（15日）晚上在西北太平洋洋面上生成，晚上8点钟其中心位于琉球群岛那霸市东南方向约2200公里的洋面上，就是北纬13.5度、东经143.9度，中心附近最大风力有8级（18米/秒），中心最低气压为1002百帕，七级风圈半径220-260公里。 预计，“普拉桑”将以每小时20-25公里的速度向北偏西方向移动，强度逐渐增强，趋向我国东海海面。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4008344.d.html</link>
+            <guid>3778673</guid>
+            <pubDate>Sun, 15 Sep 2024 23:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【16日上海两大机场取消进出港航班918架次 预计明日午后通行能力将逐步恢复正常】 9月15日，记者从上海机场集团获悉，受台风“贝碧嘉”影响，16日上海浦东机场和虹桥机场通行能力将下降，四成以上进出港航班调减取消。两场取消进出港航班918架次，其中，浦东机场590架次、虹桥机场328架次。预计明日午后，上海两大机场通行能力将逐步恢复正常。上海机场将积极与民航华东空管局、航司等驻场单位密切协同，第一时间做好航班恢复和服务，加派人员做好楼内旅客引导和秩序维护，根据客流及时调整和加开值机柜台、安检通道，出租车站点加强车辆调配，保障旅客高效用车。(澎湃新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0387180.d.html</link>
-            <guid>3778569</guid>
-            <pubDate>Sun, 15 Sep 2024 14:47:03 GMT</pubDate>
+            <title><![CDATA[【中国驻美大使谢锋：强大统一的国家始终是全体中华儿女的命运所系】 9月14日，中国驻美国大使馆举办“回家•团圆”二〇二四年两岸侨胞中秋歌会。谢锋大使在致辞中表示，国强则侨安。近代以来中国历史昭示我们，一个强大统一的国家始终是包括台湾同胞在内的全体中华儿女的命运所系，是所有海外炎黄子孙的坚强后盾。今日之中国正处在实现中华民族伟大复兴的关键阶段。再过2周，我们将迎来中华人民共和国75周年华诞。75年来，中国共产党带领全体中国人民在世界发展史上书写了经济快速发展和社会长期稳定两大奇迹。中国共产党二十届三中全会对进一步全面深化改革、推进中国式现代化作出系统部署，提出300多项重要改革举措，明确到2029年必须完成，展现了将改革进行到底的决心和信心。两岸侨胞生逢其时，施展才干的舞台无比广阔，实现梦想的前景无限光明。希望大家牢牢把握发展机遇，把个人事业融入中国式现代化进程中。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7256411.d.html</link>
+            <guid>3778671</guid>
+            <pubDate>Sun, 15 Sep 2024 23:16:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苹果10月或上新两款iPad】苹果可能会在今年 10 月举办另一场活动，以发布新款 Mac 和 iPad。如果属实，这将是苹果五年内第四次在 10 月举办活动。去年，苹果于 10 月 30 日举办了一场虚拟活动，发布了搭载 M3 系列芯片的新款 MacBook Pro 和 iMac 机型。 马克・古尔曼（Mark Gurman）在9月15日的 Power On 时事通讯中重申，苹果计划在“未来几周”的下一场活动中发布首款 M4 Mac 和新款 iPad。他表示，一些 M4 Mac 已经从工厂发货。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve7560574.d.html</link>
-            <guid>3778568</guid>
-            <pubDate>Sun, 15 Sep 2024 14:44:23 GMT</pubDate>
+            <title><![CDATA[【中国驻美大使谢锋：美国应该以行动恪守一个中国原则和中美三个联合公报】 9月14日，中国驻美国大使馆举办“回家•团圆”二〇二四年两岸侨胞中秋歌会。谢锋大使在致辞中表示，共赢为正道。今年是中美建交45周年。半个世纪前，台湾问题没能阻挡两国跨越太平洋的握手，美国在中美三个联合公报中明确承认世界上只有一个中国，台湾是中国的一部分，中华人民共和国政府是代表全中国的唯一合法政府；45年后的今天，台湾问题也不应成为中美关系稳定发展的障碍。中国不干涉美国内政，不赌美国输；美国也应该尊重中国的主权和领土完整，特别是在台湾问题上言行一致，履行不支持“台独”的承诺，恪守一个中国原则和中美三个联合公报。一个健康稳定的中美关系，符合两国人民根本利益，关乎旅美侨胞切身福祉。我相信中美有智慧、有勇气、有能力摆脱大国竞争的历史镜像，本着对历史、对人民、对国际社会负责的态度，秉持相互尊重、和平共处、合作共赢的原则，推动两国关系沿着稳定、健康、可持续发展的轨道向前走。希望大家发挥各自独特优势，为中美交流合作牵线搭桥，为中美关系稳定发展添砖加瓦。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0304920.d.html</link>
+            <guid>3778670</guid>
+            <pubDate>Sun, 15 Sep 2024 23:13:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海74家A级旅游景区暂停营业 16日暂时关闭】受台风“贝碧嘉”影响，为最大程度确保市民游客安全，上海多个景区宣布暂时闭园，上海旅游节部分活动调整安排。据上海市文化和旅游局初步统计，截至9月15日下午6时，上海已有74家A级旅游景区宣布暂停营业并在16日暂时关闭，开放时间另行通知。其中，闵行区、奉贤区、金山区、崇明区、宝山区、临港新片区的A级旅游景区全部暂时关闭。沪上景区计划待台风过境后，在确保游客安全和体验的前提下，有序恢复运营。 (上观新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3608397.d.html</link>
-            <guid>3778566</guid>
-            <pubDate>Sun, 15 Sep 2024 14:37:15 GMT</pubDate>
+            <title><![CDATA[【中国驻美大使谢锋：两岸同胞要坚定守护中华民族共同家园】 9月14日，中国驻美国大使馆举办“回家•团圆”二〇二四年两岸侨胞中秋歌会。谢锋大使在致辞中表示，国土不可分。两岸同胞都是中国人，没有什么心结不能化解，没有什么问题不能商量，没有什么势力能把我们分开。今年1—8月，两岸人员往来近300万人次，同比增长70%。两岸青年峰会、海峡两岸青年发展论坛、两岸电影展等交流活动丰富多样，展现了“两岸一家亲”。两岸同胞要坚定守护中华民族共同家园，坚持“九二共识”，坚决反对“台独”，坚定走两岸关系和平发展正确道路，从中华民族整体利益和长远发展来把握两岸关系大局。我们将一如既往积极推进两岸各领域交流合作，不断扩大两岸人员往来，促进同胞心灵契合。欢迎台湾同胞多到大陆走一走看一看，参与到两岸关系和平发展、融合发展中来。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0304837.d.html</link>
+            <guid>3778669</guid>
+            <pubDate>Sun, 15 Sep 2024 23:13:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：以色列国防军袭击了黎巴嫩南部的几个真主党火箭弹发射器。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0385245.d.html</link>
-            <guid>3778565</guid>
-            <pubDate>Sun, 15 Sep 2024 14:36:21 GMT</pubDate>
+            <title><![CDATA[【按照自愿、弹性等原则推进延迟退休改革】 就如何理解延迟退休改革的主要原则，中国人民大学劳动人事学院院长、教授赵忠接受了记者采访。 “小步调整、弹性实施、分类推进、统筹兼顾，这16个字的原则，是理解延迟退休改革的关键所在。”赵忠介绍，采取循序渐进和自愿、弹性等办法，也是世界主要经济体推行延迟退休改革的共同特点。 “弹性实施”，则是在统一延迟法定退休年龄的基础上，体现自愿、弹性原则。“也就是说，每个人的实际退休年龄不是必须要和法定退休年龄一样，而是有一定的弹性。在满足政策规定的条件下，个人有自愿选择提前退休或推迟退休的空间。”赵忠说，自愿、弹性的原则可以更好匹配劳动者多元化、个性化的工作需求，和现行退休政策相比，劳动者有了更大选择空间。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4004676.d.html</link>
+            <guid>3778668</guid>
+            <pubDate>Sun, 15 Sep 2024 23:11:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海市委市政府领导赴16区及临港新片区坐镇检查督导 陈吉宁再作调度部署并实地检查】根据气象部门预测，台风“贝碧嘉”预计最强可达强台风级，对上海带来的风雨影响正在逐步加大，全市各方面严阵以待，压实责任、落实措施、严密防范。按照市委统一部署，市委、市政府相关领导分别带队前往全市16个区及临港新片区坐镇检查督导，推动形成全市合力，坚决打好打赢台风防御的遭遇战、总体战。今天（9月15日），市委书记陈吉宁在市防汛指挥部对全市防汛防台工作再作调度部署，实地检查排水闸口、人员转移安置点。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3607434.d.html</link>
-            <guid>3778564</guid>
-            <pubDate>Sun, 15 Sep 2024 14:33:04 GMT</pubDate>
+            <title><![CDATA[除了头版内容，今天《人民日报》涉及财经的主要内容还包括：
+1、共享机遇 共商合作 共促发展——习近平主席向2024年中国国际服务贸易交易会致贺信引发与会嘉宾热烈反响
+2、以高水平开放推动服务贸易高质量发展（和音）
+3、“加快构建高水平南中命运共同体”（高端访谈）——访南非总统拉马福萨
+4、绿色服贸，低碳理念深入人心（走进服贸会）
+5、绿美广东生态建设深入推进 绿意足 生态美 产业兴（人与自然）
+6、稳步推进自愿碳市场建设（生态论苑）]]></title>
+            <guid>3778667</guid>
+            <pubDate>Sun, 15 Sep 2024 23:11:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年第14号台风“普拉桑”生成 目前为热带风暴级】中央气象台发布台风快讯，今年第14号台风“普拉桑”生成，目前为热带风暴级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve7555496.d.html</link>
-            <guid>3778563</guid>
-            <pubDate>Sun, 15 Sep 2024 14:32:02 GMT</pubDate>
+            <title><![CDATA[【国家北斗导航位置服务数据中心河北分中心在沧州揭牌】9月14日，国家北斗导航位置服务数据中心河北分中心揭牌仪式在沧州高新技术产业开发区河北北斗数据科技有限公司举行。国家北斗导航位置服务数据中心是北斗导航系统应用发展的重大项目，是依托北斗卫星导航系统资源，汇聚和管理全国导航及位置服务全要素信息数据资源的平台，也是辅助政府及行业决策、服务社会公益的基础平台。国家北斗导航位置服务数据中心河北分中心是国家、省、市三级网络资源建设的重要枢纽，将汇集和整合政府、行业、企业及市场数据，为国家北斗导航位置服务数据中心提供服务，并统筹利用北斗技术为各级政府、各行业提供应用服务、数据服务和分析决策服务。（河北日报）]]></title>
+            <guid>3778664</guid>
+            <pubDate>Sun, 15 Sep 2024 23:08:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首尔分析人士称朝鲜首都郊外可能有一处未申报的核弹制造地点】 朝鲜周五首次展示了生产核弹燃料的离心机图像，该国领导人金正恩参观了铀浓缩设施并呼吁提供更多武器级材料来扩充其军火库。周日，首尔分析人士称，朝鲜铀浓缩设施的照片可能显示，朝鲜首都郊外有一处未申报的核弹制造地点。照片和卫星图像表明，其中的建筑群就是降仙基地。一些专家表示，公开秘密的核设施也可能是为了影响美国大选，并向下一届政府传递一个信息：无核化已不再可能。另外，最近朝鲜的动作可能也是回应韩国国防部近期关于统一的声明。(券商中国)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0383827.d.html</link>
-            <guid>3778562</guid>
-            <pubDate>Sun, 15 Sep 2024 14:29:47 GMT</pubDate>
+            <title><![CDATA[英国多米诺披萨集团宣布新增5000个工作岗位，为繁忙的旺季做准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw4001568.d.html</link>
+            <guid>3778663</guid>
+            <pubDate>Sun, 15 Sep 2024 23:05:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[厄瓜多尔政府：将于当地时间周三晚上10点至周四早上6点实施全国范围内的停电，以进行维护。]]></title>
-            <guid>3778561</guid>
-            <pubDate>Sun, 15 Sep 2024 14:24:36 GMT</pubDate>
+            <title><![CDATA[【16日国内航线民航客运量预计超170万人次】9月16日是中秋假期的第二天，根据航旅纵横大数据显示：16日国内航线计划执行航班量近1.3万班次，国内航线民航旅客运输量预计超170万人次。16日出入境航线计划执行航班量约2300班次，出入境航线民航旅客运输量预计超22万人次。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0301133.d.html</link>
+            <guid>3778662</guid>
+            <pubDate>Sun, 15 Sep 2024 23:01:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈马斯官员：加沙冲突结束后应由巴勒斯坦人治理加沙地带】当地时间9月15日，巴勒斯坦伊斯兰抵抗运动（哈马斯）高级官员奥萨马·哈姆丹在接受媒体采访时表示，该组织希望在加沙地带冲突结束后，在当地进行“巴勒斯坦联合统治”，强调应由巴勒斯坦人治理加沙地带。此外，哈姆丹指责美国没有对以色列施加足够的压力以阻止加沙冲突。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3605501.d.html</link>
-            <guid>3778560</guid>
-            <pubDate>Sun, 15 Sep 2024 14:24:01 GMT</pubDate>
+            <title><![CDATA[【加拿大夏洛特皇后群岛地区发生6.5级地震 震源深度10千米】中国地震台网正式测定：09月16日06时22分在加拿大夏洛特皇后群岛地区（北纬51.70度，西经130.65度）发生6.5级地震，震源深度10千米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0300263.d.html</link>
+            <guid>3778661</guid>
+            <pubDate>Sun, 15 Sep 2024 22:58:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【挪威首相在盒马超市推广挪威海产 表达对中国市场高度重视】9月10日挪威首相约纳斯·加尔·斯特勒（Jonas Gahr Stre）先生到访上海盒马X会员店，了解了中国的零售市场，并向在场的顾客和媒体介绍推广了挪威的海产品。这次活动成为他此次中国国事访问中的重要一环。（界面新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0381151.d.html</link>
-            <guid>3778558</guid>
-            <pubDate>Sun, 15 Sep 2024 14:16:43 GMT</pubDate>
+            <title><![CDATA[【中关村综保区正式开关运作 8家企业首批入驻】北京中关村综合保税区作为全国首家以研发创新为特色和首家创新试点数智监管模式的综保区，已正式通过海关总署等七部委联合验收。日前，首单保税研发货物顺利入区通关，标志着北京中关村综合保税区正式开关运作。中关村综保区有跨境电商、融资租赁、高端软件服务外包等多种保税服务业态。“电子围栏”的智慧监管模式，让入境货物短短几秒就能无感快速通关。目前，已有8家主要集中在集成电路、医药健康、新材料、未来能源等领域的企业已办理入区注册和备案手续。其中，烯谷科技已完成一线国际货物进口首单通关，凡知国际已完成二线货物出口入区首单通关。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0300073.d.html</link>
+            <guid>3778660</guid>
+            <pubDate>Sun, 15 Sep 2024 22:57:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军证实三名以方被扣押人员在以军对加沙的空袭中丧生】总台记者获悉，以色列国防军方面当地时间15日证实，三名以色列被扣押人员曾于去年11月10日在以军针对加沙地带北部杰巴利耶地区的空袭行动中身亡。据悉，当天以军对藏匿于杰巴利耶一条隧道中的一名哈马斯指挥官发动空袭，但因为情报信息有误，以军事先对于三人被扣押在该隧道内并不知情。以军称，经过详细调查，这三名被扣押人员很可能因此次空袭行动“间接死亡”。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0379737.d.html</link>
-            <guid>3778556</guid>
-            <pubDate>Sun, 15 Sep 2024 14:12:55 GMT</pubDate>
+            <title><![CDATA[【特朗普高尔夫球场枪击案嫌疑人身份确认】据媒体援引消息人士报道，特朗普高尔夫球场俱乐部枪击事件的嫌疑人已被确认，嫌疑人名为Ryan Wesley Routh，据悉该男子为一名58岁的白人男性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7074890.d.html</link>
+            <guid>3778659</guid>
+            <pubDate>Sun, 15 Sep 2024 22:48:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海浦东、崇明、金山、奉贤发布台风红色预警】区预警转发：上海市崇明区气象台15日21时50分更新该区域台风橙色预警信号为台风红色预警信号；金山区气象台15日21时50分更新该区域台风橙色预警信号为台风红色预警信号；浦东新区气象台15日21时50分更新该区域台风橙色预警信号为台风红色预警信号；奉贤区气象台15日21时50分更新该区域台风橙色预警信号为台风红色预警信号。（上海市气象局官方微博）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0378309.d.html</link>
-            <guid>3778555</guid>
-            <pubDate>Sun, 15 Sep 2024 14:09:25 GMT</pubDate>
+            <title><![CDATA[【加沙地带流离失所者已超200万人】加沙地带媒体办公室当地时间15日发布声明称，当前加沙地带流离失所者总人数已从190万增至200万，当地共设立543个避难场所，74%流离失所者所居住的帐篷已经无法使用，13.5万顶帐篷中有10万顶需要立即更换。声明呼吁国际社会对加沙地带流离失所者提供紧急救助。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7074667.d.html</link>
+            <guid>3778658</guid>
+            <pubDate>Sun, 15 Sep 2024 22:47:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【受“贝碧嘉”影响 浙江省防台风应急响应提升至Ⅱ级】今年第13号台风“贝碧嘉”（台风级）15日17时位于舟山市偏东方向约350公里的海面上，预计将以25-30公里的速度向偏西方向移动，强度还将有所增强。最大可能于16日上午在浙江平湖到上海浦东一带沿海登陆（台风或强台风级），将给浙中北沿海海面、浙北北部和东部地区带来严重风雨影响。根据《浙江省防汛防台抗旱应急预案》和“1+9”总体方案，浙江省防指决定于9月15日21时将防台风应急响应提升至Ⅱ级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0377521.d.html</link>
-            <guid>3778553</guid>
-            <pubDate>Sun, 15 Sep 2024 14:07:15 GMT</pubDate>
+            <title><![CDATA[【黎真主党对以目标发动火箭弹和无人机袭击】15日，黎巴嫩真主党武装和以军在黎以临时边界附近继续交火，黎真主党武装使用火箭弹和无人机袭击以方目标，以军则对黎巴嫩南部发动空袭和炮击。15日，《以色列时报》称，当天有大量火箭弹袭击了以色列北部和戈兰高地，尚无人员伤亡或财产损失报告。黎巴嫩真主党随后宣称对袭击负责，称其向以色列的一个军事基地发射数十枚火箭弹，以此回应以色列国防军最近对黎巴嫩的空袭。黎真主党武装还称，15日使用两架无人机分别袭击了两个以军基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0297508.d.html</link>
+            <guid>3778657</guid>
+            <pubDate>Sun, 15 Sep 2024 22:47:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“香港月饼”广佛造，香港买不到？美诚月饼回应：并无法律规定香港品牌不能在内地生产】中秋节前夕，“疯狂小杨哥”在直播间宣传售卖的“香港高端月饼”，被曝在香港没有线下售卖点，且产地并非香港。该“香港高端月饼”品牌名为“美诚月饼”，产地在广东，在短视频平台近30天销售额超过5000万元。根据购买“美诚月饼”的网友所展示的产品外包装，美诚月饼品牌运营方为广州市美诚食品有限公司，该品牌月饼生产商有两个，一个是广州市美诚食品科技有限公司，另一个是佛山市美诚食品有限公司。9月15日，记者现场走访了广州美诚。针对近日的网络舆论，该公司人力资源部相关负责人向记者展示了公司在香港的注册商标，并称公司2019年就在香港注册了品牌，目前遇到这样的事情也很无奈。他说：“您提到（网上质疑）在香港注册公司、在内地生产问题，我想，没有哪一条法律规定香港品牌不能在内地生产的。”（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0377377.d.html</link>
-            <guid>3778552</guid>
-            <pubDate>Sun, 15 Sep 2024 14:06:49 GMT</pubDate>
+            <title><![CDATA[【苏州境内高速封闭管控 外卖平台暂停接单配送】根据气象部门最新预报，今年第13号台风“贝碧嘉”将于今日登陆。为切实保障道路交通通行安全，自9月16日2时30分起，苏州高速公路实行封闭管控。交通管控期间，公安、应急救援、抢险救灾、医疗急救、保供和其他国计民生运输等车辆可正常通行。此外苏州市防汛抗旱指挥部发布通知，9月15日21:00起，升级全市防御台风应急响应为Ⅰ级。为切实保障人民群众生命财产安全，请各相关外卖配送平台自9月16日01:00起，暂停接单和配送服务，恢复时间将根据台风影响情况另行通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw3992900.d.html</link>
+            <guid>3778656</guid>
+            <pubDate>Sun, 15 Sep 2024 22:46:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌总统拟在部分前线地区向俄提出停火？乌方否认】当地时间9月15日，针对德国《图片报》称乌克兰总统泽连斯基准备在部分前线地区向俄罗斯提出停火的报道，乌克兰外交部发言人泰希表示，乌克兰不打算同意“冻结”冲突，报道此事的消息人士并不了解乌总统泽连斯基的计划。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3599607.d.html</link>
-            <guid>3778551</guid>
-            <pubDate>Sun, 15 Sep 2024 14:05:01 GMT</pubDate>
+            <title><![CDATA[【俄称打击乌运载武器列车 乌称击退俄进攻】俄罗斯国防部15日发布战报称，俄军在哈尔科夫、顿涅茨克、扎波罗热、赫尔松等多个方向发动攻势并击退乌军17次反攻。俄陆军航空兵和炮兵部队打击了一列运载外国武器的列车，摧毁一座乌军存放火箭弹和炮弹的仓库，并对多个无人艇、无人机停放场所进行了打击。俄空天军及防空部队击落乌军3架战机和55架无人机。同一天，乌克兰武装部队总参谋部称，当天以来前线地区发生100次战斗，在哈尔科夫方向，俄军试图袭击沃尔昌斯克地区乌军阵地，但没有成功。俄军用制导炸弹袭击了哈尔科夫市民用基础设施。在波克罗夫斯克方向，当天以来俄军对乌军阵地发动了16次袭击，乌军击退了13次袭击，还有3场战斗仍在进行中。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7242199.d.html</link>
+            <guid>3778655</guid>
+            <pubDate>Sun, 15 Sep 2024 22:45:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广州花都区市监部门回应核查美诚月饼涉事企业】近日，小杨哥及三只羊旗下主播带货的“香港美诚月饼”被质疑虚假宣传。15日，花都区市场监管局向记者回应指，9月13日关注到该情况后，该局立即对涉事企业——广州市美诚食品有限公司进行了核查。 针对公众关注的“是否在香港注册”“是否属于香港品牌”等问题，该企业提供了香港美诚食品集团有限公司在香港注册的商事登记资料，出具了香港美诚食品集团有限公司在香港注册“MEISUN”“美诚”“香港美诚月饼”商标的相关证明，同时也提供了该企业与香港美诚食品集团有限公司之间的商标使用授权等文件。 针对是否涉及“虚假宣传”问题，因涉及面较广，涉事企业和带货公司（合肥三只羊网络科技有限公司）分属不同地域，跨地域核查需要协调多方属地监管部门，花都区市场监管局将加紧加快推进核查进度，依法依规处理，及时回应群众和媒体关注。（广州日报新花城）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3597189.d.html</link>
-            <guid>3778540</guid>
-            <pubDate>Sun, 15 Sep 2024 13:54:23 GMT</pubDate>
+            <title><![CDATA[【上海16日06时继续发布海浪红色预警信号】上海市海洋监测预报中心：受今年第 13 号台风“贝碧嘉”（强台风级）影响，预计今天早晨至今天上午，长江口外海域将出现 5.0-7.0 米巨到狂浪，达到红色预警级别；长江口内海域将出现 3.4-4.9 米大到巨浪，达到橙色预警级别。今天中午起，视情况降低预警级别。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyu7241881.d.html</link>
+            <guid>3778654</guid>
+            <pubDate>Sun, 15 Sep 2024 22:45:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌称哈尔科夫遭袭已致33人受伤】当地时间9月15日，乌克兰哈尔科夫市市长捷列霍夫发布消息称，截至目前，哈尔科夫市当天遭到的袭击已造成33人受伤。当天稍早前，乌克兰总统泽连斯基发布消息称，哈尔科夫市遭到俄军空袭，住宅楼受损。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcvh4289415.d.html</link>
-            <guid>3778538</guid>
-            <pubDate>Sun, 15 Sep 2024 13:53:51 GMT</pubDate>
+            <title><![CDATA[【加拿大夏洛特皇后群岛地区附近发生6.2级左右地震】中国地震台网自动测定：09月16日06时22分在加拿大夏洛特皇后群岛地区附近（北纬51.57度，西经130.62度）发生6.2级左右地震，最终结果以正式速报为准。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyw3988557.d.html</link>
+            <guid>3778651</guid>
+            <pubDate>Sun, 15 Sep 2024 22:36:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称袭击加沙北部拜特哈嫩一学校 伤亡情况不明】当地时间15日下午，以色列国防军发布声明称，稍早前以军对巴勒斯坦伊斯兰抵抗运动（哈马斯）位于加沙北部拜特哈嫩地区一所学校内的指挥中心展开精确打击。声明强调，以军发动袭击前曾采取多项措施以减少对平民的伤害。截至目前，伤亡情况不详，哈马斯及巴勒斯坦方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3596324.d.html</link>
-            <guid>3778534</guid>
-            <pubDate>Sun, 15 Sep 2024 13:50:30 GMT</pubDate>
+            <title><![CDATA[美国地质勘探局：加拿大基蒂马特地区发生6.6级地震；地震后，暂无海啸威胁警报。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyyz0294287.d.html</link>
+            <guid>3778650</guid>
+            <pubDate>Sun, 15 Sep 2024 22:33:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【首单测试成功！三亚机场正式开辟跨境电商出口新通道】 据海南机场消息，9月14日，香港消费者购买的一批跨境电商货物经机场海关查验审核后，从海南控股旗下三亚凤凰国际机场（下称三亚机场）快速通关放行，搭乘HX162航班顺利运往香港。这是三亚首单跨境电商“9610”空运出口测试，至此，三亚机场正式开辟跨境电商出口新通道，标志着三亚真正意义上跨境贸易电子商务出口模式的全面开通。据悉，“9610”是海关监管方式代码，全称为“跨境贸易电子商务”，俗称“集货模式”，适用于境内个人或企业通过电商平台实现的交易。该模式采用“清单核放、汇总申报”的方式进行通关，方便境内企业直接将商品邮寄至境外消费者。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3595912.d.html</link>
-            <guid>3778530</guid>
-            <pubDate>Sun, 15 Sep 2024 13:48:48 GMT</pubDate>
+            <title><![CDATA[新西兰8月服务业表现指数 45.5，前值44.6。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphyza7070924.d.html</link>
+            <guid>3778649</guid>
+            <pubDate>Sun, 15 Sep 2024 22:31:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台风“贝碧嘉”逐渐逼近 上海已抢收蔬菜8000吨】记者从市农业农村委获悉，截至9月15日18时，全市共抢收蔬菜8000吨、水果1100吨；加固蔬菜大棚11.5万亩、林果大棚2.1万亩；抢排水产池塘9.3万亩；193条渔船已全部进港避风，停港秩序良好。 (上观新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0372568.d.html</link>
-            <guid>3778528</guid>
-            <pubDate>Sun, 15 Sep 2024 13:47:13 GMT</pubDate>
+            <title><![CDATA[【中央气象台9月16日06时继续发布台风红色预警】今年第13号台风“贝碧嘉”已于今天（16日）凌晨由台风级加强为强台风级，早晨5点钟其中心位于上海市东偏南方大约125公里的近海海面上，就是北纬30.7度、东经122.5度，中心附近最大风力有14级（45米/秒），中心最低气压为955百帕，七级风圈半径180-200公里，十级风圈半径70-100公里，十二级风圈半径40公里。预计，“贝碧嘉”将以每小时25公里左右的速度向西偏北方向移动，将于今天早晨到上午在上海浦东到奉贤一带沿海登陆（强台风级，14级，42-45米/秒），登陆后继续向西偏北方向移动，强度逐渐减弱。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphutc0421474.d.html</link>
+            <guid>3778646</guid>
+            <pubDate>Sun, 15 Sep 2024 22:17:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【浙江舟山全面启动“五停”管控措施】据气象部门预测，今年第13号台风“贝碧嘉”将正面袭击舟山市，对舟山市造成严重影响。经舟山市防指研究，决定启动防汛防台Ⅰ级响应。为保护人民群众生命财产安全，根据相关预案，舟山已全面启动“五停”管控措施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3595133.d.html</link>
-            <guid>3778526</guid>
-            <pubDate>Sun, 15 Sep 2024 13:45:14 GMT</pubDate>
+            <title><![CDATA[【厄瓜多尔瓜亚基尔市发生枪击案 造成4人死亡】当地时间9月15日，厄瓜多尔最大城市瓜亚基尔西北部发生两起枪击案，造成4人死亡。瓜亚基尔警方表示，当天清晨一伙人驾驶着10多辆汽车在该市西北部的一个超市附近开枪，造成3名男子死亡。附近街区一名骑摩托车男子被枪杀。警方在现场发现不同口径的子弹弹壳，目前正在对袭击人身份进行调查。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphusy4107344.d.html</link>
+            <guid>3778643</guid>
+            <pubDate>Sun, 15 Sep 2024 22:07:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家海洋预报台发布风暴潮橙色警报国家海洋预报台15日22时发布风暴潮橙色警报】预计：9月16日凌晨至下午，江苏盐城到长江口沿海将出现100到270厘米的风暴增水，杭州湾到浙江宁波沿海将出现70到150厘米的风暴增水。上海市的风暴潮预警级别为橙色，江苏省南通市、浙江省嘉兴市和绍兴市的风暴潮预警级别为蓝色。预计16日下午解除风暴潮警报。请沿海政府及相关部门按照职责做好防御风暴潮的应急抢险工作；沿海低洼地区和危房户居民应及时转移到安全地带；组织外来务工人员和游客撤离危险区域;关闭沿海危险区域浴场和游乐设施，禁止人员到海边游玩；渔排、渔船等海上作业人员及时上岸避险。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcvh4283917.d.html</link>
-            <guid>3778520</guid>
-            <pubDate>Sun, 15 Sep 2024 13:41:28 GMT</pubDate>
+            <title><![CDATA[【中央气象台9月16日06时继续发布暴雨黄色预警】预计，9月16日08时至17日08时，安徽中部、江苏中部和南部、上海、浙江北部、四川盆地西部等地部分地区有大到暴雨，其中，安徽中东部、江苏南部、浙江北部等地部分地区有大暴雨（100～190毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可达80毫米），局地有雷暴大风等强对流天气。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphutc0418386.d.html</link>
+            <guid>3778640</guid>
+            <pubDate>Sun, 15 Sep 2024 22:05:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以总理称胡塞武装将付出沉重代价】对于今天（9月15日）也门胡塞武装导弹击中以色列腹地，以色列总理内塔尼亚胡称，胡塞武装将为此付出沉重代价。他还特别提到“欢迎任何需要被提醒的人去‘参观’也门荷台达港”。 当地时间7月19日凌晨，以色列特拉维夫市中心遭胡塞武装发射的一架远程攻击型无人机袭击，造成一人死亡、多人受伤。当地时间7月20日下午，以色列出动战机对也门西部重要港口城市荷台达多地发动密集空袭，造成多人死亡、数十人受伤。内塔尼亚胡当时称，这次距离以色列边境约1800公里的袭击是在“警告敌人，没有以色列的‘长臂’无法触及的地方”。（CCTV国际时讯）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0370638.d.html</link>
-            <guid>3778519</guid>
-            <pubDate>Sun, 15 Sep 2024 13:40:41 GMT</pubDate>
+            <title><![CDATA[【台风贝碧嘉登陆在即】据中央气象台消息，05时“贝碧嘉”中心距离上海约125公里，中心附近最大风力45米/秒。预计“贝碧嘉”将以强台风级别（42-45米/秒）登陆上海，刷新1949年以来登陆上海的台风强度记录。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphute7194289.d.html</link>
+            <guid>3778636</guid>
+            <pubDate>Sun, 15 Sep 2024 21:59:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【东风公司纪委、监察专员办通报四起违反中央八项规定精神典型问题】东风公司纪委、监察专员办对4起违反中央八项规定精神典型问题进行公开通报。具体如下：一、东风汽车集团股份有限公司原乘用车公司采购部部长郑雄文违规收受礼品、违规接受管理和服务对象安排的宴请问题。二、东风德纳车桥有限公司襄阳工厂部装车间原主任董小红违规发放津补贴问题。三、东风特种装备事业部采购部供应商质量保证室原部品改善主任师刘玉庆违规收受礼品、礼金问题。四、东风设计研究院有限公司原执行总经理周鲲违规收受礼品、礼金问题。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3592705.d.html</link>
-            <guid>3778517</guid>
-            <pubDate>Sun, 15 Sep 2024 13:38:13 GMT</pubDate>
+            <title><![CDATA[【上海地铁多条线路今日停运】受今年第13号台风“贝碧嘉”影响，为确保轨道交通运营安全，今天（9月16日）自运营开始时起，3号线、5号线、16号线、17号线、浦江线、磁浮线全线停运；1号线、2号线、4号线、6号线、7号线、8号线、9号线、10号线、11号线的地面、高架段停运。后续，停运段的恢复时间将根据台风情况确定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-16/detail-incphusy4096904.d.html</link>
+            <guid>3778632</guid>
+            <pubDate>Sun, 15 Sep 2024 21:42:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台风“贝碧嘉”将登陆 安徽合肥机场部分航班取消】记者从安徽合肥新桥国际机场获悉，2024年第13号台风“贝碧嘉”预计将在浙江宁波到江苏启东一带沿海登陆。受其影响，合肥机场会出现间歇性中到大阵雨天气，平均风速9-15米/秒，阵风14-20米/秒。受台风影响，截至今天（9月15日）19时45分，合肥机场16日已经取消进出港航班共计37班，请已购票旅客关注航空公司通知。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve0369705.d.html</link>
-            <guid>3778516</guid>
-            <pubDate>Sun, 15 Sep 2024 13:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西遭遇历史性干旱】 巴西国家自然灾害监测预警中心最近发布的数据显示，今年巴西的干旱已波及约500万平方公里，影响了全国约59%的国土面积。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcva3589484.d.html</link>
-            <guid>3778509</guid>
-            <pubDate>Sun, 15 Sep 2024 13:29:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印尼东加里曼丹省发生5.6级地震】据印尼气象、气候和地球物理局消息，当地时间9月15日20时08分，印度尼西亚东加里曼丹省贝劳县东南145公里处发生5.6级地震，震中位于北纬1.28度，东经118.42度，震源深度10公里。预计不会有海啸风险。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incphcve7525672.d.html</link>
-            <guid>3778507</guid>
-            <pubDate>Sun, 15 Sep 2024 13:25:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【暴雨来袭 欧洲多国对抗“历史性”洪水】 据美国有线电视新闻网（CNN）报道，近日欧洲中部和东部遭遇多年来最强降雨，造成至少6人死亡，数千栋房屋受损。罗马尼亚、捷克、波兰、奥地利等欧洲多国发布洪水警报，部分地区已发布最高级别红色预警。(新华社)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxph0494496.d.html</link>
-            <guid>3778506</guid>
-            <pubDate>Sun, 15 Sep 2024 13:22:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌称哈尔科夫一建筑遭俄军袭击 已致28人受伤】当地时间9月15日，乌克兰哈尔科夫市市长捷列霍夫通报称，当天哈尔科夫市遭俄军袭击，一栋高层建筑被击中，民用基础设施受损，已造成28人受伤。目前俄罗斯方面暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpe3715769.d.html</link>
-            <guid>3778501</guid>
-            <pubDate>Sun, 15 Sep 2024 13:17:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【大量移民涌入 西班牙警方暂时关闭休达与摩洛哥的陆地边境】总台记者当地时间9月15日获悉，由于约300至400名非法移民企图从摩洛哥经陆地边境入境西班牙休达直辖市，西班牙国民警卫队于15日上午11时起暂时关闭了休达直辖市和摩洛哥之间的边境。休达直辖市国民警卫队已从当天凌晨起激活警报，并表示将随时做好准备进行特殊行动。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxph0491234.d.html</link>
-            <guid>3778496</guid>
-            <pubDate>Sun, 15 Sep 2024 13:12:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【尼日利亚北部一船只倾覆导致数十人死亡】日利亚官员15日说，该国北部扎姆法拉州一艘木船14日倾覆，导致至少41人死亡。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpe3714044.d.html</link>
-            <guid>3778495</guid>
-            <pubDate>Sun, 15 Sep 2024 13:12:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国科技惊艳奥运会赛场 亮眼中国红闪耀巴黎奥运会】今夏的巴黎奥运会，那一抹亮眼的中国红，吸引了国际社会关注的目光。这一次，中央广播电视总台以国际一流的超强制播能力，成为巴黎奥运会转播项目最多的国际媒体。这辆由总台超高清国家重点实验室自主研发设计的 8K 超高清转播车，跨越山海，从北京抵达巴黎。中国人制造的这套装备，是当今世界功能最强、系统最灵活的外场转播车系统。此外，在今年的巴黎奥运会上，奥运冠军邓亚萍还有个新身份是一名科研人员，推广我们自主研制的科学训练系统。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxph7650186.d.html</link>
-            <guid>3778494</guid>
-            <pubDate>Sun, 15 Sep 2024 13:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：埃达克岛以西219公里处发生5.0级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpe3713485.d.html</link>
-            <guid>3778490</guid>
-            <pubDate>Sun, 15 Sep 2024 13:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【菲船非法滞留仙宾礁近五个月终撤离 专家：宣告中方成功应对，应对菲方未来举动保持警惕】中国海警9月15日通报，9月14日14时许，菲海警9701号船撤离中国仙宾礁潟湖。这意味着自今年4月17日侵闯中国仙宾礁，并在此非法滞留近5个月的菲海警9701号船上演的闹剧暂告一段落。相关专家9月15日在接受记者采访时表示，正是因为中方成功的应对，使得菲律宾未能实现其任何预期目标，只余下从仙宾礁撤船撤人的唯一退路。但从菲方的相关动向来看，这不太可能是其在南海持续制造事端的句号，应警惕菲方将这种非法滞留的戏码转移到南海其他岛礁，相信中方也做好了转移阵地、随时阻击的准备。（环球时报）]]></title>
-            <guid>3778489</guid>
-            <pubDate>Sun, 15 Sep 2024 13:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【AI大模型能完成一个班的作文批改？超200万师生每天使用AI大模型教育产品】在今年服贸会上，记者发现，不少行业将重点从大模型的“炫技”转向了应用。在教育服务馆，有的AI大模型能够完成一个班级的作文批改，并做总结分析。据了解，类似这样的AI大模型教育产品，已经在北京、上海、浙江等23个省份落地应用，超过200万的学生和教师每天都在使用。商务部表示，今年服贸会将加大在新兴领域的国际合作，突出发展新质生产力，促进创新成果互惠共享。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpe3710570.d.html</link>
-            <guid>3778488</guid>
-            <pubDate>Sun, 15 Sep 2024 13:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家防总、应急管理部加派工作组赴上海协助指导台风防御】按照国家防总副总指挥、应急管理部部长王祥喜安排部署，国家防总办公室、应急管理部继续组织气象、水利、自然资源等部门联合会商，视频调度上海、浙江、江苏、安徽等省份防指，研判台风“贝碧嘉”发展趋势，部署防汛防台风各项工作。国家防总办公室加派1个工作组赴上海协助指导防台风工作，前期派出的浙江工作组继续在一线开展工作。应急管理部针对上海、江苏、浙江、福建等重点地区落实工程抢险力量3089人、装备992台套、直升机5架、无人机通信平台6架、社会应急力量598人，协调做好抢险救援准备。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpe3709936.d.html</link>
-            <guid>3778486</guid>
-            <pubDate>Sun, 15 Sep 2024 12:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【海地发生油罐车爆炸事故至少24人死亡】海地南部城市米拉戈阿讷附近14日上午发生一起油罐车爆炸事故，造成至少24人死亡。据海地媒体报道，一辆油罐车当天撞上一辆抛锚的货车后发生燃料泄漏，附近居民试图收集泄漏的燃料时，现场发生爆炸，造成大量人员死伤。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxph7643042.d.html</link>
-            <guid>3778484</guid>
-            <pubDate>Sun, 15 Sep 2024 12:55:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【受台风“贝碧嘉”影响 沿海地区防洪排涝面临不利形势】今天（9月15日），水利部召开专题会商，分析研判台风“贝碧嘉”移动路径、发展态势和影响区域内的雨情汛情形势，部署台风暴雨洪水防御工作。据预报，受台风“贝碧嘉”影响，太湖流域、钱塘江流域、曹娥江流域、长江中下游部分地区、淮河流域部分地区、黄河中游伊洛河流域等地将有暴雨或大暴雨，局地特大暴雨，暴雨区内发生山洪、中小河流洪水的可能性大。其间，适逢中秋节和天文大潮，在风暴潮影响下，沿海地区防洪排涝将面临极不利形势。水利部要求预降太湖河网水位，调度河网地区降低水位运行，沿海地区落实防风暴潮倒灌措施。对台风影响区域、流域的大中型骨干水库，逐库实施精准调控。密切监视咸潮上溯，充分利用一线潮位监测数据信息和预报模型，滚动开展数字预演，提前采取有效措施，精准调度水工程，确保长江口地区城乡供水安全。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-15/detail-incpfxpk4392452.d.html</link>
-            <guid>3778482</guid>
-            <pubDate>Sun, 15 Sep 2024 12:52:37 GMT</pubDate>
+            <title><![CDATA[特朗普竞选搭档万斯：我很高兴特朗普安然无恙。我在消息公布之前和他交谈过，令人惊讶的是，他的精神很好。]]></title>
+            <guid>3778631</guid>
+            <pubDate>Sun, 15 Sep 2024 21:30:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
