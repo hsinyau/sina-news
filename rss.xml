@@ -4,16 +4,34 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 21 Sep 2024 18:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 21:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[市场资讯：马克龙任命阿尔芒为法国新任财政部长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyazh8508211.d.html</link>
-            <guid>3786147</guid>
-            <pubDate>Sat, 21 Sep 2024 17:52:11 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩卫生部：过去几日以色列对黎袭击已致82人死亡】当地时间21日，黎巴嫩卫生部长菲拉斯·阿卜亚德向媒体表示，过去几天以色列对黎的袭击已造成共82人死亡。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyazf1745153.d.html</link>
+            <guid>3786183</guid>
+            <pubDate>Sat, 21 Sep 2024 19:27:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列多地举行抗议活动 呼吁尽快达成停火协议】当地时间21日晚，以色列被扣押人员家属以及其他民众在以色列特拉维夫举行示威，呼吁尽快达成停火及被扣押人员交换协议，以便尽快释放自2023年10月7日以来被巴勒斯坦伊斯兰抵抗运动（哈马斯）扣押在加沙的人员。以色列总理内塔尼亚胡位于凯撒利亚的住所外、耶路撒冷、内塔尼亚等多地都举行了大规模抗议活动。总台记者获悉，一些被扣押人员亲属对达成协议的前景表示悲观，部分原因是以色列将重心转向北方，目前以色列谈判人员与协议调解人之间没有实质性接触。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyazh8521308.d.html</link>
+            <guid>3786178</guid>
+            <pubDate>Sat, 21 Sep 2024 19:20:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【加沙地带中部阿克萨烈士医院面临停止服务风险】当地时间21日，加沙地带中部阿克萨烈士医院发布紧急声明，称该医院发电机用油和相关配件出现问题，面临停止服务的危险。如果发电机用油和配件无法及时运抵，该医院将在不到10天内停止提供服务。阿克萨烈士医院在声明中紧急呼吁国际社会帮助其运送发电机用油和相关配件，以保障发电机继续运行，从而确保该医院能够继续向目前居住在该地区的100多万人提供卫生和医疗服务。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyaza6478771.d.html</link>
+            <guid>3786169</guid>
+            <pubDate>Sat, 21 Sep 2024 19:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【战事升级 以军对其北部多地居民发布新防御政策】以色列国防军发言人丹尼尔·哈加里当地时间21日召开新闻发布会，宣布针对其北部居民发布了新的防御政策。对于可能发生袭击，以军将在北部采取新的措施。随着以色列北部战事升级，以色列国土防线司令部正在对海法地区及以北地区的平民实施新的限制措施，具体包括要确保教育活动和工作场所附近有可以及时到达的避难所才可以正常运营；聚会将受到限制，户外最多30人，室内最多300人。根据以色列国防军当天发表的声明，该防御政策的变化从21日20时30分开始，下加利利、中加利利、上加利利、海法湾等地将受到影响。此外，哈加里表示，以色列国防军对黎巴嫩南部真主党基地和火箭弹发射装置进行了大规模空袭。该行动是在军方发现黎巴嫩真主党准备向以色列发射火箭弹之后进行的，21日当天已有400多个真主党火箭发射器遭到袭击。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-22/detail-incpyayy9721033.d.html</link>
+            <guid>3786148</guid>
+            <pubDate>Sat, 21 Sep 2024 18:14:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【美国明尼苏达州发生枪击事件 致2死3伤】当地时间9月21日，美国明尼苏达州明尼阿波利斯市中心于当日凌晨2时前发生一起枪击事件，造成2人死亡、3人受伤。警方表示，这起枪击事件是由一群人之间的斗殴引发的。目前，一人因涉嫌煽动骚乱而被捕。（央视新闻）]]></title>
@@ -545,35 +563,6 @@
             <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvs8946438.d.html</link>
             <guid>3785861</guid>
             <pubDate>Sat, 21 Sep 2024 10:09:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中央气象台9月21日18时解除台风蓝色预警。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvr2168488.d.html</link>
-            <guid>3785860</guid>
-            <pubDate>Sat, 21 Sep 2024 10:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为与佳发教育签署合作协议】 据悉，9月20日，在上海举办“华为全联接大会2024”期间，华为技术有限公司（简称“华为”）与成都佳发安泰教育科技股份有限公司（简称“佳发教育”）签署合作协议。双方将共同探索和推进智慧考试的发展，在智慧考试新标准、考试业务全面自主创新升级等方面进行深度合作，以创新技术赋能教育领域，携手构建一个协同发展的联合生态系统。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvr2168374.d.html</link>
-            <guid>3785859</guid>
-            <pubDate>Sat, 21 Sep 2024 10:05:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士称，伊朗没有为最近几周其运往俄罗斯的弹道导弹提供发射器。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvn6838143.d.html</link>
-            <guid>3785858</guid>
-            <pubDate>Sat, 21 Sep 2024 10:01:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【乌克兰追加5000亿格里夫纳防务预算】记者获悉，乌克兰总统泽连斯基于9月20日签署一项法律，将2024年防务预算增加5000亿格里夫纳（约合120亿美元），以满足军事需求。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-21/detail-incpxfvn6836496.d.html</link>
-            <guid>3785857</guid>
-            <pubDate>Sat, 21 Sep 2024 09:57:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据巴勒斯坦新闻社瓦法报道，至少有13名巴勒斯坦人在以色列对南加沙市避难学校的空袭中遇难。]]></title>
-            <guid>3785856</guid>
-            <pubDate>Sat, 21 Sep 2024 09:52:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
