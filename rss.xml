@@ -4,16 +4,313 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 26 Sep 2024 18:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 21:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【证券日报今日视点：稳增长政策力挺实体经济与资本市场】中共中央政治局9月26日召开会议并指出，要抓住重点、主动作为，有效落实存量政策，加力推出增量政策，进一步提高政策措施的针对性、有效性，努力完成全年经济社会发展目标任务。9月24日，“一行一局一会”集中发布并“预告”了一批增量政策，打出了一套政策“组合拳”。近两日，相关政策细节相继发布。整体来看，政策层面力挺实体经济与资本市场的意图和路径愈发清晰。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8275801.d.html</link>
-            <guid>3793532</guid>
-            <pubDate>Thu, 26 Sep 2024 18:09:33 GMT</pubDate>
+            <title><![CDATA[韩国9月综合商业信心指数从8月的92.5降至91.2，为3月以来最低水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyk5101957.d.html</link>
+            <guid>3793679</guid>
+            <pubDate>Thu, 26 Sep 2024 21:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【超六成私募重仓或满仓，进攻方向选择科技成长】 受政策面等因素激励，本周A股自年内低位强势上行，市场情绪开始显著好转。当前接近七成的股票私募机构看好国庆假期之后的A股市场表现，同时有超过六成的私募表示在国庆假期前后“重仓”或“满仓”。从市场的结构性投资机会来看，相关问卷调查情况显示，当前私募机构对于科技成长方向最为看好。其他人气较高的投资方向还包括低估值蓝筹，消费、医疗等板块。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyh8185800.d.html</link>
+            <guid>3793678</guid>
+            <pubDate>Thu, 26 Sep 2024 21:01:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【让利实打实，公募费率改革“以降促升”】 中央金融办、中国证监会联合印发的《关于推动中长期资金入市的指导意见》提出，“稳步降低公募基金行业综合费率”。距离2023年7月份公募基金行业费率改革工作方案的出台，已经有一年多的时间，费率改革第一阶段及第二阶段措施先后落地。业内人士认为，在公募基金高质量发展新阶段，费率改革需要行业链条上各个环节共同蓄势聚力，基金公司、代销渠道等应合力从激励机制、管理和运营能力、服务能力等多个层面作出提升，扭转此前“基金公司赚钱，基民不赚钱”的现象，更好地为投资者持续创造利益，推动公募行业更加稳健、多元、高质量发展。（中证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyh8185238.d.html</link>
+            <guid>3793677</guid>
+            <pubDate>Thu, 26 Sep 2024 20:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登与乌克兰总统泽连斯基讨论了美国对乌克兰的支持情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyh8182560.d.html</link>
+            <guid>3793668</guid>
+            <pubDate>Thu, 26 Sep 2024 20:49:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登与乌克兰总统泽连斯基讨论了乌克兰的胜利计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyh8182467.d.html</link>
+            <guid>3793667</guid>
+            <pubDate>Thu, 26 Sep 2024 20:48:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国总统马克龙：法国反对黎巴嫩成为新的加沙，以色列必须停止空袭，真主党也必须停止报复行动。对召开联合国安理会会议讨论以色列-真主党停火提议持开放态度。]]></title>
+            <guid>3793652</guid>
+            <pubDate>Thu, 26 Sep 2024 20:33:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：继续就以色列与黎巴嫩真主党临时停火协议与以色列进行对话；中东特使麦格克正在纽约联合国会议期间与以色列方面会晤，旨在推动停火协议；以色列总理内塔尼亚胡和以色列人民有权抵御对他们和平与安全的威胁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyn1862704.d.html</link>
+            <guid>3793642</guid>
+            <pubDate>Thu, 26 Sep 2024 20:25:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[以色列军方：在过去一天内，以色列空军在黎巴嫩打击了约220个真主党目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyf1398764.d.html</link>
+            <guid>3793639</guid>
+            <pubDate>Thu, 26 Sep 2024 20:25:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【高盛：期待已久的中国股市复苏可能终于到来】高盛全球市场董事总经理、策略专家Scott Rubner周四表示，中国股市近日走势强劲，纳斯达克中国金龙指数在过去四天飙升19%，一旦美国大选结束，中国股市应该成为投资者投资计划的重要组成部分。Rubner认为，期待已久的中国股市复苏可能终于到来，如果是这样，投资者应该想要参与其中。他在周四给客户的一份报告中写道：“我真的认为这一次对中国来说是不同的。”高盛称，在最近的涨势之前，对冲基金对中国股票的投资比例不到7%，约为五年来的最低水平，但本周早些时候，它们改变了方向，纷纷涌入中国股票市场，周二创下了自2021年3月以来的最大单日买入量，也是过去10年来第二大单日净买入量。（财联社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyf1398595.d.html</link>
+            <guid>3793635</guid>
+            <pubDate>Thu, 26 Sep 2024 20:24:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【土安全部队在伊拉克和叙利亚北部打死36名库尔德工人党成员】土耳其国防部当地时间26日表示，过去一周，土耳其安全部队在靠近土耳其边境的伊拉克北部和叙利亚北部打死36名库尔德工人党成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyk5084395.d.html</link>
+            <guid>3793634</guid>
+            <pubDate>Thu, 26 Sep 2024 20:23:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国白宫：美国总统拜登与乌克兰总统泽连斯基将于10月12日在德国会晤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyk5083352.d.html</link>
+            <guid>3793633</guid>
+            <pubDate>Thu, 26 Sep 2024 20:21:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国食品药品监督管理局（FDA）：针对高致病性禽流感（HPAI），将通过持续对零售乳制品进行抽样和检测，继续确认商业牛奶供应的安全性。]]></title>
+            <guid>3793627</guid>
+            <pubDate>Thu, 26 Sep 2024 20:18:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军轰炸加沙北部贾巴利亚一房屋 造成4人死亡】当地时间26日晚，以军战斗机轰炸了加沙地带北部贾巴利亚的一所房屋，造成4人死亡，死者为一对夫妇和两名儿童。目前，以色列方面暂未做出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyk5082236.d.html</link>
+            <guid>3793626</guid>
+            <pubDate>Thu, 26 Sep 2024 20:18:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【国际投行点赞“意外之喜”，外资加码买入中国资产】金融市场利好政策持续加持下，中国资产价值迎来重估，国际投行巨头纷纷唱多。最近几天，国际投行巨头对中国资产的态度有明显变化，连续发布研报表明态度。其中，高盛建议“投资者战术性投资中国股票”；摩根士丹利则认为中国股市近期或“出现战术性反弹，甚至表现优于新兴市场”。与此同时，外资买入中国资产力度正在加大。自“9·24金融新政”推出以来，A股市场中，北向资金成交额放量明显，且北向资金交易活跃的个股亦涨势明显。当地时间9月26日，美股热门中概股集体大涨。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyk5080408.d.html</link>
+            <guid>3793622</guid>
+            <pubDate>Thu, 26 Sep 2024 20:13:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美联储系统公开市场帐户(SOMA)经理Perli：美联储的资产负债表还有很大的空间可以进一步缩减。回购利率上升可能与市场集中度增加有关，很难确定市场所需的适当储备水平。]]></title>
+            <guid>3793621</guid>
+            <pubDate>Thu, 26 Sep 2024 20:13:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[特朗普媒体科技集团（DJT）股东抛售超750万股股票。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpsyf1396014.d.html</link>
+            <guid>3793620</guid>
+            <pubDate>Thu, 26 Sep 2024 20:12:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[巴菲特旗下伯克希尔哈撒韦公司就Liberty Media Corp.递交13G/A报告。]]></title>
+            <guid>3793617</guid>
+            <pubDate>Thu, 26 Sep 2024 20:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[乌克兰总统泽连斯基：我们需要紧急加强乌克兰的空中防御。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1523968.d.html</link>
+            <guid>3793612</guid>
+            <pubDate>Thu, 26 Sep 2024 20:00:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国副总统哈里斯：美国支持乌克兰】美国副总统哈里斯表示，美国支持乌克兰，因为这符合我们的战略利益；普京可以通过从乌克兰撤军来结束这场冲突；美国国内有一些人将迫使乌克兰放弃大部分主权领土，这些提案不是和平提案，而是投降提案。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1521918.d.html</link>
+            <guid>3793608</guid>
+            <pubDate>Thu, 26 Sep 2024 19:52:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：亚马逊(AMZN.O)PRIME VIDEO业务超过了18亿美元的前期目标。]]></title>
+            <guid>3793607</guid>
+            <pubDate>Thu, 26 Sep 2024 19:52:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：09月27日03时19分在中印度洋海岭（南纬17.30度，东经66.50度）发生6.1级地震，震源深度10千米。]]></title>
+            <guid>3793606</guid>
+            <pubDate>Thu, 26 Sep 2024 19:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【多类长期资金入市，制度建设“快马加鞭”】 9月26日召开的中央政治局会议强调，要努力提振资本市场，大力引导中长期资金入市，打通社保、保险、理财等资金入市堵点。此后，《关于推动中长期资金入市的指导意见》印发，为加快推进中长期资金入市、健全投资和融资相协调的资本市场功能提供了明确的“行动纲领”。业内专家认为，后续随着各类中长期资金入市配套政策制度落实落地，中长期资金投资规模和占比有望进一步提高，并带动资本市场投资者结构持续优化；同时，强化投资行为长期性，有利于增强资本市场内在稳定性，夯实资本市场平稳运行和健康发展的基础，更好服务于实体经济回升向好和经济高质量发展。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsn5199471.d.html</link>
+            <guid>3793603</guid>
+            <pubDate>Thu, 26 Sep 2024 19:47:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国副总统哈里斯：对乌克兰的支持始终坚定不移。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsn5199284.d.html</link>
+            <guid>3793602</guid>
+            <pubDate>Thu, 26 Sep 2024 19:47:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国官员们表示，拜登计划加强6月份在南部边境实施的庇护限制。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1518601.d.html</link>
+            <guid>3793597</guid>
+            <pubDate>Thu, 26 Sep 2024 19:43:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：OpenAI公司讨论让山姆·奥特曼持有7%的营利性股权。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1517545.d.html</link>
+            <guid>3793588</guid>
+            <pubDate>Thu, 26 Sep 2024 19:38:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹西部城市遭炮击 造成至少18人死亡】当地时间9月26日，苏丹地方组织法希尔抵抗委员会表示，苏丹西部北达尔富尔州首府法希尔市遭遇炮击，造成至少18名平民死亡，另有41人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8294010.d.html</link>
+            <guid>3793585</guid>
+            <pubDate>Thu, 26 Sep 2024 19:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[势必锐航空系统公司发言人说，他们正在审查关于无薪休假的应急计划，但目前还没有做出决定。]]></title>
+            <guid>3793584</guid>
+            <pubDate>Thu, 26 Sep 2024 19:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网自动测定：09月27日03时19分在中印度洋海岭附近（南纬16.86度，东经66.79度）发生6.4级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>3793583</guid>
+            <pubDate>Thu, 26 Sep 2024 19:33:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谷歌CEO皮查伊：将在南卡罗来纳州投资33亿美元，建设两个新的数据中心，扩展公司的云和数据中心基础设施。]]></title>
+            <link>https://finance.sina.cn/world/2024-09-27/detail-incqpnsk8290570.d.html</link>
+            <guid>3793576</guid>
+            <pubDate>Thu, 26 Sep 2024 19:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【“海伦妮”增强为3级飓风 向美佛罗里达州逼近】美国国家飓风中心称，威胁佛罗里达州的飓风“海伦妮”现已增强为3级飓风，目前持续风速约为每小时193公里。据悉，飓风“海伦妮”将给佛罗里达州西北部地区带来风暴潮，并给美国东南部大部分地区带来破坏性强风、降雨和山洪。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1512202.d.html</link>
+            <guid>3793572</guid>
+            <pubDate>Thu, 26 Sep 2024 19:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【坐拥全球最具开发价值海上风场之一，江苏盐城正在海上造“三峡”】 江苏盐城拥有江苏省最长海岸线和最广海域面积，沿海风能资源也十分丰富，是全球最具开发价值的海上风场之一。这里也正在建成新的“海上三峡”。这里建有我国首个商业化运行的海上风电项目，建有全国容量最大的组串式储能电站。如今，江苏盐城海上风电装机容量超过554万千瓦，占到全国的14.9%，全球的7.4%，被称为海上风电第一城。此外，盐城还汇聚了风电整机和零部件的多家头部企业，形成海上风电全产业链。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1512124.d.html</link>
+            <guid>3793571</guid>
+            <pubDate>Thu, 26 Sep 2024 19:10:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中概指数涨幅重新超过11%，互联网ETF KWEB涨约12%，B站涨16%】 纳斯达克金龙中国指数涨幅重新扩大至超过11%，逼近美股盘初涨至的顶部7076.67点和2023年7月31日顶部7882.30点。富时中国3倍做多ETF（YINN）涨约24%，KWEB涨超11.8%，CQQQ涨超9.8%。热门中概股里，贝壳涨21.4%，华住涨18.3%，B站涨16%，老虎证券涨15%，京东、新东方、百胜中国、Boss直聘、再鼎医药、亚朵、小鹏、携程、诺亚财富、唯品会、阿里巴巴、名创优品也至少涨超10%。此外，房多多维持100%的涨幅，鑫苑置业涨24%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsq1961783.d.html</link>
+            <guid>3793570</guid>
+            <pubDate>Thu, 26 Sep 2024 19:08:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[秘鲁总理宣布在利马大都会区多个地区实施紧急状态，以应对犯罪率上升问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsq1961639.d.html</link>
+            <guid>3793569</guid>
+            <pubDate>Thu, 26 Sep 2024 19:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：美国总统拜登将于周五前往宾夕法尼亚州斯克兰顿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1511391.d.html</link>
+            <guid>3793567</guid>
+            <pubDate>Thu, 26 Sep 2024 19:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国农业部报告显示，截至2024年9月1日，待上市的生猪存栏量为101%，市场预估为100.4%。]]></title>
+            <guid>3793564</guid>
+            <pubDate>Thu, 26 Sep 2024 19:03:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【墨西哥央行将隔夜利率从10.75%下调至10.50%】墨西哥央行下调隔夜利率25个基点，至10.50%，符合市场预期。9月份稍早，北方邻国的美联储一口气降息50个基点，SOFR期权市场大单押注FOMC今年还有两个50基点的降息空间。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1509756.d.html</link>
+            <guid>3793559</guid>
+            <pubDate>Thu, 26 Sep 2024 19:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国家飓风中心：佛罗里达西海岸的风暴潮和风速正在增加。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsn5180487.d.html</link>
+            <guid>3793557</guid>
+            <pubDate>Thu, 26 Sep 2024 18:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【挪威发国际通缉令 搜寻与引爆真主党寻呼机有关的男子】挪威警方周四表示，已发出对林森•何塞（Rinson Jose）的国际搜寻请求。林森•何塞是一名挪威裔印度人，涉嫌向黎巴嫩真主党出售寻呼机，真主党上周遭遇寻呼机爆炸事件。39岁的何塞上周在去美国出差时失踪。他是一家保加利亚公司的创始人，据报道该公司是寻呼机供应链的一部分。奥斯陆警方的声明称：“昨天，9月25日，奥斯陆警察局收到了一份与寻呼机案件有关的失踪人口报告。”声明还说：“失踪人口案件已经立案，我们已经发出了对此人的国际通缉令。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8285122.d.html</link>
+            <guid>3793551</guid>
+            <pubDate>Thu, 26 Sep 2024 18:50:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹武装部队总司令要求快速支援部队撤离占领地区并解除武装】当地时间9月26日，苏丹主权委员会主席兼武装部队总司令布尔汗在美国纽约举行的第79届联合国大会上表示，苏丹政府致力于寻求和平，愿意参与任何旨在结束苏丹武装冲突的和平倡议，但除非苏丹快速支援部队从其占领地区撤离并解除武装，否则和平不会实现。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8284563.d.html</link>
+            <guid>3793550</guid>
+            <pubDate>Thu, 26 Sep 2024 18:47:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[挪威北欧半导体公司（NOD.NO）收跌24.19%，超过2月6日收盘跌幅（22.31%），报107.05挪威克朗。该公司在奥斯陆举办的一场“资本市场日”（CMD）表示，年收入增长目标将高于20%，计划未来五年内实现25%的EBITDA利润率。公司CEO称，新技术提高产量需要时间。]]></title>
+            <guid>3793549</guid>
+            <pubDate>Thu, 26 Sep 2024 18:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国原油期货收跌约3%，OPEC头号成员国沙特考虑保持市场份额和利比亚局势缓和都带来利空】 WTI 11月原油期货收跌2.02美元，跌幅将近2.90%，报67.67美元/桶，逼近9月10日收盘位65.14美元。布伦特11月原油期货收跌1.86美元，跌幅2.53%，报71.60美元/桶，也逼近9月10日收盘位69.19美元。NYMEX 10月天然气期货收跌1.97%，报2.5850美元/百万英热单位。NYMEX 10月汽油期货收报1.9613美元/加仑，NYMEX 10月取暖油期货收报2.1361美元/加仑。]]></title>
+            <guid>3793548</guid>
+            <pubDate>Thu, 26 Sep 2024 18:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一架以色列无人机在黎巴嫩南部提尔以东的Al-Hosh地区袭击了一辆汽车。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsq1947466.d.html</link>
+            <guid>3793547</guid>
+            <pubDate>Thu, 26 Sep 2024 18:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以色列军队在黎巴嫩东部发动袭击】以色列军队在黎巴嫩东部发动袭击，以色列军队对贝卡西部的萨赫马尔、亚赫马尔和拉巴亚城镇的郊区进行了空袭。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8279946.d.html</link>
+            <guid>3793545</guid>
+            <pubDate>Thu, 26 Sep 2024 18:28:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[罗尔斯-罗伊斯（RR/.LN）收跌0.94%，报526.80（便士），北京时间15:00欧股开盘时涨至535.00创盘中历史新高，但最终没能守住9月25日所创收盘历史最高位531.80。]]></title>
+            <guid>3793543</guid>
+            <pubDate>Thu, 26 Sep 2024 18:25:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：美国总统拜登正在会见乌克兰总统泽连斯基。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8278969.d.html</link>
+            <guid>3793541</guid>
+            <pubDate>Thu, 26 Sep 2024 18:23:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将在我的任期内通过加快拨款来加强乌克兰在未来谈判中的地位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsn5167110.d.html</link>
+            <guid>3793540</guid>
+            <pubDate>Thu, 26 Sep 2024 18:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国总统拜登：将处理乌克兰未来的防御需求。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsn5166578.d.html</link>
+            <guid>3793539</guid>
+            <pubDate>Thu, 26 Sep 2024 18:21:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：以色列国防军表示目前正在打击黎巴嫩南部的真主党恐怖目标。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8278145.d.html</link>
+            <guid>3793538</guid>
+            <pubDate>Thu, 26 Sep 2024 18:19:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法庭文件显示，纽约市长埃里克·亚当斯的律师亚历克斯·斯皮罗要求在星期五或星期一提审，检察官并未表示反对。]]></title>
+            <guid>3793537</guid>
+            <pubDate>Thu, 26 Sep 2024 18:19:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[私募Elliott在美国西南航空公司投资者日发布声明：我方仍然态度坚决地要求西南航空举办特别股东大会。]]></title>
+            <guid>3793536</guid>
+            <pubDate>Thu, 26 Sep 2024 18:17:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据Teslarati：特斯拉的Cybertruck据悉已前往韩国进行认证。这将是北美以外的第一个全电动皮卡获准销售和运营的市场。]]></title>
+            <guid>3793535</guid>
+            <pubDate>Thu, 26 Sep 2024 18:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【郭明錤：Meta的AR眼镜Orion实际量产时间应会更晚】分析师郭明錤指出，Meta Platforms(META.O)内部的产品路线显示，AR眼镜Orion最快在2027年量产。但因目前尚未决定EMS/NPI厂商，且考虑到诸多技术问题，故实际量产时间应会更晚。在Orion量产前，Meta可能会推出较低规格的版本 (如采用LCoS以取代Micro LED)。Meta的策略就是会不断测试与收集市场反应，以此快速改善产品，而不会等到产品完美后才发布。Orion的定位就是要取代手机跟平板，关键卖点为整合AI与空间运算。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsk8276951.d.html</link>
+            <guid>3793534</guid>
+            <pubDate>Thu, 26 Sep 2024 18:14:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【A股公司发起64单并购项目 产业整合有望加快】并购重组再次迎来多项重磅政策支持。9月26日召开的中共中央政治局会议提出，要支持上市公司并购重组。9月24日，证监会发布《关于深化上市公司并购重组市场改革的意见》。“鼓励上市公司加强产业整合”是“并购六条”的重要内容之一。证监会主席吴清9月24日在国新办新闻发布会上表示，在当前全球产业变革加快推进、我国经济结构转型升级也在加快推进的背景下，亟须发挥好企业并购重组的关键作用，助力产业整合和提质增效。值得注意的是，“并购六条”发布后，资本市场迅速响应，一系列并购重组项目紧锣密鼓地展开。数据显示，按首次公告日计，9月24日至9月26日期间，A股公司已发起64单并购项目，涉及汽车零部件、通用设备、专用设备、半导体等领域。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqpnsi1498931.d.html</link>
+            <guid>3793533</guid>
+            <pubDate>Thu, 26 Sep 2024 18:10:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[【年内47名信托公司从业人员收监管罚单】 近年来，随着信托监管力度的持续加强，信托公司在受到监管处罚的同时，相关责任人被追责的情况也越来越多，监管推动“双罚制”的力度越来越大。截至9月26日，年内先后已有昆仑信托、山西信托、英大信托、陆家嘴信托、国通信托、交银国际信托等多家信托公司及相关责任人收到监管罚单，被处罚款累计达到2875万元，年内被监管处罚的信托公司相关责任人达到47人。对此，用益信托研究员帅国让表示，“双罚制”反映了监管的精细化管理，凸显处罚的严格性及针对性，对金融机构及相关从业人员合法合规展业可能起到更好的约束作用。（证券日报）]]></title>
@@ -73,378 +370,6 @@
             <title><![CDATA[德国总理朔尔茨与以色列反对派政治家甘茨会谈后警告说，以色列和真主党的冲突可能会蔓延到中东地区。]]></title>
             <guid>3793514</guid>
             <pubDate>Thu, 26 Sep 2024 17:41:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【8月份150家期货公司实现净利5.17亿元】9月25日，中国期货业协会发布数据显示，全国150家期货公司8月份合计实现营业收入近29亿元、净利润为5.17亿元，相较去年同期的36.69亿元、9.67亿元有不同程度下降；与此同时，8月份全市场实现交易额为53.5万亿元，交易量为7.64亿手，相较去年同期的60.58万亿元、9.81亿手同样有所下滑。虽然年内期货公司整体经营情况不佳，但基于对四季度国内经济乐观预期，市场交投情绪将会有很大提升，届时期货公司经营情况也将明显改观。浙商期货相关负责人表示，中国经济长期向好趋势和信心不变，预计四季度或临近年末，期货市场成交活跃度将出现明显回暖态势，期货公司也会逐步恢复信心。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5281111.d.html</link>
-            <guid>3793513</guid>
-            <pubDate>Thu, 26 Sep 2024 17:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军：加沙边境附近的火箭警报是误报。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8398918.d.html</link>
-            <guid>3793512</guid>
-            <pubDate>Thu, 26 Sep 2024 17:38:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空首席执行官：预计波音今年将交付20架飞机。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5278413.d.html</link>
-            <guid>3793511</guid>
-            <pubDate>Thu, 26 Sep 2024 17:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【严厉打击网下投资者协商报价等违规行为，中证协拟加强报价行为监测力度】 据券商人士消息，为强化网下投资者自律管理，提高网下投资者报价行为的规范性，严厉打击网下投资者之间协商报价和故意压低、抬高或者未审慎报价等违规行为，9月26日，中国证券业协会起草形成《首次公开发行证券网下投资者分类评价和管理指引（修订草案征求意见稿）》、《自律规则适用意见第7号——关于〈首次公开发行证券网下投资者分类评价和管理指引〉有关规定的适用意见（征求意见稿）》，并于近日向各券商及网下投资者征求意见。（证券日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8397289.d.html</link>
-            <guid>3793510</guid>
-            <pubDate>Thu, 26 Sep 2024 17:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统痛斥美国偏袒以色列】当地时间9月26日上午，巴勒斯坦总统阿巴斯在第79届联合国大会一般性辩论中发言时指出，美国号称“世界上最大的民主国家”，却在安理会屡次三番地动用否决权阻止加沙停火，并且向以色列提供致命武器，纵容以色列持续侵略加沙，屠杀无辜平民。而且美国还用否决权阻止巴勒斯坦成为联合国正式会员国。阿巴斯说，“美国觉得巴勒斯坦不配成为联合国会员国——但我们有土地、有政府、有文化，还需要什么才能成为联合国第194个会员国？”#巴勒斯坦总统要求立即制裁以色列#此外，阿巴斯还要求立即对以色列实施制裁。他强调，“70多年来，以色列一直对巴勒斯坦人民实施的屠杀、罪行和种族灭绝，不能有罪不罚。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8397186.d.html</link>
-            <guid>3793509</guid>
-            <pubDate>Thu, 26 Sep 2024 17:31:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OpenAI：推出基于GPT-4o的新模型，该模型在检测有害文本和图像方面更加准确。新的内容审核模型通过审核API对所有开发者免费开放使用。]]></title>
-            <guid>3793508</guid>
-            <pubDate>Thu, 26 Sep 2024 17:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅出席“全球发展倡议支持全球南方－中国在行动”主题发布活动】当地时间9月25日，中共中央政治局委员、外交部长王毅在纽约联合国总部出席“全球发展倡议支持全球南方－中国在行动”主题发布活动。第79届联大主席菲勒蒙，联合国副秘书长李军华，老挝、柬埔寨、埃塞俄比亚、布隆迪、乌干达、布基纳法索、多米尼克、古巴等20多国部长级官员出席。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2053499.d.html</link>
-            <guid>3793507</guid>
-            <pubDate>Thu, 26 Sep 2024 17:28:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：关于巴以为期21天的停火协议的讨论仍在继续。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2052492.d.html</link>
-            <guid>3793505</guid>
-            <pubDate>Thu, 26 Sep 2024 17:26:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：英国和澳大利亚开始就核潜艇计划军事条约进行谈判。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2050231.d.html</link>
-            <guid>3793502</guid>
-            <pubDate>Thu, 26 Sep 2024 17:21:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国司法部：两名俄罗斯国籍人士因经营数十亿美元的洗钱服务而被控。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkm1616701.d.html</link>
-            <guid>3793500</guid>
-            <pubDate>Thu, 26 Sep 2024 17:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列空军司令：我们正在准备为以军部队对抗真主党的地面行动提供协助。]]></title>
-            <guid>3793499</guid>
-            <pubDate>Thu, 26 Sep 2024 17:18:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外交部副部长孙卫东出席马来西亚国庆招待会】2024年9月26日，外交部副部长孙卫东应邀出席马来西亚驻华使馆举办的马来西亚国庆招待会，并会见出席招待会的马来西亚通信部部长法米、马驻华大使诺曼。孙卫东祝贺马来西亚国庆67周年，表示今年是中马建交50周年暨“中马友好年”，马最高元首易卜拉欣上周成功对华进行国事访问，两国领导人为中马命运共同体建设进一步明确了方向。中方愿同马方以两国领导人重要共识为引领，加强各领域合作，推动中马关系不断迈上新台阶。中方将坚定支持马方明年担任东盟轮值主席国。马方感谢中方热情友好接待马最高元首，愿同中方落实好两国领导人共识，推动马中关系迈上新台阶，各领域合作取得更大成果。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkm1616142.d.html</link>
-            <guid>3793498</guid>
-            <pubDate>Thu, 26 Sep 2024 17:17:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列拒绝停火谈判 持续打击黎巴嫩真主党】以色列要求军方继续轰炸黎巴嫩真主党目标，并否认对停火感兴趣，这使美国和盟友试图缓和双方敌对行动的努力受挫。“不会有停火，”以色列外交部长Israel Katz周四表示。“我们将继续全力打击真主党恐怖组织，直到取得胜利并让北部居民重返家园。”以色列总理内塔尼亚胡正前往美国并定于周五在联合国年度峰会上讲话。内塔尼亚胡的办公室早些时候表示，以色列国防军已被告知要继续轰炸黎巴嫩。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2048070.d.html</link>
-            <guid>3793496</guid>
-            <pubDate>Thu, 26 Sep 2024 17:16:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国和以色列官员周四在纽约就黎巴嫩问题进行会谈。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2047779.d.html</link>
-            <guid>3793495</guid>
-            <pubDate>Thu, 26 Sep 2024 17:15:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【墨西哥军警与一武装团伙交火 造成11人死亡】据墨西哥北部新莱昂州政府当地时间25日晚发布的信息，当天墨西哥当地军警与一武装团伙之间发生交火。另据当地媒体报道，截至当地时间26日，此次交火已造成11名武装团伙成员死亡。目前，相关调查仍在进行当中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5269737.d.html</link>
-            <guid>3793493</guid>
-            <pubDate>Thu, 26 Sep 2024 17:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫谈及以色列时表示，不认为全面战争是解决之道。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8392469.d.html</link>
-            <guid>3793492</guid>
-            <pubDate>Thu, 26 Sep 2024 17:13:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国海军“和平方舟”号医院船时隔七年再访加蓬】当地时间9月26日，执行“和谐使命-2024”任务的中国海军“和平方舟”号医院船抵达加蓬利伯维尔，开始进行为期7天的友好访问，并提供医疗服务。这是“和平方舟”号医院船继2017年执行“和谐使命”任务到访后，时隔7年再次访问加蓬。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8392072.d.html</link>
-            <guid>3793490</guid>
-            <pubDate>Thu, 26 Sep 2024 17:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列空军司令巴尔表示，防止任何武器从伊朗转移到真主党手中是目前的首要任务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8392008.d.html</link>
-            <guid>3793489</guid>
-            <pubDate>Thu, 26 Sep 2024 17:11:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[关于纽约市长亚当斯被起诉一事，美国白宫表示，美国司法部是独立的，正在独立处理此案。]]></title>
-            <guid>3793488</guid>
-            <pubDate>Thu, 26 Sep 2024 17:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩真主党：用50枚火箭弹轰炸了以色列的Kiryat Ata地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkm1614536.d.html</link>
-            <guid>3793487</guid>
-            <pubDate>Thu, 26 Sep 2024 17:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国制裁一俄罗斯虚拟货币交易所及个人】当地时间9月26日，美国财政部外国资产控制办公室（OFAC）发表声明称，美国财政部认定一家与俄罗斯公民谢尔盖·谢尔盖耶维奇·伊万诺夫有关的俄罗斯虚拟货币交易所“PM2BTC”与“非法金融”有关。此外，美国财政部当日还对伊万诺夫和一家在俄罗斯运营的虚拟货币交易所“Cryptex”实施了制裁。]]></title>
-            <guid>3793486</guid>
-            <pubDate>Thu, 26 Sep 2024 17:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据知情人士透露，网红券商Robinhood和Revolut探索分别发行自家的稳定币。Robinhood称“眼下”还没有发行计划。Revolut表示，计划“进一步扩充”加密数字货币产品套件。]]></title>
-            <guid>3793485</guid>
-            <pubDate>Thu, 26 Sep 2024 17:05:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国七年期国债收益率在拍卖后略微下跌，目前为3.674%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5265620.d.html</link>
-            <guid>3793484</guid>
-            <pubDate>Thu, 26 Sep 2024 17:04:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：金砖国家和东盟集团为土耳其提供了改善经济合作的机会。参与这些组织并不意味着放弃北约，它们并不是彼此的替代品。]]></title>
-            <guid>3793483</guid>
-            <pubDate>Thu, 26 Sep 2024 17:02:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[土耳其总统埃尔多安：我们将在11月选举后重新评估与美国的双边关系，并据此采取行动。]]></title>
-            <guid>3793482</guid>
-            <pubDate>Thu, 26 Sep 2024 17:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美联储：美国9月25日当周经季节性调整的商业票据余额增加413亿美元，未经季节性调整的商业票据余额增加392亿美元，非季节性调整的外币金融商业票据在9月25日当周增加336亿美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5264493.d.html</link>
-            <guid>3793479</guid>
-            <pubDate>Thu, 26 Sep 2024 17:01:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【土耳其总统埃尔多安：联合国无法防止战争 已失去有效性】土耳其总统埃尔多安表示，只要世界和西方保持沉默，以色列对黎巴嫩的攻击就将持续。联合国无法防止战争，也无法追究以色列对其工作人员杀害的责任，已失去有效性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2041512.d.html</link>
-            <guid>3793478</guid>
-            <pubDate>Thu, 26 Sep 2024 17:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新华社发布文章《坚定信心 努力完成全年经济社会发展目标任务——学习贯彻中央政治局会议精神扎实做好下一步经济工作》。清华大学中国发展规划研究院常务副院长董煜指认为，会议作出的部署是一套宏观经济政策组合拳，方向明晰、举措有力、意义重大，释放了持续改善发展环境、坚定不移推动高质量发展的鲜明信号。中国社科院金融研究所资本市场研究室主任张跃文表示，近期关于并购重组、市值管理等改革举措陆续出台，这有利于进一步稳定市场投资者信心，加速市场回暖。]]></title>
-            <guid>3793477</guid>
-            <pubDate>Thu, 26 Sep 2024 17:00:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【黎巴嫩称26日遭上百次袭击 造成60人死亡】当地时间9月26日，黎巴嫩看守政府环境部长兼政府紧急事务委员会主席纳赛尔·雅辛表示，当天黎巴嫩遭115次袭击，造成60人死亡、81人受伤。据悉，黎巴嫩政府已设立565个公共避难所，安置了7.7万名流离失所者。]]></title>
-            <guid>3793476</guid>
-            <pubDate>Thu, 26 Sep 2024 16:59:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列称已从美国获得87亿美元军事援助计划】当地时间9月26日，以色列国防部在一份声明中宣布，以色列已从美国获得87亿美元的援助计划，“以支持其正在进行的军事行动，并保持其在该地区的军事优势”。据悉，该项计划包括35亿美元用于基本战时采购，以及52亿美元用于防空系统，包括“铁穹”防空系统、“大卫投石器”防空系统以及先进激光系统。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5263237.d.html</link>
-            <guid>3793475</guid>
-            <pubDate>Thu, 26 Sep 2024 16:58:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列国防军表示，不久前从黎巴嫩从下加利利发射了约25枚火箭，在几个城镇引发了警报。]]></title>
-            <guid>3793474</guid>
-            <pubDate>Thu, 26 Sep 2024 16:54:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国联邦紧急事务管理局局长：将于周五前往评估飓风“海伦妮”在本地区的影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkm1609872.d.html</link>
-            <guid>3793470</guid>
-            <pubDate>Thu, 26 Sep 2024 16:48:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[挡风玻璃维修公司Belron（成立于1897年）寻求通过发行新的债券和出售贷款融资81亿英镑，从而向包括Clayton 、Dubilier & Rice、Hellman & Friedman、贝莱德集团、GIC在内的一个投资者团体兑付44亿英镑股息。]]></title>
-            <guid>3793467</guid>
-            <pubDate>Thu, 26 Sep 2024 16:42:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩卫生部紧急行动中心：以色列26日袭击黎巴嫩造成死亡人数增至60人。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8385449.d.html</link>
-            <guid>3793466</guid>
-            <pubDate>Thu, 26 Sep 2024 16:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[非洲能源商会执行主席阿尤克：南非政府正在与俄罗斯国家原子能集团公司讨论在本国修建大型核电站的问题。]]></title>
-            <guid>3793465</guid>
-            <pubDate>Thu, 26 Sep 2024 16:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【罗马尼亚已有9人因感染西尼罗病毒死亡】罗马尼亚国家公共卫生研究所26日通报说，自今年6月开展对西尼罗病毒感染监测以来，该国已报告确诊病例65例，疑似病例8例，死亡病例9例。]]></title>
-            <guid>3793464</guid>
-            <pubDate>Thu, 26 Sep 2024 16:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统阿巴斯要求以色列结束对巴领土的非法占领】9月27日讯，当地时间9月26日，巴勒斯坦总统阿巴斯在纽约联合国大会上发表讲话。在讲话中，阿巴斯呼吁全面执行联合国大会此前通过国际法院法律咨询意见的决议，即要求以色列在决议通过后12个月内结束其在巴勒斯坦被占领土的非法存在。阿巴斯还提出了12点建议，包括以色列立即从加沙地带全面撤军、向加沙居民提供损失赔偿和重建资金、联合国向加沙派遣维和部队等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2032415.d.html</link>
-            <guid>3793463</guid>
-            <pubDate>Thu, 26 Sep 2024 16:35:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国思爱普本土员工中的不满情绪日益膨胀】一项内部年度调查发现，德国思爱普（Sap SE）本土员工中的不满情绪日益膨胀，对公司“完全信任”的德国员工占比降至38%，至少创三年来新低。据悉，该公司正在推进CEO Christian Klein于1月份宣布的充足计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5252662.d.html</link>
-            <guid>3793461</guid>
-            <pubDate>Thu, 26 Sep 2024 16:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅会见爱沙尼亚外长查赫克纳】当地时间2024年9月26日，中共中央政治局委员、外交部长王毅在纽约联大期间会见爱沙尼亚外长查赫克纳。王毅表示，作为欧盟重要成员，希望爱沙尼亚推动欧盟机构坚持自由贸易，坚持通过对话协商妥处分歧，推动中欧关系健康稳定发展。（外交部网站）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8382020.d.html</link>
-            <guid>3793460</guid>
-            <pubDate>Thu, 26 Sep 2024 16:29:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【有银行已启动股票回购增持专项贷款营销 优先介入“沪深300、中证500、中证1000等指数”成分股】多位银行人士证实，9月24日央行明确表示创设股票回购、增持专项再贷款后，有全国性银行已第一时间启动相应的营销蓄客。财联社记者获得的一份银行内部文件显示，该银行已经要求下属分行预备启动营销推动工作。相关业务分为“股票回购专项贷款”和“股票增持专项贷款”两类，融资主体分别针对上市公司、5%以上大股东（包括但不限于公司控股股东、实控人及一致行动人）及公司董监高。贷款期限均原则上不超过3年。文件强调“目标客户应符合国家产业战略导向、本行行业授信政策要求，原则上不得介入暂停上市或终止上市的股票、被列为风险警示股票或退市整理的股票；上市公司或其股东近半年被证监会调查，或者面临行政、刑事处罚等可能对其经营产生重大负面影响的股票”。文件显示，对于股票增持贷款业务，该行将优先介入市值稳定，股票二级市场交易活跃、流动性较好，纳入沪深300、中证500、中证1000等指数的股票；审慎介入上市公司及其股东股份对外质押比例过高，受减持新规影响减持受限的股票。该银行预测融资主体可能存在“排他性”，要求下属分行尽快抢占业务先机。（财联社）]]></title>
-            <guid>3793459</guid>
-            <pubDate>Thu, 26 Sep 2024 16:28:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【委内瑞拉一艘油驳船沉没 造成4人死亡】当地时间9月26日，一艘油驳船在委内瑞拉苏利亚州马拉开波湖沉没，至少4人死亡，另有19人获救。据悉，该船是由委内瑞拉国有石油公司承包的船只。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5251721.d.html</link>
-            <guid>3793458</guid>
-            <pubDate>Thu, 26 Sep 2024 16:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【阿巴斯呼吁联合国决议迫使以色列允许他访问加沙】巴勒斯坦总统阿巴斯呼吁联合国通过决议，迫使以色列允许他访问加沙。阿巴斯上个月在土耳其议会发表讲话时宣布，他打算访问饱受战争蹂躏的加沙地带。此后，他声称以色列当局禁止他进入这片沿海飞地。阿巴斯表示他欢迎世界各国领导人加入他的访问，“这样我们都能看到正在发生的悲剧。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2028307.d.html</link>
-            <guid>3793457</guid>
-            <pubDate>Thu, 26 Sep 2024 16:26:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【盟友希望哈里斯改变拜登的做法，上任后能着眼强化商界关系】若哈里斯赢得11月的美国大选，她可能会组建一个经济团队，寻求增强与商界的关系，重要的政策之争包括税收、债务上限和联邦政府融资等。根据知情人士透露，与哈里斯关系密切的一个高管圈子正在鼓励她的竞选团队纠正这一问题，其中包括知名投资银行家Ray McGuire、Blair Effron和Peter Orszag，前美国运通董事长Ken Chenault，和她的妹夫、Uber Technologies Inc.的高管Tony West。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8380758.d.html</link>
-            <guid>3793456</guid>
-            <pubDate>Thu, 26 Sep 2024 16:24:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：靠近黎巴嫩边界的以色列北部社区再次响起警报声，警告即将到来的火箭弹袭击。真主党一整天向以色列发射了大约150枚火箭弹。]]></title>
-            <guid>3793455</guid>
-            <pubDate>Thu, 26 Sep 2024 16:24:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【英国多个火车站遭网络攻击】英国铁路网公司26日表示，英国多个火车站的公共无线网络25日晚遭到网络攻击，相关网络服务已暂停。遭受网络攻击的火车站包括伦敦尤斯顿站、曼彻斯特皮卡迪利站、伯明翰新街站、爱丁堡韦弗利站、格拉斯哥中央车站等，乘客在使用车站公共无线网络时，会打开显示“我们爱你，欧洲”的界面，其中包含宣扬宗教仇恨的信息，列举了发生在欧洲多地的恐怖袭击事件。英国铁路警察局已对事件展开调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8379601.d.html</link>
-            <guid>3793454</guid>
-            <pubDate>Thu, 26 Sep 2024 16:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【印度食品配送平台Swiggy Ltd.申请IPO】印度食品配送平台Swiggy Ltd.申请IPO。这家由日本软银集团投资的公司计划出售375亿卢比（折合4.48亿美元）新股。该公司的股东Accel、Apoletto Asia、Alpha Wave Ventures、Norwest Venture Partners、腾讯云寻求出售多达1.8528亿股股票。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkm1602375.d.html</link>
-            <guid>3793453</guid>
-            <pubDate>Thu, 26 Sep 2024 16:20:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[联合包裹(UPS.N)：美国南部，特别是佛罗里达州的服务可能会受到飓风“海伦妮”的影响。]]></title>
-            <guid>3793452</guid>
-            <pubDate>Thu, 26 Sep 2024 16:17:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴勒斯坦总统连说三遍我们不会离开】当地时间9月26日上午，巴勒斯坦总统阿巴斯在第79届联合国大会一般性辩论中发言时，连说三遍“我们不会离开”。阿巴斯说，“如果有人应该离开，那也是鸠占鹊巢的占领者。” 阿巴斯表示，以色列已经几乎完全摧毁了加沙地带，当地已经不适合生存。他说，巴解组织准备组团前往加沙地带，希望国际社会加入访团，一起到加沙目睹当地的惨况。 阿巴斯还提出了12点建议，包括以色列立即从加沙地带全面撤军、向加沙居民提供损失赔偿和重建资金，以及联合国向加沙地带派遣维和部队等。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8378392.d.html</link>
-            <guid>3793451</guid>
-            <pubDate>Thu, 26 Sep 2024 16:15:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：特朗普的律师要求纽约法院驳回近5亿美元的民事欺诈判决。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8378336.d.html</link>
-            <guid>3793450</guid>
-            <pubDate>Thu, 26 Sep 2024 16:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【一架直升机在俄罗斯阿尔汉格尔斯克州失联】当地时间9月26日，一架私人直升机在行至俄罗斯阿尔汉格尔斯克州时，自雷达屏幕上消失，机上载有两人。地面搜救队正在进行搜救工作。初步信息表明，上述飞机未向交管中心提供飞行计划。俄相关部门正在对事件进行调查。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8377953.d.html</link>
-            <guid>3793448</guid>
-            <pubDate>Thu, 26 Sep 2024 16:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[委内瑞拉国家石油公司报告称，委内瑞拉马拉开波湖承包商操作的石油驳船沉没，造成至少4人死亡。另有19人在事故现场获救。]]></title>
-            <guid>3793447</guid>
-            <pubDate>Thu, 26 Sep 2024 16:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【苏丹中部城市遭炮击 已致38名平民伤亡】当地时间9月26日，苏丹中部喀土穆州卫生部发言人穆罕默德·易卜拉欣表示，该州城市恩图曼当天遭遇炮击，平民伤亡人数升至38人，其中6人死亡、32人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2022517.d.html</link>
-            <guid>3793446</guid>
-            <pubDate>Thu, 26 Sep 2024 16:11:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[今日重点关注的财经数据与事件：2024年09月27日 周五
-① 待定 日本执政党自民党举行党首选举
-② 01:00 美联储卡什卡利与巴尔进行谈话
-③ 06:00 美联储理事丽莎·库克发表讲话
-④ 14:45 法国9月CPI月率
-⑤ 15:55 德国9月季调后失业人数
-⑥ 15:55 德国9月季调后失业率
-⑦ 16:00 国新办举行国务院政策例行吹风会
-⑧ 17:00 欧元区9月工业景气指数
-⑨ 17:00 欧元区9月消费者信心指数终值
-⑩ 17:00 欧元区9月经济景气指数
-⑪ 18:00 英国9月CBI零售销售差值
-⑫ 20:30 加拿大7月GDP月率
-⑬ 20:30 美国8月核心PCE物价指数年率
-⑭ 20:30 美国8月个人支出月率
-⑮ 20:30 美国8月核心PCE物价指数月率
-⑯ 21:30 美联储柯林斯和库格勒发表讲话
-⑰ 22:00 美国9月密歇根大学消费者信心指数终值
-⑱ 22:00 美国9月一年期通胀率预期终值
-⑲ 次日01:00 美国至9月27日当周石油钻井总数
-⑳ 次日01:15 美联储理事鲍曼参加会议讨论]]></title>
-            <guid>3793444</guid>
-            <pubDate>Thu, 26 Sep 2024 16:10:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空首席执行官：众所周知，波音公司的交货延迟给我们带来了重大问题。波音交付的Max飞机很少。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8376985.d.html</link>
-            <guid>3793443</guid>
-            <pubDate>Thu, 26 Sep 2024 16:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔称已帮助因俄乌冲突离散的48名儿童与家人团聚】当地时间9月26日，卡塔尔外交部发言人马吉德·安萨里表示，在卡塔尔调停下，因俄乌冲突而离散的10名乌克兰儿童当天返回乌克兰与家人团聚，同时有4名俄罗斯儿童返回俄罗斯。安萨里说，卡塔尔调停俄罗斯、乌克兰交换离散儿童已经持续数月，截至目前已经使48名儿童与其家人团聚，其中包括43名乌克兰儿童和5名俄罗斯儿童。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkq5243666.d.html</link>
-            <guid>3793442</guid>
-            <pubDate>Thu, 26 Sep 2024 16:07:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国财长耶伦预计住房成本将下降 推动实现2%的通胀目标】美国财政部长耶伦表示通胀正朝着美联储2%的目标前进，她希望随着政策制定者降低利率，就业市场将企稳。周四当被问及她是否认为美国通胀得到充分控制时，耶伦说“是的”。耶伦表示，她预计住房成本将会下降，推动通胀率达到2%。耶伦还表示，美国就业市场现在“闲置略有增加”。她说，随着美联储在货币政策方面采取行动，就业形势有望企稳。耶伦拒绝就降息前景发表评论，同时指出美联储官员在上周降息50个基点后预计将进一步降息。她说，这要由美联储来决定。当被问及她是否监控美元汇率时，这位财长表示，“我当然关注美元的价值。”]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8376248.d.html</link>
-            <guid>3793441</guid>
-            <pubDate>Thu, 26 Sep 2024 16:07:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王毅出席“人工智能能力建设国际合作高级别会议”】当地时间9月25日，中共中央政治局委员、外交部长王毅在纽约联合国总部出席“人工智能能力建设国际合作高级别会议”。王毅宣布中国《人工智能能力建设普惠计划》，围绕全球南方普遍期待提出“五大愿景”，开展“十项行动”。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphkn8375935.d.html</link>
-            <guid>3793439</guid>
-            <pubDate>Thu, 26 Sep 2024 16:06:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国纽约市长亚当斯受到五项联邦指控】在当地时间9月26日公布的联邦起诉书中，纽约市长埃里克·亚当斯共受到五项联邦指控，包括电信欺诈、行贿和向外国公民索取竞选捐款等。此前，埃里克·亚当斯在接受联邦腐败调查后被起诉，成为纽约第一位在任期间受到刑事指控的市长。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-27/detail-incqphks2018036.d.html</link>
-            <guid>3793437</guid>
-            <pubDate>Thu, 26 Sep 2024 16:01:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场资讯：美国司法部发现，密西西比州列克星敦警察局常规性地对黑人进行歧视，并逮捕无法支付交通罚款的人员。]]></title>
-            <guid>3793436</guid>
-            <pubDate>Thu, 26 Sep 2024 16:01:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[国际货币基金组织（IMF）：已与斯里兰卡的新经济团队开始沟通，并正在“讨论下一步的合作措施”。]]></title>
-            <guid>3793431</guid>
-            <pubDate>Thu, 26 Sep 2024 15:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[消息人士：马斯克旗下X平台请求巴西最高法院允许其在该国恢复服务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-26/detail-incqphkm1595436.d.html</link>
-            <guid>3793430</guid>
-            <pubDate>Thu, 26 Sep 2024 15:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西南航空(LUV.N)：2027年员工人数将与2024年持平或有所减少。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-09-26/detail-incqphks2014704.d.html</link>
-            <guid>3793429</guid>
-            <pubDate>Thu, 26 Sep 2024 15:51:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
