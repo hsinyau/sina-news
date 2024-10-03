@@ -4,391 +4,292 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 03 Oct 2024 12:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 15:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[黎巴嫩军方表示，一名士兵在以色列对黎巴嫩南部军事哨所的袭击中遇难。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrs7692107.d.html</link>
-            <guid>3802004</guid>
-            <pubDate>Thu, 03 Oct 2024 12:14:39 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：美联储应继续采取以数据为依赖以及逐次会议的方式来实施货币政策宽松。]]></title>
+            <guid>3802163</guid>
+            <pubDate>Thu, 03 Oct 2024 15:06:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：美国共和党参议员调查纽约联储。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8884838.d.html</link>
-            <guid>3802001</guid>
-            <pubDate>Thu, 03 Oct 2024 12:13:21 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：预计在“严峻”形势下，加沙地区2024年上半年GDP较去年同期下降了86%；预计2024年上半年约旦河西岸地区的GDP下降了25%，黎巴嫩的GDP在上半年下降了20%，这一情况发生在近期局势升级之前；冲突进一步升级将加大风险和不确定性，可能对该地区及其他地区产生重大经济影响。]]></title>
+            <guid>3802162</guid>
+            <pubDate>Thu, 03 Oct 2024 15:04:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黎称以色列对黎巴嫩的袭击已致超2000人死亡】阿盟当地时间10月3日在其总部开罗召开常驻代表级别紧急会议，讨论黎巴嫩局势问题。黎巴嫩驻阿盟代表哈拉比在会议上表示，以色列对黎巴嫩的袭击已造成2000多人死亡，超过1万人受伤。其发言中未明确提及具体统计时间。以色列方面对此暂无回应。 (央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8884756.d.html</link>
-            <guid>3802000</guid>
-            <pubDate>Thu, 03 Oct 2024 12:13:00 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩称向以色列一军事工业基地发射火箭弹】黎巴嫩真主党称向以色列位于海法湾的“萨赫宁（Sakhnin）军事工业基地”发射了大量火箭弹。目前以色列方面暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4406624.d.html</link>
+            <guid>3802161</guid>
+            <pubDate>Thu, 03 Oct 2024 15:04:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯的里亚布科夫：在当前形势下，我们的对手犯错误的代价将是灾难。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8884244.d.html</link>
-            <guid>3801999</guid>
-            <pubDate>Thu, 03 Oct 2024 12:10:21 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织：基金会对中东冲突升级的情况保持密切关注，深感忧虑。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8787930.d.html</link>
+            <guid>3802160</guid>
+            <pubDate>Thu, 03 Oct 2024 15:04:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[黎巴嫩卫生部长表示：在以色列对黎巴嫩的袭击中，共有1974人死亡，其中包括127名儿童。]]></title>
-            <guid>3801998</guid>
-            <pubDate>Thu, 03 Oct 2024 12:09:48 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织（IMF）发言人表示，预估在加沙冲突爆发后，以色列2023年第四季度的国内生产总值（GDP）缩减了约20%，而在2024年上半年，以色列仅实现了部分经济复苏。]]></title>
+            <guid>3802159</guid>
+            <pubDate>Thu, 03 Oct 2024 15:03:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯的里亚布科夫：我们正在穿越未经探索的军事和政治领土。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrs7690004.d.html</link>
-            <guid>3801997</guid>
-            <pubDate>Thu, 03 Oct 2024 12:09:31 GMT</pubDate>
+            <title><![CDATA[国际货币基金组织（IMF）：日本处于实现2%中期性通胀目标的正轨之上；日本央行已采取重要措施实现货币政策正常化，这将有助于将通胀和其预期稳定在2%的目标；日本央行应继续以数据为驱动，在其政策范围内根据通胀预测逐步加息；日本的财政政策应侧重于“有利于增长”的财政整顿，以帮助重建财政缓冲并确保债务的可持续性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8787481.d.html</link>
+            <guid>3802158</guid>
+            <pubDate>Thu, 03 Oct 2024 15:01:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【青岛啤酒：获摩根大通增持约2.42亿港元】根据香港联交所最新权益披露资料显示，青岛啤酒股份(00168.HK)获摩根大通于9月27日以每股均价55.4166港元增持约437.5万股H股，涉资约2.42亿港元。增持后，摩根大通最新持仓比例由7.60%上升至8.27%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8883373.d.html</link>
-            <guid>3801995</guid>
-            <pubDate>Thu, 03 Oct 2024 12:06:08 GMT</pubDate>
+            <title><![CDATA[【黄金周新人扎堆办婚礼 国庆婚庆市场爆了】 “金九银十”是结婚旺季，国庆期间，不少新人扎堆举办婚礼，婚庆市场也迎来了一轮消费热潮。一家婚礼策划公司的负责人告诉记者，九、十月份作为婚礼的黄金档期，最忙的时候工作室的六名策划师一天要接六场婚礼；一家婚纱租赁机构仅国庆期间，租借的婚纱礼服就有上百套。数据显示，9月以来，“新中式婚礼”“多巴胺婚礼”等创新风格婚礼搜索热度不断升温，9月搜索量环比8月分别增长88%和127%，“新中式婚纱照”9月搜索量环比8月增长50%，其中大连、大理、三亚等城市婚纱旅拍热度最高。（央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2009340.d.html</link>
+            <guid>3802155</guid>
+            <pubDate>Thu, 03 Oct 2024 14:56:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[利比亚国家石油公司宣布，自10月3日（星期四）起，解除对所有利比亚油田和油气终端的不可抗力声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4465895.d.html</link>
-            <guid>3801994</guid>
-            <pubDate>Thu, 03 Oct 2024 12:05:46 GMT</pubDate>
+            <title><![CDATA[【楼市新政发布后 深圳二手房挂牌量、交易量齐升】深圳在国庆节前提出放宽限购、优化个人住房贷款等一系列楼市利好政策。国庆假期期间，记者走访发现政策的变化吸引了不少购房者关注，当地的二手房挂牌量、交易量齐升。在深圳罗湖区的一家二手房签约中心，十几间签约室都已经排满，没有空余位置。工作人员表示，深圳楼市新政在9月29日出台当晚，就已经有很多客户预约签约。业内人士认为，深圳这次将个人住房转让增值税征免年限由5年调整到2年，能够有效降低二手房交易税费，节省购房成本，也有利于促进部分业主进行房产置换，提升二手房市场活跃度。据工作人员测算，以过户价500万元的房子举例，增值税调整后，可以节省近25万元的税费。 (央视财经)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2008883.d.html</link>
+            <guid>3802154</guid>
+            <pubDate>Thu, 03 Oct 2024 14:53:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯副外长明确拒绝在没有前提条件的情况下与美国就战略稳定进行对话，并表示与美国的战略对话无法与当前的军事政治形势分开。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2105820.d.html</link>
-            <guid>3801992</guid>
-            <pubDate>Thu, 03 Oct 2024 12:04:23 GMT</pubDate>
+            <title><![CDATA[印度信息部长：印度已决定加入国际能源署的能效中心。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2008775.d.html</link>
+            <guid>3802153</guid>
+            <pubDate>Thu, 03 Oct 2024 14:53:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[壳牌表示罗马管道预计将于2028年开始运营。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2105452.d.html</link>
-            <guid>3801991</guid>
-            <pubDate>Thu, 03 Oct 2024 12:03:02 GMT</pubDate>
+            <title><![CDATA[【国际原子能机构驻扎波罗热核电站观察员完成例行人员轮换】俄罗斯国防部当地时间10月3日发表声明称，国际原子能机构驻扎波罗热核电站观察员当天完成了第23次轮换，俄联邦武装力量提供了安全保障。国际原子能机构4名专家作为观察员抵达扎波罗热核电站，其任务是监督和评估扎波罗热核电站的安全状况。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7623154.d.html</link>
+            <guid>3802152</guid>
+            <pubDate>Thu, 03 Oct 2024 14:48:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Spotify：本周将在全球范围内为高级用户推出安卓和iOS平台的离线备份功能。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4464625.d.html</link>
-            <guid>3801990</guid>
-            <pubDate>Thu, 03 Oct 2024 12:02:49 GMT</pubDate>
+            <title><![CDATA[【美国上月服务业活动超预期增长】周四公布的一项调查显示，美国服务业活动上月增速高于预期，表明该行业需求增加。美国9月ISM非制造业PMI录得54.9，远高于市场预期，同时这也标志着该指数连续第三个月突破50这一分水岭。新订单指数跃升超过6个点，这是服务业需求健康的一个信号。相比之下，就业指数小幅下降，表明该行业就业市场存在一些疲软。ISM服务业调查委员会主席Steve Miller表示："供应定价仍是一个问题，因供应链持续企稳。"Miller表示，美联储9月降息受到服务业欢迎，但劳动力成本和可用性仍是一个问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7623107.d.html</link>
+            <guid>3802151</guid>
+            <pubDate>Thu, 03 Oct 2024 14:47:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：壳牌准备增加墨西哥湾管道的产能。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4464307.d.html</link>
-            <guid>3801988</guid>
-            <pubDate>Thu, 03 Oct 2024 12:02:00 GMT</pubDate>
+            <title><![CDATA[美国国会参议员沃伦：美国钢铁公司没必要卖给外资实体。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4398266.d.html</link>
+            <guid>3802150</guid>
+            <pubDate>Thu, 03 Oct 2024 14:42:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其央行行长：在确保价格稳定之前，将保持紧缩的政策立场。我们将采取一切必要措施，以使通胀率符合目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8882329.d.html</link>
-            <guid>3801987</guid>
-            <pubDate>Thu, 03 Oct 2024 12:01:32 GMT</pubDate>
+            <title><![CDATA[微软旗下的Edge浏览器被竞争对手指责处于不公平竞争，其竞争对手称，欧盟反垄断监管机构应该对Edge实施严格的规定。]]></title>
+            <guid>3802148</guid>
+            <pubDate>Thu, 03 Oct 2024 14:40:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【复星国际：10月3日斥资34.2万港元回购6.8万股】复星国际(00656)发布公告，于2024年10月3日斥资34.2万港元回购6.8万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4463787.d.html</link>
-            <guid>3801986</guid>
-            <pubDate>Thu, 03 Oct 2024 12:00:19 GMT</pubDate>
+            <title><![CDATA[【刚果（金）发生沉船事故至少50人死亡】据当地媒体3日报道，一艘轮船当天在刚果（金）东部基伍湖上倾覆，造成至少50人死亡。目击者告诉记者，出事轮船从东部南基伍省出发前往北基伍省首府戈马市，在距目的地港口约200米处倾覆。事发时湖面出现大风。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7616773.d.html</link>
+            <guid>3802145</guid>
+            <pubDate>Thu, 03 Oct 2024 14:32:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄法院冻结美金融机构约3.72亿美元资产】根据俄罗斯联邦总检察院的要求，莫斯科州仲裁法院当地时间10月2日公布的裁决书显示，该法院冻结了美国纽约梅隆银行和摩根大通总计约3.72亿美元的资产。俄罗斯媒体报道称，这两家银行被冻结的相关资产归属于俄罗斯一家主要银行的分行。受美国限制措施以及乌克兰政府试图对这家分行进行清算等因素影响，这家分行的总行及其主要股东、也就是俄罗斯政府，无法获取相关资产。报道称，法院冻结相关资产的决定，是为了维护俄罗斯联邦的自身利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrs7685099.d.html</link>
-            <guid>3801980</guid>
-            <pubDate>Thu, 03 Oct 2024 11:55:33 GMT</pubDate>
+            <title><![CDATA[EIA天然气报告：截至9月27日当周，美国天然气库存总量为35470亿立方英尺，较此前一周增加550亿立方英尺，较去年同期增加1270亿立方英尺，同比增幅3.7%，同时较5年均值高1900亿立方英尺，增幅5.7%。]]></title>
+            <guid>3802143</guid>
+            <pubDate>Thu, 03 Oct 2024 14:31:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新华保险：被股东郭广昌减持约1.13亿港元H股】根据香港联交所最新权益披露资料显示，新华保险(601336.SH；01336.HK)被股东郭广昌于9月27日减持约534万股H股，每股平均21.0976港元，涉资约1.13亿港元，持H股比例由6.23%降至5.71%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8880765.d.html</link>
-            <guid>3801978</guid>
-            <pubDate>Thu, 03 Oct 2024 11:51:22 GMT</pubDate>
+            <title><![CDATA[【南海西部最大导管架完成海上安装】 10月3日，随着最后一根钢桩到达设计入泥深度，文昌9-7平台导管架在文昌海域全部完成海上安装，标志着我国深水大型导管架海上施工能力取得新突破，对推动海上油气增储上产，保障国家能源安全具有重要意义。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8781933.d.html</link>
+            <guid>3802142</guid>
+            <pubDate>Thu, 03 Oct 2024 14:30:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：伊朗外交部召见德国和奥地利驻德黑兰大使。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2103603.d.html</link>
-            <guid>3801977</guid>
-            <pubDate>Thu, 03 Oct 2024 11:51:18 GMT</pubDate>
+            <title><![CDATA[市场消息：汇丰取消一些内部活动限制旅行以削减成本。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7616074.d.html</link>
+            <guid>3802141</guid>
+            <pubDate>Thu, 03 Oct 2024 14:30:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行跌15%，有望创下2020年3月以来最大单日跌幅。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrs7683037.d.html</link>
-            <guid>3801975</guid>
-            <pubDate>Thu, 03 Oct 2024 11:49:27 GMT</pubDate>
+            <title><![CDATA[【以军称黎真主党3日发射上百枚炮弹和数枚火箭弹】以色列国防军当地时间10月3日下午发布消息称，截至当天16时，黎巴嫩真主党当天共向以色列发射超过120枚炮弹。以军表示，将继续打击黎真主党。此外，以军还称，当天有至少10枚火箭弹从黎巴嫩向以色列北部下加利利地区发射。其中一些火箭弹被拦截，另一些击中了空旷地区。目前尚无人员伤亡或重大损失的报告。黎巴嫩方面对上述袭击暂无回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7615854.d.html</link>
+            <guid>3802137</guid>
+            <pubDate>Thu, 03 Oct 2024 14:29:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国台办对台湾屏东东港安泰医院火灾事故表达慰问】10月3日，台湾屏东东港安泰医院发生火灾，造成9人罹难，多人受伤。国务院台办发言人朱凤莲表示，我们对发生这样的事故感到痛心，对不幸遇难的台湾同胞表示哀悼，向遇难者家属及受伤人员表达诚挚慰问。（日月谭天）]]></title>
-            <guid>3801974</guid>
-            <pubDate>Thu, 03 Oct 2024 11:48:01 GMT</pubDate>
+            <title><![CDATA[市场消息： 特斯拉召回27000多辆Cybertrucks以解决摄像头问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8781315.d.html</link>
+            <guid>3802136</guid>
+            <pubDate>Thu, 03 Oct 2024 14:27:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军对黎巴嫩贝鲁特南郊发动3次袭击 总台记者听到爆炸声】当地时间10月3日，以色列战机对黎巴嫩首都贝鲁特南郊发动了3次袭击。当地时间14时30分，总台记者在贝鲁特听到爆炸声。当天早些时候，以色列国防军阿拉伯语发言人阿维查伊·阿德雷发表声明，呼吁黎巴嫩南部25个地区的居民立即撤离，并向北迁移。撤离名单中包括黎南部最大的城市之一纳巴提耶。当地时间10月2日晚至3日凌晨，以色列对黎巴嫩贝鲁特南郊发动约15次猛烈袭击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2102404.d.html</link>
-            <guid>3801971</guid>
-            <pubDate>Thu, 03 Oct 2024 11:45:00 GMT</pubDate>
+            <title><![CDATA[【新秀丽：10月3日耗资约2571.58万港元回购128.82万股】新秀丽(01910)公布，2024年10月3日耗资约2571.58万港元回购128.82万股股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7612686.d.html</link>
+            <guid>3802130</guid>
+            <pubDate>Thu, 03 Oct 2024 14:22:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据相关声明，黎巴嫩真主党表示，他们引爆炸弹是为了对付渗入南部村庄的以色列军队。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8878846.d.html</link>
-            <guid>3801968</guid>
-            <pubDate>Thu, 03 Oct 2024 11:41:31 GMT</pubDate>
+            <title><![CDATA[消息人士称，埃及政府还考虑使用更便宜的高粱作为面包制作中20%的面粉。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2002836.d.html</link>
+            <guid>3802129</guid>
+            <pubDate>Thu, 03 Oct 2024 14:21:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士表示，约三千名俄罗斯及其他独联体公民表示希望离开黎巴嫩。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8878789.d.html</link>
-            <guid>3801967</guid>
-            <pubDate>Thu, 03 Oct 2024 11:41:14 GMT</pubDate>
+            <title><![CDATA[消息人士称，埃及计划从4月开始在补贴面包中使用玉米粉，以减少小麦进口。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7612222.d.html</link>
+            <guid>3802128</guid>
+            <pubDate>Thu, 03 Oct 2024 14:21:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【一饼班章9.9元？云南整治普洱茶销售乱象】时下，“9.9元一饼的班章”“10元一饼的冰岛”等广告在网络平台和部分商店出现，影响了普洱茶产业健康发展。对此，云南市场监督管理部门加大了监管打击力度。记者近日从云南省市场监督管理局获悉，近年来，云南开展了普洱茶放心消费、普洱茶销售乱象整治、茶叶过度包装治理等专项行动，查办违法案件134件，销毁假冒伪劣茶叶13.6吨。其中，云南加强普洱茶网络销售监管和广告监管，已查办违法广告案件23件。云南还加强茶叶质量抽检监测和追溯，监督抽检茶叶1.5万多批次，合格率保持在99.8%以上。此外，普洱茶主产区西双版纳傣族自治州、普洱市、临沧市三地市场监管局签订普洱茶知识产权保护跨区域协作协议，西双版纳州市场监管局与广州市的市场监管部门加强联动，加大跨区域协同监管打击力度。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4456648.d.html</link>
-            <guid>3801966</guid>
-            <pubDate>Thu, 03 Oct 2024 11:39:06 GMT</pubDate>
+            <title><![CDATA[黎巴嫩真主党表示，他们用火箭弹袭击了位于海法湾的萨赫宁军事基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4388896.d.html</link>
+            <guid>3802127</guid>
+            <pubDate>Thu, 03 Oct 2024 14:19:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据目击者报道，贝鲁特发生三次大型连续爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8877828.d.html</link>
-            <guid>3801965</guid>
-            <pubDate>Thu, 03 Oct 2024 11:35:51 GMT</pubDate>
+            <title><![CDATA[市场消息：OpenAI据称现在拥有超过100亿美元的流动资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2002314.d.html</link>
+            <guid>3802126</guid>
+            <pubDate>Thu, 03 Oct 2024 14:18:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚马逊将为假日季招聘25万人 较去年持平】 亚马逊将在美国为假日购物季招聘大约25万人，数量与去年持平，暗示公司预计其最大市场的需求将保持稳定。亚马逊通常会宣布秋季招募潮，以吸引新的员工；公司近期表示，将把80万美国运输和仓储工人的时薪提高至少1.5美元，至超过22美元。总体而言，Challenger、Grey & Christmas预测零售商将在今年最后三个月增加52万个就业岗位，由于劳动力市场和经济趋软，较2023年低大约8%。上月，Target称，将招募大约10万名季节性员工，与一年前相同。一些预测对电商的看法更加乐观。Adobe预计美国消费者将在11月和12月花费大约2408亿美元，比之前一年高8.4%。]]></title>
-            <guid>3801963</guid>
-            <pubDate>Thu, 03 Oct 2024 11:32:31 GMT</pubDate>
+            <title><![CDATA[【美国9月ISM非制造业活动最快扩张速度】 美国9月ISM非制造业指数54.9，创2023年2月份以来新高，受到订单激增和商业活动增强的驱动。美国10年期国债收益率上涨超5.15个基点，在数据发布后刷新日高至3.8343%；两年期美债收益率也从3.67%上扬至3.7033%刷新日高，日内整体涨约6个基点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxm2001098.d.html</link>
+            <guid>3802119</guid>
+            <pubDate>Thu, 03 Oct 2024 14:13:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据消息人士及当地媒体报道，利比亚东部政府宣布重新开放油田，出口业务将恢复正常。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8877001.d.html</link>
-            <guid>3801962</guid>
-            <pubDate>Thu, 03 Oct 2024 11:32:00 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯表示其部队已控制乌克兰的弗勒达。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4385617.d.html</link>
+            <guid>3802117</guid>
+            <pubDate>Thu, 03 Oct 2024 14:11:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德意志银行股价下跌9.86%，该公司下调2024年预期。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8876983.d.html</link>
-            <guid>3801961</guid>
-            <pubDate>Thu, 03 Oct 2024 11:31:55 GMT</pubDate>
+            <title><![CDATA[【大促降价福利来袭，新政实施近一周广州南沙一二手房成交量明显上升】距离广州南沙9月27日发布《关于优化调整南沙区房地产政策的通知》即将满一周，南沙楼市国庆假期热度持续升温。记者走访区内多个楼盘，了解楼市销售情况。 数据显示，9月28日至10月1日4天间，南沙区一、二手房分别成交148套、92套，与往常相比（2个周末+2个工作日），成交套数分别增加57%、33%。（21财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7608077.d.html</link>
+            <guid>3802115</guid>
+            <pubDate>Thu, 03 Oct 2024 14:10:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[土耳其央行数据显示，截至9月27日，土耳其央行外汇储备总额为938.2亿美元，而一周前为941.1亿美元。]]></title>
-            <guid>3801960</guid>
-            <pubDate>Thu, 03 Oct 2024 11:31:03 GMT</pubDate>
+            <title><![CDATA[【黎巴嫩境内流离失所者已达346209人】联合国世界卫生组织当地时间10月3日下午发布消息表示，随着黎巴嫩人道主义危机的恶化，成千上万的流离失所家庭被迫逃离家园寻求安全。据统计，黎巴嫩境内流离失所人数已达346209人，有142361人住在集体避难所里，还有数百人流落街头，无法获得食物、水、住所和医疗物资。 (央视新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8777796.d.html</link>
+            <guid>3802114</guid>
+            <pubDate>Thu, 03 Oct 2024 14:10:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国庆假期婚庆金饰热销 游客成深圳水贝黄金消费主力军】近期国际金价高位波动，国内黄金消费和回收市场热度高涨。眼下正值国庆假期，也是结婚旺季，在我国最大的黄金珠宝交易集散地深圳水贝，聚集了不少来自全国各地的消费者。在水贝的黄金珠宝首饰铺中，涉及婚庆产品的店铺最是火爆。记者了解到，除了本地购买者，国庆假期期间，前来深圳旅游的消费者也成为黄金消费的主力军，一些新中式黄金饰品，备受消费者喜爱。 （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2099610.d.html</link>
-            <guid>3801959</guid>
-            <pubDate>Thu, 03 Oct 2024 11:30:46 GMT</pubDate>
+            <title><![CDATA[市场消息：美国在间接告诉伊朗不要攻击它在中东的基地。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4383877.d.html</link>
+            <guid>3802111</guid>
+            <pubDate>Thu, 03 Oct 2024 14:07:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[TD COWEN：将美国航空目标价从7美元上调至9美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2229956.d.html</link>
-            <guid>3801954</guid>
-            <pubDate>Thu, 03 Oct 2024 11:28:05 GMT</pubDate>
+            <title><![CDATA[【翔宇医疗超声治疗仪获国家医疗器械注册证】 记者获悉，近日，翔宇医疗超声治疗仪获国家医疗器械注册证，该设备利用超声波的机械效应、热效应、空化效应，适用于人体的颈肩部、腰部和四肢部位慢性软组织损伤性疼痛的辅助治疗。相较于传统的超声波治疗仪，聚焦超声波具有更好的组织穿透性、可聚焦性和能量存积性等特征。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8775584.d.html</link>
+            <guid>3802101</guid>
+            <pubDate>Thu, 03 Oct 2024 14:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰国家安全局称使用无人机袭击俄军用机场】乌克兰国家安全局10月3日表示，该部门使用无人机袭击了俄罗斯“鲍里索格列布斯克”军用机场。乌国家安全局表示，其联合乌国防部队在2日夜间袭击了俄罗斯沃罗涅日州鲍里索格列布斯克市的军用机场，对该机场弹药和燃料仓库，以及停放在机场的苏-35和苏-34飞机进行打击。乌国家安全局表示，将继续采取措施削弱俄军用装备以及战斗机，确保乌境内安全。此外，将继续对俄罗斯军用机场实施打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9006934.d.html</link>
-            <guid>3801952</guid>
-            <pubDate>Thu, 03 Oct 2024 11:27:20 GMT</pubDate>
+            <title><![CDATA[以色列国防军：截至当天16时，真主党从黎巴嫩向以色列境内发射了120多枚炮弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8775492.d.html</link>
+            <guid>3802099</guid>
+            <pubDate>Thu, 03 Oct 2024 13:59:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“和平方舟”号医院船结束访问加蓬 离港时与加蓬海军举行联合演练】当地时间3日上午10时许，执行“和谐使命-2024”任务的中国海军“和平方舟”号医院船圆满完成对加蓬的再次访问，驶离加蓬奥文多港，前往本次任务第九站喀麦隆。离港后，在利伯维尔湾及以西海域，“和平方舟”号医院船与加蓬海军举行了以编队会合、编队运动、海上救援与后送为主要内容的联合演练。这是执行“和谐使命-2024”任务以来，“和平方舟”号医院船首次开展的海外联演，也是中加两国海军首次进行联合演练。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7804625.d.html</link>
-            <guid>3801949</guid>
-            <pubDate>Thu, 03 Oct 2024 11:22:57 GMT</pubDate>
+            <title><![CDATA[【电影《出入平安》宣布撤档】电影《出入平安》官博10月3日发布声明称，电影“在上映期间遭遇到了前所未有的困难和挑战”，决定退出国庆档，上映档期待定。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7602812.d.html</link>
+            <guid>3802097</guid>
+            <pubDate>Thu, 03 Oct 2024 13:57:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【香港交易所：获摩根大通增持约18.13亿港元】根据香港联交所最新权益披露资料显示，香港交易所(00388.HK)获摩根大通于9月27日以每股均价296.4760港元增持约611.64万股，涉资约18.13亿港元。增持后，摩根大通最新持股数约为8142万股，持仓比例由5.93%上升至6.42%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9006010.d.html</link>
-            <guid>3801948</guid>
-            <pubDate>Thu, 03 Oct 2024 11:22:31 GMT</pubDate>
+            <title><![CDATA[世卫组织负责人：由于航班限制，无法在周五向黎巴嫩运送大批创伤和医疗物资。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8775039.d.html</link>
+            <guid>3802095</guid>
+            <pubDate>Thu, 03 Oct 2024 13:56:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯洛伐克总理：有来自欧盟委员会的压力，要求停止从东到西的石油和天然气运输。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4581128.d.html</link>
-            <guid>3801946</guid>
-            <pubDate>Thu, 03 Oct 2024 11:20:54 GMT</pubDate>
+            <title><![CDATA[世界卫生组织总干事表示，在过去24小时内，仅在黎巴嫩就有28名卫生工作者被杀害。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxs4379202.d.html</link>
+            <guid>3802092</guid>
+            <pubDate>Thu, 03 Oct 2024 13:55:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国太保：获摩根大通增持约2.67亿港元H股】根据香港联交所最新权益披露资料显示，中国太保获摩根大通于9月27日以每股均价26.2491港元增持约1014万股，涉资约2.67亿港元。摩根大通持仓比例由6.98%增加至7.35%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9005541.d.html</link>
-            <guid>3801944</guid>
-            <pubDate>Thu, 03 Oct 2024 11:19:44 GMT</pubDate>
+            <title><![CDATA[【俄外长说俄中协作助力形成更加公正的多极世界秩序】俄罗斯外交部长拉夫罗夫3日表示，俄罗斯和中国在国际政治外交舞台的协作有助于形成更加公正的多极世界秩序。拉夫罗夫当天在庆祝中俄建交75周年档案资料图片展开幕式上说，75年来，经过两国持续共同努力，俄中关系达到了前所未有的高水平。他强调，俄中外交协作有助于维护全球稳定和形成更加公正的多极世界秩序。双方本着世代友好、睦邻合作、相互尊重、互利共赢的精神，可以解决任何问题，克服任何困难。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxn8774599.d.html</link>
+            <guid>3802091</guid>
+            <pubDate>Thu, 03 Oct 2024 13:53:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[斯洛伐克总理：我们对保持通过乌克兰的石油和天然气运输非常感兴趣。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7802720.d.html</link>
-            <guid>3801943</guid>
-            <pubDate>Thu, 03 Oct 2024 11:17:44 GMT</pubDate>
+            <title><![CDATA[美国总统拜登：预计以色列今天不会对伊朗袭击做出回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhxxq7599651.d.html</link>
+            <guid>3802086</guid>
+            <pubDate>Thu, 03 Oct 2024 13:49:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[南非部长表示，南非正在推行签证改革以促进经济发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4579639.d.html</link>
-            <guid>3801941</guid>
-            <pubDate>Thu, 03 Oct 2024 11:17:00 GMT</pubDate>
+            <title><![CDATA[美国9月标普全球服务业PMI终值 55.2，预期55.4，前值55.4。
+美国9月标普全球综合PMI终值 54，预期54.3，前值54.4。]]></title>
+            <guid>3802083</guid>
+            <pubDate>Thu, 03 Oct 2024 13:45:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：阿联酋航空取消10月4日至5日飞往伊朗、伊拉克和约旦的航班。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9004781.d.html</link>
-            <guid>3801940</guid>
-            <pubDate>Thu, 03 Oct 2024 11:15:54 GMT</pubDate>
+            <title><![CDATA[【利比亚东部政府宣布恢复石油生产】控制利比亚东部的哈马德政府宣布解除所有油田和港口的不可抗力状态，恢复油田生产和出口业务。此前，利比亚国民代表大会任命的政府总理乌萨马·哈马德8月26日在其政府社交媒体账号上发表声明，宣布该政府控制下的所有油田和港口遭遇不可抗力，暂停石油生产和出口。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4505231.d.html</link>
+            <guid>3802081</guid>
+            <pubDate>Thu, 03 Oct 2024 13:43:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：哈萨克斯坦国家铁路公司表示，向俄罗斯的粮食出口并未中断。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7801410.d.html</link>
-            <guid>3801938</guid>
-            <pubDate>Thu, 03 Oct 2024 11:14:08 GMT</pubDate>
+            <title><![CDATA[【秘鲁中部地区发生4.5级地震】根据秘鲁地球物理研究所国家地震中心报告，当地时间10月3日8时21分，该国中部帕斯科大区发生4.5级地震，震源深度17公里。目前暂无人员伤亡及财产损失报告。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2125274.d.html</link>
+            <guid>3802079</guid>
+            <pubDate>Thu, 03 Oct 2024 13:41:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2024国庆档新片总票房破12亿】据猫眼专业版数据，截至10月3日19时11分，2024年国庆档新片总票房（含预售及点映）破12亿！《志愿军：存亡之战》《749局》《浴火之路》分列国庆档新片票房榜前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2227203.d.html</link>
-            <guid>3801937</guid>
-            <pubDate>Thu, 03 Oct 2024 11:13:32 GMT</pubDate>
+            <title><![CDATA[【以军袭击黎南部一军事哨所致1死 黎军开火还击】当地时间10月3日，黎巴嫩军方称，以色列袭击黎南部宾特朱拜勒地区的一个军事哨所，造成一名黎巴嫩士兵丧生。该哨所的士兵对以军开火源头进行了还击。总台记者获悉，黎巴嫩安全部门消息人士表示，这是冲突爆发近一年以来，黎巴嫩军队首次向以色列军队开火。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8901616.d.html</link>
+            <guid>3802077</guid>
+            <pubDate>Thu, 03 Oct 2024 13:37:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[消息人士：乌克兰无人机袭击了俄罗斯的鲍里索格列布斯克军事机场，以及位于沃罗涅日地区的燃料和制导炸弹仓库。攻击将会持续。]]></title>
-            <guid>3801934</guid>
-            <pubDate>Thu, 03 Oct 2024 11:08:54 GMT</pubDate>
+            <title><![CDATA[【罗马尼亚提供的“爱国者”防空系统已抵达乌克兰】总台记者当地时间3日获悉，罗马尼亚承诺向乌克兰移交的一套“爱国者”防空系统已抵达乌克兰。当地时间6月20日，罗马尼亚最高国防委员会曾发表声明称，由于乌克兰安全局势恶化，严重影响了罗马尼亚的安全，罗马尼亚决定向乌克兰提供一套“爱国者”防空系统。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrs7724555.d.html</link>
+            <guid>3802074</guid>
+            <pubDate>Thu, 03 Oct 2024 13:35:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【速腾聚创：10月3日耗资686.3万港元回购40.2万股】速腾聚创(02498.HK)公告，10月3日耗资686.3万港元回购40.2万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9003517.d.html</link>
-            <guid>3801933</guid>
-            <pubDate>Thu, 03 Oct 2024 11:08:29 GMT</pubDate>
+            <title><![CDATA[加拿大9月标普全球综合PMI 47，前值47.8。
+加拿大9月标普全球服务业PMI 46.4，前值47.8。]]></title>
+            <guid>3802072</guid>
+            <pubDate>Thu, 03 Oct 2024 13:33:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【太古地产：10月3日耗资992.9万港元回购60万股】太古地产(01972.HK)公告，10月3日耗资992.9万港元回购60万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4576213.d.html</link>
-            <guid>3801932</guid>
-            <pubDate>Thu, 03 Oct 2024 11:07:48 GMT</pubDate>
+            <title><![CDATA[市场消息：阿达尼集团寻求向坦桑尼亚输电线路投资9亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrq8900524.d.html</link>
+            <guid>3802071</guid>
+            <pubDate>Thu, 03 Oct 2024 13:32:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【百胜中国：10月2日斥资240万美元回购4.8万股股份】百胜中国(09987.HK)公告，10月2日斥资240万美元回购4.8万股股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2226207.d.html</link>
-            <guid>3801931</guid>
-            <pubDate>Thu, 03 Oct 2024 11:07:33 GMT</pubDate>
+            <title><![CDATA[【韩国计划大量追加进口中国大白菜】由于韩国本土大白菜收成欠佳导致供应不足，上周首批16吨从中国进口的大白菜运抵韩国。昨天（2日）韩国政府表示，为了尽快稳定市场价格，计划追加进口4100吨中国大白菜。在首尔麻浦区的一个农贸市场，记者了解到，由于价格高且销量不好，一些摊主最近干脆暂停销售大白菜。大白菜的价格居高不下，让韩国民众对即将到来的腌泡菜季感到不安。 （央视财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2122614.d.html</link>
+            <guid>3802069</guid>
+            <pubDate>Thu, 03 Oct 2024 13:30:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亚马逊：到10月底，加拿大将开设五个新的配送站】亚马逊：计划招聘25万名季节性员工，与去年持平。在加拿大的平均基础时薪现已达到22.25加元，适用于客户履约和配送服务人员。将投资1亿美元用于额外的一线员工薪酬，并保证加薪。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2225209.d.html</link>
-            <guid>3801929</guid>
-            <pubDate>Thu, 03 Oct 2024 11:02:46 GMT</pubDate>
+            <title><![CDATA[【以色列北部地区响起防空警报】据以色列国防军当地时间10月3日下午消息，位于以色列北部的克法尔吉拉迪（Kfar Giladi）地区响起防空警报。目前暂无人员伤亡信息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtru4498891.d.html</link>
+            <guid>3802067</guid>
+            <pubDate>Thu, 03 Oct 2024 13:28:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【台风“山陀儿”已致台湾高雄超10万用户停电】今年第18号台风“山陀儿”的中心已于10月3日13时前后在台湾高雄市林园区沿海登陆。据台湾电力公司统计，截至3日17时，“山陀儿”已造成高雄逾10万户停电，逾20万户停水。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2225095.d.html</link>
-            <guid>3801928</guid>
-            <pubDate>Thu, 03 Oct 2024 11:02:16 GMT</pubDate>
+            <title><![CDATA[消息人士称，来自海湾阿拉伯国家和伊朗的部长们在多哈会议上讨论了缓和伊朗和以色列之间的紧张局势的问题，海湾国家寻求向伊朗保证其中立，以应对对更大冲突可能威胁其石油设施的担忧。]]></title>
+            <guid>3802064</guid>
+            <pubDate>Thu, 03 Oct 2024 13:25:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[亚马逊：在加拿大招聘超过9,000名员工，以助力提供卓越的节日体验。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7796891.d.html</link>
-            <guid>3801927</guid>
-            <pubDate>Thu, 03 Oct 2024 11:01:59 GMT</pubDate>
+            <title><![CDATA[【先声药业：10月3日耗资约808.49万港元回购117.5万股】先声药业(02096)公布，2024年10月3日耗资约808.49万港元回购117.5万股股份。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2121083.d.html</link>
+            <guid>3802063</guid>
+            <pubDate>Thu, 03 Oct 2024 13:23:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verian-EPOKA民调显示马克龙支持率下降3个百分点至22%。]]></title>
-            <guid>3801926</guid>
-            <pubDate>Thu, 03 Oct 2024 11:00:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔银行：将Visa目标价从300美元提高到310美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7795949.d.html</link>
-            <guid>3801925</guid>
-            <pubDate>Thu, 03 Oct 2024 10:59:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔银行：将Block目标价从93美元降至92美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7795923.d.html</link>
-            <guid>3801924</guid>
-            <pubDate>Thu, 03 Oct 2024 10:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[蒙特利尔银行：将PayPal目标价从72美元上调至73美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7795708.d.html</link>
-            <guid>3801923</guid>
-            <pubDate>Thu, 03 Oct 2024 10:58:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【叙利亚防空系统击落一架来袭的以色列无人机】总台记者获悉，叙利亚方面消息称，当地时间10月3日，一架试图袭击叙利亚大马士革西郊的以色列无人机被叙防空系统击落。2日，叙利亚首都大马士革的一栋居民楼遭以色列导弹袭击，造成3名平民死亡。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7794537.d.html</link>
-            <guid>3801921</guid>
-            <pubDate>Thu, 03 Oct 2024 10:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[德意志银行：将英特尔目标价从27美元下调至25美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4571222.d.html</link>
-            <guid>3801920</guid>
-            <pubDate>Thu, 03 Oct 2024 10:54:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国际首次！我国科研团队完成超导太赫兹通信实验】10月3日，记者从中国科学院获悉，该院紫金山天文台牵头的联合实验团队日前在青海省海西州雪山牧场，成功实现基于超导接收的高清视频信号公里级太赫兹（THz）无线通信传输。这是国际首次将高灵敏度超导接收机技术成功应用于远距离太赫兹无线通信系统，也是0.5THz频段以上迄今最远距离的太赫兹无线通信传输实验。（科技日报）]]></title>
-            <guid>3801919</guid>
-            <pubDate>Thu, 03 Oct 2024 10:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：俄罗斯紧急情况部门表示，已开始从黎巴嫩撤离俄罗斯公民。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis9000444.d.html</link>
-            <guid>3801918</guid>
-            <pubDate>Thu, 03 Oct 2024 10:53:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[   【香港金管局与卡塔尔央行加强金融合作】香港金融管理局与卡塔尔中央银行于10月3日（多哈时间）在多哈举行双边会议，加强两地金融服务领域的合作。会议期间，金管局与卡塔尔央行讨论多项合作计划，以加强在金融基建范畴的合作，并就资本市场互联互通、可持续金融、债券市场发展、数码资产及人才培育进行经验分享。金管局期望与卡塔尔央行紧密合作，促进两地金融市场的互联互通及进一步交流。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4570685.d.html</link>
-            <guid>3801917</guid>
-            <pubDate>Thu, 03 Oct 2024 10:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马来西亚将从巴基斯坦进口10万吨大米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7793035.d.html</link>
-            <guid>3801916</guid>
-            <pubDate>Thu, 03 Oct 2024 10:51:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：马来西亚和巴基斯坦寻求增加航班以提振旅游业。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiw4569776.d.html</link>
-            <guid>3801915</guid>
-            <pubDate>Thu, 03 Oct 2024 10:50:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【以色列国防军呼吁黎巴嫩南部多地居民立即撤离】当地时间10月3日下午，以色列国防军阿拉伯语发言人阿维查伊·阿德雷发表声明，呼吁黎巴嫩南部25个地区的居民立即撤离，并向北迁移。撤离名单中包括黎南部最大的城市之一纳巴提耶。阿德雷表示，任何靠近黎真主党成员、设施或武器的人，都是在将自己置于危险之中。黎真主党用于军事目的的任何房屋都是以军袭击目标。以色列国防军表示，他们将在居民可以返回时向其通报最新情况。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2222689.d.html</link>
-            <guid>3801913</guid>
-            <pubDate>Thu, 03 Oct 2024 10:49:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【横琴口岸迎来客流车流双高峰】 据大湾区之声消息，金秋十月，位于横琴粤澳深度合作区门户的横琴口岸迎来客流车流双高峰。9月30日，经横琴口岸二期联合一站式车道出入境车辆超8200辆次，打破该口岸单日车流纪录，同比增长80%。10月2日，经横琴口岸出入境旅客约8.9万人次，同比增长37%，不到40天再创单日客流新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis8998981.d.html</link>
-            <guid>3801910</guid>
-            <pubDate>Thu, 03 Oct 2024 10:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[William O'Neil给予中国生物制药买进的初始评级。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpis8998754.d.html</link>
-            <guid>3801909</guid>
-            <pubDate>Thu, 03 Oct 2024 10:44:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[南苏丹总统解除长期任职的安全局局长职务。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpiu7790045.d.html</link>
-            <guid>3801908</guid>
-            <pubDate>Thu, 03 Oct 2024 10:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[黎巴嫩军方表示，在与黎巴嫩红十字会在黎巴嫩南部执行救援任务时，以色列发动袭击，造成一名士兵死亡，另一名士兵受伤。]]></title>
-            <guid>3801907</guid>
-            <pubDate>Thu, 03 Oct 2024 10:43:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[STELLANTIS首席执行官表示将留任至2026年初任期结束。]]></title>
-            <guid>3801903</guid>
-            <pubDate>Thu, 03 Oct 2024 10:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【卡塔尔埃米尔指责以色列在加沙地带实施“种族灭绝”】当地时间10月3日，卡塔尔埃米尔（国家元首）塔米姆在第三届亚洲合作对话峰会上指责以色列在加沙地带实施“种族灭绝”。塔米姆说，自新一轮巴以冲突爆发以来，加沙地带正在发生“种族灭绝”，以色列把加沙地带变成了一个不适合人类居住的地方，国际社会必须对以色列的罪行进行惩治。他还表示，如果不能在1967年边界基础上建立独立的巴勒斯坦国，中东地区就无法实现和平安全。卡塔尔支持巴勒斯坦人民的合法权利。塔米姆还呼吁国际社会向以色列施压，促使其停止对黎巴嫩的军事打击。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhpir2220954.d.html</link>
-            <guid>3801902</guid>
-            <pubDate>Thu, 03 Oct 2024 10:40:39 GMT</pubDate>
+            <title><![CDATA[【《危机航线》票房破亿】据灯塔专业版实时数据，截至10月3日21时19分，影片《危机航线》票房突破1亿。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-03/detail-incrhtrp2120896.d.html</link>
+            <guid>3802062</guid>
+            <pubDate>Thu, 03 Oct 2024 13:22:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
