@@ -4,445 +4,504 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 07 Oct 2024 06:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 09:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[联电：第三季度营收604.9亿元新台币，预估602.8亿元新台币。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5140991.d.html</link>
-            <guid>3804924</guid>
-            <pubDate>Mon, 07 Oct 2024 06:11:18 GMT</pubDate>
+            <title><![CDATA[据以色列时报：以色列军方称，美国中央司令部司令Michael Kurilla将军昨天与以色列国防军参谋长Herzi Halevi中将进行了评估，重点是伊朗问题和以色列北部前线。]]></title>
+            <guid>3805176</guid>
+            <pubDate>Mon, 07 Oct 2024 09:08:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：英国石油公司仍以到2050年实现净零排放为目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1917791.d.html</link>
-            <guid>3804921</guid>
-            <pubDate>Mon, 07 Oct 2024 06:08:57 GMT</pubDate>
+            <title><![CDATA[【欧洲消费支出温和增长 提振经济增长信心】欧元区8月消费略有增长，显示出消费支出正在恢复的迹象，尽管是温和恢复，因为物价上涨的势头有所减弱。数据显示，零售贸易比7月份增长了0.2%。8月份的增长在经济学家预期之内，但由于德国改变数据收集方式，德国的数据尚未包括在内。此外，法国和西班牙的零售销售额上升，意大利的零售销售额持平。燃油支出增长幅度居前，食品和其他产品消费也增加。消费数据显示出积极迹象，低通胀和借贷成本下降让欧洲人对支出和增长感到更加乐观。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptx1351894.d.html</link>
+            <guid>3805175</guid>
+            <pubDate>Mon, 07 Oct 2024 09:08:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：10月07日14时00分在新疆阿克苏地区库车市（北纬40.98度，东经83.93度）发生3.0级地震，震源深度13千米。]]></title>
-            <guid>3804920</guid>
-            <pubDate>Mon, 07 Oct 2024 06:08:35 GMT</pubDate>
+            <title><![CDATA[【以军与黎真主党武装冲突范围不断扩大】新一轮巴以冲突外溢影响下，以色列国防军与黎巴嫩真主党武装的冲突也在不断升级。总台驻黎巴嫩记者次晓宁表示，目前冲突造成的死亡人数超过了2000人，有120万人在境内流离失所，更直观的数字就是黎巴嫩平均每5个人就有一个人被迫离开原来的住处。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptx1351546.d.html</link>
+            <guid>3805174</guid>
+            <pubDate>Mon, 07 Oct 2024 09:06:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根士丹利策略师将美国医疗保健股评级下调至等配。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5140601.d.html</link>
-            <guid>3804919</guid>
-            <pubDate>Mon, 07 Oct 2024 06:08:30 GMT</pubDate>
+            <title><![CDATA[【乐心医疗：申报血糖监测产品医疗器械注册证获美国FDA受理】乐心医疗晚间公告，公司近日收到美国FDA的通知，获悉公司申请的血糖监测产品医疗器械注册证事宜已获受理。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8128705.d.html</link>
+            <guid>3805173</guid>
+            <pubDate>Mon, 07 Oct 2024 09:06:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[星狮集团将在Mulberry的持股比例从36.86%提高到37.26%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1917738.d.html</link>
-            <guid>3804918</guid>
-            <pubDate>Mon, 07 Oct 2024 06:08:22 GMT</pubDate>
+            <title><![CDATA[【江西省政协原党组书记、主席唐一军严重违纪违法被开除党籍和公职】经查，唐一军丧失理想信念，背离初心使命，对抗组织审查；无视中央八项规定精神，长期违规接受宴请和旅游活动安排，违规收受礼品礼金和消费卡，由他人支付应由个人支付的费用；组织意识淡漠，瞒报个人有关事项，在组织函询、谈话时不如实说明问题，在干部选拔任用工作中为他人谋取利益并收受财物；廉洁底线失守，利用职权帮助亲属承揽金融业务；违规干预、插手市场经济活动和司法活动；家风不正，对配偶失管失教；毫无纪法观念，把公权力当作谋取私利的工具，大搞权钱交易，利用职务便利为他人在企业经营、公司上市、职务提拔、案件处理等方面谋利，并非法收受巨额财物。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8128423.d.html</link>
+            <guid>3805171</guid>
+            <pubDate>Mon, 07 Oct 2024 09:05:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列称挫败哈马斯袭击计划，哈马斯称对以军发射火箭弹】 据央视新闻，以色列国防军当地时间7日早间发布消息称，巴勒斯坦伊斯兰抵抗运动（哈马斯） 原本计划在当天对以色列发动更大规模的火箭弹袭击，但以色列军方在得到“准确”情报后“挫败了”这一计划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5140533.d.html</link>
-            <guid>3804917</guid>
-            <pubDate>Mon, 07 Oct 2024 06:07:59 GMT</pubDate>
+            <title><![CDATA[【多国举行集会抗议以色列军事行动，呼吁立即停火止战】 巴以新一轮冲突延宕已近一年，然而地区局势不仅未见平息之势，反而急转直下，多点蔓延。近日，多国爆发抗议示威等集会活动，呼吁以色列立即停火止战，避免加剧平民死伤、人道主义危机进一步恶化。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1692063.d.html</link>
+            <guid>3805170</guid>
+            <pubDate>Mon, 07 Oct 2024 09:04:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[德国8月份工厂订单同比-3.9%，预估-1.6%。德国8月份工厂订单环比-5.8%，预估为-2.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1558457.d.html</link>
-            <guid>3804913</guid>
-            <pubDate>Mon, 07 Oct 2024 06:00:30 GMT</pubDate>
+            <title><![CDATA[【内蒙古自治区人大常委会原党组副书记、副主任杜梓严重违纪违法被开除党籍】经查，杜梓丧失理想信念，背弃初心使命，对抗组织审查；违背组织原则，违规选拔任用干部并收受财物；违规收受礼金；腐化堕落，不注重家风建设，造成恶劣影响；贪欲膨胀，大搞权钱交易，利用职务便利为他人在工程承揽、煤炭资源配置、职务调整等方面谋利，并非法收受巨额财物。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8127875.d.html</link>
+            <guid>3805169</guid>
+            <pubDate>Mon, 07 Oct 2024 09:04:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澳大利亚股市收盘上涨0.7% 锂矿股大涨 Arcadium Lithium飙升46%】周一澳大利亚S&P/ASX 200指数收盘上涨 0.7%，报8205.4点，受助于锂股的大幅上涨。在力拓表示有意收购 Arcadium Lithium之后，Arcadium Lithium收盘上涨46%。这一消息使包括 Liontown Resources 在内的其他澳大利亚锂生产商受益，Liontown Resources上涨19%。力拓下跌 2.0%。银行股表现稳健，澳洲联邦银行上涨 1.5%，西太平洋银行涨 2.1%。由于投资者担心布基纳法索军政府可能撤销一些采矿许可，West African Resources大幅收跌，股价下跌近20%。]]></title>
-            <guid>3804912</guid>
-            <pubDate>Mon, 07 Oct 2024 06:00:11 GMT</pubDate>
+            <title><![CDATA[【伊朗媒体：伊朗圣城旅指挥官“健康状况良好”】据伊朗国家媒体报道，伊朗圣城旅副指挥官马吉迪说，圣城旅最高指挥官卡尼“健康状况良好”。他还说，不需要就这个问题发表进一步声明。两名伊朗高级安全官员昨日向媒体表示，自上周晚些时候以色列袭击贝鲁特以来，伊朗一直没有听到卡尼的消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8127765.d.html</link>
+            <guid>3805168</guid>
+            <pubDate>Mon, 07 Oct 2024 09:04:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【又见暴涨！599%】港股脑洞科技早盘一度上涨599%，截至发稿涨超272%，成交超6100万港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5139198.d.html</link>
-            <guid>3804911</guid>
-            <pubDate>Mon, 07 Oct 2024 05:59:46 GMT</pubDate>
+            <title><![CDATA[【新疆维吾尔自治区政协原党组成员、副主席窦万贵严重违纪违法被开除党籍和公职】经查，窦万贵丧失理想信念，背弃初心使命，贯彻党中央重大决策部署打折扣、搞变通，违背民主集中制原则，搞“七个有之”，投机钻营，结交政治骗子，履行全面从严治党主体责任不力；违反中央八项规定精神，接受可能影响公正执行公务的宴请；违背组织原则，跑官买官，在组织函询时不如实说明问题；廉洁底线失守，违规收受礼金，利用职权为亲友经营活动谋取利益；利用职务便利为他人在矿产资源开发、工程项目承揽、干部选拔任用等方面谋利，并非法收受巨额财物。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4914594.d.html</link>
+            <guid>3805167</guid>
+            <pubDate>Mon, 07 Oct 2024 09:03:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国联通H股上涨6.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5138940.d.html</link>
-            <guid>3804910</guid>
-            <pubDate>Mon, 07 Oct 2024 05:56:20 GMT</pubDate>
+            <title><![CDATA[【贵州省纪委原副书记、省监委原副主任张平严重违纪违法被开除党籍和公职】据央视新闻，贵州省纪委原副书记、省监委原副主任张平严重违纪违法被开除党籍和公职。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691604.d.html</link>
+            <guid>3805166</guid>
+            <pubDate>Mon, 07 Oct 2024 09:03:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军继续对约旦河西岸多地发动袭击】据巴勒斯坦媒体报道，当地时间7日凌晨，以军继续对巴勒斯坦约旦河西岸城市杰宁以及希伯伦发动袭击。此外，以军当天袭击图勒凯尔姆时，引爆了一枚炸弹装置。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1557884.d.html</link>
-            <guid>3804909</guid>
-            <pubDate>Mon, 07 Oct 2024 05:55:10 GMT</pubDate>
+            <title><![CDATA[【港交所：9月港股通的日均成交金额为619.46亿港元，环比增119%】据港交所，9月港股通的日均成交金额为619.46亿港元，环比增119%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4914383.d.html</link>
+            <guid>3805165</guid>
+            <pubDate>Mon, 07 Oct 2024 09:02:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【历峰集团将把YNAP出售给mytheresa 预计减记约13亿欧元】根据一份公告，历峰集团将把在线奢侈品和时尚零售商YNAP出售给Mytheresa。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1557832.d.html</link>
-            <guid>3804908</guid>
-            <pubDate>Mon, 07 Oct 2024 05:54:43 GMT</pubDate>
+            <title><![CDATA[【仁智股份：收到《行政处罚事先告知书》】仁智股份公告，公司收到中国证监会浙江局下发的《行政处罚事先告知书》。公司未按规定及时披露与鸿博中益、润合新材料、壹品新能源的关联关系及关联交易，也未在相关定期报告中披露。中国证监会浙江局决定对公司责令改正，给予警告，并处以400万元罚款等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4914351.d.html</link>
+            <guid>3805164</guid>
+            <pubDate>Mon, 07 Oct 2024 09:02:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【克里米亚费奥多西亚地区一油库发生火灾 乌称袭击石油码头】当地时间10月7日，位于克里米亚费奥多西亚地区的一座油库发生火灾，截至目前火灾原因尚不明确。与此同时，乌克兰方面7日宣布，乌军在夜间袭击了克里米亚地区的一个石油码头。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5138097.d.html</link>
-            <guid>3804905</guid>
-            <pubDate>Mon, 07 Oct 2024 05:50:08 GMT</pubDate>
+            <title><![CDATA[【运机集团：拟购买欧瑞安股权并达到控股目的】运机集团公告，公司拟通过现金或其他方式购买山东欧瑞安电气有限公司部分股权，并达到控股欧瑞安的目的。欧瑞安系国内最早从事低速大扭矩永磁同步电动机系统研发及产业化的企业之一。若本次收购完成，在弥补公司在电机制造与研发领域空缺的同时，可进一步提升公司的盈利能力与营运效率。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691428.d.html</link>
+            <guid>3805162</guid>
+            <pubDate>Mon, 07 Oct 2024 09:02:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京新房认购量提高2倍 广州部分楼盘日到访量暴增200%】国庆假期前三天，北京市新房带看量较去年同期增加92.5%、认购量提高2倍，二手房带看量较去年同期增加104.1%。广州部分楼盘日到访量超过150批，较平时增加200%；与此同时，几乎有货可售的楼盘都瞄准国庆档期推出花样促销。业内人士表示，在新政之后，大量买房需求被释放，房地产市场被激活。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5137951.d.html</link>
-            <guid>3804904</guid>
-            <pubDate>Mon, 07 Oct 2024 05:48:55 GMT</pubDate>
+            <title><![CDATA[【中信建投：A股建筑央企投资性价比提升，静待利好政策落地】中信建投研究报告指出，本周政策利好持续释放，北上广深等一线城市在地产限购政策、首付比例方面大幅放松，国家发改委也将在8号国新办发布会介绍增量政策。我们认为当前利好政策有望持续，在资本市场、地产和财政政策方面均有望加码，低估值建筑央企和房建、基建板块均直接受益。国庆假期期间港股市场持续上涨，五家在港股上市的建筑央企平均涨幅达21.5%，AH溢价率从110%下降至90%，A股建筑央企投资性价比提升，在政策决心已显，利好不断释放的情况下我们持续看好低估值建筑央国企。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691320.d.html</link>
+            <guid>3805161</guid>
+            <pubDate>Mon, 07 Oct 2024 09:01:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【日本首相石破茂：没有必要修改政府与日本央行的协议】日本首相石破茂表示，他认为没有必要修改政府和日本央行在2013年达成的协议，因为他上周与日本央行行长植田和男确认，将继续根据该协议合作。石破茂在国会还指出，他将继承前任的经济政策，以确保日本战胜通货紧缩。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1913848.d.html</link>
-            <guid>3804900</guid>
-            <pubDate>Mon, 07 Oct 2024 05:39:12 GMT</pubDate>
+            <title><![CDATA[据以色列时报：以色列驻丹麦大使馆附近发生新的爆炸。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691205.d.html</link>
+            <guid>3805160</guid>
+            <pubDate>Mon, 07 Oct 2024 09:01:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【乌克兰基辅拉响防空警报 有爆炸声传出】当地时间10月7日，乌克兰首都基辅拉响防空警报，有爆炸声传出，防空系统正在工作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5136510.d.html</link>
-            <guid>3804898</guid>
-            <pubDate>Mon, 07 Oct 2024 05:37:48 GMT</pubDate>
+            <title><![CDATA[新加坡9月外汇储备 3898亿美元，前值3845.9亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691175.d.html</link>
+            <guid>3805159</guid>
+            <pubDate>Mon, 07 Oct 2024 09:01:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【港澳平：中国号巨轮劈波斩浪 香港澳门扬帆奋楫】国务院港澳事务办公室发文称，背靠祖国、联通世界，是港澳得天独厚的显著优势。国家发展始终是港澳发展的最大依托，祖国内地一直为港澳发展提供难得机遇、不竭动力、广阔空间。特别是港澳回归祖国以来，与祖国内地的交流合作日益密切，优势互补、共同发展的道路越走越宽广。今年以来，根据港澳的需要，中央接连推出促进金融市场互联互通、跨境资金便利化、深化金融合作的六项政策举措和六项便民利企出入境管理政策，增加内地赴港澳 “个人游”城市，为港澳永久性居民中非中国籍人员签发来往内地通行证，提高自港澳入境内地旅客携带行李物品免税额度，开通京港、沪港夕发朝至高铁动卧列车，赠送香港一对大熊猫等惠港惠澳政策措施。接下来，更多惠港惠澳政策措施还将继续推出。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1913438.d.html</link>
-            <guid>3804896</guid>
-            <pubDate>Mon, 07 Oct 2024 05:35:56 GMT</pubDate>
+            <title><![CDATA[欧元区8月零售销售年率 0.8%，预期1%，前值-0.10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691092.d.html</link>
+            <guid>3805158</guid>
+            <pubDate>Mon, 07 Oct 2024 09:01:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【三大A股ETF集体加速大涨】在接踵而至的利好刺激之下，与A股关联度较高的ETF，今日再度加速大涨。在港交所上市的科创50ETF——南方科创板50一度涨超30%；博时科创50涨超26%。在日本东京上市的南方中证500ETF更是一度大涨超75%，该基金上周涨幅巨大。这或许是A股开盘后相关指数的预演。今天的市场再度飙涨可能源于对财政政策刺激的期待和预期。摩根士丹利发表研究报告称，预计中国将推出规模较大的财政方案，或令在岸投资者作出正面反应。因为这再次印证对再通胀的承诺，并表明将采取更为协调的政策。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5135276.d.html</link>
-            <guid>3804894</guid>
-            <pubDate>Mon, 07 Oct 2024 05:30:07 GMT</pubDate>
+            <title><![CDATA[欧元区8月零售销售月率 0.2%，预期0.2%，前值由0.10%修正为0%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1691055.d.html</link>
+            <guid>3805157</guid>
+            <pubDate>Mon, 07 Oct 2024 09:00:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度NIFTY中型股100指数下跌2.4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5135009.d.html</link>
-            <guid>3804892</guid>
-            <pubDate>Mon, 07 Oct 2024 05:27:46 GMT</pubDate>
+            <title><![CDATA[【国庆假期最后一天，广铁集团预计发送旅客277.2万人次】记者从中国铁路广州局集团有限公司获悉，国庆黄金周最后一天，广铁集团迎来客流返程高峰，客流较昨日有明显增长，当天预计发送旅客277.2万人次，同比增加27.7万人次，同比增长11.1%。10月7日，广铁集团计划开行旅客列车3394列，加开旅客列车442列，加开线路主要是甬广、广珠、深湛、京广、广深港、杭深等。10月7日晚、8日凌晨计划加开夜间高铁166列，主要加开的线路为京广高铁、广深港高铁、沪昆高铁、厦深线、贵广线、赣深高铁、深湛线等。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4913833.d.html</link>
+            <guid>3805155</guid>
+            <pubDate>Mon, 07 Oct 2024 09:00:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【“四川造”影片《熊猫计划》《浴火之路》：票房分别突破1.6亿元和3亿元】 国庆假期已近尾声，国庆档电影票房竞逐持续火热。两部“四川造”电影《熊猫计划》《浴火之路》均取得了亮眼的成绩。截至6日，由峨眉电影集团有限公司出品的《熊猫计划》与由四川联瑞影业有限公司出品的《浴火之路》票房分别突破1.6亿元与3亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5134896.d.html</link>
-            <guid>3804891</guid>
-            <pubDate>Mon, 07 Oct 2024 05:26:44 GMT</pubDate>
+            <title><![CDATA[港交所：9月港股通的日均成交金额为619.46亿港元，环比增119%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptx1349109.d.html</link>
+            <guid>3805154</guid>
+            <pubDate>Mon, 07 Oct 2024 08:59:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【广绵扩容项目智慧梁场新一代智能钢筋绑扎生产线投用】近日，由蜀道集团川高公司主导，四川路桥、中铁五局联合投资的京昆高速广绵段扩容项目（简称“广绵扩容”）智慧梁场新一代智能钢筋绑扎生产线正式投入使用。 “单个钢筋笼的加工时间从4小时缩短至2.5小时，钢筋笼整体施工效率提高37.5%。”广绵公司梓潼业主代表处管段工程师张义龙介绍。据悉，该生产线的投用，促进了我国公路桥梁T梁预制迈入智能时代。（四川日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8330518.d.html</link>
-            <guid>3804890</guid>
-            <pubDate>Mon, 07 Oct 2024 05:25:31 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心：飓风“米尔顿”在墨西哥湾南部地区增强，佛罗里达部分地区已发布风暴潮和飓风警报。]]></title>
+            <guid>3805153</guid>
+            <pubDate>Mon, 07 Oct 2024 08:59:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【飞猪《2024国庆假期出游快报》： 国内高星酒店预订量增长近4成】飞猪发布的《2024国庆假期出游快报》显示，国庆黄金周旅游消费热情高涨，按可比口径计算，国内高星酒店、线路游、租车等旅游商品的预订量同比大幅增长；出境游在去年强劲反弹的基础上继续高增长，预订量同比劲增超50%，其中国际酒店预订规模已恢复至2019年的约120%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1911399.d.html</link>
-            <guid>3804888</guid>
-            <pubDate>Mon, 07 Oct 2024 05:21:48 GMT</pubDate>
+            <title><![CDATA[【山鹰国际：上调回购股份计划金额为6亿元-12亿元】山鹰国际公告，拟调整股份回购方案，将股份回购价格上限由1.69元/股调整为2.34元/股；将回购资金总额由不低于3.5亿元且不超过7亿元（均含本数）调整为不低于6亿元且不超过12亿元（均含本数）；将回购资金来源由公司自有资金调整为公司自有资金或自筹资金。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8126016.d.html</link>
+            <guid>3805152</guid>
+            <pubDate>Mon, 07 Oct 2024 08:58:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黄金周累计售出车票1.64亿张 全国铁路迎来返程客流高峰】从中国国家铁路集团有限公司获悉，10月7日，全国铁路迎来返程客流高峰，预计发送旅客1986万人次，计划开行旅客列车13103列，其中加开1705列，单日运力投放创历史新高。10月6日，全国铁路发送旅客1852.4万人次，运输安全平稳有序。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1552776.d.html</link>
-            <guid>3804887</guid>
-            <pubDate>Mon, 07 Oct 2024 05:21:36 GMT</pubDate>
+            <title><![CDATA[育碧转跌，目前下跌2.2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4913004.d.html</link>
+            <guid>3805151</guid>
+            <pubDate>Mon, 07 Oct 2024 08:57:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴基斯坦总理强烈谴责卡拉奇中企车队遇袭事件】10月7日，巴基斯坦总理夏巴兹·谢里夫在社交媒体发文称，对6日在卡拉奇发生的袭击事件导致两名中国人失去生命、另有一人受伤，深感震惊和悲痛。夏巴兹·谢里夫强烈谴责这一袭击事件，并向中国领导人及中国人民尤其是遇难者的家属致以最诚挚的哀悼，愿伤者早日康复。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5134146.d.html</link>
-            <guid>3804886</guid>
-            <pubDate>Mon, 07 Oct 2024 05:21:14 GMT</pubDate>
+            <title><![CDATA[约旦外交部：约旦外长抵达黎巴嫩贝鲁特。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1690131.d.html</link>
+            <guid>3805150</guid>
+            <pubDate>Mon, 07 Oct 2024 08:57:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本任天堂股价上涨5.1%，创下两个月来最大涨幅。东证指数上涨2%，MSCI AC亚太指数上涨1%。]]></title>
-            <guid>3804885</guid>
-            <pubDate>Mon, 07 Oct 2024 05:20:32 GMT</pubDate>
+            <title><![CDATA[“死亡商人”维克托·布特：胡塞武装表现得相当娴熟，已经击落了美国无人机。（谈及华尔街日报称他试图向胡塞武装出售武器的报道）这是假消息，专门在普京生日时发布。]]></title>
+            <guid>3805149</guid>
+            <pubDate>Mon, 07 Oct 2024 08:57:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联黎部队：对以在联黎部队任务区附近行动深表关切】联合国驻黎巴嫩临时部队当地时间7日凌晨发表声明说，对以色列国防军在黎境内马伦拉斯东南部联黎部队任务区附近展开行动表示严重关切。联黎部队指出，这是非常严重的事态。危及联合国维和人员安全的行为是不可接受的。联黎部队已多次向以色列国防军通报事态发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5133759.d.html</link>
-            <guid>3804884</guid>
-            <pubDate>Mon, 07 Oct 2024 05:17:26 GMT</pubDate>
+            <title><![CDATA[【保龄宝：实际控制人控制的企业松径投资拟增持5%-10%公司股份】保龄宝公告，公司实际控制人戴斯聪控制的企业松径投资计划于2024年10月8日起6个月内，通过深圳证券交易所系统允许的方式增持公司股份，拟增持股份数不低于1848.84万股（公司总股本的5%），不超过3697.67万股（公司总股本的10%）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtpty8125511.d.html</link>
+            <guid>3805148</guid>
+            <pubDate>Mon, 07 Oct 2024 08:56:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴以冲突持续一周年 以色列民众呼吁政府尽早结束冲突】2023年10月7日至今，新一轮巴以冲突已持续一周年。当地时间7日早间，上千名以色列民众与被扣押人员家属聚集在以色列总理内塔尼亚胡的官邸外，呼吁政府尽早解救被扣押人员和结束冲突。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5133468.d.html</link>
-            <guid>3804881</guid>
-            <pubDate>Mon, 07 Oct 2024 05:14:51 GMT</pubDate>
+            <title><![CDATA[德意志银行迪拜分行宣布中东和北非地区的组织结构调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1689672.d.html</link>
+            <guid>3805147</guid>
+            <pubDate>Mon, 07 Oct 2024 08:54:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小西天景区：国庆假期每天游客量在1万人次以上，今年中秋国庆游览过的游客年内可再次免费游览】10月7日中午，隰县小西天景区发布《致广大游客朋友的感谢信》，文中指出，随着《黑神话：悟空》游戏爆火出圈，来自全国各地“天命人”纷纷踏上赴隰之路，国庆假期每天游客量都在1万人次以上。隰县小西天景区在信中表示，为弥补广大游客国庆假期因“人从众”不得不限制停留时间而造成对悬塑绝唱匆匆一瞥的遗憾，景区郑重推出“诚意大礼包”：自即日起至年底，凡今年中秋、国庆假期来小西天游览过的朋友，可凭借购票凭证，免门票再次进入景区参观游览，尽情欣赏佛国天宫、悬塑绝唱。（澎湃新闻）]]></title>
-            <guid>3804880</guid>
-            <pubDate>Mon, 07 Oct 2024 05:14:32 GMT</pubDate>
+            <title><![CDATA[以当地时间今天（10月7日）上午，以色列中部多地拉响防空警报，以色列国防军表示，有五枚火箭弹从加沙地带南部的汗尤尼斯发射至以色列中部地区。有当地媒体报道称，有两人在袭击中受轻伤。当天，哈马斯下属武装派别“卡桑旅”宣布，使用火箭弹等袭击了以色列首都特拉维夫。（CCTV国际时讯）]]></title>
+            <guid>3805146</guid>
+            <pubDate>Mon, 07 Oct 2024 08:53:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构：“原则上不降低股票仓位！”】经过9月下旬一轮“逼空式”的暴力拉涨之后，明天（10月8日）A股市场即将揭开国庆长假后的交易大幕。综合国庆长假期间外盘市场的整体表现及投资者情绪走向，多家一线私募表示，节后A股市场料大概率迎来强势开局，展开新一轮上攻行情，当前在策略应对上会保持进攻基调。从更长时间的维度看，第四季度A股的投资机会可期。从容投资董事长吕俊表示，短时间内如果股票仓位上涨过快，该机构也会进行一定调仓，“但在原则上仍然不降低股票仓位”。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1910489.d.html</link>
-            <guid>3804879</guid>
-            <pubDate>Mon, 07 Oct 2024 05:13:49 GMT</pubDate>
+            <title><![CDATA[【鹏鼎控股：2024年9月合并营业收入同比增长5.12%】鹏鼎控股公告，公司2024年9月合并营业收入为40.12亿元，较去年同期的合并营业收入增加5.12%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4912168.d.html</link>
+            <guid>3805145</guid>
+            <pubDate>Mon, 07 Oct 2024 08:52:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度NIFTY50指数抹去涨幅，现跌0.18%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1910319.d.html</link>
-            <guid>3804878</guid>
-            <pubDate>Mon, 07 Oct 2024 05:12:29 GMT</pubDate>
+            <title><![CDATA[【1862.25万人次！上海：国庆假日全要素旅游消费交易总额269.19亿元 同比增长4.60%】记者10月7日从上海市文化和旅游局获悉，2024年国庆假日（10月1日至10月7日）期间，据上海旅游大数据监测，上海市共接待游客1862.25万人次，同比基本持平（按可比口径，以下同）；上海地区含吃、住、行、游、购、娱等全要素旅游消费交易总金额为269.19亿元，同比增长4.60%；上海市宾馆旅馆平均客房出租率为59%，同比增长7个百分点。上海市主要旅游景区（点）七天累计接待游客773万人次。（上证报）]]></title>
+            <guid>3805142</guid>
+            <pubDate>Mon, 07 Oct 2024 08:50:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[地方当局：克里米亚石油库发生火灾后，该地进入“技术”紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5133039.d.html</link>
-            <guid>3804877</guid>
-            <pubDate>Mon, 07 Oct 2024 05:11:51 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：将任命新的俄罗斯驻华盛顿大使。（谈及商人维克托·布特又回到了军火行业的消息）我们倾向于认为这是另一个假消息。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4911600.d.html</link>
+            <guid>3805141</guid>
+            <pubDate>Mon, 07 Oct 2024 08:50:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴克莱：将奈飞公司评级下调至低配，目标价550美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1909888.d.html</link>
-            <guid>3804876</guid>
-            <pubDate>Mon, 07 Oct 2024 05:09:33 GMT</pubDate>
+            <title><![CDATA[克里姆林宫：国家媒体公司VGTRK遭遇了前所未有的黑客攻击。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4911584.d.html</link>
+            <guid>3805140</guid>
+            <pubDate>Mon, 07 Oct 2024 08:50:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印尼盾连续第六天下跌】在交易员减少对美联储近期降息的押注后，印尼盾随印尼国债走低。印尼央行表示，准备干预来支持该国货币。美元/印尼盾一度上涨1.3%至15,685，为8月16日以来最高。该货币对势将连续第六天上涨，为2023年5月以来最长连涨纪录。Pepperstone策略师Quasar Elizundia表示，最近印尼盾的下跌引发了对印尼央行可能暂停降息的担忧。印尼10年期债券收益率上涨7个基点至6.72%。（环球市场播报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5132682.d.html</link>
-            <guid>3804875</guid>
-            <pubDate>Mon, 07 Oct 2024 05:09:20 GMT</pubDate>
+            <title><![CDATA[伊朗国营媒体：伊朗圣城旅副指挥官马斯杰迪表示，部队指挥官卡尼（QAANI）身体状况良好。]]></title>
+            <guid>3805139</guid>
+            <pubDate>Mon, 07 Oct 2024 08:50:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列空袭叙利亚一处目标 当地弹药库发生爆炸】当地时间6日20时15分左右，以色列空袭叙利亚哈马省一处目标。空袭导致当地弹药库发生爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8327919.d.html</link>
-            <guid>3804873</guid>
-            <pubDate>Mon, 07 Oct 2024 05:04:50 GMT</pubDate>
+            <title><![CDATA[金地：9月合约销售额人民币17.4亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1688437.d.html</link>
+            <guid>3805138</guid>
+            <pubDate>Mon, 07 Oct 2024 08:49:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行地区报告：日本各地区经济温和复苏、回升或温和回升；许多地区表示服务消费依然坚挺；多个地区表示，由于全球IT需求反弹，产量增加，汽车相关产量也处于较高水平；许多地区的企业表示，由于结构性劳动力短缺，他们必须继续提高工资。]]></title>
-            <guid>3804872</guid>
-            <pubDate>Mon, 07 Oct 2024 05:04:19 GMT</pubDate>
+            <title><![CDATA[【订单增长132% 苏宁易购以旧换新带热家电消费】 国庆消费旺季叠加“国补”政策全面开展，家电消费市场热潮涌动。数据显示，十一期间苏宁易购全国门店客流同比增长超200%，以旧换新订单增长132%。家电大件功能升级持续加速，立柜式空调、超薄油烟机、嵌入式冰箱销售规模同比增长85%、113%、271%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1688351.d.html</link>
+            <guid>3805137</guid>
+            <pubDate>Mon, 07 Oct 2024 08:49:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本央行在季度报告中上调了对日本9个地区中2个地区的评估，维持对7个地区的评估不变。]]></title>
-            <guid>3804871</guid>
-            <pubDate>Mon, 07 Oct 2024 05:03:08 GMT</pubDate>
+            <title><![CDATA[【锦泓集团：拟定增募资不超过2亿元】锦泓集团公告，公司拟向控股股东、实际控制人王致勤、宋艳俊发行不超过3696.86万股A股股票，募集资金总额不超过2亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptx1345968.d.html</link>
+            <guid>3805136</guid>
+            <pubDate>Mon, 07 Oct 2024 08:49:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中银航空租赁与联合航空签署4架波音飞机租赁协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5131650.d.html</link>
-            <guid>3804870</guid>
-            <pubDate>Mon, 07 Oct 2024 05:02:25 GMT</pubDate>
+            <title><![CDATA[德国总理朔尔茨：必须防止中东地区的全面冲突，亟需实现“两国解决方案”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4910989.d.html</link>
+            <guid>3805133</guid>
+            <pubDate>Mon, 07 Oct 2024 08:48:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【券商IT再扩容 重要指标要达到历史峰值三倍以上】10月8日A股开市，交易端有望迎来久违的工作高峰，目前券商持续加强网络和信息系统安全保障工作。记者最新获悉，在国庆假期期间，有部分券商在节前已经扩容的基础上，再度扩容部分系统，确保系统性能容量充分，此外及时进行系统升级。在监管前期指导下，部分券商从战略角度已经准备预案，若发生突发网络安全事件，将立即采取有效措施，妥善做好技术恢复、业务引导、投资者安抚等工作。从近期监管要求来看，券商应结合业务变化情况，加大信息系统压力测试力度，重要信息系统的订单吞吐速率、成交峰值吞吐速率等指标应当在历史峰值的三倍以上，交易时段相关网络带宽应当是近一年使用峰值的两倍以上。记者从业内反馈情况来看，券商将强化对市场交易量的分析研判，保障重要信息系统具有充足的性能容量，防范业务高峰期对IT系统安全运行可能造成的冲击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1550055.d.html</link>
-            <guid>3804869</guid>
-            <pubDate>Mon, 07 Oct 2024 05:01:33 GMT</pubDate>
+            <title><![CDATA[石药集团：有资格获得与商业化里程碑和特许权使用费相关的高达19.2亿美元的付款。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4910964.d.html</link>
+            <guid>3805132</guid>
+            <pubDate>Mon, 07 Oct 2024 08:48:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相石破茂：将继续推进政策以确保结束通缩。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5131409.d.html</link>
-            <guid>3804867</guid>
-            <pubDate>Mon, 07 Oct 2024 05:00:55 GMT</pubDate>
+            <title><![CDATA[俄罗斯法院判处美国公民哈伯德六年十个月监禁。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptt4910802.d.html</link>
+            <guid>3805131</guid>
+            <pubDate>Mon, 07 Oct 2024 08:47:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[日本首相石破茂：目前没有计划修改政府与日本央行之间的联合声明。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5131200.d.html</link>
-            <guid>3804866</guid>
-            <pubDate>Mon, 07 Oct 2024 04:59:35 GMT</pubDate>
+            <title><![CDATA[市场消息：医护人员说，以色列中部有两人被哈马斯的火箭弹击中，受轻伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtptv1687933.d.html</link>
+            <guid>3805130</guid>
+            <pubDate>Mon, 07 Oct 2024 08:47:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【从10月1日起成都各区域楼盘均人气爆棚 来访量和成交量均较国庆前大幅增长】“国庆前就有所准备，但没想到这么多人。”10月6日，成都市招商中旅中环臻邸的置业顾问胡西兴奋不已，连续几天高强度工作，让她几乎说不出话来。 从10月1日起，成都各区域楼盘均人气爆棚，来访量和成交量均较国庆前大幅增长。10月4日，贝壳发布“战报”，国庆假期通过该平台已成交新房300单。记者走访发现，成都国庆假期出现的这波购房热潮，除政策的利好外，还有开发商“以价换量”，推出国庆特惠、清盘特惠后带来的成交。据不完全统计，国庆假期，成都二圈层内70余个在售楼盘纷纷推出特价房源，力度空前。（四川日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8326406.d.html</link>
-            <guid>3804863</guid>
-            <pubDate>Mon, 07 Oct 2024 04:55:38 GMT</pubDate>
+            <title><![CDATA[【百傲化学：全资子公司拟7亿元增资并控股芯慧联】百傲化学公告，公司全资子公司芯傲华拟以7亿元增资苏州芯慧联半导体科技有限公司（简称“芯慧联”），增资后直接持有其46.6667%股权，并通过接受表决权委托方式合计控制其54.6342%股权的表决权。本次交易完成后，芯慧联将成为芯傲华控股子公司，并纳入公司合并报表范围。芯慧联主营涂胶显影机、光刻机等黄光制程设备。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8252922.d.html</link>
+            <guid>3805127</guid>
+            <pubDate>Mon, 07 Oct 2024 08:45:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【四川：国庆假期6天全省A级景区接待游客超3500万人次，门票收入超3.8亿元】10月6日，国庆假期第6天，四川全省文旅市场热度持续，据四川省文化和旅游产业领导小组办公室数据统计，截至10月6日15时，全省纳入统计的890家A级旅游景区接待游客545.67万人次、门票收入5564.42万元；假期前6天，890家A级景区已累计接待游客3546.67万人次、门票收入38436.59万元，与去年国庆假期前6天累计相比分别增长14.85%，8.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5130397.d.html</link>
-            <guid>3804862</guid>
-            <pubDate>Mon, 07 Oct 2024 04:52:33 GMT</pubDate>
+            <title><![CDATA[泰国官员：预计到2025年将迎来4000万外国游客。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5041165.d.html</link>
+            <guid>3805125</guid>
+            <pubDate>Mon, 07 Oct 2024 08:45:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[大和证券将海伦司评级上调至买进。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5130217.d.html</link>
-            <guid>3804861</guid>
-            <pubDate>Mon, 07 Oct 2024 04:51:18 GMT</pubDate>
+            <title><![CDATA[【同程旅行“十一”假期数据：县域旅游增长迅速 近百个县城酒店预订热度上涨超50%】同程旅行发布的报告显示，2024年“十一”假期国内旅行消费市场持续增长，二三线及以下城市居民出游消费增长迅速。平台上，三线及以下城市用车预订热度增长超过50%；县城文旅成假期消费亮点，全国近百个县城酒店预订热度同比上涨超过50%。此外，东北和西部地区长线旅游目的地旅游热度增长迅速。在假期国内酒店预订涨幅榜前十名中，西部省市占据七席。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1474512.d.html</link>
+            <guid>3805121</guid>
+            <pubDate>Mon, 07 Oct 2024 08:42:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[贝伦伯格甲骨文公司将目标价从130美元上调至146美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1907288.d.html</link>
-            <guid>3804860</guid>
-            <pubDate>Mon, 07 Oct 2024 04:50:48 GMT</pubDate>
+            <title><![CDATA[【保利置业：9月份合同销售额34亿元人民币】保利置业集团(00119.HK)：2024年9月，置业集团实现合同销售金额约人民币34亿元，合同销售面积约14.9万平方米，合同销售均价约人民币22,991元/平方米。截至2024年9月，置业集团累计实现合同销售金额约人民币402亿元。累计合同销售面积约158.6万平方米，合同销售均价约人民币25,376元/平方米。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5040007.d.html</link>
+            <guid>3805119</guid>
+            <pubDate>Mon, 07 Oct 2024 08:41:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【汕头站刷新单日旅客发送纪录】从汕头火车站获悉，10月6日，汕头站迎来返程客流高峰，预计发送旅客超4.3万人次，同比增长26.5%，单日旅客发送量再创历史新高。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8325564.d.html</link>
-            <guid>3804859</guid>
-            <pubDate>Mon, 07 Oct 2024 04:49:56 GMT</pubDate>
+            <title><![CDATA[【汉缆股份：中标约13.4亿元海外重大经营合同】汉缆股份公告，公司近日收到中国国际水利电力新加坡公司中标通知书，在新加坡能源公司(SPPG)NDC357标(路径A1&B)和NDC373标(路径D)400KV电缆和接头主系统供货及服务项目中中标。经估算，本次公司中标总金额约13.4亿元，约占公司2023年度经审计的营业收入的13.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5039882.d.html</link>
+            <guid>3805118</guid>
+            <pubDate>Mon, 07 Oct 2024 08:40:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【云南铁路迎来国庆假期返程高峰，今日预计发送旅客50万人次】从中国铁路昆明局集团有限公司获悉，随着国庆假期进入尾声，云南铁路迎来了国庆假期的返程高峰，10月7日预计发送旅客50万人次。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1906927.d.html</link>
-            <guid>3804858</guid>
-            <pubDate>Mon, 07 Oct 2024 04:47:56 GMT</pubDate>
+            <title><![CDATA[【中远海控：预计第三季度净利润同比增长约285.66%】中远海控公告称，预计2024年前三季度实现归属于上市公司股东的净利润约为人民币381.21亿元，与上年同期相比增加约72.72%。预计2024年第三季度实现归属于上市公司股东的净利润约为人民币212.51亿元，与上年同期相比增加约285.66%。业绩预增的主要原因是主要市场货量温和增长，运力供给受红海局势持续影响，全球供应链总体呈现紧张态势，公司集装箱航运业务实现量价齐升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5039720.d.html</link>
+            <guid>3805117</guid>
+            <pubDate>Mon, 07 Oct 2024 08:39:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外媒爆：伊朗伊斯兰革命卫队“圣城旅”指挥官加尼在黎巴嫩失联】 据路透社6日报道，两名伊朗高级安全官员透露，伊朗伊斯兰革命卫队下属“圣城旅”指挥官伊斯梅尔·加尼在黎巴嫩真主党领导人纳斯鲁拉遇袭身亡后前往黎巴嫩，自近期黎首都贝鲁特遭空袭以来，加尼一直处于失联状态。（环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1906791.d.html</link>
-            <guid>3804857</guid>
-            <pubDate>Mon, 07 Oct 2024 04:46:36 GMT</pubDate>
+            <title><![CDATA[华兴证券：将金山办公评级上调至买进。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1816844.d.html</link>
+            <guid>3805116</guid>
+            <pubDate>Mon, 07 Oct 2024 08:39:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京：“十一”新能源汽车市场红红火火 大部分门店客流量相比普通周末提升20%至50%】连日来，记者走访五棵松华熙Live、朝阳合生汇、蓝色港湾、长楹天街等新能源汽车直营店聚集的商业综合体看到，大批消费者到店看车，大部分门店客流量相比普通周末提升20%至50%。“最近的补贴置换新政让消费者换购热情高涨，长假前5天，店里前来咨询看车、预约试驾的客流量相较普通周末增加了50%左右。”蔚来中心华熙Live店店长表示。（北京日报）]]></title>
-            <guid>3804855</guid>
-            <pubDate>Mon, 07 Oct 2024 04:45:24 GMT</pubDate>
+            <title><![CDATA[加沙卫生部门：以色列对加沙的军事攻势累计造成41,909名巴勒斯坦人遇难，97,303人受伤。]]></title>
+            <guid>3805115</guid>
+            <pubDate>Mon, 07 Oct 2024 08:39:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通将蓝威斯顿评级下调至中性，目标价68美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5129002.d.html</link>
-            <guid>3804854</guid>
-            <pubDate>Mon, 07 Oct 2024 04:42:24 GMT</pubDate>
+            <title><![CDATA[【今年以来我国新开工37项重大水利工程】今年以来我国全力推动水利基础设施建设，新开工黄河古贤水利枢纽工程等37项重大水利工程。水利部水利工程建设司司长尚全民表示，今年以来新开工的37项重大水利工程，涵盖了防洪工程、供水工程、灌区工程和生态保护修复工程等，投资规模超过2200亿元，对保障防洪安全、供水安全、粮食安全、生态安全有重要作用。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1816465.d.html</link>
+            <guid>3805114</guid>
+            <pubDate>Mon, 07 Oct 2024 08:37:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼当选总统普拉博沃顾问：债务与国内生产总值之比可能每年逐渐上升1-2%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1546585.d.html</link>
-            <guid>3804853</guid>
-            <pubDate>Mon, 07 Oct 2024 04:39:21 GMT</pubDate>
+            <title><![CDATA[【中国自主研制的又一国之重器点火成功】今天（10月7日），由中国联合重型燃气轮机技术有限公司研制的300兆瓦级F级重型燃气轮机在上海首次点火成功，标志着我国自主研制的最大功率、最高技术等级重型燃气轮机研制取得重要进展，全面进入整机试验验证阶段。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5039250.d.html</link>
+            <guid>3805113</guid>
+            <pubDate>Mon, 07 Oct 2024 08:37:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【债券交易员做好经济“不着陆”的准备 美国非农数据意外强劲】 债券市场近几个月来已基本不再论及“不着陆”的情景(即美国经济持续增长、通胀重新抬头、美联储几乎没有降息空间的情况)。但美国井喷式的就业报告让这个话题死灰复燃。该报告显示六个月来最快的就业增长、美国失业率惊人下降和工资上涨，美国国债随之飙升，原本押注最早下个月降息超过正常的半个百分点，如今投资者疯狂改弦易辙。为了应对经济增长放缓、良性通胀和大幅降息，一些交易员原本买入对美联储利率敏感的短期美国票据。然而周五的报告再次引发了经济过热的疑虑，破坏了美债的涨势(2年期美债收益率跌至多年低点)。DWS美洲固定收益主管George Catrambone表示，可能发生的情况是，美联储要么不再降息，要么发现自己不得不再次加息。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5128330.d.html</link>
-            <guid>3804852</guid>
-            <pubDate>Mon, 07 Oct 2024 04:38:01 GMT</pubDate>
+            <title><![CDATA[【倍杰特：联合体中标10.74亿元供水保障能力提升工程及污水处理厂建设项目】倍杰特公告，公司与中建新疆建工组成的联合体中标喀什地区喀什市城北供水保障能力提升工程及污水处理厂建设项目，中标金额为10.74亿元，占公司2023年度经审计营业收入的164.45%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1815865.d.html</link>
+            <guid>3805112</guid>
+            <pubDate>Mon, 07 Oct 2024 08:35:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【花旗任命Stewart为亚太股票交易主管 将调往香港】花旗集团已晋升Robert Stewart担任亚太股票交易主管，接替今年稍早离职并加入一家对冲基金公司的Arnaud Leteissier。根据一份由全球股票主管Fater Belbachir发送的内部备忘录，Stewart将从新加坡调往香港，负责监督一些亚洲国家的股票交易业务，包括日本、北亚、澳洲和南亚。花旗发言人证实了该备忘录的内容。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5128127.d.html</link>
-            <guid>3804851</guid>
-            <pubDate>Mon, 07 Oct 2024 04:36:37 GMT</pubDate>
+            <title><![CDATA[【受设备故障影响 京广高铁部分列车晚点】记者从国铁集团了解到，10月7日13时22分许，因受汨罗东—株洲西间设备故障影响，途经该区间部分列车出现不同程度晚点，铁路部门第一时间启动应急预案，目前故障已经排除。晚点列车正在陆续恢复当中。旅客可以通过官方渠道了解晚点列车信息。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1815831.d.html</link>
+            <guid>3805111</guid>
+            <pubDate>Mon, 07 Oct 2024 08:35:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【研究：植入细菌的真菌为了解复杂生命起源提供线索】英国《自然》杂志刊登的一项新研究显示，科研人员使用一根微小的空心针和一个自行车打气筒，成功将细菌植入一个真菌中，创造了一种类似于引发复杂生命进化的关系。这项研究有助了解10亿多年前产生特殊细胞器——线粒体和叶绿体的配对起源。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8322730.d.html</link>
-            <guid>3804847</guid>
-            <pubDate>Mon, 07 Oct 2024 04:33:21 GMT</pubDate>
+            <title><![CDATA[【以国防军：在黎边境行动中1名以军军官身亡】以色列国防军当地时间7日发表声明称，在黎巴嫩边境的军事行动中，1名以军军官身亡，另有2名士兵重伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1815775.d.html</link>
+            <guid>3805110</guid>
+            <pubDate>Mon, 07 Oct 2024 08:35:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【3名未成年人被控涉嫌谋划在德国发动恐袭】德国媒体6日报道，德国检方指控3名未成年人，涉嫌策划在德国发动恐怖袭击。德新社援引司法部门消息报道，3名嫌疑人为两名女性和一名男性，年龄十五六岁，今年4月被逮捕，羁押至今。法官近日下令，他们必须继续接受羁押。]]></title>
-            <guid>3804846</guid>
-            <pubDate>Mon, 07 Oct 2024 04:32:56 GMT</pubDate>
+            <title><![CDATA[【运机集团：拟控股山东欧瑞安电气有限公司】运机集团公告，公司与力博重工科技股份有限公司、丁冉、洗海涛、邱瑾、宁波淼森瑞达投资管理有限公司签订了《收购意向协议》，公司拟通过现金或其他方式购买山东欧瑞安电气有限公司部分股权，并达到控股标的公司的目的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8248873.d.html</link>
+            <guid>3805108</guid>
+            <pubDate>Mon, 07 Oct 2024 08:33:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据灯塔专业版实时数据，截至10月7日12时28分，影片《熊猫计划》票房突破2亿。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8322073.d.html</link>
-            <guid>3804845</guid>
-            <pubDate>Mon, 07 Oct 2024 04:29:24 GMT</pubDate>
+            <title><![CDATA[【恒盛能源：实际控制人及其一致行动人承诺6个月内不减持公司股份】恒盛能源公告，公司实际控制人余国旭及其一致行动人杜顺仙、余恒、余杜康基于对公司未来发展前景的信心以及对公司价值的认可，自愿承诺自2024年10月8日起的6个月内不以任何方式主动减持其持有的公司股份。实际控制人及其一致行动人直接持有公司无限售条件股份2.08亿股，占公司总股本的74.28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1815216.d.html</link>
+            <guid>3805107</guid>
+            <pubDate>Mon, 07 Oct 2024 08:33:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【对冲基金买进日元 先前才出现15年来最大下跌】日本新首相的偏鸽言论和强劲的美国就业报告，引发日元出现自2009年底以来最糟糕的一周，但对冲基金反而转为看涨日元。美国商品期货交易委员会(CFTC)截至10月1日当周的数据指出，投机投资者转向日元净多头寸，这是自8月中旬以来首次。对冲基金买进之前，首相石破茂才表示，日本还没有准备好进一步升息。野村证券外汇策略主管Yujiro Goto现在表示，一些对冲基金上周早些时候建仓日元多头，预计石破茂将采取更强硬的立场。美国就业数据的意外强劲，增加了美元兑日元汇率近期测试150水平的可能性。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5126896.d.html</link>
-            <guid>3804844</guid>
-            <pubDate>Mon, 07 Oct 2024 04:29:15 GMT</pubDate>
+            <title><![CDATA[【俄联邦安全局再度起诉非法入境库尔斯克州的外国记者】当地时间10月7日，俄罗斯联邦安全局对非法入境库尔斯克州的瑞士SN Media记者库尔特·佩尔达和法兰西24电视台记者凯瑟琳·诺里斯·特伦特提起刑事诉讼。据悉，自8月17日以来，共有14名外国记者因非法入境库尔斯克州被起诉。根据俄罗斯联邦刑法典，他们将最高面临五年监禁。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8248717.d.html</link>
+            <guid>3805106</guid>
+            <pubDate>Mon, 07 Oct 2024 08:32:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印尼货币管理执行董事EDI SUSIANTO表示，印尼央行准备在卢比暴跌后进行干预。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5126569.d.html</link>
-            <guid>3804842</guid>
-            <pubDate>Mon, 07 Oct 2024 04:26:56 GMT</pubDate>
+            <title><![CDATA[【哈马斯下属武装称用火箭弹袭击特拉维夫】以色列中部多地当地时间今天（10月7日）上午拉响防空警报，以色列国防军方面表示，监测到有空中目标从加沙地带发射至相关区域，但以军没有透露更多信息。有当地媒体报道称，两人在火箭弹袭击中受轻伤。几乎同一时间，哈马斯下属武装派别“卡桑旅”宣布，使用火箭弹等袭击了以色列首都特拉维夫。（CCTV国际时讯）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1814984.d.html</link>
+            <guid>3805105</guid>
+            <pubDate>Mon, 07 Oct 2024 08:32:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军防空系统未能拦截全部火箭弹 致数人受伤】 以色列国防军当地时间6日晚发表声明称，发现约5枚发射物从黎巴嫩进入以色列境内。声明提到，以军发射了拦截弹，并发现了坠落的发射物。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcec1543501.d.html</link>
-            <guid>3804838</guid>
-            <pubDate>Mon, 07 Oct 2024 04:21:00 GMT</pubDate>
+            <title><![CDATA[【携程客服回应订酒店比同程贵】携程客服回应订酒店比同程贵称，“无论是我司还有其他平台展示的价格都是根据当天酒店最优惠的房间展示的。目前提供的图片无法核实具体的日期跟房型，还有是否入住条件相同，无法进行核实。”那么，该酒店当前通过携程和同程预定的价格有区别吗？携程客服查询了10.18-10.19入住的价格，以舒适高级房为例，同样包含双早的情况下，携程平台的价格为682元，同程平台的价格则为624元。该客服同时表示，“确实核实到有的房型的价格我们平台是贵一些的，因为优惠的政策不同，有的房型我们平台也是比同程优惠的。如果您通过携程定订单，核实其他平台的价格我司更贵，我们会承担差价损失。”（东方财经）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8248257.d.html</link>
+            <guid>3805104</guid>
+            <pubDate>Mon, 07 Oct 2024 08:31:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国财政部与菲律宾签署谅解备忘录，开发价值20亿美元的基础设施。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8320578.d.html</link>
-            <guid>3804837</guid>
-            <pubDate>Mon, 07 Oct 2024 04:20:17 GMT</pubDate>
+            <title><![CDATA[中国香港9月外汇储备 4228亿美元，前值由4234亿美元修正为4235亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5037352.d.html</link>
+            <guid>3805103</guid>
+            <pubDate>Mon, 07 Oct 2024 08:31:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【红海局势紧张 今年以来埃及苏伊士运河收入下降60%】当地时间10月6日，埃及苏伊士运河管理局发表声明称，自2024年初以来，埃及苏伊士运河收入同比下降60%，过境船只数量同比减少49%。苏伊士运河管理局主席拉比耶在声明中表示，红海地区当前局势紧张，面临前所未有的挑战，迫使船运公司寻求远离苏伊士运河的替代航线。苏伊士运河管理局一直与国际海事机构及航运公司讨论当前危机，并提出应对方案，以减少对全球贸易的影响。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1902504.d.html</link>
-            <guid>3804836</guid>
-            <pubDate>Mon, 07 Oct 2024 04:19:35 GMT</pubDate>
+            <title><![CDATA[乌克兰总理：将召开会议讨论基础设施合作、能源安全以及对乌克兰和平计划的支持。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5037317.d.html</link>
+            <guid>3805102</guid>
+            <pubDate>Mon, 07 Oct 2024 08:31:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【澳门博彩股上涨 永利度假村获得阿联酋博彩牌照】澳门博彩股上涨，永利度假村宣布阿联酋博彩监管机构向其颁发了该国首张商业博彩运营商牌照。该项目是该地区旅游业的一个重要里程碑，因为各赌场运营商长期以来一直寻求在此建立度假村，以吸引欧洲、亚洲和其他市场游客。美高梅国际酒店上个月表示，已为其在阿布扎比建设的一处物业申请博彩牌照。永利澳门股价早盘一度大涨9.7%；新濠国际发展一度涨9.7%；金沙中国涨6.6%；澳博控股涨5.6%；美高梅中国涨2.0%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5125230.d.html</link>
-            <guid>3804835</guid>
-            <pubDate>Mon, 07 Oct 2024 04:19:14 GMT</pubDate>
+            <title><![CDATA[欧元区10月Sentix投资者信心指数 -13.8，预期-15.9，前值-15.4。]]></title>
+            <guid>3805101</guid>
+            <pubDate>Mon, 07 Oct 2024 08:30:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【极氪7X大定破2万台，首月交付将超1万台】极氪7X的大定订单已突破2万台，预计首月交付量将超过1万台。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccx5125171.d.html</link>
-            <guid>3804834</guid>
-            <pubDate>Mon, 07 Oct 2024 04:18:57 GMT</pubDate>
+            <title><![CDATA[【*ST金科：实控人之一致行动人拟增持不低于5000万股公司股份】*ST金科(000656)10月7日晚间公告，公司实际控制人黄红云、控股股东重庆市金科投资控股（集团）有限责任公司（简称“金科控股”）与东方银原（北京）材料有限公司（简称“东方银原”）于近日分别签署《一致行动协议》及《补充协议》。东方银原同意自《一致行动协议》签署之日起6个月内，以不超过1.5元/股的价格通过集中竞价方式增持公司股票不低于5000万股。截至公告披露日，东方银原已通过二级市场以集中竞价交易方式增持公司股份41.82万股。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8247582.d.html</link>
+            <guid>3805100</guid>
+            <pubDate>Mon, 07 Oct 2024 08:29:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[苏格兰皇家银行将洛克希德·马丁目标价从600美元上调至675美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1902180.d.html</link>
-            <guid>3804833</guid>
-            <pubDate>Mon, 07 Oct 2024 04:17:33 GMT</pubDate>
+            <title><![CDATA[【印度西孟加拉邦一煤矿发生爆炸 至少7人死亡】据总台记者消息，当地时间17日，印度西孟加拉邦一处煤矿发生爆炸，造成至少7人死亡，另有数人受伤。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1813941.d.html</link>
+            <guid>3805099</guid>
+            <pubDate>Mon, 07 Oct 2024 08:28:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【卡德罗夫发帖为普京送生日祝福：深切感激俄总统帮助实现车臣和平与稳定】 10月7日是俄罗斯总统普京72岁的生日。据俄新社等媒体报道，俄罗斯车臣共和国领导人卡德罗夫当天在社交平台Telegram上发帖，为普京送上生日祝福，并感激其为该地区实现和平与稳定提供帮助。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtcee8319940.d.html</link>
-            <guid>3804832</guid>
-            <pubDate>Mon, 07 Oct 2024 04:16:08 GMT</pubDate>
+            <title><![CDATA[【北方铜业：拟1.13亿元收购中条山集团持有的机电公司100%股权】北方铜业公告，公司拟以现金收购中条山集团持有的山西中条山机电设备有限公司100%股权，交易作价为1.13亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5036681.d.html</link>
+            <guid>3805098</guid>
+            <pubDate>Mon, 07 Oct 2024 08:28:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【消息人士：伊朗对以色列反应计划已“完全准备好”】据伊朗新闻电视台10月6日报道，伊朗武装部队一名知情人士透露，伊朗伊斯兰共和国应对以色列可能对该国发动袭击的计划已经“充分准备好”，并将在发生侵略时“果断”实施。  伊朗塔斯尼姆通讯社6日援引这名匿名消息人士的话报道称，伊朗在以色列占领的领土上有一个“各类目标库”，伊朗的报复范围取决于以色列行动的性质。 （参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtccz1901639.d.html</link>
-            <guid>3804831</guid>
-            <pubDate>Mon, 07 Oct 2024 04:15:45 GMT</pubDate>
+            <title><![CDATA[【华安鑫创：获得三一重卡的项目定点通知】 华安鑫创公告，于近日收到三一重卡的项目定点通知，确认公司获得其商用重卡共用平台的两款显示屏总成产品开发，公司将严格按照该客户的要求完成开发工作，项目预计将于2025年开始批量供货。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1469852.d.html</link>
+            <guid>3805097</guid>
+            <pubDate>Mon, 07 Oct 2024 08:27:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军称对加沙地带哈马斯基地实施打击】当地时间7日上午，以色列国防军表示，在加沙地带附近几个地区拉响防空警报后，以军发现四枚火箭弹从加沙南部射向以境内，其中三枚火箭弹被防空系统拦截，第四枚火箭弹击中一片开阔区域。在火箭弹发射前不久，以色列国防军表示，他们正在对加沙的哈马斯基地和发射装置进行打击。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwf1673160.d.html</link>
-            <guid>3804830</guid>
-            <pubDate>Mon, 07 Oct 2024 04:13:50 GMT</pubDate>
+            <title><![CDATA[【海底捞：国庆假期前六天全国门店接待顾客超千万人次】 10月7日，海底捞发布数据显示，2024年国庆假期前六天（10月1日-6日），海底捞全国超1300家门店共计接待顾客超1000万人次。其中，10月1日当天全国海底捞火锅门店共计接待顾客超190万人次，同比增长超5%。北京、西安、上海等重点旅游城市的海底捞火锅接待量均刷新年内最高单日数据，部分门店迎来历史最高单日客流。此外，国庆期间全国海底捞外送订单量环比节前销量增长超60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1469255.d.html</link>
+            <guid>3805095</guid>
+            <pubDate>Mon, 07 Oct 2024 08:26:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年以来埃及苏伊士运河收入下降60%】 埃及苏伊士运河管理局6日发布声明说，自2024年初以来，埃及苏伊士运河收入同比下降60%，过境船只数量同比减少49%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwh8450115.d.html</link>
-            <guid>3804829</guid>
-            <pubDate>Mon, 07 Oct 2024 04:12:20 GMT</pubDate>
+            <title><![CDATA[【五粮液：聘任华涛为公司总经理，蒋文格因身体原因辞任】五粮液今日（10月7日）发布公告，根据宜宾市人民政府宜府人〔2024〕61号文件精神，经董事会提名委员会提名，公司董事会聘任华涛为公司总经理，其任期与其他高级管理人员一致。蒋文格不再担任公司总经理职务。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5035900.d.html</link>
+            <guid>3805093</guid>
+            <pubDate>Mon, 07 Oct 2024 08:23:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【运营64航次 首艘国产大型邮轮载客人数突破25万】今天（10月7日），记者从中国船舶集团获悉，首艘国产大型邮轮“爱达·魔都号”自今年元旦首航以来，已完成64个航次的服务，载客人数突破25万。据介绍， “爱达·魔都号”与“爱达·地中海号”邮轮将于明年开启双船六母港全年运营季，为国内外宾客带来近170条国际邮轮航线，以满足消费者多元化的出行需求。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwf1672857.d.html</link>
-            <guid>3804828</guid>
-            <pubDate>Mon, 07 Oct 2024 04:11:59 GMT</pubDate>
+            <title><![CDATA[海南省气象台2024年10月07日16时17分发布海上雷雨大风黄色预警信号：本岛南部海面16时18分到20时可能出现雷雨大风天气，风力达7～9级并伴有强雷电，建议有关单位和人员做好防范工作。]]></title>
+            <guid>3805091</guid>
+            <pubDate>Mon, 07 Oct 2024 08:23:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【2024年10月总票房破20亿】 据猫眼专业版数据，10月7日12时08分，2024年10月总票房破20亿，《志愿军：存亡之战》《749局》《浴火之路》分列10月票房榜前三位。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswvz5254576.d.html</link>
-            <guid>3804827</guid>
-            <pubDate>Mon, 07 Oct 2024 04:11:04 GMT</pubDate>
+            <title><![CDATA[乌克兰空军表示，一枚俄罗斯“金扎尔”导弹击中了斯塔洛科斯坦提尼夫机场。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5035371.d.html</link>
+            <guid>3805090</guid>
+            <pubDate>Mon, 07 Oct 2024 08:21:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[泰国债券市场集团：调查显示泰国央行12月将基准利率下调25个基点至2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwc2031679.d.html</link>
-            <guid>3804826</guid>
-            <pubDate>Mon, 07 Oct 2024 04:10:45 GMT</pubDate>
+            <title><![CDATA[消息人士称，印度中央银行要求私营国有银行避免对卢比进行激进押注。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8244607.d.html</link>
+            <guid>3805088</guid>
+            <pubDate>Mon, 07 Oct 2024 08:20:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【赣锋锂业获摩根大通增持213.35万股】 根据联交所最新权益披露资料显示，9月30日，赣锋锂业获摩根大通以每股均价22.3316港元增持好仓213.35万股，涉资约4764.4万港元。增持后，摩根大通最新持好仓数目为49,019,869股，持好仓比例由11.61%上升至12.14%。]]></title>
-            <guid>3804825</guid>
-            <pubDate>Mon, 07 Oct 2024 04:06:28 GMT</pubDate>
+            <title><![CDATA[【帝尔激光：与光伏龙头企业签署12.29亿元采购合同】帝尔激光公告，公司及下属子公司与光伏龙头企业及其同一控制下主体签署《采购合同》，合同金额合计为12.29亿元（不含税），占公司2023年度经审计主营业务收入的76.36%。合同标的为“激光设备及改造”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8244554.d.html</link>
+            <guid>3805087</guid>
+            <pubDate>Mon, 07 Oct 2024 08:19:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【极氪：极氪7X大定破2万台 首月交付将超1万台】 极氪7X的大定订单已突破2万台，预计首月交付量将超过1万台。此前，极氪7X上市24小时（截至9月21日）大定锁单即突破6千台；新车上市第二天即开启全国百城千人交付，10天交付超5千台，实现引领行业的交付效率和体系能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwh8448269.d.html</link>
-            <guid>3804824</guid>
-            <pubDate>Mon, 07 Oct 2024 04:02:52 GMT</pubDate>
+            <title><![CDATA[以色列中部特拉维夫等地7日上午响起防空警报。以军发表声明说，警报响起的原因为加沙地带有发射物来袭。（新华社）]]></title>
+            <guid>3805086</guid>
+            <pubDate>Mon, 07 Oct 2024 08:19:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏宁易购十一消费洞察：“新质家电”激活以旧换新】十一期间，苏宁易购全面承接家电“国补”政策，抢抓金秋国庆消费旺季。全国门店客流同比提升超200%，以旧换新订单同比增长132%。融合新功能、新场景、新体验的“新质家电”受到市场热宠，科沃斯扫地机销售同比增长171%，方太洗碗机、海尔洗干一体机销售同比增长162%、87%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwc2029596.d.html</link>
-            <guid>3804822</guid>
-            <pubDate>Mon, 07 Oct 2024 03:59:35 GMT</pubDate>
+            <title><![CDATA[【永福股份：中标伊拉克幼发拉底燃机单改联项目设计服务】 永福股份公告，于2024年9月29日收到伊拉克幼发拉底燃机单改联项目设计服务的《中标通知书》，公司为本项目中标人，中标金额为人民币4,566万元（含税）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1811904.d.html</link>
+            <guid>3805085</guid>
+            <pubDate>Mon, 07 Oct 2024 08:18:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【取消限购 海南澄迈发布楼市新政】海南澄迈县发布关于进一步优化房地产市场平稳健康发展政策措施的通知。通知提到，海南澄迈县将大力支持住房消费，取消商品住房限购政策，购买商品住房(含新建商品住房和二手住房)，无需审核购房人资格。取消商品住房(含新建商品住房和二手住房)转让限制年限规定(有限制产权转让的除外)，自取得不动产权证(房屋所有权证)之日起即可转让。本通知自2024年10月7日起正式实施，原有政策与本通知不一致的，按本通知执行。（澄迈县住房和城乡建设局）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrswwh8446565.d.html</link>
-            <guid>3804819</guid>
-            <pubDate>Mon, 07 Oct 2024 03:53:17 GMT</pubDate>
+            <title><![CDATA[【华东重机：完成对锐信图芯股权收购及增资的工商变更登记】华东重机公告，公司已完成对厦门锐信图芯科技有限公司（锐信图芯）部分股权的收购及增资的工商变更登记手续。公司持有锐信图芯 43.18%股权，公司为锐信图芯的单一最大股东。根据同步完成工商备案的《厦门锐信图芯科技有限公司章程》的相关条款，锐信图芯股东会审议事项须得到公司同意后实施；公司在锐信图芯董事会席位占三分之二，已完成董事选任并工商备案，能够决定董事会决议事项；公司向锐信图芯委派财务总监及风控总监，将在锐信图芯日常经营过程中的关键环节实施审批决策及风险管控。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5034703.d.html</link>
+            <guid>3805084</guid>
+            <pubDate>Mon, 07 Oct 2024 08:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：哈马斯称其向特拉维夫发射了M90火箭弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8244028.d.html</link>
+            <guid>3805083</guid>
+            <pubDate>Mon, 07 Oct 2024 08:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【*ST围海：中标4.18亿元余姚市下姚江堤防整治工程施工项目】*ST围海公告，公司近日收到《中标通知书》，成为余姚市下姚江堤防整治工程施工项目的中标单位，项目中标金额为4.18亿元。本次中标金额占公司2023年经审计净资产的13.60%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimx1811796.d.html</link>
+            <guid>3805082</guid>
+            <pubDate>Mon, 07 Oct 2024 08:17:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：乌克兰方面表示已击落32架俄罗斯发射的无人机和2枚导弹。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1466360.d.html</link>
+            <guid>3805081</guid>
+            <pubDate>Mon, 07 Oct 2024 08:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运通股价盘前下跌1.08%，此前摩根大通将公司评级从增持下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1466353.d.html</link>
+            <guid>3805080</guid>
+            <pubDate>Mon, 07 Oct 2024 08:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国运通盘前下跌1.08%，摩根大通此前将其评级从增持下调至中性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8243272.d.html</link>
+            <guid>3805078</guid>
+            <pubDate>Mon, 07 Oct 2024 08:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阜阳市颍州区：环卫工人、快递员、外卖员、保安等购买新房，全额补助契税】根据阜阳发布近日消息，安徽省阜阳市颍州区出台购房政策优化措施实施细则。细则明确，对于在颍州区范围内于2024年8月6日-2025年8月5日(含)期间购买新建商品房(含住宅、非住宅，不含二手房)的购房者，办理不动产权证后，根据申请，给予购房契税补助。购房时间以商品房买卖合同办理网签备案日期为准。支持城市公共服务人员购房。城市公共服务人员在阜城购买新建商品住房的，在取得《不动产权证书》后，给予契税全额补助。城市公共服务人员是指环卫工人、快递员、外卖员、保安、保洁、市政工人、绿化工人等基层从事一线公共服务的工作人员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtina8242841.d.html</link>
+            <guid>3805077</guid>
+            <pubDate>Mon, 07 Oct 2024 08:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【日喀则40米射电望远镜天线主反射体顺利吊装 将服务探月工程】记者从中国科学院上海天文台获悉，10月7日上午，由中国科学院上海天文台与中国电子科技集团公司第三十九研究所联合研制的日喀则40米射电望远镜，在西藏自治区日喀则市顺利完成天线系统主反射体的吊装，标志着天线机械架设初步完成，为后续的望远镜电气调试等联调奠定了坚实基础。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimz1465552.d.html</link>
+            <guid>3805075</guid>
+            <pubDate>Mon, 07 Oct 2024 08:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【10月7日长三角铁路预计发送旅客357万人次 同比增长4.9%】记者10月7日从中国铁路上海局集团有限公司获悉，10月7日是国庆黄金周假期最后一天，长三角铁路迎来返程客流高峰，预计当日发送旅客357万人次，较2023年同期（10月6日）增加16.6万人次，增幅达到4.9%。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5033566.d.html</link>
+            <guid>3805074</guid>
+            <pubDate>Mon, 07 Oct 2024 08:11:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【去哪儿报告：出境游订单明显增多】今年国庆假期，出境游市场持续火热。从去哪儿平台机票预订数据来看，出境游预订量较去年同期增长1倍左右。同时，由于供给量增多，国际机票和酒店平均支付价格均同比下降了15%左右。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5033508.d.html</link>
+            <guid>3805073</guid>
+            <pubDate>Mon, 07 Oct 2024 08:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【最高220km/h，广清城际北延线顺利完成逐级提速试验】近日，经过连续10多个小时的测试后，广清城际北延线成功完成了逐级提速试验，CRH2J-0205综合检测列车顺利达到220km/h的最高试验目标速度值，标志着广清城际北延线在动态验收阶段取得了重大工程节点目标。 广清城际北延线全长19.7公里，共设4座车站，分别为燕湖站、洲心站、飞霞山站（预留车站）和飞霞站，设计速度为200公里/小时。广清城际北延线开通后将与既有广清城际贯通运营。（广州日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-07/detail-incrtimv5033443.d.html</link>
+            <guid>3805071</guid>
+            <pubDate>Mon, 07 Oct 2024 08:11:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
