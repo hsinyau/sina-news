@@ -4,341 +4,413 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 14 Oct 2024 21:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 00:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【印度决定召回驻加拿大高级专员及相关外交人员】当地时间10月14日，印度外交部发表声明称，鉴于印方无法确认当前加拿大政府是否能确保印度驻加外交人员安全，印度政府决定召回印度驻加拿大高级专员（相当于大使）及相关外交人员。]]></title>
-            <guid>3815898</guid>
-            <pubDate>Mon, 14 Oct 2024 21:05:18 GMT</pubDate>
+            <title><![CDATA[【威海广泰：空港装备订单“井喷”增长，生产排期超过正常水平】 10月15日，据威海广泰官微消息，面对蜂拥而至的空港装备订单，特别是海外市场的井喷式增长，生产排期已经远远超过正常水平，平台车、牵引车等拳头产品尤为突出。为应对持续增长的订单需求，威海广泰采取多项措施全面提升产能，通过优化生产流程、精细化物料调度、引入自动化设备打造的“平台车智能化生产线”已经上线，效率持续提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4650295.d.html</link>
+            <guid>3816084</guid>
+            <pubDate>Tue, 15 Oct 2024 00:39:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国贸易主管宣称，对墨西哥司法改革感到忧心忡忡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpak7843767.d.html</link>
-            <guid>3815897</guid>
-            <pubDate>Mon, 14 Oct 2024 21:04:48 GMT</pubDate>
+            <title><![CDATA[美国原油期货下跌2美元至71.83美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1426584.d.html</link>
+            <guid>3816082</guid>
+            <pubDate>Tue, 15 Oct 2024 00:37:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国9月出口物价指数年率 1.2%，前值5.7%。韩国9月进口物价指数年率 -3.3%，前值1.8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpac4711658.d.html</link>
-            <guid>3815894</guid>
-            <pubDate>Mon, 14 Oct 2024 21:00:06 GMT</pubDate>
+            <title><![CDATA[布伦特原油期货下跌逾2美元至每桶75.43美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7817244.d.html</link>
+            <guid>3816081</guid>
+            <pubDate>Tue, 15 Oct 2024 00:36:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗与阿塞拜疆表示应通过地区合作解决本地区问题】 伊朗与阿塞拜疆14日表示，有必要通过地区国家间的合作与谈判解决本地区的问题。据伊朗媒体报道，伊朗总统佩泽希齐扬当天在德黑兰会见到访的阿塞拜疆副总理穆斯塔法耶夫时说，伊朗不认为其他国家在本地区的存在符合地区国家的利益，地区国家可以通过相互合作来确保安全并解决本地区的问题。穆斯塔法耶夫表示，阿塞拜疆高度重视同伊朗的关系，愿扩大同伊朗在经济、贸易、能源、文化、交通、安全和国防等领域的关系。（新华社）]]></title>
-            <guid>3815892</guid>
-            <pubDate>Mon, 14 Oct 2024 20:58:35 GMT</pubDate>
+            <title><![CDATA[新日铁15日股价较前一交易日下跌2.1%至3064日元，为9月18日以来盘中最低。]]></title>
+            <guid>3816080</guid>
+            <pubDate>Tue, 15 Oct 2024 00:36:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国取暖油期货在盘后交易中跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpaf1488212.d.html</link>
-            <guid>3815888</guid>
-            <pubDate>Mon, 14 Oct 2024 20:56:52 GMT</pubDate>
+            <title><![CDATA[【Canalys：三季度全球智能手机出货量同比涨5％，小米继续排名第三】 Canalys最新发布的报告显示，2024 年第三季度，全球智能手机出货量同比增长5%，连续四个季度增长。中国厂商中，小米以14%的市场份额继续排名第三，份额较去年同期增加1个百分点。除了全球市场份额在中国厂商中排名第一外，在Interbrand发布的《2024全球最佳品牌排行榜》中，小米列第87位，同样是排名最高的中国品牌。另一个上榜的中国品牌华为列第93位。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1425517.d.html</link>
+            <guid>3816078</guid>
+            <pubDate>Tue, 15 Oct 2024 00:34:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[联合国驻黎巴嫩临时部队发言人表示，联合国驻黎巴嫩临时部队的角色“比以往任何时候都更为重要”，联合国维和人员将在黎巴嫩南部“继续驻守”。]]></title>
-            <guid>3815887</guid>
-            <pubDate>Mon, 14 Oct 2024 20:56:30 GMT</pubDate>
+            <title><![CDATA[【第136届广交会今日开幕 超3万家企业线下参展】今天（15日），第136届中国进出口商品交易会在广州开幕，线下展参展企业超3万家，现场展出新品115万件，均比上届增长明显。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1038736.d.html</link>
+            <guid>3816076</guid>
+            <pubDate>Tue, 15 Oct 2024 00:34:25 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上市公司密集披露股份回购计划】10月14日，招商轮船等6家A股公司集体发布董事长提议回购公司股份的公告。据不完全统计，今年下半年以来，超80家A股公司发布相关公告，控股股东、实际控制人、董事长等提议回购股份。业内人士表示，在价值被严重低估的情况下，上市公司回购股份有利于增强投资者信心，推动公司股票价格与内在价值相匹配。浙大城市学院文化创意研究所秘书长林先平表示：“上市公司利用闲置资金回购价值被低估的股票，有利于增强投资者信心。回购的股份用于减少注册股本，可以优化公司资本结构，提高盈利能力；用于员工激励计划，可以激发员工积极性，提振公司业绩。”（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpaf1485507.d.html</link>
-            <guid>3815882</guid>
-            <pubDate>Mon, 14 Oct 2024 20:46:59 GMT</pubDate>
+            <title><![CDATA[【中东部明起将现大范围降水过程 东北多地最低温或降至冰点】今天（10月15日），我国较强降雨主要出现在江南、华南等地部分地区。明天起，中东部地区将现大范围降水过程，部分地区雨量同期少见，公众请注意关注临近预报，防范次生灾害的发生。气温方面，今天，冷空气继续影响东北等地，18日起还将有强冷空气影响中东部地区，带来明显降温。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7815721.d.html</link>
+            <guid>3816075</guid>
+            <pubDate>Tue, 15 Oct 2024 00:34:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：以色列总理内塔尼亚胡表示，以色列将袭击伊朗军队。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpaf1484166.d.html</link>
-            <guid>3815878</guid>
-            <pubDate>Mon, 14 Oct 2024 20:42:08 GMT</pubDate>
+            <title><![CDATA[【国家队现身2只个股前十大流通股东】 上市公司三季报持续披露，据数据统计显示，10月15日，国家队现身2只个股前十大流通股东，持有川投能源、小商品城分别为1.61亿股、0.53亿股，持股市值分别为30.37亿元、5.13亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1425096.d.html</link>
+            <guid>3816074</guid>
+            <pubDate>Tue, 15 Oct 2024 00:33:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【航运公司挺价预期支撑 集运指数（欧线）期货延续强势】10月以来，集运指数（欧线）期货价格波动剧烈，主力合约经过快速大幅调整之后迎来显著上涨。业内人士表示，近期部分航运公司放出11月有意稳价的消息，叠加红海绕航举措将更加长期化等，均对市场情绪起到显著提振作用。不过，考虑到航运公司逆势涨价举措后市落地仍具不确定性，以及10月-11月为传统航运市场淡季，市场货量依然堪忧等因素，四季度集运指数（欧线）期货价格有望维持宽幅震荡格局。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpac4706839.d.html</link>
-            <guid>3815877</guid>
-            <pubDate>Mon, 14 Oct 2024 20:41:14 GMT</pubDate>
+            <title><![CDATA[【美国“Crew-8”返航任务定于10月18日之后】当地时间10月14日，美国国家航空航天局发表声明称，由于佛罗里达州海岸未来几天的天气状况不佳，美国太空探索技术公司（SpaceX）“Crew-8”的返航任务将定于10月18日之后。美国太空探索技术公司的“龙”飞船当地时间3月3日晚从佛罗里达州发射升空，搭载4名美国和俄罗斯宇航员飞往国际空间站。这次任务是载人“龙”飞船第八次为国际空间站运送轮换宇航员。这次代号“Crew-8”航天任务运送的4名宇航员分别是美国航天局宇航员马修·多米尼克、迈克尔·巴拉特、珍妮特·埃普斯，以及俄罗斯国家航天集团宇航员亚历山大·格列边金。（央视新闻）]]></title>
+            <guid>3816072</guid>
+            <pubDate>Tue, 15 Oct 2024 00:33:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【今年以来银行被罚超11亿元 促进信贷合规任重道远】今年以来，金融监管部门强监管、严监管进一步持续和深化。根据金融监管总局网站披露的行政处罚信息，截至10月12日，今年以来，在总局机关、监管局本级、监管分局本级已披露罚单中，涉及银行业相关机构的罚单有1559张，罚款11.84亿元。其中，贷款业务是违规“重灾区”。业内人士认为，在当前金融监管“长牙带刺”的大背景下，银行业需要进一步强化自身内部控制和风险管理，严格遵守监管规定，提升合规经营水平。同时，需监管部门、金融机构、技术服务商等多方合力共同促进信贷业务合规开展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqpac4706507.d.html</link>
-            <guid>3815875</guid>
-            <pubDate>Mon, 14 Oct 2024 20:39:53 GMT</pubDate>
+            <title><![CDATA[【特斯拉Optimus机器人被曝在发布会上受远程操控】 据知情人士透露，在特斯拉“WE, ROBOT” 发布会中，特斯拉利用人类远程控制了Optimus机器人原型的部分功能，该活动旨在激发投资者对即将推出的产品的热情。知情人士称，由其他地方的员工负责监督这款人形机器人和参会者之间的许多互动。不过，Optimus原型可以在没有外部控制的情况下通过人工智能行走。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1037609.d.html</link>
+            <guid>3816071</guid>
+            <pubDate>Tue, 15 Oct 2024 00:32:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[菲利普66将以约12.4亿美元的价格出售Coop Mineraloel合资企业49%的股权。]]></title>
-            <guid>3815874</guid>
-            <pubDate>Mon, 14 Oct 2024 20:35:36 GMT</pubDate>
+            <title><![CDATA[上海证交所上日融资余额上涨0.4%至8,265.6亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4646498.d.html</link>
+            <guid>3816069</guid>
+            <pubDate>Tue, 15 Oct 2024 00:30:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【埃及东北部公共汽车翻车事故致12人死亡】埃及卫生和人口部14日发表声明说，一辆公共汽车当天在埃及东北部苏伊士省的一条高速公路上翻车，造成12人死亡、33人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4835028.d.html</link>
-            <guid>3815873</guid>
-            <pubDate>Mon, 14 Oct 2024 20:31:51 GMT</pubDate>
+            <title><![CDATA[【机构：9月份全球纯电和插电式混动汽车销量增长30.5%】市场研究公司Rho Motion周二公布的数据显示，9月份全球纯电动和插电式混合动力汽车销量同比增长30.5%，达到169万辆。中国市场销量跃升47.9%，达到112万辆；美国和加拿大市场销量增长4.3%，至15万辆；欧洲销量增长4.2%，至30万辆。Rho Motion表示，在中国市场，纯电动和插电式混动汽车的渗透率增长速度快于一些人的预期，“到今年年底，每个月的销量都可能创下纪录”。（环球市场播报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1036432.d.html</link>
+            <guid>3816068</guid>
+            <pubDate>Tue, 15 Oct 2024 00:30:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新西兰财长Nicola Willis表示，希望新西兰央行促进银行业市场竞争。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4834513.d.html</link>
-            <guid>3815872</guid>
-            <pubDate>Mon, 14 Oct 2024 20:29:33 GMT</pubDate>
+            <title><![CDATA[【Stellantis首席执行官：公司可能出售或关闭亏损品牌】 Stellantis首席执行官唐唯实（Carlos Tavares）当地时间10月14日在巴黎车展上表示，Stellantis可能会出售或停产不盈利的品牌。唐唯实称，由于该公司旗下14个品牌目前都处于盈利状态，因此尚未启动任何战略讨论，但他表示，Stellantis将“无法保留那些不再为客户创造价值的品牌”。唐唯实提到：“玛莎拉蒂正经历困难，主要是因为其市场定位尚未确立，但我们已经找到了扭转局面的方法。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4646315.d.html</link>
+            <guid>3816067</guid>
+            <pubDate>Tue, 15 Oct 2024 00:29:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[加拿大总理特鲁多：绝不容忍外国政府在加拿大领土上威胁和杀害加拿大公民。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4833760.d.html</link>
-            <guid>3815869</guid>
-            <pubDate>Mon, 14 Oct 2024 20:25:57 GMT</pubDate>
+            <title><![CDATA[【远洋集团尚未就10月26日到期的380万美元票据利息作出预先资金的支付】 远洋集团在香港交易所公告称，尚未根据该票据的规定，为10月26日到期的380万美元半年度利息作出预先资金的支付。该2亿美元2025年到期、票面利率3.8%的增信绿色票据由远洋地产宝财IV发行、并由远洋集团担保。重组正在有序实施，就英国重组计划的聆讯将如期于10月18日在英格兰法院举行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1035454.d.html</link>
+            <guid>3816063</guid>
+            <pubDate>Tue, 15 Oct 2024 00:27:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊朗与阿塞拜疆表示应通过地区合作解决本地区问题】伊朗与阿塞拜疆14日表示，有必要通过地区国家间的合作与谈判解决本地区的问题。据伊朗媒体报道，伊朗总统佩泽希齐扬当天在德黑兰会见到访的阿塞拜疆副总理穆斯塔法耶夫时说，伊朗不认为其他国家在本地区的存在符合地区国家的利益，地区国家可以通过相互合作来确保安全并解决本地区的问题。穆斯塔法耶夫表示，阿方认为地区的问题应通过本地区国家间的谈判与磋商予以解决。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1610367.d.html</link>
-            <guid>3815868</guid>
-            <pubDate>Mon, 14 Oct 2024 20:23:41 GMT</pubDate>
+            <title><![CDATA[【日立股价创下4,044日元的纪录高位】日本日立制作所触及4,044日元的纪录高位，较前一交易日收盘上涨2.59%。前一个高点出现在10月8日。该股今年以来累计上涨99%，同期东证股价指数上涨15.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1422897.d.html</link>
+            <guid>3816062</guid>
+            <pubDate>Tue, 15 Oct 2024 00:27:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军袭击加沙北部杰巴利耶一房屋 已致4人死亡】总台记者当地时间10月14日晚获悉，以军当天在加沙地带北部杰巴利耶地区袭击了一所房屋，目前已造成4人死亡，另有多人受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhun7950401.d.html</link>
-            <guid>3815866</guid>
-            <pubDate>Mon, 14 Oct 2024 20:10:41 GMT</pubDate>
+            <title><![CDATA[富士软件股价一度上涨7.9%，此前贝恩资本称，已向富士软件提出具有约束力的收购要约，报价为每股9450日元。]]></title>
+            <guid>3816061</guid>
+            <pubDate>Tue, 15 Oct 2024 00:26:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以总理否认以军故意袭击联黎部队 称将继续打击黎真主党】当地时间10月14日，以色列总理内塔尼亚胡在一段视频中坚决否认以军故意针对联合国驻黎巴嫩临时部队（联黎部队）的指控，并称“以色列故意袭击联黎部队人员的指控完全是错误的。”内塔尼亚胡提到，以色列一再要求联黎部队人员远离危险，暂时离开战区，以免受到伤害。内塔尼亚胡指责黎巴嫩真主党利用联黎部队的阵地作为掩护，进而袭击以色列。他坚称，以色列完全有权利抵御黎真主党的袭击，并将继续这样做。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1606505.d.html</link>
-            <guid>3815865</guid>
-            <pubDate>Mon, 14 Oct 2024 20:05:43 GMT</pubDate>
+            <title><![CDATA[日本川崎重工股价下跌3%以上。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1032027.d.html</link>
+            <guid>3816058</guid>
+            <pubDate>Tue, 15 Oct 2024 00:23:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新西兰财长Nicola Willis：经济需要吸引并留住人才。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4829163.d.html</link>
-            <guid>3815864</guid>
-            <pubDate>Mon, 14 Oct 2024 20:04:47 GMT</pubDate>
+            <title><![CDATA[【东京地铁据悉将筹集约23亿美元资金，有望成近6年来日本最大IPO】 知情人士称，东京地铁将发行价定为每股1200日元，将通过IPO筹集3486亿日元（约合23亿美元）。该公司预计将于当地时间10月23日在东京上市。据统计，这将是2018年12月以来日本规模最大的IPO。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7809058.d.html</link>
+            <guid>3816057</guid>
+            <pubDate>Tue, 15 Oct 2024 00:23:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【印度和加拿大相互驱逐外交官】印度外交部14日发表声明，要求6名加拿大外交官限期离境，并决定从加拿大撤回6名外交官。同日，加拿大外交部宣布以涉嫌暴力犯罪活动为由驱逐6名印度外交官。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4827565.d.html</link>
-            <guid>3815860</guid>
-            <pubDate>Mon, 14 Oct 2024 19:57:35 GMT</pubDate>
+            <title><![CDATA[富士软件：将认真研究贝恩资本的报价将如何影响私有化的可行性和公司价值。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7808898.d.html</link>
+            <guid>3816056</guid>
+            <pubDate>Tue, 15 Oct 2024 00:22:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事沃勒：不稳定的数据使政策制定者面临“艰难”的时刻。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1603214.d.html</link>
-            <guid>3815855</guid>
-            <pubDate>Mon, 14 Oct 2024 19:50:31 GMT</pubDate>
+            <title><![CDATA[【中越联合声明：更好管控和积极解决海上分歧，维护南海与地区和平稳定】 据外交部网站，应越南社会主义共和国政府总理范明政邀请，中华人民共和国国务院总理李强于2024年10月12日至14日对越南进行正式访问。中越两国在10月14日发表的联合声明中提到，双方就海上问题深入坦诚交换意见，强调要更好管控和积极解决海上分歧，维护南海与地区和平稳定。一致同意要恪守两党两国高层共识，坚持通过友好协商妥善管控分歧，积极寻求双方都能接受的、符合《关于指导解决中越海上问题基本原则协议》、包括《联合国海洋法公约》在内国际法的基本和长久解决办法，不采取使局势复杂化、争议扩大化的行动，共同维护海上稳定。推动海上共同开发磋商和北部湾湾口外海域划界磋商早日取得实质进展，积极推进海上低敏感领域合作，加强海上搜救合作。继续全面有效落实《南海各方行为宣言》，在协商一致基础上早日达成有效、富有实质内容、符合包括《公约》在内国际法的“南海行为准则”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1419455.d.html</link>
+            <guid>3816055</guid>
+            <pubDate>Tue, 15 Oct 2024 00:22:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新品及次新品类批量出货 芯片企业业绩回升迹象明显】截至10月14日，已有包括乐鑫科技、思特威在内的多家A股芯片上市公司发布了2024年前三季度业绩预告。整体来看，在市场环境、商业模式等得到不断优化的背景下，芯片企业业绩回升迹象明显。多家企业在预告中表示，新品及次新品类批量出货，是支撑公司营收或净利润同比增长的原因之一。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1603017.d.html</link>
-            <guid>3815854</guid>
-            <pubDate>Mon, 14 Oct 2024 19:49:50 GMT</pubDate>
+            <title><![CDATA[【美媒：200多名抗议者试图阻止纽交所开市而被捕】据纽约邮报报道，美国警方表示，周一，数百名犹太反以色列抗议者冲进纽约证券交易所，并在曼哈顿地标性建筑外静坐，至少206名抗议者被捕。视频显示，数十名身穿红色t恤的亲巴勒斯坦抗议者冲进位于曼哈顿下城布罗德街的大楼，然后在股市开盘前将自己锁在门上。一小群来自“犹太和平之声”组织的示威者高呼“解放巴勒斯坦”，并迅速挥舞着“犹太人为巴勒斯坦自由”的标语，他们封锁了纽约证交所大楼，并要求美国政府“资助联邦应急管理局，而不是资助种族灭绝”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1419384.d.html</link>
+            <guid>3816054</guid>
+            <pubDate>Tue, 15 Oct 2024 00:22:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【借“基”入市升温 银行基金代销费率适时优惠】近期，在多重利好因素助推下，A股市场交投活跃，投资者借“基”入市也有所升温。在此背景下，有银行借势以费率优惠为营销点，加大基金代销力度。同时，多家基金公司公告，旗下部分基金新增相关银行为销售机构并参与银行的相关费率优惠活动。近日某国有大行的理财客户经理表示，“目前我行销售的多款基金产品，通过手机银行App购买均为0申购费。如果有基金购买需求，可以考虑通过我行渠道购买”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1602786.d.html</link>
-            <guid>3815853</guid>
-            <pubDate>Mon, 14 Oct 2024 19:48:58 GMT</pubDate>
+            <title><![CDATA[【中越联合声明：德天（板约）瀑布跨境旅游合作区正式运营】 据外交部网站，应越南社会主义共和国政府总理范明政邀请，中华人民共和国国务院总理李强于2024年10月12日至14日对越南进行正式访问。中越两国在10月14日发表的联合声明中提到，双方宣布德天（板约）瀑布跨境旅游合作区正式运营，鼓励双方游客赴对方国家旅游，促进旅游业、航空合作快速复苏和健康发展。双方同意落实好各类来华留学奖学金项目，鼓励留学生往来。双方将开展职业教育合作，加强两国高校智库交流，充分发挥中国在越文化中心作用。中方欢迎越南在华设立文化中心。加强卫生保健、传统医学等领域交流合作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1419288.d.html</link>
+            <guid>3816053</guid>
+            <pubDate>Tue, 15 Oct 2024 00:21:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事沃勒：如果不大幅收紧政策，很难回到2019年的价格水平。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1602323.d.html</link>
-            <guid>3815851</guid>
-            <pubDate>Mon, 14 Oct 2024 19:47:14 GMT</pubDate>
+            <title><![CDATA[【中越联合声明：加强两军各层级交往，深化边防合作，深化两国海军和海警合作交流机制】 据外交部网站，应越南社会主义共和国政府总理范明政邀请，中华人民共和国国务院总理李强于2024年10月12日至14日对越南进行正式访问。中越两国在10月14日发表的联合声明中提到，双方一致认为，防务安全合作是中越关系的重要支柱之一，同意加强防务安全合作。双方同意，进一步加强两军各层级交往，发挥好边境国防友好交流、防务安全磋商、国防部热线等渠道作用，加强两军在政治工作、人员培训、国防工业、联合国维和等领域交流合作。继续深化边防合作，就边界管理保护加强协调配合。继续开展好北部湾联合巡逻、军舰互访活动，深化两国海军和海警合作交流机制。欢迎早日签署两国国防部边防协议（修订版）。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1029849.d.html</link>
+            <guid>3816049</guid>
+            <pubDate>Tue, 15 Oct 2024 00:18:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【黎向以发射火箭弹，以称拦截大部分发射物】目前，黎以冲突持续。黎巴嫩真主党当地时间10月14日表示，向以色列多地发射火箭弹，以军称，发射物大部分被以军拦截。黎巴嫩真主党14日表示，当天向包括谢莫纳、海法在内的以色列多地发射多枚火箭弹；还对试图渗透进入黎南部村镇马尔卡巴的以军步兵部队进行了炮击。14日上午，以色列北部城市海法及周边地区响起防空警报。以色列国防军随后通过社交媒体发布信息称，监测到约10个来自黎巴嫩境内的发射物，其中大部分被以军拦截。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhun7939527.d.html</link>
-            <guid>3815848</guid>
-            <pubDate>Mon, 14 Oct 2024 19:45:15 GMT</pubDate>
+            <title><![CDATA[【中越联合声明：加快推进两国铁路、高速公路、口岸基础设施互联互通】 据外交部网站，应越南社会主义共和国政府总理范明政邀请，中华人民共和国国务院总理李强于2024年10月12日至14日对越南进行正式访问。中越两国在10月14日发表的联合声明中提到，双方同意推动两国发展战略对接，落实好共建“一带一路”倡议和“两廊一圈”框架对接合作规划，加快推进两国铁路、高速公路、口岸基础设施互联互通，加快建设中国坝洒—越南巴刹红河界河公路大桥，加强公路技术交流合作，提升智慧海关“软联通”。双方将发挥中越铁路合作机制作用，加快老街—河内—海防标轨铁路可研和同登—河内、芒街—下龙—海防标轨铁路规划编制工作，抓紧推进中国河口至越南老街标轨铁路连接线工作。推动就上述三条标轨铁路建设签署两国政府间合作协议，围绕相关合作事宜继续保持沟通。推动中越友谊关—友谊口岸、浦寨—新清货运专用通道智慧口岸试点建设，配合提升口岸通关效率。积极探讨开展跨境经济合作区试点建设，共同打造安全、稳定的产业链供应链。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4641359.d.html</link>
+            <guid>3816048</guid>
+            <pubDate>Tue, 15 Oct 2024 00:18:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【人形机器人产业利好不断 产业链上市公司积极布局】国家相关政策支持叠加产业利好消息，人形机器人产业热度持续升温。 政策方面，10月14日，工业和信息化部副部长王江平在国新办新闻发布会上表示，将出台推动未来产业创新发展的实施意见，大力发展人形机器人等新领域新赛道。产业链方面，近日Agility Robotics公司宣布，其建造的全球首家人形机器人工厂“RoboFab”已经正式开始组装机器人，该工厂在第一年内的生产能力达到数百台。此外，公司已经开始与亚马逊、GXO Logistics等知名客户一起测试其双足机器人Digit，目标年产1万台。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1601757.d.html</link>
-            <guid>3815847</guid>
-            <pubDate>Mon, 14 Oct 2024 19:45:07 GMT</pubDate>
+            <title><![CDATA[【日经225指数自7月以来首次升破40,000点】日经225指数自7月19日以来首次升破40,000点，东京交易员自为期三天的长周末假期返回市场。该指数一度升至40,096.57点，上周五收于39,605.80点。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7806297.d.html</link>
+            <guid>3816046</guid>
+            <pubDate>Tue, 15 Oct 2024 00:17:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【市场火了、玩法多了，策略多元化渐成私募投资新趋势】 9月下旬以来，A股市场日成交金额连续突破万亿元，指数反弹也颇为迅猛。在此背景下，量化打板、股指期货套利、ETF套利等小众策略短期业绩表现亮眼，多家量化私募近期将其纳入策略组合之中，以平滑产品净值波动幅度。与此同时，基于宽基指数近期波动加剧，部分私募管理人计划推出气囊指增、“固收+期权”等策略产品，以满足投资人需求。在诸多私募人士眼中，策略多元化并不是市场回暖背景下的偶发情况，而是长期趋势。越来越多的资管机构未来将加强在多资产、多策略、多市场方面的投资能力，丰富收益来源，重塑长期竞争力。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1161900.d.html</link>
-            <guid>3815846</guid>
-            <pubDate>Mon, 14 Oct 2024 19:44:09 GMT</pubDate>
+            <title><![CDATA[日本石油股普跌，国际石油开发帝石跌超3%，日本石油勘探、科斯莫能源控股跌近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1417897.d.html</link>
+            <guid>3816045</guid>
+            <pubDate>Tue, 15 Oct 2024 00:16:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国股票ETF规模飙升，更多海外长线资金静候入场时机】 9月下旬以来，随着中国一系列重磅政策“组合拳”的推出，海外资金加速涌入中国资产。据统计，多只在海外上市的中国股票ETF持续吸金。其中，在美国上市的规模最大的中国股票ETF——中国大盘股ETF-iShares（FXI）的资产规模已突破100亿美元。在多位外资人士看来，前期资金获利了结或导致市场回调，短期内由政策面驱动的市场上行动量依然存在。此前，全球主动管理型资金对A股的配置多为中性或低配，未来随着中国经济基本面的不断改善，在场外等候的海外长线资金将加速流入中国市场。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1601137.d.html</link>
-            <guid>3815845</guid>
-            <pubDate>Mon, 14 Oct 2024 19:42:16 GMT</pubDate>
+            <title><![CDATA[【碧桂园：国庆黄金周期间公司销售目标完成率123%】碧桂园召开集团内部管理会议表示，随着近期新政的实施，房地产市场购房需求得到了一定程度的释放，多地呈现回暖迹象，新房到访和认购热度较节前明显提升；国庆黄金周期间公司销售目标完成率123%，日均常规认购较五一期间上升34%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4640695.d.html</link>
+            <guid>3816044</guid>
+            <pubDate>Tue, 15 Oct 2024 00:16:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国加利福尼亚州卫生部门报告称，加州报告了5例可能的人类禽流感病例，此前已证实有6例。]]></title>
-            <guid>3815844</guid>
-            <pubDate>Mon, 14 Oct 2024 19:41:50 GMT</pubDate>
+            <title><![CDATA[【路特斯武汉全球总部建筑主体结构已全面封顶，10月14日晚，武汉经开区发布新闻稿称，路特斯全球科技总部建设正在推进，建筑的主体结构已全面封顶，工人们正忙着组装施工吊篮，为本月底大规模施工幕墙预埋件、连接件做准备。据悉，位于军山新城的路特斯全球总部智造中心项目建筑面积约14.7万平方米，将全部采用标准化的玻璃幕墙构造。该项目建成后，将承接路特斯科技研发、运营、管理职能，成为路特斯智能电动生活用车的供应链管理、全球营销及研发设计中心。]]></title>
+            <guid>3816042</guid>
+            <pubDate>Tue, 15 Oct 2024 00:14:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以色列军机在黎巴嫩贝鲁特上空投下照明弹】总台记者当地时间10月14日获悉，以色列军机当晚在黎巴嫩首都贝鲁特上空投下照明弹。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1160650.d.html</link>
-            <guid>3815842</guid>
-            <pubDate>Mon, 14 Oct 2024 19:41:07 GMT</pubDate>
+            <title><![CDATA[软银集团涨近5%，创7月29日以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1416863.d.html</link>
+            <guid>3816041</guid>
+            <pubDate>Tue, 15 Oct 2024 00:13:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：蓝十字蓝盾公司（Blue Cross Blue Shield）同意支付 28 亿美元解决美国医疗服务提供商反垄断集体诉讼。]]></title>
-            <guid>3815841</guid>
-            <pubDate>Mon, 14 Oct 2024 19:40:53 GMT</pubDate>
+            <title><![CDATA[【国家国际发展合作署与巴基斯坦有关部门签署合作文件】 10月14日，在中国和巴基斯坦两国领导人共同见证下，国家国际发展合作署署长罗照辉分别与巴基斯坦计划发展部伊克巴尔、经济事务部部长奇马签署了加强社会民生、信息通信、防洪减灾、安全保障等领域合作谅解备忘录，以及消防救援车辆、人力资源开发合作等项目换文。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1416381.d.html</link>
+            <guid>3816036</guid>
+            <pubDate>Tue, 15 Oct 2024 00:12:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【存量房贷利率调整有序推进，已有银行手机App可查相关信息】存量住房贷款利率批量调整在即，购房贷款人翘首以盼。截至10月14日，已有20多家银行发布具体操作事宜，明确在10月底前统一实施批量调整。各家银行积极筹备，确保利率调整过程稳妥有序。已有银行更新了其手机App住房贷款模块，借款人可直接查询调整后的住房贷款利率。据了解，个人住房贷款利率将迎来新的定价方式。后续存量住房贷款与新增住房贷款之间的利差如果进一步扩大，借款人可与商业银行协商调整存量住房贷款的加点幅度。分析人士认为，这有助于进一步稳定购房者的预期，促进房地产市场健康平稳发展。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4823257.d.html</link>
-            <guid>3815840</guid>
-            <pubDate>Mon, 14 Oct 2024 19:38:52 GMT</pubDate>
+            <title><![CDATA[【市场消息：泽连斯基10月16日将向乌克兰国会提交旨在迫使俄罗斯停战的“胜利计划”】乌克兰总统弗拉基米尔·泽连斯基将于10月16日向国会阐述他的“胜利计划”，几周前他已向华盛顿和欧洲各国政府介绍了该计划以期获得支持。一位了解总统计划的知情人士称，泽连斯基将于周三在乌克兰国会发表讲话。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4639143.d.html</link>
+            <guid>3816035</guid>
+            <pubDate>Tue, 15 Oct 2024 00:11:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【抢抓建仓良机，多只基金提前结束募集】近期市场强势反弹，投资者风险偏好随之提升，公募基金也在抢抓机遇。从行业最新动态看，多只权益类新发基金宣布提前结束募集，部分基金甚至提前2个多月结束募集。与此同时，多只次新基金快速建仓，把握住了这轮反弹机会，斩获颇丰。从基金净值变动情况来看，多只成立不久的新基金快速建仓，把握住近期的反弹机会，净值涨幅明显。“近期多只权益类基金缩短募集期，主要是为了尽快成立，避免错过建仓良机。”沪上某基金分析人士分析说，在经历前期大涨后，短期市场有所调整，调整则提供了买入的机会。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4822833.d.html</link>
-            <guid>3815838</guid>
-            <pubDate>Mon, 14 Oct 2024 19:37:18 GMT</pubDate>
+            <title><![CDATA[【韩国总统尹锡悦不支持率创新高】根据韩国一家民意调查机构14日发布调查结果，韩国总统尹锡悦的支持率降至25.8%，不支持率升至71.3%。不支持率创下尹锡悦2022年就任总统以来新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7803088.d.html</link>
+            <guid>3816034</guid>
+            <pubDate>Tue, 15 Oct 2024 00:10:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【数据中心电力需求激增 谷歌与核电公司签署协议】谷歌周一表示，它将从小型模块化反应堆开发商Kairos Power购买电力。科技公司越来越多地转向使用核电来满足数据中心日益增长的能源需求。谷歌能源和气候高级总监迈克尔·特雷尔表示，“我们相信核能在支持我们的清洁增长和帮助实现人工智能进步方面发挥着关键作用”。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1158940.d.html</link>
-            <guid>3815837</guid>
-            <pubDate>Mon, 14 Oct 2024 19:37:05 GMT</pubDate>
+            <title><![CDATA[日本金融股普涨，三菱日联金融、三井住友金融集团涨近3%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1025630.d.html</link>
+            <guid>3816033</guid>
+            <pubDate>Tue, 15 Oct 2024 00:10:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥主要股票指数下跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4822589.d.html</link>
-            <guid>3815836</guid>
-            <pubDate>Mon, 14 Oct 2024 19:36:17 GMT</pubDate>
+            <title><![CDATA[【权威专家：近期货币政策组合抓住了房地产、资本市场两个关键点】今年以来，为支持经济回升向好，央行在2月、5月、7月已先后三次实施了比较重大的货币政策调整。9月下旬，央行又快速落地了一揽子增量政策，包括降低存款准备金率和政策利率、降低存量房贷利率、创设支持股票市场稳定发展的结构性货币政策工具等。权威专家表示，这次央行推出的政策组合符合现实需求，超常规、强有力，并且抓住了房地产、资本市场两个关键点，市场情绪为之振奋，社会反响良好。权威专家认为，本轮房地产市场调整持续时间较以往长，市场信心持续偏弱，对经济运行都带来了影响。从今年的货币政策操作看，央行着力推动各方面达成共识，抓好房地产市场这个关键点。（上证报）]]></title>
+            <guid>3816032</guid>
+            <pubDate>Tue, 15 Oct 2024 00:09:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[俄罗斯驻挪威大使馆：按照挪威方面的要求，将领事人员减少至两名。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4822208.d.html</link>
-            <guid>3815835</guid>
-            <pubDate>Mon, 14 Oct 2024 19:34:32 GMT</pubDate>
+            <title><![CDATA[【调查：印尼央行10月16日料维持指标利率在6%不变，因担心卢比疲软】路透调查显示，尽管印尼通胀率已降至2021年以来低点，印尼央行周三预计将维持利率不变，因为对美联储激进宽松的预期降温，削弱了卢比。印尼9月通胀率降至1.84%的数年低点，且在2024年一直保持在印尼央行设定的1.5%-3.5%目标范围内，这表明央行在年底前可能会进一步调降利率。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1023940.d.html</link>
+            <guid>3816030</guid>
+            <pubDate>Tue, 15 Oct 2024 00:07:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美联储理事沃勒：目前，近期的高生产率增长在很大程度上只是较早前的低生产率数据的“反弹”。不可持续的财政政策是对中性利率的最大威胁。]]></title>
-            <guid>3815834</guid>
-            <pubDate>Mon, 14 Oct 2024 19:34:12 GMT</pubDate>
+            <title><![CDATA[澳大利亚联储开始审查零售支付监管。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7799011.d.html</link>
+            <guid>3816026</guid>
+            <pubDate>Tue, 15 Oct 2024 00:03:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西央行上调该国2024年经济增长预期】当地时间10月14日，巴西中央银行发布的《焦点报告》显示，巴西央行将该国2024年国内生产总值（GDP）的增长预期提升至3.01%，将2025年经济增长预期维持在1.93%；并将该国2024年和2025年通胀率预期分别上调至4.39%和3.96%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4819102.d.html</link>
-            <guid>3815831</guid>
-            <pubDate>Mon, 14 Oct 2024 19:20:05 GMT</pubDate>
+            <title><![CDATA[【中国驻中非使馆提醒中国公民：远离非法采金活动】 根据中非矿业领域有关法律规定，以勘探许可代替开采许可、以非法手段申办许可证、无证经营、虚报谎报产量、偷税漏税、非法入境、非法居留及破坏环境等属违法行为，不受中非法律保护，违者将处巨额罚款并承担刑责。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7797019.d.html</link>
+            <guid>3816024</guid>
+            <pubDate>Mon, 14 Oct 2024 23:59:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：10月15日03时08分在新疆昌吉州玛纳斯县（北纬43.69度，东经86.15度）发生3.1级地震，震源深度27千米。]]></title>
-            <guid>3815830</guid>
-            <pubDate>Mon, 14 Oct 2024 19:17:56 GMT</pubDate>
+            <title><![CDATA[富士软软：将认真考虑贝恩资本的收购要约。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7796295.d.html</link>
+            <guid>3816023</guid>
+            <pubDate>Mon, 14 Oct 2024 23:58:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[墨西哥9月份名义工资同比增长8.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1595236.d.html</link>
-            <guid>3815828</guid>
-            <pubDate>Mon, 14 Oct 2024 19:15:15 GMT</pubDate>
+            <title><![CDATA[【抽水蓄能电站首次自主参与电力市场交易】广东梅州抽水蓄能电站（以下简称“梅蓄电站”）日前正式进入电力现货市场交易全部电量。这是我国抽水蓄能电站改变传统营收模式，首次自主参与电力市场交易，开辟了新型电力系统下抽水蓄能市场化经营的新路径。“入市”后，梅蓄电站每天自主向交易市场申报第二天的抽水发电能力以及对应的电价收益。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1410220.d.html</link>
+            <guid>3816019</guid>
+            <pubDate>Mon, 14 Oct 2024 23:56:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场资讯：巴西国家石油公司和淡水河谷矿业公司正在开展脱碳合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhun7926542.d.html</link>
-            <guid>3815827</guid>
-            <pubDate>Mon, 14 Oct 2024 19:13:43 GMT</pubDate>
+            <title><![CDATA[【全球最大吨位全地面起重机下线】从中联重科获悉，由其自主研制的全球最大吨位4000吨级全地面起重机日前在湖南省长沙市下线。这是中联重科继打造2000吨、2400吨世界级起重机装备后，再一次刷新这一领域的世界纪录。这一起重机实现了领域内技术含量最高、起重性能最强、风电吊装工况覆盖最多、转场施工最便捷等多个“行业之最”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7794576.d.html</link>
+            <guid>3816018</guid>
+            <pubDate>Mon, 14 Oct 2024 23:54:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[微软的资深人工智能研究员Bubeck将加盟OpenAI。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1594410.d.html</link>
-            <guid>3815826</guid>
-            <pubDate>Mon, 14 Oct 2024 19:11:17 GMT</pubDate>
+            <title><![CDATA[美国西南航空∶董事会将根据信托责任、得克萨斯州法律和公司章程审查特别会议请求，包括Elliott提出的在12月10日召开会议的请求。]]></title>
+            <guid>3816016</guid>
+            <pubDate>Mon, 14 Oct 2024 23:53:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：三名工人因在德克萨斯州炼油厂受伤起诉墨西哥国家石油公司（PEMEX）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1594249.d.html</link>
-            <guid>3815825</guid>
-            <pubDate>Mon, 14 Oct 2024 19:10:39 GMT</pubDate>
+            <title><![CDATA[【上海二手房单日成交量创一年新高】在楼市新政的推动下，上海二手房市场迎来显著回暖。最新数据显示，10月13日，上海全市二手房网签量达到1334套，创下去年9月以来的单日新高。随着市场的回暖，市场也出现房东“涨价几十万至几百万”的声音。市场分析认为，房东跳价、惜售并非市场主流，随着政策的持续发力，市场情绪逐步改善，未来一段时间内，上海二手房市场的成交量有望保持高成交量。 (澎湃新闻)]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1409223.d.html</link>
+            <guid>3816015</guid>
+            <pubDate>Mon, 14 Oct 2024 23:52:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[埃及卫生部表示，埃及发生公共汽车事故，造成至少12人死亡，33人受伤。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhun7925157.d.html</link>
-            <guid>3815824</guid>
-            <pubDate>Mon, 14 Oct 2024 19:10:30 GMT</pubDate>
+            <title><![CDATA[【“并购六条”发布以来A股市场首单重组项目过会】 10月14日，深交所并购重组委审议通过甘肃能源发行股份购买资产项目，该项目从受理到过会历时101个自然日。本次重组是《关于深化上市公司并购重组市场改革的意见》发布后A股市场首家过会的并购重组项目。本次重组标的资产为甘肃河西走廊清洁能源基地唯一配套调峰项目。重组实施后，甘肃能源将实现向新能源发电相关调峰电源业务领域的扩展，显著增强上市公司盈利能力，推动新质生产力加快发展。这是资本市场服务国家“西电东送”战略目标、做好“绿色金融”大文章的典型案例。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4632055.d.html</link>
+            <guid>3816014</guid>
+            <pubDate>Mon, 14 Oct 2024 23:52:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特斯拉的Optimus机器人在Robotaxi发布会活动上得到了远程操控。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4815734.d.html</link>
-            <guid>3815822</guid>
-            <pubDate>Mon, 14 Oct 2024 19:06:48 GMT</pubDate>
+            <title><![CDATA[美国西南航空∶Elliott明显寻求董事会控制权的时机似乎旨在最大限度地破坏西南航空正在进行的业务转型。]]></title>
+            <guid>3816013</guid>
+            <pubDate>Mon, 14 Oct 2024 23:51:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【肯尼亚报告该国首例猴痘死亡病例】肯尼亚卫生部首席秘书玛丽·穆托尼当地时间10月14日表示，该国确认的猴痘病例数为13例，其中8名患者已经完全康复出院，另外4名患者在不同的医院接受治疗，并首次报告1例死亡病例。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1592781.d.html</link>
-            <guid>3815821</guid>
-            <pubDate>Mon, 14 Oct 2024 19:06:26 GMT</pubDate>
+            <title><![CDATA[【以军袭击加沙地带汗尤尼斯一建筑 已致9人死亡】以色列军队14日夜间至15日凌晨空袭加沙地带汗尤尼斯市东部的一座房屋，目前已造成9人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1408360.d.html</link>
+            <guid>3816012</guid>
+            <pubDate>Mon, 14 Oct 2024 23:50:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[谷歌母公司Alphabet宣布与Kairos Power达成协议，将购买由该公司开发的小型模块化反应堆所产生的核能。]]></title>
-            <guid>3815819</guid>
-            <pubDate>Mon, 14 Oct 2024 19:05:19 GMT</pubDate>
+            <title><![CDATA[【利好政策提振板块估值，银行股“前度牛郎”昨又来】 多重利好政策牵引，银行股重拾“牛途”。10月14日，A股银行板块再次以全线飘红的态势领涨各大板块，42只银行股悉数报涨收盘，多只城农商行个股涨逾5%。上周末，财政部释放利好政策，包括定调支持地方化解政府债务风险、发行特别国债支持国有大行补充资本、支持推动房地产市场止跌回稳等。分析人士认为，一系列增量财政政策对改善资产质量预期提供了有力支撑，对银行股提振估值形成利好。此外，近期央行创设的新型互换便利工具，对于稳定性强的红利类资产也有提振信心的作用。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4630956.d.html</link>
+            <guid>3816009</guid>
+            <pubDate>Mon, 14 Oct 2024 23:49:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美元兑日元USD/JPY短线冲高后回落20点，最新报149.73，美元指数DXY上下波幅10点。]]></title>
-            <guid>3815817</guid>
-            <pubDate>Mon, 14 Oct 2024 19:04:12 GMT</pubDate>
+            <title><![CDATA[【“非法荐股”瞄向新股民，券商加大投教力度“护航”投资者】 近期，在资本市场交投持续升温以及“开户热”的背景下，有不法分子利用“非法荐股”、付费咨询等手段，在各类社交平台上设下重重“陷阱”，专门针对缺乏市场经验和相关知识的新投资者，以“指导投资”之名，行诈骗之实，严重侵害了投资者的利益，扰乱了市场秩序。为应对当前挑战，券商正积极采取行动，持续增强投资者教育与防骗宣传的力度，同时全面开展对新入市投资者的基础知识普及和正确投资心态的引导工作。（证券日报）]]></title>
+            <guid>3816008</guid>
+            <pubDate>Mon, 14 Oct 2024 23:48:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【巴西今年发生超22万起火灾 同比增长76%】巴西国家空间研究院当地时间14日发布数据称，截至10月13日，巴西今年全国范围内已累计发生约22.66万次火灾，比去年同期增长76%。数据显示，从总量占比来看，在亚马孙雨林发生的火灾数量占比达到49.4%，居于首位；其次是在巴西热带草原生态区塞拉多，其火灾数量占32.1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhuf4814527.d.html</link>
-            <guid>3815816</guid>
-            <pubDate>Mon, 14 Oct 2024 19:03:13 GMT</pubDate>
+            <title><![CDATA[【中锐股份：园林业务应收款项原值约42亿元，将推进与各方化债合作】 中锐股份在互动平台表示，截至2024年6月30日，公司园林业务主要项目已经基本完成收尾结算，形成了应收款项原值合计约42亿元，都是应收地方政府及平台公司的款项。回收项目应收款一直是公司的核心问题，公司一直持续积极向地方政府、国资平台、业主方催收款项，但受制于地方债务问题，前期进展不大。近期，公司陆续接待了相关领导的来访，各方坦诚面对债务问题，积极协商化债思路，展现了正向积极的一面。 此外，近期国家不断强调重视地方债务的化解，刚召开的财政部发布会也表示，拟一次性增加较大规模债务限额，置换地方政府存量隐性债务，加大力度支持地方化解债务风险。公司也将紧紧抓住国家政策机遇，加快推进公司与地方政府、国资平台、业主方化债合作，争取尽早有序化解公司的应收款回收问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1407117.d.html</link>
+            <guid>3816006</guid>
+            <pubDate>Mon, 14 Oct 2024 23:46:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新疆喀什地区巴楚县发生3.7级地震】中国地震台网正式测定：10月15日02时50分在新疆喀什地区巴楚县（北纬40.12度，东经78.60度）发生3.7级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1142826.d.html</link>
-            <guid>3815813</guid>
-            <pubDate>Mon, 14 Oct 2024 19:00:46 GMT</pubDate>
+            <title><![CDATA[【153.91亿元市值限售股今日解禁，珠海冠宇、连城数控、锦波生物解禁市值居前】 周二（10月15日），共有16家公司限售股解禁，合计解禁量为6.25亿股，按最新收盘价计算，合计解禁市值为153.91亿元。从解禁量来看，6家公司解禁股数超千万股。珠海冠宇、顺博合金、连城数控解禁量居前，解禁股数分别为3.57亿股、9873.42万股、9453.68万股。从解禁市值来看，6家公司解禁股数超亿元。珠海冠宇、连城数控、锦波生物解禁市值居前，解禁市值分别为58.28亿元、40.2亿元、33.37亿元。从解禁股数占总股本比例来看，5家公司解禁比例超10%。连城数控、珠海冠宇、凤形股份解禁比例居前，解禁比例分别为40.49%、31.68%、18.51%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1406029.d.html</link>
+            <guid>3816004</guid>
+            <pubDate>Mon, 14 Oct 2024 23:43:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【伊拉克民兵武装称使用无人机袭击以色列境内一目标】 当地时间10月14日晚，据伊拉克民兵武装“伊斯兰抵抗组织”的声明，该组织当晚使用无人机袭击了以色列境内东部一处“重要目标”。以色列方面对此暂无回应。(央视新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhun7919328.d.html</link>
-            <guid>3815812</guid>
-            <pubDate>Mon, 14 Oct 2024 18:59:12 GMT</pubDate>
+            <title><![CDATA[【仍有九成银行股“破净”】数据显示，截至10月14日收盘，A股上市银行中，除了招商银行市净率维持在1.03倍，其余41家银行均处于“破净”状态，其中民生银行、贵阳银行的市净率分别仅有0.34倍和0.39倍。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7788329.d.html</link>
+            <guid>3816003</guid>
+            <pubDate>Mon, 14 Oct 2024 23:42:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国宇航局（NASA）：美国宇航局和SpaceX计划最早于10月18日星期五凌晨3:05与空间站脱离。]]></title>
-            <guid>3815809</guid>
-            <pubDate>Mon, 14 Oct 2024 18:48:09 GMT</pubDate>
+            <title><![CDATA[【上海电气旗下公司成功向客户交付人形机器人“灵巧手”减速器轴承样件】 近日，上海电气旗下上海天安轴承有限公司（简称“天安轴承”）成功向客户交付人形机器人“灵巧手”减速器轴承样件。当前，面对人形机器人领域的激烈市场竞争和快速技术迭代，上海电气正不断加强与国内人形机器人领域上下游合作，积极开拓人形机器人核心零部件的新赛道。不久前，上海电气旗下上海集优机械有限公司（简称“上海集优”）与南京理工大学签署了人形机器人核心零部件合作协议。上海集优将依托南京理工大学在滚动功能部件领域的强大科研实力，结合自身在精密制造与产业化应用方面的丰富经验，共同推动研发与技术创新，积累在前沿领域的产业经验。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1404791.d.html</link>
+            <guid>3816002</guid>
+            <pubDate>Mon, 14 Oct 2024 23:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军对加沙北部连续10天袭击已致342人死亡】加沙地带媒体办公室当地时间10月14日发布消息称，以军对加沙地带北部地区连续10天的袭击已造成超过342人死亡，数百名平民、儿童和妇女受伤。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1133834.d.html</link>
-            <guid>3815807</guid>
-            <pubDate>Mon, 14 Oct 2024 18:40:58 GMT</pubDate>
+            <title><![CDATA[【Stellantis董事长回应并购传闻：不会考虑】 Stellantis董事长约翰·埃尔坎当地时间10月14日接受采访称，Stellantis并不寻求对其他公司实行并购。近期有市场消息称，Stellantis考虑同雷诺合并。埃尔坎表示：“我们真正专注于业务，无论是股东、董事会、首席执行官还是管理团队。我们不会考虑合并业务可能带来的干扰，无论它们是什么。”]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1009472.d.html</link>
+            <guid>3816000</guid>
+            <pubDate>Mon, 14 Oct 2024 23:39:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[欧盟部长就阿塞拜疆COP29气候峰会前的欧盟谈判立场达成一致。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhui1583186.d.html</link>
-            <guid>3815800</guid>
-            <pubDate>Mon, 14 Oct 2024 18:29:53 GMT</pubDate>
+            <title><![CDATA[          【A股股票回购一览：32家公司披露回购进展】Wind数据显示，10月15日，共32家公司发布股票回购相关公告。其中，4家公司股东提议回购公司股份，5家公司首次披露股票回购预案，1家公司回购方案获股东大会通过，3家公司披露股票回购实施进展，19家公司回购方案已实施完毕。从股东提议回购方案来看，招商蛇口、招商轮船、招商港口股东分别提议回购不超7.02亿元、4.43亿元、3.89亿元。从首次披露回购预案来看，当日共5家公司股票回购预案金额超千万。久立特材、德尔未来、方大特钢回购预案金额最高，分别拟回购不超3.0亿元、1.2亿元、1.1亿元。从股东大会通过回购预案来看，苏博特拟回购不超167.02万元。从回购实施进展来看，长青股份、绿通科技、华盛锂电回购金额最高，分别回购9429.41万元、8747.04万元、170.75万元。从已完成回购来看，当日共9家公司回购金额超千万。新奥股份、联化科技、德尔未来已完成回购金额最高，分别回购3.6亿元、7981.54万元、5998.97万元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1404375.d.html</link>
+            <guid>3815999</guid>
+            <pubDate>Mon, 14 Oct 2024 23:39:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【强风暴过后第三日 巴西圣保罗州仍有43万户断电】当地时间10月14日晚，巴西圣保罗州电网运营公司表示，截至14日上午，圣保罗州仍有43万户持续断电。巴西矿产和能源部长表示，将成立特别工作组帮助电网公司尽早完全恢复圣保罗州的电力供应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqhum1128804.d.html</link>
-            <guid>3815799</guid>
-            <pubDate>Mon, 14 Oct 2024 18:29:34 GMT</pubDate>
+            <title><![CDATA[【禾赛科技获零跑汽车下一代车型平台激光雷达独家定点】 10月14日晚，禾赛科技宣布获零跑汽车下一代车型平台激光雷达独家定点合作，该平台首款车型预计将于2025年量产。根据合作协议，禾赛科技将为零跑汽车下一代车型平台的多款车型独家提供激光雷达产品。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1404076.d.html</link>
+            <guid>3815998</guid>
+            <pubDate>Mon, 14 Oct 2024 23:38:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【李强会见巴基斯坦军方领导人】当地时间10月14日，国务院总理李强在伊斯兰堡会见巴基斯坦参联会主席萨希尔和陆军参谋长穆尼尔、海军参谋长阿什拉夫、空军参谋长巴伯尔。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqani4934048.d.html</link>
-            <guid>3815797</guid>
-            <pubDate>Mon, 14 Oct 2024 18:16:19 GMT</pubDate>
+            <title><![CDATA[【俄称控制扎波罗热地区一定居点 乌称击退俄军进攻】当地时间14日，俄罗斯国防部发布战报称，俄军控制扎波罗热地区的列瓦德诺耶定居点。过去一天，俄各集团军打死打伤乌军人员，击毁乌军装甲战车、榴弹炮、弹药库及乌军其他装备和设施。俄战术航空兵、导弹兵、炮兵等在119个地区打击乌军有生力量和装备集结地。同一天，乌克兰武装部队总参谋部称，当天以来前线地区发生107次战斗。在波克罗夫斯克方向，俄军对乌军阵地发动了18次进攻，乌军击退了俄军12次进攻，还有6场战斗仍在进行。在库拉霍沃方向，俄军对多个居民点发动了29次袭击，乌军击退了俄军18次进攻，战斗仍在进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4626497.d.html</link>
+            <guid>3815997</guid>
+            <pubDate>Mon, 14 Oct 2024 23:37:15 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[摩根大通从德意志银行雇来高管Hanlan，以处置医疗保健领域的交易活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqanq8030495.d.html</link>
-            <guid>3815796</guid>
-            <pubDate>Mon, 14 Oct 2024 18:15:28 GMT</pubDate>
+            <title><![CDATA[远洋集团：于二零二五年到期的200,000,000美元3.80%增信绿色票据，发行人或本公司并未根据该票据的规定，为于二零二四年十月二十六日到期的3,800,000美元半年度利息作出预先资金的支付。]]></title>
+            <guid>3815996</guid>
+            <pubDate>Mon, 14 Oct 2024 23:36:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【俄外交部发言人：韩国应严肃对待朝鲜相关警告】当地时间10月14日，就朝鲜所说“韩国无人机侵犯朝鲜领空并散发传单”一事，俄罗斯外交部发言人扎哈罗娃表示，韩国当局应该严肃对待朝鲜提出的警告，停止以自己的挑衅性行为造成朝鲜半岛紧张局势升级。扎哈罗娃同时指出，只有在安全不可分割的原则基础上，通过政治和外交手段，才能保障泛地区的长久和平与稳定。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqanq8027853.d.html</link>
-            <guid>3815793</guid>
-            <pubDate>Mon, 14 Oct 2024 18:09:52 GMT</pubDate>
+            <title><![CDATA[西南航空公司：艾略特的要求包括罢免西南航空董事会的八名成员，并选举艾略特选出的八名董事候选人。]]></title>
+            <guid>3815995</guid>
+            <pubDate>Mon, 14 Oct 2024 23:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空公司：董事会向艾略特提出和解框架。虑到艾略特要求的极端性质，艾略特的特别会议请求是不必要和不恰当的。]]></title>
+            <guid>3815994</guid>
+            <pubDate>Mon, 14 Oct 2024 23:35:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首批10只中证A500ETF今日上市】首批10只中证A500ETF定于10月15日（周二）在沪深交易所正式上市，合计募集规模为200亿元。中证A500指数聚焦于全市场各行业中市值最大的500只股票，并纳入ESG、互联互通筛选标准，兼具核心龙头与行业均衡两大特点，业内人士认为，中证A500指数有望实现“核心资产”与“新质生产力”的双轮驱动，中证A500ETF将进一步助力长线资金入市。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1007097.d.html</link>
+            <guid>3815993</guid>
+            <pubDate>Mon, 14 Oct 2024 23:34:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【哈尔滨多家药店伪造特药处方骗保】近日，国家医保局大数据中心筛查数据时，发现在黑龙江哈尔滨的一家药店，有96名参保人购药金额特别巨大。其中一名参保人，2年购买约160盒治疗特殊疾病的处方药，金额超百万元，购药者却称药店从未要求提供处方。 飞行检查组对哈尔滨4家药店展开调查，发现药店拿出来的处方几乎都是手写，单张处方开具的药品少则近千元，多则一两万元。然而，处方上标注的医院却表示早已取消手写处方。检查组还发现了上万张药店预备的手写处方，处方均系伪造，总计金额超亿元！ 目前，国家医保局已将此事移交当地公安，4家涉事药店中2家已停业。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1402606.d.html</link>
+            <guid>3815991</guid>
+            <pubDate>Mon, 14 Oct 2024 23:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【华润饮料香港IPO拟筹资不超过50.4亿港元】根据呈交香港交易所的公告，华润饮料香港IPO发售3.478亿股股票，发行价区间13.5-14.5港元。计算显示，华润饮料拟筹资不超过50.4亿港元。预计10月23日挂牌上市。瑞银、中银国际、中信证券和美银证券为联席保荐人。基石投资者包括瑞银资产管理、橡树资本等。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1402504.d.html</link>
+            <guid>3815990</guid>
+            <pubDate>Mon, 14 Oct 2024 23:33:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空公司：重申与艾略特达成建设性解决方案的努力。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1402181.d.html</link>
+            <guid>3815988</guid>
+            <pubDate>Mon, 14 Oct 2024 23:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[西南航空公司：艾略特要求召开特别会议罢免八名西南航空董事会成员。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkc1402146.d.html</link>
+            <guid>3815987</guid>
+            <pubDate>Mon, 14 Oct 2024 23:32:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北约开启大规模核演习 佩斯科夫：只会导致紧张局势升级】据俄罗斯卫星通讯社14日报道，代号“坚定正午”的北约大规模核演习当天在北欧开启，来自13个北约国家的2000名军人和60架战机参加了此次演习。 根据北约14日发表的声明，北约的核演习是每年10月举行的例行和定期训练活动。此次演习是事先计划过的，已经准备了一年多，演习中不会使用实弹武器。声明称，演习将持续两周，动用8个空军基地。声明称，北约正在不断采取措施，确保核威慑力量的可靠性和有效性。俄罗斯卫星通讯社14日称，尽管北约称其演习为例行演习，但反战组织对其在国际紧张局势下的行为提出了批评。俄罗斯总统新闻秘书佩斯科夫14日表示，北约在当前俄乌冲突激烈的情况下举行核演习只会导致紧张局势升级。（环球时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4624834.d.html</link>
+            <guid>3815986</guid>
+            <pubDate>Mon, 14 Oct 2024 23:32:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报：“零首付”不等于“零代价”】 经济日报报道，个别房地产开发商和中介机构推出“零首付”购房，即不用交首付款，借款人在按时还月供的情况下有望获得一套住房；但事实上隐藏着诸多风险，稍有不慎将令借款人深陷债务陷阱。“零首付”通常是由房企、中介机构先行垫资以虚高的房价协助购房人购得房产；为了让购房者尽快偿还垫资，中介机构通过新注册或受让企业等方式，伪造虚假交易、经营流水等材料，“帮助”购房者向银行申请经营贷和信用贷，然后再用贷到的资金偿还前期垫资。监管政策和贷款投放等方面还存在一些薄弱环节，须尽快完善监管政策，严把贷款投放审核关，防范金融市场信贷风险。从银行贷款业务看，“零首付”短期看似为银行带来了增量业务，实则抬升了借款人的金融杠杆，一旦遇到市场波动很容易引发坏账风险，影响银行资产安全。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1005508.d.html</link>
+            <guid>3815985</guid>
+            <pubDate>Mon, 14 Oct 2024 23:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【经济日报金观平：提升覆盖全民的就业公共服务水平】 近日发布的《中共中央 国务院关于实施就业优先战略促进高质量充分就业的意见》提出健全精准高效的就业公共服务体系，促进高质量充分就业。我国已建4400多家公共就业服务机构，年服务1.1亿人次，但仍面临结构性就业矛盾和服务质量参差等问题。《意见》提出，完善覆盖全民的就业公共服务制度。完善制度，应提高服务普惠性。完善制度，应增强服务可及性。打破户籍、区域和身份等方面的限制，建好“家门口”就业服务站和零工市场，推行“大数据+铁脚板”服务模式，保证服务资源向基层下沉。完善制度，还需进一步提升服务的专业性。要提升服务人员专业能力，建设一支结构合理、素质优良的服务队伍；用好信息资源大数据，建好用好全国统一的就业公共服务信息平台，促进数据共享，为多元化的就业方式提供支撑。同时，还可与市场化人力资源服务机构合作，扩大专业化服务供给，促进资源有效对接。（经济日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1004825.d.html</link>
+            <guid>3815984</guid>
+            <pubDate>Mon, 14 Oct 2024 23:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【微软GenAI副总裁Sebastien Bubeck将离职，加入OpenAI】 微软当地时间10月14日表示，公司GenAI副总裁Sebastien Bubeck将离职，加入OpenAI。目前尚不清楚Bubeck将在OpenAI担任何种角色。微软发言人表示，“Sebastian已决定离开微软，继续致力于开发人工通用智能（AGI）”，期待通过Bubeck在OpenAI的工作继续保持两家公司的合作关系。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkh7781651.d.html</link>
+            <guid>3815983</guid>
+            <pubDate>Mon, 14 Oct 2024 23:29:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[消息人士称，东京地铁IPO价格为每股1200日元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtkf1003651.d.html</link>
+            <guid>3815982</guid>
+            <pubDate>Mon, 14 Oct 2024 23:27:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国方便面巨头农心将时隔17年再于国内建厂，目标进军欧洲市场】 根据韩国金融监督院10月14日公告，韩国方便面制造商农心计划在国内新建一座方便面工厂，以加强其全球供应能力，进军欧洲市场。农心将投资1918亿韩元（约合人民币10亿元），在釜山江西区的菉山国家产业园区建立专供出口的新工厂，预计2026年上半年完工，年底投产。农心时隔17年再次在韩国国内建厂，旨在满足韩流文化推动下日益增长的K-食品需求。数据显示，今年1至9月，韩国对欧洲的方便面出口额达1.53亿美元，同比增长49.8%，创下历史新高。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-15/detail-incsqtiz4622466.d.html</link>
+            <guid>3815981</guid>
+            <pubDate>Mon, 14 Oct 2024 23:24:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
