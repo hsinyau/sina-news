@@ -4,347 +4,430 @@
         <title>新浪新闻</title>
         <link>https://h52e5.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 21 Oct 2024 15:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 18:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://h52e5.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[委内瑞拉：前石油部长Tellechea已经被羁押。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9045465.d.html</link>
-            <guid>3826089</guid>
-            <pubDate>Mon, 21 Oct 2024 15:07:02 GMT</pubDate>
+            <title><![CDATA[美联储卡什卡利：令人惊讶的是，地缘政治危机并未对石油产生更多影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2175035.d.html</link>
+            <guid>3826251</guid>
+            <pubDate>Mon, 21 Oct 2024 18:11:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[印度煤炭部长：优先事项是提高国内生产，减少进口依赖。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5322980.d.html</link>
-            <guid>3826087</guid>
-            <pubDate>Mon, 21 Oct 2024 15:06:17 GMT</pubDate>
+            <title><![CDATA[【卡塔尔埃米尔与意大利总理举行会谈 讨论中东地区局势】当地时间10月21日，正在意大利访问的卡塔尔埃米尔塔米姆与意大利总理梅洛尼举行会谈，除了商谈进一步密切两国在各领域的关系外，双方还重点就中东地区局势进行了讨论。双方一致强调，国际社会需要加强努力，阻止中东地区局势进一步升级，并推动在加沙地带和黎巴嫩实现立即停火。两国当天还签署了在旅游、文化、军事等方面加强合作的多项谅解备忘录。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2174536.d.html</link>
+            <guid>3826250</guid>
+            <pubDate>Mon, 21 Oct 2024 18:08:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【缅甸南部一渡轮倾覆致8人死亡】缅甸南部德林达依省墨吉县消防部门21日说，当地一艘客运渡轮20日晚发生倾覆，造成至少8人死亡、18人失踪。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2268182.d.html</link>
-            <guid>3826086</guid>
-            <pubDate>Mon, 21 Oct 2024 15:05:38 GMT</pubDate>
+            <title><![CDATA[美国国务院：确保联合国驻黎巴嫩临时部队（联黎部队）的设施安全至关重要。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8951120.d.html</link>
+            <guid>3826248</guid>
+            <pubDate>Mon, 21 Oct 2024 18:05:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Datagro：下调巴西中南部糖产量预期至3870万吨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2266996.d.html</link>
-            <guid>3826082</guid>
-            <pubDate>Mon, 21 Oct 2024 14:58:49 GMT</pubDate>
+            <title><![CDATA[美联储卡什卡利：关税不太可能引发长期的通胀压力，可能仅导致一次性的价格调整。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2173593.d.html</link>
+            <guid>3826246</guid>
+            <pubDate>Mon, 21 Oct 2024 18:04:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[委内瑞拉上周末逮捕了原石油部长Pedro Tellechea。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8543864.d.html</link>
-            <guid>3826081</guid>
-            <pubDate>Mon, 21 Oct 2024 14:56:44 GMT</pubDate>
+            <title><![CDATA[美联储卡什卡利：移民政策将影响我们对劳动力市场的解读。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2173132.d.html</link>
+            <guid>3826245</guid>
+            <pubDate>Mon, 21 Oct 2024 18:02:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【常熟银行：拟吸收合并江苏丹徒蒙银村镇银行并设立分支机构】 常熟银行10月21日公告称，该行当日召开董事会会议，审议并通过了吸收合并江苏丹徒蒙银村镇银行并设立分支机构的议案，该议案尚需提交股东大会审议。根据董事会决议，常熟银行吸收合并丹徒蒙银100%股权，吸收合并完成后，常熟银行将注销丹徒蒙银独立法人资格，其营业部改设为丹徒支行。丹徒蒙银的全部业务、财产、债权债务以及其他各项权利均由常熟银行依法承继，附着于其资产上的全部权利和义务亦由常熟银行享有和承担。丹徒蒙银成立于2011年12月，注册资本1亿元，主发起行为内蒙古银行，持股比例51%。截至今年9月末，丹徒蒙银总资产5.31亿元，总存款4.63亿元，总贷款2.88亿元，不良率0.65%，拨备覆盖率154.54%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9043470.d.html</link>
-            <guid>3826079</guid>
-            <pubDate>Mon, 21 Oct 2024 14:55:13 GMT</pubDate>
+            <title><![CDATA[美国国务院：即便恐怖分子在民用基础设施中活动或隐蔽，仍然需要采取适当措施，以尽量减小对平民的影响。]]></title>
+            <guid>3826243</guid>
+            <pubDate>Mon, 21 Oct 2024 18:00:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中国PCT国际专利申请量连续5年位居世界第一】记者从国家知识产权局了解到，2024年中国迎来加入《专利合作条约》（PCT）的三十周年。《专利合作条约》（PCT）是知识产权领域重要的国际条约之一，PCT于1970年缔结，目前已有158个缔约国。申请人只需提交一件PCT国际专利申请，就可以同时在多个缔约国中寻求专利保护。据了解，1994年中国申请人通过PCT提交的专利申请仅有98件，至2023年，中国申请人提交的PCT国际专利申请量近7万件，已连续五年位居世界第一。中国国家知识产权局受理的PCT申请超过全球总量的1/4，涌现出一批PCT申请量名列前茅的中国申请人。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9042998.d.html</link>
-            <guid>3826075</guid>
-            <pubDate>Mon, 21 Oct 2024 14:51:45 GMT</pubDate>
+            <title><![CDATA[【伊朗外交部发言人：美国的支持使以色列“更加咄咄逼人”】 针对美国向以色列提供“萨德”反导系统，伊朗外交部发言人巴加埃21日回应称，这是美国对以色列全面支持的延续。他强调，以任何方式参与攻击伊朗的国家都将承担相应责任。巴加埃表示，此次美国向以色列提供“萨德”反导系统，是一年来美国和一些欧洲国家对以色列政权全面支持的延续，这些支持使以色列变得“更加咄咄逼人”。伊朗已经向相关国家传达信息，伊朗官员也多次表示，以色列的任何侵略行为都将得到伊朗的果断回应。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8948680.d.html</link>
+            <guid>3826235</guid>
+            <pubDate>Mon, 21 Oct 2024 17:57:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【SWIFT国际银行业运营大会2024年会在京开幕】当日，SWIFT（环球银行金融电信协会）国际银行业运营大会2024年会（简称“Sibos2024年会”）在北京国家会议中心开幕。Sibos年会是由SWIFT组织召开的金融行业标志性国际会议，始办于1978年。本次年会将就“未来金融，协同互联”及相关议题进行深度探讨和专业交流，共有来自150多个国家和地区的1万多名嘉宾参会。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9042676.d.html</link>
-            <guid>3826074</guid>
-            <pubDate>Mon, 21 Oct 2024 14:50:09 GMT</pubDate>
+            <title><![CDATA[美国国家飓风中心：热带风暴“奥斯卡”目前正位于古巴关塔那摩基地西北方向大约75公里处，风速达到每小时65公里。]]></title>
+            <guid>3826234</guid>
+            <pubDate>Mon, 21 Oct 2024 17:56:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【全国首批股票回购增持专项贷款签约仪式举办】 南山区金融发展服务中心消息，10月21日，全国首批股票回购增持专项贷款签约仪式暨专项银企对接会，在深圳市南山区举办。本次活动以“提信心、稳预期、促发展”为主题。招商蛇口、招商港口、威迈斯、招商银行深圳分行等首批“股票回购增持专项贷款”合作方相关负责人，广发证券行业专家及50余家上市公司、金融机构代表出席活动。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5319647.d.html</link>
-            <guid>3826073</guid>
-            <pubDate>Mon, 21 Oct 2024 14:49:40 GMT</pubDate>
+            <title><![CDATA[市场资讯：英国法律史上最大的诉讼之一于周一开庭。矿业巨头必和必拓因巴西最严重的环境灾难——2015 年马里亚纳大坝垮塌而面临数十亿美元的索赔。]]></title>
+            <guid>3826230</guid>
+            <pubDate>Mon, 21 Oct 2024 17:50:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【外交部副部长邓励会见波兰总统府副国务秘书帕夫拉克】外交部副部长邓励会见来华访问的波兰总统府副国务秘书兼国际政策局局长帕夫拉克。邓励表示，近年来，在两国元首的共同引领下，中波关系取得长足发展。下阶段，双方要落实好两国元首达成的重要共识，推动中波全面战略伙伴关系迈上新台阶，为中欧关系发展作出积极贡献。帕夫拉克表示，波中两国传统友好，杜达总统今年6月访华成果丰硕。波方愿同中方密切高层交往，拓展务实合作，促进波中、欧中关系实现新的发展。双方还就国际和地区问题交换了意见。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5319511.d.html</link>
-            <guid>3826071</guid>
-            <pubDate>Mon, 21 Oct 2024 14:48:52 GMT</pubDate>
+            <title><![CDATA[美国国务院：注意到了高投票率的现象，选举过程中并未出现重大的安全问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8946419.d.html</link>
+            <guid>3826226</guid>
+            <pubDate>Mon, 21 Oct 2024 17:48:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【沃尔核材：公司高速通信线订单需求持续增长中 机器满负荷运转】 沃尔核材10月21日在互动平台表示，目前，公司高速通信线订单需求持续增长中，机器满负荷运转。在高速通信线的产能方面，公司已拥有绕包机近三百台，芯线机二十多台，仍有上百台绕包机和几十台芯线机已下单；其中部分型号产品产能的扩充依赖于关键设备的采购，需要一定的时间周期，公司已提前进行了准备。随着新采购的高速通信线设备陆续交付，公司高速通信线产能有所提升，公司将合理调节资源、优化产能，以匹配客户需求。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2265304.d.html</link>
-            <guid>3826070</guid>
-            <pubDate>Mon, 21 Oct 2024 14:48:39 GMT</pubDate>
+            <title><![CDATA[美国国务院：美国正在敦促各政党进行对话，以便在周日的选举后迅速组建一个稳定且具有代表性的政府。]]></title>
+            <guid>3826225</guid>
+            <pubDate>Mon, 21 Oct 2024 17:47:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【山姆会员商店高管据悉因搬迁政策离职】 10月21日消息，据知情人士透露，沃尔玛旗下山姆会员商店的一位高管将离开公司，原因是一项政策要求数千名公司员工搬迁到阿肯色州的总部。知情人士说，由于个人原因，山姆会员商店首席技术官Cheryl Ainoa拒绝搬到阿肯色州。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5319174.d.html</link>
-            <guid>3826069</guid>
-            <pubDate>Mon, 21 Oct 2024 14:47:27 GMT</pubDate>
+            <title><![CDATA[美联储卡什卡利：很少有交易发生在加密货币上，除非是毒品或非法活动。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiv5222457.d.html</link>
+            <guid>3826223</guid>
+            <pubDate>Mon, 21 Oct 2024 17:46:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【殷勇分别会见加拿大博枫资产管理有限公司董事长和美国贝莱德集团副主席】10月20日下午，北京市市长殷勇分别会见来京出席2024金融街论坛年会的加拿大博枫资产管理有限公司董事长、英格兰银行前行长马克·卡尼和美国贝莱德集团副主席、瑞士国家银行前行长菲利普·希尔德布兰德。殷勇说，中国始终坚持对外开放基本国策，以开放促改革，中国对外开放的大门不会关闭，只会越开越大。中共二十届三中全会擘画了中国改革开放新蓝图，明确了深化金融体制改革、扩大高水平对外开放的一系列任务，将为中国同世界各国深化互利合作、实现共同发展提供更多新机遇。作为首都，北京是中央金融决策管理部门所在地，也是众多国家重要金融基础设施平台、金融行业协会、金融机构总部所在地，近年来依托“两区”建设，稳步推进以制度型开放为重点的高水平对外开放，扎实推动金融业高质量发展。欢迎博枫资产管理公司和贝莱德集团把握机遇、发挥优势，加大在京投资和业务布局，进一步拓展深化双方互利合作，共享北京高质量发展、高水平开放红利。我们将深化金融领域改革，着力打造市场化、法治化、便利化、国际化一流营商环境，以更加优质服务支持各类企业在京发展得越来越好。外方对投资中国的发展前景和增长潜力充满信心，表示金融街论坛年会是增进各方合作共识的重要平台，传递释放了合作发展的信心。卡尼表示，博枫资产管理公司愿把握中国发展机遇，进一步扩大在京业务，在绿色金融、基金业务和基础设施投资等领域加深双方合作。希尔德布兰德表示，贝莱德集团愿深耕中国市场，同北京市保持密切沟通，进一步拓展在京业务、深化交流合作，实现共赢发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9041912.d.html</link>
-            <guid>3826067</guid>
-            <pubDate>Mon, 21 Oct 2024 14:46:24 GMT</pubDate>
+            <title><![CDATA[美联储卡什卡利：随着预算赤字的增长，边际利率可能会上升；美国高通胀问题并非由劳动力市场引起。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8945662.d.html</link>
+            <guid>3826217</guid>
+            <pubDate>Mon, 21 Oct 2024 17:43:27 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据叙利亚国家媒体报道，大马士革“导弹袭击”事件至少造成一人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2264514.d.html</link>
-            <guid>3826066</guid>
-            <pubDate>Mon, 21 Oct 2024 14:44:42 GMT</pubDate>
+            <title><![CDATA[美国国务卿布林肯将于10月21日至25日访问以色列和中东。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiv5221362.d.html</link>
+            <guid>3826215</guid>
+            <pubDate>Mon, 21 Oct 2024 17:40:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国国家飓风中心：飓风“奥斯卡”仍给古巴东部部分地区带来强降雨。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2264443.d.html</link>
-            <guid>3826063</guid>
-            <pubDate>Mon, 21 Oct 2024 14:44:17 GMT</pubDate>
+            <title><![CDATA[【美国太空探索技术公司“Crew-8”返航任务或将推至22日】当地时间10月21日，美国国家航空航天局发表声明称，美国佛罗里达州多个潜在溅落地点附近的天气状况仍然不利于美国太空探索技术公司（SpaceX）“Crew-8”返航任务的进行。声明称，如果天气状况好转，美国国家航空航天局和美国太空探索技术公司计划最早于美国东部时间10月22日21时05分进行“Crew-8”与国际空间站的脱离操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyit8443113.d.html</link>
+            <guid>3826211</guid>
+            <pubDate>Mon, 21 Oct 2024 17:35:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【iPad11或明年底推出】10 月 21 日，马克・古尔曼透露苹果将于 2025 年底推出新款纯数字入门款 iPad（iPad 11），相比现款（2022 款）主要升级 8GB RAM，支持“苹果牌 AI”Apple Intelligence 功能，同时例行更新 SoC。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2264331.d.html</link>
-            <guid>3826062</guid>
-            <pubDate>Mon, 21 Oct 2024 14:43:40 GMT</pubDate>
+            <title><![CDATA[【德国总理朔尔茨重申反对欧盟对华电动汽车加征关税】当地时间10月21日，德国总理朔尔茨在参加一家动力电池回收工厂启动仪式时表示，中国在电动汽车领域表现出色，并重申德国反对向中国电动汽车加征关税。他强调，这种贸易保护主义的做法只会伤害到德国自身。朔尔茨还承诺，电动化是汽车行业未来的发展趋势，目前全球都在发展电动汽车技术。德国政府将继续建设电动汽车充电桩，保证稳定能源供应，推动欧盟加快建设电动汽车基础设施。10月4日，欧盟通过对华电动汽车反补贴案终裁草案，拟对原产于中国的电动汽车征收最终反补贴税。决定公布后，德国政府及多家本土汽车企业对此表示强烈反对。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2166156.d.html</link>
+            <guid>3826209</guid>
+            <pubDate>Mon, 21 Oct 2024 17:33:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【苏丹快速支援部队称完全控制苏丹西部一城市】苏丹快速支援部队表示，该武装当天在该国西部西达尔富尔州库尔布斯市与达尔富尔地方武装“联合部队”激烈交火，随后完全控制了库尔布斯市。苏丹快速支援部队称，在当天战斗中给“联合部队”造成大量人员伤亡和武器装备损失。“联合部队”未对此作出回应。该地方武装9月底曾宣布从快速支援部队手中收复库尔布斯市。2023年4月15日，苏丹武装部队与快速支援部队在首都喀土穆爆发武装冲突，随后蔓延至其他地区。持续一年多的武装冲突已造成超过2.4万人死亡。达尔富尔地区是冲突的主战场之一。达尔富尔地方武装“联合部队”与苏丹武装部队结盟，共同对抗快速支援部队。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9040935.d.html</link>
-            <guid>3826060</guid>
-            <pubDate>Mon, 21 Oct 2024 14:41:01 GMT</pubDate>
+            <title><![CDATA[根据美国国务院的声明，国务卿安东尼·布林肯强调了加沙地带实现停火的紧迫性。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8943059.d.html</link>
+            <guid>3826206</guid>
+            <pubDate>Mon, 21 Oct 2024 17:32:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【小鹏P7+ AI智驾技术分享会10月24日举行 小鹏汽车(XPEV.US)涨逾3%】周一，小鹏汽车(XPEV.US)上涨逾3%，报10.82美元。消息面上，据小鹏官方消息，小鹏P7+ AI 智驾技术分享会暨首发 AI 天玑 5.4.0 先享会将在10月24日14:30举行。小鹏P7+全系首发搭载小鹏全新一代AI鹰眼视觉方案。这是行业首个单个像素Lofic架构纯视觉方案，相比传统摄像头，具有更准、更清、更远的信息采集能力。]]></title>
-            <guid>3826059</guid>
-            <pubDate>Mon, 21 Oct 2024 14:40:42 GMT</pubDate>
+            <title><![CDATA[美国国务院表示，辛瓦尔曾长期阻碍共识的达成。然而，随着其死亡，现在需要持续对话；与提案相关的细节仍待进一步明确。]]></title>
+            <guid>3826204</guid>
+            <pubDate>Mon, 21 Oct 2024 17:31:32 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【金川国际：Ruashi SAS就Musonoi项目成功重续采矿许可证】金川国际(02362)公布，公司透过其非全资附属公司Ruashi SAS于Musonoi项目中持有100%权益。Ruashi SAS就Musonoi项目申请重续采矿许可证。采矿许可证于2024年4月3日届满，并已成功重续额外15年直至2039年4月3日止。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9040656.d.html</link>
-            <guid>3826057</guid>
-            <pubDate>Mon, 21 Oct 2024 14:40:05 GMT</pubDate>
+            <title><![CDATA[美国国务院表示，期望联合国第1701号决议能在以色列与黎巴嫩的争端中得到切实履行，我们的目标是通过外交途径达成最终解决方案。支持以色列旨在削弱真主党及其相关设施的行动。然而，他们强调必须确保平民的安全；不希望看到贝鲁特遭受频繁的袭击，因此呼吁采取一切必要措施来保护平民。]]></title>
+            <guid>3826200</guid>
+            <pubDate>Mon, 21 Oct 2024 17:27:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【辰兴发展：以政府发还款项收购尖草坪地块土地使用权】辰兴发展(02286)发布公告，于2024年9月23日，该公司的间接全资附属公司太原市辰雅房地产开发有限公司(太原辰雅)成功于网上投得两幅位处太原市尖草坪区的土地(“地块A”与“地块B”，统称“尖草坪地块”)(网上投标)，并与太原市规划和自然资源局(太原市规划和自然资源局)订立国有建设用地使用权成交确认书(确认书)。根据确认书，太原辰雅须于签立确认书后与太原市规划和自然资源局订立国有建设用地使用权出让合同以收购尖草坪地块。于2024年10月10日，太原辰雅与太原市规划和自然资源局订立国有建设用地使用权出让合同(土地使用权协议)。公司宣布，太原辰雅与(其中包括)尖草坪区人民政府订立一项改造协议，以更新改造位于太原市尖草坪区北固碾村的地块(北固碾村地块)。 根据改造协议的条款，太原辰雅负责支付总代价约人民币23.203亿元作为改造计划的补偿及重置成本，有关改造成本将以政府补贴北固碾村地块地价的形式付还予本集团。紧接网上投标结束前，太原辰雅已从当地政府收取部分上述政府补贴人民币 5.441亿元。太原辰雅与当地政府已协定，该笔款项将用作支付收购尖草坪地块的代价。除上述政府补贴外，太原辰雅概无有关收购事项的应付额外代价。鉴于尖草坪地块的地点及指定土地用途，董事认为，收购尖草坪地块符合本集团的业务发展策略与规划。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2263350.d.html</link>
-            <guid>3826054</guid>
-            <pubDate>Mon, 21 Oct 2024 14:39:16 GMT</pubDate>
+            <title><![CDATA[市场资讯：Wellcome Trust清仓阿里和京东。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2164474.d.html</link>
+            <guid>3826196</guid>
+            <pubDate>Mon, 21 Oct 2024 17:24:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【波音公司在提供新工资协议后 股价一度涨4.3%】波音公司股价一度上涨4.3% 至161.56美元。波音公司和工会周六表示，波音公司的罢工机工将于周三就一项新的合同提案（包括在四年内加薪35%）进行投票，该提案可能会结束持续五周的代价高昂的罢工。 分析师称，新提案可能会使公司4年内的工资支出增加10亿多美元。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9039809.d.html</link>
-            <guid>3826051</guid>
-            <pubDate>Mon, 21 Oct 2024 14:36:33 GMT</pubDate>
+            <title><![CDATA[美国国务院明确表示，我们坚决反对贝鲁特遭受的每日空袭，我们的立场始终如一。关于金融机构遭受打击的报道，我们已经注意到。我们期待以色列国防军对其行动给出解释。预计不久将有新的救援航班从黎巴嫩起飞，以协助当地民众。]]></title>
+            <guid>3826195</guid>
+            <pubDate>Mon, 21 Oct 2024 17:23:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【信诺连跌2日 或重启与Humana的合并计划】信诺(CI.US)继续下跌超4%，两日连跌近10%。知情人士称，公司已重启与规模较小的竞争对手Humana的合并计划，两家公司最近就潜在交易进行了非正式的早期讨论。值得注意的是，Cigna于去年年底结束了收购Humana的谈判，因为两家公司未能就价格达成一致，而后Cigna宣布回购价值100亿美元的股票，随即公司股价出现大涨行情。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9038766.d.html</link>
-            <guid>3826048</guid>
-            <pubDate>Mon, 21 Oct 2024 14:31:45 GMT</pubDate>
+            <title><![CDATA[市场资讯：合众汽车将巴西市场销售启动时间推迟至11月。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiv5218214.d.html</link>
+            <guid>3826194</guid>
+            <pubDate>Mon, 21 Oct 2024 17:23:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据伊朗官方通讯社IRNA：伊朗外长阿拉赫基率领高层代表团离开德黑兰前往巴林首都马纳马。在完成巴林之行后，阿拉赫基及其代表团将前往科威特。]]></title>
-            <guid>3826047</guid>
-            <pubDate>Mon, 21 Oct 2024 14:31:08 GMT</pubDate>
+            <title><![CDATA[【杰哈德否认其秘书长在叙利亚首都遭袭身亡】巴勒斯坦伊斯兰圣战组织（杰哈德）当地时间10月21日发表声明，坚决否认其秘书长齐亚德·纳哈拉当晚在叙利亚首都大马士革遭袭死亡的消息。当地时间21日，叙首都大马士革西部迈宰地区一辆汽车遭导弹袭击，造成2人死亡、3人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8940718.d.html</link>
+            <guid>3826190</guid>
+            <pubDate>Mon, 21 Oct 2024 17:21:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据叙利亚太空新闻：Mezzah地区的汽车爆炸是用导弹进行的。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8537922.d.html</link>
-            <guid>3826044</guid>
-            <pubDate>Mon, 21 Oct 2024 14:30:25 GMT</pubDate>
+            <title><![CDATA[欧洲联盟委员会的副主席兼外交事务高级代表博雷利：欧盟对摩尔多瓦举行的宪法公投结果表示欢迎，欧盟将持续助力摩尔多瓦推进民主进程、实施改革以及促进经济的增长。]]></title>
+            <guid>3826189</guid>
+            <pubDate>Mon, 21 Oct 2024 17:20:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【哈马斯下任领导人身份保密】据《耶路撒冷邮报》19日援引沙特媒体《中东报》消息称，为防止新任领导人再次遭到暗杀，巴勒斯坦伊斯兰抵抗运动（哈马斯）倾向于决定对外保密，不再公开该组织新任政治局领导人的身份。 报道称，《中东报》援引哈马斯消息人士的说法称，该组织内部正在讨论此事。消息人士称：“运动的领导层正朝着对新任政治局领导人的身份做出一项特殊决定的方向发展，即对其名字保密，原因很可能是因为该运动面临的安全挑战。” （环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2261087.d.html</link>
-            <guid>3826043</guid>
-            <pubDate>Mon, 21 Oct 2024 14:28:45 GMT</pubDate>
+            <title><![CDATA[【美国国务院：布林肯即将启程前往中东开展磋商】美国国务院表示，迫切需要向加沙地带的民众提供紧急救援；国务卿安东尼·布林肯在即将到来的中东访问中，将再次强调美国致力于缓和该地区紧张关系的立场。布林肯计划访问以色列，并且将陆续公布其他访问地。布林肯即将启程前往中东，旨在就以色列的紧张局势开展关键性磋商。目前存在达成停火协议的可能性。除了与以色列保持沟通外，与区域内其他合作伙伴的交流同样至关重要。针对加沙地带的人道主义状况，已经观察到一些积极的进展，这些进展标志着向正确方向的发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8939158.d.html</link>
+            <guid>3826184</guid>
+            <pubDate>Mon, 21 Oct 2024 17:12:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【阿联酋货运航空公司订购5架波音777货机】 10月21日消息，阿联酋货运航空 (Emirates SkyCargo）宣布订购五架波音777货机，扩大运力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9038111.d.html</link>
-            <guid>3826042</guid>
-            <pubDate>Mon, 21 Oct 2024 14:28:21 GMT</pubDate>
+            <title><![CDATA[【以色列将黎真主党附属金融机构列为恐怖组织】以色列国防部长加兰特宣布将隶属于黎巴嫩真主党的金融机构场所——“卡德哈桑协会”列为恐怖组织和黎巴嫩真主党的一个分支。黎巴嫩国家通讯社报道说，20日晚，贝鲁特南郊遭到了以军11次空袭。空袭的目标大多是“卡德哈桑协会”设在贝鲁特南郊的分支机构。黎真主党媒体称，以战机还空袭了黎东部和南部等地“卡德哈桑协会”的分支机构。“卡德哈桑协会”成立于1983年，1987年注册为非政府组织，为黎巴嫩民众提供小额贷款等金融服务，被当地人视为“银行”。该机构与黎巴嫩真主党关系密切，为真主党附属的金融机构。“卡德哈桑协会”在黎巴嫩全国有31家分支机构。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2161720.d.html</link>
+            <guid>3826183</guid>
+            <pubDate>Mon, 21 Oct 2024 17:10:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【以军袭击加沙地带多地 已致57人死亡】据巴勒斯坦方面消息，自当地时间10月21日凌晨起，以军在加沙地带的军事行动共导致57人死亡，其中44人集中在加沙地带北部。当地民防部门表示，自本月6日以军在加沙地带北部杰巴利耶难民营发动新一轮军事行动以来，已导致当地超600人死亡，目前仍有数十人被埋在废墟之下。消息称，以军当天闯入位于杰巴利耶难民营一处联合国近东巴勒斯坦难民救济和工程处（近东救济工程处）下属学校，并向在学校内避难的流离失所者开火，导致10人死亡、30人受伤。以军还袭击了难民营内一群巴勒斯坦民众，导致包括儿童在内的6人死亡、多人受伤。此外，在该难民营一所医院附近，以军无人机袭击了一群当地民众，导致4人死亡。在加沙城北部，以军当天袭击了一栋民宅，导致9人死亡、数十人受伤。在加沙地带北部城镇拜特哈嫩，以军袭击了一所为流离失所者提供庇护的学校，导致3人死亡、多人受伤。以色列方面对此暂无回应。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8537150.d.html</link>
-            <guid>3826039</guid>
-            <pubDate>Mon, 21 Oct 2024 14:26:25 GMT</pubDate>
+            <title><![CDATA[【大都会集团据悉洽谈收购柏瑞在中国大陆以外的资产】 据知情人士透露，美国保险公司大都会集团（MET）正就收购柏瑞投资在中国大陆以外的资产进行深入谈判，交易估值可能为10亿-15亿美元。谈判进入排他性阶段，涉及管理规模约1,000亿美元的资产。柏瑞资本的多数股权由香港亿万富翁李泽楷的控股公司盈科拓展集团持有。大都会出价高于其他资产管理公司和金融机构等竞争对手，成为最有可能的买家。盈科拓展集团一直在考虑出售柏瑞投资，这其中不包括与华泰证券的合资业务。据公司网站显示，华泰与柏瑞的合资公司截至6月底管理资产规模超过700亿美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2161489.d.html</link>
+            <guid>3826182</guid>
+            <pubDate>Mon, 21 Oct 2024 17:09:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【第七届世界声博会暨2024科大讯飞全球1024开发者节即将启幕】10月21日，从安徽省政府举办的新闻发布会上获悉，第七届世界声博会暨2024科大讯飞全球1024开发者节于10月24日至27日在合肥举办。本届大会将重磅发布讯飞星火大模型最新版本，首次发布多模态视觉交互技术，首发超拟人虚拟人交互能力，并联合国内行业龙头共同发布大模型应用场景，集中展示安徽在人工智能赋能新能源汽车、工业互联网、企业数字化、教育、医疗等领域的产业化应用示范。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8536926.d.html</link>
-            <guid>3826038</guid>
-            <pubDate>Mon, 21 Oct 2024 14:25:19 GMT</pubDate>
+            <title><![CDATA[【伊朗致函IAEA投诉以色列威胁攻击核设施】伊朗外交部发言人在10月21日的例行记者会上证实，伊朗已致函国际原子能机构（IAEA），“投诉以色列威胁袭击其核设施”。这位发言人指出，“根据相关决议，对一国核设施发出侵略性威胁，应受到谴责并被禁止。” 10月1日晚，伊朗对以色列发动大规模导弹袭击，作为对以色列一系列袭击和暗杀行动的回应。以色列则誓言报复。有媒体报道称，以军打击目标可能会包括伊朗的核设施和石油设施。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8936913.d.html</link>
+            <guid>3826180</guid>
+            <pubDate>Mon, 21 Oct 2024 17:01:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[叙利亚国家媒体称，初步报告显示，大马士革Mezzah地区发生汽车爆炸。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5314086.d.html</link>
-            <guid>3826037</guid>
-            <pubDate>Mon, 21 Oct 2024 14:25:11 GMT</pubDate>
+            <title><![CDATA[【英国航空暂停以色列航班至明年3月】英国航空公司宣布，由于中东地区紧张局势升级，特别是以色列与黎巴嫩真主党在黎巴嫩南部的冲突加剧，将停飞前往特拉维夫的航班，直至2024年3月31日。该航空公司在一份声明中表示，此举旨在为客户提供更多确定性，并正在与受影响的客户沟通，提供包括全额退款在内的多种选择。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyit8437231.d.html</link>
+            <guid>3826179</guid>
+            <pubDate>Mon, 21 Oct 2024 17:00:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【钱江水利平湖市独山港区工业水厂三期工程正式开工】 10月18日，钱江水利开发股份有限公司所属平湖钱江水务独山港区工业水厂三期工程正式开工。平湖市独山港区工业水厂三期水处理规模5万吨/日，预计于2025年12月底完工并投入使用。投产后，平湖钱江水务独山工业水厂将达到14.9万吨/日的制水规模，进一步提升独山港区供水保障能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9036755.d.html</link>
-            <guid>3826034</guid>
-            <pubDate>Mon, 21 Oct 2024 14:22:05 GMT</pubDate>
+            <title><![CDATA[【美国白宫：辛瓦尔虽死，人质谈判尚未重启】虽然美国最初将以色列杀死哈马斯领导人叶海亚·辛瓦尔（Yahya Sinwar）视为在长达数月的僵局后重启人质谈判的机会，但白宫国家安全委员会发言人柯比承认，在辛瓦尔被杀后的五天里，没有重启任何此类谈判。柯比表示：“我今天不能坐在这里告诉你们，谈判即将在多哈、开罗或其他任何地方重启，但是我们已经开始在这里考虑这个问题，并与以色列方面进行了一些初步的对话。”柯比补充称，与此相关，美国特使目前正在贝鲁特与黎巴嫩官员进行会谈，“看看在以色列和真主党之间试图找到有意义的停火方面可能存在的问题”。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiq2159492.d.html</link>
+            <guid>3826178</guid>
+            <pubDate>Mon, 21 Oct 2024 16:59:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【联合国《生物多样性公约》第十六次缔约方大会正式开幕 哥伦比亚接任主席国】当地时间10月21日，为期12天的联合国《生物多样性公约》第十六次缔约方大会在哥伦比亚第三大城市卡利正式开幕。作为第十五次缔约方大会主席国，中国生态环境部部长黄润秋宣布大会正式开幕，并将象征主席国的木槌移交给哥伦比亚环境和可持续发展部长玛利亚·苏珊娜·穆罕默德·冈萨雷斯。大会开幕后，各国将就应对气候变化、共同努力保护生物多样性等正式展开谈判。联合国《生物多样性公约》第十六次缔约方大会于10月21日至11月1日在哥伦比亚卡利举行。本次大会将围绕保护生物多样性、可持续利用自然资源，以及公平分配可持续利用资源所产生的利益这三个方面展开讨论。大会还寻求将生物多样性纳入经济政策。来自全球196个国家的政府首脑、高级官员、专家学者、社会组织等上万名人员与会。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2259485.d.html</link>
-            <guid>3826033</guid>
-            <pubDate>Mon, 21 Oct 2024 14:21:31 GMT</pubDate>
+            <title><![CDATA[【摩尔多瓦公投结果显示超过半数选民支持加入欧盟】摩尔多瓦中央选举委员会21日公布的全民公投最终计票结果显示，50.46%的选民支持修改现行宪法，将加入欧盟确立为摩尔多瓦的战略目标。摩尔多瓦20日举行总统选举和关于加入欧盟的宪法修正案全民公投。公投的最终结果显示，宪法修正案支持者占50.46%，反对者占49.54%，公投的投票率为51.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8936196.d.html</link>
+            <guid>3826177</guid>
+            <pubDate>Mon, 21 Oct 2024 16:57:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【霍尼韦尔与谷歌合作，将数据与生成式人工智能相结合】霍尼韦尔（Honeywell）和谷歌（Google）周一表示，双方已签署协议，将人工智能技术与其工业数据连接起来，以期为客户提供简化的自主操作。这项合作将把 Alphabet 旗下谷歌最先进的人工智能技术 Gemini 与霍尼韦尔通过其 Forge 平台收集的工业数据结合起来，在这个持续面临劳动力短缺的行业中实现任务自动化并缩短项目时间。人工智能驱动的工具将帮助工程师、仓库工人和技术人员等实现任务自动化，首批人工智能解决方案将于2025年交付给霍尼韦尔的客户。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2258983.d.html</link>
-            <guid>3826029</guid>
-            <pubDate>Mon, 21 Oct 2024 14:18:53 GMT</pubDate>
+            <title><![CDATA[市场消息：俄罗斯大使馆报告称，一架可能载有俄罗斯人的货机在苏丹被击落，现正在调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8934926.d.html</link>
+            <guid>3826173</guid>
+            <pubDate>Mon, 21 Oct 2024 16:50:30 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[叙利亚国家媒体称，叙利亚大马士革Mezzah地区传出爆炸声，调查正在进行中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8535459.d.html</link>
-            <guid>3826028</guid>
-            <pubDate>Mon, 21 Oct 2024 14:17:37 GMT</pubDate>
+            <title><![CDATA[加密数字货币交易所Coinbase要求美国国税局（IRS）在加密货币成本基数报告方面提供更多时间。]]></title>
+            <guid>3826166</guid>
+            <pubDate>Mon, 21 Oct 2024 16:41:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[特朗普媒体科技集团(DJT.O)涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2258429.d.html</link>
-            <guid>3826026</guid>
-            <pubDate>Mon, 21 Oct 2024 14:16:05 GMT</pubDate>
+            <title><![CDATA[【LVMH宣布推出国际员工持股计划LVMH Shares】LVMH宣布推出“LVMH Shares”，这是一项针对其全球70%员工的国际员工持股计划，允许员工购买最多20万股新发行股份。该计划覆盖欧洲、北美和亚洲的11个地点和地区的员工。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyiv5210397.d.html</link>
+            <guid>3826164</guid>
+            <pubDate>Mon, 21 Oct 2024 16:39:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[伊拉克石油部：伊拉克卡尔巴拉炼油厂将在周二恢复运营，维护工作已完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5312367.d.html</link>
-            <guid>3826025</guid>
-            <pubDate>Mon, 21 Oct 2024 14:15:52 GMT</pubDate>
+            <title><![CDATA[摩根士丹利将家得宝目标价从380.00美元上调至450.00美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8931736.d.html</link>
+            <guid>3826161</guid>
+            <pubDate>Mon, 21 Oct 2024 16:37:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国常会最新部署有关举措 专家：全国统一大市场建设进入新发展阶段】近日召开的国务院常务会议，研究部署深入推进全国统一大市场建设的有关举措。专家认为，这次会议的召开标志着全国统一大市场建设进入一个新的发展阶段，意味着我国政府将进一步深化市场改革，促进市场的公平竞争和资源的高效配置。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9035181.d.html</link>
-            <guid>3826022</guid>
-            <pubDate>Mon, 21 Oct 2024 14:13:33 GMT</pubDate>
+            <title><![CDATA[【两部门发文：支持珍稀濒危中药材替代品研制】 10月21日，国家药监局、国家中医药局联合发布《关于支持珍稀濒危中药材替代品研制有关事项的公告》，提出加强产学研合作、加强技术指导、加速审评审批等具体措施，进一步贯彻落实《中共中央 国务院关于促进中医药传承创新发展的意见》关于“支持珍稀濒危中药材替代品的研究和开发利用”有关部署。稀濒危中药材替代品研制注册申请给予优先审评审批和附条件批准的支持性政策。国家药监局在前期工作基础上，进一步研究完善相关监管政策和技术要求，促进中医药传承创新发展。（央视新闻）]]></title>
+            <guid>3826157</guid>
+            <pubDate>Mon, 21 Oct 2024 16:27:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【机构今日看好这些个股】10月21日，截至发稿，机构共给出47次最新买入评级，其中15只个股目标价获公布：-平安银行获天风证券、华泰金控看好，最高目标价为14.81元；-福耀玻璃获东吴证券、长江证券等3家机构青睐，其中华泰金控给出目标价为66.06元；-宁德时代、森马服饰、新澳股份等多股在列。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2258010.d.html</link>
-            <guid>3826021</guid>
-            <pubDate>Mon, 21 Oct 2024 14:13:19 GMT</pubDate>
+            <title><![CDATA[【以媒称报复伊朗或仍以空袭震慑为主】当地时间10月20日晚，以色列总理内塔尼亚胡在特拉维夫召集安全内阁会议。这次会议是在以色列打死哈马斯领导人辛瓦尔之后召开的第一次安全内阁的会议，也是内塔尼亚胡的私人住宅被黎巴嫩真主党无人机袭击之后的第一次会议。外界普遍预测这次会议可能要就以色列打击伊朗的方式、时间及规模作出决定。不过据总台记者了解，会议没有就此进行详细讨论。以色列媒体认为，虽然包括所谓“绝密文件”外泄在内的一系列事件可能会促使以色列重新调整对伊朗的报复行动，但目前来看，以军行动可能仍以“战机发射导弹+无人机袭扰”的模式为主，且主要为起震慑目的。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctiyir8929635.d.html</link>
+            <guid>3826154</guid>
+            <pubDate>Mon, 21 Oct 2024 16:25:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【微软GB200芯片订单量激增3-4倍 英伟达(NVDA.US)涨逾2%】周一，英伟达(NVDA.US)上涨逾2%，再度刷新纪录新高，报141.18美元/股，总市值达3.5万亿美元。消息面上，天风国际证券分析师郭明錤最新发布英伟达Blackwell GB200芯片的产业链订单信息显示，目前微软是全球最大的GB200客户，今年第四季度订单量激增3—4倍，订单量超过其他所有云服务商的总和。郭明錤在新报告中表示，Blackwell芯片的产能扩张预计在2024年第四季度初启动，预计第四季度的出货量将在15万到20万块之间，预计2025年第一季度出货量将显著增长200%到250%，达到50万到55万块。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2257897.d.html</link>
-            <guid>3826020</guid>
-            <pubDate>Mon, 21 Oct 2024 14:12:27 GMT</pubDate>
+            <title><![CDATA[美国副总统哈里斯宣布，政府计划对一项服务进行重组，目的是让医疗保险能够承担父母在家中接受护理的相关费用。为了提升医疗体系的整体效能，我们应当设计并实施一套有效的激励措施，同时确保各类医疗机构，包括诊所和医院，都能获得必要的资源支持。此外，她还指出，社会需要更深入地探讨医疗体系中女性所面临的挑战，以及我们是否真正重视女性在谈论自身健康问题时的声音。政府无权干涉女性的个人选择。她承诺，一旦国会通过立法，旨在保障女性生育权利的法案，她将毫不犹豫地签署，使之成为法律，以此表达她对女性权益的支持和骄傲。]]></title>
+            <guid>3826153</guid>
+            <pubDate>Mon, 21 Oct 2024 16:24:26 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【AI用于抗衰老？业内专家：可发现面部时间点，为后续产品研发提供数据基础 】AI（人工智能）技术的融合应用延伸到了抗衰老领域。在10月18日举行的AMWC世界美容抗衰老大会上，AI技术如何应用于美容抗衰成为热议话题之一。美图宜肤肤智能驱动战略总监傅思颖分享称，目前，AI已经与大数据相结合在抗衰老领域中实现应用。他表示，通过对研究人群的数据进行分析，发现了一些衰老的关键时间点。以常见的⾯部纹路为例，⼝⻆纹、眉间纹和泪沟通常在30岁后期开始出现，但要直到50岁后期才会趋于稳定。“与传统的肉眼观测皮肤状况相比，AI测肤可以自动化皮肤特征提取，处理高维度、复杂的图像数据，以及通过大规模数据持续训练不断提升和进化的能力。”傅思颖谈到。（每经）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2257793.d.html</link>
-            <guid>3826019</guid>
-            <pubDate>Mon, 21 Oct 2024 14:11:57 GMT</pubDate>
+            <title><![CDATA[市场资讯：加拿大养老基金准备以70亿欧元出售Cubico。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzt9059542.d.html</link>
+            <guid>3826151</guid>
+            <pubDate>Mon, 21 Oct 2024 16:20:49 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两船在福建宁德海域发生碰撞 造成4人失联】10月21日下午，一艘货轮与一艘渔船在福建宁德海域发生碰撞，渔船上有4人失联，目前搜救工作正在进行中。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2257279.d.html</link>
-            <guid>3826017</guid>
-            <pubDate>Mon, 21 Oct 2024 14:09:18 GMT</pubDate>
+            <title><![CDATA[【叙利亚首都一汽车遭以色列空袭 已致2死3伤】据叙利亚军方消息，当地时间21日下午，以色列在叙利亚首都大马士革迈宰区对一辆民用汽车发动了空袭，导致2名平民死亡，另有3人受伤。以色列方面对此暂无回应。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzv8560588.d.html</link>
+            <guid>3826148</guid>
+            <pubDate>Mon, 21 Oct 2024 16:19:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华安证券与中曼石油签署战略合作协议】华安证券日前与中曼石油座谈并签署战略合作协议签约。华安证券党委副书记、总经理赵万利，中曼集团董事长、李春第代表双方现场签订战略合作协议。（中证网）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9164415.d.html</link>
-            <guid>3826014</guid>
-            <pubDate>Mon, 21 Oct 2024 14:05:42 GMT</pubDate>
+            <title><![CDATA[美国副总统哈里斯表示，她的住房政策中包括与建筑商和住房建设者紧密合作，通过提供税收减免来促进美国住房供应的增长。]]></title>
+            <guid>3826144</guid>
+            <pubDate>Mon, 21 Oct 2024 16:16:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国地震台网正式测定：10月21日21时53分在新疆巴音郭楞州尉犁县（北纬40.88度，东经84.22度）发生3.5级地震，震源深度10千米。]]></title>
-            <guid>3826012</guid>
-            <pubDate>Mon, 21 Oct 2024 14:04:25 GMT</pubDate>
+            <title><![CDATA[美国副总统哈里斯强调，在新一代领导人的引领下，我们应抱有远大的志向，着眼于未来尚未实现的目标。她提到自己的经济策略，称之为“机会经济”，这包括对美国各行各业的投资，同时确保我们不会忽视那些历史悠久且表现出色的产业。]]></title>
+            <guid>3826143</guid>
+            <pubDate>Mon, 21 Oct 2024 16:14:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【亿航智能涨逾10%】亿航智能涨逾10%。消息面上，国家相关部委拟成立低空经济专管司局，目前正在筹备当中。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptu2386353.d.html</link>
-            <guid>3826011</guid>
-            <pubDate>Mon, 21 Oct 2024 14:02:10 GMT</pubDate>
+            <title><![CDATA[【以军称摧毁黎真主党武器库 黎真主党称击落以军无人机】当地时间10月21日，以色列国防军继续在黎巴嫩南部展开行动。以军称，在黎巴嫩南部地区摧毁了黎巴嫩真主党武装的军事设施，黎真主党称，该武装对以军目标发起多次行动，并击落以色列一架无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzt9057793.d.html</link>
+            <guid>3826142</guid>
+            <pubDate>Mon, 21 Oct 2024 16:14:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[旭辉控股披露境外债务重组消息，旭辉控股同意对重组支持协议作出若干修订。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9162776.d.html</link>
-            <guid>3826008</guid>
-            <pubDate>Mon, 21 Oct 2024 13:59:05 GMT</pubDate>
+            <title><![CDATA[美国副总统哈里斯强调，美国民众应当避免相互指责，应认识到一些人利用总统职权来贬低和分裂国民。她指出，公众对此感到疲惫是合理的，因为这种行为并不会增强国家的力量，反而会导致美国人民之间的猜疑和不信任。]]></title>
+            <guid>3826140</guid>
+            <pubDate>Mon, 21 Oct 2024 16:13:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[海南省气象台2024年10月21日21时55分解除本岛东部海面海上雷雨大风黄色预警信号。]]></title>
-            <guid>3826007</guid>
-            <pubDate>Mon, 21 Oct 2024 13:58:30 GMT</pubDate>
+            <title><![CDATA[美国政府对摩尔多瓦就欧盟相关议题的投票表示赞赏，白宫方面指出，俄罗斯的企图未能阻止摩尔多瓦总统选举的顺利进行。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzx5335634.d.html</link>
+            <guid>3826136</guid>
+            <pubDate>Mon, 21 Oct 2024 16:10:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【天猫双11 开卖5分钟，苹果成交额破10亿】天猫双11今晚8点现货开卖，开售仅5分钟，苹果成交金额超10亿。华为、小米、vivo、三星、索尼等3C数码品牌成交也迅速破亿。vivo、iQOO手机品牌等15分钟成交超去年首小时。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9162611.d.html</link>
-            <guid>3826006</guid>
-            <pubDate>Mon, 21 Oct 2024 13:58:18 GMT</pubDate>
+            <title><![CDATA[美国卡车司机协会：超百位国会议员共同签署信函，力挺亚马逊货运司机。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzt9056439.d.html</link>
+            <guid>3826134</guid>
+            <pubDate>Mon, 21 Oct 2024 16:09:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【互联网金融平台挪用用户额度？业内人士:误解】 近日，网上流传“某互联网金融平台挪用用户额度”，称平台会替用户多贷款。据金融业内人士表示，实际上，该言论是错将征信报告中的“余额”理解为“剩余额度”。征信报告里面的“余额”是客户借款的剩余本金，也就是说指没还钱的金额。(21财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptu2385188.d.html</link>
-            <guid>3826005</guid>
-            <pubDate>Mon, 21 Oct 2024 13:57:20 GMT</pubDate>
+            <title><![CDATA[贝莱德CEO拉里·芬克：民主党和共和党都对美国的巨额赤字负有责任。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-22/detail-inctitzv8558101.d.html</link>
+            <guid>3826133</guid>
+            <pubDate>Mon, 21 Oct 2024 16:08:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【上海市域铁机场联络线预计年内开通 浦东⇋虹桥仅40分钟】上海市府新闻办组织“我们的人民城市”专题采访。记者了解到，上海首条新建市域铁机场联络线预计年内正式开通运行。机场联络线是上海市域铁路网络中东西向的骨干线路，连接本市“两场三站”重要对外交通枢纽。线路全长68.6公里，途经闵行、徐汇、浦东新区3个行政区，全线共设虹桥2号航站楼站、中春路站、景洪路站、三林南站、康桥东站、上海国际旅游度假区站、浦东1号2号航站楼站、浦东机场T3航站楼站、上海东站站共9座车站，其中地下站6座，地面站3座。未来虹桥和浦东两大综合交通枢纽间运行时间将大幅减少，控制在40分钟左右。 (上观新闻)]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9162126.d.html</link>
-            <guid>3826003</guid>
-            <pubDate>Mon, 21 Oct 2024 13:56:21 GMT</pubDate>
+            <title><![CDATA[巴西官员表示，巴西总统卢拉在头部受伤后“恢复得很好”，卢拉与巴西外长保持直接联系，后者将代表他出席金砖国家峰会。]]></title>
+            <guid>3826131</guid>
+            <pubDate>Mon, 21 Oct 2024 16:05:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[以色列军方表示，在五架无人机进入该国之前，已在地中海拦截了它们。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9161963.d.html</link>
-            <guid>3826002</guid>
-            <pubDate>Mon, 21 Oct 2024 13:55:27 GMT</pubDate>
+            <title><![CDATA[【密件外泄显示美以部分关键问题缺乏沟通】近日，一个名为“中东观察家”的账号在社交媒体“电报”上发布所谓“来源于美国的绝密情报文件”，披露了“以色列报复伊朗相关计划”。这些“绝密文件”从行文方式来看似乎并不是以色列直接透露给美国进行情报共享的内容。美国媒体就此认为，这显示出美国对以色列的军事活动进行了十分详细的监视侦察，而且还有可能是美方故意外泄的。中国国际问题研究院助理研究员李子昕就此指出，由此看来，美以在一些关键的问题上，似乎也没有如外界所预期的进行深度合作与沟通，而以色列或将调整报复伊朗的打击计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5332385.d.html</link>
+            <guid>3826125</guid>
+            <pubDate>Mon, 21 Oct 2024 15:59:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国家数据局向社会公开征求《数据领域名词解释》意见】为进一步凝聚共识，推动社会各界对数据领域术语形成统一认识，国家数据局就《数据领域名词解释》向社会公开征求意见。此次征求意见的时间是2024年10月21日至11月20日。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptz5438983.d.html</link>
-            <guid>3826001</guid>
-            <pubDate>Mon, 21 Oct 2024 13:54:27 GMT</pubDate>
+            <title><![CDATA[【墨西哥政府考虑出台税收激励措施 以吸引外国公司】墨西哥副外贸部长罗森多表示，正在分析财政信贷激励措施，以吸引外国生产商，特别是在电动车、半导体、稀土矿产、电池和电子行业。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8555065.d.html</link>
+            <guid>3826124</guid>
+            <pubDate>Mon, 21 Oct 2024 15:58:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[沙特阿拉伯外交部在周一发表声明，呼吁国际社会，特别是联合国安理会，对以色列行为追究责任。]]></title>
-            <guid>3825999</guid>
-            <pubDate>Mon, 21 Oct 2024 13:53:47 GMT</pubDate>
+            <title><![CDATA[【以军称监测到一枚自黎巴嫩方向射来的炮弹】 当地时间21日傍晚，以色列中部特拉维夫传出爆炸声。据悉，爆炸声传出前，当地并未拉响防空警报。对此，以色列军方称，稍早前以军监测到一枚自黎巴嫩方向射来的炮弹，并落在以色列中部一片开阔地区。此次袭击并未在当地触发防空警报。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9053457.d.html</link>
+            <guid>3826123</guid>
+            <pubDate>Mon, 21 Oct 2024 15:57:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【南宁百货：股东富天投资减持期满 合计减持305.35万股】南宁百货(600712.SH)公告，公司股东南宁市富天投资有限公司减持时间区间届满，合计减持公司股份305.35万股。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptv9161505.d.html</link>
-            <guid>3825997</guid>
-            <pubDate>Mon, 21 Oct 2024 13:53:26 GMT</pubDate>
+            <title><![CDATA[【数据要素产业有新催化，机构看好这些高增长潜力股】近日，据国家数据局微信公众号，国家数据局研究起草了《可信数据空间发展行动计划（2024—2028年）》，现向社会公开征求意见。其中提出，到2028年，可信数据空间标准体系、技术体系、生态体系、安全体系等取得突破，建成100个以上可信数据空间，形成一批数据空间解决方案和最佳实践，基本建成广泛互联、资源集聚、生态繁荣、价值共创、治理有序的可信数据空间网络，各领域数据开发开放和流通使用水平显著提升，初步形成与我国经济社会发展水平相适应的数据生态体系。数据要素产业链分为数据资源要素化、市场化流通与数据要素应用三大环节。，A股市场上，超300只股票涉及数据要素产业链，截至10月21日收盘，概念股A股市值合计超3万亿元。根据5家以上机构一致预测，2024年—2026年净利润增速均有望超20%的概念股有22只。截至10月21日收盘，这些股票中，科远智慧、润建股份、能科科技、米奥会展等滚动市盈率低于30倍。以最新收盘价与机构一致预测目标价相比，润建股份、科远智慧、米奥会展、能科科技、金盘科技、烽火通信、捷顺科技上涨空间逾10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8554735.d.html</link>
+            <guid>3826122</guid>
+            <pubDate>Mon, 21 Oct 2024 15:56:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【北京地铁17号线中段隧道全部贯通】据北京市重大项目办和京投轨道公司消息，经过715米的地下掘进，今天，随着广渠门外站—永安里站区间右线隧道顺利贯通，北京地铁17号线中段隧道全部贯通，标志着距离地铁17号线南北贯通又近了一步。据京投轨道公司相关负责人介绍，17号线中段（十里河—工人体育场），线路长约7.2公里，设4座车站。全线采用A型车，8辆编组，行车间隔高峰3分钟、平峰6—8分钟，线路最高行车速度100公里/小时。中段建成后，17号线将实现全线贯通运营，届时，从嘉会湖站到未来科学城北站仅需66分钟。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptz5438503.d.html</link>
-            <guid>3825994</guid>
-            <pubDate>Mon, 21 Oct 2024 13:52:26 GMT</pubDate>
+            <title><![CDATA[企业软件初创公司ZipHQ Inc.按22亿美元估值融资1.9亿美元，2023年投资者给出的估值为15亿美元。本轮融资由新投资者BOND领投，DST Global、Y Combinator、CRV参投。这家由人工智能（AI）技术驱动的软件公司帮助企业购买商品和供应。]]></title>
+            <guid>3826121</guid>
+            <pubDate>Mon, 21 Oct 2024 15:54:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【杭州银行：聘任王晓莉为业务总监和董事会秘书】 杭州银行10月21日晚间公告，公司第八届董事会第十一次会议审议并通过决议，决定聘任王晓莉为公司业务总监和董事会秘书，任期至第八届董事会届满之日止。王晓莉的任职资格尚待国家金融监督管理总局浙江监管局核准。会议还审议通过了公司2024年度中期利润分配方案，以实施权益分派股权登记日的普通股总股本为基数，向登记在册的全体普通股股东每10股派送现金股利3.7元人民币（含税）。以截至2024年6月30日的普通股总股本59.3亿股为基数计算，合计拟派发现金股利21.94亿元人民币（含税）。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptu2382845.d.html</link>
-            <guid>3825991</guid>
-            <pubDate>Mon, 21 Oct 2024 13:47:38 GMT</pubDate>
+            <title><![CDATA[【多家银行年内二度上调积存金起购点】 随着金价持续走高，近期又有银行陆续调高积存金投资门槛，其中部分银行年内二次上调起投门槛。多数银行起购点上调至650元或700元。具体来看，今年4月份、5月份，多家国有大行和股份制银行对积存金起购点进行调整。9月底、10月初不少银行相继对积存金起购点再次调整。在业内专家看来，虽然黄金价格目前较高，但后续仍然有进一步上涨的空间，未来还将有银行继续调整积存金起购点。黄金作为贵金属也是大宗商品，作为投资品仍然存在风险，投资者在参与积存金业务时需要考虑自身流动性和风险承受能力，合理开展投资。（证券日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9053003.d.html</link>
+            <guid>3826120</guid>
+            <pubDate>Mon, 21 Oct 2024 15:53:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【江西新余市人民医院原党委书记胡柳被“双开”：对医院违规使用医保基金问题失管失察】经查，胡柳丧失理想信念，背离初心使命，对党不忠诚不老实，干扰巡察工作，匿名诬告，有意陷害；无视中央八项规定精神，违规收受礼品礼金和接受宴请，将应当由本人支付的费用交由他人支付；违反组织原则，在组织函询时不如实说明问题；廉洁底线失守，违规从事营利活动，利用职权为亲属谋取利益，搞权色交易；漠视群众利益，对符合政策的群众诉求消极应付，损害党群、干群关系；对市人民医院违规使用医保基金问题失管失察；生活腐化堕落，道德败坏；背弃职责操守，大搞权钱交易，利用职务便利为他人在工程承揽、设备耗材采购、新药引进等方面谋取利益，并非法收受巨额财物；胡柳作为市人民医院直接负责的主管人员，以单位的名义非法收受相关企业巨额财物，并为其谋取利益。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptu2382805.d.html</link>
-            <guid>3825990</guid>
-            <pubDate>Mon, 21 Oct 2024 13:47:23 GMT</pubDate>
+            <title><![CDATA[对于将伊斯兰革命卫队列入黑名单的最新情况，欧盟发言人彼得·斯塔诺表示，所有关于限制措施和恐怖组织名单的讨论都是在欧盟成员国之间秘密进行的。我们不会就此问题公开发表评论。]]></title>
+            <guid>3826118</guid>
+            <pubDate>Mon, 21 Oct 2024 15:52:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴西央行行长内托：国内经济增长依然强劲且广泛。]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptx8659981.d.html</link>
-            <guid>3825988</guid>
-            <pubDate>Mon, 21 Oct 2024 13:46:51 GMT</pubDate>
+            <title><![CDATA[美国国家航空航天局（NASA）与SpaceX计划于东部时间10月22日晚上9:05或之后完成与空间站的分离。]]></title>
+            <guid>3826115</guid>
+            <pubDate>Mon, 21 Oct 2024 15:48:11 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【工商银行落地首笔证券、基金、保险公司互换便利（SFISF）工具债券回购交易】工商银行10月21日消息显示，工商银行已与多家证券公司、基金公司达成运用互换债券融资的交易意向，并与头部券商达成市场首笔质押互换央行票据的债券回购交易。工商银行表示，下一步将坚决贯彻落实党中央、国务院决策部署，当好服务实体经济的主力军和维护金融稳定的压舱石，助力促进资本市场健康稳定发展。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctiptz5436468.d.html</link>
-            <guid>3825986</guid>
-            <pubDate>Mon, 21 Oct 2024 13:43:24 GMT</pubDate>
+            <title><![CDATA[市场消息：当地时间周一下午，以色列中部和沙龙地区传出爆炸声。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9051588.d.html</link>
+            <guid>3826114</guid>
+            <pubDate>Mon, 21 Oct 2024 15:42:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【巴西巴拉那州发生车祸致9人死亡】据当地消防部门消息，一辆集装箱拖车和一辆载有赛艇运动员的旅游面包车20日晚在巴西东南部巴拉那州发生车祸，造成9人死亡。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9051362.d.html</link>
+            <guid>3826113</guid>
+            <pubDate>Mon, 21 Oct 2024 15:40:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【本轮黎以冲突已致黎巴嫩2483人死亡】黎巴嫩公共卫生部宣布，自2023年10月8日本轮黎以冲突爆发以来，黎巴嫩已有2483人死亡、11628人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2274068.d.html</link>
+            <guid>3826112</guid>
+            <pubDate>Mon, 21 Oct 2024 15:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【北交所指数翻倍，个股"出圈"，基金经理紧急提示】近日，A股整体在震荡中上行，但北交所的表现更加亮眼，自9月24日启动反弹以来至今，北证50指数累计涨幅超过100%，仅用15个交易日就实现了翻倍。但在大涨之余，已有多名基金经理向记者表达了谨慎乐观的声音：北证50成份股当前营收规模和市值普遍偏小，未来潜在成长空间理论上较大，在经济上行期，盈利和估值弹性均较大。但同时，这也是北证50的主要风险点，一旦经济出现波动，成份股企业抵御风险能力也相对较弱。且北交所整体流动性有待提升，情绪转向时也会面临流动性不足造成的股价大幅波动。（券商中国）]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2273782.d.html</link>
+            <guid>3826110</guid>
+            <pubDate>Mon, 21 Oct 2024 15:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫：俄罗斯总统普京将于10月23日会见伊朗和土耳其的领导人。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzx5329028.d.html</link>
+            <guid>3826109</guid>
+            <pubDate>Mon, 21 Oct 2024 15:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【印度煤炭部官员：希望在六个月内建立煤炭交易所】印度煤炭部官员表示，希望在六个月内建立煤炭交易所；在获得煤炭部批准后，将把煤炭交易提案提交内阁审议；发电行业对进口煤炭的需求持续增长。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2273275.d.html</link>
+            <guid>3826108</guid>
+            <pubDate>Mon, 21 Oct 2024 15:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【苏丹中部城市遭袭 已致5人死亡】当地时间10月21日，苏丹民间组织抵抗委员会表示，苏丹快速支援部队武装人员当天袭击该国中部杰济拉州里法阿市以及市郊多个村庄，共造成5名平民死亡，另有多人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9050322.d.html</link>
+            <guid>3826107</guid>
+            <pubDate>Mon, 21 Oct 2024 15:36:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[克里姆林宫外交政策助理乌沙科夫：普京将于10月24日会见巴勒斯坦总统阿巴斯和联合国秘书长古特雷斯。]]></title>
+            <guid>3826106</guid>
+            <pubDate>Mon, 21 Oct 2024 15:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场资讯：莫斯科与德黑兰讨论伊朗总统访问俄罗斯事宜。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzv8551277.d.html</link>
+            <guid>3826105</guid>
+            <pubDate>Mon, 21 Oct 2024 15:35:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10月21日欧盘美盘重要新闻汇总
+国内新闻：
+1. 中国央行将一年期和五年期贷款市场报价利率（LPR）分别从3.35%和3.85%下调至3.10%和3.60%。
+2. 中共中央、国务院发布关于深化产业工人队伍建设改革的意见。
+3. 人民银行：开展证券、基金、保险公司互换便利首次操作，操作金额500亿元。
+4. 广东印发《广东省加快推动光芯片产业创新发展行动方案（2024—2030年）》：大力推动刻蚀机等光芯片关键装备研发和国产化替代。
+5. 郑商所上调整部分玻璃期货合约交易手续费，玻璃期货2412及2501合约的交易手续费标准和日内平今仓交易手续费标准均调整为10元/手。
+6. 广州地区某国有大行客户经理表示，目前该行贷款利率加减点政策还在讨论过程中，房贷具体政策可能会在明后两天出台。
+7. 接近京东人士称：“监管进驻京东金融”传闻严重失实。
+8. 广东省前三季度实现地区生产总值99939.18亿元，同比增长3.4%。
+9. 国家能源局：截至9月底，全国累计发电装机容量约31.6亿千瓦，同比增长14.1%。
+国际新闻：
+1. 现货黄金站上2740美元/盎司，再创纪录新高。
+2. 越共中央政治局委员、中央书记处常务书记梁强当选新任越南国家主席。
+3. 据外媒消息：以色列向白宫提出了结束黎巴嫩战争的要求，但黎巴嫩和国际社会极不可能同意。
+4. 美国国防部长奥斯汀突访乌克兰首都基辅。]]></title>
+            <guid>3826101</guid>
+            <pubDate>Mon, 21 Oct 2024 15:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国国债期权市场出现280万美元卖盘，这笔交易的目标是美国30年期国债收益率将上涨大约30个基点至4.75%。]]></title>
+            <guid>3826100</guid>
+            <pubDate>Mon, 21 Oct 2024 15:26:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【法国政府发布长期财政计划 预计2029年预算赤字占GDP比重为2.8%】法国政府向议会提交了一项在未来几年控制失控赤字的长期计划。该国正寻求恢复投资者信心并避免欧盟新财政规则下的制裁。法国政府承诺将预算赤字占经济产出的比例从2024年的6.1%降至2029年的2.8%，并从明年开始大幅调整。该计划基于预计经济增长从明年的1.1%加速至2026年的1.4%和2027年的1.5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2270993.d.html</link>
+            <guid>3826099</guid>
+            <pubDate>Mon, 21 Oct 2024 15:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【以军称过去一周拦截超30架飞往以色列的无人机】当地时间10月21日傍晚，以色列国防军发表声明称，过去一周，以军共拦截了30多架飞往以色列的无人机。此外，以军证实，当天以军在地中海上空击落的5架无人机均从黎巴嫩境内发射。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2270874.d.html</link>
+            <guid>3826098</guid>
+            <pubDate>Mon, 21 Oct 2024 15:23:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广汽国际官宣Thomas Schemera加入，出任全球COO】10月21，广汽国际宣布，Thomas Schemera出任广汽国际全球首席运营官（COO）。据介绍，Thomas Schemera来自德国，加入广汽之前曾在宝马、现代等车企担任要职。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzt9046664.d.html</link>
+            <guid>3826095</guid>
+            <pubDate>Mon, 21 Oct 2024 15:14:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【叙利亚首都一辆汽车遭导弹袭击，造成1死1伤】据叙利亚《祖国报》21日报道，叙首都大马士革西部迈宰地区一辆汽车当天遭导弹袭击，造成至少1人死亡、1人受伤。]]></title>
+            <link>https://finance.sina.cn/7x24/2024-10-21/detail-inctitzs2268637.d.html</link>
+            <guid>3826092</guid>
+            <pubDate>Mon, 21 Oct 2024 15:09:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
